@@ -1,0 +1,1941 @@
+{
+  "id": "crate-4281",
+  "name": "Gamma 2 Case",
+  "description": null,
+  "type": "Case",
+  "price": 2.5,
+  "first_sale_date": "2016-08-08",
+  "contains": [
+    {
+      "id": "skin-4131176",
+      "name": "CZ75-Auto | Imprint",
+      "rarity": "Mil-Spec Grade",
+      "paint_index": "602",
+      "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_cz75a_gs_cz75_tread_light.png",
+      "min_float": 0,
+      "max_float": 1,
+      "stattrak": true,
+      "souvenir": false,
+      "wears": [
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_0",
+          "name": "Factory New"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_1",
+          "name": "Minimal Wear"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_2",
+          "name": "Field-Tested"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_3",
+          "name": "Well-Worn"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_4",
+          "name": "Battle-Scarred"
+        }
+      ]
+    },
+    {
+      "id": "skin-199028",
+      "name": "Five-SeveN | Scumbria",
+      "rarity": "Mil-Spec Grade",
+      "paint_index": "605",
+      "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_fiveseven_aq_five_seven_scumbria_light.png",
+      "min_float": 0,
+      "max_float": 1,
+      "stattrak": true,
+      "souvenir": false,
+      "wears": [
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_0",
+          "name": "Factory New"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_1",
+          "name": "Minimal Wear"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_2",
+          "name": "Field-Tested"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_3",
+          "name": "Well-Worn"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_4",
+          "name": "Battle-Scarred"
+        }
+      ]
+    },
+    {
+      "id": "skin-723320",
+      "name": "G3SG1 | Ventilator",
+      "rarity": "Mil-Spec Grade",
+      "paint_index": "606",
+      "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_g3sg1_gs_g3sg1_ventilator_light.png",
+      "min_float": 0,
+      "max_float": 0.45,
+      "stattrak": true,
+      "souvenir": false,
+      "wears": [
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_0",
+          "name": "Factory New"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_1",
+          "name": "Minimal Wear"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_2",
+          "name": "Field-Tested"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_3",
+          "name": "Well-Worn"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_4",
+          "name": "Battle-Scarred"
+        }
+      ]
+    },
+    {
+      "id": "skin-1837448",
+      "name": "Negev | Dazzle",
+      "rarity": "Mil-Spec Grade",
+      "paint_index": "610",
+      "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_negev_hy_negev_dazzle_light.png",
+      "min_float": 0.1,
+      "max_float": 0.65,
+      "stattrak": true,
+      "souvenir": false,
+      "wears": [
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_1",
+          "name": "Minimal Wear"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_2",
+          "name": "Field-Tested"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_3",
+          "name": "Well-Worn"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_4",
+          "name": "Battle-Scarred"
+        }
+      ]
+    },
+    {
+      "id": "skin-1247628",
+      "name": "P90 | Grim",
+      "rarity": "Mil-Spec Grade",
+      "paint_index": "611",
+      "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_p90_cu_p90_grimm_light.png",
+      "min_float": 0,
+      "max_float": 0.8,
+      "stattrak": true,
+      "souvenir": false,
+      "wears": [
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_0",
+          "name": "Factory New"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_1",
+          "name": "Minimal Wear"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_2",
+          "name": "Field-Tested"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_3",
+          "name": "Well-Worn"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_4",
+          "name": "Battle-Scarred"
+        }
+      ]
+    },
+    {
+      "id": "skin-1575324",
+      "name": "UMP-45 | Briefing",
+      "rarity": "Mil-Spec Grade",
+      "paint_index": "615",
+      "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_ump45_cu_ump45_metritera_light.png",
+      "min_float": 0,
+      "max_float": 1,
+      "stattrak": true,
+      "souvenir": false,
+      "wears": [
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_0",
+          "name": "Factory New"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_1",
+          "name": "Minimal Wear"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_2",
+          "name": "Field-Tested"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_3",
+          "name": "Well-Worn"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_4",
+          "name": "Battle-Scarred"
+        }
+      ]
+    },
+    {
+      "id": "skin-1640864",
+      "name": "XM1014 | Slipstream",
+      "rarity": "Mil-Spec Grade",
+      "paint_index": "616",
+      "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_xm1014_hy_xm1014_fractal_blue_light.png",
+      "min_float": 0,
+      "max_float": 0.5,
+      "stattrak": true,
+      "souvenir": false,
+      "wears": [
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_0",
+          "name": "Factory New"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_1",
+          "name": "Minimal Wear"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_2",
+          "name": "Field-Tested"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_3",
+          "name": "Well-Worn"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_4",
+          "name": "Battle-Scarred"
+        }
+      ]
+    },
+    {
+      "id": "skin-67948",
+      "name": "Desert Eagle | Directive",
+      "rarity": "Restricted",
+      "paint_index": "603",
+      "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_deagle_aq_desert_eagle_constable_light.png",
+      "min_float": 0.06,
+      "max_float": 1,
+      "stattrak": true,
+      "souvenir": false,
+      "wears": [
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_0",
+          "name": "Factory New"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_1",
+          "name": "Minimal Wear"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_2",
+          "name": "Field-Tested"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_3",
+          "name": "Well-Worn"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_4",
+          "name": "Battle-Scarred"
+        }
+      ]
+    },
+    {
+      "id": "skin-264572",
+      "name": "Glock-18 | Weasel",
+      "rarity": "Restricted",
+      "paint_index": "607",
+      "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_glock_cu_glock18_weasel_light.png",
+      "min_float": 0,
+      "max_float": 1,
+      "stattrak": true,
+      "souvenir": false,
+      "wears": [
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_0",
+          "name": "Factory New"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_1",
+          "name": "Minimal Wear"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_2",
+          "name": "Field-Tested"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_3",
+          "name": "Well-Worn"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_4",
+          "name": "Battle-Scarred"
+        }
+      ]
+    },
+    {
+      "id": "skin-1771904",
+      "name": "MAG-7 | Petroglyph",
+      "rarity": "Restricted",
+      "paint_index": "608",
+      "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_mag7_cu_mag7_tribal_light.png",
+      "min_float": 0,
+      "max_float": 0.44,
+      "stattrak": true,
+      "souvenir": false,
+      "wears": [
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_0",
+          "name": "Factory New"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_1",
+          "name": "Minimal Wear"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_2",
+          "name": "Field-Tested"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_3",
+          "name": "Well-Worn"
+        }
+      ]
+    },
+    {
+      "id": "skin-2492816",
+      "name": "SCAR-20 | Powercore",
+      "rarity": "Restricted",
+      "paint_index": "612",
+      "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_scar20_gs_scar20_powercore_light.png",
+      "min_float": 0,
+      "max_float": 1,
+      "stattrak": true,
+      "souvenir": false,
+      "wears": [
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_0",
+          "name": "Factory New"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_1",
+          "name": "Minimal Wear"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_2",
+          "name": "Field-Tested"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_3",
+          "name": "Well-Worn"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_4",
+          "name": "Battle-Scarred"
+        }
+      ]
+    },
+    {
+      "id": "skin-2558356",
+      "name": "SG 553 | Triarch",
+      "rarity": "Restricted",
+      "paint_index": "613",
+      "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_sg556_cu_sg556_triarch_light.png",
+      "min_float": 0,
+      "max_float": 1,
+      "stattrak": true,
+      "souvenir": false,
+      "wears": [
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_0",
+          "name": "Factory New"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_1",
+          "name": "Minimal Wear"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_2",
+          "name": "Field-Tested"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_3",
+          "name": "Well-Worn"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_4",
+          "name": "Battle-Scarred"
+        }
+      ]
+    },
+    {
+      "id": "skin-526692",
+      "name": "AUG | Syd Mead",
+      "rarity": "Classified",
+      "paint_index": "601",
+      "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_aug_gs_aug_syd_mead_light.png",
+      "min_float": 0,
+      "max_float": 0.8,
+      "stattrak": true,
+      "souvenir": false,
+      "wears": [
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_0",
+          "name": "Factory New"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_1",
+          "name": "Minimal Wear"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_2",
+          "name": "Field-Tested"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_3",
+          "name": "Well-Worn"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_4",
+          "name": "Battle-Scarred"
+        }
+      ]
+    },
+    {
+      "id": "skin-2230660",
+      "name": "MP9 | Airlock",
+      "rarity": "Classified",
+      "paint_index": "609",
+      "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_mp9_cu_mp9_narcis_light.png",
+      "min_float": 0,
+      "max_float": 1,
+      "stattrak": true,
+      "souvenir": false,
+      "wears": [
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_0",
+          "name": "Factory New"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_1",
+          "name": "Minimal Wear"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_2",
+          "name": "Field-Tested"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_3",
+          "name": "Well-Worn"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_4",
+          "name": "Battle-Scarred"
+        }
+      ]
+    },
+    {
+      "id": "skin-1968536",
+      "name": "Tec-9 | Fuel Injector",
+      "rarity": "Classified",
+      "paint_index": "614",
+      "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_tec9_gs_tec9_supercharged_light.png",
+      "min_float": 0,
+      "max_float": 1,
+      "stattrak": true,
+      "souvenir": false,
+      "wears": [
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_0",
+          "name": "Factory New"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_1",
+          "name": "Minimal Wear"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_2",
+          "name": "Field-Tested"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_3",
+          "name": "Well-Worn"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_4",
+          "name": "Battle-Scarred"
+        }
+      ]
+    },
+    {
+      "id": "skin-461152",
+      "name": "AK-47 | Neon Revolution",
+      "rarity": "Covert",
+      "paint_index": "600",
+      "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_ak47_cu_ak47_anarchy_light.png",
+      "min_float": 0,
+      "max_float": 0.8,
+      "stattrak": true,
+      "souvenir": false,
+      "wears": [
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_0",
+          "name": "Factory New"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_1",
+          "name": "Minimal Wear"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_2",
+          "name": "Field-Tested"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_3",
+          "name": "Well-Worn"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_4",
+          "name": "Battle-Scarred"
+        }
+      ]
+    },
+    {
+      "id": "skin-657776",
+      "name": "FAMAS | Roll Cage",
+      "rarity": "Covert",
+      "paint_index": "604",
+      "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_famas_gs_famas_rally_light.png",
+      "min_float": 0,
+      "max_float": 1,
+      "stattrak": true,
+      "souvenir": false,
+      "wears": [
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_0",
+          "name": "Factory New"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_1",
+          "name": "Minimal Wear"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_2",
+          "name": "Field-Tested"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_3",
+          "name": "Well-Worn"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_4",
+          "name": "Battle-Scarred"
+        }
+      ]
+    }
+  ],
+  "contains_rare": [
+    {
+      "id": "skin-32770272",
+      "name": "★ Bayonet | Gamma Doppler",
+      "rarity": "Covert",
+      "paint_index": "568",
+      "phase": "Emerald",
+      "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_bayonet_am_emerald_marbleized_light.png",
+      "min_float": 0,
+      "max_float": 0.08,
+      "stattrak": true,
+      "souvenir": false,
+      "wears": [
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_0",
+          "name": "Factory New"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_1",
+          "name": "Minimal Wear"
+        }
+      ]
+    },
+    {
+      "id": "skin-32770276",
+      "name": "★ Bayonet | Gamma Doppler",
+      "rarity": "Covert",
+      "paint_index": "569",
+      "phase": "Phase 1",
+      "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_bayonet_am_gamma_doppler_phase1_light.png",
+      "min_float": 0,
+      "max_float": 0.08,
+      "stattrak": true,
+      "souvenir": false,
+      "wears": [
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_0",
+          "name": "Factory New"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_1",
+          "name": "Minimal Wear"
+        }
+      ]
+    },
+    {
+      "id": "skin-32770280",
+      "name": "★ Bayonet | Gamma Doppler",
+      "rarity": "Covert",
+      "paint_index": "570",
+      "phase": "Phase 2",
+      "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_bayonet_am_gamma_doppler_phase2_light.png",
+      "min_float": 0,
+      "max_float": 0.08,
+      "stattrak": true,
+      "souvenir": false,
+      "wears": [
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_0",
+          "name": "Factory New"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_1",
+          "name": "Minimal Wear"
+        }
+      ]
+    },
+    {
+      "id": "skin-32770284",
+      "name": "★ Bayonet | Gamma Doppler",
+      "rarity": "Covert",
+      "paint_index": "571",
+      "phase": "Phase 3",
+      "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_bayonet_am_gamma_doppler_phase3_light.png",
+      "min_float": 0,
+      "max_float": 0.08,
+      "stattrak": true,
+      "souvenir": false,
+      "wears": [
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_0",
+          "name": "Factory New"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_1",
+          "name": "Minimal Wear"
+        }
+      ]
+    },
+    {
+      "id": "skin-32770288",
+      "name": "★ Bayonet | Gamma Doppler",
+      "rarity": "Covert",
+      "paint_index": "572",
+      "phase": "Phase 4",
+      "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_bayonet_am_gamma_doppler_phase4_light.png",
+      "min_float": 0,
+      "max_float": 0.08,
+      "stattrak": true,
+      "souvenir": false,
+      "wears": [
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_0",
+          "name": "Factory New"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_1",
+          "name": "Minimal Wear"
+        }
+      ]
+    },
+    {
+      "id": "skin-32770232",
+      "name": "★ Bayonet | Lore",
+      "rarity": "Covert",
+      "paint_index": "558",
+      "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_bayonet_cu_bayonet_lore_light.png",
+      "min_float": 0,
+      "max_float": 0.65,
+      "stattrak": true,
+      "souvenir": false,
+      "wears": [
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_0",
+          "name": "Factory New"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_1",
+          "name": "Minimal Wear"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_2",
+          "name": "Field-Tested"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_3",
+          "name": "Well-Worn"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_4",
+          "name": "Battle-Scarred"
+        }
+      ]
+    },
+    {
+      "id": "skin-32770292",
+      "name": "★ Bayonet | Autotronic",
+      "rarity": "Covert",
+      "paint_index": "573",
+      "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_bayonet_gs_bayonet_autotronic_light.png",
+      "min_float": 0,
+      "max_float": 0.85,
+      "stattrak": true,
+      "souvenir": false,
+      "wears": [
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_0",
+          "name": "Factory New"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_1",
+          "name": "Minimal Wear"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_2",
+          "name": "Field-Tested"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_3",
+          "name": "Well-Worn"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_4",
+          "name": "Battle-Scarred"
+        }
+      ]
+    },
+    {
+      "id": "skin-32770252",
+      "name": "★ Bayonet | Black Laminate",
+      "rarity": "Covert",
+      "paint_index": "563",
+      "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_bayonet_cu_bayonet_stonewash_light.png",
+      "min_float": 0,
+      "max_float": 1,
+      "stattrak": true,
+      "souvenir": false,
+      "wears": [
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_0",
+          "name": "Factory New"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_1",
+          "name": "Minimal Wear"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_2",
+          "name": "Field-Tested"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_3",
+          "name": "Well-Worn"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_4",
+          "name": "Battle-Scarred"
+        }
+      ]
+    },
+    {
+      "id": "skin-32770320",
+      "name": "★ Bayonet | Freehand",
+      "rarity": "Covert",
+      "paint_index": "580",
+      "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_bayonet_am_marked_up_light.png",
+      "min_float": 0,
+      "max_float": 0.48,
+      "stattrak": true,
+      "souvenir": false,
+      "wears": [
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_0",
+          "name": "Factory New"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_1",
+          "name": "Minimal Wear"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_2",
+          "name": "Field-Tested"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_3",
+          "name": "Well-Worn"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_4",
+          "name": "Battle-Scarred"
+        }
+      ]
+    },
+    {
+      "id": "skin-32770312",
+      "name": "★ Bayonet | Bright Water",
+      "rarity": "Covert",
+      "paint_index": "578",
+      "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_bayonet_hy_ocean_knife_light.png",
+      "min_float": 0,
+      "max_float": 0.5,
+      "stattrak": true,
+      "souvenir": false,
+      "wears": [
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_0",
+          "name": "Factory New"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_1",
+          "name": "Minimal Wear"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_2",
+          "name": "Field-Tested"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_3",
+          "name": "Well-Worn"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_4",
+          "name": "Battle-Scarred"
+        }
+      ]
+    },
+    {
+      "id": "skin-33097952",
+      "name": "★ Flip Knife | Gamma Doppler",
+      "rarity": "Covert",
+      "paint_index": "568",
+      "phase": "Emerald",
+      "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_knife_flip_am_emerald_marbleized_light.png",
+      "min_float": 0,
+      "max_float": 0.08,
+      "stattrak": true,
+      "souvenir": false,
+      "wears": [
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_0",
+          "name": "Factory New"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_1",
+          "name": "Minimal Wear"
+        }
+      ]
+    },
+    {
+      "id": "skin-33097956",
+      "name": "★ Flip Knife | Gamma Doppler",
+      "rarity": "Covert",
+      "paint_index": "569",
+      "phase": "Phase 1",
+      "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_knife_flip_am_gamma_doppler_phase1_light.png",
+      "min_float": 0,
+      "max_float": 0.08,
+      "stattrak": true,
+      "souvenir": false,
+      "wears": [
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_0",
+          "name": "Factory New"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_1",
+          "name": "Minimal Wear"
+        }
+      ]
+    },
+    {
+      "id": "skin-33097960",
+      "name": "★ Flip Knife | Gamma Doppler",
+      "rarity": "Covert",
+      "paint_index": "570",
+      "phase": "Phase 2",
+      "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_knife_flip_am_gamma_doppler_phase2_light.png",
+      "min_float": 0,
+      "max_float": 0.08,
+      "stattrak": true,
+      "souvenir": false,
+      "wears": [
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_0",
+          "name": "Factory New"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_1",
+          "name": "Minimal Wear"
+        }
+      ]
+    },
+    {
+      "id": "skin-33097964",
+      "name": "★ Flip Knife | Gamma Doppler",
+      "rarity": "Covert",
+      "paint_index": "571",
+      "phase": "Phase 3",
+      "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_knife_flip_am_gamma_doppler_phase3_light.png",
+      "min_float": 0,
+      "max_float": 0.08,
+      "stattrak": true,
+      "souvenir": false,
+      "wears": [
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_0",
+          "name": "Factory New"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_1",
+          "name": "Minimal Wear"
+        }
+      ]
+    },
+    {
+      "id": "skin-33097968",
+      "name": "★ Flip Knife | Gamma Doppler",
+      "rarity": "Covert",
+      "paint_index": "572",
+      "phase": "Phase 4",
+      "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_knife_flip_am_gamma_doppler_phase4_light.png",
+      "min_float": 0,
+      "max_float": 0.08,
+      "stattrak": true,
+      "souvenir": false,
+      "wears": [
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_0",
+          "name": "Factory New"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_1",
+          "name": "Minimal Wear"
+        }
+      ]
+    },
+    {
+      "id": "skin-33097916",
+      "name": "★ Flip Knife | Lore",
+      "rarity": "Covert",
+      "paint_index": "559",
+      "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_knife_flip_cu_flip_lore_light.png",
+      "min_float": 0,
+      "max_float": 0.65,
+      "stattrak": true,
+      "souvenir": false,
+      "wears": [
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_0",
+          "name": "Factory New"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_1",
+          "name": "Minimal Wear"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_2",
+          "name": "Field-Tested"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_3",
+          "name": "Well-Worn"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_4",
+          "name": "Battle-Scarred"
+        }
+      ]
+    },
+    {
+      "id": "skin-33097976",
+      "name": "★ Flip Knife | Autotronic",
+      "rarity": "Covert",
+      "paint_index": "574",
+      "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_knife_flip_gs_flip_autotronic_light.png",
+      "min_float": 0,
+      "max_float": 0.85,
+      "stattrak": true,
+      "souvenir": false,
+      "wears": [
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_0",
+          "name": "Factory New"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_1",
+          "name": "Minimal Wear"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_2",
+          "name": "Field-Tested"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_3",
+          "name": "Well-Worn"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_4",
+          "name": "Battle-Scarred"
+        }
+      ]
+    },
+    {
+      "id": "skin-33097936",
+      "name": "★ Flip Knife | Black Laminate",
+      "rarity": "Covert",
+      "paint_index": "564",
+      "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_knife_flip_cu_flip_stonewash_light.png",
+      "min_float": 0,
+      "max_float": 1,
+      "stattrak": true,
+      "souvenir": false,
+      "wears": [
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_0",
+          "name": "Factory New"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_1",
+          "name": "Minimal Wear"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_2",
+          "name": "Field-Tested"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_3",
+          "name": "Well-Worn"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_4",
+          "name": "Battle-Scarred"
+        }
+      ]
+    },
+    {
+      "id": "skin-33098000",
+      "name": "★ Flip Knife | Freehand",
+      "rarity": "Covert",
+      "paint_index": "580",
+      "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_knife_flip_am_marked_up_light.png",
+      "min_float": 0,
+      "max_float": 0.48,
+      "stattrak": true,
+      "souvenir": false,
+      "wears": [
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_0",
+          "name": "Factory New"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_1",
+          "name": "Minimal Wear"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_2",
+          "name": "Field-Tested"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_3",
+          "name": "Well-Worn"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_4",
+          "name": "Battle-Scarred"
+        }
+      ]
+    },
+    {
+      "id": "skin-33097992",
+      "name": "★ Flip Knife | Bright Water",
+      "rarity": "Covert",
+      "paint_index": "578",
+      "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_knife_flip_hy_ocean_knife_light.png",
+      "min_float": 0,
+      "max_float": 0.5,
+      "stattrak": true,
+      "souvenir": false,
+      "wears": [
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_0",
+          "name": "Factory New"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_1",
+          "name": "Minimal Wear"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_2",
+          "name": "Field-Tested"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_3",
+          "name": "Well-Worn"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_4",
+          "name": "Battle-Scarred"
+        }
+      ]
+    },
+    {
+      "id": "skin-33163488",
+      "name": "★ Gut Knife | Gamma Doppler",
+      "rarity": "Covert",
+      "paint_index": "568",
+      "phase": "Emerald",
+      "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_knife_gut_am_emerald_marbleized_light.png",
+      "min_float": 0,
+      "max_float": 0.08,
+      "stattrak": true,
+      "souvenir": false,
+      "wears": [
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_0",
+          "name": "Factory New"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_1",
+          "name": "Minimal Wear"
+        }
+      ]
+    },
+    {
+      "id": "skin-33163492",
+      "name": "★ Gut Knife | Gamma Doppler",
+      "rarity": "Covert",
+      "paint_index": "569",
+      "phase": "Phase 1",
+      "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_knife_gut_am_gamma_doppler_phase1_light.png",
+      "min_float": 0,
+      "max_float": 0.08,
+      "stattrak": true,
+      "souvenir": false,
+      "wears": [
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_0",
+          "name": "Factory New"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_1",
+          "name": "Minimal Wear"
+        }
+      ]
+    },
+    {
+      "id": "skin-33163496",
+      "name": "★ Gut Knife | Gamma Doppler",
+      "rarity": "Covert",
+      "paint_index": "570",
+      "phase": "Phase 2",
+      "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_knife_gut_am_gamma_doppler_phase2_light.png",
+      "min_float": 0,
+      "max_float": 0.08,
+      "stattrak": true,
+      "souvenir": false,
+      "wears": [
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_0",
+          "name": "Factory New"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_1",
+          "name": "Minimal Wear"
+        }
+      ]
+    },
+    {
+      "id": "skin-33163500",
+      "name": "★ Gut Knife | Gamma Doppler",
+      "rarity": "Covert",
+      "paint_index": "571",
+      "phase": "Phase 3",
+      "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_knife_gut_am_gamma_doppler_phase3_light.png",
+      "min_float": 0,
+      "max_float": 0.08,
+      "stattrak": true,
+      "souvenir": false,
+      "wears": [
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_0",
+          "name": "Factory New"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_1",
+          "name": "Minimal Wear"
+        }
+      ]
+    },
+    {
+      "id": "skin-33163504",
+      "name": "★ Gut Knife | Gamma Doppler",
+      "rarity": "Covert",
+      "paint_index": "572",
+      "phase": "Phase 4",
+      "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_knife_gut_am_gamma_doppler_phase4_light.png",
+      "min_float": 0,
+      "max_float": 0.08,
+      "stattrak": true,
+      "souvenir": false,
+      "wears": [
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_0",
+          "name": "Factory New"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_1",
+          "name": "Minimal Wear"
+        }
+      ]
+    },
+    {
+      "id": "skin-33163456",
+      "name": "★ Gut Knife | Lore",
+      "rarity": "Covert",
+      "paint_index": "560",
+      "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_knife_gut_cu_gut_lore_light.png",
+      "min_float": 0,
+      "max_float": 0.65,
+      "stattrak": true,
+      "souvenir": false,
+      "wears": [
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_0",
+          "name": "Factory New"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_1",
+          "name": "Minimal Wear"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_2",
+          "name": "Field-Tested"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_3",
+          "name": "Well-Worn"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_4",
+          "name": "Battle-Scarred"
+        }
+      ]
+    },
+    {
+      "id": "skin-33163516",
+      "name": "★ Gut Knife | Autotronic",
+      "rarity": "Covert",
+      "paint_index": "575",
+      "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_knife_gut_gs_gut_autotronic_light.png",
+      "min_float": 0,
+      "max_float": 0.85,
+      "stattrak": true,
+      "souvenir": false,
+      "wears": [
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_0",
+          "name": "Factory New"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_1",
+          "name": "Minimal Wear"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_2",
+          "name": "Field-Tested"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_3",
+          "name": "Well-Worn"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_4",
+          "name": "Battle-Scarred"
+        }
+      ]
+    },
+    {
+      "id": "skin-33163476",
+      "name": "★ Gut Knife | Black Laminate",
+      "rarity": "Covert",
+      "paint_index": "565",
+      "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_knife_gut_cu_gut_stonewash_light.png",
+      "min_float": 0,
+      "max_float": 1,
+      "stattrak": true,
+      "souvenir": false,
+      "wears": [
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_0",
+          "name": "Factory New"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_1",
+          "name": "Minimal Wear"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_2",
+          "name": "Field-Tested"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_3",
+          "name": "Well-Worn"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_4",
+          "name": "Battle-Scarred"
+        }
+      ]
+    },
+    {
+      "id": "skin-33163528",
+      "name": "★ Gut Knife | Bright Water",
+      "rarity": "Covert",
+      "paint_index": "578",
+      "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_knife_gut_hy_ocean_knife_light.png",
+      "min_float": 0,
+      "max_float": 0.5,
+      "stattrak": true,
+      "souvenir": false,
+      "wears": [
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_0",
+          "name": "Factory New"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_1",
+          "name": "Minimal Wear"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_2",
+          "name": "Field-Tested"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_3",
+          "name": "Well-Worn"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_4",
+          "name": "Battle-Scarred"
+        }
+      ]
+    },
+    {
+      "id": "skin-33163536",
+      "name": "★ Gut Knife | Freehand",
+      "rarity": "Covert",
+      "paint_index": "580",
+      "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_knife_gut_am_marked_up_light.png",
+      "min_float": 0,
+      "max_float": 0.48,
+      "stattrak": true,
+      "souvenir": false,
+      "wears": [
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_0",
+          "name": "Factory New"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_1",
+          "name": "Minimal Wear"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_2",
+          "name": "Field-Tested"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_3",
+          "name": "Well-Worn"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_4",
+          "name": "Battle-Scarred"
+        }
+      ]
+    },
+    {
+      "id": "skin-33229024",
+      "name": "★ Karambit | Gamma Doppler",
+      "rarity": "Covert",
+      "paint_index": "568",
+      "phase": "Emerald",
+      "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_knife_karambit_am_emerald_marbleized_light.png",
+      "min_float": 0,
+      "max_float": 0.08,
+      "stattrak": true,
+      "souvenir": false,
+      "wears": [
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_0",
+          "name": "Factory New"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_1",
+          "name": "Minimal Wear"
+        }
+      ]
+    },
+    {
+      "id": "skin-33229028",
+      "name": "★ Karambit | Gamma Doppler",
+      "rarity": "Covert",
+      "paint_index": "569",
+      "phase": "Phase 1",
+      "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_knife_karambit_am_gamma_doppler_phase1_light.png",
+      "min_float": 0,
+      "max_float": 0.08,
+      "stattrak": true,
+      "souvenir": false,
+      "wears": [
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_0",
+          "name": "Factory New"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_1",
+          "name": "Minimal Wear"
+        }
+      ]
+    },
+    {
+      "id": "skin-33229032",
+      "name": "★ Karambit | Gamma Doppler",
+      "rarity": "Covert",
+      "paint_index": "570",
+      "phase": "Phase 2",
+      "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_knife_karambit_am_gamma_doppler_phase2_light.png",
+      "min_float": 0,
+      "max_float": 0.08,
+      "stattrak": true,
+      "souvenir": false,
+      "wears": [
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_0",
+          "name": "Factory New"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_1",
+          "name": "Minimal Wear"
+        }
+      ]
+    },
+    {
+      "id": "skin-33229036",
+      "name": "★ Karambit | Gamma Doppler",
+      "rarity": "Covert",
+      "paint_index": "571",
+      "phase": "Phase 3",
+      "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_knife_karambit_am_gamma_doppler_phase3_light.png",
+      "min_float": 0,
+      "max_float": 0.08,
+      "stattrak": true,
+      "souvenir": false,
+      "wears": [
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_0",
+          "name": "Factory New"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_1",
+          "name": "Minimal Wear"
+        }
+      ]
+    },
+    {
+      "id": "skin-33229040",
+      "name": "★ Karambit | Gamma Doppler",
+      "rarity": "Covert",
+      "paint_index": "572",
+      "phase": "Phase 4",
+      "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_knife_karambit_am_gamma_doppler_phase4_light.png",
+      "min_float": 0,
+      "max_float": 0.08,
+      "stattrak": true,
+      "souvenir": false,
+      "wears": [
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_0",
+          "name": "Factory New"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_1",
+          "name": "Minimal Wear"
+        }
+      ]
+    },
+    {
+      "id": "skin-33228996",
+      "name": "★ Karambit | Lore",
+      "rarity": "Covert",
+      "paint_index": "561",
+      "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_knife_karambit_cu_karam_lore_light.png",
+      "min_float": 0,
+      "max_float": 0.65,
+      "stattrak": true,
+      "souvenir": false,
+      "wears": [
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_0",
+          "name": "Factory New"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_1",
+          "name": "Minimal Wear"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_2",
+          "name": "Field-Tested"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_3",
+          "name": "Well-Worn"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_4",
+          "name": "Battle-Scarred"
+        }
+      ]
+    },
+    {
+      "id": "skin-33229056",
+      "name": "★ Karambit | Autotronic",
+      "rarity": "Covert",
+      "paint_index": "576",
+      "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_knife_karambit_gs_karam_autotronic_light.png",
+      "min_float": 0,
+      "max_float": 0.85,
+      "stattrak": true,
+      "souvenir": false,
+      "wears": [
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_0",
+          "name": "Factory New"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_1",
+          "name": "Minimal Wear"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_2",
+          "name": "Field-Tested"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_3",
+          "name": "Well-Worn"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_4",
+          "name": "Battle-Scarred"
+        }
+      ]
+    },
+    {
+      "id": "skin-33229016",
+      "name": "★ Karambit | Black Laminate",
+      "rarity": "Covert",
+      "paint_index": "566",
+      "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_knife_karambit_cu_karam_stonewash_light.png",
+      "min_float": 0,
+      "max_float": 1,
+      "stattrak": true,
+      "souvenir": false,
+      "wears": [
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_0",
+          "name": "Factory New"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_1",
+          "name": "Minimal Wear"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_2",
+          "name": "Field-Tested"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_3",
+          "name": "Well-Worn"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_4",
+          "name": "Battle-Scarred"
+        }
+      ]
+    },
+    {
+      "id": "skin-33229080",
+      "name": "★ Karambit | Freehand",
+      "rarity": "Covert",
+      "paint_index": "582",
+      "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_knife_karambit_am_marked_up_fine_light.png",
+      "min_float": 0,
+      "max_float": 0.48,
+      "stattrak": true,
+      "souvenir": false,
+      "wears": [
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_0",
+          "name": "Factory New"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_1",
+          "name": "Minimal Wear"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_2",
+          "name": "Field-Tested"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_3",
+          "name": "Well-Worn"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_4",
+          "name": "Battle-Scarred"
+        }
+      ]
+    },
+    {
+      "id": "skin-33229064",
+      "name": "★ Karambit | Bright Water",
+      "rarity": "Covert",
+      "paint_index": "578",
+      "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_knife_karambit_hy_ocean_knife_light.png",
+      "min_float": 0,
+      "max_float": 0.5,
+      "stattrak": true,
+      "souvenir": false,
+      "wears": [
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_0",
+          "name": "Factory New"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_1",
+          "name": "Minimal Wear"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_2",
+          "name": "Field-Tested"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_3",
+          "name": "Well-Worn"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_4",
+          "name": "Battle-Scarred"
+        }
+      ]
+    },
+    {
+      "id": "skin-33294560",
+      "name": "★ M9 Bayonet | Gamma Doppler",
+      "rarity": "Covert",
+      "paint_index": "568",
+      "phase": "Emerald",
+      "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_knife_m9_bayonet_am_emerald_marbleized_light.png",
+      "min_float": 0,
+      "max_float": 0.08,
+      "stattrak": true,
+      "souvenir": false,
+      "wears": [
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_0",
+          "name": "Factory New"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_1",
+          "name": "Minimal Wear"
+        }
+      ]
+    },
+    {
+      "id": "skin-33294564",
+      "name": "★ M9 Bayonet | Gamma Doppler",
+      "rarity": "Covert",
+      "paint_index": "569",
+      "phase": "Phase 1",
+      "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_knife_m9_bayonet_am_gamma_doppler_phase1_light.png",
+      "min_float": 0,
+      "max_float": 0.08,
+      "stattrak": true,
+      "souvenir": false,
+      "wears": [
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_0",
+          "name": "Factory New"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_1",
+          "name": "Minimal Wear"
+        }
+      ]
+    },
+    {
+      "id": "skin-33294568",
+      "name": "★ M9 Bayonet | Gamma Doppler",
+      "rarity": "Covert",
+      "paint_index": "570",
+      "phase": "Phase 2",
+      "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_knife_m9_bayonet_am_gamma_doppler_phase2_light.png",
+      "min_float": 0,
+      "max_float": 0.08,
+      "stattrak": true,
+      "souvenir": false,
+      "wears": [
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_0",
+          "name": "Factory New"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_1",
+          "name": "Minimal Wear"
+        }
+      ]
+    },
+    {
+      "id": "skin-33294572",
+      "name": "★ M9 Bayonet | Gamma Doppler",
+      "rarity": "Covert",
+      "paint_index": "571",
+      "phase": "Phase 3",
+      "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_knife_m9_bayonet_am_gamma_doppler_phase3_light.png",
+      "min_float": 0,
+      "max_float": 0.08,
+      "stattrak": true,
+      "souvenir": false,
+      "wears": [
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_0",
+          "name": "Factory New"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_1",
+          "name": "Minimal Wear"
+        }
+      ]
+    },
+    {
+      "id": "skin-33294576",
+      "name": "★ M9 Bayonet | Gamma Doppler",
+      "rarity": "Covert",
+      "paint_index": "572",
+      "phase": "Phase 4",
+      "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_knife_m9_bayonet_am_gamma_doppler_phase4_light.png",
+      "min_float": 0,
+      "max_float": 0.08,
+      "stattrak": true,
+      "souvenir": false,
+      "wears": [
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_0",
+          "name": "Factory New"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_1",
+          "name": "Minimal Wear"
+        }
+      ]
+    },
+    {
+      "id": "skin-33294536",
+      "name": "★ M9 Bayonet | Lore",
+      "rarity": "Covert",
+      "paint_index": "562",
+      "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_knife_m9_bayonet_cu_m9_bay_lore_light.png",
+      "min_float": 0,
+      "max_float": 0.65,
+      "stattrak": true,
+      "souvenir": false,
+      "wears": [
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_0",
+          "name": "Factory New"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_1",
+          "name": "Minimal Wear"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_2",
+          "name": "Field-Tested"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_3",
+          "name": "Well-Worn"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_4",
+          "name": "Battle-Scarred"
+        }
+      ]
+    },
+    {
+      "id": "skin-33294596",
+      "name": "★ M9 Bayonet | Autotronic",
+      "rarity": "Covert",
+      "paint_index": "577",
+      "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_knife_m9_bayonet_gs_m9_bay_autotronic_light.png",
+      "min_float": 0,
+      "max_float": 0.85,
+      "stattrak": true,
+      "souvenir": false,
+      "wears": [
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_0",
+          "name": "Factory New"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_1",
+          "name": "Minimal Wear"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_2",
+          "name": "Field-Tested"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_3",
+          "name": "Well-Worn"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_4",
+          "name": "Battle-Scarred"
+        }
+      ]
+    },
+    {
+      "id": "skin-33294556",
+      "name": "★ M9 Bayonet | Black Laminate",
+      "rarity": "Covert",
+      "paint_index": "567",
+      "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_knife_m9_bayonet_cu_m9_bay_stonewash_light.png",
+      "min_float": 0,
+      "max_float": 1,
+      "stattrak": true,
+      "souvenir": false,
+      "wears": [
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_0",
+          "name": "Factory New"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_1",
+          "name": "Minimal Wear"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_2",
+          "name": "Field-Tested"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_3",
+          "name": "Well-Worn"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_4",
+          "name": "Battle-Scarred"
+        }
+      ]
+    },
+    {
+      "id": "skin-33294604",
+      "name": "★ M9 Bayonet | Bright Water",
+      "rarity": "Covert",
+      "paint_index": "579",
+      "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_knife_m9_bayonet_hy_ocean_knife_90_light.png",
+      "min_float": 0,
+      "max_float": 0.5,
+      "stattrak": true,
+      "souvenir": false,
+      "wears": [
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_0",
+          "name": "Factory New"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_1",
+          "name": "Minimal Wear"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_2",
+          "name": "Field-Tested"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_3",
+          "name": "Well-Worn"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_4",
+          "name": "Battle-Scarred"
+        }
+      ]
+    },
+    {
+      "id": "skin-33294612",
+      "name": "★ M9 Bayonet | Freehand",
+      "rarity": "Covert",
+      "paint_index": "581",
+      "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_knife_m9_bayonet_am_marked_up_90_light.png",
+      "min_float": 0,
+      "max_float": 0.48,
+      "stattrak": true,
+      "souvenir": false,
+      "wears": [
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_0",
+          "name": "Factory New"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_1",
+          "name": "Minimal Wear"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_2",
+          "name": "Field-Tested"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_3",
+          "name": "Well-Worn"
+        },
+        {
+          "id": "SFUI_InvTooltip_Wear_Amount_4",
+          "name": "Battle-Scarred"
+        }
+      ]
+    }
+  ],
+  "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_gamma_2.ab916b78e7093039642cc7538466bf87cf314363.png"
+}
