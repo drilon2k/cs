@@ -1,0 +1,92 @@
+[
+  {
+    "name": "StatTrak™ M4A1-S | Emphorosaur-S (Field-Tested)",
+    "price": 2.26,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "M4A1-S | Emphorosaur-S",
+    "id": "skin-3937052"
+  },
+  {
+    "name": "StatTrak™ M4A1-S | Emphorosaur-S (Battle-Scarred)",
+    "price": 2.13,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "M4A1-S | Emphorosaur-S",
+    "id": "skin-3937052"
+  },
+  {
+    "name": "StatTrak™ M4A1-S | Emphorosaur-S (Minimal Wear)",
+    "price": 4.21,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "M4A1-S | Emphorosaur-S",
+    "id": "skin-3937052"
+  },
+  {
+    "name": "M4A1-S | Emphorosaur-S (Well-Worn)",
+    "price": 1.03,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M4A1-S | Emphorosaur-S",
+    "id": "skin-3937052"
+  },
+  {
+    "name": "StatTrak™ M4A1-S | Emphorosaur-S (Well-Worn)",
+    "price": 3.51,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "M4A1-S | Emphorosaur-S",
+    "id": "skin-3937052"
+  },
+  {
+    "name": "M4A1-S | Emphorosaur-S (Factory New)",
+    "price": 2.74,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M4A1-S | Emphorosaur-S",
+    "id": "skin-3937052"
+  },
+  {
+    "name": "M4A1-S | Emphorosaur-S (Battle-Scarred)",
+    "price": 0.54,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M4A1-S | Emphorosaur-S",
+    "id": "skin-3937052"
+  },
+  {
+    "name": "StatTrak™ M4A1-S | Emphorosaur-S (Factory New)",
+    "price": 11.78,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "M4A1-S | Emphorosaur-S",
+    "id": "skin-3937052"
+  },
+  {
+    "name": "M4A1-S | Emphorosaur-S (Field-Tested)",
+    "price": 0.64,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M4A1-S | Emphorosaur-S",
+    "id": "skin-3937052"
+  },
+  {
+    "name": "M4A1-S | Emphorosaur-S (Minimal Wear)",
+    "price": 1.35,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M4A1-S | Emphorosaur-S",
+    "id": "skin-3937052"
+  }
+]

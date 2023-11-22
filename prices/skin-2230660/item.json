@@ -1,0 +1,92 @@
+[
+  {
+    "name": "StatTrak™ MP9 | Airlock (Factory New)",
+    "price": 18.92,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MP9 | Airlock",
+    "id": "skin-2230660"
+  },
+  {
+    "name": "StatTrak™ MP9 | Airlock (Field-Tested)",
+    "price": 2.98,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MP9 | Airlock",
+    "id": "skin-2230660"
+  },
+  {
+    "name": "MP9 | Airlock (Field-Tested)",
+    "price": 1.22,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MP9 | Airlock",
+    "id": "skin-2230660"
+  },
+  {
+    "name": "StatTrak™ MP9 | Airlock (Battle-Scarred)",
+    "price": 2.96,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MP9 | Airlock",
+    "id": "skin-2230660"
+  },
+  {
+    "name": "StatTrak™ MP9 | Airlock (Well-Worn)",
+    "price": 2.72,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MP9 | Airlock",
+    "id": "skin-2230660"
+  },
+  {
+    "name": "StatTrak™ MP9 | Airlock (Minimal Wear)",
+    "price": 5.49,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MP9 | Airlock",
+    "id": "skin-2230660"
+  },
+  {
+    "name": "MP9 | Airlock (Well-Worn)",
+    "price": 1.06,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MP9 | Airlock",
+    "id": "skin-2230660"
+  },
+  {
+    "name": "MP9 | Airlock (Battle-Scarred)",
+    "price": 1,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MP9 | Airlock",
+    "id": "skin-2230660"
+  },
+  {
+    "name": "MP9 | Airlock (Factory New)",
+    "price": 7.09,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MP9 | Airlock",
+    "id": "skin-2230660"
+  },
+  {
+    "name": "MP9 | Airlock (Minimal Wear)",
+    "price": 2.54,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MP9 | Airlock",
+    "id": "skin-2230660"
+  }
+]

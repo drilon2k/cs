@@ -1,0 +1,92 @@
+[
+  {
+    "name": "★ StatTrak™ Bowie Knife | Scorched (Field-Tested)",
+    "price": 95.99,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Bowie Knife | Scorched",
+    "id": "skin-33686204"
+  },
+  {
+    "name": "★ Bowie Knife | Scorched (Minimal Wear)",
+    "price": 105.39,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Bowie Knife | Scorched",
+    "id": "skin-33686204"
+  },
+  {
+    "name": "★ StatTrak™ Bowie Knife | Scorched (Minimal Wear)",
+    "price": 0,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Bowie Knife | Scorched",
+    "id": "skin-33686204"
+  },
+  {
+    "name": "★ StatTrak™ Bowie Knife | Scorched (Well-Worn)",
+    "price": 95.92,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Bowie Knife | Scorched",
+    "id": "skin-33686204"
+  },
+  {
+    "name": "★ StatTrak™ Bowie Knife | Scorched (Battle-Scarred)",
+    "price": 95.99,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Bowie Knife | Scorched",
+    "id": "skin-33686204"
+  },
+  {
+    "name": "★ StatTrak™ Bowie Knife | Scorched (Factory New)",
+    "price": 0,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Bowie Knife | Scorched",
+    "id": "skin-33686204"
+  },
+  {
+    "name": "★ Bowie Knife | Scorched (Factory New)",
+    "price": 0,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Bowie Knife | Scorched",
+    "id": "skin-33686204"
+  },
+  {
+    "name": "★ Bowie Knife | Scorched (Field-Tested)",
+    "price": 83.65,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Bowie Knife | Scorched",
+    "id": "skin-33686204"
+  },
+  {
+    "name": "★ Bowie Knife | Scorched (Well-Worn)",
+    "price": 82.9,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Bowie Knife | Scorched",
+    "id": "skin-33686204"
+  },
+  {
+    "name": "★ Bowie Knife | Scorched (Battle-Scarred)",
+    "price": 85.02,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Bowie Knife | Scorched",
+    "id": "skin-33686204"
+  }
+]

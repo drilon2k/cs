@@ -1,0 +1,92 @@
+[
+  {
+    "name": "StatTrak™ MP5-SD | Necro Jr. (Factory New)",
+    "price": 1.2,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MP5-SD | Necro Jr.",
+    "id": "skin-1511876"
+  },
+  {
+    "name": "StatTrak™ MP5-SD | Necro Jr. (Battle-Scarred)",
+    "price": 0.17,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MP5-SD | Necro Jr.",
+    "id": "skin-1511876"
+  },
+  {
+    "name": "StatTrak™ MP5-SD | Necro Jr. (Well-Worn)",
+    "price": 0.12,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MP5-SD | Necro Jr.",
+    "id": "skin-1511876"
+  },
+  {
+    "name": "MP5-SD | Necro Jr. (Battle-Scarred)",
+    "price": 0.05,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MP5-SD | Necro Jr.",
+    "id": "skin-1511876"
+  },
+  {
+    "name": "StatTrak™ MP5-SD | Necro Jr. (Field-Tested)",
+    "price": 0.11,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MP5-SD | Necro Jr.",
+    "id": "skin-1511876"
+  },
+  {
+    "name": "MP5-SD | Necro Jr. (Field-Tested)",
+    "price": 0.05,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MP5-SD | Necro Jr.",
+    "id": "skin-1511876"
+  },
+  {
+    "name": "MP5-SD | Necro Jr. (Minimal Wear)",
+    "price": 0.11,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MP5-SD | Necro Jr.",
+    "id": "skin-1511876"
+  },
+  {
+    "name": "MP5-SD | Necro Jr. (Factory New)",
+    "price": 0.21,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MP5-SD | Necro Jr.",
+    "id": "skin-1511876"
+  },
+  {
+    "name": "MP5-SD | Necro Jr. (Well-Worn)",
+    "price": 0.04,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MP5-SD | Necro Jr.",
+    "id": "skin-1511876"
+  },
+  {
+    "name": "StatTrak™ MP5-SD | Necro Jr. (Minimal Wear)",
+    "price": 0.34,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MP5-SD | Necro Jr.",
+    "id": "skin-1511876"
+  }
+]

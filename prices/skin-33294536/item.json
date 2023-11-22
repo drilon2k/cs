@@ -1,0 +1,92 @@
+[
+  {
+    "name": "★ StatTrak™ M9 Bayonet | Lore (Field-Tested)",
+    "price": 802.22,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ M9 Bayonet | Lore",
+    "id": "skin-33294536"
+  },
+  {
+    "name": "★ M9 Bayonet | Lore (Well-Worn)",
+    "price": 589.66,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ M9 Bayonet | Lore",
+    "id": "skin-33294536"
+  },
+  {
+    "name": "★ M9 Bayonet | Lore (Factory New)",
+    "price": 2440.79,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ M9 Bayonet | Lore",
+    "id": "skin-33294536"
+  },
+  {
+    "name": "★ M9 Bayonet | Lore (Battle-Scarred)",
+    "price": 466.11,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ M9 Bayonet | Lore",
+    "id": "skin-33294536"
+  },
+  {
+    "name": "★ M9 Bayonet | Lore (Minimal Wear)",
+    "price": 1508.3,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ M9 Bayonet | Lore",
+    "id": "skin-33294536"
+  },
+  {
+    "name": "★ M9 Bayonet | Lore (Field-Tested)",
+    "price": 760.87,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ M9 Bayonet | Lore",
+    "id": "skin-33294536"
+  },
+  {
+    "name": "★ StatTrak™ M9 Bayonet | Lore (Factory New)",
+    "price": 2262.66,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ M9 Bayonet | Lore",
+    "id": "skin-33294536"
+  },
+  {
+    "name": "★ StatTrak™ M9 Bayonet | Lore (Well-Worn)",
+    "price": 795.36,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ M9 Bayonet | Lore",
+    "id": "skin-33294536"
+  },
+  {
+    "name": "★ StatTrak™ M9 Bayonet | Lore (Minimal Wear)",
+    "price": 1577.01,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ M9 Bayonet | Lore",
+    "id": "skin-33294536"
+  },
+  {
+    "name": "★ StatTrak™ M9 Bayonet | Lore (Battle-Scarred)",
+    "price": 479.82,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ M9 Bayonet | Lore",
+    "id": "skin-33294536"
+  }
+]

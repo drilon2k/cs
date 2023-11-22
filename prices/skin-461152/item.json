@@ -1,0 +1,92 @@
+[
+  {
+    "name": "AK-47 | Neon Revolution (Well-Worn)",
+    "price": 16.46,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AK-47 | Neon Revolution",
+    "id": "skin-461152"
+  },
+  {
+    "name": "StatTrak™ AK-47 | Neon Revolution (Battle-Scarred)",
+    "price": 32.64,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AK-47 | Neon Revolution",
+    "id": "skin-461152"
+  },
+  {
+    "name": "StatTrak™ AK-47 | Neon Revolution (Minimal Wear)",
+    "price": 53.48,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AK-47 | Neon Revolution",
+    "id": "skin-461152"
+  },
+  {
+    "name": "StatTrak™ AK-47 | Neon Revolution (Field-Tested)",
+    "price": 32.21,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AK-47 | Neon Revolution",
+    "id": "skin-461152"
+  },
+  {
+    "name": "AK-47 | Neon Revolution (Field-Tested)",
+    "price": 10.79,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AK-47 | Neon Revolution",
+    "id": "skin-461152"
+  },
+  {
+    "name": "StatTrak™ AK-47 | Neon Revolution (Factory New)",
+    "price": 133.91,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AK-47 | Neon Revolution",
+    "id": "skin-461152"
+  },
+  {
+    "name": "AK-47 | Neon Revolution (Factory New)",
+    "price": 49.44,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AK-47 | Neon Revolution",
+    "id": "skin-461152"
+  },
+  {
+    "name": "AK-47 | Neon Revolution (Battle-Scarred)",
+    "price": 10.41,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AK-47 | Neon Revolution",
+    "id": "skin-461152"
+  },
+  {
+    "name": "AK-47 | Neon Revolution (Minimal Wear)",
+    "price": 18.92,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AK-47 | Neon Revolution",
+    "id": "skin-461152"
+  },
+  {
+    "name": "StatTrak™ AK-47 | Neon Revolution (Well-Worn)",
+    "price": 45.6,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AK-47 | Neon Revolution",
+    "id": "skin-461152"
+  }
+]

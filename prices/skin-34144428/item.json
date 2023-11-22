@@ -1,0 +1,92 @@
+[
+  {
+    "name": "★ Nomad Knife | Stained (Factory New)",
+    "price": 368.61,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Nomad Knife | Stained",
+    "id": "skin-34144428"
+  },
+  {
+    "name": "★ Nomad Knife | Stained (Field-Tested)",
+    "price": 213.65,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Nomad Knife | Stained",
+    "id": "skin-34144428"
+  },
+  {
+    "name": "★ Nomad Knife | Stained (Well-Worn)",
+    "price": 186.5,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Nomad Knife | Stained",
+    "id": "skin-34144428"
+  },
+  {
+    "name": "★ StatTrak™ Nomad Knife | Stained (Battle-Scarred)",
+    "price": 177.86,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Nomad Knife | Stained",
+    "id": "skin-34144428"
+  },
+  {
+    "name": "★ StatTrak™ Nomad Knife | Stained (Field-Tested)",
+    "price": 191.98,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Nomad Knife | Stained",
+    "id": "skin-34144428"
+  },
+  {
+    "name": "★ Nomad Knife | Stained (Minimal Wear)",
+    "price": 243.96,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Nomad Knife | Stained",
+    "id": "skin-34144428"
+  },
+  {
+    "name": "★ StatTrak™ Nomad Knife | Stained (Minimal Wear)",
+    "price": 272.34,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Nomad Knife | Stained",
+    "id": "skin-34144428"
+  },
+  {
+    "name": "★ StatTrak™ Nomad Knife | Stained (Factory New)",
+    "price": 532.07,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Nomad Knife | Stained",
+    "id": "skin-34144428"
+  },
+  {
+    "name": "★ Nomad Knife | Stained (Battle-Scarred)",
+    "price": 173.47,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Nomad Knife | Stained",
+    "id": "skin-34144428"
+  },
+  {
+    "name": "★ StatTrak™ Nomad Knife | Stained (Well-Worn)",
+    "price": 194.45,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Nomad Knife | Stained",
+    "id": "skin-34144428"
+  }
+]

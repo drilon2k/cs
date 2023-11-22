@@ -1,0 +1,92 @@
+[
+  {
+    "name": "StatTrak™ Tec-9 | Flash Out (Well-Worn)",
+    "price": 0.29,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Tec-9 | Flash Out",
+    "id": "skin-1969700"
+  },
+  {
+    "name": "Tec-9 | Flash Out (Well-Worn)",
+    "price": 0.1,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Tec-9 | Flash Out",
+    "id": "skin-1969700"
+  },
+  {
+    "name": "StatTrak™ Tec-9 | Flash Out (Factory New)",
+    "price": 0.81,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Tec-9 | Flash Out",
+    "id": "skin-1969700"
+  },
+  {
+    "name": "Tec-9 | Flash Out (Minimal Wear)",
+    "price": 0.12,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Tec-9 | Flash Out",
+    "id": "skin-1969700"
+  },
+  {
+    "name": "StatTrak™ Tec-9 | Flash Out (Minimal Wear)",
+    "price": 0.28,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Tec-9 | Flash Out",
+    "id": "skin-1969700"
+  },
+  {
+    "name": "Tec-9 | Flash Out (Battle-Scarred)",
+    "price": 0.09,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Tec-9 | Flash Out",
+    "id": "skin-1969700"
+  },
+  {
+    "name": "Tec-9 | Flash Out (Factory New)",
+    "price": 0.19,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Tec-9 | Flash Out",
+    "id": "skin-1969700"
+  },
+  {
+    "name": "StatTrak™ Tec-9 | Flash Out (Field-Tested)",
+    "price": 0.1,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Tec-9 | Flash Out",
+    "id": "skin-1969700"
+  },
+  {
+    "name": "Tec-9 | Flash Out (Field-Tested)",
+    "price": 0.12,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Tec-9 | Flash Out",
+    "id": "skin-1969700"
+  },
+  {
+    "name": "StatTrak™ Tec-9 | Flash Out (Battle-Scarred)",
+    "price": 0.13,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Tec-9 | Flash Out",
+    "id": "skin-1969700"
+  }
+]

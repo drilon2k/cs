@@ -1,0 +1,38 @@
+[
+  {
+    "name": "★ Karambit | Tiger Tooth (Minimal Wear)",
+    "price": 822.79,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Karambit | Tiger Tooth",
+    "id": "skin-33228388"
+  },
+  {
+    "name": "★ Karambit | Tiger Tooth (Factory New)",
+    "price": 850.07,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Karambit | Tiger Tooth",
+    "id": "skin-33228388"
+  },
+  {
+    "name": "★ StatTrak™ Karambit | Tiger Tooth (Minimal Wear)",
+    "price": 987.21,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Karambit | Tiger Tooth",
+    "id": "skin-33228388"
+  },
+  {
+    "name": "★ StatTrak™ Karambit | Tiger Tooth (Factory New)",
+    "price": 944.83,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Karambit | Tiger Tooth",
+    "id": "skin-33228388"
+  }
+]

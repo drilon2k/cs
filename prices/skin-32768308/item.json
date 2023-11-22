@@ -1,0 +1,92 @@
+[
+  {
+    "name": "★ StatTrak™ Bayonet | Boreal Forest (Field-Tested)",
+    "price": 167.3,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Bayonet | Boreal Forest",
+    "id": "skin-32768308"
+  },
+  {
+    "name": "★ Bayonet | Boreal Forest (Minimal Wear)",
+    "price": 201.58,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Bayonet | Boreal Forest",
+    "id": "skin-32768308"
+  },
+  {
+    "name": "★ StatTrak™ Bayonet | Boreal Forest (Minimal Wear)",
+    "price": 285.23,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Bayonet | Boreal Forest",
+    "id": "skin-32768308"
+  },
+  {
+    "name": "★ StatTrak™ Bayonet | Boreal Forest (Battle-Scarred)",
+    "price": 191.98,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Bayonet | Boreal Forest",
+    "id": "skin-32768308"
+  },
+  {
+    "name": "★ Bayonet | Boreal Forest (Battle-Scarred)",
+    "price": 168.26,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Bayonet | Boreal Forest",
+    "id": "skin-32768308"
+  },
+  {
+    "name": "★ Bayonet | Boreal Forest (Well-Worn)",
+    "price": 158.39,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Bayonet | Boreal Forest",
+    "id": "skin-32768308"
+  },
+  {
+    "name": "★ StatTrak™ Bayonet | Boreal Forest (Well-Worn)",
+    "price": 185.13,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Bayonet | Boreal Forest",
+    "id": "skin-32768308"
+  },
+  {
+    "name": "★ StatTrak™ Bayonet | Boreal Forest (Factory New)",
+    "price": 0,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Bayonet | Boreal Forest",
+    "id": "skin-32768308"
+  },
+  {
+    "name": "★ Bayonet | Boreal Forest (Factory New)",
+    "price": 479.82,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Bayonet | Boreal Forest",
+    "id": "skin-32768308"
+  },
+  {
+    "name": "★ Bayonet | Boreal Forest (Field-Tested)",
+    "price": 167.09,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Bayonet | Boreal Forest",
+    "id": "skin-32768308"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "name": "AWP | Containment Breach (Minimal Wear)",
+    "price": 106.96,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AWP | Containment Breach",
+    "id": "skin-593372"
+  },
+  {
+    "name": "StatTrak™ AWP | Containment Breach (Battle-Scarred)",
+    "price": 71.31,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AWP | Containment Breach",
+    "id": "skin-593372"
+  },
+  {
+    "name": "StatTrak™ AWP | Containment Breach (Well-Worn)",
+    "price": 94.48,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AWP | Containment Breach",
+    "id": "skin-593372"
+  },
+  {
+    "name": "AWP | Containment Breach (Factory New)",
+    "price": 315.26,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AWP | Containment Breach",
+    "id": "skin-593372"
+  },
+  {
+    "name": "AWP | Containment Breach (Well-Worn)",
+    "price": 41.14,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AWP | Containment Breach",
+    "id": "skin-593372"
+  },
+  {
+    "name": "AWP | Containment Breach (Battle-Scarred)",
+    "price": 36.07,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AWP | Containment Breach",
+    "id": "skin-593372"
+  },
+  {
+    "name": "AWP | Containment Breach (Field-Tested)",
+    "price": 59.65,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AWP | Containment Breach",
+    "id": "skin-593372"
+  },
+  {
+    "name": "StatTrak™ AWP | Containment Breach (Factory New)",
+    "price": 774.79,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AWP | Containment Breach",
+    "id": "skin-593372"
+  },
+  {
+    "name": "StatTrak™ AWP | Containment Breach (Minimal Wear)",
+    "price": 281.87,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AWP | Containment Breach",
+    "id": "skin-593372"
+  },
+  {
+    "name": "StatTrak™ AWP | Containment Breach (Field-Tested)",
+    "price": 167.85,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AWP | Containment Breach",
+    "id": "skin-593372"
+  }
+]

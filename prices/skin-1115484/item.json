@@ -1,0 +1,47 @@
+[
+  {
+    "name": "MAC-10 | Commuter (Well-Worn)",
+    "price": 11.89,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MAC-10 | Commuter",
+    "id": "skin-1115484"
+  },
+  {
+    "name": "MAC-10 | Commuter (Factory New)",
+    "price": 9.46,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MAC-10 | Commuter",
+    "id": "skin-1115484"
+  },
+  {
+    "name": "MAC-10 | Commuter (Battle-Scarred)",
+    "price": 6.88,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MAC-10 | Commuter",
+    "id": "skin-1115484"
+  },
+  {
+    "name": "MAC-10 | Commuter (Field-Tested)",
+    "price": 5.1,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MAC-10 | Commuter",
+    "id": "skin-1115484"
+  },
+  {
+    "name": "MAC-10 | Commuter (Minimal Wear)",
+    "price": 6.29,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MAC-10 | Commuter",
+    "id": "skin-1115484"
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Nova | Green Apple (Field-Tested)",
+    "price": 9.67,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Nova | Green Apple",
+    "id": "skin-2294936"
+  },
+  {
+    "name": "Nova | Green Apple (Minimal Wear)",
+    "price": 9.08,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Nova | Green Apple",
+    "id": "skin-2294936"
+  },
+  {
+    "name": "Nova | Green Apple (Factory New)",
+    "price": 9.19,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Nova | Green Apple",
+    "id": "skin-2294936"
+  }
+]

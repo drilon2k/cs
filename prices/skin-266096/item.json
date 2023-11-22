@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Glock-18 | Neo-Noir (Battle-Scarred)",
+    "price": 5.68,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Glock-18 | Neo-Noir",
+    "id": "skin-266096"
+  },
+  {
+    "name": "Glock-18 | Neo-Noir (Factory New)",
+    "price": 43.74,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Glock-18 | Neo-Noir",
+    "id": "skin-266096"
+  },
+  {
+    "name": "StatTrak™ Glock-18 | Neo-Noir (Battle-Scarred)",
+    "price": 16.77,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Glock-18 | Neo-Noir",
+    "id": "skin-266096"
+  },
+  {
+    "name": "StatTrak™ Glock-18 | Neo-Noir (Field-Tested)",
+    "price": 26.12,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Glock-18 | Neo-Noir",
+    "id": "skin-266096"
+  },
+  {
+    "name": "StatTrak™ Glock-18 | Neo-Noir (Minimal Wear)",
+    "price": 63.63,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Glock-18 | Neo-Noir",
+    "id": "skin-266096"
+  },
+  {
+    "name": "Glock-18 | Neo-Noir (Minimal Wear)",
+    "price": 16.59,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Glock-18 | Neo-Noir",
+    "id": "skin-266096"
+  },
+  {
+    "name": "StatTrak™ Glock-18 | Neo-Noir (Factory New)",
+    "price": 187.87,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Glock-18 | Neo-Noir",
+    "id": "skin-266096"
+  },
+  {
+    "name": "Glock-18 | Neo-Noir (Well-Worn)",
+    "price": 6.13,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Glock-18 | Neo-Noir",
+    "id": "skin-266096"
+  },
+  {
+    "name": "Glock-18 | Neo-Noir (Field-Tested)",
+    "price": 7.54,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Glock-18 | Neo-Noir",
+    "id": "skin-266096"
+  },
+  {
+    "name": "StatTrak™ Glock-18 | Neo-Noir (Well-Worn)",
+    "price": 19.94,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Glock-18 | Neo-Noir",
+    "id": "skin-266096"
+  }
+]

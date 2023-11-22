@@ -1,0 +1,38 @@
+[
+  {
+    "name": "★ StatTrak™ Flip Knife | Tiger Tooth (Factory New)",
+    "price": 367.1,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Flip Knife | Tiger Tooth",
+    "id": "skin-33097316"
+  },
+  {
+    "name": "★ Flip Knife | Tiger Tooth (Minimal Wear)",
+    "price": 411.32,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Flip Knife | Tiger Tooth",
+    "id": "skin-33097316"
+  },
+  {
+    "name": "★ Flip Knife | Tiger Tooth (Factory New)",
+    "price": 313.89,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Flip Knife | Tiger Tooth",
+    "id": "skin-33097316"
+  },
+  {
+    "name": "★ StatTrak™ Flip Knife | Tiger Tooth (Minimal Wear)",
+    "price": 425.85,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Flip Knife | Tiger Tooth",
+    "id": "skin-33097316"
+  }
+]

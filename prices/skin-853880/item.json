@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Galil AR | Rocket Pop (Battle-Scarred)",
+    "price": 0.26,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Galil AR | Rocket Pop",
+    "id": "skin-853880"
+  },
+  {
+    "name": "Galil AR | Rocket Pop (Field-Tested)",
+    "price": 0.65,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Galil AR | Rocket Pop",
+    "id": "skin-853880"
+  },
+  {
+    "name": "Galil AR | Rocket Pop (Well-Worn)",
+    "price": 0.35,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Galil AR | Rocket Pop",
+    "id": "skin-853880"
+  },
+  {
+    "name": "Galil AR | Rocket Pop (Factory New)",
+    "price": 4.25,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Galil AR | Rocket Pop",
+    "id": "skin-853880"
+  },
+  {
+    "name": "StatTrak™ Galil AR | Rocket Pop (Battle-Scarred)",
+    "price": 0.57,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Galil AR | Rocket Pop",
+    "id": "skin-853880"
+  },
+  {
+    "name": "StatTrak™ Galil AR | Rocket Pop (Minimal Wear)",
+    "price": 2.67,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Galil AR | Rocket Pop",
+    "id": "skin-853880"
+  },
+  {
+    "name": "StatTrak™ Galil AR | Rocket Pop (Factory New)",
+    "price": 13.61,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Galil AR | Rocket Pop",
+    "id": "skin-853880"
+  },
+  {
+    "name": "StatTrak™ Galil AR | Rocket Pop (Well-Worn)",
+    "price": 0.68,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Galil AR | Rocket Pop",
+    "id": "skin-853880"
+  },
+  {
+    "name": "Galil AR | Rocket Pop (Minimal Wear)",
+    "price": 1.47,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Galil AR | Rocket Pop",
+    "id": "skin-853880"
+  },
+  {
+    "name": "StatTrak™ Galil AR | Rocket Pop (Field-Tested)",
+    "price": 1.11,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Galil AR | Rocket Pop",
+    "id": "skin-853880"
+  }
+]

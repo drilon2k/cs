@@ -1,0 +1,47 @@
+[
+  {
+    "name": "AUG | Akihabara Accept (Well-Worn)",
+    "price": 329.11,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AUG | Akihabara Accept",
+    "id": "skin-526108"
+  },
+  {
+    "name": "AUG | Akihabara Accept (Field-Tested)",
+    "price": 589.53,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AUG | Akihabara Accept",
+    "id": "skin-526108"
+  },
+  {
+    "name": "AUG | Akihabara Accept (Battle-Scarred)",
+    "price": 287.7,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AUG | Akihabara Accept",
+    "id": "skin-526108"
+  },
+  {
+    "name": "AUG | Akihabara Accept (Factory New)",
+    "price": 4098.57,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AUG | Akihabara Accept",
+    "id": "skin-526108"
+  },
+  {
+    "name": "AUG | Akihabara Accept (Minimal Wear)",
+    "price": 1480.88,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AUG | Akihabara Accept",
+    "id": "skin-526108"
+  }
+]

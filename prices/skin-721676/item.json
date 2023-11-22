@@ -1,0 +1,92 @@
+[
+  {
+    "name": "G3SG1 | Demeter (Minimal Wear)",
+    "price": 4.88,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "G3SG1 | Demeter",
+    "id": "skin-721676"
+  },
+  {
+    "name": "StatTrak™ G3SG1 | Demeter (Battle-Scarred)",
+    "price": 4.34,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "G3SG1 | Demeter",
+    "id": "skin-721676"
+  },
+  {
+    "name": "G3SG1 | Demeter (Field-Tested)",
+    "price": 5.04,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "G3SG1 | Demeter",
+    "id": "skin-721676"
+  },
+  {
+    "name": "StatTrak™ G3SG1 | Demeter (Well-Worn)",
+    "price": 6,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "G3SG1 | Demeter",
+    "id": "skin-721676"
+  },
+  {
+    "name": "StatTrak™ G3SG1 | Demeter (Minimal Wear)",
+    "price": 5.48,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "G3SG1 | Demeter",
+    "id": "skin-721676"
+  },
+  {
+    "name": "StatTrak™ G3SG1 | Demeter (Field-Tested)",
+    "price": 4.76,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "G3SG1 | Demeter",
+    "id": "skin-721676"
+  },
+  {
+    "name": "G3SG1 | Demeter (Well-Worn)",
+    "price": 5.35,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "G3SG1 | Demeter",
+    "id": "skin-721676"
+  },
+  {
+    "name": "StatTrak™ G3SG1 | Demeter (Factory New)",
+    "price": 71.01,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "G3SG1 | Demeter",
+    "id": "skin-721676"
+  },
+  {
+    "name": "G3SG1 | Demeter (Battle-Scarred)",
+    "price": 4.64,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "G3SG1 | Demeter",
+    "id": "skin-721676"
+  },
+  {
+    "name": "G3SG1 | Demeter (Factory New)",
+    "price": 13.71,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "G3SG1 | Demeter",
+    "id": "skin-721676"
+  }
+]

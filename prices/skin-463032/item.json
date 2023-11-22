@@ -1,0 +1,38 @@
+[
+  {
+    "name": "AK-47 | Green Laminate (Field-Tested)",
+    "price": 13.1,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AK-47 | Green Laminate",
+    "id": "skin-463032"
+  },
+  {
+    "name": "AK-47 | Green Laminate (Well-Worn)",
+    "price": 27.43,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AK-47 | Green Laminate",
+    "id": "skin-463032"
+  },
+  {
+    "name": "AK-47 | Green Laminate (Minimal Wear)",
+    "price": 12.6,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AK-47 | Green Laminate",
+    "id": "skin-463032"
+  },
+  {
+    "name": "AK-47 | Green Laminate (Factory New)",
+    "price": 15.36,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AK-47 | Green Laminate",
+    "id": "skin-463032"
+  }
+]

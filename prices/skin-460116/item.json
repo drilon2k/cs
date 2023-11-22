@@ -1,0 +1,47 @@
+[
+  {
+    "name": "AK-47 | First Class (Factory New)",
+    "price": 127.26,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AK-47 | First Class",
+    "id": "skin-460116"
+  },
+  {
+    "name": "AK-47 | First Class (Battle-Scarred)",
+    "price": 48,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AK-47 | First Class",
+    "id": "skin-460116"
+  },
+  {
+    "name": "AK-47 | First Class (Well-Worn)",
+    "price": 55.59,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AK-47 | First Class",
+    "id": "skin-460116"
+  },
+  {
+    "name": "AK-47 | First Class (Minimal Wear)",
+    "price": 83.65,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AK-47 | First Class",
+    "id": "skin-460116"
+  },
+  {
+    "name": "AK-47 | First Class (Field-Tested)",
+    "price": 57.7,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AK-47 | First Class",
+    "id": "skin-460116"
+  }
+]

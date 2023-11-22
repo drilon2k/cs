@@ -1,0 +1,56 @@
+[
+  {
+    "name": "StatTrak™ AWP | Redline (Minimal Wear)",
+    "price": 109.15,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AWP | Redline",
+    "id": "skin-590860"
+  },
+  {
+    "name": "AWP | Redline (Well-Worn)",
+    "price": 40.45,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AWP | Redline",
+    "id": "skin-590860"
+  },
+  {
+    "name": "StatTrak™ AWP | Redline (Field-Tested)",
+    "price": 56.91,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AWP | Redline",
+    "id": "skin-590860"
+  },
+  {
+    "name": "AWP | Redline (Minimal Wear)",
+    "price": 43.95,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AWP | Redline",
+    "id": "skin-590860"
+  },
+  {
+    "name": "StatTrak™ AWP | Redline (Well-Worn)",
+    "price": 140.15,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AWP | Redline",
+    "id": "skin-590860"
+  },
+  {
+    "name": "AWP | Redline (Field-Tested)",
+    "price": 26.95,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AWP | Redline",
+    "id": "skin-590860"
+  }
+]

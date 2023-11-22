@@ -1,0 +1,92 @@
+[
+  {
+    "name": "StatTrak™ USP-S | Overgrowth (Field-Tested)",
+    "price": 35.11,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "USP-S | Overgrowth",
+    "id": "skin-3998428"
+  },
+  {
+    "name": "StatTrak™ USP-S | Overgrowth (Well-Worn)",
+    "price": 35.86,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "USP-S | Overgrowth",
+    "id": "skin-3998428"
+  },
+  {
+    "name": "USP-S | Overgrowth (Minimal Wear)",
+    "price": 20.5,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "USP-S | Overgrowth",
+    "id": "skin-3998428"
+  },
+  {
+    "name": "USP-S | Overgrowth (Well-Worn)",
+    "price": 17.76,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "USP-S | Overgrowth",
+    "id": "skin-3998428"
+  },
+  {
+    "name": "StatTrak™ USP-S | Overgrowth (Minimal Wear)",
+    "price": 46.56,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "USP-S | Overgrowth",
+    "id": "skin-3998428"
+  },
+  {
+    "name": "StatTrak™ USP-S | Overgrowth (Battle-Scarred)",
+    "price": 33.6,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "USP-S | Overgrowth",
+    "id": "skin-3998428"
+  },
+  {
+    "name": "USP-S | Overgrowth (Battle-Scarred)",
+    "price": 18.44,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "USP-S | Overgrowth",
+    "id": "skin-3998428"
+  },
+  {
+    "name": "USP-S | Overgrowth (Factory New)",
+    "price": 71.03,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "USP-S | Overgrowth",
+    "id": "skin-3998428"
+  },
+  {
+    "name": "StatTrak™ USP-S | Overgrowth (Factory New)",
+    "price": 219.41,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "USP-S | Overgrowth",
+    "id": "skin-3998428"
+  },
+  {
+    "name": "USP-S | Overgrowth (Field-Tested)",
+    "price": 17.54,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "USP-S | Overgrowth",
+    "id": "skin-3998428"
+  }
+]

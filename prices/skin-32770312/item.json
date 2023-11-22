@@ -1,0 +1,92 @@
+[
+  {
+    "name": "★ StatTrak™ Bayonet | Bright Water (Minimal Wear)",
+    "price": 283.18,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Bayonet | Bright Water",
+    "id": "skin-32770312"
+  },
+  {
+    "name": "★ StatTrak™ Bayonet | Bright Water (Factory New)",
+    "price": 327.47,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Bayonet | Bright Water",
+    "id": "skin-32770312"
+  },
+  {
+    "name": "★ Bayonet | Bright Water (Factory New)",
+    "price": 294.83,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Bayonet | Bright Water",
+    "id": "skin-32770312"
+  },
+  {
+    "name": "★ Bayonet | Bright Water (Minimal Wear)",
+    "price": 259.18,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Bayonet | Bright Water",
+    "id": "skin-32770312"
+  },
+  {
+    "name": "★ StatTrak™ Bayonet | Bright Water (Battle-Scarred)",
+    "price": 255.06,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Bayonet | Bright Water",
+    "id": "skin-32770312"
+  },
+  {
+    "name": "★ Bayonet | Bright Water (Field-Tested)",
+    "price": 219.41,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Bayonet | Bright Water",
+    "id": "skin-32770312"
+  },
+  {
+    "name": "★ Bayonet | Bright Water (Battle-Scarred)",
+    "price": 211.73,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Bayonet | Bright Water",
+    "id": "skin-32770312"
+  },
+  {
+    "name": "★ Bayonet | Bright Water (Well-Worn)",
+    "price": 219.34,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Bayonet | Bright Water",
+    "id": "skin-32770312"
+  },
+  {
+    "name": "★ StatTrak™ Bayonet | Bright Water (Well-Worn)",
+    "price": 286.6,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Bayonet | Bright Water",
+    "id": "skin-32770312"
+  },
+  {
+    "name": "★ StatTrak™ Bayonet | Bright Water (Field-Tested)",
+    "price": 230.38,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Bayonet | Bright Water",
+    "id": "skin-32770312"
+  }
+]

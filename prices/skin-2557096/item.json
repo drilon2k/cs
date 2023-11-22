@@ -1,0 +1,29 @@
+[
+  {
+    "name": "SG 553 | Army Sheen (Field-Tested)",
+    "price": 0.01,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "SG 553 | Army Sheen",
+    "id": "skin-2557096"
+  },
+  {
+    "name": "SG 553 | Army Sheen (Minimal Wear)",
+    "price": 0.02,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "SG 553 | Army Sheen",
+    "id": "skin-2557096"
+  },
+  {
+    "name": "SG 553 | Army Sheen (Factory New)",
+    "price": 0.02,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "SG 553 | Army Sheen",
+    "id": "skin-2557096"
+  }
+]

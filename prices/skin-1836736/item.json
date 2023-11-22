@@ -1,0 +1,38 @@
+[
+  {
+    "name": "StatTrak™ Negev | Man-o'-war (Minimal Wear)",
+    "price": 0.29,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Negev | Man-o'-war",
+    "id": "skin-1836736"
+  },
+  {
+    "name": "StatTrak™ Negev | Man-o'-war (Field-Tested)",
+    "price": 0.25,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Negev | Man-o'-war",
+    "id": "skin-1836736"
+  },
+  {
+    "name": "Negev | Man-o'-war (Minimal Wear)",
+    "price": 0.1,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Negev | Man-o'-war",
+    "id": "skin-1836736"
+  },
+  {
+    "name": "Negev | Man-o'-war (Field-Tested)",
+    "price": 0.08,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Negev | Man-o'-war",
+    "id": "skin-1836736"
+  }
+]

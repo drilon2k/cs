@@ -1,0 +1,92 @@
+[
+  {
+    "name": "StatTrak™ AWP | PAW (Battle-Scarred)",
+    "price": 3.96,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AWP | PAW",
+    "id": "skin-592696"
+  },
+  {
+    "name": "AWP | PAW (Well-Worn)",
+    "price": 1.05,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AWP | PAW",
+    "id": "skin-592696"
+  },
+  {
+    "name": "AWP | PAW (Minimal Wear)",
+    "price": 1.78,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AWP | PAW",
+    "id": "skin-592696"
+  },
+  {
+    "name": "StatTrak™ AWP | PAW (Well-Worn)",
+    "price": 4.29,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AWP | PAW",
+    "id": "skin-592696"
+  },
+  {
+    "name": "AWP | PAW (Field-Tested)",
+    "price": 1.02,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AWP | PAW",
+    "id": "skin-592696"
+  },
+  {
+    "name": "AWP | PAW (Factory New)",
+    "price": 3.14,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AWP | PAW",
+    "id": "skin-592696"
+  },
+  {
+    "name": "AWP | PAW (Battle-Scarred)",
+    "price": 1.12,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AWP | PAW",
+    "id": "skin-592696"
+  },
+  {
+    "name": "StatTrak™ AWP | PAW (Field-Tested)",
+    "price": 2.81,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AWP | PAW",
+    "id": "skin-592696"
+  },
+  {
+    "name": "StatTrak™ AWP | PAW (Factory New)",
+    "price": 11.48,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AWP | PAW",
+    "id": "skin-592696"
+  },
+  {
+    "name": "StatTrak™ AWP | PAW (Minimal Wear)",
+    "price": 5.47,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AWP | PAW",
+    "id": "skin-592696"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "name": "StatTrak™ PP-Bizon | Water Sigil (Factory New)",
+    "price": 4.27,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "PP-Bizon | Water Sigil",
+    "id": "skin-1704832"
+  },
+  {
+    "name": "StatTrak™ PP-Bizon | Water Sigil (Field-Tested)",
+    "price": 3.89,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "PP-Bizon | Water Sigil",
+    "id": "skin-1704832"
+  },
+  {
+    "name": "StatTrak™ PP-Bizon | Water Sigil (Minimal Wear)",
+    "price": 4.29,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "PP-Bizon | Water Sigil",
+    "id": "skin-1704832"
+  },
+  {
+    "name": "PP-Bizon | Water Sigil (Well-Worn)",
+    "price": 5.48,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "PP-Bizon | Water Sigil",
+    "id": "skin-1704832"
+  },
+  {
+    "name": "PP-Bizon | Water Sigil (Factory New)",
+    "price": 1.23,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "PP-Bizon | Water Sigil",
+    "id": "skin-1704832"
+  },
+  {
+    "name": "StatTrak™ PP-Bizon | Water Sigil (Battle-Scarred)",
+    "price": 9.54,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "PP-Bizon | Water Sigil",
+    "id": "skin-1704832"
+  },
+  {
+    "name": "PP-Bizon | Water Sigil (Battle-Scarred)",
+    "price": 1.05,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "PP-Bizon | Water Sigil",
+    "id": "skin-1704832"
+  },
+  {
+    "name": "PP-Bizon | Water Sigil (Minimal Wear)",
+    "price": 1.08,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "PP-Bizon | Water Sigil",
+    "id": "skin-1704832"
+  },
+  {
+    "name": "StatTrak™ PP-Bizon | Water Sigil (Well-Worn)",
+    "price": 3.86,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "PP-Bizon | Water Sigil",
+    "id": "skin-1704832"
+  },
+  {
+    "name": "PP-Bizon | Water Sigil (Field-Tested)",
+    "price": 0.97,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "PP-Bizon | Water Sigil",
+    "id": "skin-1704832"
+  }
+]

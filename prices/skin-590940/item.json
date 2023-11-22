@@ -1,0 +1,56 @@
+[
+  {
+    "name": "StatTrak™ AWP | Asiimov (Battle-Scarred)",
+    "price": 105.52,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AWP | Asiimov",
+    "id": "skin-590940"
+  },
+  {
+    "name": "AWP | Asiimov (Field-Tested)",
+    "price": 97.29,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AWP | Asiimov",
+    "id": "skin-590940"
+  },
+  {
+    "name": "AWP | Asiimov (Well-Worn)",
+    "price": 71.31,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AWP | Asiimov",
+    "id": "skin-590940"
+  },
+  {
+    "name": "StatTrak™ AWP | Asiimov (Well-Worn)",
+    "price": 152.9,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AWP | Asiimov",
+    "id": "skin-590940"
+  },
+  {
+    "name": "AWP | Asiimov (Battle-Scarred)",
+    "price": 56.16,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AWP | Asiimov",
+    "id": "skin-590940"
+  },
+  {
+    "name": "StatTrak™ AWP | Asiimov (Field-Tested)",
+    "price": 224.14,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AWP | Asiimov",
+    "id": "skin-590940"
+  }
+]

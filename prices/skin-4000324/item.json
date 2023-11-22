@@ -1,0 +1,92 @@
+[
+  {
+    "name": "StatTrak™ USP-S | Blueprint (Field-Tested)",
+    "price": 10.15,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "USP-S | Blueprint",
+    "id": "skin-4000324"
+  },
+  {
+    "name": "StatTrak™ USP-S | Blueprint (Factory New)",
+    "price": 124.38,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "USP-S | Blueprint",
+    "id": "skin-4000324"
+  },
+  {
+    "name": "StatTrak™ USP-S | Blueprint (Minimal Wear)",
+    "price": 27.29,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "USP-S | Blueprint",
+    "id": "skin-4000324"
+  },
+  {
+    "name": "USP-S | Blueprint (Field-Tested)",
+    "price": 3.59,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "USP-S | Blueprint",
+    "id": "skin-4000324"
+  },
+  {
+    "name": "USP-S | Blueprint (Factory New)",
+    "price": 29.48,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "USP-S | Blueprint",
+    "id": "skin-4000324"
+  },
+  {
+    "name": "USP-S | Blueprint (Well-Worn)",
+    "price": 6.7,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "USP-S | Blueprint",
+    "id": "skin-4000324"
+  },
+  {
+    "name": "StatTrak™ USP-S | Blueprint (Well-Worn)",
+    "price": 14.67,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "USP-S | Blueprint",
+    "id": "skin-4000324"
+  },
+  {
+    "name": "USP-S | Blueprint (Minimal Wear)",
+    "price": 7.97,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "USP-S | Blueprint",
+    "id": "skin-4000324"
+  },
+  {
+    "name": "StatTrak™ USP-S | Blueprint (Battle-Scarred)",
+    "price": 9.84,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "USP-S | Blueprint",
+    "id": "skin-4000324"
+  },
+  {
+    "name": "USP-S | Blueprint (Battle-Scarred)",
+    "price": 3.11,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "USP-S | Blueprint",
+    "id": "skin-4000324"
+  }
+]

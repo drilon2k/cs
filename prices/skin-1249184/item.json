@@ -1,0 +1,47 @@
+[
+  {
+    "name": "P90 | Run and Hide (Field-Tested)",
+    "price": 158.44,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P90 | Run and Hide",
+    "id": "skin-1249184"
+  },
+  {
+    "name": "P90 | Run and Hide (Minimal Wear)",
+    "price": 243.4,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P90 | Run and Hide",
+    "id": "skin-1249184"
+  },
+  {
+    "name": "P90 | Run and Hide (Factory New)",
+    "price": 243.68,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P90 | Run and Hide",
+    "id": "skin-1249184"
+  },
+  {
+    "name": "P90 | Run and Hide (Battle-Scarred)",
+    "price": 117.92,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P90 | Run and Hide",
+    "id": "skin-1249184"
+  },
+  {
+    "name": "P90 | Run and Hide (Well-Worn)",
+    "price": 119.99,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P90 | Run and Hide",
+    "id": "skin-1249184"
+  }
+]

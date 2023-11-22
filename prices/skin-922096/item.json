@@ -1,0 +1,92 @@
+[
+  {
+    "name": "M249 | Downtown (Well-Worn)",
+    "price": 0.37,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M249 | Downtown",
+    "id": "skin-922096"
+  },
+  {
+    "name": "M249 | Downtown (Factory New)",
+    "price": 1.27,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M249 | Downtown",
+    "id": "skin-922096"
+  },
+  {
+    "name": "StatTrak™ M249 | Downtown (Factory New)",
+    "price": 3.27,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "M249 | Downtown",
+    "id": "skin-922096"
+  },
+  {
+    "name": "StatTrak™ M249 | Downtown (Well-Worn)",
+    "price": 0.89,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "M249 | Downtown",
+    "id": "skin-922096"
+  },
+  {
+    "name": "M249 | Downtown (Battle-Scarred)",
+    "price": 0.41,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M249 | Downtown",
+    "id": "skin-922096"
+  },
+  {
+    "name": "StatTrak™ M249 | Downtown (Battle-Scarred)",
+    "price": 0.64,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "M249 | Downtown",
+    "id": "skin-922096"
+  },
+  {
+    "name": "StatTrak™ M249 | Downtown (Field-Tested)",
+    "price": 0.82,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "M249 | Downtown",
+    "id": "skin-922096"
+  },
+  {
+    "name": "StatTrak™ M249 | Downtown (Minimal Wear)",
+    "price": 1.72,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "M249 | Downtown",
+    "id": "skin-922096"
+  },
+  {
+    "name": "M249 | Downtown (Minimal Wear)",
+    "price": 0.67,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M249 | Downtown",
+    "id": "skin-922096"
+  },
+  {
+    "name": "M249 | Downtown (Field-Tested)",
+    "price": 0.38,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M249 | Downtown",
+    "id": "skin-922096"
+  }
+]

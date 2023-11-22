@@ -1,0 +1,92 @@
+[
+  {
+    "name": "MP7 | Guerrilla (Battle-Scarred)",
+    "price": 0.23,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MP7 | Guerrilla",
+    "id": "skin-2167072"
+  },
+  {
+    "name": "MP7 | Guerrilla (Field-Tested)",
+    "price": 0.28,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MP7 | Guerrilla",
+    "id": "skin-2167072"
+  },
+  {
+    "name": "MP7 | Guerrilla (Well-Worn)",
+    "price": 0.22,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MP7 | Guerrilla",
+    "id": "skin-2167072"
+  },
+  {
+    "name": "StatTrak™ MP7 | Guerrilla (Battle-Scarred)",
+    "price": 0.31,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MP7 | Guerrilla",
+    "id": "skin-2167072"
+  },
+  {
+    "name": "MP7 | Guerrilla (Minimal Wear)",
+    "price": 0.54,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MP7 | Guerrilla",
+    "id": "skin-2167072"
+  },
+  {
+    "name": "StatTrak™ MP7 | Guerrilla (Well-Worn)",
+    "price": 0.32,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MP7 | Guerrilla",
+    "id": "skin-2167072"
+  },
+  {
+    "name": "StatTrak™ MP7 | Guerrilla (Field-Tested)",
+    "price": 0.53,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MP7 | Guerrilla",
+    "id": "skin-2167072"
+  },
+  {
+    "name": "StatTrak™ MP7 | Guerrilla (Minimal Wear)",
+    "price": 1.48,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MP7 | Guerrilla",
+    "id": "skin-2167072"
+  },
+  {
+    "name": "MP7 | Guerrilla (Factory New)",
+    "price": 1.01,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MP7 | Guerrilla",
+    "id": "skin-2167072"
+  },
+  {
+    "name": "StatTrak™ MP7 | Guerrilla (Factory New)",
+    "price": 4.1,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MP7 | Guerrilla",
+    "id": "skin-2167072"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Sawed-Off | Irradiated Alert (Field-Tested)",
+    "price": 1.11,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Sawed-Off | Irradiated Alert",
+    "id": "skin-1901228"
+  },
+  {
+    "name": "Sawed-Off | Irradiated Alert (Battle-Scarred)",
+    "price": 1.16,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Sawed-Off | Irradiated Alert",
+    "id": "skin-1901228"
+  },
+  {
+    "name": "Sawed-Off | Irradiated Alert (Factory New)",
+    "price": 9.44,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Sawed-Off | Irradiated Alert",
+    "id": "skin-1901228"
+  },
+  {
+    "name": "Sawed-Off | Irradiated Alert (Minimal Wear)",
+    "price": 1.96,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Sawed-Off | Irradiated Alert",
+    "id": "skin-1901228"
+  },
+  {
+    "name": "Sawed-Off | Irradiated Alert (Well-Worn)",
+    "price": 1.06,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Sawed-Off | Irradiated Alert",
+    "id": "skin-1901228"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "name": "SG 553 | Desert Blossom (Well-Worn)",
+    "price": 10.01,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "SG 553 | Desert Blossom",
+    "id": "skin-2558964"
+  },
+  {
+    "name": "SG 553 | Desert Blossom (Factory New)",
+    "price": 10.7,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "SG 553 | Desert Blossom",
+    "id": "skin-2558964"
+  },
+  {
+    "name": "SG 553 | Desert Blossom (Battle-Scarred)",
+    "price": 10.13,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "SG 553 | Desert Blossom",
+    "id": "skin-2558964"
+  },
+  {
+    "name": "SG 553 | Desert Blossom (Field-Tested)",
+    "price": 9.74,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "SG 553 | Desert Blossom",
+    "id": "skin-2558964"
+  },
+  {
+    "name": "SG 553 | Desert Blossom (Minimal Wear)",
+    "price": 10.28,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "SG 553 | Desert Blossom",
+    "id": "skin-2558964"
+  }
+]

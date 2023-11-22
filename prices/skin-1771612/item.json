@@ -1,0 +1,74 @@
+[
+  {
+    "name": "StatTrak™ MAG-7 | Praetorian (Factory New)",
+    "price": 6.99,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MAG-7 | Praetorian",
+    "id": "skin-1771612"
+  },
+  {
+    "name": "MAG-7 | Praetorian (Factory New)",
+    "price": 2.93,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MAG-7 | Praetorian",
+    "id": "skin-1771612"
+  },
+  {
+    "name": "StatTrak™ MAG-7 | Praetorian (Field-Tested)",
+    "price": 3.15,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MAG-7 | Praetorian",
+    "id": "skin-1771612"
+  },
+  {
+    "name": "MAG-7 | Praetorian (Minimal Wear)",
+    "price": 1.97,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MAG-7 | Praetorian",
+    "id": "skin-1771612"
+  },
+  {
+    "name": "StatTrak™ MAG-7 | Praetorian (Minimal Wear)",
+    "price": 4.51,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MAG-7 | Praetorian",
+    "id": "skin-1771612"
+  },
+  {
+    "name": "MAG-7 | Praetorian (Field-Tested)",
+    "price": 1.66,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MAG-7 | Praetorian",
+    "id": "skin-1771612"
+  },
+  {
+    "name": "StatTrak™ MAG-7 | Praetorian (Well-Worn)",
+    "price": 3.82,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MAG-7 | Praetorian",
+    "id": "skin-1771612"
+  },
+  {
+    "name": "MAG-7 | Praetorian (Well-Worn)",
+    "price": 1.52,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MAG-7 | Praetorian",
+    "id": "skin-1771612"
+  }
+]

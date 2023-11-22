@@ -1,0 +1,38 @@
+[
+  {
+    "name": "★ StatTrak™ Talon Knife | Rust Coat (Battle-Scarred)",
+    "price": 258.83,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Talon Knife | Rust Coat",
+    "id": "skin-34276984"
+  },
+  {
+    "name": "★ StatTrak™ Talon Knife | Rust Coat (Well-Worn)",
+    "price": 301.69,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Talon Knife | Rust Coat",
+    "id": "skin-34276984"
+  },
+  {
+    "name": "★ Talon Knife | Rust Coat (Well-Worn)",
+    "price": 294.28,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Talon Knife | Rust Coat",
+    "id": "skin-34276984"
+  },
+  {
+    "name": "★ Talon Knife | Rust Coat (Battle-Scarred)",
+    "price": 246.83,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Talon Knife | Rust Coat",
+    "id": "skin-34276984"
+  }
+]

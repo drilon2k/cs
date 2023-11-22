@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Sawed-Off | Sage Spray (Minimal Wear)",
+    "price": 0.35,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Sawed-Off | Sage Spray",
+    "id": "skin-1901020"
+  },
+  {
+    "name": "Sawed-Off | Sage Spray (Battle-Scarred)",
+    "price": 0.19,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Sawed-Off | Sage Spray",
+    "id": "skin-1901020"
+  },
+  {
+    "name": "Sawed-Off | Sage Spray (Factory New)",
+    "price": 3.65,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Sawed-Off | Sage Spray",
+    "id": "skin-1901020"
+  },
+  {
+    "name": "Sawed-Off | Sage Spray (Well-Worn)",
+    "price": 0.2,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Sawed-Off | Sage Spray",
+    "id": "skin-1901020"
+  },
+  {
+    "name": "Sawed-Off | Sage Spray (Field-Tested)",
+    "price": 0.2,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Sawed-Off | Sage Spray",
+    "id": "skin-1901020"
+  }
+]

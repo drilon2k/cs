@@ -1,0 +1,74 @@
+[
+  {
+    "name": "StatTrak™ CZ75-Auto | The Fuschia Is Now (Factory New)",
+    "price": 41.54,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "CZ75-Auto | The Fuschia Is Now",
+    "id": "skin-4129844"
+  },
+  {
+    "name": "CZ75-Auto | The Fuschia Is Now (Minimal Wear)",
+    "price": 23.04,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "CZ75-Auto | The Fuschia Is Now",
+    "id": "skin-4129844"
+  },
+  {
+    "name": "CZ75-Auto | The Fuschia Is Now (Factory New)",
+    "price": 45.25,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "CZ75-Auto | The Fuschia Is Now",
+    "id": "skin-4129844"
+  },
+  {
+    "name": "CZ75-Auto | The Fuschia Is Now (Field-Tested)",
+    "price": 16.73,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "CZ75-Auto | The Fuschia Is Now",
+    "id": "skin-4129844"
+  },
+  {
+    "name": "StatTrak™ CZ75-Auto | The Fuschia Is Now (Minimal Wear)",
+    "price": 23.87,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "CZ75-Auto | The Fuschia Is Now",
+    "id": "skin-4129844"
+  },
+  {
+    "name": "StatTrak™ CZ75-Auto | The Fuschia Is Now (Field-Tested)",
+    "price": 16.08,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "CZ75-Auto | The Fuschia Is Now",
+    "id": "skin-4129844"
+  },
+  {
+    "name": "StatTrak™ CZ75-Auto | The Fuschia Is Now (Well-Worn)",
+    "price": 35.65,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "CZ75-Auto | The Fuschia Is Now",
+    "id": "skin-4129844"
+  },
+  {
+    "name": "CZ75-Auto | The Fuschia Is Now (Well-Worn)",
+    "price": 27.43,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "CZ75-Auto | The Fuschia Is Now",
+    "id": "skin-4129844"
+  }
+]

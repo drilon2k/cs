@@ -1,0 +1,92 @@
+[
+  {
+    "name": "StatTrak™ CZ75-Auto | Yellow Jacket (Minimal Wear)",
+    "price": 17.28,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "CZ75-Auto | Yellow Jacket",
+    "id": "skin-4130672"
+  },
+  {
+    "name": "CZ75-Auto | Yellow Jacket (Battle-Scarred)",
+    "price": 2.19,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "CZ75-Auto | Yellow Jacket",
+    "id": "skin-4130672"
+  },
+  {
+    "name": "CZ75-Auto | Yellow Jacket (Factory New)",
+    "price": 10.87,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "CZ75-Auto | Yellow Jacket",
+    "id": "skin-4130672"
+  },
+  {
+    "name": "StatTrak™ CZ75-Auto | Yellow Jacket (Factory New)",
+    "price": 29.68,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "CZ75-Auto | Yellow Jacket",
+    "id": "skin-4130672"
+  },
+  {
+    "name": "CZ75-Auto | Yellow Jacket (Field-Tested)",
+    "price": 3.02,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "CZ75-Auto | Yellow Jacket",
+    "id": "skin-4130672"
+  },
+  {
+    "name": "CZ75-Auto | Yellow Jacket (Minimal Wear)",
+    "price": 5.11,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "CZ75-Auto | Yellow Jacket",
+    "id": "skin-4130672"
+  },
+  {
+    "name": "CZ75-Auto | Yellow Jacket (Well-Worn)",
+    "price": 2.6,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "CZ75-Auto | Yellow Jacket",
+    "id": "skin-4130672"
+  },
+  {
+    "name": "StatTrak™ CZ75-Auto | Yellow Jacket (Field-Tested)",
+    "price": 8.78,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "CZ75-Auto | Yellow Jacket",
+    "id": "skin-4130672"
+  },
+  {
+    "name": "StatTrak™ CZ75-Auto | Yellow Jacket (Well-Worn)",
+    "price": 6.72,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "CZ75-Auto | Yellow Jacket",
+    "id": "skin-4130672"
+  },
+  {
+    "name": "StatTrak™ CZ75-Auto | Yellow Jacket (Battle-Scarred)",
+    "price": 6.76,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "CZ75-Auto | Yellow Jacket",
+    "id": "skin-4130672"
+  }
+]

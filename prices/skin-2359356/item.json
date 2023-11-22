@@ -1,0 +1,47 @@
+[
+  {
+    "name": "P250 | Gunsmoke (Well-Worn)",
+    "price": 1.92,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P250 | Gunsmoke",
+    "id": "skin-2359356"
+  },
+  {
+    "name": "P250 | Gunsmoke (Minimal Wear)",
+    "price": 3.17,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P250 | Gunsmoke",
+    "id": "skin-2359356"
+  },
+  {
+    "name": "P250 | Gunsmoke (Factory New)",
+    "price": 25.37,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P250 | Gunsmoke",
+    "id": "skin-2359356"
+  },
+  {
+    "name": "P250 | Gunsmoke (Field-Tested)",
+    "price": 1.79,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P250 | Gunsmoke",
+    "id": "skin-2359356"
+  },
+  {
+    "name": "P250 | Gunsmoke (Battle-Scarred)",
+    "price": 1.4,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P250 | Gunsmoke",
+    "id": "skin-2359356"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "name": "★ StatTrak™ Bayonet | Forest DDPAT (Battle-Scarred)",
+    "price": 164.42,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Bayonet | Forest DDPAT",
+    "id": "skin-32768020"
+  },
+  {
+    "name": "★ StatTrak™ Bayonet | Forest DDPAT (Field-Tested)",
+    "price": 176.9,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Bayonet | Forest DDPAT",
+    "id": "skin-32768020"
+  },
+  {
+    "name": "★ StatTrak™ Bayonet | Forest DDPAT (Minimal Wear)",
+    "price": 225.96,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Bayonet | Forest DDPAT",
+    "id": "skin-32768020"
+  },
+  {
+    "name": "★ Bayonet | Forest DDPAT (Factory New)",
+    "price": 377.11,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Bayonet | Forest DDPAT",
+    "id": "skin-32768020"
+  },
+  {
+    "name": "★ Bayonet | Forest DDPAT (Battle-Scarred)",
+    "price": 165.93,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Bayonet | Forest DDPAT",
+    "id": "skin-32768020"
+  },
+  {
+    "name": "★ StatTrak™ Bayonet | Forest DDPAT (Well-Worn)",
+    "price": 0,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Bayonet | Forest DDPAT",
+    "id": "skin-32768020"
+  },
+  {
+    "name": "★ StatTrak™ Bayonet | Forest DDPAT (Factory New)",
+    "price": 0,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Bayonet | Forest DDPAT",
+    "id": "skin-32768020"
+  },
+  {
+    "name": "★ Bayonet | Forest DDPAT (Minimal Wear)",
+    "price": 210.91,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Bayonet | Forest DDPAT",
+    "id": "skin-32768020"
+  },
+  {
+    "name": "★ Bayonet | Forest DDPAT (Field-Tested)",
+    "price": 160.65,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Bayonet | Forest DDPAT",
+    "id": "skin-32768020"
+  },
+  {
+    "name": "★ Bayonet | Forest DDPAT (Well-Worn)",
+    "price": 164.28,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Bayonet | Forest DDPAT",
+    "id": "skin-32768020"
+  }
+]

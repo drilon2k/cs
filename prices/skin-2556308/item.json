@@ -1,0 +1,47 @@
+[
+  {
+    "name": "SG 553 | Tornado (Battle-Scarred)",
+    "price": 7.51,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "SG 553 | Tornado",
+    "id": "skin-2556308"
+  },
+  {
+    "name": "SG 553 | Tornado (Field-Tested)",
+    "price": 7.57,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "SG 553 | Tornado",
+    "id": "skin-2556308"
+  },
+  {
+    "name": "SG 553 | Tornado (Well-Worn)",
+    "price": 13.56,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "SG 553 | Tornado",
+    "id": "skin-2556308"
+  },
+  {
+    "name": "SG 553 | Tornado (Minimal Wear)",
+    "price": 12.98,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "SG 553 | Tornado",
+    "id": "skin-2556308"
+  },
+  {
+    "name": "SG 553 | Tornado (Factory New)",
+    "price": 47.76,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "SG 553 | Tornado",
+    "id": "skin-2556308"
+  }
+]

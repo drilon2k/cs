@@ -1,0 +1,92 @@
+[
+  {
+    "name": "★ Nomad Knife | Safari Mesh (Battle-Scarred)",
+    "price": 106.69,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Nomad Knife | Safari Mesh",
+    "id": "skin-34144544"
+  },
+  {
+    "name": "★ StatTrak™ Nomad Knife | Safari Mesh (Minimal Wear)",
+    "price": 127.53,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Nomad Knife | Safari Mesh",
+    "id": "skin-34144544"
+  },
+  {
+    "name": "★ Nomad Knife | Safari Mesh (Minimal Wear)",
+    "price": 112.45,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Nomad Knife | Safari Mesh",
+    "id": "skin-34144544"
+  },
+  {
+    "name": "★ Nomad Knife | Safari Mesh (Well-Worn)",
+    "price": 109.7,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Nomad Knife | Safari Mesh",
+    "id": "skin-34144544"
+  },
+  {
+    "name": "★ StatTrak™ Nomad Knife | Safari Mesh (Well-Worn)",
+    "price": 120.68,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Nomad Knife | Safari Mesh",
+    "id": "skin-34144544"
+  },
+  {
+    "name": "★ StatTrak™ Nomad Knife | Safari Mesh (Factory New)",
+    "price": 0,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Nomad Knife | Safari Mesh",
+    "id": "skin-34144544"
+  },
+  {
+    "name": "★ StatTrak™ Nomad Knife | Safari Mesh (Battle-Scarred)",
+    "price": 107.65,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Nomad Knife | Safari Mesh",
+    "id": "skin-34144544"
+  },
+  {
+    "name": "★ Nomad Knife | Safari Mesh (Field-Tested)",
+    "price": 109.36,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Nomad Knife | Safari Mesh",
+    "id": "skin-34144544"
+  },
+  {
+    "name": "★ StatTrak™ Nomad Knife | Safari Mesh (Field-Tested)",
+    "price": 109.64,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Nomad Knife | Safari Mesh",
+    "id": "skin-34144544"
+  },
+  {
+    "name": "★ Nomad Knife | Safari Mesh (Factory New)",
+    "price": 189.58,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Nomad Knife | Safari Mesh",
+    "id": "skin-34144544"
+  }
+]

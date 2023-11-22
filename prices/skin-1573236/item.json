@@ -1,0 +1,47 @@
+[
+  {
+    "name": "UMP-45 | Caramel (Field-Tested)",
+    "price": 6.65,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "UMP-45 | Caramel",
+    "id": "skin-1573236"
+  },
+  {
+    "name": "UMP-45 | Caramel (Minimal Wear)",
+    "price": 10.28,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "UMP-45 | Caramel",
+    "id": "skin-1573236"
+  },
+  {
+    "name": "UMP-45 | Caramel (Factory New)",
+    "price": 42.17,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "UMP-45 | Caramel",
+    "id": "skin-1573236"
+  },
+  {
+    "name": "UMP-45 | Caramel (Well-Worn)",
+    "price": 7.49,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "UMP-45 | Caramel",
+    "id": "skin-1573236"
+  },
+  {
+    "name": "UMP-45 | Caramel (Battle-Scarred)",
+    "price": 9.54,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "UMP-45 | Caramel",
+    "id": "skin-1573236"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "name": "MP5-SD | Bamboo Garden (Battle-Scarred)",
+    "price": 1.64,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MP5-SD | Bamboo Garden",
+    "id": "skin-1510816"
+  },
+  {
+    "name": "MP5-SD | Bamboo Garden (Minimal Wear)",
+    "price": 2.01,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MP5-SD | Bamboo Garden",
+    "id": "skin-1510816"
+  },
+  {
+    "name": "MP5-SD | Bamboo Garden (Field-Tested)",
+    "price": 1.77,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MP5-SD | Bamboo Garden",
+    "id": "skin-1510816"
+  },
+  {
+    "name": "MP5-SD | Bamboo Garden (Well-Worn)",
+    "price": 1.88,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MP5-SD | Bamboo Garden",
+    "id": "skin-1510816"
+  },
+  {
+    "name": "MP5-SD | Bamboo Garden (Factory New)",
+    "price": 2.19,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MP5-SD | Bamboo Garden",
+    "id": "skin-1510816"
+  }
+]

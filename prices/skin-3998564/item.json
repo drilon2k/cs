@@ -1,0 +1,56 @@
+[
+  {
+    "name": "USP-S | Blood Tiger (Field-Tested)",
+    "price": 1.6,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "USP-S | Blood Tiger",
+    "id": "skin-3998564"
+  },
+  {
+    "name": "StatTrak™ USP-S | Blood Tiger (Minimal Wear)",
+    "price": 2.46,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "USP-S | Blood Tiger",
+    "id": "skin-3998564"
+  },
+  {
+    "name": "StatTrak™ USP-S | Blood Tiger (Factory New)",
+    "price": 8.46,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "USP-S | Blood Tiger",
+    "id": "skin-3998564"
+  },
+  {
+    "name": "USP-S | Blood Tiger (Factory New)",
+    "price": 3.53,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "USP-S | Blood Tiger",
+    "id": "skin-3998564"
+  },
+  {
+    "name": "USP-S | Blood Tiger (Minimal Wear)",
+    "price": 1.65,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "USP-S | Blood Tiger",
+    "id": "skin-3998564"
+  },
+  {
+    "name": "StatTrak™ USP-S | Blood Tiger (Field-Tested)",
+    "price": 2.46,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "USP-S | Blood Tiger",
+    "id": "skin-3998564"
+  }
+]

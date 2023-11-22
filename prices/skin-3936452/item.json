@@ -1,0 +1,47 @@
+[
+  {
+    "name": "M4A1-S | Imminent Danger (Well-Worn)",
+    "price": 670.3,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M4A1-S | Imminent Danger",
+    "id": "skin-3936452"
+  },
+  {
+    "name": "M4A1-S | Imminent Danger (Minimal Wear)",
+    "price": 1028.48,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M4A1-S | Imminent Danger",
+    "id": "skin-3936452"
+  },
+  {
+    "name": "M4A1-S | Imminent Danger (Factory New)",
+    "price": 1570.08,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M4A1-S | Imminent Danger",
+    "id": "skin-3936452"
+  },
+  {
+    "name": "M4A1-S | Imminent Danger (Battle-Scarred)",
+    "price": 521.1,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M4A1-S | Imminent Danger",
+    "id": "skin-3936452"
+  },
+  {
+    "name": "M4A1-S | Imminent Danger (Field-Tested)",
+    "price": 752.51,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M4A1-S | Imminent Danger",
+    "id": "skin-3936452"
+  }
+]

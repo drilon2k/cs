@@ -1,0 +1,92 @@
+[
+  {
+    "name": "★ Shadow Daggers | Freehand (Battle-Scarred)",
+    "price": 84.34,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Shadow Daggers | Freehand",
+    "id": "skin-33818900"
+  },
+  {
+    "name": "★ StatTrak™ Shadow Daggers | Freehand (Battle-Scarred)",
+    "price": 201.85,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Shadow Daggers | Freehand",
+    "id": "skin-33818900"
+  },
+  {
+    "name": "★ Shadow Daggers | Freehand (Factory New)",
+    "price": 106.07,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Shadow Daggers | Freehand",
+    "id": "skin-33818900"
+  },
+  {
+    "name": "★ StatTrak™ Shadow Daggers | Freehand (Well-Worn)",
+    "price": 98.73,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Shadow Daggers | Freehand",
+    "id": "skin-33818900"
+  },
+  {
+    "name": "★ StatTrak™ Shadow Daggers | Freehand (Field-Tested)",
+    "price": 95.99,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Shadow Daggers | Freehand",
+    "id": "skin-33818900"
+  },
+  {
+    "name": "★ StatTrak™ Shadow Daggers | Freehand (Minimal Wear)",
+    "price": 135.76,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Shadow Daggers | Freehand",
+    "id": "skin-33818900"
+  },
+  {
+    "name": "★ Shadow Daggers | Freehand (Field-Tested)",
+    "price": 83.7,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Shadow Daggers | Freehand",
+    "id": "skin-33818900"
+  },
+  {
+    "name": "★ Shadow Daggers | Freehand (Well-Worn)",
+    "price": 102.03,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Shadow Daggers | Freehand",
+    "id": "skin-33818900"
+  },
+  {
+    "name": "★ StatTrak™ Shadow Daggers | Freehand (Factory New)",
+    "price": 150.84,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Shadow Daggers | Freehand",
+    "id": "skin-33818900"
+  },
+  {
+    "name": "★ Shadow Daggers | Freehand (Minimal Wear)",
+    "price": 96.54,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Shadow Daggers | Freehand",
+    "id": "skin-33818900"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "name": "★ StatTrak™ Huntsman Knife",
+    "price": 275.77,
+    "wear": null,
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Huntsman Knife",
+    "id": "skin-vanilla-weapon_knife_tactical"
+  },
+  {
+    "name": "★ Huntsman Knife",
+    "price": 199.93,
+    "wear": null,
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Huntsman Knife",
+    "id": "skin-vanilla-weapon_knife_tactical"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "name": "★ StatTrak™ Huntsman Knife | Boreal Forest (Factory New)",
+    "price": 0,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Huntsman Knife | Boreal Forest",
+    "id": "skin-33358132"
+  },
+  {
+    "name": "★ StatTrak™ Huntsman Knife | Boreal Forest (Minimal Wear)",
+    "price": 246.96,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Huntsman Knife | Boreal Forest",
+    "id": "skin-33358132"
+  },
+  {
+    "name": "★ Huntsman Knife | Boreal Forest (Minimal Wear)",
+    "price": 108.26,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Huntsman Knife | Boreal Forest",
+    "id": "skin-33358132"
+  },
+  {
+    "name": "★ StatTrak™ Huntsman Knife | Boreal Forest (Battle-Scarred)",
+    "price": 104.91,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Huntsman Knife | Boreal Forest",
+    "id": "skin-33358132"
+  },
+  {
+    "name": "★ Huntsman Knife | Boreal Forest (Well-Worn)",
+    "price": 94.48,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Huntsman Knife | Boreal Forest",
+    "id": "skin-33358132"
+  },
+  {
+    "name": "★ StatTrak™ Huntsman Knife | Boreal Forest (Well-Worn)",
+    "price": 575.95,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Huntsman Knife | Boreal Forest",
+    "id": "skin-33358132"
+  },
+  {
+    "name": "★ StatTrak™ Huntsman Knife | Boreal Forest (Field-Tested)",
+    "price": 191.35,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Huntsman Knife | Boreal Forest",
+    "id": "skin-33358132"
+  },
+  {
+    "name": "★ Huntsman Knife | Boreal Forest (Field-Tested)",
+    "price": 97.91,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Huntsman Knife | Boreal Forest",
+    "id": "skin-33358132"
+  },
+  {
+    "name": "★ Huntsman Knife | Boreal Forest (Battle-Scarred)",
+    "price": 88.24,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Huntsman Knife | Boreal Forest",
+    "id": "skin-33358132"
+  },
+  {
+    "name": "★ Huntsman Knife | Boreal Forest (Factory New)",
+    "price": 253.83,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Huntsman Knife | Boreal Forest",
+    "id": "skin-33358132"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "name": "MAG-7 | Heaven Guard (Minimal Wear)",
+    "price": 0.25,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MAG-7 | Heaven Guard",
+    "id": "skin-1770636"
+  },
+  {
+    "name": "StatTrak™ MAG-7 | Heaven Guard (Well-Worn)",
+    "price": 0.49,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MAG-7 | Heaven Guard",
+    "id": "skin-1770636"
+  },
+  {
+    "name": "StatTrak™ MAG-7 | Heaven Guard (Minimal Wear)",
+    "price": 0.54,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MAG-7 | Heaven Guard",
+    "id": "skin-1770636"
+  },
+  {
+    "name": "StatTrak™ MAG-7 | Heaven Guard (Factory New)",
+    "price": 0.99,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MAG-7 | Heaven Guard",
+    "id": "skin-1770636"
+  },
+  {
+    "name": "StatTrak™ MAG-7 | Heaven Guard (Field-Tested)",
+    "price": 0.3,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MAG-7 | Heaven Guard",
+    "id": "skin-1770636"
+  },
+  {
+    "name": "MAG-7 | Heaven Guard (Well-Worn)",
+    "price": 0.25,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MAG-7 | Heaven Guard",
+    "id": "skin-1770636"
+  },
+  {
+    "name": "MAG-7 | Heaven Guard (Factory New)",
+    "price": 0.37,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MAG-7 | Heaven Guard",
+    "id": "skin-1770636"
+  },
+  {
+    "name": "MAG-7 | Heaven Guard (Field-Tested)",
+    "price": 0.19,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MAG-7 | Heaven Guard",
+    "id": "skin-1770636"
+  }
+]

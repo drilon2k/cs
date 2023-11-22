@@ -1,0 +1,92 @@
+[
+  {
+    "name": "P250 | Inferno (Battle-Scarred)",
+    "price": 0.39,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P250 | Inferno",
+    "id": "skin-2362924"
+  },
+  {
+    "name": "StatTrak™ P250 | Inferno (Minimal Wear)",
+    "price": 1.73,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "P250 | Inferno",
+    "id": "skin-2362924"
+  },
+  {
+    "name": "P250 | Inferno (Well-Worn)",
+    "price": 0.46,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P250 | Inferno",
+    "id": "skin-2362924"
+  },
+  {
+    "name": "P250 | Inferno (Field-Tested)",
+    "price": 0.41,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P250 | Inferno",
+    "id": "skin-2362924"
+  },
+  {
+    "name": "StatTrak™ P250 | Inferno (Factory New)",
+    "price": 3.04,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "P250 | Inferno",
+    "id": "skin-2362924"
+  },
+  {
+    "name": "StatTrak™ P250 | Inferno (Battle-Scarred)",
+    "price": 0.73,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "P250 | Inferno",
+    "id": "skin-2362924"
+  },
+  {
+    "name": "StatTrak™ P250 | Inferno (Well-Worn)",
+    "price": 1.2,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "P250 | Inferno",
+    "id": "skin-2362924"
+  },
+  {
+    "name": "P250 | Inferno (Minimal Wear)",
+    "price": 0.7,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P250 | Inferno",
+    "id": "skin-2362924"
+  },
+  {
+    "name": "P250 | Inferno (Factory New)",
+    "price": 1.2,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P250 | Inferno",
+    "id": "skin-2362924"
+  },
+  {
+    "name": "StatTrak™ P250 | Inferno (Field-Tested)",
+    "price": 0.91,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "P250 | Inferno",
+    "id": "skin-2362924"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "name": "★ Ursus Knife | Boreal Forest (Field-Tested)",
+    "price": 90.37,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Ursus Knife | Boreal Forest",
+    "id": "skin-34013492"
+  },
+  {
+    "name": "★ Ursus Knife | Boreal Forest (Minimal Wear)",
+    "price": 106.96,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Ursus Knife | Boreal Forest",
+    "id": "skin-34013492"
+  },
+  {
+    "name": "★ StatTrak™ Ursus Knife | Boreal Forest (Field-Tested)",
+    "price": 98.36,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Ursus Knife | Boreal Forest",
+    "id": "skin-34013492"
+  },
+  {
+    "name": "★ Ursus Knife | Boreal Forest (Well-Worn)",
+    "price": 89.13,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Ursus Knife | Boreal Forest",
+    "id": "skin-34013492"
+  },
+  {
+    "name": "★ StatTrak™ Ursus Knife | Boreal Forest (Factory New)",
+    "price": 0,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Ursus Knife | Boreal Forest",
+    "id": "skin-34013492"
+  },
+  {
+    "name": "★ StatTrak™ Ursus Knife | Boreal Forest (Well-Worn)",
+    "price": 93.17,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Ursus Knife | Boreal Forest",
+    "id": "skin-34013492"
+  },
+  {
+    "name": "★ Ursus Knife | Boreal Forest (Factory New)",
+    "price": 204.05,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Ursus Knife | Boreal Forest",
+    "id": "skin-34013492"
+  },
+  {
+    "name": "★ StatTrak™ Ursus Knife | Boreal Forest (Battle-Scarred)",
+    "price": 116.56,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Ursus Knife | Boreal Forest",
+    "id": "skin-34013492"
+  },
+  {
+    "name": "★ Ursus Knife | Boreal Forest (Battle-Scarred)",
+    "price": 87.76,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Ursus Knife | Boreal Forest",
+    "id": "skin-34013492"
+  },
+  {
+    "name": "★ StatTrak™ Ursus Knife | Boreal Forest (Minimal Wear)",
+    "price": 121.61,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Ursus Knife | Boreal Forest",
+    "id": "skin-34013492"
+  }
+]

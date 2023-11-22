@@ -1,0 +1,56 @@
+[
+  {
+    "name": "★ StatTrak™ Butterfly Knife | Slaughter (Factory New)",
+    "price": 1371.24,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Butterfly Knife | Slaughter",
+    "id": "skin-33751276"
+  },
+  {
+    "name": "★ Butterfly Knife | Slaughter (Field-Tested)",
+    "price": 971.98,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Butterfly Knife | Slaughter",
+    "id": "skin-33751276"
+  },
+  {
+    "name": "★ Butterfly Knife | Slaughter (Minimal Wear)",
+    "price": 1090.19,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Butterfly Knife | Slaughter",
+    "id": "skin-33751276"
+  },
+  {
+    "name": "★ StatTrak™ Butterfly Knife | Slaughter (Minimal Wear)",
+    "price": 1183.85,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Butterfly Knife | Slaughter",
+    "id": "skin-33751276"
+  },
+  {
+    "name": "★ Butterfly Knife | Slaughter (Factory New)",
+    "price": 1234.18,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Butterfly Knife | Slaughter",
+    "id": "skin-33751276"
+  },
+  {
+    "name": "★ StatTrak™ Butterfly Knife | Slaughter (Field-Tested)",
+    "price": 973.55,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Butterfly Knife | Slaughter",
+    "id": "skin-33751276"
+  }
+]

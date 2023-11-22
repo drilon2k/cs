@@ -1,0 +1,38 @@
+[
+  {
+    "name": "★ StatTrak™ Bayonet | Rust Coat (Battle-Scarred)",
+    "price": 197.19,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Bayonet | Rust Coat",
+    "id": "skin-32769656"
+  },
+  {
+    "name": "★ Bayonet | Rust Coat (Battle-Scarred)",
+    "price": 186.16,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Bayonet | Rust Coat",
+    "id": "skin-32769656"
+  },
+  {
+    "name": "★ Bayonet | Rust Coat (Well-Worn)",
+    "price": 204.33,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Bayonet | Rust Coat",
+    "id": "skin-32769656"
+  },
+  {
+    "name": "★ StatTrak™ Bayonet | Rust Coat (Well-Worn)",
+    "price": 411.26,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Bayonet | Rust Coat",
+    "id": "skin-32769656"
+  }
+]

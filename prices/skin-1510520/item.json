@@ -1,0 +1,47 @@
+[
+  {
+    "name": "MP5-SD | Nitro (Field-Tested)",
+    "price": 1.99,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MP5-SD | Nitro",
+    "id": "skin-1510520"
+  },
+  {
+    "name": "MP5-SD | Nitro (Minimal Wear)",
+    "price": 2.04,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MP5-SD | Nitro",
+    "id": "skin-1510520"
+  },
+  {
+    "name": "MP5-SD | Nitro (Battle-Scarred)",
+    "price": 2,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MP5-SD | Nitro",
+    "id": "skin-1510520"
+  },
+  {
+    "name": "MP5-SD | Nitro (Factory New)",
+    "price": 8.2,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MP5-SD | Nitro",
+    "id": "skin-1510520"
+  },
+  {
+    "name": "MP5-SD | Nitro (Well-Worn)",
+    "price": 2.09,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MP5-SD | Nitro",
+    "id": "skin-1510520"
+  }
+]

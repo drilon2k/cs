@@ -1,0 +1,92 @@
+[
+  {
+    "name": "G3SG1 | Stinger (Minimal Wear)",
+    "price": 0.44,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "G3SG1 | Stinger",
+    "id": "skin-723408"
+  },
+  {
+    "name": "G3SG1 | Stinger (Field-Tested)",
+    "price": 0.23,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "G3SG1 | Stinger",
+    "id": "skin-723408"
+  },
+  {
+    "name": "G3SG1 | Stinger (Well-Worn)",
+    "price": 0.4,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "G3SG1 | Stinger",
+    "id": "skin-723408"
+  },
+  {
+    "name": "StatTrak™ G3SG1 | Stinger (Factory New)",
+    "price": 2.47,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "G3SG1 | Stinger",
+    "id": "skin-723408"
+  },
+  {
+    "name": "StatTrak™ G3SG1 | Stinger (Well-Worn)",
+    "price": 0.74,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "G3SG1 | Stinger",
+    "id": "skin-723408"
+  },
+  {
+    "name": "StatTrak™ G3SG1 | Stinger (Minimal Wear)",
+    "price": 1.04,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "G3SG1 | Stinger",
+    "id": "skin-723408"
+  },
+  {
+    "name": "G3SG1 | Stinger (Battle-Scarred)",
+    "price": 0.22,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "G3SG1 | Stinger",
+    "id": "skin-723408"
+  },
+  {
+    "name": "StatTrak™ G3SG1 | Stinger (Battle-Scarred)",
+    "price": 0.54,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "G3SG1 | Stinger",
+    "id": "skin-723408"
+  },
+  {
+    "name": "G3SG1 | Stinger (Factory New)",
+    "price": 0.81,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "G3SG1 | Stinger",
+    "id": "skin-723408"
+  },
+  {
+    "name": "StatTrak™ G3SG1 | Stinger (Field-Tested)",
+    "price": 0.51,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "G3SG1 | Stinger",
+    "id": "skin-723408"
+  }
+]

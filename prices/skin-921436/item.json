@@ -1,0 +1,92 @@
+[
+  {
+    "name": "StatTrak™ M249 | Deep Relief (Well-Worn)",
+    "price": 0.28,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "M249 | Deep Relief",
+    "id": "skin-921436"
+  },
+  {
+    "name": "StatTrak™ M249 | Deep Relief (Battle-Scarred)",
+    "price": 0.23,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "M249 | Deep Relief",
+    "id": "skin-921436"
+  },
+  {
+    "name": "M249 | Deep Relief (Well-Worn)",
+    "price": 0.3,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M249 | Deep Relief",
+    "id": "skin-921436"
+  },
+  {
+    "name": "M249 | Deep Relief (Factory New)",
+    "price": 0.7,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M249 | Deep Relief",
+    "id": "skin-921436"
+  },
+  {
+    "name": "StatTrak™ M249 | Deep Relief (Minimal Wear)",
+    "price": 0.86,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "M249 | Deep Relief",
+    "id": "skin-921436"
+  },
+  {
+    "name": "StatTrak™ M249 | Deep Relief (Field-Tested)",
+    "price": 0.33,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "M249 | Deep Relief",
+    "id": "skin-921436"
+  },
+  {
+    "name": "StatTrak™ M249 | Deep Relief (Factory New)",
+    "price": 1.97,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "M249 | Deep Relief",
+    "id": "skin-921436"
+  },
+  {
+    "name": "M249 | Deep Relief (Battle-Scarred)",
+    "price": 0.25,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M249 | Deep Relief",
+    "id": "skin-921436"
+  },
+  {
+    "name": "M249 | Deep Relief (Field-Tested)",
+    "price": 0.39,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M249 | Deep Relief",
+    "id": "skin-921436"
+  },
+  {
+    "name": "M249 | Deep Relief (Minimal Wear)",
+    "price": 0.47,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M249 | Deep Relief",
+    "id": "skin-921436"
+  }
+]

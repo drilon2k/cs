@@ -1,0 +1,56 @@
+[
+  {
+    "name": "P250 | Undertow (Field-Tested)",
+    "price": 31.88,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P250 | Undertow",
+    "id": "skin-2360380"
+  },
+  {
+    "name": "P250 | Undertow (Minimal Wear)",
+    "price": 32.22,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P250 | Undertow",
+    "id": "skin-2360380"
+  },
+  {
+    "name": "StatTrak™ P250 | Undertow (Factory New)",
+    "price": 51.29,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "P250 | Undertow",
+    "id": "skin-2360380"
+  },
+  {
+    "name": "StatTrak™ P250 | Undertow (Field-Tested)",
+    "price": 29.89,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "P250 | Undertow",
+    "id": "skin-2360380"
+  },
+  {
+    "name": "P250 | Undertow (Factory New)",
+    "price": 45.82,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P250 | Undertow",
+    "id": "skin-2360380"
+  },
+  {
+    "name": "StatTrak™ P250 | Undertow (Minimal Wear)",
+    "price": 30.41,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "P250 | Undertow",
+    "id": "skin-2360380"
+  }
+]

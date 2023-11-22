@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Desert Eagle | Golden Koi (Factory New)",
+    "price": 64.45,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Desert Eagle | Golden Koi",
+    "id": "skin-66276"
+  },
+  {
+    "name": "Desert Eagle | Golden Koi (Minimal Wear)",
+    "price": 63.63,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Desert Eagle | Golden Koi",
+    "id": "skin-66276"
+  },
+  {
+    "name": "StatTrak™ Desert Eagle | Golden Koi (Factory New)",
+    "price": 193.01,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Desert Eagle | Golden Koi",
+    "id": "skin-66276"
+  },
+  {
+    "name": "StatTrak™ Desert Eagle | Golden Koi (Minimal Wear)",
+    "price": 113.82,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Desert Eagle | Golden Koi",
+    "id": "skin-66276"
+  }
+]

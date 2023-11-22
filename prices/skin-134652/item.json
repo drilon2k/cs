@@ -1,0 +1,92 @@
+[
+  {
+    "name": "StatTrak™ Dual Berettas | Balance (Factory New)",
+    "price": 7.27,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Dual Berettas | Balance",
+    "id": "skin-134652"
+  },
+  {
+    "name": "Dual Berettas | Balance (Well-Worn)",
+    "price": 0.81,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Dual Berettas | Balance",
+    "id": "skin-134652"
+  },
+  {
+    "name": "StatTrak™ Dual Berettas | Balance (Battle-Scarred)",
+    "price": 0.74,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Dual Berettas | Balance",
+    "id": "skin-134652"
+  },
+  {
+    "name": "Dual Berettas | Balance (Factory New)",
+    "price": 2.34,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Dual Berettas | Balance",
+    "id": "skin-134652"
+  },
+  {
+    "name": "Dual Berettas | Balance (Battle-Scarred)",
+    "price": 0.82,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Dual Berettas | Balance",
+    "id": "skin-134652"
+  },
+  {
+    "name": "Dual Berettas | Balance (Field-Tested)",
+    "price": 0.86,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Dual Berettas | Balance",
+    "id": "skin-134652"
+  },
+  {
+    "name": "StatTrak™ Dual Berettas | Balance (Minimal Wear)",
+    "price": 1.53,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Dual Berettas | Balance",
+    "id": "skin-134652"
+  },
+  {
+    "name": "StatTrak™ Dual Berettas | Balance (Well-Worn)",
+    "price": 0.75,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Dual Berettas | Balance",
+    "id": "skin-134652"
+  },
+  {
+    "name": "Dual Berettas | Balance (Minimal Wear)",
+    "price": 0.86,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Dual Berettas | Balance",
+    "id": "skin-134652"
+  },
+  {
+    "name": "StatTrak™ Dual Berettas | Balance (Field-Tested)",
+    "price": 1.09,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Dual Berettas | Balance",
+    "id": "skin-134652"
+  }
+]

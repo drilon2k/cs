@@ -1,0 +1,47 @@
+[
+  {
+    "name": "SSG 08 | Jungle Dashed (Well-Worn)",
+    "price": 0.35,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "SSG 08 | Jungle Dashed",
+    "id": "skin-2622028"
+  },
+  {
+    "name": "SSG 08 | Jungle Dashed (Minimal Wear)",
+    "price": 0.39,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "SSG 08 | Jungle Dashed",
+    "id": "skin-2622028"
+  },
+  {
+    "name": "SSG 08 | Jungle Dashed (Field-Tested)",
+    "price": 0.33,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "SSG 08 | Jungle Dashed",
+    "id": "skin-2622028"
+  },
+  {
+    "name": "SSG 08 | Jungle Dashed (Factory New)",
+    "price": 1.83,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "SSG 08 | Jungle Dashed",
+    "id": "skin-2622028"
+  },
+  {
+    "name": "SSG 08 | Jungle Dashed (Battle-Scarred)",
+    "price": 0.35,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "SSG 08 | Jungle Dashed",
+    "id": "skin-2622028"
+  }
+]

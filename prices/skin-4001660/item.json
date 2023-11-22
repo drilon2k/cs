@@ -1,0 +1,92 @@
+[
+  {
+    "name": "USP-S | Monster Mashup (Factory New)",
+    "price": 30.57,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "USP-S | Monster Mashup",
+    "id": "skin-4001660"
+  },
+  {
+    "name": "USP-S | Monster Mashup (Minimal Wear)",
+    "price": 18.65,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "USP-S | Monster Mashup",
+    "id": "skin-4001660"
+  },
+  {
+    "name": "StatTrak™ USP-S | Monster Mashup (Factory New)",
+    "price": 70.35,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "USP-S | Monster Mashup",
+    "id": "skin-4001660"
+  },
+  {
+    "name": "USP-S | Monster Mashup (Battle-Scarred)",
+    "price": 11.31,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "USP-S | Monster Mashup",
+    "id": "skin-4001660"
+  },
+  {
+    "name": "USP-S | Monster Mashup (Field-Tested)",
+    "price": 12.32,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "USP-S | Monster Mashup",
+    "id": "skin-4001660"
+  },
+  {
+    "name": "StatTrak™ USP-S | Monster Mashup (Field-Tested)",
+    "price": 17.89,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "USP-S | Monster Mashup",
+    "id": "skin-4001660"
+  },
+  {
+    "name": "USP-S | Monster Mashup (Well-Worn)",
+    "price": 12.29,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "USP-S | Monster Mashup",
+    "id": "skin-4001660"
+  },
+  {
+    "name": "StatTrak™ USP-S | Monster Mashup (Minimal Wear)",
+    "price": 38.93,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "USP-S | Monster Mashup",
+    "id": "skin-4001660"
+  },
+  {
+    "name": "StatTrak™ USP-S | Monster Mashup (Well-Worn)",
+    "price": 19.97,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "USP-S | Monster Mashup",
+    "id": "skin-4001660"
+  },
+  {
+    "name": "StatTrak™ USP-S | Monster Mashup (Battle-Scarred)",
+    "price": 18.16,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "USP-S | Monster Mashup",
+    "id": "skin-4001660"
+  }
+]

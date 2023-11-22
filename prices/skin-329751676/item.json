@@ -1,0 +1,47 @@
+[
+  {
+    "name": "★ Driver Gloves | Convoy (Battle-Scarred)",
+    "price": 60.32,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Driver Gloves | Convoy",
+    "id": "skin-329751676"
+  },
+  {
+    "name": "★ Driver Gloves | Convoy (Field-Tested)",
+    "price": 58.97,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Driver Gloves | Convoy",
+    "id": "skin-329751676"
+  },
+  {
+    "name": "★ Driver Gloves | Convoy (Minimal Wear)",
+    "price": 108.33,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Driver Gloves | Convoy",
+    "id": "skin-329751676"
+  },
+  {
+    "name": "★ Driver Gloves | Convoy (Factory New)",
+    "price": 359.28,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Driver Gloves | Convoy",
+    "id": "skin-329751676"
+  },
+  {
+    "name": "★ Driver Gloves | Convoy (Well-Worn)",
+    "price": 60.95,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Driver Gloves | Convoy",
+    "id": "skin-329751676"
+  }
+]

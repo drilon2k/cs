@@ -1,0 +1,20 @@
+[
+  {
+    "name": "AUG | Hot Rod (Minimal Wear)",
+    "price": 671.94,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AUG | Hot Rod",
+    "id": "skin-524420"
+  },
+  {
+    "name": "AUG | Hot Rod (Factory New)",
+    "price": 341.18,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AUG | Hot Rod",
+    "id": "skin-524420"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Tec-9 | Avalanche (Field-Tested)",
+    "price": 0.58,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Tec-9 | Avalanche",
+    "id": "skin-1968160"
+  },
+  {
+    "name": "Tec-9 | Avalanche (Factory New)",
+    "price": 2.66,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Tec-9 | Avalanche",
+    "id": "skin-1968160"
+  },
+  {
+    "name": "StatTrak™ Tec-9 | Avalanche (Battle-Scarred)",
+    "price": 1.1,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Tec-9 | Avalanche",
+    "id": "skin-1968160"
+  },
+  {
+    "name": "Tec-9 | Avalanche (Battle-Scarred)",
+    "price": 0.37,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Tec-9 | Avalanche",
+    "id": "skin-1968160"
+  },
+  {
+    "name": "Tec-9 | Avalanche (Minimal Wear)",
+    "price": 1.21,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Tec-9 | Avalanche",
+    "id": "skin-1968160"
+  },
+  {
+    "name": "StatTrak™ Tec-9 | Avalanche (Minimal Wear)",
+    "price": 3.81,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Tec-9 | Avalanche",
+    "id": "skin-1968160"
+  },
+  {
+    "name": "StatTrak™ Tec-9 | Avalanche (Factory New)",
+    "price": 10.21,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Tec-9 | Avalanche",
+    "id": "skin-1968160"
+  },
+  {
+    "name": "Tec-9 | Avalanche (Well-Worn)",
+    "price": 0.44,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Tec-9 | Avalanche",
+    "id": "skin-1968160"
+  },
+  {
+    "name": "StatTrak™ Tec-9 | Avalanche (Well-Worn)",
+    "price": 1.34,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Tec-9 | Avalanche",
+    "id": "skin-1968160"
+  },
+  {
+    "name": "StatTrak™ Tec-9 | Avalanche (Field-Tested)",
+    "price": 1.66,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Tec-9 | Avalanche",
+    "id": "skin-1968160"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "name": "AUG | Plague (Field-Tested)",
+    "price": 0.25,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AUG | Plague",
+    "id": "skin-528640"
+  },
+  {
+    "name": "AUG | Plague (Battle-Scarred)",
+    "price": 0.23,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AUG | Plague",
+    "id": "skin-528640"
+  },
+  {
+    "name": "AUG | Plague (Minimal Wear)",
+    "price": 0.57,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AUG | Plague",
+    "id": "skin-528640"
+  },
+  {
+    "name": "StatTrak™ AUG | Plague (Factory New)",
+    "price": 3.76,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AUG | Plague",
+    "id": "skin-528640"
+  },
+  {
+    "name": "StatTrak™ AUG | Plague (Field-Tested)",
+    "price": 0.64,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AUG | Plague",
+    "id": "skin-528640"
+  },
+  {
+    "name": "StatTrak™ AUG | Plague (Battle-Scarred)",
+    "price": 0.56,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AUG | Plague",
+    "id": "skin-528640"
+  },
+  {
+    "name": "StatTrak™ AUG | Plague (Well-Worn)",
+    "price": 1.24,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AUG | Plague",
+    "id": "skin-528640"
+  },
+  {
+    "name": "StatTrak™ AUG | Plague (Minimal Wear)",
+    "price": 1.6,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AUG | Plague",
+    "id": "skin-528640"
+  },
+  {
+    "name": "AUG | Plague (Factory New)",
+    "price": 1.06,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AUG | Plague",
+    "id": "skin-528640"
+  },
+  {
+    "name": "AUG | Plague (Well-Worn)",
+    "price": 0.63,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AUG | Plague",
+    "id": "skin-528640"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "name": "PP-Bizon | Embargo (Well-Worn)",
+    "price": 0.9,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "PP-Bizon | Embargo",
+    "id": "skin-1707472"
+  },
+  {
+    "name": "PP-Bizon | Embargo (Factory New)",
+    "price": 4.1,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "PP-Bizon | Embargo",
+    "id": "skin-1707472"
+  },
+  {
+    "name": "PP-Bizon | Embargo (Field-Tested)",
+    "price": 1.24,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "PP-Bizon | Embargo",
+    "id": "skin-1707472"
+  },
+  {
+    "name": "PP-Bizon | Embargo (Minimal Wear)",
+    "price": 2.12,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "PP-Bizon | Embargo",
+    "id": "skin-1707472"
+  },
+  {
+    "name": "StatTrak™ PP-Bizon | Embargo (Battle-Scarred)",
+    "price": 1.77,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "PP-Bizon | Embargo",
+    "id": "skin-1707472"
+  },
+  {
+    "name": "StatTrak™ PP-Bizon | Embargo (Field-Tested)",
+    "price": 2.04,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "PP-Bizon | Embargo",
+    "id": "skin-1707472"
+  },
+  {
+    "name": "StatTrak™ PP-Bizon | Embargo (Minimal Wear)",
+    "price": 5.03,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "PP-Bizon | Embargo",
+    "id": "skin-1707472"
+  },
+  {
+    "name": "PP-Bizon | Embargo (Battle-Scarred)",
+    "price": 0.8,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "PP-Bizon | Embargo",
+    "id": "skin-1707472"
+  },
+  {
+    "name": "StatTrak™ PP-Bizon | Embargo (Factory New)",
+    "price": 11.66,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "PP-Bizon | Embargo",
+    "id": "skin-1707472"
+  },
+  {
+    "name": "StatTrak™ PP-Bizon | Embargo (Well-Worn)",
+    "price": 1.86,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "PP-Bizon | Embargo",
+    "id": "skin-1707472"
+  }
+]

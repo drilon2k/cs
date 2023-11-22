@@ -1,0 +1,92 @@
+[
+  {
+    "name": "★ Classic Knife | Urban Masked (Factory New)",
+    "price": 214.82,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Classic Knife | Urban Masked",
+    "id": "skin-32965180"
+  },
+  {
+    "name": "★ Classic Knife | Urban Masked (Minimal Wear)",
+    "price": 111.08,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Classic Knife | Urban Masked",
+    "id": "skin-32965180"
+  },
+  {
+    "name": "★ StatTrak™ Classic Knife | Urban Masked (Well-Worn)",
+    "price": 106.89,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Classic Knife | Urban Masked",
+    "id": "skin-32965180"
+  },
+  {
+    "name": "★ Classic Knife | Urban Masked (Battle-Scarred)",
+    "price": 98.05,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Classic Knife | Urban Masked",
+    "id": "skin-32965180"
+  },
+  {
+    "name": "★ StatTrak™ Classic Knife | Urban Masked (Minimal Wear)",
+    "price": 121.88,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Classic Knife | Urban Masked",
+    "id": "skin-32965180"
+  },
+  {
+    "name": "★ Classic Knife | Urban Masked (Well-Worn)",
+    "price": 107.65,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Classic Knife | Urban Masked",
+    "id": "skin-32965180"
+  },
+  {
+    "name": "★ StatTrak™ Classic Knife | Urban Masked (Field-Tested)",
+    "price": 108.33,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Classic Knife | Urban Masked",
+    "id": "skin-32965180"
+  },
+  {
+    "name": "★ StatTrak™ Classic Knife | Urban Masked (Battle-Scarred)",
+    "price": 105.52,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Classic Knife | Urban Masked",
+    "id": "skin-32965180"
+  },
+  {
+    "name": "★ StatTrak™ Classic Knife | Urban Masked (Factory New)",
+    "price": 0,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Classic Knife | Urban Masked",
+    "id": "skin-32965180"
+  },
+  {
+    "name": "★ Classic Knife | Urban Masked (Field-Tested)",
+    "price": 97.71,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Classic Knife | Urban Masked",
+    "id": "skin-32965180"
+  }
+]

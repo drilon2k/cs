@@ -1,0 +1,92 @@
+[
+  {
+    "name": "StatTrak™ Dual Berettas | Marina (Field-Tested)",
+    "price": 8.29,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Dual Berettas | Marina",
+    "id": "skin-132116"
+  },
+  {
+    "name": "StatTrak™ Dual Berettas | Marina (Factory New)",
+    "price": 41.82,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Dual Berettas | Marina",
+    "id": "skin-132116"
+  },
+  {
+    "name": "StatTrak™ Dual Berettas | Marina (Battle-Scarred)",
+    "price": 9.08,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Dual Berettas | Marina",
+    "id": "skin-132116"
+  },
+  {
+    "name": "StatTrak™ Dual Berettas | Marina (Well-Worn)",
+    "price": 9.74,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Dual Berettas | Marina",
+    "id": "skin-132116"
+  },
+  {
+    "name": "StatTrak™ Dual Berettas | Marina (Minimal Wear)",
+    "price": 9.35,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Dual Berettas | Marina",
+    "id": "skin-132116"
+  },
+  {
+    "name": "Dual Berettas | Marina (Minimal Wear)",
+    "price": 4.1,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Dual Berettas | Marina",
+    "id": "skin-132116"
+  },
+  {
+    "name": "Dual Berettas | Marina (Battle-Scarred)",
+    "price": 4.22,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Dual Berettas | Marina",
+    "id": "skin-132116"
+  },
+  {
+    "name": "Dual Berettas | Marina (Well-Worn)",
+    "price": 4.31,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Dual Berettas | Marina",
+    "id": "skin-132116"
+  },
+  {
+    "name": "Dual Berettas | Marina (Field-Tested)",
+    "price": 3.78,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Dual Berettas | Marina",
+    "id": "skin-132116"
+  },
+  {
+    "name": "Dual Berettas | Marina (Factory New)",
+    "price": 13.58,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Dual Berettas | Marina",
+    "id": "skin-132116"
+  }
+]

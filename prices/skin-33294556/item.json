@@ -1,0 +1,92 @@
+[
+  {
+    "name": "★ M9 Bayonet | Black Laminate (Battle-Scarred)",
+    "price": 543.04,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ M9 Bayonet | Black Laminate",
+    "id": "skin-33294556"
+  },
+  {
+    "name": "★ M9 Bayonet | Black Laminate (Well-Worn)",
+    "price": 545.71,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ M9 Bayonet | Black Laminate",
+    "id": "skin-33294556"
+  },
+  {
+    "name": "★ StatTrak™ M9 Bayonet | Black Laminate (Battle-Scarred)",
+    "price": 589.59,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ M9 Bayonet | Black Laminate",
+    "id": "skin-33294556"
+  },
+  {
+    "name": "★ StatTrak™ M9 Bayonet | Black Laminate (Field-Tested)",
+    "price": 553.87,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ M9 Bayonet | Black Laminate",
+    "id": "skin-33294556"
+  },
+  {
+    "name": "★ M9 Bayonet | Black Laminate (Factory New)",
+    "price": 884.43,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ M9 Bayonet | Black Laminate",
+    "id": "skin-33294556"
+  },
+  {
+    "name": "★ StatTrak™ M9 Bayonet | Black Laminate (Well-Worn)",
+    "price": 521.1,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ M9 Bayonet | Black Laminate",
+    "id": "skin-33294556"
+  },
+  {
+    "name": "★ M9 Bayonet | Black Laminate (Minimal Wear)",
+    "price": 589.66,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ M9 Bayonet | Black Laminate",
+    "id": "skin-33294556"
+  },
+  {
+    "name": "★ StatTrak™ M9 Bayonet | Black Laminate (Factory New)",
+    "price": 884.43,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ M9 Bayonet | Black Laminate",
+    "id": "skin-33294556"
+  },
+  {
+    "name": "★ StatTrak™ M9 Bayonet | Black Laminate (Minimal Wear)",
+    "price": 611.4,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ M9 Bayonet | Black Laminate",
+    "id": "skin-33294556"
+  },
+  {
+    "name": "★ M9 Bayonet | Black Laminate (Field-Tested)",
+    "price": 562.24,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ M9 Bayonet | Black Laminate",
+    "id": "skin-33294556"
+  }
+]

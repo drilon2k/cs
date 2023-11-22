@@ -1,0 +1,92 @@
+[
+  {
+    "name": "MAC-10 | Stalker (Minimal Wear)",
+    "price": 16.25,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MAC-10 | Stalker",
+    "id": "skin-1117704"
+  },
+  {
+    "name": "StatTrak™ MAC-10 | Stalker (Well-Worn)",
+    "price": 23.93,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MAC-10 | Stalker",
+    "id": "skin-1117704"
+  },
+  {
+    "name": "StatTrak™ MAC-10 | Stalker (Field-Tested)",
+    "price": 28.71,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MAC-10 | Stalker",
+    "id": "skin-1117704"
+  },
+  {
+    "name": "MAC-10 | Stalker (Battle-Scarred)",
+    "price": 7.29,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MAC-10 | Stalker",
+    "id": "skin-1117704"
+  },
+  {
+    "name": "MAC-10 | Stalker (Factory New)",
+    "price": 46.49,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MAC-10 | Stalker",
+    "id": "skin-1117704"
+  },
+  {
+    "name": "MAC-10 | Stalker (Field-Tested)",
+    "price": 8.76,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MAC-10 | Stalker",
+    "id": "skin-1117704"
+  },
+  {
+    "name": "StatTrak™ MAC-10 | Stalker (Factory New)",
+    "price": 226.27,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MAC-10 | Stalker",
+    "id": "skin-1117704"
+  },
+  {
+    "name": "StatTrak™ MAC-10 | Stalker (Battle-Scarred)",
+    "price": 24.68,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MAC-10 | Stalker",
+    "id": "skin-1117704"
+  },
+  {
+    "name": "MAC-10 | Stalker (Well-Worn)",
+    "price": 7.73,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MAC-10 | Stalker",
+    "id": "skin-1117704"
+  },
+  {
+    "name": "StatTrak™ MAC-10 | Stalker (Minimal Wear)",
+    "price": 60.2,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MAC-10 | Stalker",
+    "id": "skin-1117704"
+  }
+]

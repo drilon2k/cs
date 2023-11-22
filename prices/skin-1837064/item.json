@@ -1,0 +1,92 @@
+[
+  {
+    "name": "StatTrak™ Negev | Power Loader (Battle-Scarred)",
+    "price": 1.65,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Negev | Power Loader",
+    "id": "skin-1837064"
+  },
+  {
+    "name": "Negev | Power Loader (Battle-Scarred)",
+    "price": 0.48,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Negev | Power Loader",
+    "id": "skin-1837064"
+  },
+  {
+    "name": "Negev | Power Loader (Minimal Wear)",
+    "price": 1.39,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Negev | Power Loader",
+    "id": "skin-1837064"
+  },
+  {
+    "name": "Negev | Power Loader (Factory New)",
+    "price": 3.95,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Negev | Power Loader",
+    "id": "skin-1837064"
+  },
+  {
+    "name": "StatTrak™ Negev | Power Loader (Field-Tested)",
+    "price": 3.17,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Negev | Power Loader",
+    "id": "skin-1837064"
+  },
+  {
+    "name": "StatTrak™ Negev | Power Loader (Well-Worn)",
+    "price": 2.04,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Negev | Power Loader",
+    "id": "skin-1837064"
+  },
+  {
+    "name": "StatTrak™ Negev | Power Loader (Minimal Wear)",
+    "price": 7.02,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Negev | Power Loader",
+    "id": "skin-1837064"
+  },
+  {
+    "name": "Negev | Power Loader (Field-Tested)",
+    "price": 0.69,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Negev | Power Loader",
+    "id": "skin-1837064"
+  },
+  {
+    "name": "Negev | Power Loader (Well-Worn)",
+    "price": 0.48,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Negev | Power Loader",
+    "id": "skin-1837064"
+  },
+  {
+    "name": "StatTrak™ Negev | Power Loader (Factory New)",
+    "price": 19.88,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Negev | Power Loader",
+    "id": "skin-1837064"
+  }
+]

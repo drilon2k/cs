@@ -1,0 +1,38 @@
+[
+  {
+    "name": "MP9 | Hypnotic (Minimal Wear)",
+    "price": 13.71,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MP9 | Hypnotic",
+    "id": "skin-2228468"
+  },
+  {
+    "name": "MP9 | Hypnotic (Factory New)",
+    "price": 8.64,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MP9 | Hypnotic",
+    "id": "skin-2228468"
+  },
+  {
+    "name": "StatTrak™ MP9 | Hypnotic (Minimal Wear)",
+    "price": 23.45,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MP9 | Hypnotic",
+    "id": "skin-2228468"
+  },
+  {
+    "name": "StatTrak™ MP9 | Hypnotic (Factory New)",
+    "price": 25.13,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MP9 | Hypnotic",
+    "id": "skin-2228468"
+  }
+]

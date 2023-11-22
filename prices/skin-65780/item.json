@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Desert Eagle | Hypnotic (Minimal Wear)",
+    "price": 93.11,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Desert Eagle | Hypnotic",
+    "id": "skin-65780"
+  },
+  {
+    "name": "StatTrak™ Desert Eagle | Hypnotic (Factory New)",
+    "price": 128.56,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Desert Eagle | Hypnotic",
+    "id": "skin-65780"
+  },
+  {
+    "name": "Desert Eagle | Hypnotic (Factory New)",
+    "price": 79.95,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Desert Eagle | Hypnotic",
+    "id": "skin-65780"
+  },
+  {
+    "name": "StatTrak™ Desert Eagle | Hypnotic (Minimal Wear)",
+    "price": 136.45,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Desert Eagle | Hypnotic",
+    "id": "skin-65780"
+  }
+]

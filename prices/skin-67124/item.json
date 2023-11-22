@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Desert Eagle | Naga (Minimal Wear)",
+    "price": 1.65,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Desert Eagle | Naga",
+    "id": "skin-67124"
+  },
+  {
+    "name": "Desert Eagle | Naga (Battle-Scarred)",
+    "price": 0.76,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Desert Eagle | Naga",
+    "id": "skin-67124"
+  },
+  {
+    "name": "StatTrak™ Desert Eagle | Naga (Factory New)",
+    "price": 16.82,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Desert Eagle | Naga",
+    "id": "skin-67124"
+  },
+  {
+    "name": "StatTrak™ Desert Eagle | Naga (Battle-Scarred)",
+    "price": 3,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Desert Eagle | Naga",
+    "id": "skin-67124"
+  },
+  {
+    "name": "StatTrak™ Desert Eagle | Naga (Well-Worn)",
+    "price": 2.95,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Desert Eagle | Naga",
+    "id": "skin-67124"
+  },
+  {
+    "name": "Desert Eagle | Naga (Well-Worn)",
+    "price": 0.74,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Desert Eagle | Naga",
+    "id": "skin-67124"
+  },
+  {
+    "name": "StatTrak™ Desert Eagle | Naga (Minimal Wear)",
+    "price": 5.55,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Desert Eagle | Naga",
+    "id": "skin-67124"
+  },
+  {
+    "name": "Desert Eagle | Naga (Field-Tested)",
+    "price": 0.93,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Desert Eagle | Naga",
+    "id": "skin-67124"
+  },
+  {
+    "name": "Desert Eagle | Naga (Factory New)",
+    "price": 4.85,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Desert Eagle | Naga",
+    "id": "skin-67124"
+  },
+  {
+    "name": "StatTrak™ Desert Eagle | Naga (Field-Tested)",
+    "price": 3.15,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Desert Eagle | Naga",
+    "id": "skin-67124"
+  }
+]

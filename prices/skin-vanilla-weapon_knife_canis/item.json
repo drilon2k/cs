@@ -1,0 +1,20 @@
+[
+  {
+    "name": "★ Survival Knife",
+    "price": 172.35,
+    "wear": null,
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Survival Knife",
+    "id": "skin-vanilla-weapon_knife_canis"
+  },
+  {
+    "name": "★ StatTrak™ Survival Knife",
+    "price": 174.56,
+    "wear": null,
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Survival Knife",
+    "id": "skin-vanilla-weapon_knife_canis"
+  }
+]

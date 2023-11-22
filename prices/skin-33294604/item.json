@@ -1,0 +1,92 @@
+[
+  {
+    "name": "★ M9 Bayonet | Bright Water (Field-Tested)",
+    "price": 404.4,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ M9 Bayonet | Bright Water",
+    "id": "skin-33294604"
+  },
+  {
+    "name": "★ M9 Bayonet | Bright Water (Minimal Wear)",
+    "price": 473.1,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ M9 Bayonet | Bright Water",
+    "id": "skin-33294604"
+  },
+  {
+    "name": "★ StatTrak™ M9 Bayonet | Bright Water (Well-Worn)",
+    "price": 390.75,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ M9 Bayonet | Bright Water",
+    "id": "skin-33294604"
+  },
+  {
+    "name": "★ StatTrak™ M9 Bayonet | Bright Water (Field-Tested)",
+    "price": 413.45,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ M9 Bayonet | Bright Water",
+    "id": "skin-33294604"
+  },
+  {
+    "name": "★ StatTrak™ M9 Bayonet | Bright Water (Factory New)",
+    "price": 507.38,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ M9 Bayonet | Bright Water",
+    "id": "skin-33294604"
+  },
+  {
+    "name": "★ StatTrak™ M9 Bayonet | Bright Water (Battle-Scarred)",
+    "price": 383.49,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ M9 Bayonet | Bright Water",
+    "id": "skin-33294604"
+  },
+  {
+    "name": "★ M9 Bayonet | Bright Water (Battle-Scarred)",
+    "price": 358.6,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ M9 Bayonet | Bright Water",
+    "id": "skin-33294604"
+  },
+  {
+    "name": "★ StatTrak™ M9 Bayonet | Bright Water (Minimal Wear)",
+    "price": 452.53,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ M9 Bayonet | Bright Water",
+    "id": "skin-33294604"
+  },
+  {
+    "name": "★ M9 Bayonet | Bright Water (Well-Worn)",
+    "price": 373.68,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ M9 Bayonet | Bright Water",
+    "id": "skin-33294604"
+  },
+  {
+    "name": "★ M9 Bayonet | Bright Water (Factory New)",
+    "price": 511.22,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ M9 Bayonet | Bright Water",
+    "id": "skin-33294604"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "name": "SG 553 | Pulse (Field-Tested)",
+    "price": 1.53,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "SG 553 | Pulse",
+    "id": "skin-2557052"
+  },
+  {
+    "name": "StatTrak™ SG 553 | Pulse (Field-Tested)",
+    "price": 2.45,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "SG 553 | Pulse",
+    "id": "skin-2557052"
+  },
+  {
+    "name": "SG 553 | Pulse (Battle-Scarred)",
+    "price": 1.37,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "SG 553 | Pulse",
+    "id": "skin-2557052"
+  },
+  {
+    "name": "StatTrak™ SG 553 | Pulse (Minimal Wear)",
+    "price": 7.65,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "SG 553 | Pulse",
+    "id": "skin-2557052"
+  },
+  {
+    "name": "SG 553 | Pulse (Minimal Wear)",
+    "price": 2.73,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "SG 553 | Pulse",
+    "id": "skin-2557052"
+  },
+  {
+    "name": "SG 553 | Pulse (Well-Worn)",
+    "price": 1.64,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "SG 553 | Pulse",
+    "id": "skin-2557052"
+  },
+  {
+    "name": "StatTrak™ SG 553 | Pulse (Well-Worn)",
+    "price": 2.88,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "SG 553 | Pulse",
+    "id": "skin-2557052"
+  },
+  {
+    "name": "StatTrak™ SG 553 | Pulse (Battle-Scarred)",
+    "price": 2.43,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "SG 553 | Pulse",
+    "id": "skin-2557052"
+  }
+]

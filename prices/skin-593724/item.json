@@ -1,0 +1,92 @@
+[
+  {
+    "name": "StatTrak™ AWP | Exoskeleton (Field-Tested)",
+    "price": 3.62,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AWP | Exoskeleton",
+    "id": "skin-593724"
+  },
+  {
+    "name": "StatTrak™ AWP | Exoskeleton (Battle-Scarred)",
+    "price": 3.59,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AWP | Exoskeleton",
+    "id": "skin-593724"
+  },
+  {
+    "name": "AWP | Exoskeleton (Well-Worn)",
+    "price": 1.49,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AWP | Exoskeleton",
+    "id": "skin-593724"
+  },
+  {
+    "name": "StatTrak™ AWP | Exoskeleton (Minimal Wear)",
+    "price": 8.23,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AWP | Exoskeleton",
+    "id": "skin-593724"
+  },
+  {
+    "name": "AWP | Exoskeleton (Factory New)",
+    "price": 6.88,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AWP | Exoskeleton",
+    "id": "skin-593724"
+  },
+  {
+    "name": "AWP | Exoskeleton (Battle-Scarred)",
+    "price": 1.36,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AWP | Exoskeleton",
+    "id": "skin-593724"
+  },
+  {
+    "name": "StatTrak™ AWP | Exoskeleton (Well-Worn)",
+    "price": 3.46,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AWP | Exoskeleton",
+    "id": "skin-593724"
+  },
+  {
+    "name": "StatTrak™ AWP | Exoskeleton (Factory New)",
+    "price": 24.66,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AWP | Exoskeleton",
+    "id": "skin-593724"
+  },
+  {
+    "name": "AWP | Exoskeleton (Minimal Wear)",
+    "price": 2.87,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AWP | Exoskeleton",
+    "id": "skin-593724"
+  },
+  {
+    "name": "AWP | Exoskeleton (Field-Tested)",
+    "price": 1.89,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AWP | Exoskeleton",
+    "id": "skin-593724"
+  }
+]

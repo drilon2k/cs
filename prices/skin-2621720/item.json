@@ -1,0 +1,20 @@
+[
+  {
+    "name": "SSG 08 | Carbon Fiber (Factory New)",
+    "price": 2.05,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "SSG 08 | Carbon Fiber",
+    "id": "skin-2621720"
+  },
+  {
+    "name": "SSG 08 | Carbon Fiber (Minimal Wear)",
+    "price": 1.83,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "SSG 08 | Carbon Fiber",
+    "id": "skin-2621720"
+  }
+]

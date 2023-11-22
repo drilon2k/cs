@@ -1,0 +1,47 @@
+[
+  {
+    "name": "MP7 | Teal Blossom (Battle-Scarred)",
+    "price": 63.08,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MP7 | Teal Blossom",
+    "id": "skin-2165600"
+  },
+  {
+    "name": "MP7 | Teal Blossom (Minimal Wear)",
+    "price": 67,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MP7 | Teal Blossom",
+    "id": "skin-2165600"
+  },
+  {
+    "name": "MP7 | Teal Blossom (Well-Worn)",
+    "price": 71.08,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MP7 | Teal Blossom",
+    "id": "skin-2165600"
+  },
+  {
+    "name": "MP7 | Teal Blossom (Factory New)",
+    "price": 64.45,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MP7 | Teal Blossom",
+    "id": "skin-2165600"
+  },
+  {
+    "name": "MP7 | Teal Blossom (Field-Tested)",
+    "price": 63.08,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MP7 | Teal Blossom",
+    "id": "skin-2165600"
+  }
+]

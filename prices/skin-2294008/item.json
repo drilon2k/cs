@@ -1,0 +1,92 @@
+[
+  {
+    "name": "StatTrak™ Nova | Bloomstick (Factory New)",
+    "price": 131.63,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Nova | Bloomstick",
+    "id": "skin-2294008"
+  },
+  {
+    "name": "Nova | Bloomstick (Minimal Wear)",
+    "price": 12.11,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Nova | Bloomstick",
+    "id": "skin-2294008"
+  },
+  {
+    "name": "StatTrak™ Nova | Bloomstick (Well-Worn)",
+    "price": 13.71,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Nova | Bloomstick",
+    "id": "skin-2294008"
+  },
+  {
+    "name": "Nova | Bloomstick (Field-Tested)",
+    "price": 4.52,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Nova | Bloomstick",
+    "id": "skin-2294008"
+  },
+  {
+    "name": "Nova | Bloomstick (Well-Worn)",
+    "price": 4.93,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Nova | Bloomstick",
+    "id": "skin-2294008"
+  },
+  {
+    "name": "Nova | Bloomstick (Factory New)",
+    "price": 43.19,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Nova | Bloomstick",
+    "id": "skin-2294008"
+  },
+  {
+    "name": "StatTrak™ Nova | Bloomstick (Field-Tested)",
+    "price": 11.6,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Nova | Bloomstick",
+    "id": "skin-2294008"
+  },
+  {
+    "name": "StatTrak™ Nova | Bloomstick (Battle-Scarred)",
+    "price": 11.43,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Nova | Bloomstick",
+    "id": "skin-2294008"
+  },
+  {
+    "name": "StatTrak™ Nova | Bloomstick (Minimal Wear)",
+    "price": 37.57,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Nova | Bloomstick",
+    "id": "skin-2294008"
+  },
+  {
+    "name": "Nova | Bloomstick (Battle-Scarred)",
+    "price": 4.38,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Nova | Bloomstick",
+    "id": "skin-2294008"
+  }
+]

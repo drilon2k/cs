@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Sawed-Off | Amber Fade (Well-Worn)",
+    "price": 0.29,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Sawed-Off | Amber Fade",
+    "id": "skin-1901528"
+  },
+  {
+    "name": "Sawed-Off | Amber Fade (Field-Tested)",
+    "price": 0.23,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Sawed-Off | Amber Fade",
+    "id": "skin-1901528"
+  },
+  {
+    "name": "Sawed-Off | Amber Fade (Minimal Wear)",
+    "price": 0.38,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Sawed-Off | Amber Fade",
+    "id": "skin-1901528"
+  },
+  {
+    "name": "Sawed-Off | Amber Fade (Factory New)",
+    "price": 0.64,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Sawed-Off | Amber Fade",
+    "id": "skin-1901528"
+  }
+]

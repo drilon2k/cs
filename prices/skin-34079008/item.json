@@ -1,0 +1,92 @@
+[
+  {
+    "name": "★ StatTrak™ Navaja Knife | Safari Mesh (Minimal Wear)",
+    "price": 95.99,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Navaja Knife | Safari Mesh",
+    "id": "skin-34079008"
+  },
+  {
+    "name": "★ StatTrak™ Navaja Knife | Safari Mesh (Well-Worn)",
+    "price": 75.42,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Navaja Knife | Safari Mesh",
+    "id": "skin-34079008"
+  },
+  {
+    "name": "★ StatTrak™ Navaja Knife | Safari Mesh (Field-Tested)",
+    "price": 78.85,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Navaja Knife | Safari Mesh",
+    "id": "skin-34079008"
+  },
+  {
+    "name": "★ Navaja Knife | Safari Mesh (Minimal Wear)",
+    "price": 70.62,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Navaja Knife | Safari Mesh",
+    "id": "skin-34079008"
+  },
+  {
+    "name": "★ Navaja Knife | Safari Mesh (Well-Worn)",
+    "price": 74.67,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Navaja Knife | Safari Mesh",
+    "id": "skin-34079008"
+  },
+  {
+    "name": "★ StatTrak™ Navaja Knife | Safari Mesh (Factory New)",
+    "price": 0,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Navaja Knife | Safari Mesh",
+    "id": "skin-34079008"
+  },
+  {
+    "name": "★ Navaja Knife | Safari Mesh (Factory New)",
+    "price": 260.16,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Navaja Knife | Safari Mesh",
+    "id": "skin-34079008"
+  },
+  {
+    "name": "★ StatTrak™ Navaja Knife | Safari Mesh (Battle-Scarred)",
+    "price": 547.9,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Navaja Knife | Safari Mesh",
+    "id": "skin-34079008"
+  },
+  {
+    "name": "★ Navaja Knife | Safari Mesh (Battle-Scarred)",
+    "price": 67.05,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Navaja Knife | Safari Mesh",
+    "id": "skin-34079008"
+  },
+  {
+    "name": "★ Navaja Knife | Safari Mesh (Field-Tested)",
+    "price": 66.64,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Navaja Knife | Safari Mesh",
+    "id": "skin-34079008"
+  }
+]

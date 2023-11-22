@@ -1,0 +1,74 @@
+[
+  {
+    "name": "StatTrak™ AK-47 | Bloodsport (Field-Tested)",
+    "price": 141.11,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AK-47 | Bloodsport",
+    "id": "skin-461308"
+  },
+  {
+    "name": "AK-47 | Bloodsport (Factory New)",
+    "price": 92.68,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AK-47 | Bloodsport",
+    "id": "skin-461308"
+  },
+  {
+    "name": "StatTrak™ AK-47 | Bloodsport (Factory New)",
+    "price": 220.71,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AK-47 | Bloodsport",
+    "id": "skin-461308"
+  },
+  {
+    "name": "AK-47 | Bloodsport (Field-Tested)",
+    "price": 65.47,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AK-47 | Bloodsport",
+    "id": "skin-461308"
+  },
+  {
+    "name": "StatTrak™ AK-47 | Bloodsport (Well-Worn)",
+    "price": 143.85,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AK-47 | Bloodsport",
+    "id": "skin-461308"
+  },
+  {
+    "name": "StatTrak™ AK-47 | Bloodsport (Minimal Wear)",
+    "price": 175.53,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AK-47 | Bloodsport",
+    "id": "skin-461308"
+  },
+  {
+    "name": "AK-47 | Bloodsport (Minimal Wear)",
+    "price": 75.83,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AK-47 | Bloodsport",
+    "id": "skin-461308"
+  },
+  {
+    "name": "AK-47 | Bloodsport (Well-Worn)",
+    "price": 66.37,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AK-47 | Bloodsport",
+    "id": "skin-461308"
+  }
+]

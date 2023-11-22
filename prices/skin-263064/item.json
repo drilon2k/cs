@@ -1,0 +1,56 @@
+[
+  {
+    "name": "StatTrak™ Glock-18 | Steel Disruption (Field-Tested)",
+    "price": 7.42,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Glock-18 | Steel Disruption",
+    "id": "skin-263064"
+  },
+  {
+    "name": "StatTrak™ Glock-18 | Steel Disruption (Minimal Wear)",
+    "price": 6.85,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Glock-18 | Steel Disruption",
+    "id": "skin-263064"
+  },
+  {
+    "name": "StatTrak™ Glock-18 | Steel Disruption (Factory New)",
+    "price": 11.09,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Glock-18 | Steel Disruption",
+    "id": "skin-263064"
+  },
+  {
+    "name": "Glock-18 | Steel Disruption (Factory New)",
+    "price": 3.15,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Glock-18 | Steel Disruption",
+    "id": "skin-263064"
+  },
+  {
+    "name": "Glock-18 | Steel Disruption (Minimal Wear)",
+    "price": 2.66,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Glock-18 | Steel Disruption",
+    "id": "skin-263064"
+  },
+  {
+    "name": "Glock-18 | Steel Disruption (Field-Tested)",
+    "price": 2.71,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Glock-18 | Steel Disruption",
+    "id": "skin-263064"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "name": "★ StatTrak™ Bayonet | Freehand (Well-Worn)",
+    "price": 304.43,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Bayonet | Freehand",
+    "id": "skin-32770320"
+  },
+  {
+    "name": "★ Bayonet | Freehand (Factory New)",
+    "price": 316.29,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Bayonet | Freehand",
+    "id": "skin-32770320"
+  },
+  {
+    "name": "★ Bayonet | Freehand (Battle-Scarred)",
+    "price": 232.99,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Bayonet | Freehand",
+    "id": "skin-32770320"
+  },
+  {
+    "name": "★ Bayonet | Freehand (Well-Worn)",
+    "price": 235.87,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Bayonet | Freehand",
+    "id": "skin-32770320"
+  },
+  {
+    "name": "★ StatTrak™ Bayonet | Freehand (Battle-Scarred)",
+    "price": 253.69,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Bayonet | Freehand",
+    "id": "skin-32770320"
+  },
+  {
+    "name": "★ StatTrak™ Bayonet | Freehand (Field-Tested)",
+    "price": 259.86,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Bayonet | Freehand",
+    "id": "skin-32770320"
+  },
+  {
+    "name": "★ Bayonet | Freehand (Minimal Wear)",
+    "price": 287.91,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Bayonet | Freehand",
+    "id": "skin-32770320"
+  },
+  {
+    "name": "★ Bayonet | Freehand (Field-Tested)",
+    "price": 237.24,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Bayonet | Freehand",
+    "id": "skin-32770320"
+  },
+  {
+    "name": "★ StatTrak™ Bayonet | Freehand (Factory New)",
+    "price": 351.79,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Bayonet | Freehand",
+    "id": "skin-32770320"
+  },
+  {
+    "name": "★ StatTrak™ Bayonet | Freehand (Minimal Wear)",
+    "price": 294.83,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Bayonet | Freehand",
+    "id": "skin-32770320"
+  }
+]

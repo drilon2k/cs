@@ -1,0 +1,92 @@
+[
+  {
+    "name": "StatTrak™ Dual Berettas | Tread (Minimal Wear)",
+    "price": 1.53,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Dual Berettas | Tread",
+    "id": "skin-135436"
+  },
+  {
+    "name": "StatTrak™ Dual Berettas | Tread (Well-Worn)",
+    "price": 0.28,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Dual Berettas | Tread",
+    "id": "skin-135436"
+  },
+  {
+    "name": "Dual Berettas | Tread (Well-Worn)",
+    "price": 0.22,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Dual Berettas | Tread",
+    "id": "skin-135436"
+  },
+  {
+    "name": "Dual Berettas | Tread (Factory New)",
+    "price": 0.9,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Dual Berettas | Tread",
+    "id": "skin-135436"
+  },
+  {
+    "name": "StatTrak™ Dual Berettas | Tread (Battle-Scarred)",
+    "price": 0.34,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Dual Berettas | Tread",
+    "id": "skin-135436"
+  },
+  {
+    "name": "Dual Berettas | Tread (Minimal Wear)",
+    "price": 0.52,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Dual Berettas | Tread",
+    "id": "skin-135436"
+  },
+  {
+    "name": "Dual Berettas | Tread (Field-Tested)",
+    "price": 0.29,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Dual Berettas | Tread",
+    "id": "skin-135436"
+  },
+  {
+    "name": "StatTrak™ Dual Berettas | Tread (Factory New)",
+    "price": 3.07,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Dual Berettas | Tread",
+    "id": "skin-135436"
+  },
+  {
+    "name": "StatTrak™ Dual Berettas | Tread (Field-Tested)",
+    "price": 0.48,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Dual Berettas | Tread",
+    "id": "skin-135436"
+  },
+  {
+    "name": "Dual Berettas | Tread (Battle-Scarred)",
+    "price": 0.2,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Dual Berettas | Tread",
+    "id": "skin-135436"
+  }
+]

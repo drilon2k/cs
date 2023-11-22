@@ -1,0 +1,20 @@
+[
+  {
+    "name": "FAMAS | Dark Water (Minimal Wear)",
+    "price": 9.17,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "FAMAS | Dark Water",
+    "id": "skin-655600"
+  },
+  {
+    "name": "FAMAS | Dark Water (Field-Tested)",
+    "price": 9.55,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "FAMAS | Dark Water",
+    "id": "skin-655600"
+  }
+]

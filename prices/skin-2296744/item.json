@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Nova | Baroque Orange (Field-Tested)",
+    "price": 64.45,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Nova | Baroque Orange",
+    "id": "skin-2296744"
+  },
+  {
+    "name": "Nova | Baroque Orange (Battle-Scarred)",
+    "price": 61.71,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Nova | Baroque Orange",
+    "id": "skin-2296744"
+  },
+  {
+    "name": "Nova | Baroque Orange (Factory New)",
+    "price": 74.6,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Nova | Baroque Orange",
+    "id": "skin-2296744"
+  },
+  {
+    "name": "Nova | Baroque Orange (Well-Worn)",
+    "price": 65,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Nova | Baroque Orange",
+    "id": "skin-2296744"
+  },
+  {
+    "name": "Nova | Baroque Orange (Minimal Wear)",
+    "price": 71.31,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Nova | Baroque Orange",
+    "id": "skin-2296744"
+  }
+]

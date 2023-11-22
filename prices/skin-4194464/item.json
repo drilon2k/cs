@@ -1,0 +1,47 @@
+[
+  {
+    "name": "R8 Revolver | Night (Minimal Wear)",
+    "price": 0.38,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "R8 Revolver | Night",
+    "id": "skin-4194464"
+  },
+  {
+    "name": "R8 Revolver | Night (Battle-Scarred)",
+    "price": 0.32,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "R8 Revolver | Night",
+    "id": "skin-4194464"
+  },
+  {
+    "name": "R8 Revolver | Night (Factory New)",
+    "price": 3.35,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "R8 Revolver | Night",
+    "id": "skin-4194464"
+  },
+  {
+    "name": "R8 Revolver | Night (Field-Tested)",
+    "price": 0.36,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "R8 Revolver | Night",
+    "id": "skin-4194464"
+  },
+  {
+    "name": "R8 Revolver | Night (Well-Worn)",
+    "price": 0.37,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "R8 Revolver | Night",
+    "id": "skin-4194464"
+  }
+]

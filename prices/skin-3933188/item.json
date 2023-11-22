@@ -1,0 +1,92 @@
+[
+  {
+    "name": "StatTrak™ M4A1-S | Guardian (Battle-Scarred)",
+    "price": 47.93,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "M4A1-S | Guardian",
+    "id": "skin-3933188"
+  },
+  {
+    "name": "StatTrak™ M4A1-S | Guardian (Well-Worn)",
+    "price": 45.59,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "M4A1-S | Guardian",
+    "id": "skin-3933188"
+  },
+  {
+    "name": "M4A1-S | Guardian (Minimal Wear)",
+    "price": 17.83,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M4A1-S | Guardian",
+    "id": "skin-3933188"
+  },
+  {
+    "name": "StatTrak™ M4A1-S | Guardian (Minimal Wear)",
+    "price": 59.83,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "M4A1-S | Guardian",
+    "id": "skin-3933188"
+  },
+  {
+    "name": "M4A1-S | Guardian (Field-Tested)",
+    "price": 14.7,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M4A1-S | Guardian",
+    "id": "skin-3933188"
+  },
+  {
+    "name": "StatTrak™ M4A1-S | Guardian (Factory New)",
+    "price": 85.02,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "M4A1-S | Guardian",
+    "id": "skin-3933188"
+  },
+  {
+    "name": "StatTrak™ M4A1-S | Guardian (Field-Tested)",
+    "price": 47.31,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "M4A1-S | Guardian",
+    "id": "skin-3933188"
+  },
+  {
+    "name": "M4A1-S | Guardian (Factory New)",
+    "price": 23.24,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M4A1-S | Guardian",
+    "id": "skin-3933188"
+  },
+  {
+    "name": "M4A1-S | Guardian (Battle-Scarred)",
+    "price": 17.14,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M4A1-S | Guardian",
+    "id": "skin-3933188"
+  },
+  {
+    "name": "M4A1-S | Guardian (Well-Worn)",
+    "price": 17.67,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M4A1-S | Guardian",
+    "id": "skin-3933188"
+  }
+]

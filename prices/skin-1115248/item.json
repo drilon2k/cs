@@ -1,0 +1,92 @@
+[
+  {
+    "name": "StatTrak™ MAC-10 | Heat (Minimal Wear)",
+    "price": 5.47,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MAC-10 | Heat",
+    "id": "skin-1115248"
+  },
+  {
+    "name": "MAC-10 | Heat (Minimal Wear)",
+    "price": 2.37,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MAC-10 | Heat",
+    "id": "skin-1115248"
+  },
+  {
+    "name": "MAC-10 | Heat (Factory New)",
+    "price": 3.62,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MAC-10 | Heat",
+    "id": "skin-1115248"
+  },
+  {
+    "name": "MAC-10 | Heat (Field-Tested)",
+    "price": 1.73,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MAC-10 | Heat",
+    "id": "skin-1115248"
+  },
+  {
+    "name": "MAC-10 | Heat (Well-Worn)",
+    "price": 1.57,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MAC-10 | Heat",
+    "id": "skin-1115248"
+  },
+  {
+    "name": "StatTrak™ MAC-10 | Heat (Well-Worn)",
+    "price": 2.45,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MAC-10 | Heat",
+    "id": "skin-1115248"
+  },
+  {
+    "name": "StatTrak™ MAC-10 | Heat (Factory New)",
+    "price": 11.49,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MAC-10 | Heat",
+    "id": "skin-1115248"
+  },
+  {
+    "name": "StatTrak™ MAC-10 | Heat (Field-Tested)",
+    "price": 2.59,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MAC-10 | Heat",
+    "id": "skin-1115248"
+  },
+  {
+    "name": "MAC-10 | Heat (Battle-Scarred)",
+    "price": 1.3,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MAC-10 | Heat",
+    "id": "skin-1115248"
+  },
+  {
+    "name": "StatTrak™ MAC-10 | Heat (Battle-Scarred)",
+    "price": 2.19,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MAC-10 | Heat",
+    "id": "skin-1115248"
+  }
+]

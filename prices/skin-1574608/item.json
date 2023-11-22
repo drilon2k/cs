@@ -1,0 +1,20 @@
+[
+  {
+    "name": "StatTrak™ UMP-45 | Grand Prix (Field-Tested)",
+    "price": 0.51,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "UMP-45 | Grand Prix",
+    "id": "skin-1574608"
+  },
+  {
+    "name": "UMP-45 | Grand Prix (Field-Tested)",
+    "price": 0.22,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "UMP-45 | Grand Prix",
+    "id": "skin-1574608"
+  }
+]

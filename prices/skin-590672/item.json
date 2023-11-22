@@ -1,0 +1,38 @@
+[
+  {
+    "name": "StatTrak™ AWP | Graphite (Factory New)",
+    "price": 335.97,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AWP | Graphite",
+    "id": "skin-590672"
+  },
+  {
+    "name": "AWP | Graphite (Minimal Wear)",
+    "price": 116.22,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AWP | Graphite",
+    "id": "skin-590672"
+  },
+  {
+    "name": "AWP | Graphite (Factory New)",
+    "price": 120.68,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AWP | Graphite",
+    "id": "skin-590672"
+  },
+  {
+    "name": "StatTrak™ AWP | Graphite (Minimal Wear)",
+    "price": 336.66,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AWP | Graphite",
+    "id": "skin-590672"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "name": "MP9 | Goo (Factory New)",
+    "price": 1.05,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MP9 | Goo",
+    "id": "skin-2230940"
+  },
+  {
+    "name": "MP9 | Goo (Minimal Wear)",
+    "price": 0.48,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MP9 | Goo",
+    "id": "skin-2230940"
+  },
+  {
+    "name": "StatTrak™ MP9 | Goo (Minimal Wear)",
+    "price": 1.26,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MP9 | Goo",
+    "id": "skin-2230940"
+  },
+  {
+    "name": "MP9 | Goo (Battle-Scarred)",
+    "price": 0.36,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MP9 | Goo",
+    "id": "skin-2230940"
+  },
+  {
+    "name": "MP9 | Goo (Field-Tested)",
+    "price": 0.3,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MP9 | Goo",
+    "id": "skin-2230940"
+  },
+  {
+    "name": "StatTrak™ MP9 | Goo (Field-Tested)",
+    "price": 0.68,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MP9 | Goo",
+    "id": "skin-2230940"
+  },
+  {
+    "name": "StatTrak™ MP9 | Goo (Factory New)",
+    "price": 2.71,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MP9 | Goo",
+    "id": "skin-2230940"
+  },
+  {
+    "name": "StatTrak™ MP9 | Goo (Battle-Scarred)",
+    "price": 0.73,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MP9 | Goo",
+    "id": "skin-2230940"
+  },
+  {
+    "name": "MP9 | Goo (Well-Worn)",
+    "price": 0.31,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MP9 | Goo",
+    "id": "skin-2230940"
+  },
+  {
+    "name": "StatTrak™ MP9 | Goo (Well-Worn)",
+    "price": 0.96,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MP9 | Goo",
+    "id": "skin-2230940"
+  }
+]

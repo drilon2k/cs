@@ -1,0 +1,92 @@
+[
+  {
+    "name": "★ StatTrak™ Classic Knife | Boreal Forest (Battle-Scarred)",
+    "price": 117.93,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Classic Knife | Boreal Forest",
+    "id": "skin-32964916"
+  },
+  {
+    "name": "★ Classic Knife | Boreal Forest (Battle-Scarred)",
+    "price": 95.99,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Classic Knife | Boreal Forest",
+    "id": "skin-32964916"
+  },
+  {
+    "name": "★ Classic Knife | Boreal Forest (Well-Worn)",
+    "price": 97.29,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Classic Knife | Boreal Forest",
+    "id": "skin-32964916"
+  },
+  {
+    "name": "★ Classic Knife | Boreal Forest (Factory New)",
+    "price": 272.62,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Classic Knife | Boreal Forest",
+    "id": "skin-32964916"
+  },
+  {
+    "name": "★ Classic Knife | Boreal Forest (Minimal Wear)",
+    "price": 106.89,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Classic Knife | Boreal Forest",
+    "id": "skin-32964916"
+  },
+  {
+    "name": "★ StatTrak™ Classic Knife | Boreal Forest (Minimal Wear)",
+    "price": 124.89,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Classic Knife | Boreal Forest",
+    "id": "skin-32964916"
+  },
+  {
+    "name": "★ StatTrak™ Classic Knife | Boreal Forest (Factory New)",
+    "price": 0,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Classic Knife | Boreal Forest",
+    "id": "skin-32964916"
+  },
+  {
+    "name": "★ StatTrak™ Classic Knife | Boreal Forest (Well-Worn)",
+    "price": 108.33,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Classic Knife | Boreal Forest",
+    "id": "skin-32964916"
+  },
+  {
+    "name": "★ StatTrak™ Classic Knife | Boreal Forest (Field-Tested)",
+    "price": 106.35,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Classic Knife | Boreal Forest",
+    "id": "skin-32964916"
+  },
+  {
+    "name": "★ Classic Knife | Boreal Forest (Field-Tested)",
+    "price": 95.92,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Classic Knife | Boreal Forest",
+    "id": "skin-32964916"
+  }
+]

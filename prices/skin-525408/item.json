@@ -1,0 +1,92 @@
+[
+  {
+    "name": "StatTrak™ AUG | Chameleon (Well-Worn)",
+    "price": 21.2,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AUG | Chameleon",
+    "id": "skin-525408"
+  },
+  {
+    "name": "StatTrak™ AUG | Chameleon (Minimal Wear)",
+    "price": 10,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AUG | Chameleon",
+    "id": "skin-525408"
+  },
+  {
+    "name": "AUG | Chameleon (Field-Tested)",
+    "price": 2.06,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AUG | Chameleon",
+    "id": "skin-525408"
+  },
+  {
+    "name": "StatTrak™ AUG | Chameleon (Field-Tested)",
+    "price": 7.07,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AUG | Chameleon",
+    "id": "skin-525408"
+  },
+  {
+    "name": "AUG | Chameleon (Factory New)",
+    "price": 3.87,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AUG | Chameleon",
+    "id": "skin-525408"
+  },
+  {
+    "name": "StatTrak™ AUG | Chameleon (Factory New)",
+    "price": 19.33,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AUG | Chameleon",
+    "id": "skin-525408"
+  },
+  {
+    "name": "AUG | Chameleon (Minimal Wear)",
+    "price": 2.56,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AUG | Chameleon",
+    "id": "skin-525408"
+  },
+  {
+    "name": "AUG | Chameleon (Battle-Scarred)",
+    "price": 2.69,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AUG | Chameleon",
+    "id": "skin-525408"
+  },
+  {
+    "name": "AUG | Chameleon (Well-Worn)",
+    "price": 2.72,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AUG | Chameleon",
+    "id": "skin-525408"
+  },
+  {
+    "name": "StatTrak™ AUG | Chameleon (Battle-Scarred)",
+    "price": 9.36,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AUG | Chameleon",
+    "id": "skin-525408"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "name": "StatTrak™ Desert Eagle | Light Rail (Well-Worn)",
+    "price": 2.75,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Desert Eagle | Light Rail",
+    "id": "skin-68900"
+  },
+  {
+    "name": "StatTrak™ Desert Eagle | Light Rail (Minimal Wear)",
+    "price": 4.69,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Desert Eagle | Light Rail",
+    "id": "skin-68900"
+  },
+  {
+    "name": "Desert Eagle | Light Rail (Field-Tested)",
+    "price": 0.59,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Desert Eagle | Light Rail",
+    "id": "skin-68900"
+  },
+  {
+    "name": "StatTrak™ Desert Eagle | Light Rail (Field-Tested)",
+    "price": 2.52,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Desert Eagle | Light Rail",
+    "id": "skin-68900"
+  },
+  {
+    "name": "Desert Eagle | Light Rail (Well-Worn)",
+    "price": 0.5,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Desert Eagle | Light Rail",
+    "id": "skin-68900"
+  },
+  {
+    "name": "Desert Eagle | Light Rail (Battle-Scarred)",
+    "price": 0.43,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Desert Eagle | Light Rail",
+    "id": "skin-68900"
+  },
+  {
+    "name": "StatTrak™ Desert Eagle | Light Rail (Factory New)",
+    "price": 12.95,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Desert Eagle | Light Rail",
+    "id": "skin-68900"
+  },
+  {
+    "name": "Desert Eagle | Light Rail (Factory New)",
+    "price": 3.31,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Desert Eagle | Light Rail",
+    "id": "skin-68900"
+  },
+  {
+    "name": "Desert Eagle | Light Rail (Minimal Wear)",
+    "price": 1.15,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Desert Eagle | Light Rail",
+    "id": "skin-68900"
+  },
+  {
+    "name": "StatTrak™ Desert Eagle | Light Rail (Battle-Scarred)",
+    "price": 2.52,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Desert Eagle | Light Rail",
+    "id": "skin-68900"
+  }
+]

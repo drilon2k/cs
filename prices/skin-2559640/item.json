@@ -1,0 +1,47 @@
+[
+  {
+    "name": "SG 553 | Bleached (Minimal Wear)",
+    "price": 0.42,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "SG 553 | Bleached",
+    "id": "skin-2559640"
+  },
+  {
+    "name": "SG 553 | Bleached (Battle-Scarred)",
+    "price": 0.41,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "SG 553 | Bleached",
+    "id": "skin-2559640"
+  },
+  {
+    "name": "SG 553 | Bleached (Factory New)",
+    "price": 0.42,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "SG 553 | Bleached",
+    "id": "skin-2559640"
+  },
+  {
+    "name": "SG 553 | Bleached (Field-Tested)",
+    "price": 0.41,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "SG 553 | Bleached",
+    "id": "skin-2559640"
+  },
+  {
+    "name": "SG 553 | Bleached (Well-Worn)",
+    "price": 0.41,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "SG 553 | Bleached",
+    "id": "skin-2559640"
+  }
+]

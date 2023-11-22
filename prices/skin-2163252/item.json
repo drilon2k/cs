@@ -1,0 +1,47 @@
+[
+  {
+    "name": "MP7 | Orange Peel (Battle-Scarred)",
+    "price": 13.7,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MP7 | Orange Peel",
+    "id": "skin-2163252"
+  },
+  {
+    "name": "MP7 | Orange Peel (Minimal Wear)",
+    "price": 5.85,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MP7 | Orange Peel",
+    "id": "skin-2163252"
+  },
+  {
+    "name": "MP7 | Orange Peel (Factory New)",
+    "price": 9.46,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MP7 | Orange Peel",
+    "id": "skin-2163252"
+  },
+  {
+    "name": "MP7 | Orange Peel (Well-Worn)",
+    "price": 4.78,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MP7 | Orange Peel",
+    "id": "skin-2163252"
+  },
+  {
+    "name": "MP7 | Orange Peel (Field-Tested)",
+    "price": 5.84,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MP7 | Orange Peel",
+    "id": "skin-2163252"
+  }
+]

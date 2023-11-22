@@ -1,0 +1,56 @@
+[
+  {
+    "name": "StatTrak™ M4A4 | Asiimov (Well-Worn)",
+    "price": 230.04,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "M4A4 | Asiimov",
+    "id": "skin-1049596"
+  },
+  {
+    "name": "M4A4 | Asiimov (Battle-Scarred)",
+    "price": 45.79,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M4A4 | Asiimov",
+    "id": "skin-1049596"
+  },
+  {
+    "name": "StatTrak™ M4A4 | Asiimov (Battle-Scarred)",
+    "price": 116.97,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "M4A4 | Asiimov",
+    "id": "skin-1049596"
+  },
+  {
+    "name": "M4A4 | Asiimov (Well-Worn)",
+    "price": 76.11,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M4A4 | Asiimov",
+    "id": "skin-1049596"
+  },
+  {
+    "name": "StatTrak™ M4A4 | Asiimov (Field-Tested)",
+    "price": 383.97,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "M4A4 | Asiimov",
+    "id": "skin-1049596"
+  },
+  {
+    "name": "M4A4 | Asiimov (Field-Tested)",
+    "price": 107.51,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M4A4 | Asiimov",
+    "id": "skin-1049596"
+  }
+]

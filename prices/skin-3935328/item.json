@@ -1,0 +1,47 @@
+[
+  {
+    "name": "M4A1-S | Control Panel (Factory New)",
+    "price": 60.89,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M4A1-S | Control Panel",
+    "id": "skin-3935328"
+  },
+  {
+    "name": "M4A1-S | Control Panel (Field-Tested)",
+    "price": 8.51,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M4A1-S | Control Panel",
+    "id": "skin-3935328"
+  },
+  {
+    "name": "M4A1-S | Control Panel (Well-Worn)",
+    "price": 6.93,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M4A1-S | Control Panel",
+    "id": "skin-3935328"
+  },
+  {
+    "name": "M4A1-S | Control Panel (Battle-Scarred)",
+    "price": 6.31,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M4A1-S | Control Panel",
+    "id": "skin-3935328"
+  },
+  {
+    "name": "M4A1-S | Control Panel (Minimal Wear)",
+    "price": 15.36,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M4A1-S | Control Panel",
+    "id": "skin-3935328"
+  }
+]

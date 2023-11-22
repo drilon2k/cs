@@ -1,0 +1,92 @@
+[
+  {
+    "name": "R8 Revolver | Grip (Field-Tested)",
+    "price": 0.08,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "R8 Revolver | Grip",
+    "id": "skin-4197108"
+  },
+  {
+    "name": "StatTrak™ R8 Revolver | Grip (Minimal Wear)",
+    "price": 0.2,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "R8 Revolver | Grip",
+    "id": "skin-4197108"
+  },
+  {
+    "name": "R8 Revolver | Grip (Battle-Scarred)",
+    "price": 0.04,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "R8 Revolver | Grip",
+    "id": "skin-4197108"
+  },
+  {
+    "name": "StatTrak™ R8 Revolver | Grip (Well-Worn)",
+    "price": 0.08,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "R8 Revolver | Grip",
+    "id": "skin-4197108"
+  },
+  {
+    "name": "R8 Revolver | Grip (Minimal Wear)",
+    "price": 0.12,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "R8 Revolver | Grip",
+    "id": "skin-4197108"
+  },
+  {
+    "name": "R8 Revolver | Grip (Well-Worn)",
+    "price": 0.05,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "R8 Revolver | Grip",
+    "id": "skin-4197108"
+  },
+  {
+    "name": "R8 Revolver | Grip (Factory New)",
+    "price": 0.21,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "R8 Revolver | Grip",
+    "id": "skin-4197108"
+  },
+  {
+    "name": "StatTrak™ R8 Revolver | Grip (Battle-Scarred)",
+    "price": 0.08,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "R8 Revolver | Grip",
+    "id": "skin-4197108"
+  },
+  {
+    "name": "StatTrak™ R8 Revolver | Grip (Factory New)",
+    "price": 0.78,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "R8 Revolver | Grip",
+    "id": "skin-4197108"
+  },
+  {
+    "name": "StatTrak™ R8 Revolver | Grip (Field-Tested)",
+    "price": 0.09,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "R8 Revolver | Grip",
+    "id": "skin-4197108"
+  }
+]

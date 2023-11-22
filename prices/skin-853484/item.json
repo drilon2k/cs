@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Galil AR | Cerberus (Well-Worn)",
+    "price": 12.73,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Galil AR | Cerberus",
+    "id": "skin-853484"
+  },
+  {
+    "name": "Galil AR | Cerberus (Factory New)",
+    "price": 53.21,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Galil AR | Cerberus",
+    "id": "skin-853484"
+  },
+  {
+    "name": "Galil AR | Cerberus (Minimal Wear)",
+    "price": 30.1,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Galil AR | Cerberus",
+    "id": "skin-853484"
+  },
+  {
+    "name": "Galil AR | Cerberus (Battle-Scarred)",
+    "price": 8.91,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Galil AR | Cerberus",
+    "id": "skin-853484"
+  },
+  {
+    "name": "Galil AR | Cerberus (Field-Tested)",
+    "price": 13.57,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Galil AR | Cerberus",
+    "id": "skin-853484"
+  }
+]

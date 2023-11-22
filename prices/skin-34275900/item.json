@@ -1,0 +1,92 @@
+[
+  {
+    "name": "★ Talon Knife | Urban Masked (Battle-Scarred)",
+    "price": 205.56,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Talon Knife | Urban Masked",
+    "id": "skin-34275900"
+  },
+  {
+    "name": "★ StatTrak™ Talon Knife | Urban Masked (Well-Worn)",
+    "price": 219.41,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Talon Knife | Urban Masked",
+    "id": "skin-34275900"
+  },
+  {
+    "name": "★ StatTrak™ Talon Knife | Urban Masked (Field-Tested)",
+    "price": 219.41,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Talon Knife | Urban Masked",
+    "id": "skin-34275900"
+  },
+  {
+    "name": "★ StatTrak™ Talon Knife | Urban Masked (Battle-Scarred)",
+    "price": 205.7,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Talon Knife | Urban Masked",
+    "id": "skin-34275900"
+  },
+  {
+    "name": "★ Talon Knife | Urban Masked (Field-Tested)",
+    "price": 224.48,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Talon Knife | Urban Masked",
+    "id": "skin-34275900"
+  },
+  {
+    "name": "★ Talon Knife | Urban Masked (Well-Worn)",
+    "price": 216.67,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Talon Knife | Urban Masked",
+    "id": "skin-34275900"
+  },
+  {
+    "name": "★ Talon Knife | Urban Masked (Minimal Wear)",
+    "price": 251.91,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Talon Knife | Urban Masked",
+    "id": "skin-34275900"
+  },
+  {
+    "name": "★ StatTrak™ Talon Knife | Urban Masked (Minimal Wear)",
+    "price": 267.41,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Talon Knife | Urban Masked",
+    "id": "skin-34275900"
+  },
+  {
+    "name": "★ StatTrak™ Talon Knife | Urban Masked (Factory New)",
+    "price": 0,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Talon Knife | Urban Masked",
+    "id": "skin-34275900"
+  },
+  {
+    "name": "★ Talon Knife | Urban Masked (Factory New)",
+    "price": 383.83,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Talon Knife | Urban Masked",
+    "id": "skin-34275900"
+  }
+]

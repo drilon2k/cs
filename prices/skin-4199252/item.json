@@ -1,0 +1,47 @@
+[
+  {
+    "name": "R8 Revolver | Inlay (Minimal Wear)",
+    "price": 0.03,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "R8 Revolver | Inlay",
+    "id": "skin-4199252"
+  },
+  {
+    "name": "R8 Revolver | Inlay (Factory New)",
+    "price": 0.1,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "R8 Revolver | Inlay",
+    "id": "skin-4199252"
+  },
+  {
+    "name": "R8 Revolver | Inlay (Well-Worn)",
+    "price": 0.02,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "R8 Revolver | Inlay",
+    "id": "skin-4199252"
+  },
+  {
+    "name": "R8 Revolver | Inlay (Field-Tested)",
+    "price": 0.02,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "R8 Revolver | Inlay",
+    "id": "skin-4199252"
+  },
+  {
+    "name": "R8 Revolver | Inlay (Battle-Scarred)",
+    "price": 0.02,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "R8 Revolver | Inlay",
+    "id": "skin-4199252"
+  }
+]

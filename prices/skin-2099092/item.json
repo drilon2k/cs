@@ -1,0 +1,92 @@
+[
+  {
+    "name": "P2000 | Handgun (Well-Worn)",
+    "price": 0.45,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P2000 | Handgun",
+    "id": "skin-2099092"
+  },
+  {
+    "name": "StatTrak™ P2000 | Handgun (Minimal Wear)",
+    "price": 3.7,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "P2000 | Handgun",
+    "id": "skin-2099092"
+  },
+  {
+    "name": "StatTrak™ P2000 | Handgun (Factory New)",
+    "price": 14.4,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "P2000 | Handgun",
+    "id": "skin-2099092"
+  },
+  {
+    "name": "P2000 | Handgun (Battle-Scarred)",
+    "price": 0.31,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P2000 | Handgun",
+    "id": "skin-2099092"
+  },
+  {
+    "name": "StatTrak™ P2000 | Handgun (Battle-Scarred)",
+    "price": 1.08,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "P2000 | Handgun",
+    "id": "skin-2099092"
+  },
+  {
+    "name": "StatTrak™ P2000 | Handgun (Field-Tested)",
+    "price": 1.73,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "P2000 | Handgun",
+    "id": "skin-2099092"
+  },
+  {
+    "name": "P2000 | Handgun (Factory New)",
+    "price": 3.83,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P2000 | Handgun",
+    "id": "skin-2099092"
+  },
+  {
+    "name": "P2000 | Handgun (Minimal Wear)",
+    "price": 1.2,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P2000 | Handgun",
+    "id": "skin-2099092"
+  },
+  {
+    "name": "P2000 | Handgun (Field-Tested)",
+    "price": 0.54,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P2000 | Handgun",
+    "id": "skin-2099092"
+  },
+  {
+    "name": "StatTrak™ P2000 | Handgun (Well-Worn)",
+    "price": 1.09,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "P2000 | Handgun",
+    "id": "skin-2099092"
+  }
+]

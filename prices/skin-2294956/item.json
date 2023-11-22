@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Nova | Caged Steel (Minimal Wear)",
+    "price": 0.11,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Nova | Caged Steel",
+    "id": "skin-2294956"
+  },
+  {
+    "name": "Nova | Caged Steel (Field-Tested)",
+    "price": 0.09,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Nova | Caged Steel",
+    "id": "skin-2294956"
+  },
+  {
+    "name": "Nova | Caged Steel (Factory New)",
+    "price": 0.15,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Nova | Caged Steel",
+    "id": "skin-2294956"
+  }
+]

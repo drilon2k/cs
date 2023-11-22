@@ -1,0 +1,47 @@
+[
+  {
+    "name": "M4A4 | The Coalition (Field-Tested)",
+    "price": 22.63,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M4A4 | The Coalition",
+    "id": "skin-1052828"
+  },
+  {
+    "name": "M4A4 | The Coalition (Well-Worn)",
+    "price": 11.35,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M4A4 | The Coalition",
+    "id": "skin-1052828"
+  },
+  {
+    "name": "M4A4 | The Coalition (Minimal Wear)",
+    "price": 57.39,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M4A4 | The Coalition",
+    "id": "skin-1052828"
+  },
+  {
+    "name": "M4A4 | The Coalition (Battle-Scarred)",
+    "price": 8.76,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M4A4 | The Coalition",
+    "id": "skin-1052828"
+  },
+  {
+    "name": "M4A4 | The Coalition (Factory New)",
+    "price": 375.05,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M4A4 | The Coalition",
+    "id": "skin-1052828"
+  }
+]

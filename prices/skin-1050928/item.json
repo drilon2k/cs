@@ -1,0 +1,92 @@
+[
+  {
+    "name": "M4A4 | Desolate Space (Field-Tested)",
+    "price": 4.46,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M4A4 | Desolate Space",
+    "id": "skin-1050928"
+  },
+  {
+    "name": "StatTrak™ M4A4 | Desolate Space (Factory New)",
+    "price": 71.79,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "M4A4 | Desolate Space",
+    "id": "skin-1050928"
+  },
+  {
+    "name": "M4A4 | Desolate Space (Factory New)",
+    "price": 19.75,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M4A4 | Desolate Space",
+    "id": "skin-1050928"
+  },
+  {
+    "name": "StatTrak™ M4A4 | Desolate Space (Field-Tested)",
+    "price": 13.64,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "M4A4 | Desolate Space",
+    "id": "skin-1050928"
+  },
+  {
+    "name": "StatTrak™ M4A4 | Desolate Space (Minimal Wear)",
+    "price": 25.97,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "M4A4 | Desolate Space",
+    "id": "skin-1050928"
+  },
+  {
+    "name": "StatTrak™ M4A4 | Desolate Space (Battle-Scarred)",
+    "price": 11.83,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "M4A4 | Desolate Space",
+    "id": "skin-1050928"
+  },
+  {
+    "name": "StatTrak™ M4A4 | Desolate Space (Well-Worn)",
+    "price": 12.67,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "M4A4 | Desolate Space",
+    "id": "skin-1050928"
+  },
+  {
+    "name": "M4A4 | Desolate Space (Minimal Wear)",
+    "price": 7.55,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M4A4 | Desolate Space",
+    "id": "skin-1050928"
+  },
+  {
+    "name": "M4A4 | Desolate Space (Battle-Scarred)",
+    "price": 3.57,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M4A4 | Desolate Space",
+    "id": "skin-1050928"
+  },
+  {
+    "name": "M4A4 | Desolate Space (Well-Worn)",
+    "price": 3.7,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M4A4 | Desolate Space",
+    "id": "skin-1050928"
+  }
+]

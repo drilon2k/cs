@@ -1,0 +1,92 @@
+[
+  {
+    "name": "P250 | Cyber Shell (Well-Worn)",
+    "price": 0.19,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P250 | Cyber Shell",
+    "id": "skin-2363472"
+  },
+  {
+    "name": "StatTrak™ P250 | Cyber Shell (Well-Worn)",
+    "price": 0.48,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "P250 | Cyber Shell",
+    "id": "skin-2363472"
+  },
+  {
+    "name": "P250 | Cyber Shell (Battle-Scarred)",
+    "price": 0.16,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P250 | Cyber Shell",
+    "id": "skin-2363472"
+  },
+  {
+    "name": "StatTrak™ P250 | Cyber Shell (Battle-Scarred)",
+    "price": 0.29,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "P250 | Cyber Shell",
+    "id": "skin-2363472"
+  },
+  {
+    "name": "StatTrak™ P250 | Cyber Shell (Minimal Wear)",
+    "price": 0.95,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "P250 | Cyber Shell",
+    "id": "skin-2363472"
+  },
+  {
+    "name": "StatTrak™ P250 | Cyber Shell (Field-Tested)",
+    "price": 0.3,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "P250 | Cyber Shell",
+    "id": "skin-2363472"
+  },
+  {
+    "name": "P250 | Cyber Shell (Minimal Wear)",
+    "price": 0.37,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P250 | Cyber Shell",
+    "id": "skin-2363472"
+  },
+  {
+    "name": "StatTrak™ P250 | Cyber Shell (Factory New)",
+    "price": 2.62,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "P250 | Cyber Shell",
+    "id": "skin-2363472"
+  },
+  {
+    "name": "P250 | Cyber Shell (Field-Tested)",
+    "price": 0.2,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P250 | Cyber Shell",
+    "id": "skin-2363472"
+  },
+  {
+    "name": "P250 | Cyber Shell (Factory New)",
+    "price": 0.88,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P250 | Cyber Shell",
+    "id": "skin-2363472"
+  }
+]

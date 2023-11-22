@@ -1,0 +1,92 @@
+[
+  {
+    "name": "StatTrak™ Dual Berettas | Cartel (Minimal Wear)",
+    "price": 0.79,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Dual Berettas | Cartel",
+    "id": "skin-133184"
+  },
+  {
+    "name": "Dual Berettas | Cartel (Battle-Scarred)",
+    "price": 0.37,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Dual Berettas | Cartel",
+    "id": "skin-133184"
+  },
+  {
+    "name": "Dual Berettas | Cartel (Field-Tested)",
+    "price": 0.42,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Dual Berettas | Cartel",
+    "id": "skin-133184"
+  },
+  {
+    "name": "StatTrak™ Dual Berettas | Cartel (Factory New)",
+    "price": 4.09,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Dual Berettas | Cartel",
+    "id": "skin-133184"
+  },
+  {
+    "name": "StatTrak™ Dual Berettas | Cartel (Battle-Scarred)",
+    "price": 0.36,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Dual Berettas | Cartel",
+    "id": "skin-133184"
+  },
+  {
+    "name": "Dual Berettas | Cartel (Well-Worn)",
+    "price": 0.35,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Dual Berettas | Cartel",
+    "id": "skin-133184"
+  },
+  {
+    "name": "Dual Berettas | Cartel (Factory New)",
+    "price": 1.11,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Dual Berettas | Cartel",
+    "id": "skin-133184"
+  },
+  {
+    "name": "StatTrak™ Dual Berettas | Cartel (Well-Worn)",
+    "price": 0.32,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Dual Berettas | Cartel",
+    "id": "skin-133184"
+  },
+  {
+    "name": "Dual Berettas | Cartel (Minimal Wear)",
+    "price": 0.49,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Dual Berettas | Cartel",
+    "id": "skin-133184"
+  },
+  {
+    "name": "StatTrak™ Dual Berettas | Cartel (Field-Tested)",
+    "price": 0.44,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Dual Berettas | Cartel",
+    "id": "skin-133184"
+  }
+]

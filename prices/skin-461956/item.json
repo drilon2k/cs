@@ -1,0 +1,92 @@
+[
+  {
+    "name": "AK-47 | Asiimov (Field-Tested)",
+    "price": 20.23,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AK-47 | Asiimov",
+    "id": "skin-461956"
+  },
+  {
+    "name": "StatTrak™ AK-47 | Asiimov (Field-Tested)",
+    "price": 42.99,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AK-47 | Asiimov",
+    "id": "skin-461956"
+  },
+  {
+    "name": "AK-47 | Asiimov (Well-Worn)",
+    "price": 20.57,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AK-47 | Asiimov",
+    "id": "skin-461956"
+  },
+  {
+    "name": "StatTrak™ AK-47 | Asiimov (Battle-Scarred)",
+    "price": 37.7,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AK-47 | Asiimov",
+    "id": "skin-461956"
+  },
+  {
+    "name": "StatTrak™ AK-47 | Asiimov (Minimal Wear)",
+    "price": 84.68,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AK-47 | Asiimov",
+    "id": "skin-461956"
+  },
+  {
+    "name": "StatTrak™ AK-47 | Asiimov (Well-Worn)",
+    "price": 63.55,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AK-47 | Asiimov",
+    "id": "skin-461956"
+  },
+  {
+    "name": "StatTrak™ AK-47 | Asiimov (Factory New)",
+    "price": 452.53,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AK-47 | Asiimov",
+    "id": "skin-461956"
+  },
+  {
+    "name": "AK-47 | Asiimov (Minimal Wear)",
+    "price": 35.04,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AK-47 | Asiimov",
+    "id": "skin-461956"
+  },
+  {
+    "name": "AK-47 | Asiimov (Factory New)",
+    "price": 154.68,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AK-47 | Asiimov",
+    "id": "skin-461956"
+  },
+  {
+    "name": "AK-47 | Asiimov (Battle-Scarred)",
+    "price": 15.35,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AK-47 | Asiimov",
+    "id": "skin-461956"
+  }
+]

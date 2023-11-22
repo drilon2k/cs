@@ -1,0 +1,92 @@
+[
+  {
+    "name": "AWP | Fever Dream (Minimal Wear)",
+    "price": 6.22,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AWP | Fever Dream",
+    "id": "skin-592384"
+  },
+  {
+    "name": "AWP | Fever Dream (Factory New)",
+    "price": 9.02,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AWP | Fever Dream",
+    "id": "skin-592384"
+  },
+  {
+    "name": "AWP | Fever Dream (Battle-Scarred)",
+    "price": 5.19,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AWP | Fever Dream",
+    "id": "skin-592384"
+  },
+  {
+    "name": "AWP | Fever Dream (Well-Worn)",
+    "price": 5.48,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AWP | Fever Dream",
+    "id": "skin-592384"
+  },
+  {
+    "name": "StatTrak™ AWP | Fever Dream (Battle-Scarred)",
+    "price": 12.17,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AWP | Fever Dream",
+    "id": "skin-592384"
+  },
+  {
+    "name": "StatTrak™ AWP | Fever Dream (Factory New)",
+    "price": 25.37,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AWP | Fever Dream",
+    "id": "skin-592384"
+  },
+  {
+    "name": "StatTrak™ AWP | Fever Dream (Well-Worn)",
+    "price": 16.38,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AWP | Fever Dream",
+    "id": "skin-592384"
+  },
+  {
+    "name": "StatTrak™ AWP | Fever Dream (Minimal Wear)",
+    "price": 17.27,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AWP | Fever Dream",
+    "id": "skin-592384"
+  },
+  {
+    "name": "StatTrak™ AWP | Fever Dream (Field-Tested)",
+    "price": 12.98,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AWP | Fever Dream",
+    "id": "skin-592384"
+  },
+  {
+    "name": "AWP | Fever Dream (Field-Tested)",
+    "price": 5.4,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AWP | Fever Dream",
+    "id": "skin-592384"
+  }
+]

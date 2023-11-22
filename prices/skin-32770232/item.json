@@ -1,0 +1,92 @@
+[
+  {
+    "name": "★ StatTrak™ Bayonet | Lore (Battle-Scarred)",
+    "price": 319.52,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Bayonet | Lore",
+    "id": "skin-32770232"
+  },
+  {
+    "name": "★ Bayonet | Lore (Factory New)",
+    "price": 809.07,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Bayonet | Lore",
+    "id": "skin-32770232"
+  },
+  {
+    "name": "★ Bayonet | Lore (Minimal Wear)",
+    "price": 596.45,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Bayonet | Lore",
+    "id": "skin-32770232"
+  },
+  {
+    "name": "★ Bayonet | Lore (Well-Worn)",
+    "price": 397.41,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Bayonet | Lore",
+    "id": "skin-32770232"
+  },
+  {
+    "name": "★ StatTrak™ Bayonet | Lore (Factory New)",
+    "price": 930.98,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Bayonet | Lore",
+    "id": "skin-32770232"
+  },
+  {
+    "name": "★ StatTrak™ Bayonet | Lore (Minimal Wear)",
+    "price": 623.81,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Bayonet | Lore",
+    "id": "skin-32770232"
+  },
+  {
+    "name": "★ Bayonet | Lore (Battle-Scarred)",
+    "price": 308.41,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Bayonet | Lore",
+    "id": "skin-32770232"
+  },
+  {
+    "name": "★ StatTrak™ Bayonet | Lore (Field-Tested)",
+    "price": 411.26,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Bayonet | Lore",
+    "id": "skin-32770232"
+  },
+  {
+    "name": "★ Bayonet | Lore (Field-Tested)",
+    "price": 396.03,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Bayonet | Lore",
+    "id": "skin-32770232"
+  },
+  {
+    "name": "★ StatTrak™ Bayonet | Lore (Well-Worn)",
+    "price": 408.65,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Bayonet | Lore",
+    "id": "skin-32770232"
+  }
+]

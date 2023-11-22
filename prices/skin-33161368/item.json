@@ -1,0 +1,38 @@
+[
+  {
+    "name": "★ StatTrak™ Gut Knife | Fade (Factory New)",
+    "price": 267.41,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Gut Knife | Fade",
+    "id": "skin-33161368"
+  },
+  {
+    "name": "★ Gut Knife | Fade (Minimal Wear)",
+    "price": 232.57,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Gut Knife | Fade",
+    "id": "skin-33161368"
+  },
+  {
+    "name": "★ StatTrak™ Gut Knife | Fade (Minimal Wear)",
+    "price": 246.84,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Gut Knife | Fade",
+    "id": "skin-33161368"
+  },
+  {
+    "name": "★ Gut Knife | Fade (Factory New)",
+    "price": 226.27,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Gut Knife | Fade",
+    "id": "skin-33161368"
+  }
+]

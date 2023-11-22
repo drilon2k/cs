@@ -1,0 +1,47 @@
+[
+  {
+    "name": "P250 | Whiteout (Well-Worn)",
+    "price": 19.83,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P250 | Whiteout",
+    "id": "skin-2359704"
+  },
+  {
+    "name": "P250 | Whiteout (Minimal Wear)",
+    "price": 26.05,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P250 | Whiteout",
+    "id": "skin-2359704"
+  },
+  {
+    "name": "P250 | Whiteout (Factory New)",
+    "price": 104.7,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P250 | Whiteout",
+    "id": "skin-2359704"
+  },
+  {
+    "name": "P250 | Whiteout (Field-Tested)",
+    "price": 18.42,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P250 | Whiteout",
+    "id": "skin-2359704"
+  },
+  {
+    "name": "P250 | Whiteout (Battle-Scarred)",
+    "price": 20.57,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P250 | Whiteout",
+    "id": "skin-2359704"
+  }
+]

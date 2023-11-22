@@ -1,0 +1,92 @@
+[
+  {
+    "name": "StatTrak™ Galil AR | Black Sand (Battle-Scarred)",
+    "price": 0.18,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Galil AR | Black Sand",
+    "id": "skin-854484"
+  },
+  {
+    "name": "StatTrak™ Galil AR | Black Sand (Factory New)",
+    "price": 2.31,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Galil AR | Black Sand",
+    "id": "skin-854484"
+  },
+  {
+    "name": "Galil AR | Black Sand (Minimal Wear)",
+    "price": 0.1,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Galil AR | Black Sand",
+    "id": "skin-854484"
+  },
+  {
+    "name": "StatTrak™ Galil AR | Black Sand (Minimal Wear)",
+    "price": 0.51,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Galil AR | Black Sand",
+    "id": "skin-854484"
+  },
+  {
+    "name": "StatTrak™ Galil AR | Black Sand (Well-Worn)",
+    "price": 0.17,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Galil AR | Black Sand",
+    "id": "skin-854484"
+  },
+  {
+    "name": "StatTrak™ Galil AR | Black Sand (Field-Tested)",
+    "price": 0.25,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Galil AR | Black Sand",
+    "id": "skin-854484"
+  },
+  {
+    "name": "Galil AR | Black Sand (Field-Tested)",
+    "price": 0.08,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Galil AR | Black Sand",
+    "id": "skin-854484"
+  },
+  {
+    "name": "Galil AR | Black Sand (Well-Worn)",
+    "price": 0.06,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Galil AR | Black Sand",
+    "id": "skin-854484"
+  },
+  {
+    "name": "Galil AR | Black Sand (Factory New)",
+    "price": 0.36,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Galil AR | Black Sand",
+    "id": "skin-854484"
+  },
+  {
+    "name": "Galil AR | Black Sand (Battle-Scarred)",
+    "price": 0.07,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Galil AR | Black Sand",
+    "id": "skin-854484"
+  }
+]

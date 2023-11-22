@@ -1,0 +1,38 @@
+[
+  {
+    "name": "R8 Revolver | Amber Fade (Minimal Wear)",
+    "price": 0.7,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "R8 Revolver | Amber Fade",
+    "id": "skin-4196396"
+  },
+  {
+    "name": "R8 Revolver | Amber Fade (Factory New)",
+    "price": 0.93,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "R8 Revolver | Amber Fade",
+    "id": "skin-4196396"
+  },
+  {
+    "name": "R8 Revolver | Amber Fade (Field-Tested)",
+    "price": 0.67,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "R8 Revolver | Amber Fade",
+    "id": "skin-4196396"
+  },
+  {
+    "name": "R8 Revolver | Amber Fade (Well-Worn)",
+    "price": 1.37,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "R8 Revolver | Amber Fade",
+    "id": "skin-4196396"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "name": "AK-47 | Slate (Factory New)",
+    "price": 6.31,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AK-47 | Slate",
+    "id": "skin-462892"
+  },
+  {
+    "name": "AK-47 | Slate (Field-Tested)",
+    "price": 1.66,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AK-47 | Slate",
+    "id": "skin-462892"
+  },
+  {
+    "name": "AK-47 | Slate (Minimal Wear)",
+    "price": 2.66,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AK-47 | Slate",
+    "id": "skin-462892"
+  },
+  {
+    "name": "StatTrak™ AK-47 | Slate (Well-Worn)",
+    "price": 5.22,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AK-47 | Slate",
+    "id": "skin-462892"
+  },
+  {
+    "name": "AK-47 | Slate (Battle-Scarred)",
+    "price": 1.37,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AK-47 | Slate",
+    "id": "skin-462892"
+  },
+  {
+    "name": "StatTrak™ AK-47 | Slate (Battle-Scarred)",
+    "price": 5.41,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AK-47 | Slate",
+    "id": "skin-462892"
+  },
+  {
+    "name": "StatTrak™ AK-47 | Slate (Field-Tested)",
+    "price": 5.76,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AK-47 | Slate",
+    "id": "skin-462892"
+  },
+  {
+    "name": "StatTrak™ AK-47 | Slate (Minimal Wear)",
+    "price": 10.7,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AK-47 | Slate",
+    "id": "skin-462892"
+  },
+  {
+    "name": "AK-47 | Slate (Well-Worn)",
+    "price": 1.37,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AK-47 | Slate",
+    "id": "skin-462892"
+  },
+  {
+    "name": "StatTrak™ AK-47 | Slate (Factory New)",
+    "price": 28.04,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AK-47 | Slate",
+    "id": "skin-462892"
+  }
+]

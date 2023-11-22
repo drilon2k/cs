@@ -1,0 +1,38 @@
+[
+  {
+    "name": "P250 | Drought (Factory New)",
+    "price": 0.22,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P250 | Drought",
+    "id": "skin-2362596"
+  },
+  {
+    "name": "P250 | Drought (Minimal Wear)",
+    "price": 0.21,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P250 | Drought",
+    "id": "skin-2362596"
+  },
+  {
+    "name": "P250 | Drought (Well-Worn)",
+    "price": 0.21,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P250 | Drought",
+    "id": "skin-2362596"
+  },
+  {
+    "name": "P250 | Drought (Field-Tested)",
+    "price": 0.21,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P250 | Drought",
+    "id": "skin-2362596"
+  }
+]

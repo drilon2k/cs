@@ -1,0 +1,92 @@
+[
+  {
+    "name": "StatTrak™ PP-Bizon | Photic Zone (Well-Worn)",
+    "price": 0.32,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "PP-Bizon | Photic Zone",
+    "id": "skin-1706040"
+  },
+  {
+    "name": "PP-Bizon | Photic Zone (Factory New)",
+    "price": 1.3,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "PP-Bizon | Photic Zone",
+    "id": "skin-1706040"
+  },
+  {
+    "name": "StatTrak™ PP-Bizon | Photic Zone (Minimal Wear)",
+    "price": 1.08,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "PP-Bizon | Photic Zone",
+    "id": "skin-1706040"
+  },
+  {
+    "name": "PP-Bizon | Photic Zone (Well-Worn)",
+    "price": 0.34,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "PP-Bizon | Photic Zone",
+    "id": "skin-1706040"
+  },
+  {
+    "name": "StatTrak™ PP-Bizon | Photic Zone (Battle-Scarred)",
+    "price": 0.27,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "PP-Bizon | Photic Zone",
+    "id": "skin-1706040"
+  },
+  {
+    "name": "PP-Bizon | Photic Zone (Field-Tested)",
+    "price": 0.4,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "PP-Bizon | Photic Zone",
+    "id": "skin-1706040"
+  },
+  {
+    "name": "PP-Bizon | Photic Zone (Battle-Scarred)",
+    "price": 0.33,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "PP-Bizon | Photic Zone",
+    "id": "skin-1706040"
+  },
+  {
+    "name": "StatTrak™ PP-Bizon | Photic Zone (Factory New)",
+    "price": 4.1,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "PP-Bizon | Photic Zone",
+    "id": "skin-1706040"
+  },
+  {
+    "name": "StatTrak™ PP-Bizon | Photic Zone (Field-Tested)",
+    "price": 0.47,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "PP-Bizon | Photic Zone",
+    "id": "skin-1706040"
+  },
+  {
+    "name": "PP-Bizon | Photic Zone (Minimal Wear)",
+    "price": 0.46,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "PP-Bizon | Photic Zone",
+    "id": "skin-1706040"
+  }
+]

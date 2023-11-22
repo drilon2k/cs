@@ -1,0 +1,38 @@
+[
+  {
+    "name": "★ Gut Knife | Rust Coat (Battle-Scarred)",
+    "price": 77.96,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Gut Knife | Rust Coat",
+    "id": "skin-33162872"
+  },
+  {
+    "name": "★ Gut Knife | Rust Coat (Well-Worn)",
+    "price": 83.08,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Gut Knife | Rust Coat",
+    "id": "skin-33162872"
+  },
+  {
+    "name": "★ StatTrak™ Gut Knife | Rust Coat (Well-Worn)",
+    "price": 109.7,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Gut Knife | Rust Coat",
+    "id": "skin-33162872"
+  },
+  {
+    "name": "★ StatTrak™ Gut Knife | Rust Coat (Battle-Scarred)",
+    "price": 90.23,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Gut Knife | Rust Coat",
+    "id": "skin-33162872"
+  }
+]

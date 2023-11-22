@@ -1,0 +1,92 @@
+[
+  {
+    "name": "★ Gut Knife | Autotronic (Field-Tested)",
+    "price": 143.64,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Gut Knife | Autotronic",
+    "id": "skin-33163516"
+  },
+  {
+    "name": "★ Gut Knife | Autotronic (Well-Worn)",
+    "price": 168.67,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Gut Knife | Autotronic",
+    "id": "skin-33163516"
+  },
+  {
+    "name": "★ StatTrak™ Gut Knife | Autotronic (Minimal Wear)",
+    "price": 177.45,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Gut Knife | Autotronic",
+    "id": "skin-33163516"
+  },
+  {
+    "name": "★ StatTrak™ Gut Knife | Autotronic (Field-Tested)",
+    "price": 166.61,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Gut Knife | Autotronic",
+    "id": "skin-33163516"
+  },
+  {
+    "name": "★ Gut Knife | Autotronic (Battle-Scarred)",
+    "price": 134.94,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Gut Knife | Autotronic",
+    "id": "skin-33163516"
+  },
+  {
+    "name": "★ Gut Knife | Autotronic (Factory New)",
+    "price": 279.47,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Gut Knife | Autotronic",
+    "id": "skin-33163516"
+  },
+  {
+    "name": "★ StatTrak™ Gut Knife | Autotronic (Well-Worn)",
+    "price": 0,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Gut Knife | Autotronic",
+    "id": "skin-33163516"
+  },
+  {
+    "name": "★ Gut Knife | Autotronic (Minimal Wear)",
+    "price": 171.41,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Gut Knife | Autotronic",
+    "id": "skin-33163516"
+  },
+  {
+    "name": "★ StatTrak™ Gut Knife | Autotronic (Factory New)",
+    "price": 300.93,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Gut Knife | Autotronic",
+    "id": "skin-33163516"
+  },
+  {
+    "name": "★ StatTrak™ Gut Knife | Autotronic (Battle-Scarred)",
+    "price": 161.64,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Gut Knife | Autotronic",
+    "id": "skin-33163516"
+  }
+]

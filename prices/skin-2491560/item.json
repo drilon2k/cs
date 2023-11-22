@@ -1,0 +1,29 @@
+[
+  {
+    "name": "SCAR-20 | Army Sheen (Factory New)",
+    "price": 2.21,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "SCAR-20 | Army Sheen",
+    "id": "skin-2491560"
+  },
+  {
+    "name": "SCAR-20 | Army Sheen (Minimal Wear)",
+    "price": 1.25,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "SCAR-20 | Army Sheen",
+    "id": "skin-2491560"
+  },
+  {
+    "name": "SCAR-20 | Army Sheen (Field-Tested)",
+    "price": 1.16,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "SCAR-20 | Army Sheen",
+    "id": "skin-2491560"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "name": "★ Classic Knife | Forest DDPAT (Factory New)",
+    "price": 230.38,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Classic Knife | Forest DDPAT",
+    "id": "skin-32964628"
+  },
+  {
+    "name": "★ Classic Knife | Forest DDPAT (Minimal Wear)",
+    "price": 104.22,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Classic Knife | Forest DDPAT",
+    "id": "skin-32964628"
+  },
+  {
+    "name": "★ Classic Knife | Forest DDPAT (Field-Tested)",
+    "price": 94.62,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Classic Knife | Forest DDPAT",
+    "id": "skin-32964628"
+  },
+  {
+    "name": "★ StatTrak™ Classic Knife | Forest DDPAT (Well-Worn)",
+    "price": 159.83,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Classic Knife | Forest DDPAT",
+    "id": "skin-32964628"
+  },
+  {
+    "name": "★ StatTrak™ Classic Knife | Forest DDPAT (Minimal Wear)",
+    "price": 138.91,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Classic Knife | Forest DDPAT",
+    "id": "skin-32964628"
+  },
+  {
+    "name": "★ StatTrak™ Classic Knife | Forest DDPAT (Field-Tested)",
+    "price": 104.22,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Classic Knife | Forest DDPAT",
+    "id": "skin-32964628"
+  },
+  {
+    "name": "★ Classic Knife | Forest DDPAT (Battle-Scarred)",
+    "price": 95.92,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Classic Knife | Forest DDPAT",
+    "id": "skin-32964628"
+  },
+  {
+    "name": "★ StatTrak™ Classic Knife | Forest DDPAT (Battle-Scarred)",
+    "price": 111.08,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Classic Knife | Forest DDPAT",
+    "id": "skin-32964628"
+  },
+  {
+    "name": "★ Classic Knife | Forest DDPAT (Well-Worn)",
+    "price": 95.98,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Classic Knife | Forest DDPAT",
+    "id": "skin-32964628"
+  },
+  {
+    "name": "★ StatTrak™ Classic Knife | Forest DDPAT (Factory New)",
+    "price": 411.26,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Classic Knife | Forest DDPAT",
+    "id": "skin-32964628"
+  }
+]

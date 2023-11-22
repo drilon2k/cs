@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Glock-18 | Reactor (Factory New)",
+    "price": 9.86,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Glock-18 | Reactor",
+    "id": "skin-263612"
+  },
+  {
+    "name": "Glock-18 | Reactor (Field-Tested)",
+    "price": 4.22,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Glock-18 | Reactor",
+    "id": "skin-263612"
+  },
+  {
+    "name": "Glock-18 | Reactor (Minimal Wear)",
+    "price": 6.38,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Glock-18 | Reactor",
+    "id": "skin-263612"
+  },
+  {
+    "name": "Glock-18 | Reactor (Well-Worn)",
+    "price": 4.25,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Glock-18 | Reactor",
+    "id": "skin-263612"
+  },
+  {
+    "name": "Glock-18 | Reactor (Battle-Scarred)",
+    "price": 4.6,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Glock-18 | Reactor",
+    "id": "skin-263612"
+  }
+]

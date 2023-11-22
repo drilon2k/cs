@@ -1,0 +1,92 @@
+[
+  {
+    "name": "StatTrak™ AWP | Elite Build (Well-Worn)",
+    "price": 17.95,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AWP | Elite Build",
+    "id": "skin-591924"
+  },
+  {
+    "name": "AWP | Elite Build (Field-Tested)",
+    "price": 10.08,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AWP | Elite Build",
+    "id": "skin-591924"
+  },
+  {
+    "name": "StatTrak™ AWP | Elite Build (Factory New)",
+    "price": 57.52,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AWP | Elite Build",
+    "id": "skin-591924"
+  },
+  {
+    "name": "AWP | Elite Build (Minimal Wear)",
+    "price": 14.33,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AWP | Elite Build",
+    "id": "skin-591924"
+  },
+  {
+    "name": "StatTrak™ AWP | Elite Build (Field-Tested)",
+    "price": 19.41,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AWP | Elite Build",
+    "id": "skin-591924"
+  },
+  {
+    "name": "StatTrak™ AWP | Elite Build (Minimal Wear)",
+    "price": 29.41,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AWP | Elite Build",
+    "id": "skin-591924"
+  },
+  {
+    "name": "AWP | Elite Build (Factory New)",
+    "price": 25.37,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AWP | Elite Build",
+    "id": "skin-591924"
+  },
+  {
+    "name": "AWP | Elite Build (Well-Worn)",
+    "price": 9.72,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AWP | Elite Build",
+    "id": "skin-591924"
+  },
+  {
+    "name": "AWP | Elite Build (Battle-Scarred)",
+    "price": 9.06,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AWP | Elite Build",
+    "id": "skin-591924"
+  },
+  {
+    "name": "StatTrak™ AWP | Elite Build (Battle-Scarred)",
+    "price": 18.36,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AWP | Elite Build",
+    "id": "skin-591924"
+  }
+]

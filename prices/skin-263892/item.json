@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Glock-18 | Twilight Galaxy (Field-Tested)",
+    "price": 135.62,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Glock-18 | Twilight Galaxy",
+    "id": "skin-263892"
+  },
+  {
+    "name": "Glock-18 | Twilight Galaxy (Factory New)",
+    "price": 157.01,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Glock-18 | Twilight Galaxy",
+    "id": "skin-263892"
+  },
+  {
+    "name": "Glock-18 | Twilight Galaxy (Minimal Wear)",
+    "price": 139.12,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Glock-18 | Twilight Galaxy",
+    "id": "skin-263892"
+  }
+]

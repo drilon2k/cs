@@ -1,0 +1,92 @@
+[
+  {
+    "name": "StatTrak™ Sawed-Off | Serenity (Well-Worn)",
+    "price": 3.05,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Sawed-Off | Serenity",
+    "id": "skin-1902164"
+  },
+  {
+    "name": "Sawed-Off | Serenity (Field-Tested)",
+    "price": 0.82,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Sawed-Off | Serenity",
+    "id": "skin-1902164"
+  },
+  {
+    "name": "Sawed-Off | Serenity (Factory New)",
+    "price": 1.92,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Sawed-Off | Serenity",
+    "id": "skin-1902164"
+  },
+  {
+    "name": "StatTrak™ Sawed-Off | Serenity (Factory New)",
+    "price": 6.45,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Sawed-Off | Serenity",
+    "id": "skin-1902164"
+  },
+  {
+    "name": "StatTrak™ Sawed-Off | Serenity (Field-Tested)",
+    "price": 2.59,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Sawed-Off | Serenity",
+    "id": "skin-1902164"
+  },
+  {
+    "name": "StatTrak™ Sawed-Off | Serenity (Battle-Scarred)",
+    "price": 2.88,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Sawed-Off | Serenity",
+    "id": "skin-1902164"
+  },
+  {
+    "name": "Sawed-Off | Serenity (Well-Worn)",
+    "price": 0.97,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Sawed-Off | Serenity",
+    "id": "skin-1902164"
+  },
+  {
+    "name": "Sawed-Off | Serenity (Battle-Scarred)",
+    "price": 1.07,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Sawed-Off | Serenity",
+    "id": "skin-1902164"
+  },
+  {
+    "name": "StatTrak™ Sawed-Off | Serenity (Minimal Wear)",
+    "price": 3.72,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Sawed-Off | Serenity",
+    "id": "skin-1902164"
+  },
+  {
+    "name": "Sawed-Off | Serenity (Minimal Wear)",
+    "price": 1.52,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Sawed-Off | Serenity",
+    "id": "skin-1902164"
+  }
+]

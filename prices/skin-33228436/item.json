@@ -1,0 +1,38 @@
+[
+  {
+    "name": "★ Karambit | Doppler (Minimal Wear)",
+    "price": 1076.48,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Karambit | Doppler",
+    "id": "skin-33228436"
+  },
+  {
+    "name": "★ StatTrak™ Karambit | Doppler (Factory New)",
+    "price": 1087.31,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Karambit | Doppler",
+    "id": "skin-33228436"
+  },
+  {
+    "name": "★ StatTrak™ Karambit | Doppler (Minimal Wear)",
+    "price": 1097.05,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Karambit | Doppler",
+    "id": "skin-33228436"
+  },
+  {
+    "name": "★ Karambit | Doppler (Factory New)",
+    "price": 1062.7,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Karambit | Doppler",
+    "id": "skin-33228436"
+  }
+]

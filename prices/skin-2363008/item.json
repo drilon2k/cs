@@ -1,0 +1,47 @@
+[
+  {
+    "name": "P250 | Black & Tan (Field-Tested)",
+    "price": 17.19,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P250 | Black & Tan",
+    "id": "skin-2363008"
+  },
+  {
+    "name": "P250 | Black & Tan (Factory New)",
+    "price": 17.66,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P250 | Black & Tan",
+    "id": "skin-2363008"
+  },
+  {
+    "name": "P250 | Black & Tan (Battle-Scarred)",
+    "price": 19.2,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P250 | Black & Tan",
+    "id": "skin-2363008"
+  },
+  {
+    "name": "P250 | Black & Tan (Minimal Wear)",
+    "price": 17.41,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P250 | Black & Tan",
+    "id": "skin-2363008"
+  },
+  {
+    "name": "P250 | Black & Tan (Well-Worn)",
+    "price": 17.55,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P250 | Black & Tan",
+    "id": "skin-2363008"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "name": "StatTrak™ Galil AR | Destroyer (Battle-Scarred)",
+    "price": 0.11,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Galil AR | Destroyer",
+    "id": "skin-856556"
+  },
+  {
+    "name": "StatTrak™ Galil AR | Destroyer (Field-Tested)",
+    "price": 0.11,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Galil AR | Destroyer",
+    "id": "skin-856556"
+  },
+  {
+    "name": "Galil AR | Destroyer (Well-Worn)",
+    "price": 0.04,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Galil AR | Destroyer",
+    "id": "skin-856556"
+  },
+  {
+    "name": "StatTrak™ Galil AR | Destroyer (Minimal Wear)",
+    "price": 0.3,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Galil AR | Destroyer",
+    "id": "skin-856556"
+  },
+  {
+    "name": "StatTrak™ Galil AR | Destroyer (Well-Worn)",
+    "price": 0.16,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Galil AR | Destroyer",
+    "id": "skin-856556"
+  },
+  {
+    "name": "StatTrak™ Galil AR | Destroyer (Factory New)",
+    "price": 0.64,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Galil AR | Destroyer",
+    "id": "skin-856556"
+  },
+  {
+    "name": "Galil AR | Destroyer (Battle-Scarred)",
+    "price": 0.04,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Galil AR | Destroyer",
+    "id": "skin-856556"
+  },
+  {
+    "name": "Galil AR | Destroyer (Minimal Wear)",
+    "price": 0.09,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Galil AR | Destroyer",
+    "id": "skin-856556"
+  },
+  {
+    "name": "Galil AR | Destroyer (Factory New)",
+    "price": 0.17,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Galil AR | Destroyer",
+    "id": "skin-856556"
+  },
+  {
+    "name": "Galil AR | Destroyer (Field-Tested)",
+    "price": 0.04,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Galil AR | Destroyer",
+    "id": "skin-856556"
+  }
+]

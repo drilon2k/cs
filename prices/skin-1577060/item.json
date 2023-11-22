@@ -1,0 +1,92 @@
+[
+  {
+    "name": "UMP-45 | Oscillator (Minimal Wear)",
+    "price": 0.11,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "UMP-45 | Oscillator",
+    "id": "skin-1577060"
+  },
+  {
+    "name": "StatTrak™ UMP-45 | Oscillator (Minimal Wear)",
+    "price": 0.41,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "UMP-45 | Oscillator",
+    "id": "skin-1577060"
+  },
+  {
+    "name": "StatTrak™ UMP-45 | Oscillator (Factory New)",
+    "price": 0.98,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "UMP-45 | Oscillator",
+    "id": "skin-1577060"
+  },
+  {
+    "name": "StatTrak™ UMP-45 | Oscillator (Well-Worn)",
+    "price": 0.16,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "UMP-45 | Oscillator",
+    "id": "skin-1577060"
+  },
+  {
+    "name": "StatTrak™ UMP-45 | Oscillator (Battle-Scarred)",
+    "price": 0.16,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "UMP-45 | Oscillator",
+    "id": "skin-1577060"
+  },
+  {
+    "name": "UMP-45 | Oscillator (Well-Worn)",
+    "price": 0.05,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "UMP-45 | Oscillator",
+    "id": "skin-1577060"
+  },
+  {
+    "name": "StatTrak™ UMP-45 | Oscillator (Field-Tested)",
+    "price": 0.22,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "UMP-45 | Oscillator",
+    "id": "skin-1577060"
+  },
+  {
+    "name": "UMP-45 | Oscillator (Factory New)",
+    "price": 0.25,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "UMP-45 | Oscillator",
+    "id": "skin-1577060"
+  },
+  {
+    "name": "UMP-45 | Oscillator (Field-Tested)",
+    "price": 0.06,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "UMP-45 | Oscillator",
+    "id": "skin-1577060"
+  },
+  {
+    "name": "UMP-45 | Oscillator (Battle-Scarred)",
+    "price": 0.06,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "UMP-45 | Oscillator",
+    "id": "skin-1577060"
+  }
+]

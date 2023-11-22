@@ -1,0 +1,47 @@
+[
+  {
+    "name": "G3SG1 | Orange Kimono (Minimal Wear)",
+    "price": 1.96,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "G3SG1 | Orange Kimono",
+    "id": "skin-722756"
+  },
+  {
+    "name": "G3SG1 | Orange Kimono (Field-Tested)",
+    "price": 1.56,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "G3SG1 | Orange Kimono",
+    "id": "skin-722756"
+  },
+  {
+    "name": "G3SG1 | Orange Kimono (Battle-Scarred)",
+    "price": 1.44,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "G3SG1 | Orange Kimono",
+    "id": "skin-722756"
+  },
+  {
+    "name": "G3SG1 | Orange Kimono (Factory New)",
+    "price": 2.75,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "G3SG1 | Orange Kimono",
+    "id": "skin-722756"
+  },
+  {
+    "name": "G3SG1 | Orange Kimono (Well-Worn)",
+    "price": 2.09,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "G3SG1 | Orange Kimono",
+    "id": "skin-722756"
+  }
+]

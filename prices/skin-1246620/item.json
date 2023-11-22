@@ -1,0 +1,92 @@
+[
+  {
+    "name": "StatTrak™ P90 | Asiimov (Battle-Scarred)",
+    "price": 13.41,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "P90 | Asiimov",
+    "id": "skin-1246620"
+  },
+  {
+    "name": "StatTrak™ P90 | Asiimov (Well-Worn)",
+    "price": 16.87,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "P90 | Asiimov",
+    "id": "skin-1246620"
+  },
+  {
+    "name": "P90 | Asiimov (Minimal Wear)",
+    "price": 12.7,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P90 | Asiimov",
+    "id": "skin-1246620"
+  },
+  {
+    "name": "P90 | Asiimov (Battle-Scarred)",
+    "price": 4.15,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P90 | Asiimov",
+    "id": "skin-1246620"
+  },
+  {
+    "name": "StatTrak™ P90 | Asiimov (Field-Tested)",
+    "price": 20.21,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "P90 | Asiimov",
+    "id": "skin-1246620"
+  },
+  {
+    "name": "StatTrak™ P90 | Asiimov (Factory New)",
+    "price": 136.86,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "P90 | Asiimov",
+    "id": "skin-1246620"
+  },
+  {
+    "name": "StatTrak™ P90 | Asiimov (Minimal Wear)",
+    "price": 48.79,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "P90 | Asiimov",
+    "id": "skin-1246620"
+  },
+  {
+    "name": "P90 | Asiimov (Well-Worn)",
+    "price": 5.43,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P90 | Asiimov",
+    "id": "skin-1246620"
+  },
+  {
+    "name": "P90 | Asiimov (Factory New)",
+    "price": 28.52,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P90 | Asiimov",
+    "id": "skin-1246620"
+  },
+  {
+    "name": "P90 | Asiimov (Field-Tested)",
+    "price": 5.99,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P90 | Asiimov",
+    "id": "skin-1246620"
+  }
+]

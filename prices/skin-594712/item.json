@@ -1,0 +1,92 @@
+[
+  {
+    "name": "AWP | Duality (Battle-Scarred)",
+    "price": 3.39,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AWP | Duality",
+    "id": "skin-594712"
+  },
+  {
+    "name": "AWP | Duality (Minimal Wear)",
+    "price": 6.99,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AWP | Duality",
+    "id": "skin-594712"
+  },
+  {
+    "name": "StatTrak™ AWP | Duality (Field-Tested)",
+    "price": 8.9,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AWP | Duality",
+    "id": "skin-594712"
+  },
+  {
+    "name": "StatTrak™ AWP | Duality (Well-Worn)",
+    "price": 13.42,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AWP | Duality",
+    "id": "skin-594712"
+  },
+  {
+    "name": "StatTrak™ AWP | Duality (Factory New)",
+    "price": 48.68,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AWP | Duality",
+    "id": "skin-594712"
+  },
+  {
+    "name": "StatTrak™ AWP | Duality (Minimal Wear)",
+    "price": 19.73,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AWP | Duality",
+    "id": "skin-594712"
+  },
+  {
+    "name": "AWP | Duality (Field-Tested)",
+    "price": 3.43,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AWP | Duality",
+    "id": "skin-594712"
+  },
+  {
+    "name": "StatTrak™ AWP | Duality (Battle-Scarred)",
+    "price": 9.2,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AWP | Duality",
+    "id": "skin-594712"
+  },
+  {
+    "name": "AWP | Duality (Factory New)",
+    "price": 13.56,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AWP | Duality",
+    "id": "skin-594712"
+  },
+  {
+    "name": "AWP | Duality (Well-Worn)",
+    "price": 4.59,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AWP | Duality",
+    "id": "skin-594712"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "name": "StatTrak™ P2000 | Oceanic (Well-Worn)",
+    "price": 0.23,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "P2000 | Oceanic",
+    "id": "skin-2099352"
+  },
+  {
+    "name": "P2000 | Oceanic (Field-Tested)",
+    "price": 0.05,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P2000 | Oceanic",
+    "id": "skin-2099352"
+  },
+  {
+    "name": "P2000 | Oceanic (Battle-Scarred)",
+    "price": 0.06,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P2000 | Oceanic",
+    "id": "skin-2099352"
+  },
+  {
+    "name": "StatTrak™ P2000 | Oceanic (Field-Tested)",
+    "price": 0.12,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "P2000 | Oceanic",
+    "id": "skin-2099352"
+  },
+  {
+    "name": "P2000 | Oceanic (Factory New)",
+    "price": 0.19,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P2000 | Oceanic",
+    "id": "skin-2099352"
+  },
+  {
+    "name": "P2000 | Oceanic (Minimal Wear)",
+    "price": 0.11,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P2000 | Oceanic",
+    "id": "skin-2099352"
+  },
+  {
+    "name": "StatTrak™ P2000 | Oceanic (Minimal Wear)",
+    "price": 0.41,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "P2000 | Oceanic",
+    "id": "skin-2099352"
+  },
+  {
+    "name": "P2000 | Oceanic (Well-Worn)",
+    "price": 0.12,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P2000 | Oceanic",
+    "id": "skin-2099352"
+  },
+  {
+    "name": "StatTrak™ P2000 | Oceanic (Factory New)",
+    "price": 0.88,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "P2000 | Oceanic",
+    "id": "skin-2099352"
+  },
+  {
+    "name": "StatTrak™ P2000 | Oceanic (Battle-Scarred)",
+    "price": 0.15,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "P2000 | Oceanic",
+    "id": "skin-2099352"
+  }
+]

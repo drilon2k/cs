@@ -1,0 +1,92 @@
+[
+  {
+    "name": "USP-S | The Traitor (Factory New)",
+    "price": 40.92,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "USP-S | The Traitor",
+    "id": "skin-4001856"
+  },
+  {
+    "name": "StatTrak™ USP-S | The Traitor (Field-Tested)",
+    "price": 24.34,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "USP-S | The Traitor",
+    "id": "skin-4001856"
+  },
+  {
+    "name": "USP-S | The Traitor (Minimal Wear)",
+    "price": 13.55,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "USP-S | The Traitor",
+    "id": "skin-4001856"
+  },
+  {
+    "name": "StatTrak™ USP-S | The Traitor (Factory New)",
+    "price": 148.65,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "USP-S | The Traitor",
+    "id": "skin-4001856"
+  },
+  {
+    "name": "USP-S | The Traitor (Field-Tested)",
+    "price": 8.24,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "USP-S | The Traitor",
+    "id": "skin-4001856"
+  },
+  {
+    "name": "StatTrak™ USP-S | The Traitor (Battle-Scarred)",
+    "price": 19.02,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "USP-S | The Traitor",
+    "id": "skin-4001856"
+  },
+  {
+    "name": "StatTrak™ USP-S | The Traitor (Minimal Wear)",
+    "price": 42.85,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "USP-S | The Traitor",
+    "id": "skin-4001856"
+  },
+  {
+    "name": "USP-S | The Traitor (Well-Worn)",
+    "price": 6.65,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "USP-S | The Traitor",
+    "id": "skin-4001856"
+  },
+  {
+    "name": "StatTrak™ USP-S | The Traitor (Well-Worn)",
+    "price": 19.61,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "USP-S | The Traitor",
+    "id": "skin-4001856"
+  },
+  {
+    "name": "USP-S | The Traitor (Battle-Scarred)",
+    "price": 6.66,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "USP-S | The Traitor",
+    "id": "skin-4001856"
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Desert Eagle | Meteorite (Field-Tested)",
+    "price": 0.63,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Desert Eagle | Meteorite",
+    "id": "skin-66720"
+  },
+  {
+    "name": "Desert Eagle | Meteorite (Minimal Wear)",
+    "price": 0.71,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Desert Eagle | Meteorite",
+    "id": "skin-66720"
+  },
+  {
+    "name": "Desert Eagle | Meteorite (Factory New)",
+    "price": 1.15,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Desert Eagle | Meteorite",
+    "id": "skin-66720"
+  }
+]

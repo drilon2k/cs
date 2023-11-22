@@ -1,0 +1,92 @@
+[
+  {
+    "name": "★ M9 Bayonet | Ultraviolet (Factory New)",
+    "price": 1211,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ M9 Bayonet | Ultraviolet",
+    "id": "skin-33292680"
+  },
+  {
+    "name": "★ M9 Bayonet | Ultraviolet (Field-Tested)",
+    "price": 372.93,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ M9 Bayonet | Ultraviolet",
+    "id": "skin-33292680"
+  },
+  {
+    "name": "★ StatTrak™ M9 Bayonet | Ultraviolet (Battle-Scarred)",
+    "price": 356.54,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ M9 Bayonet | Ultraviolet",
+    "id": "skin-33292680"
+  },
+  {
+    "name": "★ M9 Bayonet | Ultraviolet (Battle-Scarred)",
+    "price": 359.28,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ M9 Bayonet | Ultraviolet",
+    "id": "skin-33292680"
+  },
+  {
+    "name": "★ StatTrak™ M9 Bayonet | Ultraviolet (Field-Tested)",
+    "price": 397.27,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ M9 Bayonet | Ultraviolet",
+    "id": "skin-33292680"
+  },
+  {
+    "name": "★ M9 Bayonet | Ultraviolet (Minimal Wear)",
+    "price": 507.38,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ M9 Bayonet | Ultraviolet",
+    "id": "skin-33292680"
+  },
+  {
+    "name": "★ StatTrak™ M9 Bayonet | Ultraviolet (Well-Worn)",
+    "price": 397.54,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ M9 Bayonet | Ultraviolet",
+    "id": "skin-33292680"
+  },
+  {
+    "name": "★ M9 Bayonet | Ultraviolet (Well-Worn)",
+    "price": 356.54,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ M9 Bayonet | Ultraviolet",
+    "id": "skin-33292680"
+  },
+  {
+    "name": "★ StatTrak™ M9 Bayonet | Ultraviolet (Minimal Wear)",
+    "price": 562.24,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ M9 Bayonet | Ultraviolet",
+    "id": "skin-33292680"
+  },
+  {
+    "name": "★ StatTrak™ M9 Bayonet | Ultraviolet (Factory New)",
+    "price": 0,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ M9 Bayonet | Ultraviolet",
+    "id": "skin-33292680"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "name": "P90 | Cocoa Rampage (Field-Tested)",
+    "price": 0.48,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P90 | Cocoa Rampage",
+    "id": "skin-1249092"
+  },
+  {
+    "name": "P90 | Cocoa Rampage (Minimal Wear)",
+    "price": 0.55,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P90 | Cocoa Rampage",
+    "id": "skin-1249092"
+  },
+  {
+    "name": "P90 | Cocoa Rampage (Well-Worn)",
+    "price": 0.4,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P90 | Cocoa Rampage",
+    "id": "skin-1249092"
+  },
+  {
+    "name": "P90 | Cocoa Rampage (Factory New)",
+    "price": 0.7,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P90 | Cocoa Rampage",
+    "id": "skin-1249092"
+  },
+  {
+    "name": "StatTrak™ P90 | Cocoa Rampage (Factory New)",
+    "price": 1.66,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "P90 | Cocoa Rampage",
+    "id": "skin-1249092"
+  },
+  {
+    "name": "P90 | Cocoa Rampage (Battle-Scarred)",
+    "price": 0.28,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P90 | Cocoa Rampage",
+    "id": "skin-1249092"
+  },
+  {
+    "name": "StatTrak™ P90 | Cocoa Rampage (Field-Tested)",
+    "price": 0.34,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "P90 | Cocoa Rampage",
+    "id": "skin-1249092"
+  },
+  {
+    "name": "StatTrak™ P90 | Cocoa Rampage (Minimal Wear)",
+    "price": 0.86,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "P90 | Cocoa Rampage",
+    "id": "skin-1249092"
+  },
+  {
+    "name": "StatTrak™ P90 | Cocoa Rampage (Battle-Scarred)",
+    "price": 0.46,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "P90 | Cocoa Rampage",
+    "id": "skin-1249092"
+  },
+  {
+    "name": "StatTrak™ P90 | Cocoa Rampage (Well-Worn)",
+    "price": 0.54,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "P90 | Cocoa Rampage",
+    "id": "skin-1249092"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Sawed-Off | Fubar (Well-Worn)",
+    "price": 0.06,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Sawed-Off | Fubar",
+    "id": "skin-1902752"
+  },
+  {
+    "name": "StatTrak™ Sawed-Off | Fubar (Well-Worn)",
+    "price": 0.22,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Sawed-Off | Fubar",
+    "id": "skin-1902752"
+  },
+  {
+    "name": "StatTrak™ Sawed-Off | Fubar (Battle-Scarred)",
+    "price": 0.08,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Sawed-Off | Fubar",
+    "id": "skin-1902752"
+  },
+  {
+    "name": "Sawed-Off | Fubar (Battle-Scarred)",
+    "price": 0.04,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Sawed-Off | Fubar",
+    "id": "skin-1902752"
+  }
+]

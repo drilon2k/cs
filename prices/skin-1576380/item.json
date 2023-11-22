@@ -1,0 +1,20 @@
+[
+  {
+    "name": "UMP-45 | Fade (Factory New)",
+    "price": 425.11,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "UMP-45 | Fade",
+    "id": "skin-1576380"
+  },
+  {
+    "name": "UMP-45 | Fade (Minimal Wear)",
+    "price": 571.68,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "UMP-45 | Fade",
+    "id": "skin-1576380"
+  }
+]

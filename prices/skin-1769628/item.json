@@ -1,0 +1,47 @@
+[
+  {
+    "name": "MAG-7 | Bulldozer (Well-Worn)",
+    "price": 3.62,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MAG-7 | Bulldozer",
+    "id": "skin-1769628"
+  },
+  {
+    "name": "MAG-7 | Bulldozer (Factory New)",
+    "price": 123.35,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MAG-7 | Bulldozer",
+    "id": "skin-1769628"
+  },
+  {
+    "name": "MAG-7 | Bulldozer (Minimal Wear)",
+    "price": 12.34,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MAG-7 | Bulldozer",
+    "id": "skin-1769628"
+  },
+  {
+    "name": "MAG-7 | Bulldozer (Battle-Scarred)",
+    "price": 3.5,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MAG-7 | Bulldozer",
+    "id": "skin-1769628"
+  },
+  {
+    "name": "MAG-7 | Bulldozer (Field-Tested)",
+    "price": 3.77,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MAG-7 | Bulldozer",
+    "id": "skin-1769628"
+  }
+]

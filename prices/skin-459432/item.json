@@ -1,0 +1,47 @@
+[
+  {
+    "name": "AK-47 | Predator (Field-Tested)",
+    "price": 11.24,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AK-47 | Predator",
+    "id": "skin-459432"
+  },
+  {
+    "name": "AK-47 | Predator (Well-Worn)",
+    "price": 11.55,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AK-47 | Predator",
+    "id": "skin-459432"
+  },
+  {
+    "name": "AK-47 | Predator (Battle-Scarred)",
+    "price": 10.52,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AK-47 | Predator",
+    "id": "skin-459432"
+  },
+  {
+    "name": "AK-47 | Predator (Minimal Wear)",
+    "price": 11.85,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AK-47 | Predator",
+    "id": "skin-459432"
+  },
+  {
+    "name": "AK-47 | Predator (Factory New)",
+    "price": 49.04,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AK-47 | Predator",
+    "id": "skin-459432"
+  }
+]

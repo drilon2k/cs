@@ -1,0 +1,92 @@
+[
+  {
+    "name": "★ StatTrak™ Falchion Knife | Urban Masked (Field-Tested)",
+    "price": 91.19,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Falchion Knife | Urban Masked",
+    "id": "skin-33555004"
+  },
+  {
+    "name": "★ StatTrak™ Falchion Knife | Urban Masked (Well-Worn)",
+    "price": 0,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Falchion Knife | Urban Masked",
+    "id": "skin-33555004"
+  },
+  {
+    "name": "★ Falchion Knife | Urban Masked (Well-Worn)",
+    "price": 89.14,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Falchion Knife | Urban Masked",
+    "id": "skin-33555004"
+  },
+  {
+    "name": "★ Falchion Knife | Urban Masked (Battle-Scarred)",
+    "price": 87.76,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Falchion Knife | Urban Masked",
+    "id": "skin-33555004"
+  },
+  {
+    "name": "★ Falchion Knife | Urban Masked (Factory New)",
+    "price": 164.56,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Falchion Knife | Urban Masked",
+    "id": "skin-33555004"
+  },
+  {
+    "name": "★ StatTrak™ Falchion Knife | Urban Masked (Minimal Wear)",
+    "price": 116.56,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Falchion Knife | Urban Masked",
+    "id": "skin-33555004"
+  },
+  {
+    "name": "★ StatTrak™ Falchion Knife | Urban Masked (Battle-Scarred)",
+    "price": 93.25,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Falchion Knife | Urban Masked",
+    "id": "skin-33555004"
+  },
+  {
+    "name": "★ Falchion Knife | Urban Masked (Field-Tested)",
+    "price": 85.71,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Falchion Knife | Urban Masked",
+    "id": "skin-33555004"
+  },
+  {
+    "name": "★ StatTrak™ Falchion Knife | Urban Masked (Factory New)",
+    "price": 0,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Falchion Knife | Urban Masked",
+    "id": "skin-33555004"
+  },
+  {
+    "name": "★ Falchion Knife | Urban Masked (Minimal Wear)",
+    "price": 101.19,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Falchion Knife | Urban Masked",
+    "id": "skin-33555004"
+  }
+]

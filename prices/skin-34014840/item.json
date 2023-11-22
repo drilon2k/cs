@@ -1,0 +1,38 @@
+[
+  {
+    "name": "★ StatTrak™ Ursus Knife | Rust Coat (Well-Worn)",
+    "price": 113.82,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Ursus Knife | Rust Coat",
+    "id": "skin-34014840"
+  },
+  {
+    "name": "★ Ursus Knife | Rust Coat (Battle-Scarred)",
+    "price": 93.25,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Ursus Knife | Rust Coat",
+    "id": "skin-34014840"
+  },
+  {
+    "name": "★ StatTrak™ Ursus Knife | Rust Coat (Battle-Scarred)",
+    "price": 99.83,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Ursus Knife | Rust Coat",
+    "id": "skin-34014840"
+  },
+  {
+    "name": "★ Ursus Knife | Rust Coat (Well-Worn)",
+    "price": 98.73,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Ursus Knife | Rust Coat",
+    "id": "skin-34014840"
+  }
+]

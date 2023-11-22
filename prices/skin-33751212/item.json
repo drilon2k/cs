@@ -1,0 +1,92 @@
+[
+  {
+    "name": "★ StatTrak™ Butterfly Knife | Stained (Well-Worn)",
+    "price": 534.81,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Butterfly Knife | Stained",
+    "id": "skin-33751212"
+  },
+  {
+    "name": "★ Butterfly Knife | Stained (Well-Worn)",
+    "price": 552.64,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Butterfly Knife | Stained",
+    "id": "skin-33751212"
+  },
+  {
+    "name": "★ Butterfly Knife | Stained (Battle-Scarred)",
+    "price": 534.67,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Butterfly Knife | Stained",
+    "id": "skin-33751212"
+  },
+  {
+    "name": "★ Butterfly Knife | Stained (Minimal Wear)",
+    "price": 637.59,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Butterfly Knife | Stained",
+    "id": "skin-33751212"
+  },
+  {
+    "name": "★ StatTrak™ Butterfly Knife | Stained (Battle-Scarred)",
+    "price": 534.81,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Butterfly Knife | Stained",
+    "id": "skin-33751212"
+  },
+  {
+    "name": "★ StatTrak™ Butterfly Knife | Stained (Factory New)",
+    "price": 1371.17,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Butterfly Knife | Stained",
+    "id": "skin-33751212"
+  },
+  {
+    "name": "★ Butterfly Knife | Stained (Field-Tested)",
+    "price": 578.69,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Butterfly Knife | Stained",
+    "id": "skin-33751212"
+  },
+  {
+    "name": "★ StatTrak™ Butterfly Knife | Stained (Field-Tested)",
+    "price": 637.59,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Butterfly Knife | Stained",
+    "id": "skin-33751212"
+  },
+  {
+    "name": "★ Butterfly Knife | Stained (Factory New)",
+    "price": 865.84,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Butterfly Knife | Stained",
+    "id": "skin-33751212"
+  },
+  {
+    "name": "★ StatTrak™ Butterfly Knife | Stained (Minimal Wear)",
+    "price": 691,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Butterfly Knife | Stained",
+    "id": "skin-33751212"
+  }
+]

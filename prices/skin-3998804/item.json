@@ -1,0 +1,92 @@
+[
+  {
+    "name": "USP-S | Stainless (Battle-Scarred)",
+    "price": 2.51,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "USP-S | Stainless",
+    "id": "skin-3998804"
+  },
+  {
+    "name": "USP-S | Stainless (Field-Tested)",
+    "price": 2.69,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "USP-S | Stainless",
+    "id": "skin-3998804"
+  },
+  {
+    "name": "USP-S | Stainless (Well-Worn)",
+    "price": 5.67,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "USP-S | Stainless",
+    "id": "skin-3998804"
+  },
+  {
+    "name": "USP-S | Stainless (Factory New)",
+    "price": 16.25,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "USP-S | Stainless",
+    "id": "skin-3998804"
+  },
+  {
+    "name": "StatTrak™ USP-S | Stainless (Battle-Scarred)",
+    "price": 9.31,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "USP-S | Stainless",
+    "id": "skin-3998804"
+  },
+  {
+    "name": "StatTrak™ USP-S | Stainless (Well-Worn)",
+    "price": 14.81,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "USP-S | Stainless",
+    "id": "skin-3998804"
+  },
+  {
+    "name": "StatTrak™ USP-S | Stainless (Minimal Wear)",
+    "price": 20.57,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "USP-S | Stainless",
+    "id": "skin-3998804"
+  },
+  {
+    "name": "USP-S | Stainless (Minimal Wear)",
+    "price": 6.72,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "USP-S | Stainless",
+    "id": "skin-3998804"
+  },
+  {
+    "name": "StatTrak™ USP-S | Stainless (Factory New)",
+    "price": 61.64,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "USP-S | Stainless",
+    "id": "skin-3998804"
+  },
+  {
+    "name": "StatTrak™ USP-S | Stainless (Field-Tested)",
+    "price": 9.87,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "USP-S | Stainless",
+    "id": "skin-3998804"
+  }
+]

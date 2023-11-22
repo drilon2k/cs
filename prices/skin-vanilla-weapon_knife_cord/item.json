@@ -1,0 +1,20 @@
+[
+  {
+    "name": "★ Paracord Knife",
+    "price": 165.39,
+    "wear": null,
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Paracord Knife",
+    "id": "skin-vanilla-weapon_knife_cord"
+  },
+  {
+    "name": "★ StatTrak™ Paracord Knife",
+    "price": 183.8,
+    "wear": null,
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Paracord Knife",
+    "id": "skin-vanilla-weapon_knife_cord"
+  }
+]

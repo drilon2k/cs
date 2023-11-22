@@ -1,0 +1,20 @@
+[
+  {
+    "name": "MAC-10 | Silver (Minimal Wear)",
+    "price": 0.14,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MAC-10 | Silver",
+    "id": "skin-1114240"
+  },
+  {
+    "name": "MAC-10 | Silver (Factory New)",
+    "price": 0.15,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MAC-10 | Silver",
+    "id": "skin-1114240"
+  }
+]

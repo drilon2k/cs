@@ -1,0 +1,92 @@
+[
+  {
+    "name": "StatTrak™ AUG | Torque (Factory New)",
+    "price": 13.42,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AUG | Torque",
+    "id": "skin-525508"
+  },
+  {
+    "name": "StatTrak™ AUG | Torque (Field-Tested)",
+    "price": 9.67,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AUG | Torque",
+    "id": "skin-525508"
+  },
+  {
+    "name": "AUG | Torque (Factory New)",
+    "price": 7.94,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AUG | Torque",
+    "id": "skin-525508"
+  },
+  {
+    "name": "StatTrak™ AUG | Torque (Minimal Wear)",
+    "price": 12.41,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AUG | Torque",
+    "id": "skin-525508"
+  },
+  {
+    "name": "StatTrak™ AUG | Torque (Battle-Scarred)",
+    "price": 12.14,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AUG | Torque",
+    "id": "skin-525508"
+  },
+  {
+    "name": "AUG | Torque (Well-Worn)",
+    "price": 5.39,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AUG | Torque",
+    "id": "skin-525508"
+  },
+  {
+    "name": "AUG | Torque (Minimal Wear)",
+    "price": 5.88,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AUG | Torque",
+    "id": "skin-525508"
+  },
+  {
+    "name": "AUG | Torque (Field-Tested)",
+    "price": 5.25,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AUG | Torque",
+    "id": "skin-525508"
+  },
+  {
+    "name": "StatTrak™ AUG | Torque (Well-Worn)",
+    "price": 8.5,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AUG | Torque",
+    "id": "skin-525508"
+  },
+  {
+    "name": "AUG | Torque (Battle-Scarred)",
+    "price": 4.8,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AUG | Torque",
+    "id": "skin-525508"
+  }
+]

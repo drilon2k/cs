@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Tec-9 | Blast From the Past (Factory New)",
+    "price": 9.95,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Tec-9 | Blast From the Past",
+    "id": "skin-1970176"
+  },
+  {
+    "name": "Tec-9 | Blast From the Past (Field-Tested)",
+    "price": 8.33,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Tec-9 | Blast From the Past",
+    "id": "skin-1970176"
+  },
+  {
+    "name": "Tec-9 | Blast From the Past (Minimal Wear)",
+    "price": 9.08,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Tec-9 | Blast From the Past",
+    "id": "skin-1970176"
+  },
+  {
+    "name": "Tec-9 | Blast From the Past (Battle-Scarred)",
+    "price": 9.75,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Tec-9 | Blast From the Past",
+    "id": "skin-1970176"
+  },
+  {
+    "name": "Tec-9 | Blast From the Past (Well-Worn)",
+    "price": 13.57,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Tec-9 | Blast From the Past",
+    "id": "skin-1970176"
+  }
+]

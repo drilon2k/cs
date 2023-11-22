@@ -1,0 +1,92 @@
+[
+  {
+    "name": "XM1014 | Tranquility (Minimal Wear)",
+    "price": 5.88,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "XM1014 | Tranquility",
+    "id": "skin-1639972"
+  },
+  {
+    "name": "XM1014 | Tranquility (Field-Tested)",
+    "price": 4.33,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "XM1014 | Tranquility",
+    "id": "skin-1639972"
+  },
+  {
+    "name": "StatTrak™ XM1014 | Tranquility (Minimal Wear)",
+    "price": 23.31,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "XM1014 | Tranquility",
+    "id": "skin-1639972"
+  },
+  {
+    "name": "XM1014 | Tranquility (Well-Worn)",
+    "price": 4.99,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "XM1014 | Tranquility",
+    "id": "skin-1639972"
+  },
+  {
+    "name": "XM1014 | Tranquility (Factory New)",
+    "price": 13.85,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "XM1014 | Tranquility",
+    "id": "skin-1639972"
+  },
+  {
+    "name": "StatTrak™ XM1014 | Tranquility (Factory New)",
+    "price": 55.81,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "XM1014 | Tranquility",
+    "id": "skin-1639972"
+  },
+  {
+    "name": "XM1014 | Tranquility (Battle-Scarred)",
+    "price": 5.17,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "XM1014 | Tranquility",
+    "id": "skin-1639972"
+  },
+  {
+    "name": "StatTrak™ XM1014 | Tranquility (Field-Tested)",
+    "price": 13.01,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "XM1014 | Tranquility",
+    "id": "skin-1639972"
+  },
+  {
+    "name": "StatTrak™ XM1014 | Tranquility (Battle-Scarred)",
+    "price": 11.86,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "XM1014 | Tranquility",
+    "id": "skin-1639972"
+  },
+  {
+    "name": "StatTrak™ XM1014 | Tranquility (Well-Worn)",
+    "price": 17.83,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "XM1014 | Tranquility",
+    "id": "skin-1639972"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "name": "StatTrak™ PP-Bizon | High Roller (Battle-Scarred)",
+    "price": 3.14,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "PP-Bizon | High Roller",
+    "id": "skin-1706640"
+  },
+  {
+    "name": "StatTrak™ PP-Bizon | High Roller (Factory New)",
+    "price": 24.27,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "PP-Bizon | High Roller",
+    "id": "skin-1706640"
+  },
+  {
+    "name": "StatTrak™ PP-Bizon | High Roller (Field-Tested)",
+    "price": 4.77,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "PP-Bizon | High Roller",
+    "id": "skin-1706640"
+  },
+  {
+    "name": "PP-Bizon | High Roller (Well-Worn)",
+    "price": 1.37,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "PP-Bizon | High Roller",
+    "id": "skin-1706640"
+  },
+  {
+    "name": "PP-Bizon | High Roller (Field-Tested)",
+    "price": 1.7,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "PP-Bizon | High Roller",
+    "id": "skin-1706640"
+  },
+  {
+    "name": "StatTrak™ PP-Bizon | High Roller (Well-Worn)",
+    "price": 3.76,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "PP-Bizon | High Roller",
+    "id": "skin-1706640"
+  },
+  {
+    "name": "PP-Bizon | High Roller (Factory New)",
+    "price": 8.64,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "PP-Bizon | High Roller",
+    "id": "skin-1706640"
+  },
+  {
+    "name": "PP-Bizon | High Roller (Battle-Scarred)",
+    "price": 1.23,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "PP-Bizon | High Roller",
+    "id": "skin-1706640"
+  },
+  {
+    "name": "StatTrak™ PP-Bizon | High Roller (Minimal Wear)",
+    "price": 9.6,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "PP-Bizon | High Roller",
+    "id": "skin-1706640"
+  },
+  {
+    "name": "PP-Bizon | High Roller (Minimal Wear)",
+    "price": 3.26,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "PP-Bizon | High Roller",
+    "id": "skin-1706640"
+  }
+]

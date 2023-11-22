@@ -1,0 +1,47 @@
+[
+  {
+    "name": "M4A4 | Mainframe (Well-Worn)",
+    "price": 0.05,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M4A4 | Mainframe",
+    "id": "skin-1051696"
+  },
+  {
+    "name": "M4A4 | Mainframe (Battle-Scarred)",
+    "price": 0.05,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M4A4 | Mainframe",
+    "id": "skin-1051696"
+  },
+  {
+    "name": "M4A4 | Mainframe (Field-Tested)",
+    "price": 0.05,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M4A4 | Mainframe",
+    "id": "skin-1051696"
+  },
+  {
+    "name": "M4A4 | Mainframe (Minimal Wear)",
+    "price": 0.08,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M4A4 | Mainframe",
+    "id": "skin-1051696"
+  },
+  {
+    "name": "M4A4 | Mainframe (Factory New)",
+    "price": 0.12,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M4A4 | Mainframe",
+    "id": "skin-1051696"
+  }
+]

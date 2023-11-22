@@ -1,0 +1,47 @@
+[
+  {
+    "name": "P90 | Sunset Lily (Minimal Wear)",
+    "price": 13.58,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P90 | Sunset Lily",
+    "id": "skin-1248088"
+  },
+  {
+    "name": "P90 | Sunset Lily (Well-Worn)",
+    "price": 13.71,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P90 | Sunset Lily",
+    "id": "skin-1248088"
+  },
+  {
+    "name": "P90 | Sunset Lily (Factory New)",
+    "price": 14.03,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P90 | Sunset Lily",
+    "id": "skin-1248088"
+  },
+  {
+    "name": "P90 | Sunset Lily (Field-Tested)",
+    "price": 13.35,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P90 | Sunset Lily",
+    "id": "skin-1248088"
+  },
+  {
+    "name": "P90 | Sunset Lily (Battle-Scarred)",
+    "price": 13.56,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P90 | Sunset Lily",
+    "id": "skin-1248088"
+  }
+]

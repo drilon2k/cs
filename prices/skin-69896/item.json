@@ -1,0 +1,92 @@
+[
+  {
+    "name": "StatTrak™ Desert Eagle | Ocean Drive (Minimal Wear)",
+    "price": 90.51,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Desert Eagle | Ocean Drive",
+    "id": "skin-69896"
+  },
+  {
+    "name": "Desert Eagle | Ocean Drive (Well-Worn)",
+    "price": 12.17,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Desert Eagle | Ocean Drive",
+    "id": "skin-69896"
+  },
+  {
+    "name": "StatTrak™ Desert Eagle | Ocean Drive (Battle-Scarred)",
+    "price": 29.61,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Desert Eagle | Ocean Drive",
+    "id": "skin-69896"
+  },
+  {
+    "name": "Desert Eagle | Ocean Drive (Factory New)",
+    "price": 101.34,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Desert Eagle | Ocean Drive",
+    "id": "skin-69896"
+  },
+  {
+    "name": "StatTrak™ Desert Eagle | Ocean Drive (Field-Tested)",
+    "price": 43.13,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Desert Eagle | Ocean Drive",
+    "id": "skin-69896"
+  },
+  {
+    "name": "Desert Eagle | Ocean Drive (Field-Tested)",
+    "price": 13.71,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Desert Eagle | Ocean Drive",
+    "id": "skin-69896"
+  },
+  {
+    "name": "Desert Eagle | Ocean Drive (Battle-Scarred)",
+    "price": 11.38,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Desert Eagle | Ocean Drive",
+    "id": "skin-69896"
+  },
+  {
+    "name": "Desert Eagle | Ocean Drive (Minimal Wear)",
+    "price": 30.17,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Desert Eagle | Ocean Drive",
+    "id": "skin-69896"
+  },
+  {
+    "name": "StatTrak™ Desert Eagle | Ocean Drive (Factory New)",
+    "price": 335.63,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Desert Eagle | Ocean Drive",
+    "id": "skin-69896"
+  },
+  {
+    "name": "StatTrak™ Desert Eagle | Ocean Drive (Well-Worn)",
+    "price": 30.14,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Desert Eagle | Ocean Drive",
+    "id": "skin-69896"
+  }
+]

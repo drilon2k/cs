@@ -1,0 +1,92 @@
+[
+  {
+    "name": "★ Classic Knife | Blue Steel (Minimal Wear)",
+    "price": 169.36,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Classic Knife | Blue Steel",
+    "id": "skin-32964776"
+  },
+  {
+    "name": "★ StatTrak™ Classic Knife | Blue Steel (Field-Tested)",
+    "price": 185.06,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Classic Knife | Blue Steel",
+    "id": "skin-32964776"
+  },
+  {
+    "name": "★ StatTrak™ Classic Knife | Blue Steel (Factory New)",
+    "price": 2056.83,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Classic Knife | Blue Steel",
+    "id": "skin-32964776"
+  },
+  {
+    "name": "★ StatTrak™ Classic Knife | Blue Steel (Minimal Wear)",
+    "price": 204.33,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Classic Knife | Blue Steel",
+    "id": "skin-32964776"
+  },
+  {
+    "name": "★ StatTrak™ Classic Knife | Blue Steel (Well-Worn)",
+    "price": 156.33,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Classic Knife | Blue Steel",
+    "id": "skin-32964776"
+  },
+  {
+    "name": "★ Classic Knife | Blue Steel (Field-Tested)",
+    "price": 151.8,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Classic Knife | Blue Steel",
+    "id": "skin-32964776"
+  },
+  {
+    "name": "★ Classic Knife | Blue Steel (Battle-Scarred)",
+    "price": 136.99,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Classic Knife | Blue Steel",
+    "id": "skin-32964776"
+  },
+  {
+    "name": "★ Classic Knife | Blue Steel (Well-Worn)",
+    "price": 138.09,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Classic Knife | Blue Steel",
+    "id": "skin-32964776"
+  },
+  {
+    "name": "★ StatTrak™ Classic Knife | Blue Steel (Battle-Scarred)",
+    "price": 191.85,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Classic Knife | Blue Steel",
+    "id": "skin-32964776"
+  },
+  {
+    "name": "★ Classic Knife | Blue Steel (Factory New)",
+    "price": 241.69,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Classic Knife | Blue Steel",
+    "id": "skin-32964776"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "name": "P90 | Death by Kitty (Minimal Wear)",
+    "price": 43.54,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P90 | Death by Kitty",
+    "id": "skin-1245808"
+  },
+  {
+    "name": "StatTrak™ P90 | Death by Kitty (Field-Tested)",
+    "price": 95.31,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "P90 | Death by Kitty",
+    "id": "skin-1245808"
+  },
+  {
+    "name": "StatTrak™ P90 | Death by Kitty (Minimal Wear)",
+    "price": 202.65,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "P90 | Death by Kitty",
+    "id": "skin-1245808"
+  },
+  {
+    "name": "P90 | Death by Kitty (Field-Tested)",
+    "price": 29.48,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P90 | Death by Kitty",
+    "id": "skin-1245808"
+  }
+]

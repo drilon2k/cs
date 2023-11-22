@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Five-SeveN | Withered Vine (Factory New)",
+    "price": 2.81,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Five-SeveN | Withered Vine",
+    "id": "skin-200336"
+  },
+  {
+    "name": "Five-SeveN | Withered Vine (Field-Tested)",
+    "price": 2.64,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Five-SeveN | Withered Vine",
+    "id": "skin-200336"
+  },
+  {
+    "name": "Five-SeveN | Withered Vine (Minimal Wear)",
+    "price": 2.74,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Five-SeveN | Withered Vine",
+    "id": "skin-200336"
+  },
+  {
+    "name": "Five-SeveN | Withered Vine (Battle-Scarred)",
+    "price": 2.69,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Five-SeveN | Withered Vine",
+    "id": "skin-200336"
+  },
+  {
+    "name": "Five-SeveN | Withered Vine (Well-Worn)",
+    "price": 2.73,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Five-SeveN | Withered Vine",
+    "id": "skin-200336"
+  }
+]

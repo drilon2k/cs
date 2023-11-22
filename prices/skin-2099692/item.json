@@ -1,0 +1,92 @@
+[
+  {
+    "name": "P2000 | Turf (Factory New)",
+    "price": 0.88,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P2000 | Turf",
+    "id": "skin-2099692"
+  },
+  {
+    "name": "P2000 | Turf (Battle-Scarred)",
+    "price": 0.07,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P2000 | Turf",
+    "id": "skin-2099692"
+  },
+  {
+    "name": "StatTrak™ P2000 | Turf (Field-Tested)",
+    "price": 0.27,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "P2000 | Turf",
+    "id": "skin-2099692"
+  },
+  {
+    "name": "StatTrak™ P2000 | Turf (Well-Worn)",
+    "price": 0.17,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "P2000 | Turf",
+    "id": "skin-2099692"
+  },
+  {
+    "name": "StatTrak™ P2000 | Turf (Battle-Scarred)",
+    "price": 0.18,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "P2000 | Turf",
+    "id": "skin-2099692"
+  },
+  {
+    "name": "P2000 | Turf (Well-Worn)",
+    "price": 0.09,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P2000 | Turf",
+    "id": "skin-2099692"
+  },
+  {
+    "name": "P2000 | Turf (Minimal Wear)",
+    "price": 0.16,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P2000 | Turf",
+    "id": "skin-2099692"
+  },
+  {
+    "name": "StatTrak™ P2000 | Turf (Minimal Wear)",
+    "price": 0.68,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "P2000 | Turf",
+    "id": "skin-2099692"
+  },
+  {
+    "name": "StatTrak™ P2000 | Turf (Factory New)",
+    "price": 3.55,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "P2000 | Turf",
+    "id": "skin-2099692"
+  },
+  {
+    "name": "P2000 | Turf (Field-Tested)",
+    "price": 0.08,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P2000 | Turf",
+    "id": "skin-2099692"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "name": "StatTrak™ Glock-18 | Grinder (Factory New)",
+    "price": 5.87,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Glock-18 | Grinder",
+    "id": "skin-263668"
+  },
+  {
+    "name": "Glock-18 | Grinder (Field-Tested)",
+    "price": 1.28,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Glock-18 | Grinder",
+    "id": "skin-263668"
+  },
+  {
+    "name": "Glock-18 | Grinder (Minimal Wear)",
+    "price": 1.15,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Glock-18 | Grinder",
+    "id": "skin-263668"
+  },
+  {
+    "name": "StatTrak™ Glock-18 | Grinder (Field-Tested)",
+    "price": 4.93,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Glock-18 | Grinder",
+    "id": "skin-263668"
+  },
+  {
+    "name": "Glock-18 | Grinder (Factory New)",
+    "price": 1.55,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Glock-18 | Grinder",
+    "id": "skin-263668"
+  },
+  {
+    "name": "StatTrak™ Glock-18 | Grinder (Minimal Wear)",
+    "price": 4.66,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Glock-18 | Grinder",
+    "id": "skin-263668"
+  }
+]

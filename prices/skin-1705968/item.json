@@ -1,0 +1,92 @@
+[
+  {
+    "name": "StatTrak™ PP-Bizon | Fuel Rod (Battle-Scarred)",
+    "price": 0.88,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "PP-Bizon | Fuel Rod",
+    "id": "skin-1705968"
+  },
+  {
+    "name": "PP-Bizon | Fuel Rod (Battle-Scarred)",
+    "price": 0.36,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "PP-Bizon | Fuel Rod",
+    "id": "skin-1705968"
+  },
+  {
+    "name": "PP-Bizon | Fuel Rod (Field-Tested)",
+    "price": 0.52,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "PP-Bizon | Fuel Rod",
+    "id": "skin-1705968"
+  },
+  {
+    "name": "StatTrak™ PP-Bizon | Fuel Rod (Field-Tested)",
+    "price": 1.24,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "PP-Bizon | Fuel Rod",
+    "id": "skin-1705968"
+  },
+  {
+    "name": "PP-Bizon | Fuel Rod (Well-Worn)",
+    "price": 0.39,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "PP-Bizon | Fuel Rod",
+    "id": "skin-1705968"
+  },
+  {
+    "name": "StatTrak™ PP-Bizon | Fuel Rod (Well-Worn)",
+    "price": 0.89,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "PP-Bizon | Fuel Rod",
+    "id": "skin-1705968"
+  },
+  {
+    "name": "PP-Bizon | Fuel Rod (Factory New)",
+    "price": 1.95,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "PP-Bizon | Fuel Rod",
+    "id": "skin-1705968"
+  },
+  {
+    "name": "PP-Bizon | Fuel Rod (Minimal Wear)",
+    "price": 0.81,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "PP-Bizon | Fuel Rod",
+    "id": "skin-1705968"
+  },
+  {
+    "name": "StatTrak™ PP-Bizon | Fuel Rod (Factory New)",
+    "price": 7.97,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "PP-Bizon | Fuel Rod",
+    "id": "skin-1705968"
+  },
+  {
+    "name": "StatTrak™ PP-Bizon | Fuel Rod (Minimal Wear)",
+    "price": 3,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "PP-Bizon | Fuel Rod",
+    "id": "skin-1705968"
+  }
+]

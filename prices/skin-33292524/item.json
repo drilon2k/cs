@@ -1,0 +1,56 @@
+[
+  {
+    "name": "★ StatTrak™ M9 Bayonet | Slaughter (Field-Tested)",
+    "price": 685.52,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ M9 Bayonet | Slaughter",
+    "id": "skin-33292524"
+  },
+  {
+    "name": "★ M9 Bayonet | Slaughter (Factory New)",
+    "price": 891.35,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ M9 Bayonet | Slaughter",
+    "id": "skin-33292524"
+  },
+  {
+    "name": "★ StatTrak™ M9 Bayonet | Slaughter (Factory New)",
+    "price": 987.34,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ M9 Bayonet | Slaughter",
+    "id": "skin-33292524"
+  },
+  {
+    "name": "★ M9 Bayonet | Slaughter (Field-Tested)",
+    "price": 658.91,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ M9 Bayonet | Slaughter",
+    "id": "skin-33292524"
+  },
+  {
+    "name": "★ StatTrak™ M9 Bayonet | Slaughter (Minimal Wear)",
+    "price": 738.79,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ M9 Bayonet | Slaughter",
+    "id": "skin-33292524"
+  },
+  {
+    "name": "★ M9 Bayonet | Slaughter (Minimal Wear)",
+    "price": 747.3,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ M9 Bayonet | Slaughter",
+    "id": "skin-33292524"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "name": "StatTrak™ Dual Berettas | Retribution (Factory New)",
+    "price": 5.93,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Dual Berettas | Retribution",
+    "id": "skin-132300"
+  },
+  {
+    "name": "Dual Berettas | Retribution (Field-Tested)",
+    "price": 2.32,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Dual Berettas | Retribution",
+    "id": "skin-132300"
+  },
+  {
+    "name": "StatTrak™ Dual Berettas | Retribution (Minimal Wear)",
+    "price": 1.93,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Dual Berettas | Retribution",
+    "id": "skin-132300"
+  },
+  {
+    "name": "StatTrak™ Dual Berettas | Retribution (Well-Worn)",
+    "price": 3.25,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Dual Berettas | Retribution",
+    "id": "skin-132300"
+  },
+  {
+    "name": "Dual Berettas | Retribution (Well-Worn)",
+    "price": 68.57,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Dual Berettas | Retribution",
+    "id": "skin-132300"
+  },
+  {
+    "name": "Dual Berettas | Retribution (Minimal Wear)",
+    "price": 34.27,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Dual Berettas | Retribution",
+    "id": "skin-132300"
+  },
+  {
+    "name": "StatTrak™ Dual Berettas | Retribution (Field-Tested)",
+    "price": 1.85,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Dual Berettas | Retribution",
+    "id": "skin-132300"
+  },
+  {
+    "name": "Dual Berettas | Retribution (Factory New)",
+    "price": 4.07,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Dual Berettas | Retribution",
+    "id": "skin-132300"
+  }
+]

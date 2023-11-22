@@ -1,0 +1,92 @@
+[
+  {
+    "name": "★ Shadow Daggers | Crimson Web (Well-Worn)",
+    "price": 125.89,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Shadow Daggers | Crimson Web",
+    "id": "skin-33816624"
+  },
+  {
+    "name": "★ StatTrak™ Shadow Daggers | Crimson Web (Well-Worn)",
+    "price": 259.74,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Shadow Daggers | Crimson Web",
+    "id": "skin-33816624"
+  },
+  {
+    "name": "★ Shadow Daggers | Crimson Web (Battle-Scarred)",
+    "price": 95.31,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Shadow Daggers | Crimson Web",
+    "id": "skin-33816624"
+  },
+  {
+    "name": "★ StatTrak™ Shadow Daggers | Crimson Web (Field-Tested)",
+    "price": 155.16,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Shadow Daggers | Crimson Web",
+    "id": "skin-33816624"
+  },
+  {
+    "name": "★ Shadow Daggers | Crimson Web (Factory New)",
+    "price": 685.65,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Shadow Daggers | Crimson Web",
+    "id": "skin-33816624"
+  },
+  {
+    "name": "★ Shadow Daggers | Crimson Web (Field-Tested)",
+    "price": 106.67,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Shadow Daggers | Crimson Web",
+    "id": "skin-33816624"
+  },
+  {
+    "name": "★ Shadow Daggers | Crimson Web (Minimal Wear)",
+    "price": 163.6,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Shadow Daggers | Crimson Web",
+    "id": "skin-33816624"
+  },
+  {
+    "name": "★ StatTrak™ Shadow Daggers | Crimson Web (Factory New)",
+    "price": 0,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Shadow Daggers | Crimson Web",
+    "id": "skin-33816624"
+  },
+  {
+    "name": "★ StatTrak™ Shadow Daggers | Crimson Web (Minimal Wear)",
+    "price": 216.43,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Shadow Daggers | Crimson Web",
+    "id": "skin-33816624"
+  },
+  {
+    "name": "★ StatTrak™ Shadow Daggers | Crimson Web (Battle-Scarred)",
+    "price": 178.27,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Shadow Daggers | Crimson Web",
+    "id": "skin-33816624"
+  }
+]

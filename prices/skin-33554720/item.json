@@ -1,0 +1,92 @@
+[
+  {
+    "name": "★ Falchion Knife | Safari Mesh (Factory New)",
+    "price": 128.22,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Falchion Knife | Safari Mesh",
+    "id": "skin-33554720"
+  },
+  {
+    "name": "★ Falchion Knife | Safari Mesh (Field-Tested)",
+    "price": 81.39,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Falchion Knife | Safari Mesh",
+    "id": "skin-33554720"
+  },
+  {
+    "name": "★ StatTrak™ Falchion Knife | Safari Mesh (Field-Tested)",
+    "price": 86.39,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Falchion Knife | Safari Mesh",
+    "id": "skin-33554720"
+  },
+  {
+    "name": "★ Falchion Knife | Safari Mesh (Well-Worn)",
+    "price": 82.21,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Falchion Knife | Safari Mesh",
+    "id": "skin-33554720"
+  },
+  {
+    "name": "★ StatTrak™ Falchion Knife | Safari Mesh (Battle-Scarred)",
+    "price": 102.64,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Falchion Knife | Safari Mesh",
+    "id": "skin-33554720"
+  },
+  {
+    "name": "★ Falchion Knife | Safari Mesh (Minimal Wear)",
+    "price": 87.75,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Falchion Knife | Safari Mesh",
+    "id": "skin-33554720"
+  },
+  {
+    "name": "★ Falchion Knife | Safari Mesh (Battle-Scarred)",
+    "price": 80.67,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Falchion Knife | Safari Mesh",
+    "id": "skin-33554720"
+  },
+  {
+    "name": "★ StatTrak™ Falchion Knife | Safari Mesh (Minimal Wear)",
+    "price": 101.48,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Falchion Knife | Safari Mesh",
+    "id": "skin-33554720"
+  },
+  {
+    "name": "★ StatTrak™ Falchion Knife | Safari Mesh (Well-Worn)",
+    "price": 615.22,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Falchion Knife | Safari Mesh",
+    "id": "skin-33554720"
+  },
+  {
+    "name": "★ StatTrak™ Falchion Knife | Safari Mesh (Factory New)",
+    "price": 0,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Falchion Knife | Safari Mesh",
+    "id": "skin-33554720"
+  }
+]

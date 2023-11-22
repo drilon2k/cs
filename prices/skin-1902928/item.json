@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Sawed-Off | Limelight (Minimal Wear)",
+    "price": 0.67,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Sawed-Off | Limelight",
+    "id": "skin-1902928"
+  },
+  {
+    "name": "StatTrak™ Sawed-Off | Limelight (Minimal Wear)",
+    "price": 1.88,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Sawed-Off | Limelight",
+    "id": "skin-1902928"
+  },
+  {
+    "name": "Sawed-Off | Limelight (Battle-Scarred)",
+    "price": 0.27,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Sawed-Off | Limelight",
+    "id": "skin-1902928"
+  },
+  {
+    "name": "StatTrak™ Sawed-Off | Limelight (Battle-Scarred)",
+    "price": 0.72,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Sawed-Off | Limelight",
+    "id": "skin-1902928"
+  },
+  {
+    "name": "StatTrak™ Sawed-Off | Limelight (Well-Worn)",
+    "price": 0.77,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Sawed-Off | Limelight",
+    "id": "skin-1902928"
+  },
+  {
+    "name": "Sawed-Off | Limelight (Well-Worn)",
+    "price": 0.27,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Sawed-Off | Limelight",
+    "id": "skin-1902928"
+  },
+  {
+    "name": "StatTrak™ Sawed-Off | Limelight (Factory New)",
+    "price": 4.87,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Sawed-Off | Limelight",
+    "id": "skin-1902928"
+  },
+  {
+    "name": "StatTrak™ Sawed-Off | Limelight (Field-Tested)",
+    "price": 0.85,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Sawed-Off | Limelight",
+    "id": "skin-1902928"
+  },
+  {
+    "name": "Sawed-Off | Limelight (Factory New)",
+    "price": 1.57,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Sawed-Off | Limelight",
+    "id": "skin-1902928"
+  },
+  {
+    "name": "Sawed-Off | Limelight (Field-Tested)",
+    "price": 0.37,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Sawed-Off | Limelight",
+    "id": "skin-1902928"
+  }
+]

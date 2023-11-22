@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Sawed-Off | Devourer (Factory New)",
+    "price": 9.04,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Sawed-Off | Devourer",
+    "id": "skin-1903424"
+  },
+  {
+    "name": "Sawed-Off | Devourer (Battle-Scarred)",
+    "price": 2.07,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Sawed-Off | Devourer",
+    "id": "skin-1903424"
+  },
+  {
+    "name": "StatTrak™ Sawed-Off | Devourer (Battle-Scarred)",
+    "price": 4.65,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Sawed-Off | Devourer",
+    "id": "skin-1903424"
+  },
+  {
+    "name": "StatTrak™ Sawed-Off | Devourer (Factory New)",
+    "price": 24.68,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Sawed-Off | Devourer",
+    "id": "skin-1903424"
+  },
+  {
+    "name": "StatTrak™ Sawed-Off | Devourer (Field-Tested)",
+    "price": 5.68,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Sawed-Off | Devourer",
+    "id": "skin-1903424"
+  },
+  {
+    "name": "Sawed-Off | Devourer (Minimal Wear)",
+    "price": 4.76,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Sawed-Off | Devourer",
+    "id": "skin-1903424"
+  },
+  {
+    "name": "Sawed-Off | Devourer (Field-Tested)",
+    "price": 2.77,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Sawed-Off | Devourer",
+    "id": "skin-1903424"
+  },
+  {
+    "name": "StatTrak™ Sawed-Off | Devourer (Minimal Wear)",
+    "price": 10.83,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Sawed-Off | Devourer",
+    "id": "skin-1903424"
+  },
+  {
+    "name": "Sawed-Off | Devourer (Well-Worn)",
+    "price": 3.09,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Sawed-Off | Devourer",
+    "id": "skin-1903424"
+  },
+  {
+    "name": "StatTrak™ Sawed-Off | Devourer (Well-Worn)",
+    "price": 6.64,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Sawed-Off | Devourer",
+    "id": "skin-1903424"
+  }
+]

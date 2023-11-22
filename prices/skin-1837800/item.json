@@ -1,0 +1,92 @@
+[
+  {
+    "name": "StatTrak™ Negev | Lionfish (Field-Tested)",
+    "price": 0.46,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Negev | Lionfish",
+    "id": "skin-1837800"
+  },
+  {
+    "name": "StatTrak™ Negev | Lionfish (Factory New)",
+    "price": 2.28,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Negev | Lionfish",
+    "id": "skin-1837800"
+  },
+  {
+    "name": "Negev | Lionfish (Battle-Scarred)",
+    "price": 0.21,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Negev | Lionfish",
+    "id": "skin-1837800"
+  },
+  {
+    "name": "StatTrak™ Negev | Lionfish (Well-Worn)",
+    "price": 0.42,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Negev | Lionfish",
+    "id": "skin-1837800"
+  },
+  {
+    "name": "Negev | Lionfish (Field-Tested)",
+    "price": 0.21,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Negev | Lionfish",
+    "id": "skin-1837800"
+  },
+  {
+    "name": "Negev | Lionfish (Well-Worn)",
+    "price": 0.2,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Negev | Lionfish",
+    "id": "skin-1837800"
+  },
+  {
+    "name": "StatTrak™ Negev | Lionfish (Battle-Scarred)",
+    "price": 0.38,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Negev | Lionfish",
+    "id": "skin-1837800"
+  },
+  {
+    "name": "Negev | Lionfish (Minimal Wear)",
+    "price": 0.38,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Negev | Lionfish",
+    "id": "skin-1837800"
+  },
+  {
+    "name": "Negev | Lionfish (Factory New)",
+    "price": 0.8,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Negev | Lionfish",
+    "id": "skin-1837800"
+  },
+  {
+    "name": "StatTrak™ Negev | Lionfish (Minimal Wear)",
+    "price": 0.91,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Negev | Lionfish",
+    "id": "skin-1837800"
+  }
+]

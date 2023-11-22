@@ -1,0 +1,56 @@
+[
+  {
+    "name": "StatTrak™ Nova | Antique (Factory New)",
+    "price": 19.13,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Nova | Antique",
+    "id": "skin-2294904"
+  },
+  {
+    "name": "Nova | Antique (Factory New)",
+    "price": 9.02,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Nova | Antique",
+    "id": "skin-2294904"
+  },
+  {
+    "name": "Nova | Antique (Minimal Wear)",
+    "price": 8.06,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Nova | Antique",
+    "id": "skin-2294904"
+  },
+  {
+    "name": "StatTrak™ Nova | Antique (Field-Tested)",
+    "price": 15.9,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Nova | Antique",
+    "id": "skin-2294904"
+  },
+  {
+    "name": "Nova | Antique (Field-Tested)",
+    "price": 7.57,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Nova | Antique",
+    "id": "skin-2294904"
+  },
+  {
+    "name": "StatTrak™ Nova | Antique (Minimal Wear)",
+    "price": 15.77,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Nova | Antique",
+    "id": "skin-2294904"
+  }
+]

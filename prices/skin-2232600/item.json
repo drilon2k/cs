@@ -1,0 +1,92 @@
+[
+  {
+    "name": "StatTrak™ MP9 | Mount Fuji (Minimal Wear)",
+    "price": 6.83,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MP9 | Mount Fuji",
+    "id": "skin-2232600"
+  },
+  {
+    "name": "StatTrak™ MP9 | Mount Fuji (Battle-Scarred)",
+    "price": 2.21,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MP9 | Mount Fuji",
+    "id": "skin-2232600"
+  },
+  {
+    "name": "MP9 | Mount Fuji (Well-Worn)",
+    "price": 1.76,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MP9 | Mount Fuji",
+    "id": "skin-2232600"
+  },
+  {
+    "name": "MP9 | Mount Fuji (Battle-Scarred)",
+    "price": 1.76,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MP9 | Mount Fuji",
+    "id": "skin-2232600"
+  },
+  {
+    "name": "MP9 | Mount Fuji (Minimal Wear)",
+    "price": 3.55,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MP9 | Mount Fuji",
+    "id": "skin-2232600"
+  },
+  {
+    "name": "StatTrak™ MP9 | Mount Fuji (Well-Worn)",
+    "price": 3.11,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MP9 | Mount Fuji",
+    "id": "skin-2232600"
+  },
+  {
+    "name": "MP9 | Mount Fuji (Factory New)",
+    "price": 5.43,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MP9 | Mount Fuji",
+    "id": "skin-2232600"
+  },
+  {
+    "name": "StatTrak™ MP9 | Mount Fuji (Factory New)",
+    "price": 13.99,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MP9 | Mount Fuji",
+    "id": "skin-2232600"
+  },
+  {
+    "name": "MP9 | Mount Fuji (Field-Tested)",
+    "price": 1.76,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MP9 | Mount Fuji",
+    "id": "skin-2232600"
+  },
+  {
+    "name": "StatTrak™ MP9 | Mount Fuji (Field-Tested)",
+    "price": 2.74,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MP9 | Mount Fuji",
+    "id": "skin-2232600"
+  }
+]

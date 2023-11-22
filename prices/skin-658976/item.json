@@ -1,0 +1,92 @@
+[
+  {
+    "name": "StatTrak™ FAMAS | Decommissioned (Battle-Scarred)",
+    "price": 0.13,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "FAMAS | Decommissioned",
+    "id": "skin-658976"
+  },
+  {
+    "name": "StatTrak™ FAMAS | Decommissioned (Field-Tested)",
+    "price": 0.16,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "FAMAS | Decommissioned",
+    "id": "skin-658976"
+  },
+  {
+    "name": "StatTrak™ FAMAS | Decommissioned (Minimal Wear)",
+    "price": 0.42,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "FAMAS | Decommissioned",
+    "id": "skin-658976"
+  },
+  {
+    "name": "FAMAS | Decommissioned (Factory New)",
+    "price": 0.37,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "FAMAS | Decommissioned",
+    "id": "skin-658976"
+  },
+  {
+    "name": "FAMAS | Decommissioned (Battle-Scarred)",
+    "price": 0.11,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "FAMAS | Decommissioned",
+    "id": "skin-658976"
+  },
+  {
+    "name": "StatTrak™ FAMAS | Decommissioned (Well-Worn)",
+    "price": 0.13,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "FAMAS | Decommissioned",
+    "id": "skin-658976"
+  },
+  {
+    "name": "FAMAS | Decommissioned (Well-Worn)",
+    "price": 0.09,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "FAMAS | Decommissioned",
+    "id": "skin-658976"
+  },
+  {
+    "name": "FAMAS | Decommissioned (Minimal Wear)",
+    "price": 0.1,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "FAMAS | Decommissioned",
+    "id": "skin-658976"
+  },
+  {
+    "name": "StatTrak™ FAMAS | Decommissioned (Factory New)",
+    "price": 2.01,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "FAMAS | Decommissioned",
+    "id": "skin-658976"
+  },
+  {
+    "name": "FAMAS | Decommissioned (Field-Tested)",
+    "price": 0.12,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "FAMAS | Decommissioned",
+    "id": "skin-658976"
+  }
+]

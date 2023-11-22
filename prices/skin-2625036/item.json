@@ -1,0 +1,74 @@
+[
+  {
+    "name": "StatTrak™ SSG 08 | Bloodshot (Field-Tested)",
+    "price": 13.51,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "SSG 08 | Bloodshot",
+    "id": "skin-2625036"
+  },
+  {
+    "name": "SSG 08 | Bloodshot (Field-Tested)",
+    "price": 6.02,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "SSG 08 | Bloodshot",
+    "id": "skin-2625036"
+  },
+  {
+    "name": "SSG 08 | Bloodshot (Minimal Wear)",
+    "price": 36.75,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "SSG 08 | Bloodshot",
+    "id": "skin-2625036"
+  },
+  {
+    "name": "SSG 08 | Bloodshot (Well-Worn)",
+    "price": 6.68,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "SSG 08 | Bloodshot",
+    "id": "skin-2625036"
+  },
+  {
+    "name": "StatTrak™ SSG 08 | Bloodshot (Minimal Wear)",
+    "price": 156.72,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "SSG 08 | Bloodshot",
+    "id": "skin-2625036"
+  },
+  {
+    "name": "StatTrak™ SSG 08 | Bloodshot (Battle-Scarred)",
+    "price": 14.66,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "SSG 08 | Bloodshot",
+    "id": "skin-2625036"
+  },
+  {
+    "name": "SSG 08 | Bloodshot (Battle-Scarred)",
+    "price": 5.57,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "SSG 08 | Bloodshot",
+    "id": "skin-2625036"
+  },
+  {
+    "name": "StatTrak™ SSG 08 | Bloodshot (Well-Worn)",
+    "price": 13.16,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "SSG 08 | Bloodshot",
+    "id": "skin-2625036"
+  }
+]

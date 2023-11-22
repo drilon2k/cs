@@ -1,0 +1,92 @@
+[
+  {
+    "name": "MAG-7 | SWAG-7 (Minimal Wear)",
+    "price": 0.4,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MAG-7 | SWAG-7",
+    "id": "skin-1772284"
+  },
+  {
+    "name": "StatTrak™ MAG-7 | SWAG-7 (Minimal Wear)",
+    "price": 0.94,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MAG-7 | SWAG-7",
+    "id": "skin-1772284"
+  },
+  {
+    "name": "StatTrak™ MAG-7 | SWAG-7 (Well-Worn)",
+    "price": 0.3,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MAG-7 | SWAG-7",
+    "id": "skin-1772284"
+  },
+  {
+    "name": "MAG-7 | SWAG-7 (Well-Worn)",
+    "price": 0.16,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MAG-7 | SWAG-7",
+    "id": "skin-1772284"
+  },
+  {
+    "name": "MAG-7 | SWAG-7 (Field-Tested)",
+    "price": 0.21,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MAG-7 | SWAG-7",
+    "id": "skin-1772284"
+  },
+  {
+    "name": "StatTrak™ MAG-7 | SWAG-7 (Field-Tested)",
+    "price": 0.35,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MAG-7 | SWAG-7",
+    "id": "skin-1772284"
+  },
+  {
+    "name": "StatTrak™ MAG-7 | SWAG-7 (Battle-Scarred)",
+    "price": 0.33,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MAG-7 | SWAG-7",
+    "id": "skin-1772284"
+  },
+  {
+    "name": "MAG-7 | SWAG-7 (Battle-Scarred)",
+    "price": 0.17,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MAG-7 | SWAG-7",
+    "id": "skin-1772284"
+  },
+  {
+    "name": "MAG-7 | SWAG-7 (Factory New)",
+    "price": 1.1,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MAG-7 | SWAG-7",
+    "id": "skin-1772284"
+  },
+  {
+    "name": "StatTrak™ MAG-7 | SWAG-7 (Factory New)",
+    "price": 4.36,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MAG-7 | SWAG-7",
+    "id": "skin-1772284"
+  }
+]

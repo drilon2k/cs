@@ -1,0 +1,47 @@
+[
+  {
+    "name": "MAG-7 | Sand Dune (Field-Tested)",
+    "price": 0.64,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MAG-7 | Sand Dune",
+    "id": "skin-1769868"
+  },
+  {
+    "name": "MAG-7 | Sand Dune (Battle-Scarred)",
+    "price": 1.13,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MAG-7 | Sand Dune",
+    "id": "skin-1769868"
+  },
+  {
+    "name": "MAG-7 | Sand Dune (Well-Worn)",
+    "price": 1.37,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MAG-7 | Sand Dune",
+    "id": "skin-1769868"
+  },
+  {
+    "name": "MAG-7 | Sand Dune (Minimal Wear)",
+    "price": 2.11,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MAG-7 | Sand Dune",
+    "id": "skin-1769868"
+  },
+  {
+    "name": "MAG-7 | Sand Dune (Factory New)",
+    "price": 13.18,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MAG-7 | Sand Dune",
+    "id": "skin-1769868"
+  }
+]

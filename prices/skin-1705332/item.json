@@ -1,0 +1,92 @@
+[
+  {
+    "name": "PP-Bizon | Osiris (Field-Tested)",
+    "price": 0.45,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "PP-Bizon | Osiris",
+    "id": "skin-1705332"
+  },
+  {
+    "name": "PP-Bizon | Osiris (Factory New)",
+    "price": 1.03,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "PP-Bizon | Osiris",
+    "id": "skin-1705332"
+  },
+  {
+    "name": "StatTrak™ PP-Bizon | Osiris (Field-Tested)",
+    "price": 1.29,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "PP-Bizon | Osiris",
+    "id": "skin-1705332"
+  },
+  {
+    "name": "StatTrak™ PP-Bizon | Osiris (Well-Worn)",
+    "price": 1.27,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "PP-Bizon | Osiris",
+    "id": "skin-1705332"
+  },
+  {
+    "name": "StatTrak™ PP-Bizon | Osiris (Factory New)",
+    "price": 3.07,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "PP-Bizon | Osiris",
+    "id": "skin-1705332"
+  },
+  {
+    "name": "PP-Bizon | Osiris (Well-Worn)",
+    "price": 0.54,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "PP-Bizon | Osiris",
+    "id": "skin-1705332"
+  },
+  {
+    "name": "StatTrak™ PP-Bizon | Osiris (Minimal Wear)",
+    "price": 2.11,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "PP-Bizon | Osiris",
+    "id": "skin-1705332"
+  },
+  {
+    "name": "PP-Bizon | Osiris (Battle-Scarred)",
+    "price": 0.48,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "PP-Bizon | Osiris",
+    "id": "skin-1705332"
+  },
+  {
+    "name": "StatTrak™ PP-Bizon | Osiris (Battle-Scarred)",
+    "price": 1.24,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "PP-Bizon | Osiris",
+    "id": "skin-1705332"
+  },
+  {
+    "name": "PP-Bizon | Osiris (Minimal Wear)",
+    "price": 0.57,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "PP-Bizon | Osiris",
+    "id": "skin-1705332"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "name": "StatTrak™ FAMAS | Roll Cage (Well-Worn)",
+    "price": 5.57,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "FAMAS | Roll Cage",
+    "id": "skin-657776"
+  },
+  {
+    "name": "FAMAS | Roll Cage (Battle-Scarred)",
+    "price": 1.71,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "FAMAS | Roll Cage",
+    "id": "skin-657776"
+  },
+  {
+    "name": "FAMAS | Roll Cage (Field-Tested)",
+    "price": 2.19,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "FAMAS | Roll Cage",
+    "id": "skin-657776"
+  },
+  {
+    "name": "FAMAS | Roll Cage (Minimal Wear)",
+    "price": 3.52,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "FAMAS | Roll Cage",
+    "id": "skin-657776"
+  },
+  {
+    "name": "StatTrak™ FAMAS | Roll Cage (Battle-Scarred)",
+    "price": 5.55,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "FAMAS | Roll Cage",
+    "id": "skin-657776"
+  },
+  {
+    "name": "FAMAS | Roll Cage (Well-Worn)",
+    "price": 1.76,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "FAMAS | Roll Cage",
+    "id": "skin-657776"
+  },
+  {
+    "name": "StatTrak™ FAMAS | Roll Cage (Factory New)",
+    "price": 51.49,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "FAMAS | Roll Cage",
+    "id": "skin-657776"
+  },
+  {
+    "name": "FAMAS | Roll Cage (Factory New)",
+    "price": 12.16,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "FAMAS | Roll Cage",
+    "id": "skin-657776"
+  },
+  {
+    "name": "StatTrak™ FAMAS | Roll Cage (Minimal Wear)",
+    "price": 12.6,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "FAMAS | Roll Cage",
+    "id": "skin-657776"
+  },
+  {
+    "name": "StatTrak™ FAMAS | Roll Cage (Field-Tested)",
+    "price": 5.72,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "FAMAS | Roll Cage",
+    "id": "skin-657776"
+  }
+]

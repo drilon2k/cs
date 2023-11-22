@@ -1,0 +1,74 @@
+[
+  {
+    "name": "StatTrak™ Galil AR | Sandstorm (Minimal Wear)",
+    "price": 3.41,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Galil AR | Sandstorm",
+    "id": "skin-853024"
+  },
+  {
+    "name": "Galil AR | Sandstorm (Minimal Wear)",
+    "price": 2.21,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Galil AR | Sandstorm",
+    "id": "skin-853024"
+  },
+  {
+    "name": "StatTrak™ Galil AR | Sandstorm (Battle-Scarred)",
+    "price": 1.12,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Galil AR | Sandstorm",
+    "id": "skin-853024"
+  },
+  {
+    "name": "Galil AR | Sandstorm (Field-Tested)",
+    "price": 0.7,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Galil AR | Sandstorm",
+    "id": "skin-853024"
+  },
+  {
+    "name": "Galil AR | Sandstorm (Well-Worn)",
+    "price": 1,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Galil AR | Sandstorm",
+    "id": "skin-853024"
+  },
+  {
+    "name": "Galil AR | Sandstorm (Battle-Scarred)",
+    "price": 0.81,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Galil AR | Sandstorm",
+    "id": "skin-853024"
+  },
+  {
+    "name": "StatTrak™ Galil AR | Sandstorm (Field-Tested)",
+    "price": 1.19,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Galil AR | Sandstorm",
+    "id": "skin-853024"
+  },
+  {
+    "name": "StatTrak™ Galil AR | Sandstorm (Well-Worn)",
+    "price": 1.87,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Galil AR | Sandstorm",
+    "id": "skin-853024"
+  }
+]

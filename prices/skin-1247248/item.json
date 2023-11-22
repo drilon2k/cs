@@ -1,0 +1,92 @@
+[
+  {
+    "name": "StatTrak™ P90 | Shapewood (Field-Tested)",
+    "price": 3.4,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "P90 | Shapewood",
+    "id": "skin-1247248"
+  },
+  {
+    "name": "StatTrak™ P90 | Shapewood (Factory New)",
+    "price": 25.37,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "P90 | Shapewood",
+    "id": "skin-1247248"
+  },
+  {
+    "name": "P90 | Shapewood (Field-Tested)",
+    "price": 1.45,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P90 | Shapewood",
+    "id": "skin-1247248"
+  },
+  {
+    "name": "StatTrak™ P90 | Shapewood (Minimal Wear)",
+    "price": 9.28,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "P90 | Shapewood",
+    "id": "skin-1247248"
+  },
+  {
+    "name": "StatTrak™ P90 | Shapewood (Well-Worn)",
+    "price": 2.83,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "P90 | Shapewood",
+    "id": "skin-1247248"
+  },
+  {
+    "name": "P90 | Shapewood (Minimal Wear)",
+    "price": 3.01,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P90 | Shapewood",
+    "id": "skin-1247248"
+  },
+  {
+    "name": "StatTrak™ P90 | Shapewood (Battle-Scarred)",
+    "price": 2.86,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "P90 | Shapewood",
+    "id": "skin-1247248"
+  },
+  {
+    "name": "P90 | Shapewood (Factory New)",
+    "price": 8.76,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P90 | Shapewood",
+    "id": "skin-1247248"
+  },
+  {
+    "name": "P90 | Shapewood (Well-Worn)",
+    "price": 1.03,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P90 | Shapewood",
+    "id": "skin-1247248"
+  },
+  {
+    "name": "P90 | Shapewood (Battle-Scarred)",
+    "price": 0.93,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P90 | Shapewood",
+    "id": "skin-1247248"
+  }
+]

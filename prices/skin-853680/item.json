@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Galil AR | Eco (Minimal Wear)",
+    "price": 22.08,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Galil AR | Eco",
+    "id": "skin-853680"
+  },
+  {
+    "name": "Galil AR | Eco (Battle-Scarred)",
+    "price": 1.69,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Galil AR | Eco",
+    "id": "skin-853680"
+  },
+  {
+    "name": "StatTrak™ Galil AR | Eco (Field-Tested)",
+    "price": 6.11,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Galil AR | Eco",
+    "id": "skin-853680"
+  },
+  {
+    "name": "StatTrak™ Galil AR | Eco (Minimal Wear)",
+    "price": 55.4,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Galil AR | Eco",
+    "id": "skin-853680"
+  },
+  {
+    "name": "Galil AR | Eco (Well-Worn)",
+    "price": 1.84,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Galil AR | Eco",
+    "id": "skin-853680"
+  },
+  {
+    "name": "StatTrak™ Galil AR | Eco (Well-Worn)",
+    "price": 4.29,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Galil AR | Eco",
+    "id": "skin-853680"
+  },
+  {
+    "name": "Galil AR | Eco (Field-Tested)",
+    "price": 2.78,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Galil AR | Eco",
+    "id": "skin-853680"
+  },
+  {
+    "name": "StatTrak™ Galil AR | Eco (Battle-Scarred)",
+    "price": 4.24,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Galil AR | Eco",
+    "id": "skin-853680"
+  }
+]

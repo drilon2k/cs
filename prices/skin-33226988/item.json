@@ -1,0 +1,56 @@
+[
+  {
+    "name": "★ Karambit | Slaughter (Field-Tested)",
+    "price": 726.79,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Karambit | Slaughter",
+    "id": "skin-33226988"
+  },
+  {
+    "name": "★ Karambit | Slaughter (Factory New)",
+    "price": 1049.05,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Karambit | Slaughter",
+    "id": "skin-33226988"
+  },
+  {
+    "name": "★ StatTrak™ Karambit | Slaughter (Field-Tested)",
+    "price": 754.15,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Karambit | Slaughter",
+    "id": "skin-33226988"
+  },
+  {
+    "name": "★ StatTrak™ Karambit | Slaughter (Factory New)",
+    "price": 1124.47,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Karambit | Slaughter",
+    "id": "skin-33226988"
+  },
+  {
+    "name": "★ Karambit | Slaughter (Minimal Wear)",
+    "price": 813.19,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Karambit | Slaughter",
+    "id": "skin-33226988"
+  },
+  {
+    "name": "★ StatTrak™ Karambit | Slaughter (Minimal Wear)",
+    "price": 822.79,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Karambit | Slaughter",
+    "id": "skin-33226988"
+  }
+]

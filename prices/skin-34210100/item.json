@@ -1,0 +1,92 @@
+[
+  {
+    "name": "★ StatTrak™ Stiletto Knife | Boreal Forest (Well-Worn)",
+    "price": 127.39,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Stiletto Knife | Boreal Forest",
+    "id": "skin-34210100"
+  },
+  {
+    "name": "★ StatTrak™ Stiletto Knife | Boreal Forest (Minimal Wear)",
+    "price": 168.67,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Stiletto Knife | Boreal Forest",
+    "id": "skin-34210100"
+  },
+  {
+    "name": "★ StatTrak™ Stiletto Knife | Boreal Forest (Factory New)",
+    "price": 1371.31,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Stiletto Knife | Boreal Forest",
+    "id": "skin-34210100"
+  },
+  {
+    "name": "★ Stiletto Knife | Boreal Forest (Well-Worn)",
+    "price": 125.06,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Stiletto Knife | Boreal Forest",
+    "id": "skin-34210100"
+  },
+  {
+    "name": "★ StatTrak™ Stiletto Knife | Boreal Forest (Battle-Scarred)",
+    "price": 140.56,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Stiletto Knife | Boreal Forest",
+    "id": "skin-34210100"
+  },
+  {
+    "name": "★ StatTrak™ Stiletto Knife | Boreal Forest (Field-Tested)",
+    "price": 130.27,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Stiletto Knife | Boreal Forest",
+    "id": "skin-34210100"
+  },
+  {
+    "name": "★ Stiletto Knife | Boreal Forest (Minimal Wear)",
+    "price": 138.43,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Stiletto Knife | Boreal Forest",
+    "id": "skin-34210100"
+  },
+  {
+    "name": "★ Stiletto Knife | Boreal Forest (Battle-Scarred)",
+    "price": 123.28,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Stiletto Knife | Boreal Forest",
+    "id": "skin-34210100"
+  },
+  {
+    "name": "★ Stiletto Knife | Boreal Forest (Factory New)",
+    "price": 250.88,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Stiletto Knife | Boreal Forest",
+    "id": "skin-34210100"
+  },
+  {
+    "name": "★ Stiletto Knife | Boreal Forest (Field-Tested)",
+    "price": 123.42,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Stiletto Knife | Boreal Forest",
+    "id": "skin-34210100"
+  }
+]

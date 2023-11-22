@@ -1,0 +1,47 @@
+[
+  {
+    "name": "SCAR-20 | Magna Carta (Minimal Wear)",
+    "price": 13.26,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "SCAR-20 | Magna Carta",
+    "id": "skin-2494480"
+  },
+  {
+    "name": "SCAR-20 | Magna Carta (Well-Worn)",
+    "price": 17.14,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "SCAR-20 | Magna Carta",
+    "id": "skin-2494480"
+  },
+  {
+    "name": "SCAR-20 | Magna Carta (Factory New)",
+    "price": 13.63,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "SCAR-20 | Magna Carta",
+    "id": "skin-2494480"
+  },
+  {
+    "name": "SCAR-20 | Magna Carta (Field-Tested)",
+    "price": 12.89,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "SCAR-20 | Magna Carta",
+    "id": "skin-2494480"
+  },
+  {
+    "name": "SCAR-20 | Magna Carta (Battle-Scarred)",
+    "price": 13.58,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "SCAR-20 | Magna Carta",
+    "id": "skin-2494480"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "name": "M4A4 | Faded Zebra (Field-Tested)",
+    "price": 1.91,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M4A4 | Faded Zebra",
+    "id": "skin-1049280"
+  },
+  {
+    "name": "StatTrak™ M4A4 | Faded Zebra (Well-Worn)",
+    "price": 3.04,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "M4A4 | Faded Zebra",
+    "id": "skin-1049280"
+  },
+  {
+    "name": "M4A4 | Faded Zebra (Well-Worn)",
+    "price": 2.28,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M4A4 | Faded Zebra",
+    "id": "skin-1049280"
+  },
+  {
+    "name": "StatTrak™ M4A4 | Faded Zebra (Minimal Wear)",
+    "price": 6.17,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "M4A4 | Faded Zebra",
+    "id": "skin-1049280"
+  },
+  {
+    "name": "StatTrak™ M4A4 | Faded Zebra (Field-Tested)",
+    "price": 2.51,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "M4A4 | Faded Zebra",
+    "id": "skin-1049280"
+  },
+  {
+    "name": "StatTrak™ M4A4 | Faded Zebra (Factory New)",
+    "price": 56.22,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "M4A4 | Faded Zebra",
+    "id": "skin-1049280"
+  },
+  {
+    "name": "M4A4 | Faded Zebra (Minimal Wear)",
+    "price": 2.74,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M4A4 | Faded Zebra",
+    "id": "skin-1049280"
+  },
+  {
+    "name": "M4A4 | Faded Zebra (Factory New)",
+    "price": 15.41,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M4A4 | Faded Zebra",
+    "id": "skin-1049280"
+  },
+  {
+    "name": "StatTrak™ M4A4 | Faded Zebra (Battle-Scarred)",
+    "price": 3.71,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "M4A4 | Faded Zebra",
+    "id": "skin-1049280"
+  },
+  {
+    "name": "M4A4 | Faded Zebra (Battle-Scarred)",
+    "price": 2.24,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M4A4 | Faded Zebra",
+    "id": "skin-1049280"
+  }
+]

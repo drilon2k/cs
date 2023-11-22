@@ -1,0 +1,92 @@
+[
+  {
+    "name": "MP5-SD | Gauss (Well-Worn)",
+    "price": 0.16,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MP5-SD | Gauss",
+    "id": "skin-1510712"
+  },
+  {
+    "name": "MP5-SD | Gauss (Factory New)",
+    "price": 0.83,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MP5-SD | Gauss",
+    "id": "skin-1510712"
+  },
+  {
+    "name": "StatTrak™ MP5-SD | Gauss (Minimal Wear)",
+    "price": 0.86,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MP5-SD | Gauss",
+    "id": "skin-1510712"
+  },
+  {
+    "name": "MP5-SD | Gauss (Battle-Scarred)",
+    "price": 0.16,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MP5-SD | Gauss",
+    "id": "skin-1510712"
+  },
+  {
+    "name": "MP5-SD | Gauss (Minimal Wear)",
+    "price": 0.38,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MP5-SD | Gauss",
+    "id": "skin-1510712"
+  },
+  {
+    "name": "StatTrak™ MP5-SD | Gauss (Battle-Scarred)",
+    "price": 0.33,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MP5-SD | Gauss",
+    "id": "skin-1510712"
+  },
+  {
+    "name": "StatTrak™ MP5-SD | Gauss (Well-Worn)",
+    "price": 0.32,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MP5-SD | Gauss",
+    "id": "skin-1510712"
+  },
+  {
+    "name": "StatTrak™ MP5-SD | Gauss (Factory New)",
+    "price": 2.81,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MP5-SD | Gauss",
+    "id": "skin-1510712"
+  },
+  {
+    "name": "MP5-SD | Gauss (Field-Tested)",
+    "price": 0.19,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MP5-SD | Gauss",
+    "id": "skin-1510712"
+  },
+  {
+    "name": "StatTrak™ MP5-SD | Gauss (Field-Tested)",
+    "price": 0.33,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MP5-SD | Gauss",
+    "id": "skin-1510712"
+  }
+]

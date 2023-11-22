@@ -1,0 +1,47 @@
+[
+  {
+    "name": "AUG | Sand Storm (Well-Worn)",
+    "price": 43.88,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AUG | Sand Storm",
+    "id": "skin-527580"
+  },
+  {
+    "name": "AUG | Sand Storm (Minimal Wear)",
+    "price": 43.6,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AUG | Sand Storm",
+    "id": "skin-527580"
+  },
+  {
+    "name": "AUG | Sand Storm (Field-Tested)",
+    "price": 46.24,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AUG | Sand Storm",
+    "id": "skin-527580"
+  },
+  {
+    "name": "AUG | Sand Storm (Battle-Scarred)",
+    "price": 61.71,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AUG | Sand Storm",
+    "id": "skin-527580"
+  },
+  {
+    "name": "AUG | Sand Storm (Factory New)",
+    "price": 47.24,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AUG | Sand Storm",
+    "id": "skin-527580"
+  }
+]

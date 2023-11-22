@@ -1,0 +1,47 @@
+[
+  {
+    "name": "SG 553 | Lush Ruins (Field-Tested)",
+    "price": 0.37,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "SG 553 | Lush Ruins",
+    "id": "skin-2559992"
+  },
+  {
+    "name": "SG 553 | Lush Ruins (Well-Worn)",
+    "price": 0.33,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "SG 553 | Lush Ruins",
+    "id": "skin-2559992"
+  },
+  {
+    "name": "SG 553 | Lush Ruins (Battle-Scarred)",
+    "price": 0.33,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "SG 553 | Lush Ruins",
+    "id": "skin-2559992"
+  },
+  {
+    "name": "SG 553 | Lush Ruins (Minimal Wear)",
+    "price": 0.37,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "SG 553 | Lush Ruins",
+    "id": "skin-2559992"
+  },
+  {
+    "name": "SG 553 | Lush Ruins (Factory New)",
+    "price": 0.48,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "SG 553 | Lush Ruins",
+    "id": "skin-2559992"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "name": "★ StatTrak™ Navaja Knife | Rust Coat (Battle-Scarred)",
+    "price": 71.31,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Navaja Knife | Rust Coat",
+    "id": "skin-34080376"
+  },
+  {
+    "name": "★ Navaja Knife | Rust Coat (Battle-Scarred)",
+    "price": 65.55,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Navaja Knife | Rust Coat",
+    "id": "skin-34080376"
+  },
+  {
+    "name": "★ StatTrak™ Navaja Knife | Rust Coat (Well-Worn)",
+    "price": 121.36,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Navaja Knife | Rust Coat",
+    "id": "skin-34080376"
+  },
+  {
+    "name": "★ Navaja Knife | Rust Coat (Well-Worn)",
+    "price": 72.61,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Navaja Knife | Rust Coat",
+    "id": "skin-34080376"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "name": "★ Huntsman Knife | Rust Coat (Battle-Scarred)",
+    "price": 90.51,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Huntsman Knife | Rust Coat",
+    "id": "skin-33359480"
+  },
+  {
+    "name": "★ StatTrak™ Huntsman Knife | Rust Coat (Battle-Scarred)",
+    "price": 104.9,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Huntsman Knife | Rust Coat",
+    "id": "skin-33359480"
+  },
+  {
+    "name": "★ Huntsman Knife | Rust Coat (Well-Worn)",
+    "price": 100.65,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Huntsman Knife | Rust Coat",
+    "id": "skin-33359480"
+  },
+  {
+    "name": "★ StatTrak™ Huntsman Knife | Rust Coat (Well-Worn)",
+    "price": 137.04,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Huntsman Knife | Rust Coat",
+    "id": "skin-33359480"
+  }
+]

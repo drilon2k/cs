@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Glock-18 | Bullet Queen (Factory New)",
+    "price": 35.59,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Glock-18 | Bullet Queen",
+    "id": "skin-265972"
+  },
+  {
+    "name": "StatTrak™ Glock-18 | Bullet Queen (Well-Worn)",
+    "price": 12.89,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Glock-18 | Bullet Queen",
+    "id": "skin-265972"
+  },
+  {
+    "name": "StatTrak™ Glock-18 | Bullet Queen (Field-Tested)",
+    "price": 17.76,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Glock-18 | Bullet Queen",
+    "id": "skin-265972"
+  },
+  {
+    "name": "Glock-18 | Bullet Queen (Battle-Scarred)",
+    "price": 3.27,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Glock-18 | Bullet Queen",
+    "id": "skin-265972"
+  },
+  {
+    "name": "Glock-18 | Bullet Queen (Well-Worn)",
+    "price": 3.78,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Glock-18 | Bullet Queen",
+    "id": "skin-265972"
+  },
+  {
+    "name": "StatTrak™ Glock-18 | Bullet Queen (Minimal Wear)",
+    "price": 41.46,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Glock-18 | Bullet Queen",
+    "id": "skin-265972"
+  },
+  {
+    "name": "StatTrak™ Glock-18 | Bullet Queen (Battle-Scarred)",
+    "price": 11.82,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Glock-18 | Bullet Queen",
+    "id": "skin-265972"
+  },
+  {
+    "name": "Glock-18 | Bullet Queen (Field-Tested)",
+    "price": 4.66,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Glock-18 | Bullet Queen",
+    "id": "skin-265972"
+  },
+  {
+    "name": "StatTrak™ Glock-18 | Bullet Queen (Factory New)",
+    "price": 143.44,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Glock-18 | Bullet Queen",
+    "id": "skin-265972"
+  },
+  {
+    "name": "Glock-18 | Bullet Queen (Minimal Wear)",
+    "price": 10.11,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Glock-18 | Bullet Queen",
+    "id": "skin-265972"
+  }
+]

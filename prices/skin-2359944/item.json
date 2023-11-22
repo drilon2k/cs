@@ -1,0 +1,56 @@
+[
+  {
+    "name": "P250 | Splash (Minimal Wear)",
+    "price": 14.4,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P250 | Splash",
+    "id": "skin-2359944"
+  },
+  {
+    "name": "StatTrak™ P250 | Splash (Factory New)",
+    "price": 62.97,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "P250 | Splash",
+    "id": "skin-2359944"
+  },
+  {
+    "name": "StatTrak™ P250 | Splash (Minimal Wear)",
+    "price": 31.4,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "P250 | Splash",
+    "id": "skin-2359944"
+  },
+  {
+    "name": "P250 | Splash (Field-Tested)",
+    "price": 54.85,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P250 | Splash",
+    "id": "skin-2359944"
+  },
+  {
+    "name": "StatTrak™ P250 | Splash (Field-Tested)",
+    "price": 27.29,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "P250 | Splash",
+    "id": "skin-2359944"
+  },
+  {
+    "name": "P250 | Splash (Factory New)",
+    "price": 34.21,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P250 | Splash",
+    "id": "skin-2359944"
+  }
+]

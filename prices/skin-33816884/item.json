@@ -1,0 +1,92 @@
+[
+  {
+    "name": "★ Shadow Daggers | Boreal Forest (Battle-Scarred)",
+    "price": 68.43,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Shadow Daggers | Boreal Forest",
+    "id": "skin-33816884"
+  },
+  {
+    "name": "★ Shadow Daggers | Boreal Forest (Factory New)",
+    "price": 116.49,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Shadow Daggers | Boreal Forest",
+    "id": "skin-33816884"
+  },
+  {
+    "name": "★ StatTrak™ Shadow Daggers | Boreal Forest (Battle-Scarred)",
+    "price": 157.7,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Shadow Daggers | Boreal Forest",
+    "id": "skin-33816884"
+  },
+  {
+    "name": "★ StatTrak™ Shadow Daggers | Boreal Forest (Minimal Wear)",
+    "price": 113.61,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Shadow Daggers | Boreal Forest",
+    "id": "skin-33816884"
+  },
+  {
+    "name": "★ StatTrak™ Shadow Daggers | Boreal Forest (Field-Tested)",
+    "price": 132.47,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Shadow Daggers | Boreal Forest",
+    "id": "skin-33816884"
+  },
+  {
+    "name": "★ Shadow Daggers | Boreal Forest (Field-Tested)",
+    "price": 68.36,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Shadow Daggers | Boreal Forest",
+    "id": "skin-33816884"
+  },
+  {
+    "name": "★ StatTrak™ Shadow Daggers | Boreal Forest (Factory New)",
+    "price": 0,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Shadow Daggers | Boreal Forest",
+    "id": "skin-33816884"
+  },
+  {
+    "name": "★ StatTrak™ Shadow Daggers | Boreal Forest (Well-Worn)",
+    "price": 95.99,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Shadow Daggers | Boreal Forest",
+    "id": "skin-33816884"
+  },
+  {
+    "name": "★ Shadow Daggers | Boreal Forest (Minimal Wear)",
+    "price": 77.75,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Shadow Daggers | Boreal Forest",
+    "id": "skin-33816884"
+  },
+  {
+    "name": "★ Shadow Daggers | Boreal Forest (Well-Worn)",
+    "price": 79.26,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Shadow Daggers | Boreal Forest",
+    "id": "skin-33816884"
+  }
+]

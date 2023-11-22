@@ -1,0 +1,38 @@
+[
+  {
+    "name": "★ StatTrak™ M9 Bayonet | Rust Coat (Well-Worn)",
+    "price": 390.75,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ M9 Bayonet | Rust Coat",
+    "id": "skin-33293944"
+  },
+  {
+    "name": "★ M9 Bayonet | Rust Coat (Well-Worn)",
+    "price": 396.03,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ M9 Bayonet | Rust Coat",
+    "id": "skin-33293944"
+  },
+  {
+    "name": "★ StatTrak™ M9 Bayonet | Rust Coat (Battle-Scarred)",
+    "price": 356.54,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ M9 Bayonet | Rust Coat",
+    "id": "skin-33293944"
+  },
+  {
+    "name": "★ M9 Bayonet | Rust Coat (Battle-Scarred)",
+    "price": 340.02,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ M9 Bayonet | Rust Coat",
+    "id": "skin-33293944"
+  }
+]

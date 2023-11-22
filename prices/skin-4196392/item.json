@@ -1,0 +1,74 @@
+[
+  {
+    "name": "StatTrak™ R8 Revolver | Fade (Well-Worn)",
+    "price": 23.27,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "R8 Revolver | Fade",
+    "id": "skin-4196392"
+  },
+  {
+    "name": "StatTrak™ R8 Revolver | Fade (Minimal Wear)",
+    "price": 29.66,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "R8 Revolver | Fade",
+    "id": "skin-4196392"
+  },
+  {
+    "name": "R8 Revolver | Fade (Minimal Wear)",
+    "price": 6.57,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "R8 Revolver | Fade",
+    "id": "skin-4196392"
+  },
+  {
+    "name": "R8 Revolver | Fade (Well-Worn)",
+    "price": 6.58,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "R8 Revolver | Fade",
+    "id": "skin-4196392"
+  },
+  {
+    "name": "R8 Revolver | Fade (Field-Tested)",
+    "price": 4.39,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "R8 Revolver | Fade",
+    "id": "skin-4196392"
+  },
+  {
+    "name": "StatTrak™ R8 Revolver | Fade (Factory New)",
+    "price": 54.85,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "R8 Revolver | Fade",
+    "id": "skin-4196392"
+  },
+  {
+    "name": "StatTrak™ R8 Revolver | Fade (Field-Tested)",
+    "price": 15.81,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "R8 Revolver | Fade",
+    "id": "skin-4196392"
+  },
+  {
+    "name": "R8 Revolver | Fade (Factory New)",
+    "price": 13.58,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "R8 Revolver | Fade",
+    "id": "skin-4196392"
+  }
+]

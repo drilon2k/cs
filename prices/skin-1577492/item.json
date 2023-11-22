@@ -1,0 +1,92 @@
+[
+  {
+    "name": "StatTrak™ UMP-45 | Roadblock (Field-Tested)",
+    "price": 0.1,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "UMP-45 | Roadblock",
+    "id": "skin-1577492"
+  },
+  {
+    "name": "UMP-45 | Roadblock (Minimal Wear)",
+    "price": 0.09,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "UMP-45 | Roadblock",
+    "id": "skin-1577492"
+  },
+  {
+    "name": "StatTrak™ UMP-45 | Roadblock (Well-Worn)",
+    "price": 0.08,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "UMP-45 | Roadblock",
+    "id": "skin-1577492"
+  },
+  {
+    "name": "StatTrak™ UMP-45 | Roadblock (Factory New)",
+    "price": 0.71,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "UMP-45 | Roadblock",
+    "id": "skin-1577492"
+  },
+  {
+    "name": "UMP-45 | Roadblock (Field-Tested)",
+    "price": 0.04,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "UMP-45 | Roadblock",
+    "id": "skin-1577492"
+  },
+  {
+    "name": "StatTrak™ UMP-45 | Roadblock (Minimal Wear)",
+    "price": 0.26,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "UMP-45 | Roadblock",
+    "id": "skin-1577492"
+  },
+  {
+    "name": "UMP-45 | Roadblock (Factory New)",
+    "price": 0.19,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "UMP-45 | Roadblock",
+    "id": "skin-1577492"
+  },
+  {
+    "name": "UMP-45 | Roadblock (Well-Worn)",
+    "price": 0.04,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "UMP-45 | Roadblock",
+    "id": "skin-1577492"
+  },
+  {
+    "name": "UMP-45 | Roadblock (Battle-Scarred)",
+    "price": 0.04,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "UMP-45 | Roadblock",
+    "id": "skin-1577492"
+  },
+  {
+    "name": "StatTrak™ UMP-45 | Roadblock (Battle-Scarred)",
+    "price": 0.08,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "UMP-45 | Roadblock",
+    "id": "skin-1577492"
+  }
+]

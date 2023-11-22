@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Five-SeveN | Nightshade (Battle-Scarred)",
+    "price": 1.03,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Five-SeveN | Nightshade",
+    "id": "skin-197500"
+  },
+  {
+    "name": "StatTrak™ Five-SeveN | Nightshade (Minimal Wear)",
+    "price": 4.08,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Five-SeveN | Nightshade",
+    "id": "skin-197500"
+  },
+  {
+    "name": "Five-SeveN | Nightshade (Factory New)",
+    "price": 1.22,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Five-SeveN | Nightshade",
+    "id": "skin-197500"
+  },
+  {
+    "name": "Five-SeveN | Nightshade (Well-Worn)",
+    "price": 1.16,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Five-SeveN | Nightshade",
+    "id": "skin-197500"
+  },
+  {
+    "name": "StatTrak™ Five-SeveN | Nightshade (Well-Worn)",
+    "price": 4.08,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Five-SeveN | Nightshade",
+    "id": "skin-197500"
+  },
+  {
+    "name": "Five-SeveN | Nightshade (Minimal Wear)",
+    "price": 1.07,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Five-SeveN | Nightshade",
+    "id": "skin-197500"
+  },
+  {
+    "name": "StatTrak™ Five-SeveN | Nightshade (Battle-Scarred)",
+    "price": 4.47,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Five-SeveN | Nightshade",
+    "id": "skin-197500"
+  },
+  {
+    "name": "StatTrak™ Five-SeveN | Nightshade (Factory New)",
+    "price": 4.24,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Five-SeveN | Nightshade",
+    "id": "skin-197500"
+  },
+  {
+    "name": "Five-SeveN | Nightshade (Field-Tested)",
+    "price": 0.87,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Five-SeveN | Nightshade",
+    "id": "skin-197500"
+  },
+  {
+    "name": "StatTrak™ Five-SeveN | Nightshade (Field-Tested)",
+    "price": 3.82,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Five-SeveN | Nightshade",
+    "id": "skin-197500"
+  }
+]

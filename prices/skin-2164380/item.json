@@ -1,0 +1,92 @@
+[
+  {
+    "name": "StatTrak™ MP7 | Armor Core (Battle-Scarred)",
+    "price": 0.18,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MP7 | Armor Core",
+    "id": "skin-2164380"
+  },
+  {
+    "name": "MP7 | Armor Core (Well-Worn)",
+    "price": 0.06,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MP7 | Armor Core",
+    "id": "skin-2164380"
+  },
+  {
+    "name": "StatTrak™ MP7 | Armor Core (Field-Tested)",
+    "price": 0.19,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MP7 | Armor Core",
+    "id": "skin-2164380"
+  },
+  {
+    "name": "MP7 | Armor Core (Field-Tested)",
+    "price": 0.06,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MP7 | Armor Core",
+    "id": "skin-2164380"
+  },
+  {
+    "name": "StatTrak™ MP7 | Armor Core (Minimal Wear)",
+    "price": 0.3,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MP7 | Armor Core",
+    "id": "skin-2164380"
+  },
+  {
+    "name": "MP7 | Armor Core (Minimal Wear)",
+    "price": 0.11,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MP7 | Armor Core",
+    "id": "skin-2164380"
+  },
+  {
+    "name": "MP7 | Armor Core (Battle-Scarred)",
+    "price": 0.1,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MP7 | Armor Core",
+    "id": "skin-2164380"
+  },
+  {
+    "name": "StatTrak™ MP7 | Armor Core (Well-Worn)",
+    "price": 0.23,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MP7 | Armor Core",
+    "id": "skin-2164380"
+  },
+  {
+    "name": "MP7 | Armor Core (Factory New)",
+    "price": 0.18,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MP7 | Armor Core",
+    "id": "skin-2164380"
+  },
+  {
+    "name": "StatTrak™ MP7 | Armor Core (Factory New)",
+    "price": 0.65,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MP7 | Armor Core",
+    "id": "skin-2164380"
+  }
+]

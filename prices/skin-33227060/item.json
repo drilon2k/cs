@@ -1,0 +1,92 @@
+[
+  {
+    "name": "★ Karambit | Boreal Forest (Field-Tested)",
+    "price": 363.4,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Karambit | Boreal Forest",
+    "id": "skin-33227060"
+  },
+  {
+    "name": "★ StatTrak™ Karambit | Boreal Forest (Factory New)",
+    "price": 0,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Karambit | Boreal Forest",
+    "id": "skin-33227060"
+  },
+  {
+    "name": "★ StatTrak™ Karambit | Boreal Forest (Field-Tested)",
+    "price": 367.44,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Karambit | Boreal Forest",
+    "id": "skin-33227060"
+  },
+  {
+    "name": "★ StatTrak™ Karambit | Boreal Forest (Battle-Scarred)",
+    "price": 359.97,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Karambit | Boreal Forest",
+    "id": "skin-33227060"
+  },
+  {
+    "name": "★ Karambit | Boreal Forest (Minimal Wear)",
+    "price": 441.01,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Karambit | Boreal Forest",
+    "id": "skin-33227060"
+  },
+  {
+    "name": "★ StatTrak™ Karambit | Boreal Forest (Well-Worn)",
+    "price": 377.11,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Karambit | Boreal Forest",
+    "id": "skin-33227060"
+  },
+  {
+    "name": "★ Karambit | Boreal Forest (Factory New)",
+    "price": 1218.94,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Karambit | Boreal Forest",
+    "id": "skin-33227060"
+  },
+  {
+    "name": "★ Karambit | Boreal Forest (Battle-Scarred)",
+    "price": 356.4,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Karambit | Boreal Forest",
+    "id": "skin-33227060"
+  },
+  {
+    "name": "★ StatTrak™ Karambit | Boreal Forest (Minimal Wear)",
+    "price": 493.67,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Karambit | Boreal Forest",
+    "id": "skin-33227060"
+  },
+  {
+    "name": "★ Karambit | Boreal Forest (Well-Worn)",
+    "price": 355.85,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Karambit | Boreal Forest",
+    "id": "skin-33227060"
+  }
+]

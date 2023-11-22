@@ -1,0 +1,92 @@
+[
+  {
+    "name": "StatTrak™ Galil AR | Crimson Tsunami (Factory New)",
+    "price": 6.28,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Galil AR | Crimson Tsunami",
+    "id": "skin-854556"
+  },
+  {
+    "name": "Galil AR | Crimson Tsunami (Field-Tested)",
+    "price": 0.97,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Galil AR | Crimson Tsunami",
+    "id": "skin-854556"
+  },
+  {
+    "name": "StatTrak™ Galil AR | Crimson Tsunami (Field-Tested)",
+    "price": 1.98,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Galil AR | Crimson Tsunami",
+    "id": "skin-854556"
+  },
+  {
+    "name": "StatTrak™ Galil AR | Crimson Tsunami (Battle-Scarred)",
+    "price": 1.8,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Galil AR | Crimson Tsunami",
+    "id": "skin-854556"
+  },
+  {
+    "name": "Galil AR | Crimson Tsunami (Factory New)",
+    "price": 2.11,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Galil AR | Crimson Tsunami",
+    "id": "skin-854556"
+  },
+  {
+    "name": "StatTrak™ Galil AR | Crimson Tsunami (Minimal Wear)",
+    "price": 3.43,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Galil AR | Crimson Tsunami",
+    "id": "skin-854556"
+  },
+  {
+    "name": "Galil AR | Crimson Tsunami (Well-Worn)",
+    "price": 1.23,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Galil AR | Crimson Tsunami",
+    "id": "skin-854556"
+  },
+  {
+    "name": "StatTrak™ Galil AR | Crimson Tsunami (Well-Worn)",
+    "price": 2.17,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Galil AR | Crimson Tsunami",
+    "id": "skin-854556"
+  },
+  {
+    "name": "Galil AR | Crimson Tsunami (Battle-Scarred)",
+    "price": 0.97,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Galil AR | Crimson Tsunami",
+    "id": "skin-854556"
+  },
+  {
+    "name": "Galil AR | Crimson Tsunami (Minimal Wear)",
+    "price": 1.35,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Galil AR | Crimson Tsunami",
+    "id": "skin-854556"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "name": "StatTrak™ M249 | Warbird (Well-Worn)",
+    "price": 0.75,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "M249 | Warbird",
+    "id": "skin-921104"
+  },
+  {
+    "name": "StatTrak™ M249 | Warbird (Battle-Scarred)",
+    "price": 0.93,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "M249 | Warbird",
+    "id": "skin-921104"
+  },
+  {
+    "name": "M249 | Warbird (Field-Tested)",
+    "price": 1.01,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M249 | Warbird",
+    "id": "skin-921104"
+  },
+  {
+    "name": "StatTrak™ M249 | Warbird (Minimal Wear)",
+    "price": 1.45,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "M249 | Warbird",
+    "id": "skin-921104"
+  },
+  {
+    "name": "StatTrak™ M249 | Warbird (Field-Tested)",
+    "price": 0.72,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "M249 | Warbird",
+    "id": "skin-921104"
+  },
+  {
+    "name": "M249 | Warbird (Factory New)",
+    "price": 1.1,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M249 | Warbird",
+    "id": "skin-921104"
+  },
+  {
+    "name": "M249 | Warbird (Minimal Wear)",
+    "price": 0.73,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M249 | Warbird",
+    "id": "skin-921104"
+  },
+  {
+    "name": "StatTrak™ M249 | Warbird (Factory New)",
+    "price": 2.72,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "M249 | Warbird",
+    "id": "skin-921104"
+  },
+  {
+    "name": "M249 | Warbird (Battle-Scarred)",
+    "price": 0.8,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M249 | Warbird",
+    "id": "skin-921104"
+  },
+  {
+    "name": "M249 | Warbird (Well-Worn)",
+    "price": 0.85,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M249 | Warbird",
+    "id": "skin-921104"
+  }
+]

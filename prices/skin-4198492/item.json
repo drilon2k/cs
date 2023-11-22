@@ -1,0 +1,92 @@
+[
+  {
+    "name": "StatTrak™ R8 Revolver | Junk Yard (Battle-Scarred)",
+    "price": 0.16,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "R8 Revolver | Junk Yard",
+    "id": "skin-4198492"
+  },
+  {
+    "name": "StatTrak™ R8 Revolver | Junk Yard (Field-Tested)",
+    "price": 0.19,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "R8 Revolver | Junk Yard",
+    "id": "skin-4198492"
+  },
+  {
+    "name": "StatTrak™ R8 Revolver | Junk Yard (Well-Worn)",
+    "price": 0.17,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "R8 Revolver | Junk Yard",
+    "id": "skin-4198492"
+  },
+  {
+    "name": "R8 Revolver | Junk Yard (Minimal Wear)",
+    "price": 0.11,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "R8 Revolver | Junk Yard",
+    "id": "skin-4198492"
+  },
+  {
+    "name": "R8 Revolver | Junk Yard (Field-Tested)",
+    "price": 0.06,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "R8 Revolver | Junk Yard",
+    "id": "skin-4198492"
+  },
+  {
+    "name": "R8 Revolver | Junk Yard (Well-Worn)",
+    "price": 0.06,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "R8 Revolver | Junk Yard",
+    "id": "skin-4198492"
+  },
+  {
+    "name": "R8 Revolver | Junk Yard (Factory New)",
+    "price": 0.29,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "R8 Revolver | Junk Yard",
+    "id": "skin-4198492"
+  },
+  {
+    "name": "R8 Revolver | Junk Yard (Battle-Scarred)",
+    "price": 0.05,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "R8 Revolver | Junk Yard",
+    "id": "skin-4198492"
+  },
+  {
+    "name": "StatTrak™ R8 Revolver | Junk Yard (Factory New)",
+    "price": 1.22,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "R8 Revolver | Junk Yard",
+    "id": "skin-4198492"
+  },
+  {
+    "name": "StatTrak™ R8 Revolver | Junk Yard (Minimal Wear)",
+    "price": 0.44,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "R8 Revolver | Junk Yard",
+    "id": "skin-4198492"
+  }
+]

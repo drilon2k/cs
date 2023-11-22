@@ -1,0 +1,56 @@
+[
+  {
+    "name": "StatTrak™ UMP-45 | Bone Pile (Factory New)",
+    "price": 67,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "UMP-45 | Bone Pile",
+    "id": "skin-1573636"
+  },
+  {
+    "name": "UMP-45 | Bone Pile (Factory New)",
+    "price": 10.97,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "UMP-45 | Bone Pile",
+    "id": "skin-1573636"
+  },
+  {
+    "name": "StatTrak™ UMP-45 | Bone Pile (Field-Tested)",
+    "price": 5.83,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "UMP-45 | Bone Pile",
+    "id": "skin-1573636"
+  },
+  {
+    "name": "UMP-45 | Bone Pile (Minimal Wear)",
+    "price": 5.35,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "UMP-45 | Bone Pile",
+    "id": "skin-1573636"
+  },
+  {
+    "name": "StatTrak™ UMP-45 | Bone Pile (Minimal Wear)",
+    "price": 5.67,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "UMP-45 | Bone Pile",
+    "id": "skin-1573636"
+  },
+  {
+    "name": "UMP-45 | Bone Pile (Field-Tested)",
+    "price": 4.82,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "UMP-45 | Bone Pile",
+    "id": "skin-1573636"
+  }
+]

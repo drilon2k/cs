@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Five-SeveN | Coolant (Battle-Scarred)",
+    "price": 0.01,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Five-SeveN | Coolant",
+    "id": "skin-199744"
+  },
+  {
+    "name": "Five-SeveN | Coolant (Well-Worn)",
+    "price": 0.02,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Five-SeveN | Coolant",
+    "id": "skin-199744"
+  },
+  {
+    "name": "Five-SeveN | Coolant (Field-Tested)",
+    "price": 0.01,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Five-SeveN | Coolant",
+    "id": "skin-199744"
+  },
+  {
+    "name": "Five-SeveN | Coolant (Minimal Wear)",
+    "price": 0.01,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Five-SeveN | Coolant",
+    "id": "skin-199744"
+  },
+  {
+    "name": "Five-SeveN | Coolant (Factory New)",
+    "price": 0.03,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Five-SeveN | Coolant",
+    "id": "skin-199744"
+  }
+]

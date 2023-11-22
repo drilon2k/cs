@@ -1,0 +1,20 @@
+[
+  {
+    "name": "★ Skeleton Knife",
+    "price": 634.26,
+    "wear": null,
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Skeleton Knife",
+    "id": "skin-vanilla-weapon_knife_skeleton"
+  },
+  {
+    "name": "★ StatTrak™ Skeleton Knife",
+    "price": 638.4,
+    "wear": null,
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Skeleton Knife",
+    "id": "skin-vanilla-weapon_knife_skeleton"
+  }
+]

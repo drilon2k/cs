@@ -1,0 +1,92 @@
+[
+  {
+    "name": "M249 | Magma (Minimal Wear)",
+    "price": 0.71,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M249 | Magma",
+    "id": "skin-918568"
+  },
+  {
+    "name": "StatTrak™ M249 | Magma (Field-Tested)",
+    "price": 1.05,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "M249 | Magma",
+    "id": "skin-918568"
+  },
+  {
+    "name": "M249 | Magma (Battle-Scarred)",
+    "price": 0.67,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M249 | Magma",
+    "id": "skin-918568"
+  },
+  {
+    "name": "M249 | Magma (Field-Tested)",
+    "price": 0.63,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M249 | Magma",
+    "id": "skin-918568"
+  },
+  {
+    "name": "StatTrak™ M249 | Magma (Well-Worn)",
+    "price": 1.55,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "M249 | Magma",
+    "id": "skin-918568"
+  },
+  {
+    "name": "StatTrak™ M249 | Magma (Minimal Wear)",
+    "price": 1.33,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "M249 | Magma",
+    "id": "skin-918568"
+  },
+  {
+    "name": "M249 | Magma (Well-Worn)",
+    "price": 0.72,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M249 | Magma",
+    "id": "skin-918568"
+  },
+  {
+    "name": "StatTrak™ M249 | Magma (Battle-Scarred)",
+    "price": 0.96,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "M249 | Magma",
+    "id": "skin-918568"
+  },
+  {
+    "name": "M249 | Magma (Factory New)",
+    "price": 0.88,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M249 | Magma",
+    "id": "skin-918568"
+  },
+  {
+    "name": "StatTrak™ M249 | Magma (Factory New)",
+    "price": 1.71,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "M249 | Magma",
+    "id": "skin-918568"
+  }
+]

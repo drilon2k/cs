@@ -1,0 +1,47 @@
+[
+  {
+    "name": "M4A4 | Tornado (Minimal Wear)",
+    "price": 8.41,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M4A4 | Tornado",
+    "id": "skin-1048980"
+  },
+  {
+    "name": "M4A4 | Tornado (Battle-Scarred)",
+    "price": 3.28,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M4A4 | Tornado",
+    "id": "skin-1048980"
+  },
+  {
+    "name": "M4A4 | Tornado (Factory New)",
+    "price": 86.32,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M4A4 | Tornado",
+    "id": "skin-1048980"
+  },
+  {
+    "name": "M4A4 | Tornado (Well-Worn)",
+    "price": 2.72,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M4A4 | Tornado",
+    "id": "skin-1048980"
+  },
+  {
+    "name": "M4A4 | Tornado (Field-Tested)",
+    "price": 2.1,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M4A4 | Tornado",
+    "id": "skin-1048980"
+  }
+]

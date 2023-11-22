@@ -1,0 +1,92 @@
+[
+  {
+    "name": "★ Navaja Knife | Boreal Forest (Battle-Scarred)",
+    "price": 67.47,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Navaja Knife | Boreal Forest",
+    "id": "skin-34079028"
+  },
+  {
+    "name": "★ Navaja Knife | Boreal Forest (Well-Worn)",
+    "price": 69.94,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Navaja Knife | Boreal Forest",
+    "id": "skin-34079028"
+  },
+  {
+    "name": "★ Navaja Knife | Boreal Forest (Field-Tested)",
+    "price": 68.14,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Navaja Knife | Boreal Forest",
+    "id": "skin-34079028"
+  },
+  {
+    "name": "★ StatTrak™ Navaja Knife | Boreal Forest (Field-Tested)",
+    "price": 74.26,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Navaja Knife | Boreal Forest",
+    "id": "skin-34079028"
+  },
+  {
+    "name": "★ StatTrak™ Navaja Knife | Boreal Forest (Minimal Wear)",
+    "price": 258.9,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Navaja Knife | Boreal Forest",
+    "id": "skin-34079028"
+  },
+  {
+    "name": "★ Navaja Knife | Boreal Forest (Factory New)",
+    "price": 137.13,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Navaja Knife | Boreal Forest",
+    "id": "skin-34079028"
+  },
+  {
+    "name": "★ StatTrak™ Navaja Knife | Boreal Forest (Well-Worn)",
+    "price": 111.57,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Navaja Knife | Boreal Forest",
+    "id": "skin-34079028"
+  },
+  {
+    "name": "★ Navaja Knife | Boreal Forest (Minimal Wear)",
+    "price": 68.5,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Navaja Knife | Boreal Forest",
+    "id": "skin-34079028"
+  },
+  {
+    "name": "★ StatTrak™ Navaja Knife | Boreal Forest (Factory New)",
+    "price": 0,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Navaja Knife | Boreal Forest",
+    "id": "skin-34079028"
+  },
+  {
+    "name": "★ StatTrak™ Navaja Knife | Boreal Forest (Battle-Scarred)",
+    "price": 75.42,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Navaja Knife | Boreal Forest",
+    "id": "skin-34079028"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Five-SeveN | Retrobution (Minimal Wear)",
+    "price": 0.92,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Five-SeveN | Retrobution",
+    "id": "skin-198648"
+  },
+  {
+    "name": "StatTrak™ Five-SeveN | Retrobution (Minimal Wear)",
+    "price": 2.65,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Five-SeveN | Retrobution",
+    "id": "skin-198648"
+  },
+  {
+    "name": "StatTrak™ Five-SeveN | Retrobution (Battle-Scarred)",
+    "price": 0.95,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Five-SeveN | Retrobution",
+    "id": "skin-198648"
+  },
+  {
+    "name": "Five-SeveN | Retrobution (Factory New)",
+    "price": 2.09,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Five-SeveN | Retrobution",
+    "id": "skin-198648"
+  },
+  {
+    "name": "StatTrak™ Five-SeveN | Retrobution (Field-Tested)",
+    "price": 1.2,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Five-SeveN | Retrobution",
+    "id": "skin-198648"
+  },
+  {
+    "name": "Five-SeveN | Retrobution (Well-Worn)",
+    "price": 0.4,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Five-SeveN | Retrobution",
+    "id": "skin-198648"
+  },
+  {
+    "name": "Five-SeveN | Retrobution (Field-Tested)",
+    "price": 0.55,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Five-SeveN | Retrobution",
+    "id": "skin-198648"
+  },
+  {
+    "name": "StatTrak™ Five-SeveN | Retrobution (Factory New)",
+    "price": 6.07,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Five-SeveN | Retrobution",
+    "id": "skin-198648"
+  },
+  {
+    "name": "Five-SeveN | Retrobution (Battle-Scarred)",
+    "price": 0.37,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Five-SeveN | Retrobution",
+    "id": "skin-198648"
+  },
+  {
+    "name": "StatTrak™ Five-SeveN | Retrobution (Well-Worn)",
+    "price": 0.91,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Five-SeveN | Retrobution",
+    "id": "skin-198648"
+  }
+]

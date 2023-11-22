@@ -1,0 +1,47 @@
+[
+  {
+    "name": "AK-47 | Jet Set (Field-Tested)",
+    "price": 205.68,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AK-47 | Jet Set",
+    "id": "skin-460112"
+  },
+  {
+    "name": "AK-47 | Jet Set (Minimal Wear)",
+    "price": 287.91,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AK-47 | Jet Set",
+    "id": "skin-460112"
+  },
+  {
+    "name": "AK-47 | Jet Set (Factory New)",
+    "price": 913.97,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AK-47 | Jet Set",
+    "id": "skin-460112"
+  },
+  {
+    "name": "AK-47 | Jet Set (Well-Worn)",
+    "price": 170.73,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AK-47 | Jet Set",
+    "id": "skin-460112"
+  },
+  {
+    "name": "AK-47 | Jet Set (Battle-Scarred)",
+    "price": 178.13,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AK-47 | Jet Set",
+    "id": "skin-460112"
+  }
+]

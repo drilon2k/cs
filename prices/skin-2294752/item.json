@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Nova | Red Quartz (Minimal Wear)",
+    "price": 3.17,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Nova | Red Quartz",
+    "id": "skin-2294752"
+  },
+  {
+    "name": "Nova | Red Quartz (Well-Worn)",
+    "price": 3.35,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Nova | Red Quartz",
+    "id": "skin-2294752"
+  },
+  {
+    "name": "Nova | Red Quartz (Factory New)",
+    "price": 5.09,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Nova | Red Quartz",
+    "id": "skin-2294752"
+  },
+  {
+    "name": "Nova | Red Quartz (Field-Tested)",
+    "price": 2.96,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Nova | Red Quartz",
+    "id": "skin-2294752"
+  }
+]

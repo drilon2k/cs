@@ -1,0 +1,92 @@
+[
+  {
+    "name": "SG 553 | Aloha (Well-Worn)",
+    "price": 0.04,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "SG 553 | Aloha",
+    "id": "skin-2558712"
+  },
+  {
+    "name": "StatTrak™ SG 553 | Aloha (Battle-Scarred)",
+    "price": 0.1,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "SG 553 | Aloha",
+    "id": "skin-2558712"
+  },
+  {
+    "name": "StatTrak™ SG 553 | Aloha (Field-Tested)",
+    "price": 0.09,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "SG 553 | Aloha",
+    "id": "skin-2558712"
+  },
+  {
+    "name": "SG 553 | Aloha (Battle-Scarred)",
+    "price": 0.04,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "SG 553 | Aloha",
+    "id": "skin-2558712"
+  },
+  {
+    "name": "SG 553 | Aloha (Field-Tested)",
+    "price": 0.04,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "SG 553 | Aloha",
+    "id": "skin-2558712"
+  },
+  {
+    "name": "StatTrak™ SG 553 | Aloha (Well-Worn)",
+    "price": 0.1,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "SG 553 | Aloha",
+    "id": "skin-2558712"
+  },
+  {
+    "name": "StatTrak™ SG 553 | Aloha (Factory New)",
+    "price": 0.52,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "SG 553 | Aloha",
+    "id": "skin-2558712"
+  },
+  {
+    "name": "StatTrak™ SG 553 | Aloha (Minimal Wear)",
+    "price": 0.2,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "SG 553 | Aloha",
+    "id": "skin-2558712"
+  },
+  {
+    "name": "SG 553 | Aloha (Minimal Wear)",
+    "price": 0.08,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "SG 553 | Aloha",
+    "id": "skin-2558712"
+  },
+  {
+    "name": "SG 553 | Aloha (Factory New)",
+    "price": 0.16,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "SG 553 | Aloha",
+    "id": "skin-2558712"
+  }
+]

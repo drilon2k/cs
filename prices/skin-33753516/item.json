@@ -1,0 +1,38 @@
+[
+  {
+    "name": "★ StatTrak™ Butterfly Knife | Doppler (Minimal Wear)",
+    "price": 1659.28,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Butterfly Knife | Doppler",
+    "id": "skin-33753516"
+  },
+  {
+    "name": "★ StatTrak™ Butterfly Knife | Doppler (Factory New)",
+    "price": 1614.99,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Butterfly Knife | Doppler",
+    "id": "skin-33753516"
+  },
+  {
+    "name": "★ Butterfly Knife | Doppler (Factory New)",
+    "price": 1563.16,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Butterfly Knife | Doppler",
+    "id": "skin-33753516"
+  },
+  {
+    "name": "★ Butterfly Knife | Doppler (Minimal Wear)",
+    "price": 1491.92,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Butterfly Knife | Doppler",
+    "id": "skin-33753516"
+  }
+]

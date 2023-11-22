@@ -1,0 +1,92 @@
+[
+  {
+    "name": "StatTrak™ Sawed-Off | Origami (Minimal Wear)",
+    "price": 0.29,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Sawed-Off | Origami",
+    "id": "skin-1902280"
+  },
+  {
+    "name": "Sawed-Off | Origami (Battle-Scarred)",
+    "price": 0.06,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Sawed-Off | Origami",
+    "id": "skin-1902280"
+  },
+  {
+    "name": "StatTrak™ Sawed-Off | Origami (Well-Worn)",
+    "price": 0.18,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Sawed-Off | Origami",
+    "id": "skin-1902280"
+  },
+  {
+    "name": "Sawed-Off | Origami (Well-Worn)",
+    "price": 0.11,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Sawed-Off | Origami",
+    "id": "skin-1902280"
+  },
+  {
+    "name": "StatTrak™ Sawed-Off | Origami (Factory New)",
+    "price": 0.55,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Sawed-Off | Origami",
+    "id": "skin-1902280"
+  },
+  {
+    "name": "Sawed-Off | Origami (Minimal Wear)",
+    "price": 0.11,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Sawed-Off | Origami",
+    "id": "skin-1902280"
+  },
+  {
+    "name": "StatTrak™ Sawed-Off | Origami (Battle-Scarred)",
+    "price": 0.27,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Sawed-Off | Origami",
+    "id": "skin-1902280"
+  },
+  {
+    "name": "StatTrak™ Sawed-Off | Origami (Field-Tested)",
+    "price": 0.19,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Sawed-Off | Origami",
+    "id": "skin-1902280"
+  },
+  {
+    "name": "Sawed-Off | Origami (Field-Tested)",
+    "price": 0.06,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Sawed-Off | Origami",
+    "id": "skin-1902280"
+  },
+  {
+    "name": "Sawed-Off | Origami (Factory New)",
+    "price": 0.16,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Sawed-Off | Origami",
+    "id": "skin-1902280"
+  }
+]

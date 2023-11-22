@@ -1,0 +1,47 @@
+[
+  {
+    "name": "M4A1-S | Master Piece (Battle-Scarred)",
+    "price": 66.82,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M4A1-S | Master Piece",
+    "id": "skin-3933444"
+  },
+  {
+    "name": "M4A1-S | Master Piece (Minimal Wear)",
+    "price": 196.03,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M4A1-S | Master Piece",
+    "id": "skin-3933444"
+  },
+  {
+    "name": "M4A1-S | Master Piece (Well-Worn)",
+    "price": 81.52,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M4A1-S | Master Piece",
+    "id": "skin-3933444"
+  },
+  {
+    "name": "M4A1-S | Master Piece (Field-Tested)",
+    "price": 118.76,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M4A1-S | Master Piece",
+    "id": "skin-3933444"
+  },
+  {
+    "name": "M4A1-S | Master Piece (Factory New)",
+    "price": 396.03,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M4A1-S | Master Piece",
+    "id": "skin-3933444"
+  }
+]

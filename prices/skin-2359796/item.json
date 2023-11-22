@@ -1,0 +1,56 @@
+[
+  {
+    "name": "StatTrak™ P250 | X-Ray (Minimal Wear)",
+    "price": 1.21,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "P250 | X-Ray",
+    "id": "skin-2359796"
+  },
+  {
+    "name": "StatTrak™ P250 | X-Ray (Field-Tested)",
+    "price": 1.08,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "P250 | X-Ray",
+    "id": "skin-2359796"
+  },
+  {
+    "name": "P250 | X-Ray (Field-Tested)",
+    "price": 0.23,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P250 | X-Ray",
+    "id": "skin-2359796"
+  },
+  {
+    "name": "P250 | X-Ray (Factory New)",
+    "price": 0.4,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P250 | X-Ray",
+    "id": "skin-2359796"
+  },
+  {
+    "name": "P250 | X-Ray (Minimal Wear)",
+    "price": 0.26,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P250 | X-Ray",
+    "id": "skin-2359796"
+  },
+  {
+    "name": "StatTrak™ P250 | X-Ray (Factory New)",
+    "price": 2.17,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "P250 | X-Ray",
+    "id": "skin-2359796"
+  }
+]

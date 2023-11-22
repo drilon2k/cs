@@ -1,0 +1,29 @@
+[
+  {
+    "name": "M4A4 | Poseidon (Field-Tested)",
+    "price": 1095.68,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M4A4 | Poseidon",
+    "id": "skin-1050372"
+  },
+  {
+    "name": "M4A4 | Poseidon (Minimal Wear)",
+    "price": 834.85,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M4A4 | Poseidon",
+    "id": "skin-1050372"
+  },
+  {
+    "name": "M4A4 | Poseidon (Factory New)",
+    "price": 973.63,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M4A4 | Poseidon",
+    "id": "skin-1050372"
+  }
+]

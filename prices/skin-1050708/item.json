@@ -1,0 +1,92 @@
+[
+  {
+    "name": "M4A4 | The Battlestar (Battle-Scarred)",
+    "price": 4.37,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M4A4 | The Battlestar",
+    "id": "skin-1050708"
+  },
+  {
+    "name": "M4A4 | The Battlestar (Minimal Wear)",
+    "price": 4.73,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M4A4 | The Battlestar",
+    "id": "skin-1050708"
+  },
+  {
+    "name": "StatTrak™ M4A4 | The Battlestar (Factory New)",
+    "price": 45.8,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "M4A4 | The Battlestar",
+    "id": "skin-1050708"
+  },
+  {
+    "name": "StatTrak™ M4A4 | The Battlestar (Field-Tested)",
+    "price": 13.03,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "M4A4 | The Battlestar",
+    "id": "skin-1050708"
+  },
+  {
+    "name": "M4A4 | The Battlestar (Factory New)",
+    "price": 9.32,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M4A4 | The Battlestar",
+    "id": "skin-1050708"
+  },
+  {
+    "name": "StatTrak™ M4A4 | The Battlestar (Battle-Scarred)",
+    "price": 14.06,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "M4A4 | The Battlestar",
+    "id": "skin-1050708"
+  },
+  {
+    "name": "M4A4 | The Battlestar (Well-Worn)",
+    "price": 5.29,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M4A4 | The Battlestar",
+    "id": "skin-1050708"
+  },
+  {
+    "name": "StatTrak™ M4A4 | The Battlestar (Well-Worn)",
+    "price": 54.85,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "M4A4 | The Battlestar",
+    "id": "skin-1050708"
+  },
+  {
+    "name": "StatTrak™ M4A4 | The Battlestar (Minimal Wear)",
+    "price": 24.14,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "M4A4 | The Battlestar",
+    "id": "skin-1050708"
+  },
+  {
+    "name": "M4A4 | The Battlestar (Field-Tested)",
+    "price": 3.59,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M4A4 | The Battlestar",
+    "id": "skin-1050708"
+  }
+]

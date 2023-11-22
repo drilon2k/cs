@@ -1,0 +1,38 @@
+[
+  {
+    "name": "★ Karambit | Rust Coat (Battle-Scarred)",
+    "price": 383.97,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Karambit | Rust Coat",
+    "id": "skin-33228408"
+  },
+  {
+    "name": "★ StatTrak™ Karambit | Rust Coat (Battle-Scarred)",
+    "price": 405.91,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Karambit | Rust Coat",
+    "id": "skin-33228408"
+  },
+  {
+    "name": "★ StatTrak™ Karambit | Rust Coat (Well-Worn)",
+    "price": 562.24,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Karambit | Rust Coat",
+    "id": "skin-33228408"
+  },
+  {
+    "name": "★ Karambit | Rust Coat (Well-Worn)",
+    "price": 452.53,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Karambit | Rust Coat",
+    "id": "skin-33228408"
+  }
+]

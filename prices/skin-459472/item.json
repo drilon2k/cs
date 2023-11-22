@@ -1,0 +1,92 @@
+[
+  {
+    "name": "StatTrak™ AK-47 | Fire Serpent (Battle-Scarred)",
+    "price": 781.58,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AK-47 | Fire Serpent",
+    "id": "skin-459472"
+  },
+  {
+    "name": "AK-47 | Fire Serpent (Field-Tested)",
+    "price": 670.5,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AK-47 | Fire Serpent",
+    "id": "skin-459472"
+  },
+  {
+    "name": "AK-47 | Fire Serpent (Well-Worn)",
+    "price": 683.87,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AK-47 | Fire Serpent",
+    "id": "skin-459472"
+  },
+  {
+    "name": "StatTrak™ AK-47 | Fire Serpent (Well-Worn)",
+    "price": 1340.25,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AK-47 | Fire Serpent",
+    "id": "skin-459472"
+  },
+  {
+    "name": "StatTrak™ AK-47 | Fire Serpent (Factory New)",
+    "price": 4797.94,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AK-47 | Fire Serpent",
+    "id": "skin-459472"
+  },
+  {
+    "name": "StatTrak™ AK-47 | Fire Serpent (Minimal Wear)",
+    "price": 2523.21,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AK-47 | Fire Serpent",
+    "id": "skin-459472"
+  },
+  {
+    "name": "AK-47 | Fire Serpent (Factory New)",
+    "price": 1988.33,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AK-47 | Fire Serpent",
+    "id": "skin-459472"
+  },
+  {
+    "name": "StatTrak™ AK-47 | Fire Serpent (Field-Tested)",
+    "price": 1641.39,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AK-47 | Fire Serpent",
+    "id": "skin-459472"
+  },
+  {
+    "name": "AK-47 | Fire Serpent (Battle-Scarred)",
+    "price": 463.98,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AK-47 | Fire Serpent",
+    "id": "skin-459472"
+  },
+  {
+    "name": "AK-47 | Fire Serpent (Minimal Wear)",
+    "price": 932.28,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AK-47 | Fire Serpent",
+    "id": "skin-459472"
+  }
+]

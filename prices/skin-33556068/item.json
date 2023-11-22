@@ -1,0 +1,38 @@
+[
+  {
+    "name": "★ Falchion Knife | Tiger Tooth (Minimal Wear)",
+    "price": 232.99,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Falchion Knife | Tiger Tooth",
+    "id": "skin-33556068"
+  },
+  {
+    "name": "★ StatTrak™ Falchion Knife | Tiger Tooth (Minimal Wear)",
+    "price": 277.42,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Falchion Knife | Tiger Tooth",
+    "id": "skin-33556068"
+  },
+  {
+    "name": "★ Falchion Knife | Tiger Tooth (Factory New)",
+    "price": 216.24,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Falchion Knife | Tiger Tooth",
+    "id": "skin-33556068"
+  },
+  {
+    "name": "★ StatTrak™ Falchion Knife | Tiger Tooth (Factory New)",
+    "price": 243.12,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Falchion Knife | Tiger Tooth",
+    "id": "skin-33556068"
+  }
+]

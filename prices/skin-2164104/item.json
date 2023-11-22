@@ -1,0 +1,92 @@
+[
+  {
+    "name": "MP7 | Urban Hazard (Minimal Wear)",
+    "price": 0.11,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MP7 | Urban Hazard",
+    "id": "skin-2164104"
+  },
+  {
+    "name": "MP7 | Urban Hazard (Battle-Scarred)",
+    "price": 0.08,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MP7 | Urban Hazard",
+    "id": "skin-2164104"
+  },
+  {
+    "name": "MP7 | Urban Hazard (Factory New)",
+    "price": 0.16,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MP7 | Urban Hazard",
+    "id": "skin-2164104"
+  },
+  {
+    "name": "StatTrak™ MP7 | Urban Hazard (Battle-Scarred)",
+    "price": 0.19,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MP7 | Urban Hazard",
+    "id": "skin-2164104"
+  },
+  {
+    "name": "MP7 | Urban Hazard (Well-Worn)",
+    "price": 0.09,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MP7 | Urban Hazard",
+    "id": "skin-2164104"
+  },
+  {
+    "name": "StatTrak™ MP7 | Urban Hazard (Well-Worn)",
+    "price": 0.18,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MP7 | Urban Hazard",
+    "id": "skin-2164104"
+  },
+  {
+    "name": "StatTrak™ MP7 | Urban Hazard (Factory New)",
+    "price": 0.6,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MP7 | Urban Hazard",
+    "id": "skin-2164104"
+  },
+  {
+    "name": "StatTrak™ MP7 | Urban Hazard (Minimal Wear)",
+    "price": 0.31,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MP7 | Urban Hazard",
+    "id": "skin-2164104"
+  },
+  {
+    "name": "StatTrak™ MP7 | Urban Hazard (Field-Tested)",
+    "price": 0.2,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MP7 | Urban Hazard",
+    "id": "skin-2164104"
+  },
+  {
+    "name": "MP7 | Urban Hazard (Field-Tested)",
+    "price": 0.05,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MP7 | Urban Hazard",
+    "id": "skin-2164104"
+  }
+]

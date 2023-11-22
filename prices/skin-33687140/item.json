@@ -1,0 +1,38 @@
+[
+  {
+    "name": "★ StatTrak™ Bowie Knife | Tiger Tooth (Minimal Wear)",
+    "price": 4921.73,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Bowie Knife | Tiger Tooth",
+    "id": "skin-33687140"
+  },
+  {
+    "name": "★ Bowie Knife | Tiger Tooth (Factory New)",
+    "price": 241.28,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Bowie Knife | Tiger Tooth",
+    "id": "skin-33687140"
+  },
+  {
+    "name": "★ StatTrak™ Bowie Knife | Tiger Tooth (Factory New)",
+    "price": 287.97,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Bowie Knife | Tiger Tooth",
+    "id": "skin-33687140"
+  },
+  {
+    "name": "★ Bowie Knife | Tiger Tooth (Minimal Wear)",
+    "price": 266.03,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Bowie Knife | Tiger Tooth",
+    "id": "skin-33687140"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "name": "★ Talon Knife | Case Hardened (Battle-Scarred)",
+    "price": 370.25,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Talon Knife | Case Hardened",
+    "id": "skin-34275504"
+  },
+  {
+    "name": "★ StatTrak™ Talon Knife | Case Hardened (Minimal Wear)",
+    "price": 542.42,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Talon Knife | Case Hardened",
+    "id": "skin-34275504"
+  },
+  {
+    "name": "★ StatTrak™ Talon Knife | Case Hardened (Battle-Scarred)",
+    "price": 397.68,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Talon Knife | Case Hardened",
+    "id": "skin-34275504"
+  },
+  {
+    "name": "★ StatTrak™ Talon Knife | Case Hardened (Factory New)",
+    "price": 1234.11,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Talon Knife | Case Hardened",
+    "id": "skin-34275504"
+  },
+  {
+    "name": "★ StatTrak™ Talon Knife | Case Hardened (Well-Worn)",
+    "price": 410.84,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Talon Knife | Case Hardened",
+    "id": "skin-34275504"
+  },
+  {
+    "name": "★ Talon Knife | Case Hardened (Field-Tested)",
+    "price": 464.81,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Talon Knife | Case Hardened",
+    "id": "skin-34275504"
+  },
+  {
+    "name": "★ Talon Knife | Case Hardened (Minimal Wear)",
+    "price": 544.41,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Talon Knife | Case Hardened",
+    "id": "skin-34275504"
+  },
+  {
+    "name": "★ StatTrak™ Talon Knife | Case Hardened (Field-Tested)",
+    "price": 479.55,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Talon Knife | Case Hardened",
+    "id": "skin-34275504"
+  },
+  {
+    "name": "★ Talon Knife | Case Hardened (Well-Worn)",
+    "price": 376.42,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Talon Knife | Case Hardened",
+    "id": "skin-34275504"
+  },
+  {
+    "name": "★ Talon Knife | Case Hardened (Factory New)",
+    "price": 896.22,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Talon Knife | Case Hardened",
+    "id": "skin-34275504"
+  }
+]

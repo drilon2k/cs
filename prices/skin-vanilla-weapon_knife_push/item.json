@@ -1,0 +1,20 @@
+[
+  {
+    "name": "★ Shadow Daggers",
+    "price": 129.2,
+    "wear": null,
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Shadow Daggers",
+    "id": "skin-vanilla-weapon_knife_push"
+  },
+  {
+    "name": "★ StatTrak™ Shadow Daggers",
+    "price": 151.67,
+    "wear": null,
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Shadow Daggers",
+    "id": "skin-vanilla-weapon_knife_push"
+  }
+]

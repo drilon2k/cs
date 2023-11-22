@@ -1,0 +1,92 @@
+[
+  {
+    "name": "★ Bayonet | Damascus Steel (Well-Worn)",
+    "price": 246.84,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Bayonet | Damascus Steel",
+    "id": "skin-32769640"
+  },
+  {
+    "name": "★ Bayonet | Damascus Steel (Battle-Scarred)",
+    "price": 246.84,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Bayonet | Damascus Steel",
+    "id": "skin-32769640"
+  },
+  {
+    "name": "★ Bayonet | Damascus Steel (Field-Tested)",
+    "price": 255.47,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Bayonet | Damascus Steel",
+    "id": "skin-32769640"
+  },
+  {
+    "name": "★ StatTrak™ Bayonet | Damascus Steel (Battle-Scarred)",
+    "price": 272.89,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Bayonet | Damascus Steel",
+    "id": "skin-32769640"
+  },
+  {
+    "name": "★ Bayonet | Damascus Steel (Minimal Wear)",
+    "price": 283.86,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Bayonet | Damascus Steel",
+    "id": "skin-32769640"
+  },
+  {
+    "name": "★ StatTrak™ Bayonet | Damascus Steel (Well-Worn)",
+    "price": 294.83,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Bayonet | Damascus Steel",
+    "id": "skin-32769640"
+  },
+  {
+    "name": "★ StatTrak™ Bayonet | Damascus Steel (Minimal Wear)",
+    "price": 313.62,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Bayonet | Damascus Steel",
+    "id": "skin-32769640"
+  },
+  {
+    "name": "★ StatTrak™ Bayonet | Damascus Steel (Factory New)",
+    "price": 352.15,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Bayonet | Damascus Steel",
+    "id": "skin-32769640"
+  },
+  {
+    "name": "★ Bayonet | Damascus Steel (Factory New)",
+    "price": 319.38,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Bayonet | Damascus Steel",
+    "id": "skin-32769640"
+  },
+  {
+    "name": "★ StatTrak™ Bayonet | Damascus Steel (Field-Tested)",
+    "price": 266.03,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Bayonet | Damascus Steel",
+    "id": "skin-32769640"
+  }
+]

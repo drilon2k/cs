@@ -1,0 +1,47 @@
+[
+  {
+    "name": "AK-47 | X-Ray (Battle-Scarred)",
+    "price": 221.25,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AK-47 | X-Ray",
+    "id": "skin-462768"
+  },
+  {
+    "name": "AK-47 | X-Ray (Minimal Wear)",
+    "price": 849.94,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AK-47 | X-Ray",
+    "id": "skin-462768"
+  },
+  {
+    "name": "AK-47 | X-Ray (Factory New)",
+    "price": 1372.68,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AK-47 | X-Ray",
+    "id": "skin-462768"
+  },
+  {
+    "name": "AK-47 | X-Ray (Field-Tested)",
+    "price": 562.24,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AK-47 | X-Ray",
+    "id": "skin-462768"
+  },
+  {
+    "name": "AK-47 | X-Ray (Well-Worn)",
+    "price": 317.94,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AK-47 | X-Ray",
+    "id": "skin-462768"
+  }
+]

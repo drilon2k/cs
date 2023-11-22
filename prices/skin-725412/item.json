@@ -1,0 +1,92 @@
+[
+  {
+    "name": "StatTrak™ G3SG1 | Dream Glade (Factory New)",
+    "price": 2.4,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "G3SG1 | Dream Glade",
+    "id": "skin-725412"
+  },
+  {
+    "name": "StatTrak™ G3SG1 | Dream Glade (Minimal Wear)",
+    "price": 0.8,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "G3SG1 | Dream Glade",
+    "id": "skin-725412"
+  },
+  {
+    "name": "StatTrak™ G3SG1 | Dream Glade (Well-Worn)",
+    "price": 0.28,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "G3SG1 | Dream Glade",
+    "id": "skin-725412"
+  },
+  {
+    "name": "G3SG1 | Dream Glade (Well-Worn)",
+    "price": 0.15,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "G3SG1 | Dream Glade",
+    "id": "skin-725412"
+  },
+  {
+    "name": "G3SG1 | Dream Glade (Field-Tested)",
+    "price": 0.19,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "G3SG1 | Dream Glade",
+    "id": "skin-725412"
+  },
+  {
+    "name": "G3SG1 | Dream Glade (Battle-Scarred)",
+    "price": 0.16,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "G3SG1 | Dream Glade",
+    "id": "skin-725412"
+  },
+  {
+    "name": "G3SG1 | Dream Glade (Minimal Wear)",
+    "price": 0.36,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "G3SG1 | Dream Glade",
+    "id": "skin-725412"
+  },
+  {
+    "name": "G3SG1 | Dream Glade (Factory New)",
+    "price": 0.91,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "G3SG1 | Dream Glade",
+    "id": "skin-725412"
+  },
+  {
+    "name": "StatTrak™ G3SG1 | Dream Glade (Battle-Scarred)",
+    "price": 0.28,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "G3SG1 | Dream Glade",
+    "id": "skin-725412"
+  },
+  {
+    "name": "StatTrak™ G3SG1 | Dream Glade (Field-Tested)",
+    "price": 0.3,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "G3SG1 | Dream Glade",
+    "id": "skin-725412"
+  }
+]

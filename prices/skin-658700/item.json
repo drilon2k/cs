@@ -1,0 +1,92 @@
+[
+  {
+    "name": "StatTrak™ FAMAS | Crypsis (Minimal Wear)",
+    "price": 0.6,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "FAMAS | Crypsis",
+    "id": "skin-658700"
+  },
+  {
+    "name": "FAMAS | Crypsis (Battle-Scarred)",
+    "price": 0.07,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "FAMAS | Crypsis",
+    "id": "skin-658700"
+  },
+  {
+    "name": "FAMAS | Crypsis (Well-Worn)",
+    "price": 0.09,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "FAMAS | Crypsis",
+    "id": "skin-658700"
+  },
+  {
+    "name": "FAMAS | Crypsis (Factory New)",
+    "price": 0.37,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "FAMAS | Crypsis",
+    "id": "skin-658700"
+  },
+  {
+    "name": "StatTrak™ FAMAS | Crypsis (Well-Worn)",
+    "price": 0.23,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "FAMAS | Crypsis",
+    "id": "skin-658700"
+  },
+  {
+    "name": "StatTrak™ FAMAS | Crypsis (Factory New)",
+    "price": 1.34,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "FAMAS | Crypsis",
+    "id": "skin-658700"
+  },
+  {
+    "name": "FAMAS | Crypsis (Field-Tested)",
+    "price": 0.09,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "FAMAS | Crypsis",
+    "id": "skin-658700"
+  },
+  {
+    "name": "FAMAS | Crypsis (Minimal Wear)",
+    "price": 0.19,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "FAMAS | Crypsis",
+    "id": "skin-658700"
+  },
+  {
+    "name": "StatTrak™ FAMAS | Crypsis (Field-Tested)",
+    "price": 0.21,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "FAMAS | Crypsis",
+    "id": "skin-658700"
+  },
+  {
+    "name": "StatTrak™ FAMAS | Crypsis (Battle-Scarred)",
+    "price": 0.2,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "FAMAS | Crypsis",
+    "id": "skin-658700"
+  }
+]

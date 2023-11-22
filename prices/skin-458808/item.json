@@ -1,0 +1,92 @@
+[
+  {
+    "name": "AK-47 | Red Laminate (Battle-Scarred)",
+    "price": 30.61,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AK-47 | Red Laminate",
+    "id": "skin-458808"
+  },
+  {
+    "name": "AK-47 | Red Laminate (Field-Tested)",
+    "price": 30.03,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AK-47 | Red Laminate",
+    "id": "skin-458808"
+  },
+  {
+    "name": "AK-47 | Red Laminate (Factory New)",
+    "price": 367.24,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AK-47 | Red Laminate",
+    "id": "skin-458808"
+  },
+  {
+    "name": "StatTrak™ AK-47 | Red Laminate (Well-Worn)",
+    "price": 100.04,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AK-47 | Red Laminate",
+    "id": "skin-458808"
+  },
+  {
+    "name": "AK-47 | Red Laminate (Minimal Wear)",
+    "price": 49.78,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AK-47 | Red Laminate",
+    "id": "skin-458808"
+  },
+  {
+    "name": "AK-47 | Red Laminate (Well-Worn)",
+    "price": 34.83,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AK-47 | Red Laminate",
+    "id": "skin-458808"
+  },
+  {
+    "name": "StatTrak™ AK-47 | Red Laminate (Field-Tested)",
+    "price": 90.16,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AK-47 | Red Laminate",
+    "id": "skin-458808"
+  },
+  {
+    "name": "StatTrak™ AK-47 | Red Laminate (Minimal Wear)",
+    "price": 218.59,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AK-47 | Red Laminate",
+    "id": "skin-458808"
+  },
+  {
+    "name": "StatTrak™ AK-47 | Red Laminate (Battle-Scarred)",
+    "price": 87.22,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AK-47 | Red Laminate",
+    "id": "skin-458808"
+  },
+  {
+    "name": "StatTrak™ AK-47 | Red Laminate (Factory New)",
+    "price": 959.85,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AK-47 | Red Laminate",
+    "id": "skin-458808"
+  }
+]

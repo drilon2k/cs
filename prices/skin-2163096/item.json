@@ -1,0 +1,47 @@
+[
+  {
+    "name": "MP7 | Whiteout (Field-Tested)",
+    "price": 6.86,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MP7 | Whiteout",
+    "id": "skin-2163096"
+  },
+  {
+    "name": "MP7 | Whiteout (Battle-Scarred)",
+    "price": 32.23,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MP7 | Whiteout",
+    "id": "skin-2163096"
+  },
+  {
+    "name": "MP7 | Whiteout (Well-Worn)",
+    "price": 6.77,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MP7 | Whiteout",
+    "id": "skin-2163096"
+  },
+  {
+    "name": "MP7 | Whiteout (Minimal Wear)",
+    "price": 47.93,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MP7 | Whiteout",
+    "id": "skin-2163096"
+  },
+  {
+    "name": "MP7 | Whiteout (Factory New)",
+    "price": 379.75,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MP7 | Whiteout",
+    "id": "skin-2163096"
+  }
+]

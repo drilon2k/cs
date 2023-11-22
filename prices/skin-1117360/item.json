@@ -1,0 +1,92 @@
+[
+  {
+    "name": "StatTrak™ MAC-10 | Pipe Down (Field-Tested)",
+    "price": 0.65,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MAC-10 | Pipe Down",
+    "id": "skin-1117360"
+  },
+  {
+    "name": "MAC-10 | Pipe Down (Field-Tested)",
+    "price": 0.33,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MAC-10 | Pipe Down",
+    "id": "skin-1117360"
+  },
+  {
+    "name": "StatTrak™ MAC-10 | Pipe Down (Minimal Wear)",
+    "price": 1.46,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MAC-10 | Pipe Down",
+    "id": "skin-1117360"
+  },
+  {
+    "name": "MAC-10 | Pipe Down (Factory New)",
+    "price": 1.45,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MAC-10 | Pipe Down",
+    "id": "skin-1117360"
+  },
+  {
+    "name": "StatTrak™ MAC-10 | Pipe Down (Battle-Scarred)",
+    "price": 0.57,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MAC-10 | Pipe Down",
+    "id": "skin-1117360"
+  },
+  {
+    "name": "StatTrak™ MAC-10 | Pipe Down (Factory New)",
+    "price": 5.8,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MAC-10 | Pipe Down",
+    "id": "skin-1117360"
+  },
+  {
+    "name": "MAC-10 | Pipe Down (Well-Worn)",
+    "price": 0.27,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MAC-10 | Pipe Down",
+    "id": "skin-1117360"
+  },
+  {
+    "name": "MAC-10 | Pipe Down (Minimal Wear)",
+    "price": 0.55,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MAC-10 | Pipe Down",
+    "id": "skin-1117360"
+  },
+  {
+    "name": "StatTrak™ MAC-10 | Pipe Down (Well-Worn)",
+    "price": 0.56,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MAC-10 | Pipe Down",
+    "id": "skin-1117360"
+  },
+  {
+    "name": "MAC-10 | Pipe Down (Battle-Scarred)",
+    "price": 0.27,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MAC-10 | Pipe Down",
+    "id": "skin-1117360"
+  }
+]

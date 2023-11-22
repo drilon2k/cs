@@ -1,0 +1,92 @@
+[
+  {
+    "name": "MP9 | Capillary (Battle-Scarred)",
+    "price": 0.1,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MP9 | Capillary",
+    "id": "skin-2231084"
+  },
+  {
+    "name": "MP9 | Capillary (Well-Worn)",
+    "price": 0.11,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MP9 | Capillary",
+    "id": "skin-2231084"
+  },
+  {
+    "name": "StatTrak™ MP9 | Capillary (Battle-Scarred)",
+    "price": 0.18,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MP9 | Capillary",
+    "id": "skin-2231084"
+  },
+  {
+    "name": "StatTrak™ MP9 | Capillary (Factory New)",
+    "price": 1.06,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MP9 | Capillary",
+    "id": "skin-2231084"
+  },
+  {
+    "name": "StatTrak™ MP9 | Capillary (Minimal Wear)",
+    "price": 0.57,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MP9 | Capillary",
+    "id": "skin-2231084"
+  },
+  {
+    "name": "MP9 | Capillary (Field-Tested)",
+    "price": 0.13,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MP9 | Capillary",
+    "id": "skin-2231084"
+  },
+  {
+    "name": "MP9 | Capillary (Minimal Wear)",
+    "price": 0.19,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MP9 | Capillary",
+    "id": "skin-2231084"
+  },
+  {
+    "name": "StatTrak™ MP9 | Capillary (Well-Worn)",
+    "price": 0.38,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MP9 | Capillary",
+    "id": "skin-2231084"
+  },
+  {
+    "name": "StatTrak™ MP9 | Capillary (Field-Tested)",
+    "price": 0.27,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MP9 | Capillary",
+    "id": "skin-2231084"
+  },
+  {
+    "name": "MP9 | Capillary (Factory New)",
+    "price": 0.28,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MP9 | Capillary",
+    "id": "skin-2231084"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "name": "MAG-7 | Hazard (Battle-Scarred)",
+    "price": 120.68,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MAG-7 | Hazard",
+    "id": "skin-1770264"
+  },
+  {
+    "name": "MAG-7 | Hazard (Field-Tested)",
+    "price": 8.31,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MAG-7 | Hazard",
+    "id": "skin-1770264"
+  },
+  {
+    "name": "MAG-7 | Hazard (Factory New)",
+    "price": 68.43,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MAG-7 | Hazard",
+    "id": "skin-1770264"
+  },
+  {
+    "name": "MAG-7 | Hazard (Minimal Wear)",
+    "price": 11.65,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MAG-7 | Hazard",
+    "id": "skin-1770264"
+  },
+  {
+    "name": "MAG-7 | Hazard (Well-Worn)",
+    "price": 8.42,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MAG-7 | Hazard",
+    "id": "skin-1770264"
+  }
+]

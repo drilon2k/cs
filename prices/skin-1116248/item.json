@@ -1,0 +1,92 @@
+[
+  {
+    "name": "MAC-10 | Lapis Gator (Battle-Scarred)",
+    "price": 0.38,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MAC-10 | Lapis Gator",
+    "id": "skin-1116248"
+  },
+  {
+    "name": "MAC-10 | Lapis Gator (Factory New)",
+    "price": 0.57,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MAC-10 | Lapis Gator",
+    "id": "skin-1116248"
+  },
+  {
+    "name": "StatTrak™ MAC-10 | Lapis Gator (Factory New)",
+    "price": 1.59,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MAC-10 | Lapis Gator",
+    "id": "skin-1116248"
+  },
+  {
+    "name": "StatTrak™ MAC-10 | Lapis Gator (Minimal Wear)",
+    "price": 0.85,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MAC-10 | Lapis Gator",
+    "id": "skin-1116248"
+  },
+  {
+    "name": "MAC-10 | Lapis Gator (Minimal Wear)",
+    "price": 0.43,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MAC-10 | Lapis Gator",
+    "id": "skin-1116248"
+  },
+  {
+    "name": "StatTrak™ MAC-10 | Lapis Gator (Field-Tested)",
+    "price": 0.44,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MAC-10 | Lapis Gator",
+    "id": "skin-1116248"
+  },
+  {
+    "name": "StatTrak™ MAC-10 | Lapis Gator (Well-Worn)",
+    "price": 0.41,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MAC-10 | Lapis Gator",
+    "id": "skin-1116248"
+  },
+  {
+    "name": "MAC-10 | Lapis Gator (Field-Tested)",
+    "price": 0.4,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MAC-10 | Lapis Gator",
+    "id": "skin-1116248"
+  },
+  {
+    "name": "MAC-10 | Lapis Gator (Well-Worn)",
+    "price": 0.36,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MAC-10 | Lapis Gator",
+    "id": "skin-1116248"
+  },
+  {
+    "name": "StatTrak™ MAC-10 | Lapis Gator (Battle-Scarred)",
+    "price": 0.4,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MAC-10 | Lapis Gator",
+    "id": "skin-1116248"
+  }
+]

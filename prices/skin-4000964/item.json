@@ -1,0 +1,92 @@
+[
+  {
+    "name": "StatTrak™ USP-S | Flashback (Well-Worn)",
+    "price": 2.02,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "USP-S | Flashback",
+    "id": "skin-4000964"
+  },
+  {
+    "name": "USP-S | Flashback (Battle-Scarred)",
+    "price": 0.44,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "USP-S | Flashback",
+    "id": "skin-4000964"
+  },
+  {
+    "name": "StatTrak™ USP-S | Flashback (Field-Tested)",
+    "price": 1.04,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "USP-S | Flashback",
+    "id": "skin-4000964"
+  },
+  {
+    "name": "USP-S | Flashback (Minimal Wear)",
+    "price": 0.51,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "USP-S | Flashback",
+    "id": "skin-4000964"
+  },
+  {
+    "name": "StatTrak™ USP-S | Flashback (Minimal Wear)",
+    "price": 1.52,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "USP-S | Flashback",
+    "id": "skin-4000964"
+  },
+  {
+    "name": "StatTrak™ USP-S | Flashback (Factory New)",
+    "price": 2.66,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "USP-S | Flashback",
+    "id": "skin-4000964"
+  },
+  {
+    "name": "USP-S | Flashback (Factory New)",
+    "price": 0.89,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "USP-S | Flashback",
+    "id": "skin-4000964"
+  },
+  {
+    "name": "USP-S | Flashback (Well-Worn)",
+    "price": 0.42,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "USP-S | Flashback",
+    "id": "skin-4000964"
+  },
+  {
+    "name": "StatTrak™ USP-S | Flashback (Battle-Scarred)",
+    "price": 2.03,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "USP-S | Flashback",
+    "id": "skin-4000964"
+  },
+  {
+    "name": "USP-S | Flashback (Field-Tested)",
+    "price": 0.37,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "USP-S | Flashback",
+    "id": "skin-4000964"
+  }
+]

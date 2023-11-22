@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Desert Eagle | Bronze Deco (Field-Tested)",
+    "price": 0.17,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Desert Eagle | Bronze Deco",
+    "id": "skin-67236"
+  },
+  {
+    "name": "StatTrak™ Desert Eagle | Bronze Deco (Well-Worn)",
+    "price": 0.74,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Desert Eagle | Bronze Deco",
+    "id": "skin-67236"
+  },
+  {
+    "name": "Desert Eagle | Bronze Deco (Factory New)",
+    "price": 0.66,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Desert Eagle | Bronze Deco",
+    "id": "skin-67236"
+  },
+  {
+    "name": "StatTrak™ Desert Eagle | Bronze Deco (Minimal Wear)",
+    "price": 1.08,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Desert Eagle | Bronze Deco",
+    "id": "skin-67236"
+  },
+  {
+    "name": "StatTrak™ Desert Eagle | Bronze Deco (Battle-Scarred)",
+    "price": 3.22,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Desert Eagle | Bronze Deco",
+    "id": "skin-67236"
+  },
+  {
+    "name": "Desert Eagle | Bronze Deco (Well-Worn)",
+    "price": 0.17,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Desert Eagle | Bronze Deco",
+    "id": "skin-67236"
+  },
+  {
+    "name": "Desert Eagle | Bronze Deco (Battle-Scarred)",
+    "price": 0.54,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Desert Eagle | Bronze Deco",
+    "id": "skin-67236"
+  },
+  {
+    "name": "Desert Eagle | Bronze Deco (Minimal Wear)",
+    "price": 0.36,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Desert Eagle | Bronze Deco",
+    "id": "skin-67236"
+  },
+  {
+    "name": "StatTrak™ Desert Eagle | Bronze Deco (Field-Tested)",
+    "price": 0.54,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Desert Eagle | Bronze Deco",
+    "id": "skin-67236"
+  },
+  {
+    "name": "StatTrak™ Desert Eagle | Bronze Deco (Factory New)",
+    "price": 1.84,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Desert Eagle | Bronze Deco",
+    "id": "skin-67236"
+  }
+]

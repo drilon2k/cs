@@ -1,0 +1,92 @@
+[
+  {
+    "name": "FAMAS | Rapid Eye Movement (Field-Tested)",
+    "price": 1.08,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "FAMAS | Rapid Eye Movement",
+    "id": "skin-659868"
+  },
+  {
+    "name": "StatTrak™ FAMAS | Rapid Eye Movement (Minimal Wear)",
+    "price": 4.79,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "FAMAS | Rapid Eye Movement",
+    "id": "skin-659868"
+  },
+  {
+    "name": "FAMAS | Rapid Eye Movement (Battle-Scarred)",
+    "price": 0.87,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "FAMAS | Rapid Eye Movement",
+    "id": "skin-659868"
+  },
+  {
+    "name": "StatTrak™ FAMAS | Rapid Eye Movement (Factory New)",
+    "price": 16.05,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "FAMAS | Rapid Eye Movement",
+    "id": "skin-659868"
+  },
+  {
+    "name": "FAMAS | Rapid Eye Movement (Minimal Wear)",
+    "price": 2.26,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "FAMAS | Rapid Eye Movement",
+    "id": "skin-659868"
+  },
+  {
+    "name": "FAMAS | Rapid Eye Movement (Factory New)",
+    "price": 6.43,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "FAMAS | Rapid Eye Movement",
+    "id": "skin-659868"
+  },
+  {
+    "name": "StatTrak™ FAMAS | Rapid Eye Movement (Field-Tested)",
+    "price": 2.1,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "FAMAS | Rapid Eye Movement",
+    "id": "skin-659868"
+  },
+  {
+    "name": "StatTrak™ FAMAS | Rapid Eye Movement (Well-Worn)",
+    "price": 1.6,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "FAMAS | Rapid Eye Movement",
+    "id": "skin-659868"
+  },
+  {
+    "name": "StatTrak™ FAMAS | Rapid Eye Movement (Battle-Scarred)",
+    "price": 1.78,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "FAMAS | Rapid Eye Movement",
+    "id": "skin-659868"
+  },
+  {
+    "name": "FAMAS | Rapid Eye Movement (Well-Worn)",
+    "price": 0.82,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "FAMAS | Rapid Eye Movement",
+    "id": "skin-659868"
+  }
+]

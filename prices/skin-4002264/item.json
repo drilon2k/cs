@@ -1,0 +1,92 @@
+[
+  {
+    "name": "StatTrak™ USP-S | Printstream (Minimal Wear)",
+    "price": 95.72,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "USP-S | Printstream",
+    "id": "skin-4002264"
+  },
+  {
+    "name": "USP-S | Printstream (Field-Tested)",
+    "price": 27.43,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "USP-S | Printstream",
+    "id": "skin-4002264"
+  },
+  {
+    "name": "StatTrak™ USP-S | Printstream (Battle-Scarred)",
+    "price": 44.7,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "USP-S | Printstream",
+    "id": "skin-4002264"
+  },
+  {
+    "name": "StatTrak™ USP-S | Printstream (Well-Worn)",
+    "price": 52.8,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "USP-S | Printstream",
+    "id": "skin-4002264"
+  },
+  {
+    "name": "USP-S | Printstream (Factory New)",
+    "price": 84.88,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "USP-S | Printstream",
+    "id": "skin-4002264"
+  },
+  {
+    "name": "StatTrak™ USP-S | Printstream (Field-Tested)",
+    "price": 56.29,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "USP-S | Printstream",
+    "id": "skin-4002264"
+  },
+  {
+    "name": "USP-S | Printstream (Minimal Wear)",
+    "price": 44.59,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "USP-S | Printstream",
+    "id": "skin-4002264"
+  },
+  {
+    "name": "USP-S | Printstream (Battle-Scarred)",
+    "price": 20.08,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "USP-S | Printstream",
+    "id": "skin-4002264"
+  },
+  {
+    "name": "StatTrak™ USP-S | Printstream (Factory New)",
+    "price": 237.92,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "USP-S | Printstream",
+    "id": "skin-4002264"
+  },
+  {
+    "name": "USP-S | Printstream (Well-Worn)",
+    "price": 25.83,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "USP-S | Printstream",
+    "id": "skin-4002264"
+  }
+]

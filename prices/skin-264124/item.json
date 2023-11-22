@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Glock-18 | Wraiths (Battle-Scarred)",
+    "price": 0.12,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Glock-18 | Wraiths",
+    "id": "skin-264124"
+  },
+  {
+    "name": "StatTrak™ Glock-18 | Wraiths (Well-Worn)",
+    "price": 1.42,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Glock-18 | Wraiths",
+    "id": "skin-264124"
+  },
+  {
+    "name": "StatTrak™ Glock-18 | Wraiths (Factory New)",
+    "price": 3.54,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Glock-18 | Wraiths",
+    "id": "skin-264124"
+  },
+  {
+    "name": "Glock-18 | Wraiths (Minimal Wear)",
+    "price": 0.25,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Glock-18 | Wraiths",
+    "id": "skin-264124"
+  },
+  {
+    "name": "Glock-18 | Wraiths (Well-Worn)",
+    "price": 0.3,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Glock-18 | Wraiths",
+    "id": "skin-264124"
+  },
+  {
+    "name": "StatTrak™ Glock-18 | Wraiths (Field-Tested)",
+    "price": 0.26,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Glock-18 | Wraiths",
+    "id": "skin-264124"
+  },
+  {
+    "name": "Glock-18 | Wraiths (Field-Tested)",
+    "price": 0.12,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Glock-18 | Wraiths",
+    "id": "skin-264124"
+  },
+  {
+    "name": "StatTrak™ Glock-18 | Wraiths (Battle-Scarred)",
+    "price": 0.29,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Glock-18 | Wraiths",
+    "id": "skin-264124"
+  },
+  {
+    "name": "Glock-18 | Wraiths (Factory New)",
+    "price": 0.62,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Glock-18 | Wraiths",
+    "id": "skin-264124"
+  },
+  {
+    "name": "StatTrak™ Glock-18 | Wraiths (Minimal Wear)",
+    "price": 0.8,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Glock-18 | Wraiths",
+    "id": "skin-264124"
+  }
+]

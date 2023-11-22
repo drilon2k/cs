@@ -1,0 +1,38 @@
+[
+  {
+    "name": "StatTrak™ FAMAS | Doomkitty (Minimal Wear)",
+    "price": 2.78,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "FAMAS | Doomkitty",
+    "id": "skin-656072"
+  },
+  {
+    "name": "FAMAS | Doomkitty (Minimal Wear)",
+    "price": 2.4,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "FAMAS | Doomkitty",
+    "id": "skin-656072"
+  },
+  {
+    "name": "FAMAS | Doomkitty (Field-Tested)",
+    "price": 2.41,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "FAMAS | Doomkitty",
+    "id": "skin-656072"
+  },
+  {
+    "name": "StatTrak™ FAMAS | Doomkitty (Field-Tested)",
+    "price": 3.43,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "FAMAS | Doomkitty",
+    "id": "skin-656072"
+  }
+]

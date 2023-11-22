@@ -1,0 +1,38 @@
+[
+  {
+    "name": "AWP | Pit Viper (Battle-Scarred)",
+    "price": 0.47,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AWP | Pit Viper",
+    "id": "skin-590828"
+  },
+  {
+    "name": "AWP | Pit Viper (Minimal Wear)",
+    "price": 0.42,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AWP | Pit Viper",
+    "id": "skin-590828"
+  },
+  {
+    "name": "AWP | Pit Viper (Field-Tested)",
+    "price": 0.26,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AWP | Pit Viper",
+    "id": "skin-590828"
+  },
+  {
+    "name": "AWP | Pit Viper (Well-Worn)",
+    "price": 0.42,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AWP | Pit Viper",
+    "id": "skin-590828"
+  }
+]

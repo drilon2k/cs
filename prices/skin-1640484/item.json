@@ -1,0 +1,92 @@
+[
+  {
+    "name": "StatTrak™ XM1014 | Teclu Burner (Factory New)",
+    "price": 7.79,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "XM1014 | Teclu Burner",
+    "id": "skin-1640484"
+  },
+  {
+    "name": "StatTrak™ XM1014 | Teclu Burner (Well-Worn)",
+    "price": 3.06,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "XM1014 | Teclu Burner",
+    "id": "skin-1640484"
+  },
+  {
+    "name": "XM1014 | Teclu Burner (Minimal Wear)",
+    "price": 0.95,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "XM1014 | Teclu Burner",
+    "id": "skin-1640484"
+  },
+  {
+    "name": "StatTrak™ XM1014 | Teclu Burner (Field-Tested)",
+    "price": 1.46,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "XM1014 | Teclu Burner",
+    "id": "skin-1640484"
+  },
+  {
+    "name": "StatTrak™ XM1014 | Teclu Burner (Minimal Wear)",
+    "price": 3.55,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "XM1014 | Teclu Burner",
+    "id": "skin-1640484"
+  },
+  {
+    "name": "XM1014 | Teclu Burner (Well-Worn)",
+    "price": 0.89,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "XM1014 | Teclu Burner",
+    "id": "skin-1640484"
+  },
+  {
+    "name": "XM1014 | Teclu Burner (Field-Tested)",
+    "price": 0.57,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "XM1014 | Teclu Burner",
+    "id": "skin-1640484"
+  },
+  {
+    "name": "XM1014 | Teclu Burner (Battle-Scarred)",
+    "price": 0.55,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "XM1014 | Teclu Burner",
+    "id": "skin-1640484"
+  },
+  {
+    "name": "StatTrak™ XM1014 | Teclu Burner (Battle-Scarred)",
+    "price": 2.04,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "XM1014 | Teclu Burner",
+    "id": "skin-1640484"
+  },
+  {
+    "name": "XM1014 | Teclu Burner (Factory New)",
+    "price": 1.85,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "XM1014 | Teclu Burner",
+    "id": "skin-1640484"
+  }
+]

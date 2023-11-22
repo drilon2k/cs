@@ -1,0 +1,56 @@
+[
+  {
+    "name": "★ Survival Knife | Slaughter (Field-Tested)",
+    "price": 230.23,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Survival Knife | Slaughter",
+    "id": "skin-33947884"
+  },
+  {
+    "name": "★ StatTrak™ Survival Knife | Slaughter (Field-Tested)",
+    "price": 281.12,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Survival Knife | Slaughter",
+    "id": "skin-33947884"
+  },
+  {
+    "name": "★ StatTrak™ Survival Knife | Slaughter (Minimal Wear)",
+    "price": 239.29,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Survival Knife | Slaughter",
+    "id": "skin-33947884"
+  },
+  {
+    "name": "★ Survival Knife | Slaughter (Factory New)",
+    "price": 255.06,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Survival Knife | Slaughter",
+    "id": "skin-33947884"
+  },
+  {
+    "name": "★ Survival Knife | Slaughter (Minimal Wear)",
+    "price": 218.04,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Survival Knife | Slaughter",
+    "id": "skin-33947884"
+  },
+  {
+    "name": "★ StatTrak™ Survival Knife | Slaughter (Factory New)",
+    "price": 322.05,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Survival Knife | Slaughter",
+    "id": "skin-33947884"
+  }
+]

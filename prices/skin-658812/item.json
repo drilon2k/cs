@@ -1,0 +1,47 @@
+[
+  {
+    "name": "FAMAS | Night Borre (Well-Worn)",
+    "price": 2.9,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "FAMAS | Night Borre",
+    "id": "skin-658812"
+  },
+  {
+    "name": "FAMAS | Night Borre (Field-Tested)",
+    "price": 2.56,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "FAMAS | Night Borre",
+    "id": "skin-658812"
+  },
+  {
+    "name": "FAMAS | Night Borre (Battle-Scarred)",
+    "price": 2.74,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "FAMAS | Night Borre",
+    "id": "skin-658812"
+  },
+  {
+    "name": "FAMAS | Night Borre (Factory New)",
+    "price": 3.2,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "FAMAS | Night Borre",
+    "id": "skin-658812"
+  },
+  {
+    "name": "FAMAS | Night Borre (Minimal Wear)",
+    "price": 2.73,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "FAMAS | Night Borre",
+    "id": "skin-658812"
+  }
+]

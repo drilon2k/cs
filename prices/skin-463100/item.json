@@ -1,0 +1,92 @@
+[
+  {
+    "name": "StatTrak™ AK-47 | Leet Museo (Battle-Scarred)",
+    "price": 38.19,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AK-47 | Leet Museo",
+    "id": "skin-463100"
+  },
+  {
+    "name": "AK-47 | Leet Museo (Field-Tested)",
+    "price": 12.59,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AK-47 | Leet Museo",
+    "id": "skin-463100"
+  },
+  {
+    "name": "StatTrak™ AK-47 | Leet Museo (Well-Worn)",
+    "price": 52.45,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AK-47 | Leet Museo",
+    "id": "skin-463100"
+  },
+  {
+    "name": "StatTrak™ AK-47 | Leet Museo (Field-Tested)",
+    "price": 40.78,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AK-47 | Leet Museo",
+    "id": "skin-463100"
+  },
+  {
+    "name": "AK-47 | Leet Museo (Minimal Wear)",
+    "price": 19.47,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AK-47 | Leet Museo",
+    "id": "skin-463100"
+  },
+  {
+    "name": "AK-47 | Leet Museo (Battle-Scarred)",
+    "price": 13.5,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AK-47 | Leet Museo",
+    "id": "skin-463100"
+  },
+  {
+    "name": "StatTrak™ AK-47 | Leet Museo (Factory New)",
+    "price": 134.39,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AK-47 | Leet Museo",
+    "id": "skin-463100"
+  },
+  {
+    "name": "AK-47 | Leet Museo (Well-Worn)",
+    "price": 15.1,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AK-47 | Leet Museo",
+    "id": "skin-463100"
+  },
+  {
+    "name": "StatTrak™ AK-47 | Leet Museo (Minimal Wear)",
+    "price": 65.2,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AK-47 | Leet Museo",
+    "id": "skin-463100"
+  },
+  {
+    "name": "AK-47 | Leet Museo (Factory New)",
+    "price": 40.87,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AK-47 | Leet Museo",
+    "id": "skin-463100"
+  }
+]

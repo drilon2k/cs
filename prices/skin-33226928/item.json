@@ -1,0 +1,92 @@
+[
+  {
+    "name": "★ Karambit | Case Hardened (Minimal Wear)",
+    "price": 870.23,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Karambit | Case Hardened",
+    "id": "skin-33226928"
+  },
+  {
+    "name": "★ Karambit | Case Hardened (Factory New)",
+    "price": 1439.6,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Karambit | Case Hardened",
+    "id": "skin-33226928"
+  },
+  {
+    "name": "★ Karambit | Case Hardened (Battle-Scarred)",
+    "price": 583.77,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Karambit | Case Hardened",
+    "id": "skin-33226928"
+  },
+  {
+    "name": "★ StatTrak™ Karambit | Case Hardened (Minimal Wear)",
+    "price": 987.21,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Karambit | Case Hardened",
+    "id": "skin-33226928"
+  },
+  {
+    "name": "★ StatTrak™ Karambit | Case Hardened (Factory New)",
+    "price": 5028.04,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Karambit | Case Hardened",
+    "id": "skin-33226928"
+  },
+  {
+    "name": "★ Karambit | Case Hardened (Well-Worn)",
+    "price": 658.16,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Karambit | Case Hardened",
+    "id": "skin-33226928"
+  },
+  {
+    "name": "★ Karambit | Case Hardened (Field-Tested)",
+    "price": 793.37,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Karambit | Case Hardened",
+    "id": "skin-33226928"
+  },
+  {
+    "name": "★ StatTrak™ Karambit | Case Hardened (Battle-Scarred)",
+    "price": 615.03,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Karambit | Case Hardened",
+    "id": "skin-33226928"
+  },
+  {
+    "name": "★ StatTrak™ Karambit | Case Hardened (Well-Worn)",
+    "price": 651.37,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Karambit | Case Hardened",
+    "id": "skin-33226928"
+  },
+  {
+    "name": "★ StatTrak™ Karambit | Case Hardened (Field-Tested)",
+    "price": 806.33,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Karambit | Case Hardened",
+    "id": "skin-33226928"
+  }
+]

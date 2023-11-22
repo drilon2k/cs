@@ -1,0 +1,92 @@
+[
+  {
+    "name": "UMP-45 | Gold Bismuth (Field-Tested)",
+    "price": 1.84,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "UMP-45 | Gold Bismuth",
+    "id": "skin-1576824"
+  },
+  {
+    "name": "UMP-45 | Gold Bismuth (Factory New)",
+    "price": 4.37,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "UMP-45 | Gold Bismuth",
+    "id": "skin-1576824"
+  },
+  {
+    "name": "StatTrak™ UMP-45 | Gold Bismuth (Factory New)",
+    "price": 8.42,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "UMP-45 | Gold Bismuth",
+    "id": "skin-1576824"
+  },
+  {
+    "name": "StatTrak™ UMP-45 | Gold Bismuth (Battle-Scarred)",
+    "price": 2.08,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "UMP-45 | Gold Bismuth",
+    "id": "skin-1576824"
+  },
+  {
+    "name": "UMP-45 | Gold Bismuth (Battle-Scarred)",
+    "price": 1.77,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "UMP-45 | Gold Bismuth",
+    "id": "skin-1576824"
+  },
+  {
+    "name": "StatTrak™ UMP-45 | Gold Bismuth (Well-Worn)",
+    "price": 2.3,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "UMP-45 | Gold Bismuth",
+    "id": "skin-1576824"
+  },
+  {
+    "name": "StatTrak™ UMP-45 | Gold Bismuth (Field-Tested)",
+    "price": 2.34,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "UMP-45 | Gold Bismuth",
+    "id": "skin-1576824"
+  },
+  {
+    "name": "StatTrak™ UMP-45 | Gold Bismuth (Minimal Wear)",
+    "price": 5.04,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "UMP-45 | Gold Bismuth",
+    "id": "skin-1576824"
+  },
+  {
+    "name": "UMP-45 | Gold Bismuth (Well-Worn)",
+    "price": 1.56,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "UMP-45 | Gold Bismuth",
+    "id": "skin-1576824"
+  },
+  {
+    "name": "UMP-45 | Gold Bismuth (Minimal Wear)",
+    "price": 2.71,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "UMP-45 | Gold Bismuth",
+    "id": "skin-1576824"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "name": "★ StatTrak™ Bayonet | Ultraviolet (Well-Worn)",
+    "price": 219.41,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Bayonet | Ultraviolet",
+    "id": "skin-32768392"
+  },
+  {
+    "name": "★ StatTrak™ Bayonet | Ultraviolet (Field-Tested)",
+    "price": 201.58,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Bayonet | Ultraviolet",
+    "id": "skin-32768392"
+  },
+  {
+    "name": "★ Bayonet | Ultraviolet (Well-Worn)",
+    "price": 186.77,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Bayonet | Ultraviolet",
+    "id": "skin-32768392"
+  },
+  {
+    "name": "★ Bayonet | Ultraviolet (Field-Tested)",
+    "price": 191.98,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Bayonet | Ultraviolet",
+    "id": "skin-32768392"
+  },
+  {
+    "name": "★ Bayonet | Ultraviolet (Factory New)",
+    "price": 639.85,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Bayonet | Ultraviolet",
+    "id": "skin-32768392"
+  },
+  {
+    "name": "★ Bayonet | Ultraviolet (Battle-Scarred)",
+    "price": 181.7,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Bayonet | Ultraviolet",
+    "id": "skin-32768392"
+  },
+  {
+    "name": "★ StatTrak™ Bayonet | Ultraviolet (Minimal Wear)",
+    "price": 301.55,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Bayonet | Ultraviolet",
+    "id": "skin-32768392"
+  },
+  {
+    "name": "★ StatTrak™ Bayonet | Ultraviolet (Factory New)",
+    "price": 0,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Bayonet | Ultraviolet",
+    "id": "skin-32768392"
+  },
+  {
+    "name": "★ StatTrak™ Bayonet | Ultraviolet (Battle-Scarred)",
+    "price": 209.12,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Bayonet | Ultraviolet",
+    "id": "skin-32768392"
+  },
+  {
+    "name": "★ Bayonet | Ultraviolet (Minimal Wear)",
+    "price": 299.91,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Bayonet | Ultraviolet",
+    "id": "skin-32768392"
+  }
+]

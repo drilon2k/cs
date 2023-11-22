@@ -1,0 +1,47 @@
+[
+  {
+    "name": "UMP-45 | Facility Dark (Battle-Scarred)",
+    "price": 0.01,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "UMP-45 | Facility Dark",
+    "id": "skin-1575976"
+  },
+  {
+    "name": "UMP-45 | Facility Dark (Field-Tested)",
+    "price": 0.01,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "UMP-45 | Facility Dark",
+    "id": "skin-1575976"
+  },
+  {
+    "name": "UMP-45 | Facility Dark (Well-Worn)",
+    "price": 0.01,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "UMP-45 | Facility Dark",
+    "id": "skin-1575976"
+  },
+  {
+    "name": "UMP-45 | Facility Dark (Factory New)",
+    "price": 0.03,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "UMP-45 | Facility Dark",
+    "id": "skin-1575976"
+  },
+  {
+    "name": "UMP-45 | Facility Dark (Minimal Wear)",
+    "price": 0.01,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "UMP-45 | Facility Dark",
+    "id": "skin-1575976"
+  }
+]

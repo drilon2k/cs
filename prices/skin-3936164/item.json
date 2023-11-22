@@ -1,0 +1,47 @@
+[
+  {
+    "name": "M4A1-S | Welcome to the Jungle (Well-Worn)",
+    "price": 582.67,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M4A1-S | Welcome to the Jungle",
+    "id": "skin-3936164"
+  },
+  {
+    "name": "M4A1-S | Welcome to the Jungle (Field-Tested)",
+    "price": 913.15,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M4A1-S | Welcome to the Jungle",
+    "id": "skin-3936164"
+  },
+  {
+    "name": "M4A1-S | Welcome to the Jungle (Factory New)",
+    "price": 1823.29,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M4A1-S | Welcome to the Jungle",
+    "id": "skin-3936164"
+  },
+  {
+    "name": "M4A1-S | Welcome to the Jungle (Minimal Wear)",
+    "price": 1411.08,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M4A1-S | Welcome to the Jungle",
+    "id": "skin-3936164"
+  },
+  {
+    "name": "M4A1-S | Welcome to the Jungle (Battle-Scarred)",
+    "price": 500.46,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M4A1-S | Welcome to the Jungle",
+    "id": "skin-3936164"
+  }
+]

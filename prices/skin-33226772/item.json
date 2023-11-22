@@ -1,0 +1,92 @@
+[
+  {
+    "name": "★ Karambit | Forest DDPAT (Well-Worn)",
+    "price": 354.48,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Karambit | Forest DDPAT",
+    "id": "skin-33226772"
+  },
+  {
+    "name": "★ StatTrak™ Karambit | Forest DDPAT (Minimal Wear)",
+    "price": 479.96,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Karambit | Forest DDPAT",
+    "id": "skin-33226772"
+  },
+  {
+    "name": "★ Karambit | Forest DDPAT (Battle-Scarred)",
+    "price": 356.54,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Karambit | Forest DDPAT",
+    "id": "skin-33226772"
+  },
+  {
+    "name": "★ StatTrak™ Karambit | Forest DDPAT (Well-Worn)",
+    "price": 353.8,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Karambit | Forest DDPAT",
+    "id": "skin-33226772"
+  },
+  {
+    "name": "★ StatTrak™ Karambit | Forest DDPAT (Factory New)",
+    "price": 0,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Karambit | Forest DDPAT",
+    "id": "skin-33226772"
+  },
+  {
+    "name": "★ StatTrak™ Karambit | Forest DDPAT (Battle-Scarred)",
+    "price": 368.61,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Karambit | Forest DDPAT",
+    "id": "skin-33226772"
+  },
+  {
+    "name": "★ Karambit | Forest DDPAT (Factory New)",
+    "price": 629.16,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Karambit | Forest DDPAT",
+    "id": "skin-33226772"
+  },
+  {
+    "name": "★ Karambit | Forest DDPAT (Minimal Wear)",
+    "price": 397.68,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Karambit | Forest DDPAT",
+    "id": "skin-33226772"
+  },
+  {
+    "name": "★ StatTrak™ Karambit | Forest DDPAT (Field-Tested)",
+    "price": 379.85,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Karambit | Forest DDPAT",
+    "id": "skin-33226772"
+  },
+  {
+    "name": "★ Karambit | Forest DDPAT (Field-Tested)",
+    "price": 368.59,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Karambit | Forest DDPAT",
+    "id": "skin-33226772"
+  }
+]

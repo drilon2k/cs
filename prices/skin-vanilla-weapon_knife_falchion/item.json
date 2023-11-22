@@ -1,0 +1,20 @@
+[
+  {
+    "name": "★ StatTrak™ Falchion Knife",
+    "price": 170.83,
+    "wear": null,
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Falchion Knife",
+    "id": "skin-vanilla-weapon_knife_falchion"
+  },
+  {
+    "name": "★ Falchion Knife",
+    "price": 148.29,
+    "wear": null,
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Falchion Knife",
+    "id": "skin-vanilla-weapon_knife_falchion"
+  }
+]

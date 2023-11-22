@@ -1,0 +1,47 @@
+[
+  {
+    "name": "MP9 | Bulldozer (Battle-Scarred)",
+    "price": 68.57,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MP9 | Bulldozer",
+    "id": "skin-2228380"
+  },
+  {
+    "name": "MP9 | Bulldozer (Well-Worn)",
+    "price": 45.25,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MP9 | Bulldozer",
+    "id": "skin-2228380"
+  },
+  {
+    "name": "MP9 | Bulldozer (Minimal Wear)",
+    "price": 124.79,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MP9 | Bulldozer",
+    "id": "skin-2228380"
+  },
+  {
+    "name": "MP9 | Bulldozer (Factory New)",
+    "price": 438.82,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MP9 | Bulldozer",
+    "id": "skin-2228380"
+  },
+  {
+    "name": "MP9 | Bulldozer (Field-Tested)",
+    "price": 41.14,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MP9 | Bulldozer",
+    "id": "skin-2228380"
+  }
+]

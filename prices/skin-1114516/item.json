@@ -1,0 +1,47 @@
+[
+  {
+    "name": "MAC-10 | Tornado (Field-Tested)",
+    "price": 1.1,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MAC-10 | Tornado",
+    "id": "skin-1114516"
+  },
+  {
+    "name": "MAC-10 | Tornado (Minimal Wear)",
+    "price": 1.94,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MAC-10 | Tornado",
+    "id": "skin-1114516"
+  },
+  {
+    "name": "MAC-10 | Tornado (Well-Worn)",
+    "price": 13.58,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MAC-10 | Tornado",
+    "id": "skin-1114516"
+  },
+  {
+    "name": "MAC-10 | Tornado (Factory New)",
+    "price": 31.54,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MAC-10 | Tornado",
+    "id": "skin-1114516"
+  },
+  {
+    "name": "MAC-10 | Tornado (Battle-Scarred)",
+    "price": 1.58,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MAC-10 | Tornado",
+    "id": "skin-1114516"
+  }
+]

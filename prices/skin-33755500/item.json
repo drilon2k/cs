@@ -1,0 +1,92 @@
+[
+  {
+    "name": "★ Butterfly Knife | Autotronic (Factory New)",
+    "price": 1982.91,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Butterfly Knife | Autotronic",
+    "id": "skin-33755500"
+  },
+  {
+    "name": "★ StatTrak™ Butterfly Knife | Autotronic (Field-Tested)",
+    "price": 994.2,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Butterfly Knife | Autotronic",
+    "id": "skin-33755500"
+  },
+  {
+    "name": "★ Butterfly Knife | Autotronic (Minimal Wear)",
+    "price": 1179.33,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Butterfly Knife | Autotronic",
+    "id": "skin-33755500"
+  },
+  {
+    "name": "★ StatTrak™ Butterfly Knife | Autotronic (Factory New)",
+    "price": 1988.33,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Butterfly Knife | Autotronic",
+    "id": "skin-33755500"
+  },
+  {
+    "name": "★ Butterfly Knife | Autotronic (Field-Tested)",
+    "price": 987.34,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Butterfly Knife | Autotronic",
+    "id": "skin-33755500"
+  },
+  {
+    "name": "★ Butterfly Knife | Autotronic (Battle-Scarred)",
+    "price": 754.08,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Butterfly Knife | Autotronic",
+    "id": "skin-33755500"
+  },
+  {
+    "name": "★ StatTrak™ Butterfly Knife | Autotronic (Minimal Wear)",
+    "price": 1182.62,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Butterfly Knife | Autotronic",
+    "id": "skin-33755500"
+  },
+  {
+    "name": "★ Butterfly Knife | Autotronic (Well-Worn)",
+    "price": 932.49,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Butterfly Knife | Autotronic",
+    "id": "skin-33755500"
+  },
+  {
+    "name": "★ StatTrak™ Butterfly Knife | Autotronic (Well-Worn)",
+    "price": 1035.34,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Butterfly Knife | Autotronic",
+    "id": "skin-33755500"
+  },
+  {
+    "name": "★ StatTrak™ Butterfly Knife | Autotronic (Battle-Scarred)",
+    "price": 863.72,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Butterfly Knife | Autotronic",
+    "id": "skin-33755500"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "name": "StatTrak™ USP-S | Orion (Field-Tested)",
+    "price": 82,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "USP-S | Orion",
+    "id": "skin-3998948"
+  },
+  {
+    "name": "USP-S | Orion (Minimal Wear)",
+    "price": 38.53,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "USP-S | Orion",
+    "id": "skin-3998948"
+  },
+  {
+    "name": "StatTrak™ USP-S | Orion (Factory New)",
+    "price": 100.79,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "USP-S | Orion",
+    "id": "skin-3998948"
+  },
+  {
+    "name": "StatTrak™ USP-S | Orion (Well-Worn)",
+    "price": 100.46,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "USP-S | Orion",
+    "id": "skin-3998948"
+  },
+  {
+    "name": "USP-S | Orion (Factory New)",
+    "price": 43.95,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "USP-S | Orion",
+    "id": "skin-3998948"
+  },
+  {
+    "name": "StatTrak™ USP-S | Orion (Minimal Wear)",
+    "price": 79.47,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "USP-S | Orion",
+    "id": "skin-3998948"
+  },
+  {
+    "name": "USP-S | Orion (Field-Tested)",
+    "price": 38.4,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "USP-S | Orion",
+    "id": "skin-3998948"
+  },
+  {
+    "name": "USP-S | Orion (Battle-Scarred)",
+    "price": 75.42,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "USP-S | Orion",
+    "id": "skin-3998948"
+  },
+  {
+    "name": "StatTrak™ USP-S | Orion (Battle-Scarred)",
+    "price": 548.52,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "USP-S | Orion",
+    "id": "skin-3998948"
+  },
+  {
+    "name": "USP-S | Orion (Well-Worn)",
+    "price": 49.16,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "USP-S | Orion",
+    "id": "skin-3998948"
+  }
+]

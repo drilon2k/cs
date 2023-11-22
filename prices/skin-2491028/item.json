@@ -1,0 +1,47 @@
+[
+  {
+    "name": "SCAR-20 | Splash Jam (Well-Worn)",
+    "price": 6.03,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "SCAR-20 | Splash Jam",
+    "id": "skin-2491028"
+  },
+  {
+    "name": "SCAR-20 | Splash Jam (Field-Tested)",
+    "price": 5.83,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "SCAR-20 | Splash Jam",
+    "id": "skin-2491028"
+  },
+  {
+    "name": "SCAR-20 | Splash Jam (Battle-Scarred)",
+    "price": 8.48,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "SCAR-20 | Splash Jam",
+    "id": "skin-2491028"
+  },
+  {
+    "name": "SCAR-20 | Splash Jam (Minimal Wear)",
+    "price": 26.05,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "SCAR-20 | Splash Jam",
+    "id": "skin-2491028"
+  },
+  {
+    "name": "SCAR-20 | Splash Jam (Factory New)",
+    "price": 1083.33,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "SCAR-20 | Splash Jam",
+    "id": "skin-2491028"
+  }
+]

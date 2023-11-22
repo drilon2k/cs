@@ -1,0 +1,74 @@
+[
+  {
+    "name": "P250 | Asiimov (Field-Tested)",
+    "price": 2.58,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P250 | Asiimov",
+    "id": "skin-2361500"
+  },
+  {
+    "name": "StatTrak™ P250 | Asiimov (Battle-Scarred)",
+    "price": 3.37,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "P250 | Asiimov",
+    "id": "skin-2361500"
+  },
+  {
+    "name": "P250 | Asiimov (Minimal Wear)",
+    "price": 13.38,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P250 | Asiimov",
+    "id": "skin-2361500"
+  },
+  {
+    "name": "P250 | Asiimov (Battle-Scarred)",
+    "price": 1.21,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P250 | Asiimov",
+    "id": "skin-2361500"
+  },
+  {
+    "name": "P250 | Asiimov (Well-Worn)",
+    "price": 1.94,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P250 | Asiimov",
+    "id": "skin-2361500"
+  },
+  {
+    "name": "StatTrak™ P250 | Asiimov (Minimal Wear)",
+    "price": 48.95,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "P250 | Asiimov",
+    "id": "skin-2361500"
+  },
+  {
+    "name": "StatTrak™ P250 | Asiimov (Well-Worn)",
+    "price": 6.84,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "P250 | Asiimov",
+    "id": "skin-2361500"
+  },
+  {
+    "name": "StatTrak™ P250 | Asiimov (Field-Tested)",
+    "price": 8.52,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "P250 | Asiimov",
+    "id": "skin-2361500"
+  }
+]

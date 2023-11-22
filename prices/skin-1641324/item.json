@@ -1,0 +1,47 @@
+[
+  {
+    "name": "XM1014 | Banana Leaf (Factory New)",
+    "price": 13.69,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "XM1014 | Banana Leaf",
+    "id": "skin-1641324"
+  },
+  {
+    "name": "XM1014 | Banana Leaf (Battle-Scarred)",
+    "price": 13.34,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "XM1014 | Banana Leaf",
+    "id": "skin-1641324"
+  },
+  {
+    "name": "XM1014 | Banana Leaf (Well-Worn)",
+    "price": 15.02,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "XM1014 | Banana Leaf",
+    "id": "skin-1641324"
+  },
+  {
+    "name": "XM1014 | Banana Leaf (Minimal Wear)",
+    "price": 13.56,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "XM1014 | Banana Leaf",
+    "id": "skin-1641324"
+  },
+  {
+    "name": "XM1014 | Banana Leaf (Field-Tested)",
+    "price": 13.44,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "XM1014 | Banana Leaf",
+    "id": "skin-1641324"
+  }
+]

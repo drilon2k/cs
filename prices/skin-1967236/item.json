@@ -1,0 +1,74 @@
+[
+  {
+    "name": "StatTrak™ Tec-9 | Sandstorm (Field-Tested)",
+    "price": 0.33,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Tec-9 | Sandstorm",
+    "id": "skin-1967236"
+  },
+  {
+    "name": "Tec-9 | Sandstorm (Minimal Wear)",
+    "price": 0.83,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Tec-9 | Sandstorm",
+    "id": "skin-1967236"
+  },
+  {
+    "name": "Tec-9 | Sandstorm (Battle-Scarred)",
+    "price": 0.19,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Tec-9 | Sandstorm",
+    "id": "skin-1967236"
+  },
+  {
+    "name": "StatTrak™ Tec-9 | Sandstorm (Battle-Scarred)",
+    "price": 0.26,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Tec-9 | Sandstorm",
+    "id": "skin-1967236"
+  },
+  {
+    "name": "Tec-9 | Sandstorm (Well-Worn)",
+    "price": 0.18,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Tec-9 | Sandstorm",
+    "id": "skin-1967236"
+  },
+  {
+    "name": "Tec-9 | Sandstorm (Field-Tested)",
+    "price": 0.17,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Tec-9 | Sandstorm",
+    "id": "skin-1967236"
+  },
+  {
+    "name": "StatTrak™ Tec-9 | Sandstorm (Well-Worn)",
+    "price": 0.64,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Tec-9 | Sandstorm",
+    "id": "skin-1967236"
+  },
+  {
+    "name": "StatTrak™ Tec-9 | Sandstorm (Minimal Wear)",
+    "price": 1.59,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Tec-9 | Sandstorm",
+    "id": "skin-1967236"
+  }
+]

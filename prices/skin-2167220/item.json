@@ -1,0 +1,92 @@
+[
+  {
+    "name": "MP7 | Abyssal Apparition (Minimal Wear)",
+    "price": 2.28,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MP7 | Abyssal Apparition",
+    "id": "skin-2167220"
+  },
+  {
+    "name": "MP7 | Abyssal Apparition (Well-Worn)",
+    "price": 0.82,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MP7 | Abyssal Apparition",
+    "id": "skin-2167220"
+  },
+  {
+    "name": "StatTrak™ MP7 | Abyssal Apparition (Factory New)",
+    "price": 14.61,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MP7 | Abyssal Apparition",
+    "id": "skin-2167220"
+  },
+  {
+    "name": "StatTrak™ MP7 | Abyssal Apparition (Battle-Scarred)",
+    "price": 1.73,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MP7 | Abyssal Apparition",
+    "id": "skin-2167220"
+  },
+  {
+    "name": "StatTrak™ MP7 | Abyssal Apparition (Minimal Wear)",
+    "price": 4.83,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MP7 | Abyssal Apparition",
+    "id": "skin-2167220"
+  },
+  {
+    "name": "MP7 | Abyssal Apparition (Battle-Scarred)",
+    "price": 0.89,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MP7 | Abyssal Apparition",
+    "id": "skin-2167220"
+  },
+  {
+    "name": "MP7 | Abyssal Apparition (Factory New)",
+    "price": 6.5,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MP7 | Abyssal Apparition",
+    "id": "skin-2167220"
+  },
+  {
+    "name": "StatTrak™ MP7 | Abyssal Apparition (Well-Worn)",
+    "price": 1.68,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MP7 | Abyssal Apparition",
+    "id": "skin-2167220"
+  },
+  {
+    "name": "StatTrak™ MP7 | Abyssal Apparition (Field-Tested)",
+    "price": 1.98,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MP7 | Abyssal Apparition",
+    "id": "skin-2167220"
+  },
+  {
+    "name": "MP7 | Abyssal Apparition (Field-Tested)",
+    "price": 0.93,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MP7 | Abyssal Apparition",
+    "id": "skin-2167220"
+  }
+]

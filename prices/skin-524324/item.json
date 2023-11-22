@@ -1,0 +1,92 @@
+[
+  {
+    "name": "StatTrak™ AUG | Bengal Tiger (Field-Tested)",
+    "price": 8.34,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AUG | Bengal Tiger",
+    "id": "skin-524324"
+  },
+  {
+    "name": "StatTrak™ AUG | Bengal Tiger (Battle-Scarred)",
+    "price": 9.96,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AUG | Bengal Tiger",
+    "id": "skin-524324"
+  },
+  {
+    "name": "AUG | Bengal Tiger (Factory New)",
+    "price": 36.05,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AUG | Bengal Tiger",
+    "id": "skin-524324"
+  },
+  {
+    "name": "AUG | Bengal Tiger (Field-Tested)",
+    "price": 3.41,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AUG | Bengal Tiger",
+    "id": "skin-524324"
+  },
+  {
+    "name": "StatTrak™ AUG | Bengal Tiger (Minimal Wear)",
+    "price": 20.67,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AUG | Bengal Tiger",
+    "id": "skin-524324"
+  },
+  {
+    "name": "AUG | Bengal Tiger (Minimal Wear)",
+    "price": 7.43,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AUG | Bengal Tiger",
+    "id": "skin-524324"
+  },
+  {
+    "name": "AUG | Bengal Tiger (Battle-Scarred)",
+    "price": 3.78,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AUG | Bengal Tiger",
+    "id": "skin-524324"
+  },
+  {
+    "name": "StatTrak™ AUG | Bengal Tiger (Factory New)",
+    "price": 68.57,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AUG | Bengal Tiger",
+    "id": "skin-524324"
+  },
+  {
+    "name": "AUG | Bengal Tiger (Well-Worn)",
+    "price": 4.48,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AUG | Bengal Tiger",
+    "id": "skin-524324"
+  },
+  {
+    "name": "StatTrak™ AUG | Bengal Tiger (Well-Worn)",
+    "price": 8.45,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AUG | Bengal Tiger",
+    "id": "skin-524324"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "name": "M4A4 | Desert Storm (Factory New)",
+    "price": 39.15,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M4A4 | Desert Storm",
+    "id": "skin-1048608"
+  },
+  {
+    "name": "M4A4 | Desert Storm (Battle-Scarred)",
+    "price": 10.76,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M4A4 | Desert Storm",
+    "id": "skin-1048608"
+  },
+  {
+    "name": "M4A4 | Desert Storm (Well-Worn)",
+    "price": 10.14,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M4A4 | Desert Storm",
+    "id": "skin-1048608"
+  },
+  {
+    "name": "M4A4 | Desert Storm (Minimal Wear)",
+    "price": 11.33,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M4A4 | Desert Storm",
+    "id": "skin-1048608"
+  },
+  {
+    "name": "M4A4 | Desert Storm (Field-Tested)",
+    "price": 10.83,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M4A4 | Desert Storm",
+    "id": "skin-1048608"
+  }
+]

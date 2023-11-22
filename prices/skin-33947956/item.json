@@ -1,0 +1,92 @@
+[
+  {
+    "name": "★ Survival Knife | Boreal Forest (Battle-Scarred)",
+    "price": 76.72,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Survival Knife | Boreal Forest",
+    "id": "skin-33947956"
+  },
+  {
+    "name": "★ StatTrak™ Survival Knife | Boreal Forest (Battle-Scarred)",
+    "price": 106.69,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Survival Knife | Boreal Forest",
+    "id": "skin-33947956"
+  },
+  {
+    "name": "★ Survival Knife | Boreal Forest (Minimal Wear)",
+    "price": 84.95,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Survival Knife | Boreal Forest",
+    "id": "skin-33947956"
+  },
+  {
+    "name": "★ StatTrak™ Survival Knife | Boreal Forest (Minimal Wear)",
+    "price": 93.93,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Survival Knife | Boreal Forest",
+    "id": "skin-33947956"
+  },
+  {
+    "name": "★ StatTrak™ Survival Knife | Boreal Forest (Factory New)",
+    "price": 0,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Survival Knife | Boreal Forest",
+    "id": "skin-33947956"
+  },
+  {
+    "name": "★ Survival Knife | Boreal Forest (Factory New)",
+    "price": 205.7,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Survival Knife | Boreal Forest",
+    "id": "skin-33947956"
+  },
+  {
+    "name": "★ Survival Knife | Boreal Forest (Field-Tested)",
+    "price": 78.12,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Survival Knife | Boreal Forest",
+    "id": "skin-33947956"
+  },
+  {
+    "name": "★ Survival Knife | Boreal Forest (Well-Worn)",
+    "price": 79.12,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Survival Knife | Boreal Forest",
+    "id": "skin-33947956"
+  },
+  {
+    "name": "★ StatTrak™ Survival Knife | Boreal Forest (Well-Worn)",
+    "price": 78.09,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Survival Knife | Boreal Forest",
+    "id": "skin-33947956"
+  },
+  {
+    "name": "★ StatTrak™ Survival Knife | Boreal Forest (Field-Tested)",
+    "price": 91.88,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Survival Knife | Boreal Forest",
+    "id": "skin-33947956"
+  }
+]

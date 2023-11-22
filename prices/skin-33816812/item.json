@@ -1,0 +1,56 @@
+[
+  {
+    "name": "★ StatTrak™ Shadow Daggers | Slaughter (Minimal Wear)",
+    "price": 183.69,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Shadow Daggers | Slaughter",
+    "id": "skin-33816812"
+  },
+  {
+    "name": "★ Shadow Daggers | Slaughter (Minimal Wear)",
+    "price": 149.4,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Shadow Daggers | Slaughter",
+    "id": "skin-33816812"
+  },
+  {
+    "name": "★ StatTrak™ Shadow Daggers | Slaughter (Field-Tested)",
+    "price": 281.12,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Shadow Daggers | Slaughter",
+    "id": "skin-33816812"
+  },
+  {
+    "name": "★ Shadow Daggers | Slaughter (Field-Tested)",
+    "price": 163.58,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Shadow Daggers | Slaughter",
+    "id": "skin-33816812"
+  },
+  {
+    "name": "★ StatTrak™ Shadow Daggers | Slaughter (Factory New)",
+    "price": 219.14,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Shadow Daggers | Slaughter",
+    "id": "skin-33816812"
+  },
+  {
+    "name": "★ Shadow Daggers | Slaughter (Factory New)",
+    "price": 164.49,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Shadow Daggers | Slaughter",
+    "id": "skin-33816812"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "name": "MP5-SD | Kitbash (Factory New)",
+    "price": 0.97,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MP5-SD | Kitbash",
+    "id": "skin-1511224"
+  },
+  {
+    "name": "StatTrak™ MP5-SD | Kitbash (Battle-Scarred)",
+    "price": 0.44,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MP5-SD | Kitbash",
+    "id": "skin-1511224"
+  },
+  {
+    "name": "StatTrak™ MP5-SD | Kitbash (Minimal Wear)",
+    "price": 1.23,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MP5-SD | Kitbash",
+    "id": "skin-1511224"
+  },
+  {
+    "name": "StatTrak™ MP5-SD | Kitbash (Factory New)",
+    "price": 2.73,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MP5-SD | Kitbash",
+    "id": "skin-1511224"
+  },
+  {
+    "name": "MP5-SD | Kitbash (Field-Tested)",
+    "price": 0.27,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MP5-SD | Kitbash",
+    "id": "skin-1511224"
+  },
+  {
+    "name": "StatTrak™ MP5-SD | Kitbash (Well-Worn)",
+    "price": 0.73,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MP5-SD | Kitbash",
+    "id": "skin-1511224"
+  },
+  {
+    "name": "MP5-SD | Kitbash (Minimal Wear)",
+    "price": 0.49,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MP5-SD | Kitbash",
+    "id": "skin-1511224"
+  },
+  {
+    "name": "StatTrak™ MP5-SD | Kitbash (Field-Tested)",
+    "price": 0.52,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MP5-SD | Kitbash",
+    "id": "skin-1511224"
+  },
+  {
+    "name": "MP5-SD | Kitbash (Battle-Scarred)",
+    "price": 0.23,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MP5-SD | Kitbash",
+    "id": "skin-1511224"
+  },
+  {
+    "name": "MP5-SD | Kitbash (Well-Worn)",
+    "price": 0.25,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MP5-SD | Kitbash",
+    "id": "skin-1511224"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "name": "★ Navaja Knife | Night Stripe (Battle-Scarred)",
+    "price": 67.88,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Navaja Knife | Night Stripe",
+    "id": "skin-34081660"
+  },
+  {
+    "name": "★ Navaja Knife | Night Stripe (Minimal Wear)",
+    "price": 79.4,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Navaja Knife | Night Stripe",
+    "id": "skin-34081660"
+  },
+  {
+    "name": "★ StatTrak™ Navaja Knife | Night Stripe (Minimal Wear)",
+    "price": 96.81,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Navaja Knife | Night Stripe",
+    "id": "skin-34081660"
+  },
+  {
+    "name": "★ StatTrak™ Navaja Knife | Night Stripe (Well-Worn)",
+    "price": 75.42,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Navaja Knife | Night Stripe",
+    "id": "skin-34081660"
+  },
+  {
+    "name": "★ StatTrak™ Navaja Knife | Night Stripe (Factory New)",
+    "price": 0,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Navaja Knife | Night Stripe",
+    "id": "skin-34081660"
+  },
+  {
+    "name": "★ StatTrak™ Navaja Knife | Night Stripe (Battle-Scarred)",
+    "price": 104.27,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Navaja Knife | Night Stripe",
+    "id": "skin-34081660"
+  },
+  {
+    "name": "★ Navaja Knife | Night Stripe (Field-Tested)",
+    "price": 64.45,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Navaja Knife | Night Stripe",
+    "id": "skin-34081660"
+  },
+  {
+    "name": "★ Navaja Knife | Night Stripe (Well-Worn)",
+    "price": 69.11,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Navaja Knife | Night Stripe",
+    "id": "skin-34081660"
+  },
+  {
+    "name": "★ StatTrak™ Navaja Knife | Night Stripe (Field-Tested)",
+    "price": 70.55,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Navaja Knife | Night Stripe",
+    "id": "skin-34081660"
+  },
+  {
+    "name": "★ Navaja Knife | Night Stripe (Factory New)",
+    "price": 210.84,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Navaja Knife | Night Stripe",
+    "id": "skin-34081660"
+  }
+]

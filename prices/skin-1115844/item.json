@@ -1,0 +1,74 @@
+[
+  {
+    "name": "StatTrak™ MAC-10 | Neon Rider (Field-Tested)",
+    "price": 12.26,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MAC-10 | Neon Rider",
+    "id": "skin-1115844"
+  },
+  {
+    "name": "MAC-10 | Neon Rider (Factory New)",
+    "price": 8.08,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MAC-10 | Neon Rider",
+    "id": "skin-1115844"
+  },
+  {
+    "name": "MAC-10 | Neon Rider (Field-Tested)",
+    "price": 4.55,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MAC-10 | Neon Rider",
+    "id": "skin-1115844"
+  },
+  {
+    "name": "StatTrak™ MAC-10 | Neon Rider (Well-Worn)",
+    "price": 14.08,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MAC-10 | Neon Rider",
+    "id": "skin-1115844"
+  },
+  {
+    "name": "StatTrak™ MAC-10 | Neon Rider (Factory New)",
+    "price": 28.9,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MAC-10 | Neon Rider",
+    "id": "skin-1115844"
+  },
+  {
+    "name": "MAC-10 | Neon Rider (Minimal Wear)",
+    "price": 5.16,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MAC-10 | Neon Rider",
+    "id": "skin-1115844"
+  },
+  {
+    "name": "StatTrak™ MAC-10 | Neon Rider (Minimal Wear)",
+    "price": 16.86,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MAC-10 | Neon Rider",
+    "id": "skin-1115844"
+  },
+  {
+    "name": "MAC-10 | Neon Rider (Well-Worn)",
+    "price": 4.66,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MAC-10 | Neon Rider",
+    "id": "skin-1115844"
+  }
+]

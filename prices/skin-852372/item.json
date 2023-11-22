@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Galil AR | Tornado (Field-Tested)",
+    "price": 2.85,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Galil AR | Tornado",
+    "id": "skin-852372"
+  },
+  {
+    "name": "Galil AR | Tornado (Battle-Scarred)",
+    "price": 2.81,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Galil AR | Tornado",
+    "id": "skin-852372"
+  },
+  {
+    "name": "Galil AR | Tornado (Well-Worn)",
+    "price": 2.88,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Galil AR | Tornado",
+    "id": "skin-852372"
+  },
+  {
+    "name": "Galil AR | Tornado (Factory New)",
+    "price": 3.7,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Galil AR | Tornado",
+    "id": "skin-852372"
+  },
+  {
+    "name": "Galil AR | Tornado (Minimal Wear)",
+    "price": 3.18,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Galil AR | Tornado",
+    "id": "skin-852372"
+  }
+]

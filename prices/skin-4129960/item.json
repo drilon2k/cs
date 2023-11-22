@@ -1,0 +1,29 @@
+[
+  {
+    "name": "CZ75-Auto | Army Sheen (Factory New)",
+    "price": 2.24,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "CZ75-Auto | Army Sheen",
+    "id": "skin-4129960"
+  },
+  {
+    "name": "CZ75-Auto | Army Sheen (Field-Tested)",
+    "price": 1.01,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "CZ75-Auto | Army Sheen",
+    "id": "skin-4129960"
+  },
+  {
+    "name": "CZ75-Auto | Army Sheen (Minimal Wear)",
+    "price": 1.08,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "CZ75-Auto | Army Sheen",
+    "id": "skin-4129960"
+  }
+]

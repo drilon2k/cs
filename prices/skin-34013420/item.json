@@ -1,0 +1,56 @@
+[
+  {
+    "name": "★ StatTrak™ Ursus Knife | Slaughter (Minimal Wear)",
+    "price": 300.32,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Ursus Knife | Slaughter",
+    "id": "skin-34013420"
+  },
+  {
+    "name": "★ Ursus Knife | Slaughter (Minimal Wear)",
+    "price": 260.55,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Ursus Knife | Slaughter",
+    "id": "skin-34013420"
+  },
+  {
+    "name": "★ StatTrak™ Ursus Knife | Slaughter (Field-Tested)",
+    "price": 294.83,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Ursus Knife | Slaughter",
+    "id": "skin-34013420"
+  },
+  {
+    "name": "★ Ursus Knife | Slaughter (Field-Tested)",
+    "price": 285.1,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Ursus Knife | Slaughter",
+    "id": "skin-34013420"
+  },
+  {
+    "name": "★ Ursus Knife | Slaughter (Factory New)",
+    "price": 301.48,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Ursus Knife | Slaughter",
+    "id": "skin-34013420"
+  },
+  {
+    "name": "★ StatTrak™ Ursus Knife | Slaughter (Factory New)",
+    "price": 308.54,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Ursus Knife | Slaughter",
+    "id": "skin-34013420"
+  }
+]

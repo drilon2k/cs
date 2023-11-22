@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Five-SeveN | Angry Mob (Well-Worn)",
+    "price": 3.13,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Five-SeveN | Angry Mob",
+    "id": "skin-199956"
+  },
+  {
+    "name": "Five-SeveN | Angry Mob (Minimal Wear)",
+    "price": 4.27,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Five-SeveN | Angry Mob",
+    "id": "skin-199956"
+  },
+  {
+    "name": "StatTrak™ Five-SeveN | Angry Mob (Battle-Scarred)",
+    "price": 6.17,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Five-SeveN | Angry Mob",
+    "id": "skin-199956"
+  },
+  {
+    "name": "Five-SeveN | Angry Mob (Battle-Scarred)",
+    "price": 1.92,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Five-SeveN | Angry Mob",
+    "id": "skin-199956"
+  },
+  {
+    "name": "StatTrak™ Five-SeveN | Angry Mob (Field-Tested)",
+    "price": 6.09,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Five-SeveN | Angry Mob",
+    "id": "skin-199956"
+  },
+  {
+    "name": "StatTrak™ Five-SeveN | Angry Mob (Minimal Wear)",
+    "price": 12.2,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Five-SeveN | Angry Mob",
+    "id": "skin-199956"
+  },
+  {
+    "name": "StatTrak™ Five-SeveN | Angry Mob (Well-Worn)",
+    "price": 9.35,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Five-SeveN | Angry Mob",
+    "id": "skin-199956"
+  },
+  {
+    "name": "Five-SeveN | Angry Mob (Field-Tested)",
+    "price": 1.94,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Five-SeveN | Angry Mob",
+    "id": "skin-199956"
+  },
+  {
+    "name": "StatTrak™ Five-SeveN | Angry Mob (Factory New)",
+    "price": 28.33,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Five-SeveN | Angry Mob",
+    "id": "skin-199956"
+  },
+  {
+    "name": "Five-SeveN | Angry Mob (Factory New)",
+    "price": 8.02,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Five-SeveN | Angry Mob",
+    "id": "skin-199956"
+  }
+]

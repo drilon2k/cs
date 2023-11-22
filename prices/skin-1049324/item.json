@@ -1,0 +1,74 @@
+[
+  {
+    "name": "M4A4 | Zirka (Field-Tested)",
+    "price": 17.81,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M4A4 | Zirka",
+    "id": "skin-1049324"
+  },
+  {
+    "name": "StatTrak™ M4A4 | Zirka (Well-Worn)",
+    "price": 50.73,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "M4A4 | Zirka",
+    "id": "skin-1049324"
+  },
+  {
+    "name": "StatTrak™ M4A4 | Zirka (Factory New)",
+    "price": 120.95,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "M4A4 | Zirka",
+    "id": "skin-1049324"
+  },
+  {
+    "name": "M4A4 | Zirka (Well-Worn)",
+    "price": 30.13,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M4A4 | Zirka",
+    "id": "skin-1049324"
+  },
+  {
+    "name": "StatTrak™ M4A4 | Zirka (Minimal Wear)",
+    "price": 39.19,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "M4A4 | Zirka",
+    "id": "skin-1049324"
+  },
+  {
+    "name": "M4A4 | Zirka (Minimal Wear)",
+    "price": 18.44,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M4A4 | Zirka",
+    "id": "skin-1049324"
+  },
+  {
+    "name": "StatTrak™ M4A4 | Zirka (Field-Tested)",
+    "price": 37.64,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "M4A4 | Zirka",
+    "id": "skin-1049324"
+  },
+  {
+    "name": "M4A4 | Zirka (Factory New)",
+    "price": 33.6,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M4A4 | Zirka",
+    "id": "skin-1049324"
+  }
+]

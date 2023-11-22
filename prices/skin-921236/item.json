@@ -1,0 +1,47 @@
+[
+  {
+    "name": "M249 | Midnight Palm (Minimal Wear)",
+    "price": 2.65,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M249 | Midnight Palm",
+    "id": "skin-921236"
+  },
+  {
+    "name": "M249 | Midnight Palm (Factory New)",
+    "price": 2.82,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M249 | Midnight Palm",
+    "id": "skin-921236"
+  },
+  {
+    "name": "M249 | Midnight Palm (Field-Tested)",
+    "price": 2.62,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M249 | Midnight Palm",
+    "id": "skin-921236"
+  },
+  {
+    "name": "M249 | Midnight Palm (Well-Worn)",
+    "price": 2.74,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M249 | Midnight Palm",
+    "id": "skin-921236"
+  },
+  {
+    "name": "M249 | Midnight Palm (Battle-Scarred)",
+    "price": 2.72,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M249 | Midnight Palm",
+    "id": "skin-921236"
+  }
+]

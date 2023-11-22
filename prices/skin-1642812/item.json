@@ -1,0 +1,92 @@
+[
+  {
+    "name": "XM1014 | Watchdog (Well-Worn)",
+    "price": 0.36,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "XM1014 | Watchdog",
+    "id": "skin-1642812"
+  },
+  {
+    "name": "StatTrak™ XM1014 | Watchdog (Well-Worn)",
+    "price": 0.78,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "XM1014 | Watchdog",
+    "id": "skin-1642812"
+  },
+  {
+    "name": "XM1014 | Watchdog (Factory New)",
+    "price": 2.78,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "XM1014 | Watchdog",
+    "id": "skin-1642812"
+  },
+  {
+    "name": "XM1014 | Watchdog (Minimal Wear)",
+    "price": 0.82,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "XM1014 | Watchdog",
+    "id": "skin-1642812"
+  },
+  {
+    "name": "XM1014 | Watchdog (Field-Tested)",
+    "price": 0.54,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "XM1014 | Watchdog",
+    "id": "skin-1642812"
+  },
+  {
+    "name": "StatTrak™ XM1014 | Watchdog (Factory New)",
+    "price": 14.6,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "XM1014 | Watchdog",
+    "id": "skin-1642812"
+  },
+  {
+    "name": "StatTrak™ XM1014 | Watchdog (Minimal Wear)",
+    "price": 2.63,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "XM1014 | Watchdog",
+    "id": "skin-1642812"
+  },
+  {
+    "name": "StatTrak™ XM1014 | Watchdog (Field-Tested)",
+    "price": 1.25,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "XM1014 | Watchdog",
+    "id": "skin-1642812"
+  },
+  {
+    "name": "XM1014 | Watchdog (Battle-Scarred)",
+    "price": 0.33,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "XM1014 | Watchdog",
+    "id": "skin-1642812"
+  },
+  {
+    "name": "StatTrak™ XM1014 | Watchdog (Battle-Scarred)",
+    "price": 0.74,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "XM1014 | Watchdog",
+    "id": "skin-1642812"
+  }
+]

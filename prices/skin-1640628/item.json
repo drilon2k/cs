@@ -1,0 +1,92 @@
+[
+  {
+    "name": "XM1014 | Black Tie (Factory New)",
+    "price": 1.73,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "XM1014 | Black Tie",
+    "id": "skin-1640628"
+  },
+  {
+    "name": "XM1014 | Black Tie (Field-Tested)",
+    "price": 0.28,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "XM1014 | Black Tie",
+    "id": "skin-1640628"
+  },
+  {
+    "name": "StatTrak™ XM1014 | Black Tie (Battle-Scarred)",
+    "price": 0.67,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "XM1014 | Black Tie",
+    "id": "skin-1640628"
+  },
+  {
+    "name": "XM1014 | Black Tie (Minimal Wear)",
+    "price": 0.67,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "XM1014 | Black Tie",
+    "id": "skin-1640628"
+  },
+  {
+    "name": "StatTrak™ XM1014 | Black Tie (Well-Worn)",
+    "price": 1.37,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "XM1014 | Black Tie",
+    "id": "skin-1640628"
+  },
+  {
+    "name": "StatTrak™ XM1014 | Black Tie (Field-Tested)",
+    "price": 0.85,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "XM1014 | Black Tie",
+    "id": "skin-1640628"
+  },
+  {
+    "name": "StatTrak™ XM1014 | Black Tie (Minimal Wear)",
+    "price": 3.13,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "XM1014 | Black Tie",
+    "id": "skin-1640628"
+  },
+  {
+    "name": "StatTrak™ XM1014 | Black Tie (Factory New)",
+    "price": 10.39,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "XM1014 | Black Tie",
+    "id": "skin-1640628"
+  },
+  {
+    "name": "XM1014 | Black Tie (Well-Worn)",
+    "price": 0.3,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "XM1014 | Black Tie",
+    "id": "skin-1640628"
+  },
+  {
+    "name": "XM1014 | Black Tie (Battle-Scarred)",
+    "price": 0.24,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "XM1014 | Black Tie",
+    "id": "skin-1640628"
+  }
+]

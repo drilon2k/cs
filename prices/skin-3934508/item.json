@@ -1,0 +1,92 @@
+[
+  {
+    "name": "StatTrak™ M4A1-S | Mecha Industries (Factory New)",
+    "price": 148.03,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "M4A1-S | Mecha Industries",
+    "id": "skin-3934508"
+  },
+  {
+    "name": "StatTrak™ M4A1-S | Mecha Industries (Field-Tested)",
+    "price": 51.01,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "M4A1-S | Mecha Industries",
+    "id": "skin-3934508"
+  },
+  {
+    "name": "StatTrak™ M4A1-S | Mecha Industries (Minimal Wear)",
+    "price": 84.34,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "M4A1-S | Mecha Industries",
+    "id": "skin-3934508"
+  },
+  {
+    "name": "M4A1-S | Mecha Industries (Well-Worn)",
+    "price": 27.49,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M4A1-S | Mecha Industries",
+    "id": "skin-3934508"
+  },
+  {
+    "name": "StatTrak™ M4A1-S | Mecha Industries (Well-Worn)",
+    "price": 61.57,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "M4A1-S | Mecha Industries",
+    "id": "skin-3934508"
+  },
+  {
+    "name": "M4A1-S | Mecha Industries (Minimal Wear)",
+    "price": 31.54,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M4A1-S | Mecha Industries",
+    "id": "skin-3934508"
+  },
+  {
+    "name": "M4A1-S | Mecha Industries (Field-Tested)",
+    "price": 20.64,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M4A1-S | Mecha Industries",
+    "id": "skin-3934508"
+  },
+  {
+    "name": "M4A1-S | Mecha Industries (Factory New)",
+    "price": 56.22,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M4A1-S | Mecha Industries",
+    "id": "skin-3934508"
+  },
+  {
+    "name": "StatTrak™ M4A1-S | Mecha Industries (Battle-Scarred)",
+    "price": 38.03,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "M4A1-S | Mecha Industries",
+    "id": "skin-3934508"
+  },
+  {
+    "name": "M4A1-S | Mecha Industries (Battle-Scarred)",
+    "price": 15.77,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M4A1-S | Mecha Industries",
+    "id": "skin-3934508"
+  }
+]

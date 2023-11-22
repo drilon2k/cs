@@ -1,0 +1,92 @@
+[
+  {
+    "name": "★ Ursus Knife | Forest DDPAT (Field-Tested)",
+    "price": 91.74,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Ursus Knife | Forest DDPAT",
+    "id": "skin-34013204"
+  },
+  {
+    "name": "★ StatTrak™ Ursus Knife | Forest DDPAT (Minimal Wear)",
+    "price": 139.87,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Ursus Knife | Forest DDPAT",
+    "id": "skin-34013204"
+  },
+  {
+    "name": "★ Ursus Knife | Forest DDPAT (Well-Worn)",
+    "price": 91.33,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Ursus Knife | Forest DDPAT",
+    "id": "skin-34013204"
+  },
+  {
+    "name": "★ StatTrak™ Ursus Knife | Forest DDPAT (Factory New)",
+    "price": 0,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Ursus Knife | Forest DDPAT",
+    "id": "skin-34013204"
+  },
+  {
+    "name": "★ StatTrak™ Ursus Knife | Forest DDPAT (Field-Tested)",
+    "price": 95.85,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Ursus Knife | Forest DDPAT",
+    "id": "skin-34013204"
+  },
+  {
+    "name": "★ Ursus Knife | Forest DDPAT (Battle-Scarred)",
+    "price": 87.76,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Ursus Knife | Forest DDPAT",
+    "id": "skin-34013204"
+  },
+  {
+    "name": "★ Ursus Knife | Forest DDPAT (Factory New)",
+    "price": 218.04,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Ursus Knife | Forest DDPAT",
+    "id": "skin-34013204"
+  },
+  {
+    "name": "★ StatTrak™ Ursus Knife | Forest DDPAT (Battle-Scarred)",
+    "price": 94.35,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Ursus Knife | Forest DDPAT",
+    "id": "skin-34013204"
+  },
+  {
+    "name": "★ Ursus Knife | Forest DDPAT (Minimal Wear)",
+    "price": 102.85,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Ursus Knife | Forest DDPAT",
+    "id": "skin-34013204"
+  },
+  {
+    "name": "★ StatTrak™ Ursus Knife | Forest DDPAT (Well-Worn)",
+    "price": 121.77,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Ursus Knife | Forest DDPAT",
+    "id": "skin-34013204"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "name": "★ StatTrak™ Butterfly Knife | Tiger Tooth (Factory New)",
+    "price": 1294.38,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Butterfly Knife | Tiger Tooth",
+    "id": "skin-33752676"
+  },
+  {
+    "name": "★ Butterfly Knife | Tiger Tooth (Minimal Wear)",
+    "price": 1199.9,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Butterfly Knife | Tiger Tooth",
+    "id": "skin-33752676"
+  },
+  {
+    "name": "★ Butterfly Knife | Tiger Tooth (Factory New)",
+    "price": 1153.27,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Butterfly Knife | Tiger Tooth",
+    "id": "skin-33752676"
+  },
+  {
+    "name": "★ StatTrak™ Butterfly Knife | Tiger Tooth (Minimal Wear)",
+    "price": 1535.8,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Butterfly Knife | Tiger Tooth",
+    "id": "skin-33752676"
+  }
+]

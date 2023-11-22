@@ -1,0 +1,38 @@
+[
+  {
+    "name": "★ StatTrak™ Falchion Knife | Gamma Doppler (Minimal Wear)",
+    "price": 1508.44,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Falchion Knife | Gamma Doppler",
+    "id": "skin-33556720"
+  },
+  {
+    "name": "★ Falchion Knife | Gamma Doppler (Factory New)",
+    "price": 369.98,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Falchion Knife | Gamma Doppler",
+    "id": "skin-33556720"
+  },
+  {
+    "name": "★ StatTrak™ Falchion Knife | Gamma Doppler (Factory New)",
+    "price": 400.29,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Falchion Knife | Gamma Doppler",
+    "id": "skin-33556720"
+  },
+  {
+    "name": "★ Falchion Knife | Gamma Doppler (Minimal Wear)",
+    "price": 390.55,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Falchion Knife | Gamma Doppler",
+    "id": "skin-33556720"
+  }
+]

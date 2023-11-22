@@ -1,0 +1,47 @@
+[
+  {
+    "name": "★ Moto Gloves | Eclipse (Battle-Scarred)",
+    "price": 66.5,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Moto Gloves | Eclipse",
+    "id": "skin-329882784"
+  },
+  {
+    "name": "★ Moto Gloves | Eclipse (Field-Tested)",
+    "price": 104.15,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Moto Gloves | Eclipse",
+    "id": "skin-329882784"
+  },
+  {
+    "name": "★ Moto Gloves | Eclipse (Minimal Wear)",
+    "price": 257.81,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Moto Gloves | Eclipse",
+    "id": "skin-329882784"
+  },
+  {
+    "name": "★ Moto Gloves | Eclipse (Well-Worn)",
+    "price": 100.11,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Moto Gloves | Eclipse",
+    "id": "skin-329882784"
+  },
+  {
+    "name": "★ Moto Gloves | Eclipse (Factory New)",
+    "price": 959.92,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Moto Gloves | Eclipse",
+    "id": "skin-329882784"
+  }
+]

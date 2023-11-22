@@ -1,0 +1,74 @@
+[
+  {
+    "name": "StatTrak™ FAMAS | Sergeant (Field-Tested)",
+    "price": 2.68,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "FAMAS | Sergeant",
+    "id": "skin-656512"
+  },
+  {
+    "name": "FAMAS | Sergeant (Minimal Wear)",
+    "price": 3.53,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "FAMAS | Sergeant",
+    "id": "skin-656512"
+  },
+  {
+    "name": "StatTrak™ FAMAS | Sergeant (Minimal Wear)",
+    "price": 8.88,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "FAMAS | Sergeant",
+    "id": "skin-656512"
+  },
+  {
+    "name": "StatTrak™ FAMAS | Sergeant (Battle-Scarred)",
+    "price": 2.18,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "FAMAS | Sergeant",
+    "id": "skin-656512"
+  },
+  {
+    "name": "FAMAS | Sergeant (Field-Tested)",
+    "price": 1.6,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "FAMAS | Sergeant",
+    "id": "skin-656512"
+  },
+  {
+    "name": "FAMAS | Sergeant (Well-Worn)",
+    "price": 1.63,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "FAMAS | Sergeant",
+    "id": "skin-656512"
+  },
+  {
+    "name": "StatTrak™ FAMAS | Sergeant (Well-Worn)",
+    "price": 2.43,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "FAMAS | Sergeant",
+    "id": "skin-656512"
+  },
+  {
+    "name": "FAMAS | Sergeant (Battle-Scarred)",
+    "price": 1.32,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "FAMAS | Sergeant",
+    "id": "skin-656512"
+  }
+]

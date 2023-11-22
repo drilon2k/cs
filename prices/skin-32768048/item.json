@@ -1,0 +1,92 @@
+[
+  {
+    "name": "★ Bayonet | Crimson Web (Factory New)",
+    "price": 2536.79,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Bayonet | Crimson Web",
+    "id": "skin-32768048"
+  },
+  {
+    "name": "★ Bayonet | Crimson Web (Battle-Scarred)",
+    "price": 253.28,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Bayonet | Crimson Web",
+    "id": "skin-32768048"
+  },
+  {
+    "name": "★ StatTrak™ Bayonet | Crimson Web (Battle-Scarred)",
+    "price": 260.41,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Bayonet | Crimson Web",
+    "id": "skin-32768048"
+  },
+  {
+    "name": "★ StatTrak™ Bayonet | Crimson Web (Factory New)",
+    "price": 0,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Bayonet | Crimson Web",
+    "id": "skin-32768048"
+  },
+  {
+    "name": "★ StatTrak™ Bayonet | Crimson Web (Minimal Wear)",
+    "price": 534.81,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Bayonet | Crimson Web",
+    "id": "skin-32768048"
+  },
+  {
+    "name": "★ Bayonet | Crimson Web (Minimal Wear)",
+    "price": 521.1,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Bayonet | Crimson Web",
+    "id": "skin-32768048"
+  },
+  {
+    "name": "★ Bayonet | Crimson Web (Field-Tested)",
+    "price": 271.73,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Bayonet | Crimson Web",
+    "id": "skin-32768048"
+  },
+  {
+    "name": "★ StatTrak™ Bayonet | Crimson Web (Well-Worn)",
+    "price": 287.91,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Bayonet | Crimson Web",
+    "id": "skin-32768048"
+  },
+  {
+    "name": "★ Bayonet | Crimson Web (Well-Worn)",
+    "price": 264.66,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Bayonet | Crimson Web",
+    "id": "skin-32768048"
+  },
+  {
+    "name": "★ StatTrak™ Bayonet | Crimson Web (Field-Tested)",
+    "price": 308.54,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Bayonet | Crimson Web",
+    "id": "skin-32768048"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "name": "★ StatTrak™ M9 Bayonet | Safari Mesh (Well-Worn)",
+    "price": 329.11,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ M9 Bayonet | Safari Mesh",
+    "id": "skin-33292576"
+  },
+  {
+    "name": "★ StatTrak™ M9 Bayonet | Safari Mesh (Battle-Scarred)",
+    "price": 333.23,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ M9 Bayonet | Safari Mesh",
+    "id": "skin-33292576"
+  },
+  {
+    "name": "★ M9 Bayonet | Safari Mesh (Minimal Wear)",
+    "price": 328.81,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ M9 Bayonet | Safari Mesh",
+    "id": "skin-33292576"
+  },
+  {
+    "name": "★ M9 Bayonet | Safari Mesh (Factory New)",
+    "price": 2056.96,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ M9 Bayonet | Safari Mesh",
+    "id": "skin-33292576"
+  },
+  {
+    "name": "★ M9 Bayonet | Safari Mesh (Well-Worn)",
+    "price": 326.37,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ M9 Bayonet | Safari Mesh",
+    "id": "skin-33292576"
+  },
+  {
+    "name": "★ StatTrak™ M9 Bayonet | Safari Mesh (Factory New)",
+    "price": 0,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ M9 Bayonet | Safari Mesh",
+    "id": "skin-33292576"
+  },
+  {
+    "name": "★ M9 Bayonet | Safari Mesh (Battle-Scarred)",
+    "price": 318.08,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ M9 Bayonet | Safari Mesh",
+    "id": "skin-33292576"
+  },
+  {
+    "name": "★ M9 Bayonet | Safari Mesh (Field-Tested)",
+    "price": 301.83,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ M9 Bayonet | Safari Mesh",
+    "id": "skin-33292576"
+  },
+  {
+    "name": "★ StatTrak™ M9 Bayonet | Safari Mesh (Field-Tested)",
+    "price": 312.59,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ M9 Bayonet | Safari Mesh",
+    "id": "skin-33292576"
+  },
+  {
+    "name": "★ StatTrak™ M9 Bayonet | Safari Mesh (Minimal Wear)",
+    "price": 397.34,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ M9 Bayonet | Safari Mesh",
+    "id": "skin-33292576"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "name": "★ StatTrak™ Shadow Daggers | Lore (Minimal Wear)",
+    "price": 164.01,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Shadow Daggers | Lore",
+    "id": "skin-33821008"
+  },
+  {
+    "name": "★ StatTrak™ Shadow Daggers | Lore (Battle-Scarred)",
+    "price": 137.13,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Shadow Daggers | Lore",
+    "id": "skin-33821008"
+  },
+  {
+    "name": "★ Shadow Daggers | Lore (Battle-Scarred)",
+    "price": 106.28,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Shadow Daggers | Lore",
+    "id": "skin-33821008"
+  },
+  {
+    "name": "★ StatTrak™ Shadow Daggers | Lore (Factory New)",
+    "price": 315.4,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Shadow Daggers | Lore",
+    "id": "skin-33821008"
+  },
+  {
+    "name": "★ StatTrak™ Shadow Daggers | Lore (Well-Worn)",
+    "price": 131.55,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Shadow Daggers | Lore",
+    "id": "skin-33821008"
+  },
+  {
+    "name": "★ StatTrak™ Shadow Daggers | Lore (Field-Tested)",
+    "price": 160.44,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Shadow Daggers | Lore",
+    "id": "skin-33821008"
+  },
+  {
+    "name": "★ Shadow Daggers | Lore (Well-Worn)",
+    "price": 107.1,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Shadow Daggers | Lore",
+    "id": "skin-33821008"
+  },
+  {
+    "name": "★ Shadow Daggers | Lore (Field-Tested)",
+    "price": 117.04,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Shadow Daggers | Lore",
+    "id": "skin-33821008"
+  },
+  {
+    "name": "★ Shadow Daggers | Lore (Minimal Wear)",
+    "price": 140.79,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Shadow Daggers | Lore",
+    "id": "skin-33821008"
+  },
+  {
+    "name": "★ Shadow Daggers | Lore (Factory New)",
+    "price": 290.58,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Shadow Daggers | Lore",
+    "id": "skin-33821008"
+  }
+]

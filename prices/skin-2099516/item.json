@@ -1,0 +1,92 @@
+[
+  {
+    "name": "StatTrak™ P2000 | Imperial Dragon (Minimal Wear)",
+    "price": 10.79,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "P2000 | Imperial Dragon",
+    "id": "skin-2099516"
+  },
+  {
+    "name": "StatTrak™ P2000 | Imperial Dragon (Field-Tested)",
+    "price": 5.69,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "P2000 | Imperial Dragon",
+    "id": "skin-2099516"
+  },
+  {
+    "name": "P2000 | Imperial Dragon (Field-Tested)",
+    "price": 2.3,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P2000 | Imperial Dragon",
+    "id": "skin-2099516"
+  },
+  {
+    "name": "P2000 | Imperial Dragon (Minimal Wear)",
+    "price": 3.79,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P2000 | Imperial Dragon",
+    "id": "skin-2099516"
+  },
+  {
+    "name": "P2000 | Imperial Dragon (Battle-Scarred)",
+    "price": 3.06,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P2000 | Imperial Dragon",
+    "id": "skin-2099516"
+  },
+  {
+    "name": "P2000 | Imperial Dragon (Well-Worn)",
+    "price": 3.02,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P2000 | Imperial Dragon",
+    "id": "skin-2099516"
+  },
+  {
+    "name": "StatTrak™ P2000 | Imperial Dragon (Well-Worn)",
+    "price": 8.58,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "P2000 | Imperial Dragon",
+    "id": "skin-2099516"
+  },
+  {
+    "name": "StatTrak™ P2000 | Imperial Dragon (Factory New)",
+    "price": 25.3,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "P2000 | Imperial Dragon",
+    "id": "skin-2099516"
+  },
+  {
+    "name": "StatTrak™ P2000 | Imperial Dragon (Battle-Scarred)",
+    "price": 9.59,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "P2000 | Imperial Dragon",
+    "id": "skin-2099516"
+  },
+  {
+    "name": "P2000 | Imperial Dragon (Factory New)",
+    "price": 7.13,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P2000 | Imperial Dragon",
+    "id": "skin-2099516"
+  }
+]

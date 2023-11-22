@@ -1,0 +1,38 @@
+[
+  {
+    "name": "★ Butterfly Knife | Fade (Factory New)",
+    "price": 2432.7,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Butterfly Knife | Fade",
+    "id": "skin-33751192"
+  },
+  {
+    "name": "★ Butterfly Knife | Fade (Minimal Wear)",
+    "price": 2303.8,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Butterfly Knife | Fade",
+    "id": "skin-33751192"
+  },
+  {
+    "name": "★ StatTrak™ Butterfly Knife | Fade (Minimal Wear)",
+    "price": 2811.18,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Butterfly Knife | Fade",
+    "id": "skin-33751192"
+  },
+  {
+    "name": "★ StatTrak™ Butterfly Knife | Fade (Factory New)",
+    "price": 2393.55,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Butterfly Knife | Fade",
+    "id": "skin-33751192"
+  }
+]

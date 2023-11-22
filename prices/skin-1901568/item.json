@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Sawed-Off | The Kraken (Well-Worn)",
+    "price": 8.16,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Sawed-Off | The Kraken",
+    "id": "skin-1901568"
+  },
+  {
+    "name": "StatTrak™ Sawed-Off | The Kraken (Well-Worn)",
+    "price": 43.74,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Sawed-Off | The Kraken",
+    "id": "skin-1901568"
+  },
+  {
+    "name": "Sawed-Off | The Kraken (Factory New)",
+    "price": 5.46,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Sawed-Off | The Kraken",
+    "id": "skin-1901568"
+  },
+  {
+    "name": "Sawed-Off | The Kraken (Field-Tested)",
+    "price": 3.27,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Sawed-Off | The Kraken",
+    "id": "skin-1901568"
+  },
+  {
+    "name": "StatTrak™ Sawed-Off | The Kraken (Field-Tested)",
+    "price": 13.7,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Sawed-Off | The Kraken",
+    "id": "skin-1901568"
+  },
+  {
+    "name": "StatTrak™ Sawed-Off | The Kraken (Factory New)",
+    "price": 37.03,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Sawed-Off | The Kraken",
+    "id": "skin-1901568"
+  },
+  {
+    "name": "Sawed-Off | The Kraken (Minimal Wear)",
+    "price": 3.64,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Sawed-Off | The Kraken",
+    "id": "skin-1901568"
+  },
+  {
+    "name": "StatTrak™ Sawed-Off | The Kraken (Minimal Wear)",
+    "price": 18.82,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Sawed-Off | The Kraken",
+    "id": "skin-1901568"
+  }
+]

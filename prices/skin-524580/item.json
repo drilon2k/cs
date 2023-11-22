@@ -1,0 +1,38 @@
+[
+  {
+    "name": "AUG | Wings (Factory New)",
+    "price": 13.66,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AUG | Wings",
+    "id": "skin-524580"
+  },
+  {
+    "name": "StatTrak™ AUG | Wings (Factory New)",
+    "price": 14.83,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AUG | Wings",
+    "id": "skin-524580"
+  },
+  {
+    "name": "StatTrak™ AUG | Wings (Minimal Wear)",
+    "price": 14.73,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AUG | Wings",
+    "id": "skin-524580"
+  },
+  {
+    "name": "AUG | Wings (Minimal Wear)",
+    "price": 13.6,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AUG | Wings",
+    "id": "skin-524580"
+  }
+]

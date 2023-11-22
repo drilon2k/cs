@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Glock-18 | Franklin (Field-Tested)",
+    "price": 29.21,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Glock-18 | Franklin",
+    "id": "skin-266208"
+  },
+  {
+    "name": "Glock-18 | Franklin (Minimal Wear)",
+    "price": 27.01,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Glock-18 | Franklin",
+    "id": "skin-266208"
+  },
+  {
+    "name": "Glock-18 | Franklin (Factory New)",
+    "price": 28.8,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Glock-18 | Franklin",
+    "id": "skin-266208"
+  },
+  {
+    "name": "Glock-18 | Franklin (Well-Worn)",
+    "price": 37.36,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Glock-18 | Franklin",
+    "id": "skin-266208"
+  }
+]

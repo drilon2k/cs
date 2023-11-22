@@ -1,0 +1,47 @@
+[
+  {
+    "name": "FAMAS | Colony (Factory New)",
+    "price": 0.18,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "FAMAS | Colony",
+    "id": "skin-655548"
+  },
+  {
+    "name": "FAMAS | Colony (Minimal Wear)",
+    "price": 0.01,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "FAMAS | Colony",
+    "id": "skin-655548"
+  },
+  {
+    "name": "FAMAS | Colony (Battle-Scarred)",
+    "price": 0.01,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "FAMAS | Colony",
+    "id": "skin-655548"
+  },
+  {
+    "name": "FAMAS | Colony (Field-Tested)",
+    "price": 0.01,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "FAMAS | Colony",
+    "id": "skin-655548"
+  },
+  {
+    "name": "FAMAS | Colony (Well-Worn)",
+    "price": 0.01,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "FAMAS | Colony",
+    "id": "skin-655548"
+  }
+]

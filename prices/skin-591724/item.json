@@ -1,0 +1,92 @@
+[
+  {
+    "name": "AWP | Hyper Beast (Battle-Scarred)",
+    "price": 16.32,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AWP | Hyper Beast",
+    "id": "skin-591724"
+  },
+  {
+    "name": "StatTrak™ AWP | Hyper Beast (Field-Tested)",
+    "price": 59.77,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AWP | Hyper Beast",
+    "id": "skin-591724"
+  },
+  {
+    "name": "AWP | Hyper Beast (Factory New)",
+    "price": 80.91,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AWP | Hyper Beast",
+    "id": "skin-591724"
+  },
+  {
+    "name": "StatTrak™ AWP | Hyper Beast (Minimal Wear)",
+    "price": 116.36,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AWP | Hyper Beast",
+    "id": "skin-591724"
+  },
+  {
+    "name": "AWP | Hyper Beast (Minimal Wear)",
+    "price": 40.11,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AWP | Hyper Beast",
+    "id": "skin-591724"
+  },
+  {
+    "name": "StatTrak™ AWP | Hyper Beast (Factory New)",
+    "price": 246.15,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AWP | Hyper Beast",
+    "id": "skin-591724"
+  },
+  {
+    "name": "StatTrak™ AWP | Hyper Beast (Well-Worn)",
+    "price": 42.87,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AWP | Hyper Beast",
+    "id": "skin-591724"
+  },
+  {
+    "name": "AWP | Hyper Beast (Well-Worn)",
+    "price": 17.48,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AWP | Hyper Beast",
+    "id": "skin-591724"
+  },
+  {
+    "name": "AWP | Hyper Beast (Field-Tested)",
+    "price": 24.24,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AWP | Hyper Beast",
+    "id": "skin-591724"
+  },
+  {
+    "name": "StatTrak™ AWP | Hyper Beast (Battle-Scarred)",
+    "price": 37.64,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AWP | Hyper Beast",
+    "id": "skin-591724"
+  }
+]

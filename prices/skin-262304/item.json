@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Glock-18 | Night (Factory New)",
+    "price": 23.94,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Glock-18 | Night",
+    "id": "skin-262304"
+  },
+  {
+    "name": "Glock-18 | Night (Well-Worn)",
+    "price": 1.17,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Glock-18 | Night",
+    "id": "skin-262304"
+  },
+  {
+    "name": "Glock-18 | Night (Battle-Scarred)",
+    "price": 1.13,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Glock-18 | Night",
+    "id": "skin-262304"
+  },
+  {
+    "name": "Glock-18 | Night (Minimal Wear)",
+    "price": 2,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Glock-18 | Night",
+    "id": "skin-262304"
+  },
+  {
+    "name": "Glock-18 | Night (Field-Tested)",
+    "price": 1.24,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Glock-18 | Night",
+    "id": "skin-262304"
+  }
+]

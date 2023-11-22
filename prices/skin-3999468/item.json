@@ -1,0 +1,29 @@
+[
+  {
+    "name": "USP-S | Pathfinder (Factory New)",
+    "price": 18.12,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "USP-S | Pathfinder",
+    "id": "skin-3999468"
+  },
+  {
+    "name": "USP-S | Pathfinder (Field-Tested)",
+    "price": 17.69,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "USP-S | Pathfinder",
+    "id": "skin-3999468"
+  },
+  {
+    "name": "USP-S | Pathfinder (Minimal Wear)",
+    "price": 17.41,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "USP-S | Pathfinder",
+    "id": "skin-3999468"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "name": "AWP | Silk Tiger (Field-Tested)",
+    "price": 106.14,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AWP | Silk Tiger",
+    "id": "skin-593940"
+  },
+  {
+    "name": "AWP | Silk Tiger (Minimal Wear)",
+    "price": 184.99,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AWP | Silk Tiger",
+    "id": "skin-593940"
+  },
+  {
+    "name": "AWP | Silk Tiger (Factory New)",
+    "price": 201.86,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AWP | Silk Tiger",
+    "id": "skin-593940"
+  },
+  {
+    "name": "AWP | Silk Tiger (Battle-Scarred)",
+    "price": 104.21,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AWP | Silk Tiger",
+    "id": "skin-593940"
+  },
+  {
+    "name": "AWP | Silk Tiger (Well-Worn)",
+    "price": 99.49,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AWP | Silk Tiger",
+    "id": "skin-593940"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "name": "★ Bayonet | Black Laminate (Factory New)",
+    "price": 507.38,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Bayonet | Black Laminate",
+    "id": "skin-32770252"
+  },
+  {
+    "name": "★ Bayonet | Black Laminate (Minimal Wear)",
+    "price": 286.32,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Bayonet | Black Laminate",
+    "id": "skin-32770252"
+  },
+  {
+    "name": "★ Bayonet | Black Laminate (Battle-Scarred)",
+    "price": 239.98,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Bayonet | Black Laminate",
+    "id": "skin-32770252"
+  },
+  {
+    "name": "★ StatTrak™ Bayonet | Black Laminate (Battle-Scarred)",
+    "price": 258.56,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Bayonet | Black Laminate",
+    "id": "skin-32770252"
+  },
+  {
+    "name": "★ Bayonet | Black Laminate (Field-Tested)",
+    "price": 250.95,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Bayonet | Black Laminate",
+    "id": "skin-32770252"
+  },
+  {
+    "name": "★ StatTrak™ Bayonet | Black Laminate (Minimal Wear)",
+    "price": 299.43,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Bayonet | Black Laminate",
+    "id": "skin-32770252"
+  },
+  {
+    "name": "★ StatTrak™ Bayonet | Black Laminate (Well-Worn)",
+    "price": 279.75,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Bayonet | Black Laminate",
+    "id": "skin-32770252"
+  },
+  {
+    "name": "★ StatTrak™ Bayonet | Black Laminate (Field-Tested)",
+    "price": 260.41,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Bayonet | Black Laminate",
+    "id": "skin-32770252"
+  },
+  {
+    "name": "★ StatTrak™ Bayonet | Black Laminate (Factory New)",
+    "price": 548.52,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Bayonet | Black Laminate",
+    "id": "skin-32770252"
+  },
+  {
+    "name": "★ Bayonet | Black Laminate (Well-Worn)",
+    "price": 232.99,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Bayonet | Black Laminate",
+    "id": "skin-32770252"
+  }
+]

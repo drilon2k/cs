@@ -1,0 +1,20 @@
+[
+  {
+    "name": "P2000 | Silver (Factory New)",
+    "price": 31.33,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P2000 | Silver",
+    "id": "skin-2097280"
+  },
+  {
+    "name": "P2000 | Silver (Minimal Wear)",
+    "price": 46.44,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P2000 | Silver",
+    "id": "skin-2097280"
+  }
+]

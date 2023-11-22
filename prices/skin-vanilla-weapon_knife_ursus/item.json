@@ -1,0 +1,20 @@
+[
+  {
+    "name": "★ StatTrak™ Ursus Knife",
+    "price": 217.86,
+    "wear": null,
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Ursus Knife",
+    "id": "skin-vanilla-weapon_knife_ursus"
+  },
+  {
+    "name": "★ Ursus Knife",
+    "price": 241.3,
+    "wear": null,
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Ursus Knife",
+    "id": "skin-vanilla-weapon_knife_ursus"
+  }
+]

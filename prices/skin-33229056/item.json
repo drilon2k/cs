@@ -1,0 +1,92 @@
+[
+  {
+    "name": "★ Karambit | Autotronic (Field-Tested)",
+    "price": 781.58,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Karambit | Autotronic",
+    "id": "skin-33229056"
+  },
+  {
+    "name": "★ Karambit | Autotronic (Factory New)",
+    "price": 1670.25,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Karambit | Autotronic",
+    "id": "skin-33229056"
+  },
+  {
+    "name": "★ Karambit | Autotronic (Battle-Scarred)",
+    "price": 644.38,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Karambit | Autotronic",
+    "id": "skin-33229056"
+  },
+  {
+    "name": "★ StatTrak™ Karambit | Autotronic (Well-Worn)",
+    "price": 795.36,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Karambit | Autotronic",
+    "id": "skin-33229056"
+  },
+  {
+    "name": "★ Karambit | Autotronic (Well-Worn)",
+    "price": 767.93,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Karambit | Autotronic",
+    "id": "skin-33229056"
+  },
+  {
+    "name": "★ Karambit | Autotronic (Minimal Wear)",
+    "price": 1020.46,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Karambit | Autotronic",
+    "id": "skin-33229056"
+  },
+  {
+    "name": "★ StatTrak™ Karambit | Autotronic (Battle-Scarred)",
+    "price": 713.01,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Karambit | Autotronic",
+    "id": "skin-33229056"
+  },
+  {
+    "name": "★ StatTrak™ Karambit | Autotronic (Minimal Wear)",
+    "price": 999.41,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Karambit | Autotronic",
+    "id": "skin-33229056"
+  },
+  {
+    "name": "★ StatTrak™ Karambit | Autotronic (Factory New)",
+    "price": 1988.26,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Karambit | Autotronic",
+    "id": "skin-33229056"
+  },
+  {
+    "name": "★ StatTrak™ Karambit | Autotronic (Field-Tested)",
+    "price": 808.94,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Karambit | Autotronic",
+    "id": "skin-33229056"
+  }
+]

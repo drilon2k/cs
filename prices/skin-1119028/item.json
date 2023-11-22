@@ -1,0 +1,56 @@
+[
+  {
+    "name": "MAC-10 | Sakkaku (Field-Tested)",
+    "price": 0.84,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MAC-10 | Sakkaku",
+    "id": "skin-1119028"
+  },
+  {
+    "name": "StatTrak™ MAC-10 | Sakkaku (Field-Tested)",
+    "price": 2.3,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MAC-10 | Sakkaku",
+    "id": "skin-1119028"
+  },
+  {
+    "name": "StatTrak™ MAC-10 | Sakkaku (Battle-Scarred)",
+    "price": 0.62,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MAC-10 | Sakkaku",
+    "id": "skin-1119028"
+  },
+  {
+    "name": "MAC-10 | Sakkaku (Battle-Scarred)",
+    "price": 0.24,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MAC-10 | Sakkaku",
+    "id": "skin-1119028"
+  },
+  {
+    "name": "StatTrak™ MAC-10 | Sakkaku (Well-Worn)",
+    "price": 1.16,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MAC-10 | Sakkaku",
+    "id": "skin-1119028"
+  },
+  {
+    "name": "MAC-10 | Sakkaku (Well-Worn)",
+    "price": 0.37,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MAC-10 | Sakkaku",
+    "id": "skin-1119028"
+  }
+]

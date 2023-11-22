@@ -1,0 +1,56 @@
+[
+  {
+    "name": "R8 Revolver | Skull Crusher (Well-Worn)",
+    "price": 0.96,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "R8 Revolver | Skull Crusher",
+    "id": "skin-4197676"
+  },
+  {
+    "name": "StatTrak™ R8 Revolver | Skull Crusher (Well-Worn)",
+    "price": 1.85,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "R8 Revolver | Skull Crusher",
+    "id": "skin-4197676"
+  },
+  {
+    "name": "R8 Revolver | Skull Crusher (Battle-Scarred)",
+    "price": 0.9,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "R8 Revolver | Skull Crusher",
+    "id": "skin-4197676"
+  },
+  {
+    "name": "R8 Revolver | Skull Crusher (Field-Tested)",
+    "price": 1.08,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "R8 Revolver | Skull Crusher",
+    "id": "skin-4197676"
+  },
+  {
+    "name": "StatTrak™ R8 Revolver | Skull Crusher (Field-Tested)",
+    "price": 2.4,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "R8 Revolver | Skull Crusher",
+    "id": "skin-4197676"
+  },
+  {
+    "name": "StatTrak™ R8 Revolver | Skull Crusher (Battle-Scarred)",
+    "price": 1.83,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "R8 Revolver | Skull Crusher",
+    "id": "skin-4197676"
+  }
+]

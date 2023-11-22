@@ -1,0 +1,92 @@
+[
+  {
+    "name": "MP9 | Ruby Poison Dart (Battle-Scarred)",
+    "price": 0.61,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MP9 | Ruby Poison Dart",
+    "id": "skin-2230152"
+  },
+  {
+    "name": "MP9 | Ruby Poison Dart (Field-Tested)",
+    "price": 0.54,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MP9 | Ruby Poison Dart",
+    "id": "skin-2230152"
+  },
+  {
+    "name": "StatTrak™ MP9 | Ruby Poison Dart (Well-Worn)",
+    "price": 1.26,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MP9 | Ruby Poison Dart",
+    "id": "skin-2230152"
+  },
+  {
+    "name": "StatTrak™ MP9 | Ruby Poison Dart (Minimal Wear)",
+    "price": 2.13,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MP9 | Ruby Poison Dart",
+    "id": "skin-2230152"
+  },
+  {
+    "name": "MP9 | Ruby Poison Dart (Factory New)",
+    "price": 1.23,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MP9 | Ruby Poison Dart",
+    "id": "skin-2230152"
+  },
+  {
+    "name": "StatTrak™ MP9 | Ruby Poison Dart (Field-Tested)",
+    "price": 1.37,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MP9 | Ruby Poison Dart",
+    "id": "skin-2230152"
+  },
+  {
+    "name": "StatTrak™ MP9 | Ruby Poison Dart (Battle-Scarred)",
+    "price": 1.26,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MP9 | Ruby Poison Dart",
+    "id": "skin-2230152"
+  },
+  {
+    "name": "MP9 | Ruby Poison Dart (Well-Worn)",
+    "price": 0.5,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MP9 | Ruby Poison Dart",
+    "id": "skin-2230152"
+  },
+  {
+    "name": "StatTrak™ MP9 | Ruby Poison Dart (Factory New)",
+    "price": 3.98,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MP9 | Ruby Poison Dart",
+    "id": "skin-2230152"
+  },
+  {
+    "name": "MP9 | Ruby Poison Dart (Minimal Wear)",
+    "price": 0.75,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MP9 | Ruby Poison Dart",
+    "id": "skin-2230152"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "name": "★ Classic Knife | Case Hardened (Field-Tested)",
+    "price": 201.51,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Classic Knife | Case Hardened",
+    "id": "skin-32964784"
+  },
+  {
+    "name": "★ StatTrak™ Classic Knife | Case Hardened (Minimal Wear)",
+    "price": 274.19,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Classic Knife | Case Hardened",
+    "id": "skin-32964784"
+  },
+  {
+    "name": "★ StatTrak™ Classic Knife | Case Hardened (Factory New)",
+    "price": 589.66,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Classic Knife | Case Hardened",
+    "id": "skin-32964784"
+  },
+  {
+    "name": "★ StatTrak™ Classic Knife | Case Hardened (Battle-Scarred)",
+    "price": 190.47,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Classic Knife | Case Hardened",
+    "id": "skin-32964784"
+  },
+  {
+    "name": "★ StatTrak™ Classic Knife | Case Hardened (Well-Worn)",
+    "price": 226.94,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Classic Knife | Case Hardened",
+    "id": "skin-32964784"
+  },
+  {
+    "name": "★ Classic Knife | Case Hardened (Factory New)",
+    "price": 379.5,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Classic Knife | Case Hardened",
+    "id": "skin-32964784"
+  },
+  {
+    "name": "★ Classic Knife | Case Hardened (Battle-Scarred)",
+    "price": 172.85,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Classic Knife | Case Hardened",
+    "id": "skin-32964784"
+  },
+  {
+    "name": "★ Classic Knife | Case Hardened (Minimal Wear)",
+    "price": 241.35,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Classic Knife | Case Hardened",
+    "id": "skin-32964784"
+  },
+  {
+    "name": "★ StatTrak™ Classic Knife | Case Hardened (Field-Tested)",
+    "price": 231.48,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Classic Knife | Case Hardened",
+    "id": "skin-32964784"
+  },
+  {
+    "name": "★ Classic Knife | Case Hardened (Well-Worn)",
+    "price": 178.27,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Classic Knife | Case Hardened",
+    "id": "skin-32964784"
+  }
+]

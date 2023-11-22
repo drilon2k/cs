@@ -1,0 +1,38 @@
+[
+  {
+    "name": "USP-S | Ancient Visions (Well-Worn)",
+    "price": 37.84,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "USP-S | Ancient Visions",
+    "id": "skin-4001820"
+  },
+  {
+    "name": "USP-S | Ancient Visions (Minimal Wear)",
+    "price": 37.71,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "USP-S | Ancient Visions",
+    "id": "skin-4001820"
+  },
+  {
+    "name": "USP-S | Ancient Visions (Factory New)",
+    "price": 38.4,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "USP-S | Ancient Visions",
+    "id": "skin-4001820"
+  },
+  {
+    "name": "USP-S | Ancient Visions (Field-Tested)",
+    "price": 36.47,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "USP-S | Ancient Visions",
+    "id": "skin-4001820"
+  }
+]

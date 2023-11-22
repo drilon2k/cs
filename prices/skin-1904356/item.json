@@ -1,0 +1,92 @@
+[
+  {
+    "name": "StatTrak™ Sawed-Off | Apocalypto (Factory New)",
+    "price": 3.36,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Sawed-Off | Apocalypto",
+    "id": "skin-1904356"
+  },
+  {
+    "name": "Sawed-Off | Apocalypto (Field-Tested)",
+    "price": 0.25,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Sawed-Off | Apocalypto",
+    "id": "skin-1904356"
+  },
+  {
+    "name": "StatTrak™ Sawed-Off | Apocalypto (Field-Tested)",
+    "price": 0.62,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Sawed-Off | Apocalypto",
+    "id": "skin-1904356"
+  },
+  {
+    "name": "Sawed-Off | Apocalypto (Battle-Scarred)",
+    "price": 0.21,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Sawed-Off | Apocalypto",
+    "id": "skin-1904356"
+  },
+  {
+    "name": "Sawed-Off | Apocalypto (Factory New)",
+    "price": 1.16,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Sawed-Off | Apocalypto",
+    "id": "skin-1904356"
+  },
+  {
+    "name": "Sawed-Off | Apocalypto (Minimal Wear)",
+    "price": 0.44,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Sawed-Off | Apocalypto",
+    "id": "skin-1904356"
+  },
+  {
+    "name": "StatTrak™ Sawed-Off | Apocalypto (Battle-Scarred)",
+    "price": 0.66,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Sawed-Off | Apocalypto",
+    "id": "skin-1904356"
+  },
+  {
+    "name": "Sawed-Off | Apocalypto (Well-Worn)",
+    "price": 0.23,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Sawed-Off | Apocalypto",
+    "id": "skin-1904356"
+  },
+  {
+    "name": "StatTrak™ Sawed-Off | Apocalypto (Minimal Wear)",
+    "price": 1.26,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Sawed-Off | Apocalypto",
+    "id": "skin-1904356"
+  },
+  {
+    "name": "StatTrak™ Sawed-Off | Apocalypto (Well-Worn)",
+    "price": 0.58,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Sawed-Off | Apocalypto",
+    "id": "skin-1904356"
+  }
+]

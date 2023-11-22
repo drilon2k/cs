@@ -1,0 +1,38 @@
+[
+  {
+    "name": "★ Bowie Knife | Rust Coat (Well-Worn)",
+    "price": 93.25,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Bowie Knife | Rust Coat",
+    "id": "skin-33687160"
+  },
+  {
+    "name": "★ StatTrak™ Bowie Knife | Rust Coat (Well-Worn)",
+    "price": 137.13,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Bowie Knife | Rust Coat",
+    "id": "skin-33687160"
+  },
+  {
+    "name": "★ StatTrak™ Bowie Knife | Rust Coat (Battle-Scarred)",
+    "price": 101.06,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Bowie Knife | Rust Coat",
+    "id": "skin-33687160"
+  },
+  {
+    "name": "★ Bowie Knife | Rust Coat (Battle-Scarred)",
+    "price": 85.09,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Bowie Knife | Rust Coat",
+    "id": "skin-33687160"
+  }
+]

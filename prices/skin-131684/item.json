@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Dual Berettas | Demolition (Field-Tested)",
+    "price": 9.13,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Dual Berettas | Demolition",
+    "id": "skin-131684"
+  },
+  {
+    "name": "Dual Berettas | Demolition (Battle-Scarred)",
+    "price": 7.29,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Dual Berettas | Demolition",
+    "id": "skin-131684"
+  },
+  {
+    "name": "Dual Berettas | Demolition (Well-Worn)",
+    "price": 6.96,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Dual Berettas | Demolition",
+    "id": "skin-131684"
+  }
+]

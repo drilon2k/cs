@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Tec-9 | Orange Murano (Well-Worn)",
+    "price": 4.1,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Tec-9 | Orange Murano",
+    "id": "skin-1969032"
+  },
+  {
+    "name": "Tec-9 | Orange Murano (Factory New)",
+    "price": 4.66,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Tec-9 | Orange Murano",
+    "id": "skin-1969032"
+  },
+  {
+    "name": "Tec-9 | Orange Murano (Battle-Scarred)",
+    "price": 3.98,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Tec-9 | Orange Murano",
+    "id": "skin-1969032"
+  },
+  {
+    "name": "Tec-9 | Orange Murano (Minimal Wear)",
+    "price": 4.54,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Tec-9 | Orange Murano",
+    "id": "skin-1969032"
+  },
+  {
+    "name": "Tec-9 | Orange Murano (Field-Tested)",
+    "price": 4.38,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Tec-9 | Orange Murano",
+    "id": "skin-1969032"
+  }
+]

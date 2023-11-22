@@ -1,0 +1,92 @@
+[
+  {
+    "name": "★ M9 Bayonet | Stained (Field-Tested)",
+    "price": 420.99,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ M9 Bayonet | Stained",
+    "id": "skin-33292460"
+  },
+  {
+    "name": "★ M9 Bayonet | Stained (Well-Worn)",
+    "price": 389.38,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ M9 Bayonet | Stained",
+    "id": "skin-33292460"
+  },
+  {
+    "name": "★ M9 Bayonet | Stained (Battle-Scarred)",
+    "price": 396.31,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ M9 Bayonet | Stained",
+    "id": "skin-33292460"
+  },
+  {
+    "name": "★ StatTrak™ M9 Bayonet | Stained (Well-Worn)",
+    "price": 404.54,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ M9 Bayonet | Stained",
+    "id": "skin-33292460"
+  },
+  {
+    "name": "★ StatTrak™ M9 Bayonet | Stained (Field-Tested)",
+    "price": 452.46,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ M9 Bayonet | Stained",
+    "id": "skin-33292460"
+  },
+  {
+    "name": "★ StatTrak™ M9 Bayonet | Stained (Minimal Wear)",
+    "price": 520.41,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ M9 Bayonet | Stained",
+    "id": "skin-33292460"
+  },
+  {
+    "name": "★ StatTrak™ M9 Bayonet | Stained (Factory New)",
+    "price": 658.23,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ M9 Bayonet | Stained",
+    "id": "skin-33292460"
+  },
+  {
+    "name": "★ M9 Bayonet | Stained (Factory New)",
+    "price": 630.73,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ M9 Bayonet | Stained",
+    "id": "skin-33292460"
+  },
+  {
+    "name": "★ StatTrak™ M9 Bayonet | Stained (Battle-Scarred)",
+    "price": 411.39,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ M9 Bayonet | Stained",
+    "id": "skin-33292460"
+  },
+  {
+    "name": "★ M9 Bayonet | Stained (Minimal Wear)",
+    "price": 477.22,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ M9 Bayonet | Stained",
+    "id": "skin-33292460"
+  }
+]

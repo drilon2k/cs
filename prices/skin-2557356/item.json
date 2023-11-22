@@ -1,0 +1,47 @@
+[
+  {
+    "name": "SG 553 | Traveler (Well-Worn)",
+    "price": 5.21,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "SG 553 | Traveler",
+    "id": "skin-2557356"
+  },
+  {
+    "name": "SG 553 | Traveler (Battle-Scarred)",
+    "price": 6.24,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "SG 553 | Traveler",
+    "id": "skin-2557356"
+  },
+  {
+    "name": "SG 553 | Traveler (Factory New)",
+    "price": 15.91,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "SG 553 | Traveler",
+    "id": "skin-2557356"
+  },
+  {
+    "name": "SG 553 | Traveler (Field-Tested)",
+    "price": 5.37,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "SG 553 | Traveler",
+    "id": "skin-2557356"
+  },
+  {
+    "name": "SG 553 | Traveler (Minimal Wear)",
+    "price": 6.39,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "SG 553 | Traveler",
+    "id": "skin-2557356"
+  }
+]

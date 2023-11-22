@@ -1,0 +1,47 @@
+[
+  {
+    "name": "MP7 | Full Stop (Well-Worn)",
+    "price": 46.49,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MP7 | Full Stop",
+    "id": "skin-2163688"
+  },
+  {
+    "name": "MP7 | Full Stop (Factory New)",
+    "price": 19.75,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MP7 | Full Stop",
+    "id": "skin-2163688"
+  },
+  {
+    "name": "MP7 | Full Stop (Minimal Wear)",
+    "price": 20.71,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MP7 | Full Stop",
+    "id": "skin-2163688"
+  },
+  {
+    "name": "MP7 | Full Stop (Battle-Scarred)",
+    "price": 19.18,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MP7 | Full Stop",
+    "id": "skin-2163688"
+  },
+  {
+    "name": "MP7 | Full Stop (Field-Tested)",
+    "price": 19.68,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MP7 | Full Stop",
+    "id": "skin-2163688"
+  }
+]

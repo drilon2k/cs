@@ -1,0 +1,92 @@
+[
+  {
+    "name": "★ Classic Knife | Safari Mesh (Field-Tested)",
+    "price": 92.84,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Classic Knife | Safari Mesh",
+    "id": "skin-32964896"
+  },
+  {
+    "name": "★ StatTrak™ Classic Knife | Safari Mesh (Minimal Wear)",
+    "price": 113.82,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Classic Knife | Safari Mesh",
+    "id": "skin-32964896"
+  },
+  {
+    "name": "★ StatTrak™ Classic Knife | Safari Mesh (Battle-Scarred)",
+    "price": 109.7,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Classic Knife | Safari Mesh",
+    "id": "skin-32964896"
+  },
+  {
+    "name": "★ Classic Knife | Safari Mesh (Minimal Wear)",
+    "price": 96.68,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Classic Knife | Safari Mesh",
+    "id": "skin-32964896"
+  },
+  {
+    "name": "★ StatTrak™ Classic Knife | Safari Mesh (Well-Worn)",
+    "price": 108.92,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Classic Knife | Safari Mesh",
+    "id": "skin-32964896"
+  },
+  {
+    "name": "★ Classic Knife | Safari Mesh (Well-Worn)",
+    "price": 98.12,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Classic Knife | Safari Mesh",
+    "id": "skin-32964896"
+  },
+  {
+    "name": "★ Classic Knife | Safari Mesh (Factory New)",
+    "price": 198.84,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Classic Knife | Safari Mesh",
+    "id": "skin-32964896"
+  },
+  {
+    "name": "★ StatTrak™ Classic Knife | Safari Mesh (Factory New)",
+    "price": 0,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Classic Knife | Safari Mesh",
+    "id": "skin-32964896"
+  },
+  {
+    "name": "★ Classic Knife | Safari Mesh (Battle-Scarred)",
+    "price": 97.5,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Classic Knife | Safari Mesh",
+    "id": "skin-32964896"
+  },
+  {
+    "name": "★ StatTrak™ Classic Knife | Safari Mesh (Field-Tested)",
+    "price": 90.23,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Classic Knife | Safari Mesh",
+    "id": "skin-32964896"
+  }
+]

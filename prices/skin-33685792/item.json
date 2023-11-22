@@ -1,0 +1,92 @@
+[
+  {
+    "name": "★ StatTrak™ Bowie Knife | Safari Mesh (Battle-Scarred)",
+    "price": 109.62,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Bowie Knife | Safari Mesh",
+    "id": "skin-33685792"
+  },
+  {
+    "name": "★ StatTrak™ Bowie Knife | Safari Mesh (Factory New)",
+    "price": 0,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Bowie Knife | Safari Mesh",
+    "id": "skin-33685792"
+  },
+  {
+    "name": "★ StatTrak™ Bowie Knife | Safari Mesh (Well-Worn)",
+    "price": 109.45,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Bowie Knife | Safari Mesh",
+    "id": "skin-33685792"
+  },
+  {
+    "name": "★ StatTrak™ Bowie Knife | Safari Mesh (Field-Tested)",
+    "price": 89.82,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Bowie Knife | Safari Mesh",
+    "id": "skin-33685792"
+  },
+  {
+    "name": "★ Bowie Knife | Safari Mesh (Field-Tested)",
+    "price": 82.82,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Bowie Knife | Safari Mesh",
+    "id": "skin-33685792"
+  },
+  {
+    "name": "★ Bowie Knife | Safari Mesh (Minimal Wear)",
+    "price": 91.33,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Bowie Knife | Safari Mesh",
+    "id": "skin-33685792"
+  },
+  {
+    "name": "★ StatTrak™ Bowie Knife | Safari Mesh (Minimal Wear)",
+    "price": 121.98,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Bowie Knife | Safari Mesh",
+    "id": "skin-33685792"
+  },
+  {
+    "name": "★ Bowie Knife | Safari Mesh (Battle-Scarred)",
+    "price": 83.03,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Bowie Knife | Safari Mesh",
+    "id": "skin-33685792"
+  },
+  {
+    "name": "★ Bowie Knife | Safari Mesh (Well-Worn)",
+    "price": 83.84,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Bowie Knife | Safari Mesh",
+    "id": "skin-33685792"
+  },
+  {
+    "name": "★ Bowie Knife | Safari Mesh (Factory New)",
+    "price": 0,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Bowie Knife | Safari Mesh",
+    "id": "skin-33685792"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "name": "AWP | Gungnir (Minimal Wear)",
+    "price": 8913.37,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AWP | Gungnir",
+    "id": "skin-592848"
+  },
+  {
+    "name": "AWP | Gungnir (Field-Tested)",
+    "price": 6959.4,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AWP | Gungnir",
+    "id": "skin-592848"
+  },
+  {
+    "name": "AWP | Gungnir (Battle-Scarred)",
+    "price": 6650.85,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AWP | Gungnir",
+    "id": "skin-592848"
+  },
+  {
+    "name": "AWP | Gungnir (Factory New)",
+    "price": 10284.34,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AWP | Gungnir",
+    "id": "skin-592848"
+  },
+  {
+    "name": "AWP | Gungnir (Well-Worn)",
+    "price": 6931.97,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AWP | Gungnir",
+    "id": "skin-592848"
+  }
+]

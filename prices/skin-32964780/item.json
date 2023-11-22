@@ -1,0 +1,92 @@
+[
+  {
+    "name": "★ Classic Knife | Stained (Well-Worn)",
+    "price": 119.17,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Classic Knife | Stained",
+    "id": "skin-32964780"
+  },
+  {
+    "name": "★ Classic Knife | Stained (Minimal Wear)",
+    "price": 162.77,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Classic Knife | Stained",
+    "id": "skin-32964780"
+  },
+  {
+    "name": "★ StatTrak™ Classic Knife | Stained (Minimal Wear)",
+    "price": 175.46,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Classic Knife | Stained",
+    "id": "skin-32964780"
+  },
+  {
+    "name": "★ Classic Knife | Stained (Battle-Scarred)",
+    "price": 121.7,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Classic Knife | Stained",
+    "id": "skin-32964780"
+  },
+  {
+    "name": "★ StatTrak™ Classic Knife | Stained (Factory New)",
+    "price": 301.69,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Classic Knife | Stained",
+    "id": "skin-32964780"
+  },
+  {
+    "name": "★ StatTrak™ Classic Knife | Stained (Well-Worn)",
+    "price": 145.22,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Classic Knife | Stained",
+    "id": "skin-32964780"
+  },
+  {
+    "name": "★ Classic Knife | Stained (Field-Tested)",
+    "price": 138.5,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Classic Knife | Stained",
+    "id": "skin-32964780"
+  },
+  {
+    "name": "★ StatTrak™ Classic Knife | Stained (Field-Tested)",
+    "price": 150.84,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Classic Knife | Stained",
+    "id": "skin-32964780"
+  },
+  {
+    "name": "★ StatTrak™ Classic Knife | Stained (Battle-Scarred)",
+    "price": 164.28,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Classic Knife | Stained",
+    "id": "skin-32964780"
+  },
+  {
+    "name": "★ Classic Knife | Stained (Factory New)",
+    "price": 216.67,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Classic Knife | Stained",
+    "id": "skin-32964780"
+  }
+]

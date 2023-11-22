@@ -1,0 +1,92 @@
+[
+  {
+    "name": "StatTrak™ XM1014 | Seasons (Field-Tested)",
+    "price": 2,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "XM1014 | Seasons",
+    "id": "skin-1641016"
+  },
+  {
+    "name": "XM1014 | Seasons (Well-Worn)",
+    "price": 1.12,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "XM1014 | Seasons",
+    "id": "skin-1641016"
+  },
+  {
+    "name": "XM1014 | Seasons (Field-Tested)",
+    "price": 1.11,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "XM1014 | Seasons",
+    "id": "skin-1641016"
+  },
+  {
+    "name": "StatTrak™ XM1014 | Seasons (Factory New)",
+    "price": 5.28,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "XM1014 | Seasons",
+    "id": "skin-1641016"
+  },
+  {
+    "name": "StatTrak™ XM1014 | Seasons (Battle-Scarred)",
+    "price": 2.18,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "XM1014 | Seasons",
+    "id": "skin-1641016"
+  },
+  {
+    "name": "XM1014 | Seasons (Factory New)",
+    "price": 2.06,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "XM1014 | Seasons",
+    "id": "skin-1641016"
+  },
+  {
+    "name": "XM1014 | Seasons (Battle-Scarred)",
+    "price": 1.15,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "XM1014 | Seasons",
+    "id": "skin-1641016"
+  },
+  {
+    "name": "XM1014 | Seasons (Minimal Wear)",
+    "price": 1.22,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "XM1014 | Seasons",
+    "id": "skin-1641016"
+  },
+  {
+    "name": "StatTrak™ XM1014 | Seasons (Well-Worn)",
+    "price": 2.12,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "XM1014 | Seasons",
+    "id": "skin-1641016"
+  },
+  {
+    "name": "StatTrak™ XM1014 | Seasons (Minimal Wear)",
+    "price": 2.93,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "XM1014 | Seasons",
+    "id": "skin-1641016"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "name": "StatTrak™ UMP-45 | Wild Child (Field-Tested)",
+    "price": 4.13,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "UMP-45 | Wild Child",
+    "id": "skin-1577808"
+  },
+  {
+    "name": "UMP-45 | Wild Child (Minimal Wear)",
+    "price": 4.77,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "UMP-45 | Wild Child",
+    "id": "skin-1577808"
+  },
+  {
+    "name": "UMP-45 | Wild Child (Well-Worn)",
+    "price": 1.43,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "UMP-45 | Wild Child",
+    "id": "skin-1577808"
+  },
+  {
+    "name": "UMP-45 | Wild Child (Factory New)",
+    "price": 12.25,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "UMP-45 | Wild Child",
+    "id": "skin-1577808"
+  },
+  {
+    "name": "StatTrak™ UMP-45 | Wild Child (Factory New)",
+    "price": 30.85,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "UMP-45 | Wild Child",
+    "id": "skin-1577808"
+  },
+  {
+    "name": "StatTrak™ UMP-45 | Wild Child (Well-Worn)",
+    "price": 2.93,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "UMP-45 | Wild Child",
+    "id": "skin-1577808"
+  },
+  {
+    "name": "UMP-45 | Wild Child (Battle-Scarred)",
+    "price": 1.32,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "UMP-45 | Wild Child",
+    "id": "skin-1577808"
+  },
+  {
+    "name": "UMP-45 | Wild Child (Field-Tested)",
+    "price": 2.01,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "UMP-45 | Wild Child",
+    "id": "skin-1577808"
+  },
+  {
+    "name": "StatTrak™ UMP-45 | Wild Child (Minimal Wear)",
+    "price": 11.24,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "UMP-45 | Wild Child",
+    "id": "skin-1577808"
+  },
+  {
+    "name": "StatTrak™ UMP-45 | Wild Child (Battle-Scarred)",
+    "price": 2.67,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "UMP-45 | Wild Child",
+    "id": "skin-1577808"
+  }
+]

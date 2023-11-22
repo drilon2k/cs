@@ -1,0 +1,47 @@
+[
+  {
+    "name": "SCAR-20 | Brass (Factory New)",
+    "price": 84.95,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "SCAR-20 | Brass",
+    "id": "skin-2491004"
+  },
+  {
+    "name": "SCAR-20 | Brass (Minimal Wear)",
+    "price": 80.17,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "SCAR-20 | Brass",
+    "id": "skin-2491004"
+  },
+  {
+    "name": "SCAR-20 | Brass (Battle-Scarred)",
+    "price": 80.5,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "SCAR-20 | Brass",
+    "id": "skin-2491004"
+  },
+  {
+    "name": "SCAR-20 | Brass (Well-Worn)",
+    "price": 185.13,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "SCAR-20 | Brass",
+    "id": "skin-2491004"
+  },
+  {
+    "name": "SCAR-20 | Brass (Field-Tested)",
+    "price": 73.78,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "SCAR-20 | Brass",
+    "id": "skin-2491004"
+  }
+]

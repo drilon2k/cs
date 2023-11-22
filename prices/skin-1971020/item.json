@@ -1,0 +1,92 @@
+[
+  {
+    "name": "StatTrak™ Tec-9 | Rebel (Field-Tested)",
+    "price": 0.15,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Tec-9 | Rebel",
+    "id": "skin-1971020"
+  },
+  {
+    "name": "StatTrak™ Tec-9 | Rebel (Minimal Wear)",
+    "price": 0.33,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Tec-9 | Rebel",
+    "id": "skin-1971020"
+  },
+  {
+    "name": "StatTrak™ Tec-9 | Rebel (Battle-Scarred)",
+    "price": 0.15,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Tec-9 | Rebel",
+    "id": "skin-1971020"
+  },
+  {
+    "name": "Tec-9 | Rebel (Battle-Scarred)",
+    "price": 0.04,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Tec-9 | Rebel",
+    "id": "skin-1971020"
+  },
+  {
+    "name": "Tec-9 | Rebel (Minimal Wear)",
+    "price": 0.11,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Tec-9 | Rebel",
+    "id": "skin-1971020"
+  },
+  {
+    "name": "Tec-9 | Rebel (Field-Tested)",
+    "price": 0.05,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Tec-9 | Rebel",
+    "id": "skin-1971020"
+  },
+  {
+    "name": "Tec-9 | Rebel (Factory New)",
+    "price": 0.23,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Tec-9 | Rebel",
+    "id": "skin-1971020"
+  },
+  {
+    "name": "StatTrak™ Tec-9 | Rebel (Well-Worn)",
+    "price": 0.12,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Tec-9 | Rebel",
+    "id": "skin-1971020"
+  },
+  {
+    "name": "Tec-9 | Rebel (Well-Worn)",
+    "price": 0.04,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Tec-9 | Rebel",
+    "id": "skin-1971020"
+  },
+  {
+    "name": "StatTrak™ Tec-9 | Rebel (Factory New)",
+    "price": 1.08,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Tec-9 | Rebel",
+    "id": "skin-1971020"
+  }
+]

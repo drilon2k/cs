@@ -1,0 +1,47 @@
+[
+  {
+    "name": "AK-47 | Safety Net (Field-Tested)",
+    "price": 2.84,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AK-47 | Safety Net",
+    "id": "skin-461932"
+  },
+  {
+    "name": "AK-47 | Safety Net (Minimal Wear)",
+    "price": 4.53,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AK-47 | Safety Net",
+    "id": "skin-461932"
+  },
+  {
+    "name": "AK-47 | Safety Net (Well-Worn)",
+    "price": 4.39,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AK-47 | Safety Net",
+    "id": "skin-461932"
+  },
+  {
+    "name": "AK-47 | Safety Net (Factory New)",
+    "price": 7.51,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AK-47 | Safety Net",
+    "id": "skin-461932"
+  },
+  {
+    "name": "AK-47 | Safety Net (Battle-Scarred)",
+    "price": 2.86,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AK-47 | Safety Net",
+    "id": "skin-461932"
+  }
+]

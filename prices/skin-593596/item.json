@@ -1,0 +1,92 @@
+[
+  {
+    "name": "StatTrak™ AWP | Capillary (Factory New)",
+    "price": 8.52,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AWP | Capillary",
+    "id": "skin-593596"
+  },
+  {
+    "name": "StatTrak™ AWP | Capillary (Minimal Wear)",
+    "price": 1.31,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AWP | Capillary",
+    "id": "skin-593596"
+  },
+  {
+    "name": "AWP | Capillary (Battle-Scarred)",
+    "price": 0.12,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AWP | Capillary",
+    "id": "skin-593596"
+  },
+  {
+    "name": "StatTrak™ AWP | Capillary (Field-Tested)",
+    "price": 0.73,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AWP | Capillary",
+    "id": "skin-593596"
+  },
+  {
+    "name": "AWP | Capillary (Factory New)",
+    "price": 1.46,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AWP | Capillary",
+    "id": "skin-593596"
+  },
+  {
+    "name": "AWP | Capillary (Well-Worn)",
+    "price": 0.23,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AWP | Capillary",
+    "id": "skin-593596"
+  },
+  {
+    "name": "StatTrak™ AWP | Capillary (Battle-Scarred)",
+    "price": 0.77,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AWP | Capillary",
+    "id": "skin-593596"
+  },
+  {
+    "name": "AWP | Capillary (Field-Tested)",
+    "price": 0.15,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AWP | Capillary",
+    "id": "skin-593596"
+  },
+  {
+    "name": "AWP | Capillary (Minimal Wear)",
+    "price": 0.3,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AWP | Capillary",
+    "id": "skin-593596"
+  },
+  {
+    "name": "StatTrak™ AWP | Capillary (Well-Worn)",
+    "price": 1.14,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AWP | Capillary",
+    "id": "skin-593596"
+  }
+]

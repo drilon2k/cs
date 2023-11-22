@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Dual Berettas | Contractor (Minimal Wear)",
+    "price": 0.01,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Dual Berettas | Contractor",
+    "id": "skin-131256"
+  },
+  {
+    "name": "Dual Berettas | Contractor (Battle-Scarred)",
+    "price": 0.01,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Dual Berettas | Contractor",
+    "id": "skin-131256"
+  },
+  {
+    "name": "Dual Berettas | Contractor (Field-Tested)",
+    "price": 0.01,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Dual Berettas | Contractor",
+    "id": "skin-131256"
+  },
+  {
+    "name": "Dual Berettas | Contractor (Factory New)",
+    "price": 0.09,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Dual Berettas | Contractor",
+    "id": "skin-131256"
+  },
+  {
+    "name": "Dual Berettas | Contractor (Well-Worn)",
+    "price": 0.01,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Dual Berettas | Contractor",
+    "id": "skin-131256"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "name": "AK-47 | Jaguar (Minimal Wear)",
+    "price": 41.41,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AK-47 | Jaguar",
+    "id": "skin-460016"
+  },
+  {
+    "name": "StatTrak™ AK-47 | Jaguar (Minimal Wear)",
+    "price": 179.22,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AK-47 | Jaguar",
+    "id": "skin-460016"
+  },
+  {
+    "name": "StatTrak™ AK-47 | Jaguar (Factory New)",
+    "price": 449.38,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AK-47 | Jaguar",
+    "id": "skin-460016"
+  },
+  {
+    "name": "AK-47 | Jaguar (Field-Tested)",
+    "price": 25.99,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AK-47 | Jaguar",
+    "id": "skin-460016"
+  },
+  {
+    "name": "StatTrak™ AK-47 | Jaguar (Battle-Scarred)",
+    "price": 80.63,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AK-47 | Jaguar",
+    "id": "skin-460016"
+  },
+  {
+    "name": "AK-47 | Jaguar (Factory New)",
+    "price": 134.39,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AK-47 | Jaguar",
+    "id": "skin-460016"
+  },
+  {
+    "name": "AK-47 | Jaguar (Well-Worn)",
+    "price": 24.55,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AK-47 | Jaguar",
+    "id": "skin-460016"
+  },
+  {
+    "name": "AK-47 | Jaguar (Battle-Scarred)",
+    "price": 25.03,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AK-47 | Jaguar",
+    "id": "skin-460016"
+  },
+  {
+    "name": "StatTrak™ AK-47 | Jaguar (Well-Worn)",
+    "price": 71.15,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AK-47 | Jaguar",
+    "id": "skin-460016"
+  },
+  {
+    "name": "StatTrak™ AK-47 | Jaguar (Field-Tested)",
+    "price": 88.83,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AK-47 | Jaguar",
+    "id": "skin-460016"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Galil AR | Firefight (Minimal Wear)",
+    "price": 0.53,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Galil AR | Firefight",
+    "id": "skin-854152"
+  },
+  {
+    "name": "Galil AR | Firefight (Battle-Scarred)",
+    "price": 0.22,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Galil AR | Firefight",
+    "id": "skin-854152"
+  },
+  {
+    "name": "Galil AR | Firefight (Field-Tested)",
+    "price": 0.3,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Galil AR | Firefight",
+    "id": "skin-854152"
+  },
+  {
+    "name": "StatTrak™ Galil AR | Firefight (Well-Worn)",
+    "price": 0.49,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Galil AR | Firefight",
+    "id": "skin-854152"
+  },
+  {
+    "name": "Galil AR | Firefight (Factory New)",
+    "price": 1.58,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Galil AR | Firefight",
+    "id": "skin-854152"
+  },
+  {
+    "name": "StatTrak™ Galil AR | Firefight (Factory New)",
+    "price": 5.79,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Galil AR | Firefight",
+    "id": "skin-854152"
+  },
+  {
+    "name": "StatTrak™ Galil AR | Firefight (Field-Tested)",
+    "price": 0.7,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Galil AR | Firefight",
+    "id": "skin-854152"
+  },
+  {
+    "name": "StatTrak™ Galil AR | Firefight (Battle-Scarred)",
+    "price": 0.47,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Galil AR | Firefight",
+    "id": "skin-854152"
+  },
+  {
+    "name": "Galil AR | Firefight (Well-Worn)",
+    "price": 0.24,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Galil AR | Firefight",
+    "id": "skin-854152"
+  },
+  {
+    "name": "StatTrak™ Galil AR | Firefight (Minimal Wear)",
+    "price": 1.78,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Galil AR | Firefight",
+    "id": "skin-854152"
+  }
+]

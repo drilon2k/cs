@@ -1,0 +1,92 @@
+[
+  {
+    "name": "FAMAS | Djinn (Minimal Wear)",
+    "price": 3.25,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "FAMAS | Djinn",
+    "id": "skin-657076"
+  },
+  {
+    "name": "StatTrak™ FAMAS | Djinn (Minimal Wear)",
+    "price": 9.53,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "FAMAS | Djinn",
+    "id": "skin-657076"
+  },
+  {
+    "name": "StatTrak™ FAMAS | Djinn (Field-Tested)",
+    "price": 4.51,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "FAMAS | Djinn",
+    "id": "skin-657076"
+  },
+  {
+    "name": "FAMAS | Djinn (Factory New)",
+    "price": 8.94,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "FAMAS | Djinn",
+    "id": "skin-657076"
+  },
+  {
+    "name": "FAMAS | Djinn (Battle-Scarred)",
+    "price": 1.33,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "FAMAS | Djinn",
+    "id": "skin-657076"
+  },
+  {
+    "name": "StatTrak™ FAMAS | Djinn (Well-Worn)",
+    "price": 3.85,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "FAMAS | Djinn",
+    "id": "skin-657076"
+  },
+  {
+    "name": "StatTrak™ FAMAS | Djinn (Factory New)",
+    "price": 26.05,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "FAMAS | Djinn",
+    "id": "skin-657076"
+  },
+  {
+    "name": "StatTrak™ FAMAS | Djinn (Battle-Scarred)",
+    "price": 3.15,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "FAMAS | Djinn",
+    "id": "skin-657076"
+  },
+  {
+    "name": "FAMAS | Djinn (Well-Worn)",
+    "price": 1.38,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "FAMAS | Djinn",
+    "id": "skin-657076"
+  },
+  {
+    "name": "FAMAS | Djinn (Field-Tested)",
+    "price": 1.57,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "FAMAS | Djinn",
+    "id": "skin-657076"
+  }
+]

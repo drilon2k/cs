@@ -1,0 +1,92 @@
+[
+  {
+    "name": "★ Flip Knife | Ultraviolet (Well-Worn)",
+    "price": 137.13,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Flip Knife | Ultraviolet",
+    "id": "skin-33096072"
+  },
+  {
+    "name": "★ Flip Knife | Ultraviolet (Battle-Scarred)",
+    "price": 126.16,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Flip Knife | Ultraviolet",
+    "id": "skin-33096072"
+  },
+  {
+    "name": "★ StatTrak™ Flip Knife | Ultraviolet (Battle-Scarred)",
+    "price": 136.99,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Flip Knife | Ultraviolet",
+    "id": "skin-33096072"
+  },
+  {
+    "name": "★ Flip Knife | Ultraviolet (Factory New)",
+    "price": 486.81,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Flip Knife | Ultraviolet",
+    "id": "skin-33096072"
+  },
+  {
+    "name": "★ Flip Knife | Ultraviolet (Field-Tested)",
+    "price": 143.99,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Flip Knife | Ultraviolet",
+    "id": "skin-33096072"
+  },
+  {
+    "name": "★ StatTrak™ Flip Knife | Ultraviolet (Factory New)",
+    "price": 0,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Flip Knife | Ultraviolet",
+    "id": "skin-33096072"
+  },
+  {
+    "name": "★ Flip Knife | Ultraviolet (Minimal Wear)",
+    "price": 211.11,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Flip Knife | Ultraviolet",
+    "id": "skin-33096072"
+  },
+  {
+    "name": "★ StatTrak™ Flip Knife | Ultraviolet (Field-Tested)",
+    "price": 169.91,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Flip Knife | Ultraviolet",
+    "id": "skin-33096072"
+  },
+  {
+    "name": "★ StatTrak™ Flip Knife | Ultraviolet (Minimal Wear)",
+    "price": 229.97,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Flip Knife | Ultraviolet",
+    "id": "skin-33096072"
+  },
+  {
+    "name": "★ StatTrak™ Flip Knife | Ultraviolet (Well-Worn)",
+    "price": 164.08,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Flip Knife | Ultraviolet",
+    "id": "skin-33096072"
+  }
+]

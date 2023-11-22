@@ -1,0 +1,74 @@
+[
+  {
+    "name": "StatTrak™ XM1014 | Incinegator (Battle-Scarred)",
+    "price": 2.39,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "XM1014 | Incinegator",
+    "id": "skin-1641800"
+  },
+  {
+    "name": "StatTrak™ XM1014 | Incinegator (Field-Tested)",
+    "price": 2.66,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "XM1014 | Incinegator",
+    "id": "skin-1641800"
+  },
+  {
+    "name": "XM1014 | Incinegator (Field-Tested)",
+    "price": 1.14,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "XM1014 | Incinegator",
+    "id": "skin-1641800"
+  },
+  {
+    "name": "XM1014 | Incinegator (Well-Worn)",
+    "price": 1.28,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "XM1014 | Incinegator",
+    "id": "skin-1641800"
+  },
+  {
+    "name": "StatTrak™ XM1014 | Incinegator (Minimal Wear)",
+    "price": 39.08,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "XM1014 | Incinegator",
+    "id": "skin-1641800"
+  },
+  {
+    "name": "StatTrak™ XM1014 | Incinegator (Well-Worn)",
+    "price": 4.86,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "XM1014 | Incinegator",
+    "id": "skin-1641800"
+  },
+  {
+    "name": "XM1014 | Incinegator (Battle-Scarred)",
+    "price": 0.99,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "XM1014 | Incinegator",
+    "id": "skin-1641800"
+  },
+  {
+    "name": "XM1014 | Incinegator (Minimal Wear)",
+    "price": 10.06,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "XM1014 | Incinegator",
+    "id": "skin-1641800"
+  }
+]

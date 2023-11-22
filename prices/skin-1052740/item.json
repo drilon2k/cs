@@ -1,0 +1,92 @@
+[
+  {
+    "name": "StatTrak™ M4A4 | In Living Color (Battle-Scarred)",
+    "price": 9.74,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "M4A4 | In Living Color",
+    "id": "skin-1052740"
+  },
+  {
+    "name": "StatTrak™ M4A4 | In Living Color (Factory New)",
+    "price": 79.63,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "M4A4 | In Living Color",
+    "id": "skin-1052740"
+  },
+  {
+    "name": "M4A4 | In Living Color (Field-Tested)",
+    "price": 4.57,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M4A4 | In Living Color",
+    "id": "skin-1052740"
+  },
+  {
+    "name": "StatTrak™ M4A4 | In Living Color (Well-Worn)",
+    "price": 17.69,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "M4A4 | In Living Color",
+    "id": "skin-1052740"
+  },
+  {
+    "name": "M4A4 | In Living Color (Battle-Scarred)",
+    "price": 3.73,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M4A4 | In Living Color",
+    "id": "skin-1052740"
+  },
+  {
+    "name": "StatTrak™ M4A4 | In Living Color (Minimal Wear)",
+    "price": 28.72,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "M4A4 | In Living Color",
+    "id": "skin-1052740"
+  },
+  {
+    "name": "M4A4 | In Living Color (Minimal Wear)",
+    "price": 10.25,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M4A4 | In Living Color",
+    "id": "skin-1052740"
+  },
+  {
+    "name": "StatTrak™ M4A4 | In Living Color (Field-Tested)",
+    "price": 11.12,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "M4A4 | In Living Color",
+    "id": "skin-1052740"
+  },
+  {
+    "name": "M4A4 | In Living Color (Factory New)",
+    "price": 31.95,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M4A4 | In Living Color",
+    "id": "skin-1052740"
+  },
+  {
+    "name": "M4A4 | In Living Color (Well-Worn)",
+    "price": 7.13,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M4A4 | In Living Color",
+    "id": "skin-1052740"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Five-SeveN | Capillary (Field-Tested)",
+    "price": 0.18,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Five-SeveN | Capillary",
+    "id": "skin-199192"
+  },
+  {
+    "name": "StatTrak™ Five-SeveN | Capillary (Well-Worn)",
+    "price": 0.41,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Five-SeveN | Capillary",
+    "id": "skin-199192"
+  },
+  {
+    "name": "Five-SeveN | Capillary (Battle-Scarred)",
+    "price": 0.15,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Five-SeveN | Capillary",
+    "id": "skin-199192"
+  },
+  {
+    "name": "Five-SeveN | Capillary (Minimal Wear)",
+    "price": 0.19,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Five-SeveN | Capillary",
+    "id": "skin-199192"
+  },
+  {
+    "name": "Five-SeveN | Capillary (Factory New)",
+    "price": 0.29,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Five-SeveN | Capillary",
+    "id": "skin-199192"
+  },
+  {
+    "name": "StatTrak™ Five-SeveN | Capillary (Battle-Scarred)",
+    "price": 0.19,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Five-SeveN | Capillary",
+    "id": "skin-199192"
+  },
+  {
+    "name": "StatTrak™ Five-SeveN | Capillary (Field-Tested)",
+    "price": 0.25,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Five-SeveN | Capillary",
+    "id": "skin-199192"
+  },
+  {
+    "name": "StatTrak™ Five-SeveN | Capillary (Minimal Wear)",
+    "price": 0.5,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Five-SeveN | Capillary",
+    "id": "skin-199192"
+  },
+  {
+    "name": "Five-SeveN | Capillary (Well-Worn)",
+    "price": 0.21,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Five-SeveN | Capillary",
+    "id": "skin-199192"
+  },
+  {
+    "name": "StatTrak™ Five-SeveN | Capillary (Factory New)",
+    "price": 0.79,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Five-SeveN | Capillary",
+    "id": "skin-199192"
+  }
+]

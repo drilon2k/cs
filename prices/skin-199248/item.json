@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Five-SeveN | Hyper Beast (Well-Worn)",
+    "price": 21.74,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Five-SeveN | Hyper Beast",
+    "id": "skin-199248"
+  },
+  {
+    "name": "StatTrak™ Five-SeveN | Hyper Beast (Field-Tested)",
+    "price": 95.99,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Five-SeveN | Hyper Beast",
+    "id": "skin-199248"
+  },
+  {
+    "name": "Five-SeveN | Hyper Beast (Battle-Scarred)",
+    "price": 21.53,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Five-SeveN | Hyper Beast",
+    "id": "skin-199248"
+  },
+  {
+    "name": "StatTrak™ Five-SeveN | Hyper Beast (Minimal Wear)",
+    "price": 115.12,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Five-SeveN | Hyper Beast",
+    "id": "skin-199248"
+  },
+  {
+    "name": "Five-SeveN | Hyper Beast (Field-Tested)",
+    "price": 21.72,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Five-SeveN | Hyper Beast",
+    "id": "skin-199248"
+  },
+  {
+    "name": "StatTrak™ Five-SeveN | Hyper Beast (Well-Worn)",
+    "price": 53.48,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Five-SeveN | Hyper Beast",
+    "id": "skin-199248"
+  },
+  {
+    "name": "Five-SeveN | Hyper Beast (Factory New)",
+    "price": 80.15,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Five-SeveN | Hyper Beast",
+    "id": "skin-199248"
+  },
+  {
+    "name": "Five-SeveN | Hyper Beast (Minimal Wear)",
+    "price": 33.6,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Five-SeveN | Hyper Beast",
+    "id": "skin-199248"
+  },
+  {
+    "name": "StatTrak™ Five-SeveN | Hyper Beast (Battle-Scarred)",
+    "price": 68.43,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Five-SeveN | Hyper Beast",
+    "id": "skin-199248"
+  },
+  {
+    "name": "StatTrak™ Five-SeveN | Hyper Beast (Factory New)",
+    "price": 365.32,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Five-SeveN | Hyper Beast",
+    "id": "skin-199248"
+  }
+]

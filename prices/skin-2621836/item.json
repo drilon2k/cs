@@ -1,0 +1,47 @@
+[
+  {
+    "name": "SSG 08 | Sand Dune (Field-Tested)",
+    "price": 1.67,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "SSG 08 | Sand Dune",
+    "id": "skin-2621836"
+  },
+  {
+    "name": "SSG 08 | Sand Dune (Minimal Wear)",
+    "price": 6.23,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "SSG 08 | Sand Dune",
+    "id": "skin-2621836"
+  },
+  {
+    "name": "SSG 08 | Sand Dune (Well-Worn)",
+    "price": 4.64,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "SSG 08 | Sand Dune",
+    "id": "skin-2621836"
+  },
+  {
+    "name": "SSG 08 | Sand Dune (Battle-Scarred)",
+    "price": 2.6,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "SSG 08 | Sand Dune",
+    "id": "skin-2621836"
+  },
+  {
+    "name": "SSG 08 | Sand Dune (Factory New)",
+    "price": 67.04,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "SSG 08 | Sand Dune",
+    "id": "skin-2621836"
+  }
+]

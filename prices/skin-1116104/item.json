@@ -1,0 +1,92 @@
+[
+  {
+    "name": "StatTrak™ MAC-10 | Rangeen (Field-Tested)",
+    "price": 0.28,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MAC-10 | Rangeen",
+    "id": "skin-1116104"
+  },
+  {
+    "name": "MAC-10 | Rangeen (Factory New)",
+    "price": 0.43,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MAC-10 | Rangeen",
+    "id": "skin-1116104"
+  },
+  {
+    "name": "StatTrak™ MAC-10 | Rangeen (Factory New)",
+    "price": 1.07,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MAC-10 | Rangeen",
+    "id": "skin-1116104"
+  },
+  {
+    "name": "MAC-10 | Rangeen (Field-Tested)",
+    "price": 0.12,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MAC-10 | Rangeen",
+    "id": "skin-1116104"
+  },
+  {
+    "name": "MAC-10 | Rangeen (Well-Worn)",
+    "price": 0.13,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MAC-10 | Rangeen",
+    "id": "skin-1116104"
+  },
+  {
+    "name": "StatTrak™ MAC-10 | Rangeen (Well-Worn)",
+    "price": 0.42,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MAC-10 | Rangeen",
+    "id": "skin-1116104"
+  },
+  {
+    "name": "StatTrak™ MAC-10 | Rangeen (Minimal Wear)",
+    "price": 0.55,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MAC-10 | Rangeen",
+    "id": "skin-1116104"
+  },
+  {
+    "name": "MAC-10 | Rangeen (Minimal Wear)",
+    "price": 0.2,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MAC-10 | Rangeen",
+    "id": "skin-1116104"
+  },
+  {
+    "name": "StatTrak™ MAC-10 | Rangeen (Battle-Scarred)",
+    "price": 0.42,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MAC-10 | Rangeen",
+    "id": "skin-1116104"
+  },
+  {
+    "name": "MAC-10 | Rangeen (Battle-Scarred)",
+    "price": 0.13,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MAC-10 | Rangeen",
+    "id": "skin-1116104"
+  }
+]

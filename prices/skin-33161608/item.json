@@ -1,0 +1,92 @@
+[
+  {
+    "name": "★ Gut Knife | Ultraviolet (Factory New)",
+    "price": 185.06,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Gut Knife | Ultraviolet",
+    "id": "skin-33161608"
+  },
+  {
+    "name": "★ Gut Knife | Ultraviolet (Minimal Wear)",
+    "price": 105.58,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Gut Knife | Ultraviolet",
+    "id": "skin-33161608"
+  },
+  {
+    "name": "★ StatTrak™ Gut Knife | Ultraviolet (Battle-Scarred)",
+    "price": 85.71,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Gut Knife | Ultraviolet",
+    "id": "skin-33161608"
+  },
+  {
+    "name": "★ StatTrak™ Gut Knife | Ultraviolet (Factory New)",
+    "price": 479.96,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Gut Knife | Ultraviolet",
+    "id": "skin-33161608"
+  },
+  {
+    "name": "★ StatTrak™ Gut Knife | Ultraviolet (Minimal Wear)",
+    "price": 132.54,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Gut Knife | Ultraviolet",
+    "id": "skin-33161608"
+  },
+  {
+    "name": "★ Gut Knife | Ultraviolet (Battle-Scarred)",
+    "price": 79.54,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Gut Knife | Ultraviolet",
+    "id": "skin-33161608"
+  },
+  {
+    "name": "★ Gut Knife | Ultraviolet (Field-Tested)",
+    "price": 80.21,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Gut Knife | Ultraviolet",
+    "id": "skin-33161608"
+  },
+  {
+    "name": "★ Gut Knife | Ultraviolet (Well-Worn)",
+    "price": 84.95,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Gut Knife | Ultraviolet",
+    "id": "skin-33161608"
+  },
+  {
+    "name": "★ StatTrak™ Gut Knife | Ultraviolet (Well-Worn)",
+    "price": 84.95,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Gut Knife | Ultraviolet",
+    "id": "skin-33161608"
+  },
+  {
+    "name": "★ StatTrak™ Gut Knife | Ultraviolet (Field-Tested)",
+    "price": 90.51,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Gut Knife | Ultraviolet",
+    "id": "skin-33161608"
+  }
+]

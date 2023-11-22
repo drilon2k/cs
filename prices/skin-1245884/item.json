@@ -1,0 +1,47 @@
+[
+  {
+    "name": "P90 | Scorched (Well-Worn)",
+    "price": 0.84,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P90 | Scorched",
+    "id": "skin-1245884"
+  },
+  {
+    "name": "P90 | Scorched (Battle-Scarred)",
+    "price": 0.82,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P90 | Scorched",
+    "id": "skin-1245884"
+  },
+  {
+    "name": "P90 | Scorched (Factory New)",
+    "price": 4.52,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P90 | Scorched",
+    "id": "skin-1245884"
+  },
+  {
+    "name": "P90 | Scorched (Minimal Wear)",
+    "price": 1.29,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P90 | Scorched",
+    "id": "skin-1245884"
+  },
+  {
+    "name": "P90 | Scorched (Field-Tested)",
+    "price": 1.01,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P90 | Scorched",
+    "id": "skin-1245884"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Galil AR | Connexion (Minimal Wear)",
+    "price": 0.54,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Galil AR | Connexion",
+    "id": "skin-855856"
+  },
+  {
+    "name": "Galil AR | Connexion (Well-Worn)",
+    "price": 0.3,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Galil AR | Connexion",
+    "id": "skin-855856"
+  },
+  {
+    "name": "StatTrak™ Galil AR | Connexion (Factory New)",
+    "price": 2.69,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Galil AR | Connexion",
+    "id": "skin-855856"
+  },
+  {
+    "name": "StatTrak™ Galil AR | Connexion (Well-Worn)",
+    "price": 0.66,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Galil AR | Connexion",
+    "id": "skin-855856"
+  },
+  {
+    "name": "Galil AR | Connexion (Battle-Scarred)",
+    "price": 0.24,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Galil AR | Connexion",
+    "id": "skin-855856"
+  },
+  {
+    "name": "StatTrak™ Galil AR | Connexion (Field-Tested)",
+    "price": 0.55,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Galil AR | Connexion",
+    "id": "skin-855856"
+  },
+  {
+    "name": "Galil AR | Connexion (Field-Tested)",
+    "price": 0.26,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Galil AR | Connexion",
+    "id": "skin-855856"
+  },
+  {
+    "name": "StatTrak™ Galil AR | Connexion (Battle-Scarred)",
+    "price": 0.48,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Galil AR | Connexion",
+    "id": "skin-855856"
+  },
+  {
+    "name": "StatTrak™ Galil AR | Connexion (Minimal Wear)",
+    "price": 1.23,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Galil AR | Connexion",
+    "id": "skin-855856"
+  },
+  {
+    "name": "Galil AR | Connexion (Factory New)",
+    "price": 0.99,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Galil AR | Connexion",
+    "id": "skin-855856"
+  }
+]

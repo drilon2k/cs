@@ -1,0 +1,38 @@
+[
+  {
+    "name": "P250 | Franklin (Factory New)",
+    "price": 1.28,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P250 | Franklin",
+    "id": "skin-2360476"
+  },
+  {
+    "name": "P250 | Franklin (Field-Tested)",
+    "price": 0.67,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P250 | Franklin",
+    "id": "skin-2360476"
+  },
+  {
+    "name": "P250 | Franklin (Minimal Wear)",
+    "price": 0.85,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P250 | Franklin",
+    "id": "skin-2360476"
+  },
+  {
+    "name": "P250 | Franklin (Well-Worn)",
+    "price": 1.34,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P250 | Franklin",
+    "id": "skin-2360476"
+  }
+]

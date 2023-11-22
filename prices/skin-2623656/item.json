@@ -1,0 +1,92 @@
+[
+  {
+    "name": "StatTrak™ SSG 08 | Ghost Crusader (Minimal Wear)",
+    "price": 3.25,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "SSG 08 | Ghost Crusader",
+    "id": "skin-2623656"
+  },
+  {
+    "name": "StatTrak™ SSG 08 | Ghost Crusader (Factory New)",
+    "price": 10.08,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "SSG 08 | Ghost Crusader",
+    "id": "skin-2623656"
+  },
+  {
+    "name": "SSG 08 | Ghost Crusader (Well-Worn)",
+    "price": 0.22,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "SSG 08 | Ghost Crusader",
+    "id": "skin-2623656"
+  },
+  {
+    "name": "SSG 08 | Ghost Crusader (Field-Tested)",
+    "price": 0.37,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "SSG 08 | Ghost Crusader",
+    "id": "skin-2623656"
+  },
+  {
+    "name": "StatTrak™ SSG 08 | Ghost Crusader (Field-Tested)",
+    "price": 1.22,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "SSG 08 | Ghost Crusader",
+    "id": "skin-2623656"
+  },
+  {
+    "name": "SSG 08 | Ghost Crusader (Factory New)",
+    "price": 2.3,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "SSG 08 | Ghost Crusader",
+    "id": "skin-2623656"
+  },
+  {
+    "name": "StatTrak™ SSG 08 | Ghost Crusader (Battle-Scarred)",
+    "price": 0.95,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "SSG 08 | Ghost Crusader",
+    "id": "skin-2623656"
+  },
+  {
+    "name": "SSG 08 | Ghost Crusader (Battle-Scarred)",
+    "price": 0.21,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "SSG 08 | Ghost Crusader",
+    "id": "skin-2623656"
+  },
+  {
+    "name": "SSG 08 | Ghost Crusader (Minimal Wear)",
+    "price": 0.82,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "SSG 08 | Ghost Crusader",
+    "id": "skin-2623656"
+  },
+  {
+    "name": "StatTrak™ SSG 08 | Ghost Crusader (Well-Worn)",
+    "price": 0.93,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "SSG 08 | Ghost Crusader",
+    "id": "skin-2623656"
+  }
+]

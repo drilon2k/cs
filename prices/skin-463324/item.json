@@ -1,0 +1,92 @@
+[
+  {
+    "name": "StatTrak™ AK-47 | Ice Coaled (Battle-Scarred)",
+    "price": 9.66,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AK-47 | Ice Coaled",
+    "id": "skin-463324"
+  },
+  {
+    "name": "StatTrak™ AK-47 | Ice Coaled (Factory New)",
+    "price": 47.52,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AK-47 | Ice Coaled",
+    "id": "skin-463324"
+  },
+  {
+    "name": "AK-47 | Ice Coaled (Field-Tested)",
+    "price": 5.2,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AK-47 | Ice Coaled",
+    "id": "skin-463324"
+  },
+  {
+    "name": "AK-47 | Ice Coaled (Well-Worn)",
+    "price": 5.9,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AK-47 | Ice Coaled",
+    "id": "skin-463324"
+  },
+  {
+    "name": "StatTrak™ AK-47 | Ice Coaled (Well-Worn)",
+    "price": 13.65,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AK-47 | Ice Coaled",
+    "id": "skin-463324"
+  },
+  {
+    "name": "StatTrak™ AK-47 | Ice Coaled (Field-Tested)",
+    "price": 11.03,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AK-47 | Ice Coaled",
+    "id": "skin-463324"
+  },
+  {
+    "name": "AK-47 | Ice Coaled (Factory New)",
+    "price": 15.76,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AK-47 | Ice Coaled",
+    "id": "skin-463324"
+  },
+  {
+    "name": "AK-47 | Ice Coaled (Minimal Wear)",
+    "price": 9.05,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AK-47 | Ice Coaled",
+    "id": "skin-463324"
+  },
+  {
+    "name": "AK-47 | Ice Coaled (Battle-Scarred)",
+    "price": 4.08,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AK-47 | Ice Coaled",
+    "id": "skin-463324"
+  },
+  {
+    "name": "StatTrak™ AK-47 | Ice Coaled (Minimal Wear)",
+    "price": 21.73,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AK-47 | Ice Coaled",
+    "id": "skin-463324"
+  }
+]

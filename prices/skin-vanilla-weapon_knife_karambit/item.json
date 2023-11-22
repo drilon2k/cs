@@ -1,0 +1,20 @@
+[
+  {
+    "name": "★ Karambit",
+    "price": 840.95,
+    "wear": null,
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Karambit",
+    "id": "skin-vanilla-weapon_knife_karambit"
+  },
+  {
+    "name": "★ StatTrak™ Karambit",
+    "price": 820.34,
+    "wear": null,
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Karambit",
+    "id": "skin-vanilla-weapon_knife_karambit"
+  }
+]

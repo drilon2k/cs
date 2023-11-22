@@ -1,0 +1,92 @@
+[
+  {
+    "name": "StatTrak™ P90 | Neoqueen (Well-Worn)",
+    "price": 1.59,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "P90 | Neoqueen",
+    "id": "skin-1250116"
+  },
+  {
+    "name": "P90 | Neoqueen (Battle-Scarred)",
+    "price": 0.94,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P90 | Neoqueen",
+    "id": "skin-1250116"
+  },
+  {
+    "name": "StatTrak™ P90 | Neoqueen (Factory New)",
+    "price": 4.22,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "P90 | Neoqueen",
+    "id": "skin-1250116"
+  },
+  {
+    "name": "StatTrak™ P90 | Neoqueen (Field-Tested)",
+    "price": 1.07,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "P90 | Neoqueen",
+    "id": "skin-1250116"
+  },
+  {
+    "name": "P90 | Neoqueen (Well-Worn)",
+    "price": 0.48,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P90 | Neoqueen",
+    "id": "skin-1250116"
+  },
+  {
+    "name": "P90 | Neoqueen (Factory New)",
+    "price": 1.46,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P90 | Neoqueen",
+    "id": "skin-1250116"
+  },
+  {
+    "name": "StatTrak™ P90 | Neoqueen (Battle-Scarred)",
+    "price": 3.28,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "P90 | Neoqueen",
+    "id": "skin-1250116"
+  },
+  {
+    "name": "StatTrak™ P90 | Neoqueen (Minimal Wear)",
+    "price": 2.05,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "P90 | Neoqueen",
+    "id": "skin-1250116"
+  },
+  {
+    "name": "P90 | Neoqueen (Minimal Wear)",
+    "price": 0.72,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P90 | Neoqueen",
+    "id": "skin-1250116"
+  },
+  {
+    "name": "P90 | Neoqueen (Field-Tested)",
+    "price": 0.41,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P90 | Neoqueen",
+    "id": "skin-1250116"
+  }
+]

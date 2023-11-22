@@ -1,0 +1,92 @@
+[
+  {
+    "name": "AK-47 | Head Shot (Field-Tested)",
+    "price": 15.08,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AK-47 | Head Shot",
+    "id": "skin-463636"
+  },
+  {
+    "name": "StatTrak™ AK-47 | Head Shot (Field-Tested)",
+    "price": 37.5,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AK-47 | Head Shot",
+    "id": "skin-463636"
+  },
+  {
+    "name": "AK-47 | Head Shot (Battle-Scarred)",
+    "price": 7.61,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AK-47 | Head Shot",
+    "id": "skin-463636"
+  },
+  {
+    "name": "AK-47 | Head Shot (Well-Worn)",
+    "price": 9.85,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AK-47 | Head Shot",
+    "id": "skin-463636"
+  },
+  {
+    "name": "AK-47 | Head Shot (Factory New)",
+    "price": 68.02,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AK-47 | Head Shot",
+    "id": "skin-463636"
+  },
+  {
+    "name": "StatTrak™ AK-47 | Head Shot (Minimal Wear)",
+    "price": 76.04,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AK-47 | Head Shot",
+    "id": "skin-463636"
+  },
+  {
+    "name": "StatTrak™ AK-47 | Head Shot (Well-Worn)",
+    "price": 25.23,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AK-47 | Head Shot",
+    "id": "skin-463636"
+  },
+  {
+    "name": "StatTrak™ AK-47 | Head Shot (Battle-Scarred)",
+    "price": 24.41,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AK-47 | Head Shot",
+    "id": "skin-463636"
+  },
+  {
+    "name": "AK-47 | Head Shot (Minimal Wear)",
+    "price": 29.48,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AK-47 | Head Shot",
+    "id": "skin-463636"
+  },
+  {
+    "name": "StatTrak™ AK-47 | Head Shot (Factory New)",
+    "price": 205.7,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AK-47 | Head Shot",
+    "id": "skin-463636"
+  }
+]

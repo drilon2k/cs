@@ -1,0 +1,92 @@
+[
+  {
+    "name": "★ Skeleton Knife | Stained (Factory New)",
+    "price": 615.72,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Skeleton Knife | Stained",
+    "id": "skin-34406572"
+  },
+  {
+    "name": "★ Skeleton Knife | Stained (Battle-Scarred)",
+    "price": 276.59,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Skeleton Knife | Stained",
+    "id": "skin-34406572"
+  },
+  {
+    "name": "★ StatTrak™ Skeleton Knife | Stained (Minimal Wear)",
+    "price": 408.44,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Skeleton Knife | Stained",
+    "id": "skin-34406572"
+  },
+  {
+    "name": "★ StatTrak™ Skeleton Knife | Stained (Factory New)",
+    "price": 713.08,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Skeleton Knife | Stained",
+    "id": "skin-34406572"
+  },
+  {
+    "name": "★ StatTrak™ Skeleton Knife | Stained (Field-Tested)",
+    "price": 329.11,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Skeleton Knife | Stained",
+    "id": "skin-34406572"
+  },
+  {
+    "name": "★ Skeleton Knife | Stained (Field-Tested)",
+    "price": 335.97,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Skeleton Knife | Stained",
+    "id": "skin-34406572"
+  },
+  {
+    "name": "★ Skeleton Knife | Stained (Well-Worn)",
+    "price": 281.53,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Skeleton Knife | Stained",
+    "id": "skin-34406572"
+  },
+  {
+    "name": "★ Skeleton Knife | Stained (Minimal Wear)",
+    "price": 390.82,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Skeleton Knife | Stained",
+    "id": "skin-34406572"
+  },
+  {
+    "name": "★ StatTrak™ Skeleton Knife | Stained (Well-Worn)",
+    "price": 282.49,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Skeleton Knife | Stained",
+    "id": "skin-34406572"
+  },
+  {
+    "name": "★ StatTrak™ Skeleton Knife | Stained (Battle-Scarred)",
+    "price": 301.48,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Skeleton Knife | Stained",
+    "id": "skin-34406572"
+  }
+]

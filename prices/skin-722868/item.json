@@ -1,0 +1,92 @@
+[
+  {
+    "name": "StatTrak™ G3SG1 | Flux (Field-Tested)",
+    "price": 12.33,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "G3SG1 | Flux",
+    "id": "skin-722868"
+  },
+  {
+    "name": "G3SG1 | Flux (Minimal Wear)",
+    "price": 8.46,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "G3SG1 | Flux",
+    "id": "skin-722868"
+  },
+  {
+    "name": "G3SG1 | Flux (Factory New)",
+    "price": 16.94,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "G3SG1 | Flux",
+    "id": "skin-722868"
+  },
+  {
+    "name": "G3SG1 | Flux (Field-Tested)",
+    "price": 5,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "G3SG1 | Flux",
+    "id": "skin-722868"
+  },
+  {
+    "name": "G3SG1 | Flux (Well-Worn)",
+    "price": 5.27,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "G3SG1 | Flux",
+    "id": "skin-722868"
+  },
+  {
+    "name": "StatTrak™ G3SG1 | Flux (Battle-Scarred)",
+    "price": 10.22,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "G3SG1 | Flux",
+    "id": "skin-722868"
+  },
+  {
+    "name": "StatTrak™ G3SG1 | Flux (Well-Worn)",
+    "price": 10.9,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "G3SG1 | Flux",
+    "id": "skin-722868"
+  },
+  {
+    "name": "StatTrak™ G3SG1 | Flux (Factory New)",
+    "price": 45.79,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "G3SG1 | Flux",
+    "id": "skin-722868"
+  },
+  {
+    "name": "StatTrak™ G3SG1 | Flux (Minimal Wear)",
+    "price": 27.41,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "G3SG1 | Flux",
+    "id": "skin-722868"
+  },
+  {
+    "name": "G3SG1 | Flux (Battle-Scarred)",
+    "price": 4.04,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "G3SG1 | Flux",
+    "id": "skin-722868"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "name": "StatTrak™ M249 | O.S.I.P.R. (Well-Worn)",
+    "price": 0.19,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "M249 | O.S.I.P.R.",
+    "id": "skin-921672"
+  },
+  {
+    "name": "M249 | O.S.I.P.R. (Field-Tested)",
+    "price": 0.06,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M249 | O.S.I.P.R.",
+    "id": "skin-921672"
+  },
+  {
+    "name": "M249 | O.S.I.P.R. (Factory New)",
+    "price": 0.26,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M249 | O.S.I.P.R.",
+    "id": "skin-921672"
+  },
+  {
+    "name": "StatTrak™ M249 | O.S.I.P.R. (Field-Tested)",
+    "price": 0.2,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "M249 | O.S.I.P.R.",
+    "id": "skin-921672"
+  },
+  {
+    "name": "StatTrak™ M249 | O.S.I.P.R. (Battle-Scarred)",
+    "price": 0.17,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "M249 | O.S.I.P.R.",
+    "id": "skin-921672"
+  },
+  {
+    "name": "StatTrak™ M249 | O.S.I.P.R. (Minimal Wear)",
+    "price": 0.45,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "M249 | O.S.I.P.R.",
+    "id": "skin-921672"
+  },
+  {
+    "name": "M249 | O.S.I.P.R. (Well-Worn)",
+    "price": 0.06,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M249 | O.S.I.P.R.",
+    "id": "skin-921672"
+  },
+  {
+    "name": "StatTrak™ M249 | O.S.I.P.R. (Factory New)",
+    "price": 0.98,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "M249 | O.S.I.P.R.",
+    "id": "skin-921672"
+  },
+  {
+    "name": "M249 | O.S.I.P.R. (Battle-Scarred)",
+    "price": 0.05,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M249 | O.S.I.P.R.",
+    "id": "skin-921672"
+  },
+  {
+    "name": "M249 | O.S.I.P.R. (Minimal Wear)",
+    "price": 0.12,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M249 | O.S.I.P.R.",
+    "id": "skin-921672"
+  }
+]

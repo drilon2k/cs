@@ -1,0 +1,47 @@
+[
+  {
+    "name": "P90 | Storm (Field-Tested)",
+    "price": 1.45,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P90 | Storm",
+    "id": "skin-1245584"
+  },
+  {
+    "name": "P90 | Storm (Well-Worn)",
+    "price": 1.41,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P90 | Storm",
+    "id": "skin-1245584"
+  },
+  {
+    "name": "P90 | Storm (Battle-Scarred)",
+    "price": 1.33,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P90 | Storm",
+    "id": "skin-1245584"
+  },
+  {
+    "name": "P90 | Storm (Factory New)",
+    "price": 9.29,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P90 | Storm",
+    "id": "skin-1245584"
+  },
+  {
+    "name": "P90 | Storm (Minimal Wear)",
+    "price": 1.63,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P90 | Storm",
+    "id": "skin-1245584"
+  }
+]

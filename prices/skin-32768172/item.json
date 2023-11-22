@@ -1,0 +1,92 @@
+[
+  {
+    "name": "★ StatTrak™ Bayonet | Stained (Battle-Scarred)",
+    "price": 217.75,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Bayonet | Stained",
+    "id": "skin-32768172"
+  },
+  {
+    "name": "★ StatTrak™ Bayonet | Stained (Factory New)",
+    "price": 493.67,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Bayonet | Stained",
+    "id": "skin-32768172"
+  },
+  {
+    "name": "★ Bayonet | Stained (Field-Tested)",
+    "price": 245.18,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Bayonet | Stained",
+    "id": "skin-32768172"
+  },
+  {
+    "name": "★ Bayonet | Stained (Factory New)",
+    "price": 375.74,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Bayonet | Stained",
+    "id": "skin-32768172"
+  },
+  {
+    "name": "★ Bayonet | Stained (Minimal Wear)",
+    "price": 260.55,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Bayonet | Stained",
+    "id": "skin-32768172"
+  },
+  {
+    "name": "★ StatTrak™ Bayonet | Stained (Minimal Wear)",
+    "price": 294.83,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Bayonet | Stained",
+    "id": "skin-32768172"
+  },
+  {
+    "name": "★ StatTrak™ Bayonet | Stained (Field-Tested)",
+    "price": 250.68,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Bayonet | Stained",
+    "id": "skin-32768172"
+  },
+  {
+    "name": "★ Bayonet | Stained (Well-Worn)",
+    "price": 222.15,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Bayonet | Stained",
+    "id": "skin-32768172"
+  },
+  {
+    "name": "★ Bayonet | Stained (Battle-Scarred)",
+    "price": 202.95,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Bayonet | Stained",
+    "id": "skin-32768172"
+  },
+  {
+    "name": "★ StatTrak™ Bayonet | Stained (Well-Worn)",
+    "price": 237.24,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Bayonet | Stained",
+    "id": "skin-32768172"
+  }
+]

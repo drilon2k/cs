@@ -1,0 +1,92 @@
+[
+  {
+    "name": "M4A1-S | Player Two (Factory New)",
+    "price": 72.47,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M4A1-S | Player Two",
+    "id": "skin-3935944"
+  },
+  {
+    "name": "M4A1-S | Player Two (Well-Worn)",
+    "price": 19.88,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M4A1-S | Player Two",
+    "id": "skin-3935944"
+  },
+  {
+    "name": "StatTrak™ M4A1-S | Player Two (Battle-Scarred)",
+    "price": 31.05,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "M4A1-S | Player Two",
+    "id": "skin-3935944"
+  },
+  {
+    "name": "M4A1-S | Player Two (Minimal Wear)",
+    "price": 35.11,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M4A1-S | Player Two",
+    "id": "skin-3935944"
+  },
+  {
+    "name": "M4A1-S | Player Two (Battle-Scarred)",
+    "price": 10.07,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M4A1-S | Player Two",
+    "id": "skin-3935944"
+  },
+  {
+    "name": "StatTrak™ M4A1-S | Player Two (Well-Worn)",
+    "price": 52.52,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "M4A1-S | Player Two",
+    "id": "skin-3935944"
+  },
+  {
+    "name": "StatTrak™ M4A1-S | Player Two (Field-Tested)",
+    "price": 36.75,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "M4A1-S | Player Two",
+    "id": "skin-3935944"
+  },
+  {
+    "name": "M4A1-S | Player Two (Field-Tested)",
+    "price": 15.29,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M4A1-S | Player Two",
+    "id": "skin-3935944"
+  },
+  {
+    "name": "StatTrak™ M4A1-S | Player Two (Minimal Wear)",
+    "price": 78.1,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "M4A1-S | Player Two",
+    "id": "skin-3935944"
+  },
+  {
+    "name": "StatTrak™ M4A1-S | Player Two (Factory New)",
+    "price": 188.95,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "M4A1-S | Player Two",
+    "id": "skin-3935944"
+  }
+]

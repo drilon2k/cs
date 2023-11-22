@@ -1,0 +1,38 @@
+[
+  {
+    "name": "★ Karambit | Marble Fade (Factory New)",
+    "price": 1196.19,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Karambit | Marble Fade",
+    "id": "skin-33228404"
+  },
+  {
+    "name": "★ StatTrak™ Karambit | Marble Fade (Minimal Wear)",
+    "price": 1570.15,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Karambit | Marble Fade",
+    "id": "skin-33228404"
+  },
+  {
+    "name": "★ StatTrak™ Karambit | Marble Fade (Factory New)",
+    "price": 1179.33,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Karambit | Marble Fade",
+    "id": "skin-33228404"
+  },
+  {
+    "name": "★ Karambit | Marble Fade (Minimal Wear)",
+    "price": 1199.9,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Karambit | Marble Fade",
+    "id": "skin-33228404"
+  }
+]

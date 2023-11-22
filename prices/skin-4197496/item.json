@@ -1,0 +1,47 @@
+[
+  {
+    "name": "R8 Revolver | Nitro (Factory New)",
+    "price": 0.34,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "R8 Revolver | Nitro",
+    "id": "skin-4197496"
+  },
+  {
+    "name": "R8 Revolver | Nitro (Field-Tested)",
+    "price": 0.07,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "R8 Revolver | Nitro",
+    "id": "skin-4197496"
+  },
+  {
+    "name": "R8 Revolver | Nitro (Minimal Wear)",
+    "price": 0.08,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "R8 Revolver | Nitro",
+    "id": "skin-4197496"
+  },
+  {
+    "name": "R8 Revolver | Nitro (Well-Worn)",
+    "price": 0.06,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "R8 Revolver | Nitro",
+    "id": "skin-4197496"
+  },
+  {
+    "name": "R8 Revolver | Nitro (Battle-Scarred)",
+    "price": 0.06,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "R8 Revolver | Nitro",
+    "id": "skin-4197496"
+  }
+]

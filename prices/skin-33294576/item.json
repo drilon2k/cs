@@ -1,0 +1,38 @@
+[
+  {
+    "name": "★ M9 Bayonet | Gamma Doppler (Minimal Wear)",
+    "price": 1234.11,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ M9 Bayonet | Gamma Doppler",
+    "id": "skin-33294576"
+  },
+  {
+    "name": "★ M9 Bayonet | Gamma Doppler (Factory New)",
+    "price": 1220.47,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ M9 Bayonet | Gamma Doppler",
+    "id": "skin-33294576"
+  },
+  {
+    "name": "★ StatTrak™ M9 Bayonet | Gamma Doppler (Minimal Wear)",
+    "price": 1330.17,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ M9 Bayonet | Gamma Doppler",
+    "id": "skin-33294576"
+  },
+  {
+    "name": "★ StatTrak™ M9 Bayonet | Gamma Doppler (Factory New)",
+    "price": 1234.18,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ M9 Bayonet | Gamma Doppler",
+    "id": "skin-33294576"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "name": "UMP-45 | Plastique (Factory New)",
+    "price": 1.3,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "UMP-45 | Plastique",
+    "id": "skin-1576528"
+  },
+  {
+    "name": "UMP-45 | Plastique (Field-Tested)",
+    "price": 0.44,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "UMP-45 | Plastique",
+    "id": "skin-1576528"
+  },
+  {
+    "name": "StatTrak™ UMP-45 | Plastique (Battle-Scarred)",
+    "price": 0.56,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "UMP-45 | Plastique",
+    "id": "skin-1576528"
+  },
+  {
+    "name": "StatTrak™ UMP-45 | Plastique (Factory New)",
+    "price": 3.69,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "UMP-45 | Plastique",
+    "id": "skin-1576528"
+  },
+  {
+    "name": "StatTrak™ UMP-45 | Plastique (Minimal Wear)",
+    "price": 1.71,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "UMP-45 | Plastique",
+    "id": "skin-1576528"
+  },
+  {
+    "name": "UMP-45 | Plastique (Battle-Scarred)",
+    "price": 0.36,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "UMP-45 | Plastique",
+    "id": "skin-1576528"
+  },
+  {
+    "name": "UMP-45 | Plastique (Well-Worn)",
+    "price": 0.4,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "UMP-45 | Plastique",
+    "id": "skin-1576528"
+  },
+  {
+    "name": "StatTrak™ UMP-45 | Plastique (Well-Worn)",
+    "price": 0.99,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "UMP-45 | Plastique",
+    "id": "skin-1576528"
+  },
+  {
+    "name": "StatTrak™ UMP-45 | Plastique (Field-Tested)",
+    "price": 0.84,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "UMP-45 | Plastique",
+    "id": "skin-1576528"
+  },
+  {
+    "name": "UMP-45 | Plastique (Minimal Wear)",
+    "price": 0.69,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "UMP-45 | Plastique",
+    "id": "skin-1576528"
+  }
+]

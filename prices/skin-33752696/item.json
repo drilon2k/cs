@@ -1,0 +1,38 @@
+[
+  {
+    "name": "★ StatTrak™ Butterfly Knife | Rust Coat (Well-Worn)",
+    "price": 589.66,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Butterfly Knife | Rust Coat",
+    "id": "skin-33752696"
+  },
+  {
+    "name": "★ StatTrak™ Butterfly Knife | Rust Coat (Battle-Scarred)",
+    "price": 507.38,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Butterfly Knife | Rust Coat",
+    "id": "skin-33752696"
+  },
+  {
+    "name": "★ Butterfly Knife | Rust Coat (Battle-Scarred)",
+    "price": 515.61,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Butterfly Knife | Rust Coat",
+    "id": "skin-33752696"
+  },
+  {
+    "name": "★ Butterfly Knife | Rust Coat (Well-Worn)",
+    "price": 541.67,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Butterfly Knife | Rust Coat",
+    "id": "skin-33752696"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Desert Eagle | Mecha Industries (Field-Tested)",
+    "price": 2.73,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Desert Eagle | Mecha Industries",
+    "id": "skin-68756"
+  },
+  {
+    "name": "Desert Eagle | Mecha Industries (Battle-Scarred)",
+    "price": 2.73,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Desert Eagle | Mecha Industries",
+    "id": "skin-68756"
+  },
+  {
+    "name": "StatTrak™ Desert Eagle | Mecha Industries (Minimal Wear)",
+    "price": 10.24,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Desert Eagle | Mecha Industries",
+    "id": "skin-68756"
+  },
+  {
+    "name": "StatTrak™ Desert Eagle | Mecha Industries (Factory New)",
+    "price": 16.72,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Desert Eagle | Mecha Industries",
+    "id": "skin-68756"
+  },
+  {
+    "name": "StatTrak™ Desert Eagle | Mecha Industries (Field-Tested)",
+    "price": 6.84,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Desert Eagle | Mecha Industries",
+    "id": "skin-68756"
+  },
+  {
+    "name": "StatTrak™ Desert Eagle | Mecha Industries (Battle-Scarred)",
+    "price": 6.9,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Desert Eagle | Mecha Industries",
+    "id": "skin-68756"
+  },
+  {
+    "name": "Desert Eagle | Mecha Industries (Factory New)",
+    "price": 6.76,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Desert Eagle | Mecha Industries",
+    "id": "skin-68756"
+  },
+  {
+    "name": "Desert Eagle | Mecha Industries (Minimal Wear)",
+    "price": 3.87,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Desert Eagle | Mecha Industries",
+    "id": "skin-68756"
+  },
+  {
+    "name": "StatTrak™ Desert Eagle | Mecha Industries (Well-Worn)",
+    "price": 9.51,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Desert Eagle | Mecha Industries",
+    "id": "skin-68756"
+  },
+  {
+    "name": "Desert Eagle | Mecha Industries (Well-Worn)",
+    "price": 3.11,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Desert Eagle | Mecha Industries",
+    "id": "skin-68756"
+  }
+]

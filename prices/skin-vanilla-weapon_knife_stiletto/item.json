@@ -1,0 +1,20 @@
+[
+  {
+    "name": "★ Stiletto Knife",
+    "price": 313,
+    "wear": null,
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Stiletto Knife",
+    "id": "skin-vanilla-weapon_knife_stiletto"
+  },
+  {
+    "name": "★ StatTrak™ Stiletto Knife",
+    "price": 289.48,
+    "wear": null,
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Stiletto Knife",
+    "id": "skin-vanilla-weapon_knife_stiletto"
+  }
+]

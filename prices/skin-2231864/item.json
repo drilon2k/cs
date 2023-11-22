@@ -1,0 +1,92 @@
+[
+  {
+    "name": "MP9 | Hydra (Battle-Scarred)",
+    "price": 2.88,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MP9 | Hydra",
+    "id": "skin-2231864"
+  },
+  {
+    "name": "MP9 | Hydra (Field-Tested)",
+    "price": 3.57,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MP9 | Hydra",
+    "id": "skin-2231864"
+  },
+  {
+    "name": "StatTrak™ MP9 | Hydra (Minimal Wear)",
+    "price": 12.05,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MP9 | Hydra",
+    "id": "skin-2231864"
+  },
+  {
+    "name": "StatTrak™ MP9 | Hydra (Battle-Scarred)",
+    "price": 6.09,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MP9 | Hydra",
+    "id": "skin-2231864"
+  },
+  {
+    "name": "StatTrak™ MP9 | Hydra (Field-Tested)",
+    "price": 7.42,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MP9 | Hydra",
+    "id": "skin-2231864"
+  },
+  {
+    "name": "StatTrak™ MP9 | Hydra (Well-Worn)",
+    "price": 6.15,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MP9 | Hydra",
+    "id": "skin-2231864"
+  },
+  {
+    "name": "MP9 | Hydra (Minimal Wear)",
+    "price": 5.35,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MP9 | Hydra",
+    "id": "skin-2231864"
+  },
+  {
+    "name": "MP9 | Hydra (Factory New)",
+    "price": 11.75,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MP9 | Hydra",
+    "id": "skin-2231864"
+  },
+  {
+    "name": "MP9 | Hydra (Well-Worn)",
+    "price": 3.44,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MP9 | Hydra",
+    "id": "skin-2231864"
+  },
+  {
+    "name": "StatTrak™ MP9 | Hydra (Factory New)",
+    "price": 29,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MP9 | Hydra",
+    "id": "skin-2231864"
+  }
+]

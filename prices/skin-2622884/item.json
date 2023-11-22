@@ -1,0 +1,92 @@
+[
+  {
+    "name": "SSG 08 | Abyss (Field-Tested)",
+    "price": 0.17,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "SSG 08 | Abyss",
+    "id": "skin-2622884"
+  },
+  {
+    "name": "StatTrak™ SSG 08 | Abyss (Battle-Scarred)",
+    "price": 0.37,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "SSG 08 | Abyss",
+    "id": "skin-2622884"
+  },
+  {
+    "name": "StatTrak™ SSG 08 | Abyss (Minimal Wear)",
+    "price": 1.56,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "SSG 08 | Abyss",
+    "id": "skin-2622884"
+  },
+  {
+    "name": "StatTrak™ SSG 08 | Abyss (Factory New)",
+    "price": 9.42,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "SSG 08 | Abyss",
+    "id": "skin-2622884"
+  },
+  {
+    "name": "SSG 08 | Abyss (Battle-Scarred)",
+    "price": 0.13,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "SSG 08 | Abyss",
+    "id": "skin-2622884"
+  },
+  {
+    "name": "SSG 08 | Abyss (Minimal Wear)",
+    "price": 0.48,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "SSG 08 | Abyss",
+    "id": "skin-2622884"
+  },
+  {
+    "name": "SSG 08 | Abyss (Well-Worn)",
+    "price": 0.11,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "SSG 08 | Abyss",
+    "id": "skin-2622884"
+  },
+  {
+    "name": "SSG 08 | Abyss (Factory New)",
+    "price": 2.65,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "SSG 08 | Abyss",
+    "id": "skin-2622884"
+  },
+  {
+    "name": "StatTrak™ SSG 08 | Abyss (Field-Tested)",
+    "price": 0.57,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "SSG 08 | Abyss",
+    "id": "skin-2622884"
+  },
+  {
+    "name": "StatTrak™ SSG 08 | Abyss (Well-Worn)",
+    "price": 0.37,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "SSG 08 | Abyss",
+    "id": "skin-2622884"
+  }
+]

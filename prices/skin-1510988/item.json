@@ -1,0 +1,92 @@
+[
+  {
+    "name": "StatTrak™ MP5-SD | Agent (Field-Tested)",
+    "price": 1.08,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MP5-SD | Agent",
+    "id": "skin-1510988"
+  },
+  {
+    "name": "MP5-SD | Agent (Minimal Wear)",
+    "price": 0.71,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MP5-SD | Agent",
+    "id": "skin-1510988"
+  },
+  {
+    "name": "MP5-SD | Agent (Well-Worn)",
+    "price": 0.43,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MP5-SD | Agent",
+    "id": "skin-1510988"
+  },
+  {
+    "name": "StatTrak™ MP5-SD | Agent (Battle-Scarred)",
+    "price": 1.01,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MP5-SD | Agent",
+    "id": "skin-1510988"
+  },
+  {
+    "name": "MP5-SD | Agent (Factory New)",
+    "price": 2.13,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MP5-SD | Agent",
+    "id": "skin-1510988"
+  },
+  {
+    "name": "MP5-SD | Agent (Battle-Scarred)",
+    "price": 0.46,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MP5-SD | Agent",
+    "id": "skin-1510988"
+  },
+  {
+    "name": "MP5-SD | Agent (Field-Tested)",
+    "price": 0.47,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MP5-SD | Agent",
+    "id": "skin-1510988"
+  },
+  {
+    "name": "StatTrak™ MP5-SD | Agent (Well-Worn)",
+    "price": 1.02,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MP5-SD | Agent",
+    "id": "skin-1510988"
+  },
+  {
+    "name": "StatTrak™ MP5-SD | Agent (Minimal Wear)",
+    "price": 2.38,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MP5-SD | Agent",
+    "id": "skin-1510988"
+  },
+  {
+    "name": "StatTrak™ MP5-SD | Agent (Factory New)",
+    "price": 10.83,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MP5-SD | Agent",
+    "id": "skin-1510988"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "name": "StatTrak™ AK-47 | Nightwish (Well-Worn)",
+    "price": 17.42,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AK-47 | Nightwish",
+    "id": "skin-463316"
+  },
+  {
+    "name": "AK-47 | Nightwish (Well-Worn)",
+    "price": 7.57,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AK-47 | Nightwish",
+    "id": "skin-463316"
+  },
+  {
+    "name": "StatTrak™ AK-47 | Nightwish (Factory New)",
+    "price": 190.13,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AK-47 | Nightwish",
+    "id": "skin-463316"
+  },
+  {
+    "name": "StatTrak™ AK-47 | Nightwish (Battle-Scarred)",
+    "price": 14.11,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AK-47 | Nightwish",
+    "id": "skin-463316"
+  },
+  {
+    "name": "AK-47 | Nightwish (Field-Tested)",
+    "price": 9.57,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AK-47 | Nightwish",
+    "id": "skin-463316"
+  },
+  {
+    "name": "AK-47 | Nightwish (Minimal Wear)",
+    "price": 20.91,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AK-47 | Nightwish",
+    "id": "skin-463316"
+  },
+  {
+    "name": "StatTrak™ AK-47 | Nightwish (Field-Tested)",
+    "price": 24.2,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AK-47 | Nightwish",
+    "id": "skin-463316"
+  },
+  {
+    "name": "StatTrak™ AK-47 | Nightwish (Minimal Wear)",
+    "price": 55.88,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AK-47 | Nightwish",
+    "id": "skin-463316"
+  },
+  {
+    "name": "AK-47 | Nightwish (Factory New)",
+    "price": 69.11,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AK-47 | Nightwish",
+    "id": "skin-463316"
+  },
+  {
+    "name": "AK-47 | Nightwish (Battle-Scarred)",
+    "price": 4.85,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AK-47 | Nightwish",
+    "id": "skin-463316"
+  }
+]

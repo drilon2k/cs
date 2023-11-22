@@ -1,0 +1,38 @@
+[
+  {
+    "name": "★ Skeleton Knife | Fade (Minimal Wear)",
+    "price": 1356.91,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Skeleton Knife | Fade",
+    "id": "skin-34406552"
+  },
+  {
+    "name": "★ StatTrak™ Skeleton Knife | Fade (Minimal Wear)",
+    "price": 2011.16,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Skeleton Knife | Fade",
+    "id": "skin-34406552"
+  },
+  {
+    "name": "★ Skeleton Knife | Fade (Factory New)",
+    "price": 1368.57,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Skeleton Knife | Fade",
+    "id": "skin-34406552"
+  },
+  {
+    "name": "★ StatTrak™ Skeleton Knife | Fade (Factory New)",
+    "price": 1439.87,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Skeleton Knife | Fade",
+    "id": "skin-34406552"
+  }
+]

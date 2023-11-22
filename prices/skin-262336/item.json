@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Glock-18 | Dragon Tattoo (Minimal Wear)",
+    "price": 63.99,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Glock-18 | Dragon Tattoo",
+    "id": "skin-262336"
+  },
+  {
+    "name": "StatTrak™ Glock-18 | Dragon Tattoo (Minimal Wear)",
+    "price": 175.39,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Glock-18 | Dragon Tattoo",
+    "id": "skin-262336"
+  },
+  {
+    "name": "StatTrak™ Glock-18 | Dragon Tattoo (Factory New)",
+    "price": 193.77,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Glock-18 | Dragon Tattoo",
+    "id": "skin-262336"
+  },
+  {
+    "name": "Glock-18 | Dragon Tattoo (Factory New)",
+    "price": 58.28,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Glock-18 | Dragon Tattoo",
+    "id": "skin-262336"
+  }
+]

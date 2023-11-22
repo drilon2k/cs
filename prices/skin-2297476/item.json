@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Nova | Quick Sand (Field-Tested)",
+    "price": 17.19,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Nova | Quick Sand",
+    "id": "skin-2297476"
+  },
+  {
+    "name": "Nova | Quick Sand (Battle-Scarred)",
+    "price": 18.07,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Nova | Quick Sand",
+    "id": "skin-2297476"
+  },
+  {
+    "name": "Nova | Quick Sand (Well-Worn)",
+    "price": 17.28,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Nova | Quick Sand",
+    "id": "skin-2297476"
+  },
+  {
+    "name": "Nova | Quick Sand (Minimal Wear)",
+    "price": 17.14,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Nova | Quick Sand",
+    "id": "skin-2297476"
+  },
+  {
+    "name": "Nova | Quick Sand (Factory New)",
+    "price": 17.14,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Nova | Quick Sand",
+    "id": "skin-2297476"
+  }
+]

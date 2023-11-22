@@ -1,0 +1,47 @@
+[
+  {
+    "name": "M4A1-S | VariCamo (Factory New)",
+    "price": 1.23,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M4A1-S | VariCamo",
+    "id": "skin-3933100"
+  },
+  {
+    "name": "M4A1-S | VariCamo (Battle-Scarred)",
+    "price": 0.43,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M4A1-S | VariCamo",
+    "id": "skin-3933100"
+  },
+  {
+    "name": "M4A1-S | VariCamo (Field-Tested)",
+    "price": 0.6,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M4A1-S | VariCamo",
+    "id": "skin-3933100"
+  },
+  {
+    "name": "M4A1-S | VariCamo (Minimal Wear)",
+    "price": 0.94,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M4A1-S | VariCamo",
+    "id": "skin-3933100"
+  },
+  {
+    "name": "M4A1-S | VariCamo (Well-Worn)",
+    "price": 0.48,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M4A1-S | VariCamo",
+    "id": "skin-3933100"
+  }
+]

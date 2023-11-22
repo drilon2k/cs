@@ -1,0 +1,47 @@
+[
+  {
+    "name": "P250 | Facets (Well-Worn)",
+    "price": 6.86,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P250 | Facets",
+    "id": "skin-2360124"
+  },
+  {
+    "name": "P250 | Facets (Battle-Scarred)",
+    "price": 3.17,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P250 | Facets",
+    "id": "skin-2360124"
+  },
+  {
+    "name": "P250 | Facets (Field-Tested)",
+    "price": 3.97,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P250 | Facets",
+    "id": "skin-2360124"
+  },
+  {
+    "name": "P250 | Facets (Factory New)",
+    "price": 12.17,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P250 | Facets",
+    "id": "skin-2360124"
+  },
+  {
+    "name": "P250 | Facets (Minimal Wear)",
+    "price": 4.58,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P250 | Facets",
+    "id": "skin-2360124"
+  }
+]

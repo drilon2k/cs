@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Dual Berettas | Hemoglobin (Factory New)",
+    "price": 8.09,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Dual Berettas | Hemoglobin",
+    "id": "skin-131952"
+  },
+  {
+    "name": "StatTrak™ Dual Berettas | Hemoglobin (Field-Tested)",
+    "price": 14.86,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Dual Berettas | Hemoglobin",
+    "id": "skin-131952"
+  },
+  {
+    "name": "StatTrak™ Dual Berettas | Hemoglobin (Minimal Wear)",
+    "price": 15.06,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Dual Berettas | Hemoglobin",
+    "id": "skin-131952"
+  },
+  {
+    "name": "Dual Berettas | Hemoglobin (Minimal Wear)",
+    "price": 8.78,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Dual Berettas | Hemoglobin",
+    "id": "skin-131952"
+  },
+  {
+    "name": "Dual Berettas | Hemoglobin (Field-Tested)",
+    "price": 8.5,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Dual Berettas | Hemoglobin",
+    "id": "skin-131952"
+  },
+  {
+    "name": "StatTrak™ Dual Berettas | Hemoglobin (Factory New)",
+    "price": 23.72,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Dual Berettas | Hemoglobin",
+    "id": "skin-131952"
+  }
+]

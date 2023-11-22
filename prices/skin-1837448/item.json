@@ -1,0 +1,74 @@
+[
+  {
+    "name": "StatTrak™ Negev | Dazzle (Field-Tested)",
+    "price": 0.12,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Negev | Dazzle",
+    "id": "skin-1837448"
+  },
+  {
+    "name": "Negev | Dazzle (Battle-Scarred)",
+    "price": 0.05,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Negev | Dazzle",
+    "id": "skin-1837448"
+  },
+  {
+    "name": "StatTrak™ Negev | Dazzle (Minimal Wear)",
+    "price": 1.01,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Negev | Dazzle",
+    "id": "skin-1837448"
+  },
+  {
+    "name": "Negev | Dazzle (Field-Tested)",
+    "price": 0.07,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Negev | Dazzle",
+    "id": "skin-1837448"
+  },
+  {
+    "name": "Negev | Dazzle (Well-Worn)",
+    "price": 0.06,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Negev | Dazzle",
+    "id": "skin-1837448"
+  },
+  {
+    "name": "Negev | Dazzle (Minimal Wear)",
+    "price": 0.19,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Negev | Dazzle",
+    "id": "skin-1837448"
+  },
+  {
+    "name": "StatTrak™ Negev | Dazzle (Well-Worn)",
+    "price": 0.24,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Negev | Dazzle",
+    "id": "skin-1837448"
+  },
+  {
+    "name": "StatTrak™ Negev | Dazzle (Battle-Scarred)",
+    "price": 0.09,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Negev | Dazzle",
+    "id": "skin-1837448"
+  }
+]

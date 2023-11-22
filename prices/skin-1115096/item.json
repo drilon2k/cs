@@ -1,0 +1,38 @@
+[
+  {
+    "name": "MAC-10 | Amber Fade (Well-Worn)",
+    "price": 19.57,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MAC-10 | Amber Fade",
+    "id": "skin-1115096"
+  },
+  {
+    "name": "MAC-10 | Amber Fade (Field-Tested)",
+    "price": 9.14,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MAC-10 | Amber Fade",
+    "id": "skin-1115096"
+  },
+  {
+    "name": "MAC-10 | Amber Fade (Factory New)",
+    "price": 14.4,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MAC-10 | Amber Fade",
+    "id": "skin-1115096"
+  },
+  {
+    "name": "MAC-10 | Amber Fade (Minimal Wear)",
+    "price": 8.76,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MAC-10 | Amber Fade",
+    "id": "skin-1115096"
+  }
+]

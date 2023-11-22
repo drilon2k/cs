@@ -1,0 +1,47 @@
+[
+  {
+    "name": "FAMAS | Faulty Wiring (Minimal Wear)",
+    "price": 0.34,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "FAMAS | Faulty Wiring",
+    "id": "skin-659624"
+  },
+  {
+    "name": "FAMAS | Faulty Wiring (Battle-Scarred)",
+    "price": 0.4,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "FAMAS | Faulty Wiring",
+    "id": "skin-659624"
+  },
+  {
+    "name": "FAMAS | Faulty Wiring (Field-Tested)",
+    "price": 0.31,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "FAMAS | Faulty Wiring",
+    "id": "skin-659624"
+  },
+  {
+    "name": "FAMAS | Faulty Wiring (Well-Worn)",
+    "price": 0.32,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "FAMAS | Faulty Wiring",
+    "id": "skin-659624"
+  },
+  {
+    "name": "FAMAS | Faulty Wiring (Factory New)",
+    "price": 0.47,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "FAMAS | Faulty Wiring",
+    "id": "skin-659624"
+  }
+]

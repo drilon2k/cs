@@ -1,0 +1,92 @@
+[
+  {
+    "name": "StatTrak™ P90 | Grim (Minimal Wear)",
+    "price": 0.65,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "P90 | Grim",
+    "id": "skin-1247628"
+  },
+  {
+    "name": "P90 | Grim (Factory New)",
+    "price": 0.54,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P90 | Grim",
+    "id": "skin-1247628"
+  },
+  {
+    "name": "StatTrak™ P90 | Grim (Factory New)",
+    "price": 2.29,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "P90 | Grim",
+    "id": "skin-1247628"
+  },
+  {
+    "name": "P90 | Grim (Battle-Scarred)",
+    "price": 0.07,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P90 | Grim",
+    "id": "skin-1247628"
+  },
+  {
+    "name": "StatTrak™ P90 | Grim (Field-Tested)",
+    "price": 0.21,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "P90 | Grim",
+    "id": "skin-1247628"
+  },
+  {
+    "name": "StatTrak™ P90 | Grim (Well-Worn)",
+    "price": 1.12,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "P90 | Grim",
+    "id": "skin-1247628"
+  },
+  {
+    "name": "P90 | Grim (Minimal Wear)",
+    "price": 0.15,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P90 | Grim",
+    "id": "skin-1247628"
+  },
+  {
+    "name": "P90 | Grim (Well-Worn)",
+    "price": 0.12,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P90 | Grim",
+    "id": "skin-1247628"
+  },
+  {
+    "name": "P90 | Grim (Field-Tested)",
+    "price": 0.09,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P90 | Grim",
+    "id": "skin-1247628"
+  },
+  {
+    "name": "StatTrak™ P90 | Grim (Battle-Scarred)",
+    "price": 0.2,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "P90 | Grim",
+    "id": "skin-1247628"
+  }
+]

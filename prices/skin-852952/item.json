@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Galil AR | Amber Fade (Factory New)",
+    "price": 17.55,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Galil AR | Amber Fade",
+    "id": "skin-852952"
+  },
+  {
+    "name": "Galil AR | Amber Fade (Well-Worn)",
+    "price": 19.82,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Galil AR | Amber Fade",
+    "id": "skin-852952"
+  },
+  {
+    "name": "Galil AR | Amber Fade (Field-Tested)",
+    "price": 17.32,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Galil AR | Amber Fade",
+    "id": "skin-852952"
+  },
+  {
+    "name": "Galil AR | Amber Fade (Minimal Wear)",
+    "price": 17.41,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Galil AR | Amber Fade",
+    "id": "skin-852952"
+  }
+]

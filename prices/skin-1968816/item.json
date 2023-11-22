@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Tec-9 | Cracked Opal (Field-Tested)",
+    "price": 0.05,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Tec-9 | Cracked Opal",
+    "id": "skin-1968816"
+  },
+  {
+    "name": "Tec-9 | Cracked Opal (Well-Worn)",
+    "price": 0.04,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Tec-9 | Cracked Opal",
+    "id": "skin-1968816"
+  },
+  {
+    "name": "Tec-9 | Cracked Opal (Battle-Scarred)",
+    "price": 0.04,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Tec-9 | Cracked Opal",
+    "id": "skin-1968816"
+  },
+  {
+    "name": "StatTrak™ Tec-9 | Cracked Opal (Factory New)",
+    "price": 1.32,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Tec-9 | Cracked Opal",
+    "id": "skin-1968816"
+  },
+  {
+    "name": "Tec-9 | Cracked Opal (Factory New)",
+    "price": 0.25,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Tec-9 | Cracked Opal",
+    "id": "skin-1968816"
+  },
+  {
+    "name": "StatTrak™ Tec-9 | Cracked Opal (Battle-Scarred)",
+    "price": 0.09,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Tec-9 | Cracked Opal",
+    "id": "skin-1968816"
+  },
+  {
+    "name": "StatTrak™ Tec-9 | Cracked Opal (Well-Worn)",
+    "price": 0.1,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Tec-9 | Cracked Opal",
+    "id": "skin-1968816"
+  },
+  {
+    "name": "StatTrak™ Tec-9 | Cracked Opal (Field-Tested)",
+    "price": 0.11,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Tec-9 | Cracked Opal",
+    "id": "skin-1968816"
+  },
+  {
+    "name": "StatTrak™ Tec-9 | Cracked Opal (Minimal Wear)",
+    "price": 0.26,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Tec-9 | Cracked Opal",
+    "id": "skin-1968816"
+  },
+  {
+    "name": "Tec-9 | Cracked Opal (Minimal Wear)",
+    "price": 0.09,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Tec-9 | Cracked Opal",
+    "id": "skin-1968816"
+  }
+]

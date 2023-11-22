@@ -1,0 +1,38 @@
+[
+  {
+    "name": "StatTrak™ P90 | Cold Blooded (Minimal Wear)",
+    "price": 64.8,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "P90 | Cold Blooded",
+    "id": "skin-1245452"
+  },
+  {
+    "name": "P90 | Cold Blooded (Minimal Wear)",
+    "price": 53.96,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P90 | Cold Blooded",
+    "id": "skin-1245452"
+  },
+  {
+    "name": "StatTrak™ P90 | Cold Blooded (Factory New)",
+    "price": 60.63,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "P90 | Cold Blooded",
+    "id": "skin-1245452"
+  },
+  {
+    "name": "P90 | Cold Blooded (Factory New)",
+    "price": 54.16,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P90 | Cold Blooded",
+    "id": "skin-1245452"
+  }
+]

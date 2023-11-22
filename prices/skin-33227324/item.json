@@ -1,0 +1,92 @@
+[
+  {
+    "name": "★ Karambit | Urban Masked (Battle-Scarred)",
+    "price": 349.62,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Karambit | Urban Masked",
+    "id": "skin-33227324"
+  },
+  {
+    "name": "★ StatTrak™ Karambit | Urban Masked (Minimal Wear)",
+    "price": 514.24,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Karambit | Urban Masked",
+    "id": "skin-33227324"
+  },
+  {
+    "name": "★ StatTrak™ Karambit | Urban Masked (Battle-Scarred)",
+    "price": 410.02,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Karambit | Urban Masked",
+    "id": "skin-33227324"
+  },
+  {
+    "name": "★ StatTrak™ Karambit | Urban Masked (Field-Tested)",
+    "price": 383.97,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Karambit | Urban Masked",
+    "id": "skin-33227324"
+  },
+  {
+    "name": "★ StatTrak™ Karambit | Urban Masked (Factory New)",
+    "price": 0,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Karambit | Urban Masked",
+    "id": "skin-33227324"
+  },
+  {
+    "name": "★ Karambit | Urban Masked (Well-Worn)",
+    "price": 370.24,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Karambit | Urban Masked",
+    "id": "skin-33227324"
+  },
+  {
+    "name": "★ Karambit | Urban Masked (Minimal Wear)",
+    "price": 431.8,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Karambit | Urban Masked",
+    "id": "skin-33227324"
+  },
+  {
+    "name": "★ StatTrak™ Karambit | Urban Masked (Well-Worn)",
+    "price": 411.32,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Karambit | Urban Masked",
+    "id": "skin-33227324"
+  },
+  {
+    "name": "★ Karambit | Urban Masked (Field-Tested)",
+    "price": 382.6,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Karambit | Urban Masked",
+    "id": "skin-33227324"
+  },
+  {
+    "name": "★ Karambit | Urban Masked (Factory New)",
+    "price": 822.79,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Karambit | Urban Masked",
+    "id": "skin-33227324"
+  }
+]

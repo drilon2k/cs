@@ -1,0 +1,74 @@
+[
+  {
+    "name": "CZ75-Auto | Hexane (Factory New)",
+    "price": 3.61,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "CZ75-Auto | Hexane",
+    "id": "skin-4129640"
+  },
+  {
+    "name": "CZ75-Auto | Hexane (Field-Tested)",
+    "price": 1.35,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "CZ75-Auto | Hexane",
+    "id": "skin-4129640"
+  },
+  {
+    "name": "CZ75-Auto | Hexane (Well-Worn)",
+    "price": 2.18,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "CZ75-Auto | Hexane",
+    "id": "skin-4129640"
+  },
+  {
+    "name": "StatTrak™ CZ75-Auto | Hexane (Field-Tested)",
+    "price": 1.02,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "CZ75-Auto | Hexane",
+    "id": "skin-4129640"
+  },
+  {
+    "name": "StatTrak™ CZ75-Auto | Hexane (Well-Worn)",
+    "price": 2.99,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "CZ75-Auto | Hexane",
+    "id": "skin-4129640"
+  },
+  {
+    "name": "StatTrak™ CZ75-Auto | Hexane (Factory New)",
+    "price": 8.77,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "CZ75-Auto | Hexane",
+    "id": "skin-4129640"
+  },
+  {
+    "name": "StatTrak™ CZ75-Auto | Hexane (Minimal Wear)",
+    "price": 2.59,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "CZ75-Auto | Hexane",
+    "id": "skin-4129640"
+  },
+  {
+    "name": "CZ75-Auto | Hexane (Minimal Wear)",
+    "price": 1.74,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "CZ75-Auto | Hexane",
+    "id": "skin-4129640"
+  }
+]

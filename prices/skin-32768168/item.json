@@ -1,0 +1,92 @@
+[
+  {
+    "name": "★ Bayonet | Blue Steel (Battle-Scarred)",
+    "price": 242.72,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Bayonet | Blue Steel",
+    "id": "skin-32768168"
+  },
+  {
+    "name": "★ Bayonet | Blue Steel (Well-Worn)",
+    "price": 260.27,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Bayonet | Blue Steel",
+    "id": "skin-32768168"
+  },
+  {
+    "name": "★ StatTrak™ Bayonet | Blue Steel (Minimal Wear)",
+    "price": 349.48,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Bayonet | Blue Steel",
+    "id": "skin-32768168"
+  },
+  {
+    "name": "★ Bayonet | Blue Steel (Minimal Wear)",
+    "price": 294.83,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Bayonet | Blue Steel",
+    "id": "skin-32768168"
+  },
+  {
+    "name": "★ StatTrak™ Bayonet | Blue Steel (Battle-Scarred)",
+    "price": 253.69,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Bayonet | Blue Steel",
+    "id": "skin-32768168"
+  },
+  {
+    "name": "★ Bayonet | Blue Steel (Factory New)",
+    "price": 547.15,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Bayonet | Blue Steel",
+    "id": "skin-32768168"
+  },
+  {
+    "name": "★ StatTrak™ Bayonet | Blue Steel (Field-Tested)",
+    "price": 273.71,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Bayonet | Blue Steel",
+    "id": "skin-32768168"
+  },
+  {
+    "name": "★ StatTrak™ Bayonet | Blue Steel (Factory New)",
+    "price": 0,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Bayonet | Blue Steel",
+    "id": "skin-32768168"
+  },
+  {
+    "name": "★ StatTrak™ Bayonet | Blue Steel (Well-Worn)",
+    "price": 274.12,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Bayonet | Blue Steel",
+    "id": "skin-32768168"
+  },
+  {
+    "name": "★ Bayonet | Blue Steel (Field-Tested)",
+    "price": 274.26,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Bayonet | Blue Steel",
+    "id": "skin-32768168"
+  }
+]

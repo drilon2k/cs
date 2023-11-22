@@ -1,0 +1,92 @@
+[
+  {
+    "name": "StatTrak™ SCAR-20 | Crimson Web (Field-Tested)",
+    "price": 5.23,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "SCAR-20 | Crimson Web",
+    "id": "skin-2491296"
+  },
+  {
+    "name": "StatTrak™ SCAR-20 | Crimson Web (Well-Worn)",
+    "price": 5.74,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "SCAR-20 | Crimson Web",
+    "id": "skin-2491296"
+  },
+  {
+    "name": "SCAR-20 | Crimson Web (Well-Worn)",
+    "price": 3.67,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "SCAR-20 | Crimson Web",
+    "id": "skin-2491296"
+  },
+  {
+    "name": "StatTrak™ SCAR-20 | Crimson Web (Factory New)",
+    "price": 34.67,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "SCAR-20 | Crimson Web",
+    "id": "skin-2491296"
+  },
+  {
+    "name": "SCAR-20 | Crimson Web (Field-Tested)",
+    "price": 3.37,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "SCAR-20 | Crimson Web",
+    "id": "skin-2491296"
+  },
+  {
+    "name": "StatTrak™ SCAR-20 | Crimson Web (Battle-Scarred)",
+    "price": 4.07,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "SCAR-20 | Crimson Web",
+    "id": "skin-2491296"
+  },
+  {
+    "name": "SCAR-20 | Crimson Web (Battle-Scarred)",
+    "price": 3.09,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "SCAR-20 | Crimson Web",
+    "id": "skin-2491296"
+  },
+  {
+    "name": "StatTrak™ SCAR-20 | Crimson Web (Minimal Wear)",
+    "price": 5.11,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "SCAR-20 | Crimson Web",
+    "id": "skin-2491296"
+  },
+  {
+    "name": "SCAR-20 | Crimson Web (Factory New)",
+    "price": 13.77,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "SCAR-20 | Crimson Web",
+    "id": "skin-2491296"
+  },
+  {
+    "name": "SCAR-20 | Crimson Web (Minimal Wear)",
+    "price": 3.84,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "SCAR-20 | Crimson Web",
+    "id": "skin-2491296"
+  }
+]

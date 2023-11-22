@@ -1,0 +1,92 @@
+[
+  {
+    "name": "★ StatTrak™ Survival Knife | Scorched (Minimal Wear)",
+    "price": 103.33,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Survival Knife | Scorched",
+    "id": "skin-33948348"
+  },
+  {
+    "name": "★ StatTrak™ Survival Knife | Scorched (Well-Worn)",
+    "price": 232.92,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Survival Knife | Scorched",
+    "id": "skin-33948348"
+  },
+  {
+    "name": "★ Survival Knife | Scorched (Well-Worn)",
+    "price": 79.06,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Survival Knife | Scorched",
+    "id": "skin-33948348"
+  },
+  {
+    "name": "★ Survival Knife | Scorched (Factory New)",
+    "price": 164.42,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Survival Knife | Scorched",
+    "id": "skin-33948348"
+  },
+  {
+    "name": "★ Survival Knife | Scorched (Minimal Wear)",
+    "price": 85.71,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Survival Knife | Scorched",
+    "id": "skin-33948348"
+  },
+  {
+    "name": "★ Survival Knife | Scorched (Battle-Scarred)",
+    "price": 77.41,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Survival Knife | Scorched",
+    "id": "skin-33948348"
+  },
+  {
+    "name": "★ StatTrak™ Survival Knife | Scorched (Battle-Scarred)",
+    "price": 82.28,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Survival Knife | Scorched",
+    "id": "skin-33948348"
+  },
+  {
+    "name": "★ Survival Knife | Scorched (Field-Tested)",
+    "price": 76.78,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Survival Knife | Scorched",
+    "id": "skin-33948348"
+  },
+  {
+    "name": "★ StatTrak™ Survival Knife | Scorched (Factory New)",
+    "price": 0,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Survival Knife | Scorched",
+    "id": "skin-33948348"
+  },
+  {
+    "name": "★ StatTrak™ Survival Knife | Scorched (Field-Tested)",
+    "price": 91.05,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Survival Knife | Scorched",
+    "id": "skin-33948348"
+  }
+]

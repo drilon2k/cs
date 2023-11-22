@@ -1,0 +1,92 @@
+[
+  {
+    "name": "★ Shadow Daggers | Night (Battle-Scarred)",
+    "price": 74.67,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Shadow Daggers | Night",
+    "id": "skin-33816736"
+  },
+  {
+    "name": "★ Shadow Daggers | Night (Well-Worn)",
+    "price": 73.23,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Shadow Daggers | Night",
+    "id": "skin-33816736"
+  },
+  {
+    "name": "★ Shadow Daggers | Night (Field-Tested)",
+    "price": 72.68,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Shadow Daggers | Night",
+    "id": "skin-33816736"
+  },
+  {
+    "name": "★ Shadow Daggers | Night (Minimal Wear)",
+    "price": 83.44,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Shadow Daggers | Night",
+    "id": "skin-33816736"
+  },
+  {
+    "name": "★ StatTrak™ Shadow Daggers | Night (Battle-Scarred)",
+    "price": 2997.72,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Shadow Daggers | Night",
+    "id": "skin-33816736"
+  },
+  {
+    "name": "★ StatTrak™ Shadow Daggers | Night (Well-Worn)",
+    "price": 137.37,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Shadow Daggers | Night",
+    "id": "skin-33816736"
+  },
+  {
+    "name": "★ StatTrak™ Shadow Daggers | Night (Factory New)",
+    "price": 0,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Shadow Daggers | Night",
+    "id": "skin-33816736"
+  },
+  {
+    "name": "★ StatTrak™ Shadow Daggers | Night (Field-Tested)",
+    "price": 97.09,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Shadow Daggers | Night",
+    "id": "skin-33816736"
+  },
+  {
+    "name": "★ StatTrak™ Shadow Daggers | Night (Minimal Wear)",
+    "price": 95.85,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Shadow Daggers | Night",
+    "id": "skin-33816736"
+  },
+  {
+    "name": "★ Shadow Daggers | Night (Factory New)",
+    "price": 1919.83,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Shadow Daggers | Night",
+    "id": "skin-33816736"
+  }
+]

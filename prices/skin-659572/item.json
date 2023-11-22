@@ -1,0 +1,38 @@
+[
+  {
+    "name": "FAMAS | Meltdown (Factory New)",
+    "price": 30.91,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "FAMAS | Meltdown",
+    "id": "skin-659572"
+  },
+  {
+    "name": "FAMAS | Meltdown (Minimal Wear)",
+    "price": 24.71,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "FAMAS | Meltdown",
+    "id": "skin-659572"
+  },
+  {
+    "name": "FAMAS | Meltdown (Well-Worn)",
+    "price": 21.19,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "FAMAS | Meltdown",
+    "id": "skin-659572"
+  },
+  {
+    "name": "FAMAS | Meltdown (Field-Tested)",
+    "price": 22.59,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "FAMAS | Meltdown",
+    "id": "skin-659572"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Dual Berettas | Royal Consorts (Minimal Wear)",
+    "price": 0.8,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Dual Berettas | Royal Consorts",
+    "id": "skin-133572"
+  },
+  {
+    "name": "StatTrak™ Dual Berettas | Royal Consorts (Field-Tested)",
+    "price": 0.7,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Dual Berettas | Royal Consorts",
+    "id": "skin-133572"
+  },
+  {
+    "name": "Dual Berettas | Royal Consorts (Field-Tested)",
+    "price": 0.27,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Dual Berettas | Royal Consorts",
+    "id": "skin-133572"
+  },
+  {
+    "name": "StatTrak™ Dual Berettas | Royal Consorts (Battle-Scarred)",
+    "price": 0.7,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Dual Berettas | Royal Consorts",
+    "id": "skin-133572"
+  },
+  {
+    "name": "StatTrak™ Dual Berettas | Royal Consorts (Well-Worn)",
+    "price": 0.69,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Dual Berettas | Royal Consorts",
+    "id": "skin-133572"
+  },
+  {
+    "name": "StatTrak™ Dual Berettas | Royal Consorts (Minimal Wear)",
+    "price": 2.17,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Dual Berettas | Royal Consorts",
+    "id": "skin-133572"
+  },
+  {
+    "name": "StatTrak™ Dual Berettas | Royal Consorts (Factory New)",
+    "price": 10,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Dual Berettas | Royal Consorts",
+    "id": "skin-133572"
+  },
+  {
+    "name": "Dual Berettas | Royal Consorts (Factory New)",
+    "price": 2.38,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Dual Berettas | Royal Consorts",
+    "id": "skin-133572"
+  },
+  {
+    "name": "Dual Berettas | Royal Consorts (Well-Worn)",
+    "price": 0.22,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Dual Berettas | Royal Consorts",
+    "id": "skin-133572"
+  },
+  {
+    "name": "Dual Berettas | Royal Consorts (Battle-Scarred)",
+    "price": 0.23,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Dual Berettas | Royal Consorts",
+    "id": "skin-133572"
+  }
+]

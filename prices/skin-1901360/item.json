@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Sawed-Off | Mosaico (Field-Tested)",
+    "price": 2.61,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Sawed-Off | Mosaico",
+    "id": "skin-1901360"
+  },
+  {
+    "name": "Sawed-Off | Mosaico (Battle-Scarred)",
+    "price": 3.5,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Sawed-Off | Mosaico",
+    "id": "skin-1901360"
+  },
+  {
+    "name": "Sawed-Off | Mosaico (Minimal Wear)",
+    "price": 4.41,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Sawed-Off | Mosaico",
+    "id": "skin-1901360"
+  },
+  {
+    "name": "Sawed-Off | Mosaico (Well-Worn)",
+    "price": 89.04,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Sawed-Off | Mosaico",
+    "id": "skin-1901360"
+  },
+  {
+    "name": "Sawed-Off | Mosaico (Factory New)",
+    "price": 31.26,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Sawed-Off | Mosaico",
+    "id": "skin-1901360"
+  }
+]

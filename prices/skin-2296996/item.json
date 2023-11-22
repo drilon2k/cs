@@ -1,0 +1,92 @@
+[
+  {
+    "name": "StatTrak™ Nova | Wood Fired (Factory New)",
+    "price": 0.68,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Nova | Wood Fired",
+    "id": "skin-2296996"
+  },
+  {
+    "name": "StatTrak™ Nova | Wood Fired (Battle-Scarred)",
+    "price": 0.12,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Nova | Wood Fired",
+    "id": "skin-2296996"
+  },
+  {
+    "name": "StatTrak™ Nova | Wood Fired (Field-Tested)",
+    "price": 0.17,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Nova | Wood Fired",
+    "id": "skin-2296996"
+  },
+  {
+    "name": "StatTrak™ Nova | Wood Fired (Minimal Wear)",
+    "price": 0.25,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Nova | Wood Fired",
+    "id": "skin-2296996"
+  },
+  {
+    "name": "Nova | Wood Fired (Minimal Wear)",
+    "price": 0.1,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Nova | Wood Fired",
+    "id": "skin-2296996"
+  },
+  {
+    "name": "StatTrak™ Nova | Wood Fired (Well-Worn)",
+    "price": 0.18,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Nova | Wood Fired",
+    "id": "skin-2296996"
+  },
+  {
+    "name": "Nova | Wood Fired (Factory New)",
+    "price": 0.15,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Nova | Wood Fired",
+    "id": "skin-2296996"
+  },
+  {
+    "name": "Nova | Wood Fired (Well-Worn)",
+    "price": 0.07,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Nova | Wood Fired",
+    "id": "skin-2296996"
+  },
+  {
+    "name": "Nova | Wood Fired (Battle-Scarred)",
+    "price": 0.04,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Nova | Wood Fired",
+    "id": "skin-2296996"
+  },
+  {
+    "name": "Nova | Wood Fired (Field-Tested)",
+    "price": 0.06,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Nova | Wood Fired",
+    "id": "skin-2296996"
+  }
+]

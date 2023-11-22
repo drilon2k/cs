@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Nova | Rust Coat (Well-Worn)",
+    "price": 1.23,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Nova | Rust Coat",
+    "id": "skin-2295052"
+  },
+  {
+    "name": "Nova | Rust Coat (Battle-Scarred)",
+    "price": 1.18,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Nova | Rust Coat",
+    "id": "skin-2295052"
+  },
+  {
+    "name": "Nova | Rust Coat (Factory New)",
+    "price": 2.01,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Nova | Rust Coat",
+    "id": "skin-2295052"
+  },
+  {
+    "name": "Nova | Rust Coat (Minimal Wear)",
+    "price": 1.32,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Nova | Rust Coat",
+    "id": "skin-2295052"
+  },
+  {
+    "name": "Nova | Rust Coat (Field-Tested)",
+    "price": 1.17,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Nova | Rust Coat",
+    "id": "skin-2295052"
+  }
+]

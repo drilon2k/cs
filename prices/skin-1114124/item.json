@@ -1,0 +1,29 @@
+[
+  {
+    "name": "MAC-10 | Candy Apple (Minimal Wear)",
+    "price": 0.17,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MAC-10 | Candy Apple",
+    "id": "skin-1114124"
+  },
+  {
+    "name": "MAC-10 | Candy Apple (Factory New)",
+    "price": 0.2,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MAC-10 | Candy Apple",
+    "id": "skin-1114124"
+  },
+  {
+    "name": "MAC-10 | Candy Apple (Field-Tested)",
+    "price": 0.13,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MAC-10 | Candy Apple",
+    "id": "skin-1114124"
+  }
+]

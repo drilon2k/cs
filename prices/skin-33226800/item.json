@@ -1,0 +1,92 @@
+[
+  {
+    "name": "★ Karambit | Crimson Web (Battle-Scarred)",
+    "price": 520.41,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Karambit | Crimson Web",
+    "id": "skin-33226800"
+  },
+  {
+    "name": "★ Karambit | Crimson Web (Field-Tested)",
+    "price": 692.44,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Karambit | Crimson Web",
+    "id": "skin-33226800"
+  },
+  {
+    "name": "★ Karambit | Crimson Web (Well-Worn)",
+    "price": 601.32,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Karambit | Crimson Web",
+    "id": "skin-33226800"
+  },
+  {
+    "name": "★ StatTrak™ Karambit | Crimson Web (Field-Tested)",
+    "price": 712.94,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Karambit | Crimson Web",
+    "id": "skin-33226800"
+  },
+  {
+    "name": "★ StatTrak™ Karambit | Crimson Web (Minimal Wear)",
+    "price": 1179.19,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Karambit | Crimson Web",
+    "id": "skin-33226800"
+  },
+  {
+    "name": "★ Karambit | Crimson Web (Minimal Wear)",
+    "price": 1110.76,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Karambit | Crimson Web",
+    "id": "skin-33226800"
+  },
+  {
+    "name": "★ StatTrak™ Karambit | Crimson Web (Well-Worn)",
+    "price": 667.83,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Karambit | Crimson Web",
+    "id": "skin-33226800"
+  },
+  {
+    "name": "★ StatTrak™ Karambit | Crimson Web (Battle-Scarred)",
+    "price": 548.52,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Karambit | Crimson Web",
+    "id": "skin-33226800"
+  },
+  {
+    "name": "★ Karambit | Crimson Web (Factory New)",
+    "price": 5332.75,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Karambit | Crimson Web",
+    "id": "skin-33226800"
+  },
+  {
+    "name": "★ StatTrak™ Karambit | Crimson Web (Factory New)",
+    "price": 25902.39,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Karambit | Crimson Web",
+    "id": "skin-33226800"
+  }
+]

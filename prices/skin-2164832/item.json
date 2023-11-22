@@ -1,0 +1,74 @@
+[
+  {
+    "name": "MP7 | Impire (Well-Worn)",
+    "price": 2.01,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MP7 | Impire",
+    "id": "skin-2164832"
+  },
+  {
+    "name": "MP7 | Impire (Minimal Wear)",
+    "price": 2.02,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MP7 | Impire",
+    "id": "skin-2164832"
+  },
+  {
+    "name": "StatTrak™ MP7 | Impire (Factory New)",
+    "price": 6.85,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MP7 | Impire",
+    "id": "skin-2164832"
+  },
+  {
+    "name": "StatTrak™ MP7 | Impire (Field-Tested)",
+    "price": 3.74,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MP7 | Impire",
+    "id": "skin-2164832"
+  },
+  {
+    "name": "MP7 | Impire (Field-Tested)",
+    "price": 1.6,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MP7 | Impire",
+    "id": "skin-2164832"
+  },
+  {
+    "name": "MP7 | Impire (Factory New)",
+    "price": 2.99,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MP7 | Impire",
+    "id": "skin-2164832"
+  },
+  {
+    "name": "StatTrak™ MP7 | Impire (Well-Worn)",
+    "price": 3.88,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MP7 | Impire",
+    "id": "skin-2164832"
+  },
+  {
+    "name": "StatTrak™ MP7 | Impire (Minimal Wear)",
+    "price": 5.06,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MP7 | Impire",
+    "id": "skin-2164832"
+  }
+]

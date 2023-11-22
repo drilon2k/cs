@@ -1,0 +1,92 @@
+[
+  {
+    "name": "StatTrak™ Nova | Wild Six (Well-Worn)",
+    "price": 0.72,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Nova | Wild Six",
+    "id": "skin-2296556"
+  },
+  {
+    "name": "Nova | Wild Six (Battle-Scarred)",
+    "price": 0.16,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Nova | Wild Six",
+    "id": "skin-2296556"
+  },
+  {
+    "name": "Nova | Wild Six (Well-Worn)",
+    "price": 0.19,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Nova | Wild Six",
+    "id": "skin-2296556"
+  },
+  {
+    "name": "Nova | Wild Six (Minimal Wear)",
+    "price": 0.38,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Nova | Wild Six",
+    "id": "skin-2296556"
+  },
+  {
+    "name": "StatTrak™ Nova | Wild Six (Battle-Scarred)",
+    "price": 0.34,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Nova | Wild Six",
+    "id": "skin-2296556"
+  },
+  {
+    "name": "StatTrak™ Nova | Wild Six (Field-Tested)",
+    "price": 0.39,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Nova | Wild Six",
+    "id": "skin-2296556"
+  },
+  {
+    "name": "StatTrak™ Nova | Wild Six (Factory New)",
+    "price": 3.34,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Nova | Wild Six",
+    "id": "skin-2296556"
+  },
+  {
+    "name": "Nova | Wild Six (Factory New)",
+    "price": 0.96,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Nova | Wild Six",
+    "id": "skin-2296556"
+  },
+  {
+    "name": "StatTrak™ Nova | Wild Six (Minimal Wear)",
+    "price": 1.01,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Nova | Wild Six",
+    "id": "skin-2296556"
+  },
+  {
+    "name": "Nova | Wild Six (Field-Tested)",
+    "price": 0.22,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Nova | Wild Six",
+    "id": "skin-2296556"
+  }
+]

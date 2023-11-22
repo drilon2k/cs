@@ -1,0 +1,92 @@
+[
+  {
+    "name": "P90 | Blind Spot (Field-Tested)",
+    "price": 6.79,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P90 | Blind Spot",
+    "id": "skin-1246096"
+  },
+  {
+    "name": "P90 | Blind Spot (Battle-Scarred)",
+    "price": 6.62,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P90 | Blind Spot",
+    "id": "skin-1246096"
+  },
+  {
+    "name": "StatTrak™ P90 | Blind Spot (Well-Worn)",
+    "price": 10.06,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "P90 | Blind Spot",
+    "id": "skin-1246096"
+  },
+  {
+    "name": "P90 | Blind Spot (Minimal Wear)",
+    "price": 8.04,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P90 | Blind Spot",
+    "id": "skin-1246096"
+  },
+  {
+    "name": "StatTrak™ P90 | Blind Spot (Factory New)",
+    "price": 12.17,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "P90 | Blind Spot",
+    "id": "skin-1246096"
+  },
+  {
+    "name": "StatTrak™ P90 | Blind Spot (Battle-Scarred)",
+    "price": 12.51,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "P90 | Blind Spot",
+    "id": "skin-1246096"
+  },
+  {
+    "name": "StatTrak™ P90 | Blind Spot (Minimal Wear)",
+    "price": 11.34,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "P90 | Blind Spot",
+    "id": "skin-1246096"
+  },
+  {
+    "name": "StatTrak™ P90 | Blind Spot (Field-Tested)",
+    "price": 10.49,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "P90 | Blind Spot",
+    "id": "skin-1246096"
+  },
+  {
+    "name": "P90 | Blind Spot (Factory New)",
+    "price": 8.6,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P90 | Blind Spot",
+    "id": "skin-1246096"
+  },
+  {
+    "name": "P90 | Blind Spot (Well-Worn)",
+    "price": 6.65,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P90 | Blind Spot",
+    "id": "skin-1246096"
+  }
+]

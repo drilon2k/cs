@@ -1,0 +1,92 @@
+[
+  {
+    "name": "StatTrak™ CZ75-Auto | Victoria (Minimal Wear)",
+    "price": 35.65,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "CZ75-Auto | Victoria",
+    "id": "skin-4129848"
+  },
+  {
+    "name": "StatTrak™ CZ75-Auto | Victoria (Factory New)",
+    "price": 82.17,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "CZ75-Auto | Victoria",
+    "id": "skin-4129848"
+  },
+  {
+    "name": "CZ75-Auto | Victoria (Battle-Scarred)",
+    "price": 6.31,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "CZ75-Auto | Victoria",
+    "id": "skin-4129848"
+  },
+  {
+    "name": "CZ75-Auto | Victoria (Field-Tested)",
+    "price": 5.29,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "CZ75-Auto | Victoria",
+    "id": "skin-4129848"
+  },
+  {
+    "name": "StatTrak™ CZ75-Auto | Victoria (Well-Worn)",
+    "price": 38.27,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "CZ75-Auto | Victoria",
+    "id": "skin-4129848"
+  },
+  {
+    "name": "StatTrak™ CZ75-Auto | Victoria (Field-Tested)",
+    "price": 23.1,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "CZ75-Auto | Victoria",
+    "id": "skin-4129848"
+  },
+  {
+    "name": "StatTrak™ CZ75-Auto | Victoria (Battle-Scarred)",
+    "price": 28.13,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "CZ75-Auto | Victoria",
+    "id": "skin-4129848"
+  },
+  {
+    "name": "CZ75-Auto | Victoria (Factory New)",
+    "price": 9.32,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "CZ75-Auto | Victoria",
+    "id": "skin-4129848"
+  },
+  {
+    "name": "CZ75-Auto | Victoria (Minimal Wear)",
+    "price": 6.11,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "CZ75-Auto | Victoria",
+    "id": "skin-4129848"
+  },
+  {
+    "name": "CZ75-Auto | Victoria (Well-Worn)",
+    "price": 9.66,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "CZ75-Auto | Victoria",
+    "id": "skin-4129848"
+  }
+]

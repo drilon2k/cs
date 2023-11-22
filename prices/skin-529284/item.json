@@ -1,0 +1,47 @@
+[
+  {
+    "name": "AUG | Snake Pit (Field-Tested)",
+    "price": 0.02,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AUG | Snake Pit",
+    "id": "skin-529284"
+  },
+  {
+    "name": "AUG | Snake Pit (Battle-Scarred)",
+    "price": 0.02,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AUG | Snake Pit",
+    "id": "skin-529284"
+  },
+  {
+    "name": "AUG | Snake Pit (Minimal Wear)",
+    "price": 0.03,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AUG | Snake Pit",
+    "id": "skin-529284"
+  },
+  {
+    "name": "AUG | Snake Pit (Well-Worn)",
+    "price": 0.02,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AUG | Snake Pit",
+    "id": "skin-529284"
+  },
+  {
+    "name": "AUG | Snake Pit (Factory New)",
+    "price": 0.1,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AUG | Snake Pit",
+    "id": "skin-529284"
+  }
+]

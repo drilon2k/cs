@@ -1,0 +1,47 @@
+[
+  {
+    "name": "R8 Revolver | Phoenix Marker (Field-Tested)",
+    "price": 1.21,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "R8 Revolver | Phoenix Marker",
+    "id": "skin-4198348"
+  },
+  {
+    "name": "R8 Revolver | Phoenix Marker (Minimal Wear)",
+    "price": 1.29,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "R8 Revolver | Phoenix Marker",
+    "id": "skin-4198348"
+  },
+  {
+    "name": "R8 Revolver | Phoenix Marker (Factory New)",
+    "price": 1.47,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "R8 Revolver | Phoenix Marker",
+    "id": "skin-4198348"
+  },
+  {
+    "name": "R8 Revolver | Phoenix Marker (Battle-Scarred)",
+    "price": 1.18,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "R8 Revolver | Phoenix Marker",
+    "id": "skin-4198348"
+  },
+  {
+    "name": "R8 Revolver | Phoenix Marker (Well-Worn)",
+    "price": 1.23,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "R8 Revolver | Phoenix Marker",
+    "id": "skin-4198348"
+  }
+]

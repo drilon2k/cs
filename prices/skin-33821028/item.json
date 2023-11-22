@@ -1,0 +1,92 @@
+[
+  {
+    "name": "★ Shadow Daggers | Black Laminate (Battle-Scarred)",
+    "price": 73.09,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Shadow Daggers | Black Laminate",
+    "id": "skin-33821028"
+  },
+  {
+    "name": "★ StatTrak™ Shadow Daggers | Black Laminate (Battle-Scarred)",
+    "price": 95.99,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Shadow Daggers | Black Laminate",
+    "id": "skin-33821028"
+  },
+  {
+    "name": "★ StatTrak™ Shadow Daggers | Black Laminate (Minimal Wear)",
+    "price": 95.72,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Shadow Daggers | Black Laminate",
+    "id": "skin-33821028"
+  },
+  {
+    "name": "★ Shadow Daggers | Black Laminate (Field-Tested)",
+    "price": 72.67,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Shadow Daggers | Black Laminate",
+    "id": "skin-33821028"
+  },
+  {
+    "name": "★ StatTrak™ Shadow Daggers | Black Laminate (Factory New)",
+    "price": 180.88,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Shadow Daggers | Black Laminate",
+    "id": "skin-33821028"
+  },
+  {
+    "name": "★ Shadow Daggers | Black Laminate (Factory New)",
+    "price": 111.73,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Shadow Daggers | Black Laminate",
+    "id": "skin-33821028"
+  },
+  {
+    "name": "★ StatTrak™ Shadow Daggers | Black Laminate (Well-Worn)",
+    "price": 95.92,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Shadow Daggers | Black Laminate",
+    "id": "skin-33821028"
+  },
+  {
+    "name": "★ Shadow Daggers | Black Laminate (Well-Worn)",
+    "price": 72.82,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Shadow Daggers | Black Laminate",
+    "id": "skin-33821028"
+  },
+  {
+    "name": "★ StatTrak™ Shadow Daggers | Black Laminate (Field-Tested)",
+    "price": 79.54,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Shadow Daggers | Black Laminate",
+    "id": "skin-33821028"
+  },
+  {
+    "name": "★ Shadow Daggers | Black Laminate (Minimal Wear)",
+    "price": 77.48,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Shadow Daggers | Black Laminate",
+    "id": "skin-33821028"
+  }
+]

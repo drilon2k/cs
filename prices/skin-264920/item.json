@@ -1,0 +1,92 @@
+[
+  {
+    "name": "StatTrak™ Glock-18 | Moonrise (Well-Worn)",
+    "price": 1.09,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Glock-18 | Moonrise",
+    "id": "skin-264920"
+  },
+  {
+    "name": "Glock-18 | Moonrise (Minimal Wear)",
+    "price": 0.52,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Glock-18 | Moonrise",
+    "id": "skin-264920"
+  },
+  {
+    "name": "Glock-18 | Moonrise (Well-Worn)",
+    "price": 0.28,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Glock-18 | Moonrise",
+    "id": "skin-264920"
+  },
+  {
+    "name": "Glock-18 | Moonrise (Field-Tested)",
+    "price": 0.25,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Glock-18 | Moonrise",
+    "id": "skin-264920"
+  },
+  {
+    "name": "StatTrak™ Glock-18 | Moonrise (Field-Tested)",
+    "price": 0.59,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Glock-18 | Moonrise",
+    "id": "skin-264920"
+  },
+  {
+    "name": "StatTrak™ Glock-18 | Moonrise (Factory New)",
+    "price": 3.55,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Glock-18 | Moonrise",
+    "id": "skin-264920"
+  },
+  {
+    "name": "StatTrak™ Glock-18 | Moonrise (Battle-Scarred)",
+    "price": 0.53,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Glock-18 | Moonrise",
+    "id": "skin-264920"
+  },
+  {
+    "name": "Glock-18 | Moonrise (Battle-Scarred)",
+    "price": 0.23,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Glock-18 | Moonrise",
+    "id": "skin-264920"
+  },
+  {
+    "name": "Glock-18 | Moonrise (Factory New)",
+    "price": 1.07,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Glock-18 | Moonrise",
+    "id": "skin-264920"
+  },
+  {
+    "name": "StatTrak™ Glock-18 | Moonrise (Minimal Wear)",
+    "price": 1.52,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Glock-18 | Moonrise",
+    "id": "skin-264920"
+  }
+]

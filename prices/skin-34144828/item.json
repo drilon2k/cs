@@ -1,0 +1,92 @@
+[
+  {
+    "name": "★ Nomad Knife | Urban Masked (Field-Tested)",
+    "price": 119.03,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Nomad Knife | Urban Masked",
+    "id": "skin-34144828"
+  },
+  {
+    "name": "★ StatTrak™ Nomad Knife | Urban Masked (Well-Worn)",
+    "price": 121.7,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Nomad Knife | Urban Masked",
+    "id": "skin-34144828"
+  },
+  {
+    "name": "★ StatTrak™ Nomad Knife | Urban Masked (Factory New)",
+    "price": 754.22,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Nomad Knife | Urban Masked",
+    "id": "skin-34144828"
+  },
+  {
+    "name": "★ StatTrak™ Nomad Knife | Urban Masked (Battle-Scarred)",
+    "price": 123.42,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Nomad Knife | Urban Masked",
+    "id": "skin-34144828"
+  },
+  {
+    "name": "★ Nomad Knife | Urban Masked (Minimal Wear)",
+    "price": 150.78,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Nomad Knife | Urban Masked",
+    "id": "skin-34144828"
+  },
+  {
+    "name": "★ StatTrak™ Nomad Knife | Urban Masked (Field-Tested)",
+    "price": 120.13,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Nomad Knife | Urban Masked",
+    "id": "skin-34144828"
+  },
+  {
+    "name": "★ Nomad Knife | Urban Masked (Factory New)",
+    "price": 382.6,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Nomad Knife | Urban Masked",
+    "id": "skin-34144828"
+  },
+  {
+    "name": "★ Nomad Knife | Urban Masked (Well-Worn)",
+    "price": 113.13,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Nomad Knife | Urban Masked",
+    "id": "skin-34144828"
+  },
+  {
+    "name": "★ Nomad Knife | Urban Masked (Battle-Scarred)",
+    "price": 107.92,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Nomad Knife | Urban Masked",
+    "id": "skin-34144828"
+  },
+  {
+    "name": "★ StatTrak™ Nomad Knife | Urban Masked (Minimal Wear)",
+    "price": 170.04,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Nomad Knife | Urban Masked",
+    "id": "skin-34144828"
+  }
+]

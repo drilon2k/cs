@@ -1,0 +1,38 @@
+[
+  {
+    "name": "MP7 | Skulls (Field-Tested)",
+    "price": 13.35,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MP7 | Skulls",
+    "id": "skin-2162732"
+  },
+  {
+    "name": "StatTrak™ MP7 | Skulls (Field-Tested)",
+    "price": 14.45,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MP7 | Skulls",
+    "id": "skin-2162732"
+  },
+  {
+    "name": "StatTrak™ MP7 | Skulls (Minimal Wear)",
+    "price": 14.66,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MP7 | Skulls",
+    "id": "skin-2162732"
+  },
+  {
+    "name": "MP7 | Skulls (Minimal Wear)",
+    "price": 13.56,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MP7 | Skulls",
+    "id": "skin-2162732"
+  }
+]

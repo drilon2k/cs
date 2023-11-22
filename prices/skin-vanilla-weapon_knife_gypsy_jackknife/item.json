@@ -1,0 +1,20 @@
+[
+  {
+    "name": "★ Navaja Knife",
+    "price": 103.27,
+    "wear": null,
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Navaja Knife",
+    "id": "skin-vanilla-weapon_knife_gypsy_jackknife"
+  },
+  {
+    "name": "★ StatTrak™ Navaja Knife",
+    "price": 97.76,
+    "wear": null,
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Navaja Knife",
+    "id": "skin-vanilla-weapon_knife_gypsy_jackknife"
+  }
+]

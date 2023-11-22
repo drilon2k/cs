@@ -1,0 +1,92 @@
+[
+  {
+    "name": "StatTrak™ P250 | Wingshot (Minimal Wear)",
+    "price": 4.17,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "P250 | Wingshot",
+    "id": "skin-2361300"
+  },
+  {
+    "name": "StatTrak™ P250 | Wingshot (Factory New)",
+    "price": 9.32,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "P250 | Wingshot",
+    "id": "skin-2361300"
+  },
+  {
+    "name": "StatTrak™ P250 | Wingshot (Well-Worn)",
+    "price": 1.9,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "P250 | Wingshot",
+    "id": "skin-2361300"
+  },
+  {
+    "name": "P250 | Wingshot (Factory New)",
+    "price": 3.19,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P250 | Wingshot",
+    "id": "skin-2361300"
+  },
+  {
+    "name": "P250 | Wingshot (Well-Worn)",
+    "price": 0.82,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P250 | Wingshot",
+    "id": "skin-2361300"
+  },
+  {
+    "name": "P250 | Wingshot (Battle-Scarred)",
+    "price": 0.79,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P250 | Wingshot",
+    "id": "skin-2361300"
+  },
+  {
+    "name": "StatTrak™ P250 | Wingshot (Field-Tested)",
+    "price": 1.86,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "P250 | Wingshot",
+    "id": "skin-2361300"
+  },
+  {
+    "name": "StatTrak™ P250 | Wingshot (Battle-Scarred)",
+    "price": 1.65,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "P250 | Wingshot",
+    "id": "skin-2361300"
+  },
+  {
+    "name": "P250 | Wingshot (Field-Tested)",
+    "price": 0.93,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P250 | Wingshot",
+    "id": "skin-2361300"
+  },
+  {
+    "name": "P250 | Wingshot (Minimal Wear)",
+    "price": 1.67,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P250 | Wingshot",
+    "id": "skin-2361300"
+  }
+]

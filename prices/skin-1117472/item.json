@@ -1,0 +1,92 @@
+[
+  {
+    "name": "StatTrak™ MAC-10 | Whitefish (Well-Worn)",
+    "price": 0.18,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MAC-10 | Whitefish",
+    "id": "skin-1117472"
+  },
+  {
+    "name": "MAC-10 | Whitefish (Field-Tested)",
+    "price": 0.11,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MAC-10 | Whitefish",
+    "id": "skin-1117472"
+  },
+  {
+    "name": "StatTrak™ MAC-10 | Whitefish (Minimal Wear)",
+    "price": 0.62,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MAC-10 | Whitefish",
+    "id": "skin-1117472"
+  },
+  {
+    "name": "StatTrak™ MAC-10 | Whitefish (Battle-Scarred)",
+    "price": 0.17,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MAC-10 | Whitefish",
+    "id": "skin-1117472"
+  },
+  {
+    "name": "StatTrak™ MAC-10 | Whitefish (Factory New)",
+    "price": 1.5,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MAC-10 | Whitefish",
+    "id": "skin-1117472"
+  },
+  {
+    "name": "MAC-10 | Whitefish (Factory New)",
+    "price": 0.59,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MAC-10 | Whitefish",
+    "id": "skin-1117472"
+  },
+  {
+    "name": "StatTrak™ MAC-10 | Whitefish (Field-Tested)",
+    "price": 0.22,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MAC-10 | Whitefish",
+    "id": "skin-1117472"
+  },
+  {
+    "name": "MAC-10 | Whitefish (Minimal Wear)",
+    "price": 0.18,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MAC-10 | Whitefish",
+    "id": "skin-1117472"
+  },
+  {
+    "name": "MAC-10 | Whitefish (Battle-Scarred)",
+    "price": 0.07,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MAC-10 | Whitefish",
+    "id": "skin-1117472"
+  },
+  {
+    "name": "MAC-10 | Whitefish (Well-Worn)",
+    "price": 0.07,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MAC-10 | Whitefish",
+    "id": "skin-1117472"
+  }
+]

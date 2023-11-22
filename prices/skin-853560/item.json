@@ -1,0 +1,56 @@
+[
+  {
+    "name": "StatTrak™ Galil AR | Chatterbox (Battle-Scarred)",
+    "price": 19.03,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Galil AR | Chatterbox",
+    "id": "skin-853560"
+  },
+  {
+    "name": "Galil AR | Chatterbox (Battle-Scarred)",
+    "price": 5.32,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Galil AR | Chatterbox",
+    "id": "skin-853560"
+  },
+  {
+    "name": "Galil AR | Chatterbox (Field-Tested)",
+    "price": 53.78,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Galil AR | Chatterbox",
+    "id": "skin-853560"
+  },
+  {
+    "name": "StatTrak™ Galil AR | Chatterbox (Field-Tested)",
+    "price": 339.26,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Galil AR | Chatterbox",
+    "id": "skin-853560"
+  },
+  {
+    "name": "StatTrak™ Galil AR | Chatterbox (Well-Worn)",
+    "price": 41.28,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Galil AR | Chatterbox",
+    "id": "skin-853560"
+  },
+  {
+    "name": "Galil AR | Chatterbox (Well-Worn)",
+    "price": 9.38,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Galil AR | Chatterbox",
+    "id": "skin-853560"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Galil AR | Orange DDPAT (Field-Tested)",
+    "price": 10.68,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Galil AR | Orange DDPAT",
+    "id": "skin-852300"
+  },
+  {
+    "name": "Galil AR | Orange DDPAT (Factory New)",
+    "price": 67.47,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Galil AR | Orange DDPAT",
+    "id": "skin-852300"
+  },
+  {
+    "name": "Galil AR | Orange DDPAT (Minimal Wear)",
+    "price": 14.72,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Galil AR | Orange DDPAT",
+    "id": "skin-852300"
+  },
+  {
+    "name": "StatTrak™ Galil AR | Orange DDPAT (Well-Worn)",
+    "price": 29.14,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Galil AR | Orange DDPAT",
+    "id": "skin-852300"
+  },
+  {
+    "name": "Galil AR | Orange DDPAT (Battle-Scarred)",
+    "price": 16.42,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Galil AR | Orange DDPAT",
+    "id": "skin-852300"
+  },
+  {
+    "name": "StatTrak™ Galil AR | Orange DDPAT (Field-Tested)",
+    "price": 19.46,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Galil AR | Orange DDPAT",
+    "id": "skin-852300"
+  },
+  {
+    "name": "StatTrak™ Galil AR | Orange DDPAT (Minimal Wear)",
+    "price": 32.77,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Galil AR | Orange DDPAT",
+    "id": "skin-852300"
+  },
+  {
+    "name": "StatTrak™ Galil AR | Orange DDPAT (Battle-Scarred)",
+    "price": 24.68,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Galil AR | Orange DDPAT",
+    "id": "skin-852300"
+  },
+  {
+    "name": "Galil AR | Orange DDPAT (Well-Worn)",
+    "price": 11.55,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Galil AR | Orange DDPAT",
+    "id": "skin-852300"
+  },
+  {
+    "name": "StatTrak™ Galil AR | Orange DDPAT (Factory New)",
+    "price": 191.71,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Galil AR | Orange DDPAT",
+    "id": "skin-852300"
+  }
+]

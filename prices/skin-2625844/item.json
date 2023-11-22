@@ -1,0 +1,92 @@
+[
+  {
+    "name": "SSG 08 | Turbo Peek (Well-Worn)",
+    "price": 4.26,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "SSG 08 | Turbo Peek",
+    "id": "skin-2625844"
+  },
+  {
+    "name": "StatTrak™ SSG 08 | Turbo Peek (Well-Worn)",
+    "price": 10.63,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "SSG 08 | Turbo Peek",
+    "id": "skin-2625844"
+  },
+  {
+    "name": "SSG 08 | Turbo Peek (Factory New)",
+    "price": 12.33,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "SSG 08 | Turbo Peek",
+    "id": "skin-2625844"
+  },
+  {
+    "name": "SSG 08 | Turbo Peek (Field-Tested)",
+    "price": 3.7,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "SSG 08 | Turbo Peek",
+    "id": "skin-2625844"
+  },
+  {
+    "name": "StatTrak™ SSG 08 | Turbo Peek (Factory New)",
+    "price": 37.5,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "SSG 08 | Turbo Peek",
+    "id": "skin-2625844"
+  },
+  {
+    "name": "SSG 08 | Turbo Peek (Minimal Wear)",
+    "price": 5.42,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "SSG 08 | Turbo Peek",
+    "id": "skin-2625844"
+  },
+  {
+    "name": "StatTrak™ SSG 08 | Turbo Peek (Minimal Wear)",
+    "price": 19.47,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "SSG 08 | Turbo Peek",
+    "id": "skin-2625844"
+  },
+  {
+    "name": "SSG 08 | Turbo Peek (Battle-Scarred)",
+    "price": 3.96,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "SSG 08 | Turbo Peek",
+    "id": "skin-2625844"
+  },
+  {
+    "name": "StatTrak™ SSG 08 | Turbo Peek (Field-Tested)",
+    "price": 8.53,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "SSG 08 | Turbo Peek",
+    "id": "skin-2625844"
+  },
+  {
+    "name": "StatTrak™ SSG 08 | Turbo Peek (Battle-Scarred)",
+    "price": 7.97,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "SSG 08 | Turbo Peek",
+    "id": "skin-2625844"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "name": "★ StatTrak™ Bowie Knife | Blue Steel (Battle-Scarred)",
+    "price": 137.13,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Bowie Knife | Blue Steel",
+    "id": "skin-33685672"
+  },
+  {
+    "name": "★ StatTrak™ Bowie Knife | Blue Steel (Well-Worn)",
+    "price": 0,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Bowie Knife | Blue Steel",
+    "id": "skin-33685672"
+  },
+  {
+    "name": "★ Bowie Knife | Blue Steel (Well-Worn)",
+    "price": 126.13,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Bowie Knife | Blue Steel",
+    "id": "skin-33685672"
+  },
+  {
+    "name": "★ StatTrak™ Bowie Knife | Blue Steel (Minimal Wear)",
+    "price": 191.85,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Bowie Knife | Blue Steel",
+    "id": "skin-33685672"
+  },
+  {
+    "name": "★ Bowie Knife | Blue Steel (Factory New)",
+    "price": 219.41,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Bowie Knife | Blue Steel",
+    "id": "skin-33685672"
+  },
+  {
+    "name": "★ Bowie Knife | Blue Steel (Battle-Scarred)",
+    "price": 122.05,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Bowie Knife | Blue Steel",
+    "id": "skin-33685672"
+  },
+  {
+    "name": "★ Bowie Knife | Blue Steel (Field-Tested)",
+    "price": 136.77,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Bowie Knife | Blue Steel",
+    "id": "skin-33685672"
+  },
+  {
+    "name": "★ Bowie Knife | Blue Steel (Minimal Wear)",
+    "price": 149.75,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Bowie Knife | Blue Steel",
+    "id": "skin-33685672"
+  },
+  {
+    "name": "★ StatTrak™ Bowie Knife | Blue Steel (Field-Tested)",
+    "price": 179.64,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Bowie Knife | Blue Steel",
+    "id": "skin-33685672"
+  },
+  {
+    "name": "★ StatTrak™ Bowie Knife | Blue Steel (Factory New)",
+    "price": 617.09,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Bowie Knife | Blue Steel",
+    "id": "skin-33685672"
+  }
+]

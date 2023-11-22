@@ -1,0 +1,92 @@
+[
+  {
+    "name": "★ StatTrak™ Shadow Daggers | Bright Water (Field-Tested)",
+    "price": 82.14,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Shadow Daggers | Bright Water",
+    "id": "skin-33818892"
+  },
+  {
+    "name": "★ StatTrak™ Shadow Daggers | Bright Water (Well-Worn)",
+    "price": 87.76,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Shadow Daggers | Bright Water",
+    "id": "skin-33818892"
+  },
+  {
+    "name": "★ Shadow Daggers | Bright Water (Field-Tested)",
+    "price": 72.68,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Shadow Daggers | Bright Water",
+    "id": "skin-33818892"
+  },
+  {
+    "name": "★ StatTrak™ Shadow Daggers | Bright Water (Factory New)",
+    "price": 102.85,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Shadow Daggers | Bright Water",
+    "id": "skin-33818892"
+  },
+  {
+    "name": "★ Shadow Daggers | Bright Water (Factory New)",
+    "price": 84.2,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Shadow Daggers | Bright Water",
+    "id": "skin-33818892"
+  },
+  {
+    "name": "★ Shadow Daggers | Bright Water (Well-Worn)",
+    "price": 79.54,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Shadow Daggers | Bright Water",
+    "id": "skin-33818892"
+  },
+  {
+    "name": "★ StatTrak™ Shadow Daggers | Bright Water (Battle-Scarred)",
+    "price": 88.72,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Shadow Daggers | Bright Water",
+    "id": "skin-33818892"
+  },
+  {
+    "name": "★ StatTrak™ Shadow Daggers | Bright Water (Minimal Wear)",
+    "price": 88.61,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Shadow Daggers | Bright Water",
+    "id": "skin-33818892"
+  },
+  {
+    "name": "★ Shadow Daggers | Bright Water (Minimal Wear)",
+    "price": 79.54,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Shadow Daggers | Bright Water",
+    "id": "skin-33818892"
+  },
+  {
+    "name": "★ Shadow Daggers | Bright Water (Battle-Scarred)",
+    "price": 109.36,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Shadow Daggers | Bright Water",
+    "id": "skin-33818892"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "name": "StatTrak™ Five-SeveN | Boost Protocol (Field-Tested)",
+    "price": 2.14,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Five-SeveN | Boost Protocol",
+    "id": "skin-200980"
+  },
+  {
+    "name": "StatTrak™ Five-SeveN | Boost Protocol (Factory New)",
+    "price": 6.99,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Five-SeveN | Boost Protocol",
+    "id": "skin-200980"
+  },
+  {
+    "name": "Five-SeveN | Boost Protocol (Minimal Wear)",
+    "price": 1.46,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Five-SeveN | Boost Protocol",
+    "id": "skin-200980"
+  },
+  {
+    "name": "Five-SeveN | Boost Protocol (Well-Worn)",
+    "price": 1.64,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Five-SeveN | Boost Protocol",
+    "id": "skin-200980"
+  },
+  {
+    "name": "StatTrak™ Five-SeveN | Boost Protocol (Well-Worn)",
+    "price": 4.68,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Five-SeveN | Boost Protocol",
+    "id": "skin-200980"
+  },
+  {
+    "name": "Five-SeveN | Boost Protocol (Factory New)",
+    "price": 2.21,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Five-SeveN | Boost Protocol",
+    "id": "skin-200980"
+  },
+  {
+    "name": "Five-SeveN | Boost Protocol (Field-Tested)",
+    "price": 0.91,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Five-SeveN | Boost Protocol",
+    "id": "skin-200980"
+  },
+  {
+    "name": "StatTrak™ Five-SeveN | Boost Protocol (Minimal Wear)",
+    "price": 4.09,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Five-SeveN | Boost Protocol",
+    "id": "skin-200980"
+  }
+]

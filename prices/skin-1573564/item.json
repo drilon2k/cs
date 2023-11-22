@@ -1,0 +1,47 @@
+[
+  {
+    "name": "UMP-45 | Scorched (Field-Tested)",
+    "price": 0.21,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "UMP-45 | Scorched",
+    "id": "skin-1573564"
+  },
+  {
+    "name": "UMP-45 | Scorched (Factory New)",
+    "price": 5.52,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "UMP-45 | Scorched",
+    "id": "skin-1573564"
+  },
+  {
+    "name": "UMP-45 | Scorched (Well-Worn)",
+    "price": 2.08,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "UMP-45 | Scorched",
+    "id": "skin-1573564"
+  },
+  {
+    "name": "UMP-45 | Scorched (Minimal Wear)",
+    "price": 0.44,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "UMP-45 | Scorched",
+    "id": "skin-1573564"
+  },
+  {
+    "name": "UMP-45 | Scorched (Battle-Scarred)",
+    "price": 0.25,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "UMP-45 | Scorched",
+    "id": "skin-1573564"
+  }
+]

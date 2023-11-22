@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Five-SeveN | Monkey Business (Field-Tested)",
+    "price": 1.63,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Five-SeveN | Monkey Business",
+    "id": "skin-198316"
+  },
+  {
+    "name": "StatTrak™ Five-SeveN | Monkey Business (Well-Worn)",
+    "price": 3.84,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Five-SeveN | Monkey Business",
+    "id": "skin-198316"
+  },
+  {
+    "name": "StatTrak™ Five-SeveN | Monkey Business (Battle-Scarred)",
+    "price": 3.31,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Five-SeveN | Monkey Business",
+    "id": "skin-198316"
+  },
+  {
+    "name": "StatTrak™ Five-SeveN | Monkey Business (Minimal Wear)",
+    "price": 29.07,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Five-SeveN | Monkey Business",
+    "id": "skin-198316"
+  },
+  {
+    "name": "Five-SeveN | Monkey Business (Battle-Scarred)",
+    "price": 1.34,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Five-SeveN | Monkey Business",
+    "id": "skin-198316"
+  },
+  {
+    "name": "Five-SeveN | Monkey Business (Well-Worn)",
+    "price": 1.5,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Five-SeveN | Monkey Business",
+    "id": "skin-198316"
+  },
+  {
+    "name": "StatTrak™ Five-SeveN | Monkey Business (Field-Tested)",
+    "price": 4.35,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Five-SeveN | Monkey Business",
+    "id": "skin-198316"
+  },
+  {
+    "name": "Five-SeveN | Monkey Business (Minimal Wear)",
+    "price": 8.87,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Five-SeveN | Monkey Business",
+    "id": "skin-198316"
+  }
+]

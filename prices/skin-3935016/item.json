@@ -1,0 +1,92 @@
+[
+  {
+    "name": "M4A1-S | Nightmare (Battle-Scarred)",
+    "price": 5.16,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M4A1-S | Nightmare",
+    "id": "skin-3935016"
+  },
+  {
+    "name": "M4A1-S | Nightmare (Minimal Wear)",
+    "price": 14.88,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M4A1-S | Nightmare",
+    "id": "skin-3935016"
+  },
+  {
+    "name": "StatTrak™ M4A1-S | Nightmare (Minimal Wear)",
+    "price": 43.88,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "M4A1-S | Nightmare",
+    "id": "skin-3935016"
+  },
+  {
+    "name": "M4A1-S | Nightmare (Field-Tested)",
+    "price": 7.13,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M4A1-S | Nightmare",
+    "id": "skin-3935016"
+  },
+  {
+    "name": "StatTrak™ M4A1-S | Nightmare (Factory New)",
+    "price": 96.68,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "M4A1-S | Nightmare",
+    "id": "skin-3935016"
+  },
+  {
+    "name": "M4A1-S | Nightmare (Factory New)",
+    "price": 32.84,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M4A1-S | Nightmare",
+    "id": "skin-3935016"
+  },
+  {
+    "name": "StatTrak™ M4A1-S | Nightmare (Battle-Scarred)",
+    "price": 17.62,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "M4A1-S | Nightmare",
+    "id": "skin-3935016"
+  },
+  {
+    "name": "StatTrak™ M4A1-S | Nightmare (Well-Worn)",
+    "price": 18.2,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "M4A1-S | Nightmare",
+    "id": "skin-3935016"
+  },
+  {
+    "name": "StatTrak™ M4A1-S | Nightmare (Field-Tested)",
+    "price": 19.47,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "M4A1-S | Nightmare",
+    "id": "skin-3935016"
+  },
+  {
+    "name": "M4A1-S | Nightmare (Well-Worn)",
+    "price": 5.45,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M4A1-S | Nightmare",
+    "id": "skin-3935016"
+  }
+]

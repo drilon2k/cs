@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Glock-18 | Ramese's Reach (Minimal Wear)",
+    "price": 10.53,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Glock-18 | Ramese's Reach",
+    "id": "skin-267104"
+  },
+  {
+    "name": "Glock-18 | Ramese's Reach (Factory New)",
+    "price": 14.4,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Glock-18 | Ramese's Reach",
+    "id": "skin-267104"
+  },
+  {
+    "name": "Glock-18 | Ramese's Reach (Battle-Scarred)",
+    "price": 5.21,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Glock-18 | Ramese's Reach",
+    "id": "skin-267104"
+  },
+  {
+    "name": "Glock-18 | Ramese's Reach (Well-Worn)",
+    "price": 5.61,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Glock-18 | Ramese's Reach",
+    "id": "skin-267104"
+  },
+  {
+    "name": "Glock-18 | Ramese's Reach (Field-Tested)",
+    "price": 6.83,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Glock-18 | Ramese's Reach",
+    "id": "skin-267104"
+  }
+]

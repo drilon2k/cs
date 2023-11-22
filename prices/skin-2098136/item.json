@@ -1,0 +1,38 @@
+[
+  {
+    "name": "P2000 | Amber Fade (Factory New)",
+    "price": 8.68,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P2000 | Amber Fade",
+    "id": "skin-2098136"
+  },
+  {
+    "name": "P2000 | Amber Fade (Minimal Wear)",
+    "price": 4.69,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P2000 | Amber Fade",
+    "id": "skin-2098136"
+  },
+  {
+    "name": "P2000 | Amber Fade (Field-Tested)",
+    "price": 3.27,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P2000 | Amber Fade",
+    "id": "skin-2098136"
+  },
+  {
+    "name": "P2000 | Amber Fade (Well-Worn)",
+    "price": 3.94,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P2000 | Amber Fade",
+    "id": "skin-2098136"
+  }
+]

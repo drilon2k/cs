@@ -1,0 +1,38 @@
+[
+  {
+    "name": "★ Flip Knife | Rust Coat (Battle-Scarred)",
+    "price": 125.34,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Flip Knife | Rust Coat",
+    "id": "skin-33097336"
+  },
+  {
+    "name": "★ StatTrak™ Flip Knife | Rust Coat (Battle-Scarred)",
+    "price": 130.27,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Flip Knife | Rust Coat",
+    "id": "skin-33097336"
+  },
+  {
+    "name": "★ StatTrak™ Flip Knife | Rust Coat (Well-Worn)",
+    "price": 156.33,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Flip Knife | Rust Coat",
+    "id": "skin-33097336"
+  },
+  {
+    "name": "★ Flip Knife | Rust Coat (Well-Worn)",
+    "price": 156.88,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Flip Knife | Rust Coat",
+    "id": "skin-33097336"
+  }
+]

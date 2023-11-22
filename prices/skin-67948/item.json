@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Desert Eagle | Directive (Field-Tested)",
+    "price": 0.29,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Desert Eagle | Directive",
+    "id": "skin-67948"
+  },
+  {
+    "name": "StatTrak™ Desert Eagle | Directive (Well-Worn)",
+    "price": 1.19,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Desert Eagle | Directive",
+    "id": "skin-67948"
+  },
+  {
+    "name": "Desert Eagle | Directive (Battle-Scarred)",
+    "price": 0.26,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Desert Eagle | Directive",
+    "id": "skin-67948"
+  },
+  {
+    "name": "StatTrak™ Desert Eagle | Directive (Factory New)",
+    "price": 37.03,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Desert Eagle | Directive",
+    "id": "skin-67948"
+  },
+  {
+    "name": "Desert Eagle | Directive (Minimal Wear)",
+    "price": 0.95,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Desert Eagle | Directive",
+    "id": "skin-67948"
+  },
+  {
+    "name": "Desert Eagle | Directive (Well-Worn)",
+    "price": 0.26,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Desert Eagle | Directive",
+    "id": "skin-67948"
+  },
+  {
+    "name": "StatTrak™ Desert Eagle | Directive (Battle-Scarred)",
+    "price": 1.06,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Desert Eagle | Directive",
+    "id": "skin-67948"
+  },
+  {
+    "name": "StatTrak™ Desert Eagle | Directive (Minimal Wear)",
+    "price": 5.43,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Desert Eagle | Directive",
+    "id": "skin-67948"
+  },
+  {
+    "name": "Desert Eagle | Directive (Factory New)",
+    "price": 7.91,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Desert Eagle | Directive",
+    "id": "skin-67948"
+  },
+  {
+    "name": "StatTrak™ Desert Eagle | Directive (Field-Tested)",
+    "price": 1.22,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Desert Eagle | Directive",
+    "id": "skin-67948"
+  }
+]

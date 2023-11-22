@@ -1,0 +1,47 @@
+[
+  {
+    "name": "MAC-10 | Urban DDPAT (Minimal Wear)",
+    "price": 2.01,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MAC-10 | Urban DDPAT",
+    "id": "skin-1114180"
+  },
+  {
+    "name": "MAC-10 | Urban DDPAT (Battle-Scarred)",
+    "price": 1.66,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MAC-10 | Urban DDPAT",
+    "id": "skin-1114180"
+  },
+  {
+    "name": "MAC-10 | Urban DDPAT (Factory New)",
+    "price": 15.98,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MAC-10 | Urban DDPAT",
+    "id": "skin-1114180"
+  },
+  {
+    "name": "MAC-10 | Urban DDPAT (Field-Tested)",
+    "price": 1.33,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MAC-10 | Urban DDPAT",
+    "id": "skin-1114180"
+  },
+  {
+    "name": "MAC-10 | Urban DDPAT (Well-Worn)",
+    "price": 2.53,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MAC-10 | Urban DDPAT",
+    "id": "skin-1114180"
+  }
+]

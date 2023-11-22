@@ -1,0 +1,47 @@
+[
+  {
+    "name": "PP-Bizon | Chemical Green (Well-Worn)",
+    "price": 1.08,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "PP-Bizon | Chemical Green",
+    "id": "skin-1705440"
+  },
+  {
+    "name": "PP-Bizon | Chemical Green (Field-Tested)",
+    "price": 1.06,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "PP-Bizon | Chemical Green",
+    "id": "skin-1705440"
+  },
+  {
+    "name": "PP-Bizon | Chemical Green (Factory New)",
+    "price": 3.49,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "PP-Bizon | Chemical Green",
+    "id": "skin-1705440"
+  },
+  {
+    "name": "PP-Bizon | Chemical Green (Minimal Wear)",
+    "price": 1.51,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "PP-Bizon | Chemical Green",
+    "id": "skin-1705440"
+  },
+  {
+    "name": "PP-Bizon | Chemical Green (Battle-Scarred)",
+    "price": 0.91,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "PP-Bizon | Chemical Green",
+    "id": "skin-1705440"
+  }
+]

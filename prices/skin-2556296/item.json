@@ -1,0 +1,92 @@
+[
+  {
+    "name": "StatTrak™ SG 553 | Ultraviolet (Field-Tested)",
+    "price": 14.19,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "SG 553 | Ultraviolet",
+    "id": "skin-2556296"
+  },
+  {
+    "name": "StatTrak™ SG 553 | Ultraviolet (Battle-Scarred)",
+    "price": 14.26,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "SG 553 | Ultraviolet",
+    "id": "skin-2556296"
+  },
+  {
+    "name": "SG 553 | Ultraviolet (Field-Tested)",
+    "price": 13.22,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "SG 553 | Ultraviolet",
+    "id": "skin-2556296"
+  },
+  {
+    "name": "StatTrak™ SG 553 | Ultraviolet (Well-Worn)",
+    "price": 20.43,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "SG 553 | Ultraviolet",
+    "id": "skin-2556296"
+  },
+  {
+    "name": "SG 553 | Ultraviolet (Factory New)",
+    "price": 33.32,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "SG 553 | Ultraviolet",
+    "id": "skin-2556296"
+  },
+  {
+    "name": "StatTrak™ SG 553 | Ultraviolet (Factory New)",
+    "price": 80.22,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "SG 553 | Ultraviolet",
+    "id": "skin-2556296"
+  },
+  {
+    "name": "SG 553 | Ultraviolet (Well-Worn)",
+    "price": 13.64,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "SG 553 | Ultraviolet",
+    "id": "skin-2556296"
+  },
+  {
+    "name": "SG 553 | Ultraviolet (Battle-Scarred)",
+    "price": 13.43,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "SG 553 | Ultraviolet",
+    "id": "skin-2556296"
+  },
+  {
+    "name": "SG 553 | Ultraviolet (Minimal Wear)",
+    "price": 13.52,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "SG 553 | Ultraviolet",
+    "id": "skin-2556296"
+  },
+  {
+    "name": "StatTrak™ SG 553 | Ultraviolet (Minimal Wear)",
+    "price": 15.63,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "SG 553 | Ultraviolet",
+    "id": "skin-2556296"
+  }
+]

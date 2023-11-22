@@ -1,0 +1,92 @@
+[
+  {
+    "name": "StatTrak™ FAMAS | Valence (Battle-Scarred)",
+    "price": 2.7,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "FAMAS | Valence",
+    "id": "skin-657476"
+  },
+  {
+    "name": "FAMAS | Valence (Minimal Wear)",
+    "price": 2.23,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "FAMAS | Valence",
+    "id": "skin-657476"
+  },
+  {
+    "name": "FAMAS | Valence (Field-Tested)",
+    "price": 1.62,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "FAMAS | Valence",
+    "id": "skin-657476"
+  },
+  {
+    "name": "StatTrak™ FAMAS | Valence (Factory New)",
+    "price": 13.03,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "FAMAS | Valence",
+    "id": "skin-657476"
+  },
+  {
+    "name": "FAMAS | Valence (Well-Worn)",
+    "price": 1.76,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "FAMAS | Valence",
+    "id": "skin-657476"
+  },
+  {
+    "name": "StatTrak™ FAMAS | Valence (Minimal Wear)",
+    "price": 5.35,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "FAMAS | Valence",
+    "id": "skin-657476"
+  },
+  {
+    "name": "FAMAS | Valence (Battle-Scarred)",
+    "price": 1.47,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "FAMAS | Valence",
+    "id": "skin-657476"
+  },
+  {
+    "name": "StatTrak™ FAMAS | Valence (Well-Worn)",
+    "price": 4.47,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "FAMAS | Valence",
+    "id": "skin-657476"
+  },
+  {
+    "name": "StatTrak™ FAMAS | Valence (Field-Tested)",
+    "price": 2.72,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "FAMAS | Valence",
+    "id": "skin-657476"
+  },
+  {
+    "name": "FAMAS | Valence (Factory New)",
+    "price": 4.37,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "FAMAS | Valence",
+    "id": "skin-657476"
+  }
+]

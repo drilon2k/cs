@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Tec-9 | Bamboozle (Minimal Wear)",
+    "price": 0.39,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Tec-9 | Bamboozle",
+    "id": "skin-1969436"
+  },
+  {
+    "name": "Tec-9 | Bamboozle (Field-Tested)",
+    "price": 0.18,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Tec-9 | Bamboozle",
+    "id": "skin-1969436"
+  },
+  {
+    "name": "StatTrak™ Tec-9 | Bamboozle (Field-Tested)",
+    "price": 0.41,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Tec-9 | Bamboozle",
+    "id": "skin-1969436"
+  },
+  {
+    "name": "StatTrak™ Tec-9 | Bamboozle (Well-Worn)",
+    "price": 0.79,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Tec-9 | Bamboozle",
+    "id": "skin-1969436"
+  },
+  {
+    "name": "StatTrak™ Tec-9 | Bamboozle (Minimal Wear)",
+    "price": 1.01,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Tec-9 | Bamboozle",
+    "id": "skin-1969436"
+  },
+  {
+    "name": "StatTrak™ Tec-9 | Bamboozle (Factory New)",
+    "price": 2.54,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Tec-9 | Bamboozle",
+    "id": "skin-1969436"
+  },
+  {
+    "name": "Tec-9 | Bamboozle (Well-Worn)",
+    "price": 0.25,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Tec-9 | Bamboozle",
+    "id": "skin-1969436"
+  },
+  {
+    "name": "Tec-9 | Bamboozle (Factory New)",
+    "price": 0.86,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Tec-9 | Bamboozle",
+    "id": "skin-1969436"
+  },
+  {
+    "name": "Tec-9 | Bamboozle (Battle-Scarred)",
+    "price": 0.16,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Tec-9 | Bamboozle",
+    "id": "skin-1969436"
+  },
+  {
+    "name": "StatTrak™ Tec-9 | Bamboozle (Battle-Scarred)",
+    "price": 0.38,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Tec-9 | Bamboozle",
+    "id": "skin-1969436"
+  }
+]

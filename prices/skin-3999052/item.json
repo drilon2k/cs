@@ -1,0 +1,74 @@
+[
+  {
+    "name": "StatTrak™ USP-S | Caiman (Well-Worn)",
+    "price": 65.21,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "USP-S | Caiman",
+    "id": "skin-3999052"
+  },
+  {
+    "name": "StatTrak™ USP-S | Caiman (Field-Tested)",
+    "price": 49.67,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "USP-S | Caiman",
+    "id": "skin-3999052"
+  },
+  {
+    "name": "USP-S | Caiman (Field-Tested)",
+    "price": 28.58,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "USP-S | Caiman",
+    "id": "skin-3999052"
+  },
+  {
+    "name": "StatTrak™ USP-S | Caiman (Factory New)",
+    "price": 84.75,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "USP-S | Caiman",
+    "id": "skin-3999052"
+  },
+  {
+    "name": "StatTrak™ USP-S | Caiman (Minimal Wear)",
+    "price": 67.6,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "USP-S | Caiman",
+    "id": "skin-3999052"
+  },
+  {
+    "name": "USP-S | Caiman (Factory New)",
+    "price": 46.35,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "USP-S | Caiman",
+    "id": "skin-3999052"
+  },
+  {
+    "name": "USP-S | Caiman (Well-Worn)",
+    "price": 411.32,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "USP-S | Caiman",
+    "id": "skin-3999052"
+  },
+  {
+    "name": "USP-S | Caiman (Minimal Wear)",
+    "price": 34.76,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "USP-S | Caiman",
+    "id": "skin-3999052"
+  }
+]

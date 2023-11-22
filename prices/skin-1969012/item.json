@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Tec-9 | Rust Leaf (Battle-Scarred)",
+    "price": 14.74,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Tec-9 | Rust Leaf",
+    "id": "skin-1969012"
+  },
+  {
+    "name": "Tec-9 | Rust Leaf (Minimal Wear)",
+    "price": 13.58,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Tec-9 | Rust Leaf",
+    "id": "skin-1969012"
+  },
+  {
+    "name": "Tec-9 | Rust Leaf (Factory New)",
+    "price": 13.77,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Tec-9 | Rust Leaf",
+    "id": "skin-1969012"
+  },
+  {
+    "name": "Tec-9 | Rust Leaf (Field-Tested)",
+    "price": 13.42,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Tec-9 | Rust Leaf",
+    "id": "skin-1969012"
+  },
+  {
+    "name": "Tec-9 | Rust Leaf (Well-Worn)",
+    "price": 13.81,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Tec-9 | Rust Leaf",
+    "id": "skin-1969012"
+  }
+]

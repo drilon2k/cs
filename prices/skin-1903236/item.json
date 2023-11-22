@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Sawed-Off | Morris (Battle-Scarred)",
+    "price": 0.04,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Sawed-Off | Morris",
+    "id": "skin-1903236"
+  },
+  {
+    "name": "Sawed-Off | Morris (Well-Worn)",
+    "price": 0.04,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Sawed-Off | Morris",
+    "id": "skin-1903236"
+  },
+  {
+    "name": "Sawed-Off | Morris (Minimal Wear)",
+    "price": 0.09,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Sawed-Off | Morris",
+    "id": "skin-1903236"
+  },
+  {
+    "name": "Sawed-Off | Morris (Factory New)",
+    "price": 0.17,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Sawed-Off | Morris",
+    "id": "skin-1903236"
+  },
+  {
+    "name": "StatTrak™ Sawed-Off | Morris (Battle-Scarred)",
+    "price": 0.09,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Sawed-Off | Morris",
+    "id": "skin-1903236"
+  },
+  {
+    "name": "StatTrak™ Sawed-Off | Morris (Field-Tested)",
+    "price": 0.1,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Sawed-Off | Morris",
+    "id": "skin-1903236"
+  },
+  {
+    "name": "StatTrak™ Sawed-Off | Morris (Factory New)",
+    "price": 0.8,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Sawed-Off | Morris",
+    "id": "skin-1903236"
+  },
+  {
+    "name": "StatTrak™ Sawed-Off | Morris (Minimal Wear)",
+    "price": 0.23,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Sawed-Off | Morris",
+    "id": "skin-1903236"
+  },
+  {
+    "name": "Sawed-Off | Morris (Field-Tested)",
+    "price": 0.05,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Sawed-Off | Morris",
+    "id": "skin-1903236"
+  },
+  {
+    "name": "StatTrak™ Sawed-Off | Morris (Well-Worn)",
+    "price": 0.09,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Sawed-Off | Morris",
+    "id": "skin-1903236"
+  }
+]

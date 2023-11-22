@@ -1,0 +1,92 @@
+[
+  {
+    "name": "StatTrak™ MAG-7 | Justice (Minimal Wear)",
+    "price": 7.23,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MAG-7 | Justice",
+    "id": "skin-1773264"
+  },
+  {
+    "name": "MAG-7 | Justice (Factory New)",
+    "price": 7.51,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MAG-7 | Justice",
+    "id": "skin-1773264"
+  },
+  {
+    "name": "StatTrak™ MAG-7 | Justice (Factory New)",
+    "price": 22.2,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MAG-7 | Justice",
+    "id": "skin-1773264"
+  },
+  {
+    "name": "StatTrak™ MAG-7 | Justice (Field-Tested)",
+    "price": 3.33,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MAG-7 | Justice",
+    "id": "skin-1773264"
+  },
+  {
+    "name": "MAG-7 | Justice (Battle-Scarred)",
+    "price": 1.21,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MAG-7 | Justice",
+    "id": "skin-1773264"
+  },
+  {
+    "name": "StatTrak™ MAG-7 | Justice (Well-Worn)",
+    "price": 2.96,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MAG-7 | Justice",
+    "id": "skin-1773264"
+  },
+  {
+    "name": "MAG-7 | Justice (Minimal Wear)",
+    "price": 3.04,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MAG-7 | Justice",
+    "id": "skin-1773264"
+  },
+  {
+    "name": "MAG-7 | Justice (Field-Tested)",
+    "price": 1.37,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MAG-7 | Justice",
+    "id": "skin-1773264"
+  },
+  {
+    "name": "StatTrak™ MAG-7 | Justice (Battle-Scarred)",
+    "price": 2.41,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MAG-7 | Justice",
+    "id": "skin-1773264"
+  },
+  {
+    "name": "MAG-7 | Justice (Well-Worn)",
+    "price": 1.28,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MAG-7 | Justice",
+    "id": "skin-1773264"
+  }
+]

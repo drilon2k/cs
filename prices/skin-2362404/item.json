@@ -1,0 +1,47 @@
+[
+  {
+    "name": "P250 | Facility Draft (Battle-Scarred)",
+    "price": 0.01,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P250 | Facility Draft",
+    "id": "skin-2362404"
+  },
+  {
+    "name": "P250 | Facility Draft (Factory New)",
+    "price": 0.03,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P250 | Facility Draft",
+    "id": "skin-2362404"
+  },
+  {
+    "name": "P250 | Facility Draft (Minimal Wear)",
+    "price": 0.01,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P250 | Facility Draft",
+    "id": "skin-2362404"
+  },
+  {
+    "name": "P250 | Facility Draft (Well-Worn)",
+    "price": 0.01,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P250 | Facility Draft",
+    "id": "skin-2362404"
+  },
+  {
+    "name": "P250 | Facility Draft (Field-Tested)",
+    "price": 0.01,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P250 | Facility Draft",
+    "id": "skin-2362404"
+  }
+]

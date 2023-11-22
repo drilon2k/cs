@@ -1,0 +1,92 @@
+[
+  {
+    "name": "StatTrak™ P90 | Nostalgia (Battle-Scarred)",
+    "price": 7.28,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "P90 | Nostalgia",
+    "id": "skin-1248828"
+  },
+  {
+    "name": "StatTrak™ P90 | Nostalgia (Minimal Wear)",
+    "price": 11.52,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "P90 | Nostalgia",
+    "id": "skin-1248828"
+  },
+  {
+    "name": "StatTrak™ P90 | Nostalgia (Field-Tested)",
+    "price": 7.24,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "P90 | Nostalgia",
+    "id": "skin-1248828"
+  },
+  {
+    "name": "P90 | Nostalgia (Factory New)",
+    "price": 8.68,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P90 | Nostalgia",
+    "id": "skin-1248828"
+  },
+  {
+    "name": "P90 | Nostalgia (Minimal Wear)",
+    "price": 5.05,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P90 | Nostalgia",
+    "id": "skin-1248828"
+  },
+  {
+    "name": "P90 | Nostalgia (Field-Tested)",
+    "price": 3.57,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P90 | Nostalgia",
+    "id": "skin-1248828"
+  },
+  {
+    "name": "P90 | Nostalgia (Battle-Scarred)",
+    "price": 4.06,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P90 | Nostalgia",
+    "id": "skin-1248828"
+  },
+  {
+    "name": "StatTrak™ P90 | Nostalgia (Well-Worn)",
+    "price": 7.34,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "P90 | Nostalgia",
+    "id": "skin-1248828"
+  },
+  {
+    "name": "StatTrak™ P90 | Nostalgia (Factory New)",
+    "price": 21.12,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "P90 | Nostalgia",
+    "id": "skin-1248828"
+  },
+  {
+    "name": "P90 | Nostalgia (Well-Worn)",
+    "price": 3.73,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P90 | Nostalgia",
+    "id": "skin-1248828"
+  }
+]

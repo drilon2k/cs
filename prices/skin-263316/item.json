@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Glock-18 | Death Rattle (Well-Worn)",
+    "price": 0.06,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Glock-18 | Death Rattle",
+    "id": "skin-263316"
+  },
+  {
+    "name": "Glock-18 | Death Rattle (Minimal Wear)",
+    "price": 0.09,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Glock-18 | Death Rattle",
+    "id": "skin-263316"
+  },
+  {
+    "name": "Glock-18 | Death Rattle (Field-Tested)",
+    "price": 0.08,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Glock-18 | Death Rattle",
+    "id": "skin-263316"
+  },
+  {
+    "name": "Glock-18 | Death Rattle (Battle-Scarred)",
+    "price": 0.06,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Glock-18 | Death Rattle",
+    "id": "skin-263316"
+  }
+]

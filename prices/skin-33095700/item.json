@@ -1,0 +1,92 @@
+[
+  {
+    "name": "★ StatTrak™ Flip Knife | Forest DDPAT (Battle-Scarred)",
+    "price": 134.39,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Flip Knife | Forest DDPAT",
+    "id": "skin-33095700"
+  },
+  {
+    "name": "★ Flip Knife | Forest DDPAT (Field-Tested)",
+    "price": 113.82,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Flip Knife | Forest DDPAT",
+    "id": "skin-33095700"
+  },
+  {
+    "name": "★ Flip Knife | Forest DDPAT (Factory New)",
+    "price": 212.34,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Flip Knife | Forest DDPAT",
+    "id": "skin-33095700"
+  },
+  {
+    "name": "★ Flip Knife | Forest DDPAT (Well-Worn)",
+    "price": 113.82,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Flip Knife | Forest DDPAT",
+    "id": "skin-33095700"
+  },
+  {
+    "name": "★ StatTrak™ Flip Knife | Forest DDPAT (Field-Tested)",
+    "price": 127.46,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Flip Knife | Forest DDPAT",
+    "id": "skin-33095700"
+  },
+  {
+    "name": "★ StatTrak™ Flip Knife | Forest DDPAT (Minimal Wear)",
+    "price": 150.5,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Flip Knife | Forest DDPAT",
+    "id": "skin-33095700"
+  },
+  {
+    "name": "★ Flip Knife | Forest DDPAT (Battle-Scarred)",
+    "price": 110.99,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Flip Knife | Forest DDPAT",
+    "id": "skin-33095700"
+  },
+  {
+    "name": "★ StatTrak™ Flip Knife | Forest DDPAT (Well-Worn)",
+    "price": 136.86,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Flip Knife | Forest DDPAT",
+    "id": "skin-33095700"
+  },
+  {
+    "name": "★ StatTrak™ Flip Knife | Forest DDPAT (Factory New)",
+    "price": 0,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Flip Knife | Forest DDPAT",
+    "id": "skin-33095700"
+  },
+  {
+    "name": "★ Flip Knife | Forest DDPAT (Minimal Wear)",
+    "price": 125.94,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Flip Knife | Forest DDPAT",
+    "id": "skin-33095700"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "name": "G3SG1 | Polar Camo (Minimal Wear)",
+    "price": 0.02,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "G3SG1 | Polar Camo",
+    "id": "skin-721192"
+  },
+  {
+    "name": "G3SG1 | Polar Camo (Factory New)",
+    "price": 0.1,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "G3SG1 | Polar Camo",
+    "id": "skin-721192"
+  },
+  {
+    "name": "G3SG1 | Polar Camo (Field-Tested)",
+    "price": 0.02,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "G3SG1 | Polar Camo",
+    "id": "skin-721192"
+  },
+  {
+    "name": "G3SG1 | Polar Camo (Well-Worn)",
+    "price": 0.02,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "G3SG1 | Polar Camo",
+    "id": "skin-721192"
+  },
+  {
+    "name": "G3SG1 | Polar Camo (Battle-Scarred)",
+    "price": 0.02,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "G3SG1 | Polar Camo",
+    "id": "skin-721192"
+  }
+]

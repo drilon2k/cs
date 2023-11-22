@@ -1,0 +1,29 @@
+[
+  {
+    "name": "P2000 | Pathfinder (Field-Tested)",
+    "price": 12.27,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P2000 | Pathfinder",
+    "id": "skin-2098924"
+  },
+  {
+    "name": "P2000 | Pathfinder (Factory New)",
+    "price": 11.86,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P2000 | Pathfinder",
+    "id": "skin-2098924"
+  },
+  {
+    "name": "P2000 | Pathfinder (Minimal Wear)",
+    "price": 10.74,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "P2000 | Pathfinder",
+    "id": "skin-2098924"
+  }
+]

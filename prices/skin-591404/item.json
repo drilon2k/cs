@@ -1,0 +1,38 @@
+[
+  {
+    "name": "AWP | Man-o'-war (Minimal Wear)",
+    "price": 23.11,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AWP | Man-o'-war",
+    "id": "skin-591404"
+  },
+  {
+    "name": "AWP | Man-o'-war (Field-Tested)",
+    "price": 23.75,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AWP | Man-o'-war",
+    "id": "skin-591404"
+  },
+  {
+    "name": "StatTrak™ AWP | Man-o'-war (Field-Tested)",
+    "price": 56.91,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AWP | Man-o'-war",
+    "id": "skin-591404"
+  },
+  {
+    "name": "StatTrak™ AWP | Man-o'-war (Minimal Wear)",
+    "price": 55.66,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AWP | Man-o'-war",
+    "id": "skin-591404"
+  }
+]

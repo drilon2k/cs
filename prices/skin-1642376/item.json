@@ -1,0 +1,47 @@
+[
+  {
+    "name": "XM1014 | Charter (Well-Worn)",
+    "price": 0.31,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "XM1014 | Charter",
+    "id": "skin-1642376"
+  },
+  {
+    "name": "XM1014 | Charter (Factory New)",
+    "price": 0.48,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "XM1014 | Charter",
+    "id": "skin-1642376"
+  },
+  {
+    "name": "XM1014 | Charter (Battle-Scarred)",
+    "price": 0.3,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "XM1014 | Charter",
+    "id": "skin-1642376"
+  },
+  {
+    "name": "XM1014 | Charter (Minimal Wear)",
+    "price": 0.31,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "XM1014 | Charter",
+    "id": "skin-1642376"
+  },
+  {
+    "name": "XM1014 | Charter (Field-Tested)",
+    "price": 0.29,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "XM1014 | Charter",
+    "id": "skin-1642376"
+  }
+]

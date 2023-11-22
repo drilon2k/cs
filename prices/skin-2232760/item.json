@@ -1,0 +1,92 @@
+[
+  {
+    "name": "MP9 | Starlight Protector (Field-Tested)",
+    "price": 2.58,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MP9 | Starlight Protector",
+    "id": "skin-2232760"
+  },
+  {
+    "name": "StatTrak™ MP9 | Starlight Protector (Field-Tested)",
+    "price": 6.72,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MP9 | Starlight Protector",
+    "id": "skin-2232760"
+  },
+  {
+    "name": "StatTrak™ MP9 | Starlight Protector (Battle-Scarred)",
+    "price": 5.32,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MP9 | Starlight Protector",
+    "id": "skin-2232760"
+  },
+  {
+    "name": "StatTrak™ MP9 | Starlight Protector (Factory New)",
+    "price": 55.84,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MP9 | Starlight Protector",
+    "id": "skin-2232760"
+  },
+  {
+    "name": "StatTrak™ MP9 | Starlight Protector (Minimal Wear)",
+    "price": 16.73,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MP9 | Starlight Protector",
+    "id": "skin-2232760"
+  },
+  {
+    "name": "MP9 | Starlight Protector (Minimal Wear)",
+    "price": 5.95,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MP9 | Starlight Protector",
+    "id": "skin-2232760"
+  },
+  {
+    "name": "MP9 | Starlight Protector (Battle-Scarred)",
+    "price": 1.85,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MP9 | Starlight Protector",
+    "id": "skin-2232760"
+  },
+  {
+    "name": "MP9 | Starlight Protector (Factory New)",
+    "price": 14.54,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MP9 | Starlight Protector",
+    "id": "skin-2232760"
+  },
+  {
+    "name": "StatTrak™ MP9 | Starlight Protector (Well-Worn)",
+    "price": 10.41,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MP9 | Starlight Protector",
+    "id": "skin-2232760"
+  },
+  {
+    "name": "MP9 | Starlight Protector (Well-Worn)",
+    "price": 3.62,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MP9 | Starlight Protector",
+    "id": "skin-2232760"
+  }
+]

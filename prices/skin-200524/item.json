@@ -1,0 +1,92 @@
+[
+  {
+    "name": "StatTrak™ Five-SeveN | Fairy Tale (Factory New)",
+    "price": 76.59,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Five-SeveN | Fairy Tale",
+    "id": "skin-200524"
+  },
+  {
+    "name": "Five-SeveN | Fairy Tale (Minimal Wear)",
+    "price": 19.2,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Five-SeveN | Fairy Tale",
+    "id": "skin-200524"
+  },
+  {
+    "name": "Five-SeveN | Fairy Tale (Well-Worn)",
+    "price": 11.86,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Five-SeveN | Fairy Tale",
+    "id": "skin-200524"
+  },
+  {
+    "name": "StatTrak™ Five-SeveN | Fairy Tale (Minimal Wear)",
+    "price": 36.13,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Five-SeveN | Fairy Tale",
+    "id": "skin-200524"
+  },
+  {
+    "name": "Five-SeveN | Fairy Tale (Factory New)",
+    "price": 33.6,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Five-SeveN | Fairy Tale",
+    "id": "skin-200524"
+  },
+  {
+    "name": "StatTrak™ Five-SeveN | Fairy Tale (Battle-Scarred)",
+    "price": 16.45,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Five-SeveN | Fairy Tale",
+    "id": "skin-200524"
+  },
+  {
+    "name": "Five-SeveN | Fairy Tale (Battle-Scarred)",
+    "price": 10.28,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Five-SeveN | Fairy Tale",
+    "id": "skin-200524"
+  },
+  {
+    "name": "Five-SeveN | Fairy Tale (Field-Tested)",
+    "price": 11.88,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Five-SeveN | Fairy Tale",
+    "id": "skin-200524"
+  },
+  {
+    "name": "StatTrak™ Five-SeveN | Fairy Tale (Field-Tested)",
+    "price": 16.59,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Five-SeveN | Fairy Tale",
+    "id": "skin-200524"
+  },
+  {
+    "name": "StatTrak™ Five-SeveN | Fairy Tale (Well-Worn)",
+    "price": 15.77,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Five-SeveN | Fairy Tale",
+    "id": "skin-200524"
+  }
+]

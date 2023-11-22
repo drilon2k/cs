@@ -1,0 +1,47 @@
+[
+  {
+    "name": "USP-S | Road Rash (Field-Tested)",
+    "price": 24.62,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "USP-S | Road Rash",
+    "id": "skin-3998968"
+  },
+  {
+    "name": "USP-S | Road Rash (Minimal Wear)",
+    "price": 35.79,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "USP-S | Road Rash",
+    "id": "skin-3998968"
+  },
+  {
+    "name": "USP-S | Road Rash (Battle-Scarred)",
+    "price": 19.68,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "USP-S | Road Rash",
+    "id": "skin-3998968"
+  },
+  {
+    "name": "USP-S | Road Rash (Factory New)",
+    "price": 48.96,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "USP-S | Road Rash",
+    "id": "skin-3998968"
+  },
+  {
+    "name": "USP-S | Road Rash (Well-Worn)",
+    "price": 19.75,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "USP-S | Road Rash",
+    "id": "skin-3998968"
+  }
+]

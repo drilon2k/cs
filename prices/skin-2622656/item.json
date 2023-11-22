@@ -1,0 +1,74 @@
+[
+  {
+    "name": "StatTrak™ SSG 08 | Slashed (Battle-Scarred)",
+    "price": 1.26,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "SSG 08 | Slashed",
+    "id": "skin-2622656"
+  },
+  {
+    "name": "StatTrak™ SSG 08 | Slashed (Minimal Wear)",
+    "price": 0,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "SSG 08 | Slashed",
+    "id": "skin-2622656"
+  },
+  {
+    "name": "SSG 08 | Slashed (Battle-Scarred)",
+    "price": 1.73,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "SSG 08 | Slashed",
+    "id": "skin-2622656"
+  },
+  {
+    "name": "StatTrak™ SSG 08 | Slashed (Field-Tested)",
+    "price": 1.33,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "SSG 08 | Slashed",
+    "id": "skin-2622656"
+  },
+  {
+    "name": "SSG 08 | Slashed (Minimal Wear)",
+    "price": 0,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "SSG 08 | Slashed",
+    "id": "skin-2622656"
+  },
+  {
+    "name": "StatTrak™ SSG 08 | Slashed (Well-Worn)",
+    "price": 1.21,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "SSG 08 | Slashed",
+    "id": "skin-2622656"
+  },
+  {
+    "name": "SSG 08 | Slashed (Well-Worn)",
+    "price": 1.66,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "SSG 08 | Slashed",
+    "id": "skin-2622656"
+  },
+  {
+    "name": "SSG 08 | Slashed (Field-Tested)",
+    "price": 1.9,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "SSG 08 | Slashed",
+    "id": "skin-2622656"
+  }
+]

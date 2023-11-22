@@ -1,0 +1,92 @@
+[
+  {
+    "name": "★ Butterfly Knife | Bright Water (Minimal Wear)",
+    "price": 712.74,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Butterfly Knife | Bright Water",
+    "id": "skin-33753356"
+  },
+  {
+    "name": "★ StatTrak™ Butterfly Knife | Bright Water (Minimal Wear)",
+    "price": 795.36,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Butterfly Knife | Bright Water",
+    "id": "skin-33753356"
+  },
+  {
+    "name": "★ StatTrak™ Butterfly Knife | Bright Water (Battle-Scarred)",
+    "price": 627.92,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Butterfly Knife | Bright Water",
+    "id": "skin-33753356"
+  },
+  {
+    "name": "★ Butterfly Knife | Bright Water (Well-Worn)",
+    "price": 609.96,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Butterfly Knife | Bright Water",
+    "id": "skin-33753356"
+  },
+  {
+    "name": "★ StatTrak™ Butterfly Knife | Bright Water (Field-Tested)",
+    "price": 651.37,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Butterfly Knife | Bright Water",
+    "id": "skin-33753356"
+  },
+  {
+    "name": "★ Butterfly Knife | Bright Water (Factory New)",
+    "price": 815.79,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Butterfly Knife | Bright Water",
+    "id": "skin-33753356"
+  },
+  {
+    "name": "★ StatTrak™ Butterfly Knife | Bright Water (Well-Worn)",
+    "price": 671.74,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Butterfly Knife | Bright Water",
+    "id": "skin-33753356"
+  },
+  {
+    "name": "★ Butterfly Knife | Bright Water (Battle-Scarred)",
+    "price": 596.38,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Butterfly Knife | Bright Water",
+    "id": "skin-33753356"
+  },
+  {
+    "name": "★ Butterfly Knife | Bright Water (Field-Tested)",
+    "price": 644.24,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Butterfly Knife | Bright Water",
+    "id": "skin-33753356"
+  },
+  {
+    "name": "★ StatTrak™ Butterfly Knife | Bright Water (Factory New)",
+    "price": 843.36,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Butterfly Knife | Bright Water",
+    "id": "skin-33753356"
+  }
+]

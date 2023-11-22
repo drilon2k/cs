@@ -1,0 +1,92 @@
+[
+  {
+    "name": "StatTrak™ AWP | Atheris (Well-Worn)",
+    "price": 3.73,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AWP | Atheris",
+    "id": "skin-593176"
+  },
+  {
+    "name": "StatTrak™ AWP | Atheris (Factory New)",
+    "price": 34.61,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AWP | Atheris",
+    "id": "skin-593176"
+  },
+  {
+    "name": "AWP | Atheris (Minimal Wear)",
+    "price": 3.69,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AWP | Atheris",
+    "id": "skin-593176"
+  },
+  {
+    "name": "StatTrak™ AWP | Atheris (Field-Tested)",
+    "price": 5.04,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AWP | Atheris",
+    "id": "skin-593176"
+  },
+  {
+    "name": "AWP | Atheris (Well-Worn)",
+    "price": 1.3,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AWP | Atheris",
+    "id": "skin-593176"
+  },
+  {
+    "name": "AWP | Atheris (Factory New)",
+    "price": 9.24,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AWP | Atheris",
+    "id": "skin-593176"
+  },
+  {
+    "name": "StatTrak™ AWP | Atheris (Battle-Scarred)",
+    "price": 3.68,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AWP | Atheris",
+    "id": "skin-593176"
+  },
+  {
+    "name": "AWP | Atheris (Battle-Scarred)",
+    "price": 1.15,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AWP | Atheris",
+    "id": "skin-593176"
+  },
+  {
+    "name": "StatTrak™ AWP | Atheris (Minimal Wear)",
+    "price": 11.78,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AWP | Atheris",
+    "id": "skin-593176"
+  },
+  {
+    "name": "AWP | Atheris (Field-Tested)",
+    "price": 1.81,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AWP | Atheris",
+    "id": "skin-593176"
+  }
+]

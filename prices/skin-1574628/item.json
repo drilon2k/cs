@@ -1,0 +1,38 @@
+[
+  {
+    "name": "UMP-45 | Minotaur's Labyrinth (Well-Worn)",
+    "price": 304.7,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "UMP-45 | Minotaur's Labyrinth",
+    "id": "skin-1574628"
+  },
+  {
+    "name": "UMP-45 | Minotaur's Labyrinth (Minimal Wear)",
+    "price": 79.26,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "UMP-45 | Minotaur's Labyrinth",
+    "id": "skin-1574628"
+  },
+  {
+    "name": "UMP-45 | Minotaur's Labyrinth (Field-Tested)",
+    "price": 87.63,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "UMP-45 | Minotaur's Labyrinth",
+    "id": "skin-1574628"
+  },
+  {
+    "name": "UMP-45 | Minotaur's Labyrinth (Factory New)",
+    "price": 82.28,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "UMP-45 | Minotaur's Labyrinth",
+    "id": "skin-1574628"
+  }
+]

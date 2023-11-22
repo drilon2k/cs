@@ -1,0 +1,92 @@
+[
+  {
+    "name": "StatTrak™ CZ75-Auto | Tigris (Minimal Wear)",
+    "price": 2.08,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "CZ75-Auto | Tigris",
+    "id": "skin-4130168"
+  },
+  {
+    "name": "StatTrak™ CZ75-Auto | Tigris (Well-Worn)",
+    "price": 1.09,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "CZ75-Auto | Tigris",
+    "id": "skin-4130168"
+  },
+  {
+    "name": "StatTrak™ CZ75-Auto | Tigris (Field-Tested)",
+    "price": 1.33,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "CZ75-Auto | Tigris",
+    "id": "skin-4130168"
+  },
+  {
+    "name": "StatTrak™ CZ75-Auto | Tigris (Factory New)",
+    "price": 4.48,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "CZ75-Auto | Tigris",
+    "id": "skin-4130168"
+  },
+  {
+    "name": "CZ75-Auto | Tigris (Field-Tested)",
+    "price": 0.43,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "CZ75-Auto | Tigris",
+    "id": "skin-4130168"
+  },
+  {
+    "name": "CZ75-Auto | Tigris (Factory New)",
+    "price": 1.35,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "CZ75-Auto | Tigris",
+    "id": "skin-4130168"
+  },
+  {
+    "name": "CZ75-Auto | Tigris (Minimal Wear)",
+    "price": 0.6,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "CZ75-Auto | Tigris",
+    "id": "skin-4130168"
+  },
+  {
+    "name": "CZ75-Auto | Tigris (Battle-Scarred)",
+    "price": 0.43,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "CZ75-Auto | Tigris",
+    "id": "skin-4130168"
+  },
+  {
+    "name": "StatTrak™ CZ75-Auto | Tigris (Battle-Scarred)",
+    "price": 1.04,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "CZ75-Auto | Tigris",
+    "id": "skin-4130168"
+  },
+  {
+    "name": "CZ75-Auto | Tigris (Well-Worn)",
+    "price": 0.63,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "CZ75-Auto | Tigris",
+    "id": "skin-4130168"
+  }
+]

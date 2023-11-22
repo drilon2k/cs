@@ -1,0 +1,92 @@
+[
+  {
+    "name": "★ StatTrak™ Ursus Knife | Urban Masked (Field-Tested)",
+    "price": 104.15,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Ursus Knife | Urban Masked",
+    "id": "skin-34013756"
+  },
+  {
+    "name": "★ StatTrak™ Ursus Knife | Urban Masked (Factory New)",
+    "price": 0,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Ursus Knife | Urban Masked",
+    "id": "skin-34013756"
+  },
+  {
+    "name": "★ StatTrak™ Ursus Knife | Urban Masked (Well-Worn)",
+    "price": 109.7,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Ursus Knife | Urban Masked",
+    "id": "skin-34013756"
+  },
+  {
+    "name": "★ StatTrak™ Ursus Knife | Urban Masked (Battle-Scarred)",
+    "price": 101.48,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Ursus Knife | Urban Masked",
+    "id": "skin-34013756"
+  },
+  {
+    "name": "★ StatTrak™ Ursus Knife | Urban Masked (Minimal Wear)",
+    "price": 136.99,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Ursus Knife | Urban Masked",
+    "id": "skin-34013756"
+  },
+  {
+    "name": "★ Ursus Knife | Urban Masked (Well-Worn)",
+    "price": 92.97,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Ursus Knife | Urban Masked",
+    "id": "skin-34013756"
+  },
+  {
+    "name": "★ Ursus Knife | Urban Masked (Field-Tested)",
+    "price": 100.65,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Ursus Knife | Urban Masked",
+    "id": "skin-34013756"
+  },
+  {
+    "name": "★ Ursus Knife | Urban Masked (Factory New)",
+    "price": 356.4,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Ursus Knife | Urban Masked",
+    "id": "skin-34013756"
+  },
+  {
+    "name": "★ Ursus Knife | Urban Masked (Minimal Wear)",
+    "price": 117.11,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Ursus Knife | Urban Masked",
+    "id": "skin-34013756"
+  },
+  {
+    "name": "★ Ursus Knife | Urban Masked (Battle-Scarred)",
+    "price": 89.96,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Ursus Knife | Urban Masked",
+    "id": "skin-34013756"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "name": "StatTrak™ M4A4 | Cyber Security (Battle-Scarred)",
+    "price": 15.81,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "M4A4 | Cyber Security",
+    "id": "skin-1052516"
+  },
+  {
+    "name": "M4A4 | Cyber Security (Battle-Scarred)",
+    "price": 12.71,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M4A4 | Cyber Security",
+    "id": "skin-1052516"
+  },
+  {
+    "name": "StatTrak™ M4A4 | Cyber Security (Factory New)",
+    "price": 87.76,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "M4A4 | Cyber Security",
+    "id": "skin-1052516"
+  },
+  {
+    "name": "M4A4 | Cyber Security (Factory New)",
+    "price": 34.08,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M4A4 | Cyber Security",
+    "id": "skin-1052516"
+  },
+  {
+    "name": "M4A4 | Cyber Security (Well-Worn)",
+    "price": 12.16,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M4A4 | Cyber Security",
+    "id": "skin-1052516"
+  },
+  {
+    "name": "StatTrak™ M4A4 | Cyber Security (Well-Worn)",
+    "price": 16.11,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "M4A4 | Cyber Security",
+    "id": "skin-1052516"
+  },
+  {
+    "name": "M4A4 | Cyber Security (Field-Tested)",
+    "price": 13.01,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M4A4 | Cyber Security",
+    "id": "skin-1052516"
+  },
+  {
+    "name": "StatTrak™ M4A4 | Cyber Security (Minimal Wear)",
+    "price": 38.81,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "M4A4 | Cyber Security",
+    "id": "skin-1052516"
+  },
+  {
+    "name": "StatTrak™ M4A4 | Cyber Security (Field-Tested)",
+    "price": 17.24,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "M4A4 | Cyber Security",
+    "id": "skin-1052516"
+  },
+  {
+    "name": "M4A4 | Cyber Security (Minimal Wear)",
+    "price": 20.41,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M4A4 | Cyber Security",
+    "id": "skin-1052516"
+  }
+]

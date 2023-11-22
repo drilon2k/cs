@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Tec-9 | Brass (Minimal Wear)",
+    "price": 8.91,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Tec-9 | Brass",
+    "id": "skin-1966716"
+  },
+  {
+    "name": "Tec-9 | Brass (Field-Tested)",
+    "price": 3.48,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Tec-9 | Brass",
+    "id": "skin-1966716"
+  },
+  {
+    "name": "Tec-9 | Brass (Battle-Scarred)",
+    "price": 2.71,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Tec-9 | Brass",
+    "id": "skin-1966716"
+  },
+  {
+    "name": "Tec-9 | Brass (Well-Worn)",
+    "price": 2.96,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Tec-9 | Brass",
+    "id": "skin-1966716"
+  },
+  {
+    "name": "Tec-9 | Brass (Factory New)",
+    "price": 52.11,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Tec-9 | Brass",
+    "id": "skin-1966716"
+  }
+]

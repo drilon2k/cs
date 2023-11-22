@@ -1,0 +1,92 @@
+[
+  {
+    "name": "M4A4 | Desert-Strike (Battle-Scarred)",
+    "price": 3.66,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M4A4 | Desert-Strike",
+    "id": "skin-1049920"
+  },
+  {
+    "name": "StatTrak™ M4A4 | Desert-Strike (Field-Tested)",
+    "price": 11.68,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "M4A4 | Desert-Strike",
+    "id": "skin-1049920"
+  },
+  {
+    "name": "StatTrak™ M4A4 | Desert-Strike (Factory New)",
+    "price": 28.11,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "M4A4 | Desert-Strike",
+    "id": "skin-1049920"
+  },
+  {
+    "name": "StatTrak™ M4A4 | Desert-Strike (Minimal Wear)",
+    "price": 16.29,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "M4A4 | Desert-Strike",
+    "id": "skin-1049920"
+  },
+  {
+    "name": "M4A4 | Desert-Strike (Field-Tested)",
+    "price": 2.9,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M4A4 | Desert-Strike",
+    "id": "skin-1049920"
+  },
+  {
+    "name": "M4A4 | Desert-Strike (Factory New)",
+    "price": 6.66,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M4A4 | Desert-Strike",
+    "id": "skin-1049920"
+  },
+  {
+    "name": "M4A4 | Desert-Strike (Well-Worn)",
+    "price": 4.49,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M4A4 | Desert-Strike",
+    "id": "skin-1049920"
+  },
+  {
+    "name": "StatTrak™ M4A4 | Desert-Strike (Well-Worn)",
+    "price": 16.37,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "M4A4 | Desert-Strike",
+    "id": "skin-1049920"
+  },
+  {
+    "name": "M4A4 | Desert-Strike (Minimal Wear)",
+    "price": 3.72,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "M4A4 | Desert-Strike",
+    "id": "skin-1049920"
+  },
+  {
+    "name": "StatTrak™ M4A4 | Desert-Strike (Battle-Scarred)",
+    "price": 13.43,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "M4A4 | Desert-Strike",
+    "id": "skin-1049920"
+  }
+]

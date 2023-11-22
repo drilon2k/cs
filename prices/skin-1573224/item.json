@@ -1,0 +1,47 @@
+[
+  {
+    "name": "UMP-45 | Mudder (Well-Worn)",
+    "price": 0.01,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "UMP-45 | Mudder",
+    "id": "skin-1573224"
+  },
+  {
+    "name": "UMP-45 | Mudder (Factory New)",
+    "price": 0.06,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "UMP-45 | Mudder",
+    "id": "skin-1573224"
+  },
+  {
+    "name": "UMP-45 | Mudder (Battle-Scarred)",
+    "price": 0.01,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "UMP-45 | Mudder",
+    "id": "skin-1573224"
+  },
+  {
+    "name": "UMP-45 | Mudder (Minimal Wear)",
+    "price": 0.01,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "UMP-45 | Mudder",
+    "id": "skin-1573224"
+  },
+  {
+    "name": "UMP-45 | Mudder (Field-Tested)",
+    "price": 0.01,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "UMP-45 | Mudder",
+    "id": "skin-1573224"
+  }
+]

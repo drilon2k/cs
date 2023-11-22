@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Negev | Loudmouth (Minimal Wear)",
+    "price": 3.33,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Negev | Loudmouth",
+    "id": "skin-1836940"
+  },
+  {
+    "name": "Negev | Loudmouth (Battle-Scarred)",
+    "price": 0.43,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Negev | Loudmouth",
+    "id": "skin-1836940"
+  },
+  {
+    "name": "StatTrak™ Negev | Loudmouth (Well-Worn)",
+    "price": 1.19,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Negev | Loudmouth",
+    "id": "skin-1836940"
+  },
+  {
+    "name": "Negev | Loudmouth (Well-Worn)",
+    "price": 0.42,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Negev | Loudmouth",
+    "id": "skin-1836940"
+  },
+  {
+    "name": "StatTrak™ Negev | Loudmouth (Minimal Wear)",
+    "price": 23.24,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Negev | Loudmouth",
+    "id": "skin-1836940"
+  },
+  {
+    "name": "StatTrak™ Negev | Loudmouth (Field-Tested)",
+    "price": 1.12,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Negev | Loudmouth",
+    "id": "skin-1836940"
+  },
+  {
+    "name": "Negev | Loudmouth (Field-Tested)",
+    "price": 0.41,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Negev | Loudmouth",
+    "id": "skin-1836940"
+  },
+  {
+    "name": "StatTrak™ Negev | Loudmouth (Battle-Scarred)",
+    "price": 1.08,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Negev | Loudmouth",
+    "id": "skin-1836940"
+  }
+]

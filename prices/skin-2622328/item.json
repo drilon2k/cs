@@ -1,0 +1,56 @@
+[
+  {
+    "name": "SSG 08 | Blood in the Water (Factory New)",
+    "price": 51.42,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "SSG 08 | Blood in the Water",
+    "id": "skin-2622328"
+  },
+  {
+    "name": "StatTrak™ SSG 08 | Blood in the Water (Field-Tested)",
+    "price": 167.85,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "SSG 08 | Blood in the Water",
+    "id": "skin-2622328"
+  },
+  {
+    "name": "SSG 08 | Blood in the Water (Field-Tested)",
+    "price": 36.83,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "SSG 08 | Blood in the Water",
+    "id": "skin-2622328"
+  },
+  {
+    "name": "StatTrak™ SSG 08 | Blood in the Water (Factory New)",
+    "price": 322.26,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "SSG 08 | Blood in the Water",
+    "id": "skin-2622328"
+  },
+  {
+    "name": "StatTrak™ SSG 08 | Blood in the Water (Minimal Wear)",
+    "price": 139.74,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "SSG 08 | Blood in the Water",
+    "id": "skin-2622328"
+  },
+  {
+    "name": "SSG 08 | Blood in the Water (Minimal Wear)",
+    "price": 31.61,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "SSG 08 | Blood in the Water",
+    "id": "skin-2622328"
+  }
+]

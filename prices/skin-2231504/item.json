@@ -1,0 +1,47 @@
+[
+  {
+    "name": "MP9 | Music Box (Factory New)",
+    "price": 10.27,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MP9 | Music Box",
+    "id": "skin-2231504"
+  },
+  {
+    "name": "MP9 | Music Box (Battle-Scarred)",
+    "price": 11.66,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MP9 | Music Box",
+    "id": "skin-2231504"
+  },
+  {
+    "name": "MP9 | Music Box (Well-Worn)",
+    "price": 12.04,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MP9 | Music Box",
+    "id": "skin-2231504"
+  },
+  {
+    "name": "MP9 | Music Box (Field-Tested)",
+    "price": 9.97,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MP9 | Music Box",
+    "id": "skin-2231504"
+  },
+  {
+    "name": "MP9 | Music Box (Minimal Wear)",
+    "price": 10.04,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MP9 | Music Box",
+    "id": "skin-2231504"
+  }
+]

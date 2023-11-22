@@ -1,0 +1,92 @@
+[
+  {
+    "name": "★ Huntsman Knife | Stained (Field-Tested)",
+    "price": 125.47,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Huntsman Knife | Stained",
+    "id": "skin-33357996"
+  },
+  {
+    "name": "★ Huntsman Knife | Stained (Factory New)",
+    "price": 209.81,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Huntsman Knife | Stained",
+    "id": "skin-33357996"
+  },
+  {
+    "name": "★ StatTrak™ Huntsman Knife | Stained (Field-Tested)",
+    "price": 164.42,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Huntsman Knife | Stained",
+    "id": "skin-33357996"
+  },
+  {
+    "name": "★ Huntsman Knife | Stained (Battle-Scarred)",
+    "price": 109.09,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Huntsman Knife | Stained",
+    "id": "skin-33357996"
+  },
+  {
+    "name": "★ StatTrak™ Huntsman Knife | Stained (Factory New)",
+    "price": 27426.19,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Huntsman Knife | Stained",
+    "id": "skin-33357996"
+  },
+  {
+    "name": "★ Huntsman Knife | Stained (Well-Worn)",
+    "price": 118.21,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Huntsman Knife | Stained",
+    "id": "skin-33357996"
+  },
+  {
+    "name": "★ StatTrak™ Huntsman Knife | Stained (Well-Worn)",
+    "price": 258.9,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Huntsman Knife | Stained",
+    "id": "skin-33357996"
+  },
+  {
+    "name": "★ StatTrak™ Huntsman Knife | Stained (Battle-Scarred)",
+    "price": 102.96,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Huntsman Knife | Stained",
+    "id": "skin-33357996"
+  },
+  {
+    "name": "★ StatTrak™ Huntsman Knife | Stained (Minimal Wear)",
+    "price": 196.91,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Huntsman Knife | Stained",
+    "id": "skin-33357996"
+  },
+  {
+    "name": "★ Huntsman Knife | Stained (Minimal Wear)",
+    "price": 130.21,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Huntsman Knife | Stained",
+    "id": "skin-33357996"
+  }
+]

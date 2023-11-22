@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Desert Eagle | Sputnik (Minimal Wear)",
+    "price": 0.82,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Desert Eagle | Sputnik",
+    "id": "skin-69760"
+  },
+  {
+    "name": "Desert Eagle | Sputnik (Factory New)",
+    "price": 1.21,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Desert Eagle | Sputnik",
+    "id": "skin-69760"
+  },
+  {
+    "name": "Desert Eagle | Sputnik (Battle-Scarred)",
+    "price": 0.64,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Desert Eagle | Sputnik",
+    "id": "skin-69760"
+  },
+  {
+    "name": "Desert Eagle | Sputnik (Field-Tested)",
+    "price": 0.77,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Desert Eagle | Sputnik",
+    "id": "skin-69760"
+  },
+  {
+    "name": "Desert Eagle | Sputnik (Well-Worn)",
+    "price": 0.77,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Desert Eagle | Sputnik",
+    "id": "skin-69760"
+  }
+]

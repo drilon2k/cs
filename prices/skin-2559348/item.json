@@ -1,0 +1,47 @@
+[
+  {
+    "name": "SG 553 | Barricade (Battle-Scarred)",
+    "price": 3.05,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "SG 553 | Barricade",
+    "id": "skin-2559348"
+  },
+  {
+    "name": "SG 553 | Barricade (Minimal Wear)",
+    "price": 2.99,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "SG 553 | Barricade",
+    "id": "skin-2559348"
+  },
+  {
+    "name": "SG 553 | Barricade (Well-Worn)",
+    "price": 2.77,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "SG 553 | Barricade",
+    "id": "skin-2559348"
+  },
+  {
+    "name": "SG 553 | Barricade (Field-Tested)",
+    "price": 2.79,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "SG 553 | Barricade",
+    "id": "skin-2559348"
+  },
+  {
+    "name": "SG 553 | Barricade (Factory New)",
+    "price": 3.23,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "SG 553 | Barricade",
+    "id": "skin-2559348"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "name": "AWP | Corticera (Field-Tested)",
+    "price": 9.12,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AWP | Corticera",
+    "id": "skin-590548"
+  },
+  {
+    "name": "StatTrak™ AWP | Corticera (Minimal Wear)",
+    "price": 28.44,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AWP | Corticera",
+    "id": "skin-590548"
+  },
+  {
+    "name": "StatTrak™ AWP | Corticera (Factory New)",
+    "price": 80.63,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AWP | Corticera",
+    "id": "skin-590548"
+  },
+  {
+    "name": "StatTrak™ AWP | Corticera (Field-Tested)",
+    "price": 23.99,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AWP | Corticera",
+    "id": "skin-590548"
+  },
+  {
+    "name": "AWP | Corticera (Minimal Wear)",
+    "price": 9.19,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AWP | Corticera",
+    "id": "skin-590548"
+  },
+  {
+    "name": "AWP | Corticera (Factory New)",
+    "price": 27.22,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AWP | Corticera",
+    "id": "skin-590548"
+  }
+]

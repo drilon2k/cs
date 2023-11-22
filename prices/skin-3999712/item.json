@@ -1,0 +1,92 @@
+[
+  {
+    "name": "USP-S | Kill Confirmed (Minimal Wear)",
+    "price": 56.29,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "USP-S | Kill Confirmed",
+    "id": "skin-3999712"
+  },
+  {
+    "name": "USP-S | Kill Confirmed (Field-Tested)",
+    "price": 32.91,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "USP-S | Kill Confirmed",
+    "id": "skin-3999712"
+  },
+  {
+    "name": "USP-S | Kill Confirmed (Well-Worn)",
+    "price": 30.72,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "USP-S | Kill Confirmed",
+    "id": "skin-3999712"
+  },
+  {
+    "name": "USP-S | Kill Confirmed (Factory New)",
+    "price": 127.53,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "USP-S | Kill Confirmed",
+    "id": "skin-3999712"
+  },
+  {
+    "name": "StatTrak™ USP-S | Kill Confirmed (Field-Tested)",
+    "price": 106.55,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "USP-S | Kill Confirmed",
+    "id": "skin-3999712"
+  },
+  {
+    "name": "StatTrak™ USP-S | Kill Confirmed (Factory New)",
+    "price": 438.75,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "USP-S | Kill Confirmed",
+    "id": "skin-3999712"
+  },
+  {
+    "name": "StatTrak™ USP-S | Kill Confirmed (Battle-Scarred)",
+    "price": 74.05,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "USP-S | Kill Confirmed",
+    "id": "skin-3999712"
+  },
+  {
+    "name": "StatTrak™ USP-S | Kill Confirmed (Minimal Wear)",
+    "price": 179.36,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "USP-S | Kill Confirmed",
+    "id": "skin-3999712"
+  },
+  {
+    "name": "USP-S | Kill Confirmed (Battle-Scarred)",
+    "price": 29.88,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "USP-S | Kill Confirmed",
+    "id": "skin-3999712"
+  },
+  {
+    "name": "StatTrak™ USP-S | Kill Confirmed (Well-Worn)",
+    "price": 85.02,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "USP-S | Kill Confirmed",
+    "id": "skin-3999712"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "name": "CZ75-Auto | Crimson Web (Battle-Scarred)",
+    "price": 1,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "CZ75-Auto | Crimson Web",
+    "id": "skin-4128816"
+  },
+  {
+    "name": "CZ75-Auto | Crimson Web (Minimal Wear)",
+    "price": 1.42,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "CZ75-Auto | Crimson Web",
+    "id": "skin-4128816"
+  },
+  {
+    "name": "CZ75-Auto | Crimson Web (Factory New)",
+    "price": 19.95,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "CZ75-Auto | Crimson Web",
+    "id": "skin-4128816"
+  },
+  {
+    "name": "CZ75-Auto | Crimson Web (Field-Tested)",
+    "price": 1.13,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "CZ75-Auto | Crimson Web",
+    "id": "skin-4128816"
+  },
+  {
+    "name": "StatTrak™ CZ75-Auto | Crimson Web (Battle-Scarred)",
+    "price": 2.31,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "CZ75-Auto | Crimson Web",
+    "id": "skin-4128816"
+  },
+  {
+    "name": "CZ75-Auto | Crimson Web (Well-Worn)",
+    "price": 1.03,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "CZ75-Auto | Crimson Web",
+    "id": "skin-4128816"
+  },
+  {
+    "name": "StatTrak™ CZ75-Auto | Crimson Web (Field-Tested)",
+    "price": 2.16,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "CZ75-Auto | Crimson Web",
+    "id": "skin-4128816"
+  },
+  {
+    "name": "StatTrak™ CZ75-Auto | Crimson Web (Well-Worn)",
+    "price": 2.18,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "CZ75-Auto | Crimson Web",
+    "id": "skin-4128816"
+  },
+  {
+    "name": "StatTrak™ CZ75-Auto | Crimson Web (Factory New)",
+    "price": 48.52,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "CZ75-Auto | Crimson Web",
+    "id": "skin-4128816"
+  },
+  {
+    "name": "StatTrak™ CZ75-Auto | Crimson Web (Minimal Wear)",
+    "price": 4.52,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "CZ75-Auto | Crimson Web",
+    "id": "skin-4128816"
+  }
+]

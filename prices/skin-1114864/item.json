@@ -1,0 +1,92 @@
+[
+  {
+    "name": "StatTrak™ MAC-10 | Graven (Battle-Scarred)",
+    "price": 36.53,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MAC-10 | Graven",
+    "id": "skin-1114864"
+  },
+  {
+    "name": "MAC-10 | Graven (Well-Worn)",
+    "price": 18.39,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MAC-10 | Graven",
+    "id": "skin-1114864"
+  },
+  {
+    "name": "StatTrak™ MAC-10 | Graven (Minimal Wear)",
+    "price": 51.38,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MAC-10 | Graven",
+    "id": "skin-1114864"
+  },
+  {
+    "name": "MAC-10 | Graven (Minimal Wear)",
+    "price": 19.35,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MAC-10 | Graven",
+    "id": "skin-1114864"
+  },
+  {
+    "name": "StatTrak™ MAC-10 | Graven (Factory New)",
+    "price": 133.02,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MAC-10 | Graven",
+    "id": "skin-1114864"
+  },
+  {
+    "name": "StatTrak™ MAC-10 | Graven (Well-Worn)",
+    "price": 34.06,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MAC-10 | Graven",
+    "id": "skin-1114864"
+  },
+  {
+    "name": "MAC-10 | Graven (Battle-Scarred)",
+    "price": 18.61,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MAC-10 | Graven",
+    "id": "skin-1114864"
+  },
+  {
+    "name": "MAC-10 | Graven (Field-Tested)",
+    "price": 17.4,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MAC-10 | Graven",
+    "id": "skin-1114864"
+  },
+  {
+    "name": "MAC-10 | Graven (Factory New)",
+    "price": 40.59,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "MAC-10 | Graven",
+    "id": "skin-1114864"
+  },
+  {
+    "name": "StatTrak™ MAC-10 | Graven (Field-Tested)",
+    "price": 33.5,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "MAC-10 | Graven",
+    "id": "skin-1114864"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "name": "AUG | Arctic Wolf (Battle-Scarred)",
+    "price": 1.45,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AUG | Arctic Wolf",
+    "id": "skin-527832"
+  },
+  {
+    "name": "StatTrak™ AUG | Arctic Wolf (Factory New)",
+    "price": 16.92,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AUG | Arctic Wolf",
+    "id": "skin-527832"
+  },
+  {
+    "name": "AUG | Arctic Wolf (Factory New)",
+    "price": 5.07,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AUG | Arctic Wolf",
+    "id": "skin-527832"
+  },
+  {
+    "name": "StatTrak™ AUG | Arctic Wolf (Well-Worn)",
+    "price": 5.88,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AUG | Arctic Wolf",
+    "id": "skin-527832"
+  },
+  {
+    "name": "StatTrak™ AUG | Arctic Wolf (Field-Tested)",
+    "price": 3.64,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AUG | Arctic Wolf",
+    "id": "skin-527832"
+  },
+  {
+    "name": "AUG | Arctic Wolf (Well-Worn)",
+    "price": 1.97,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AUG | Arctic Wolf",
+    "id": "skin-527832"
+  },
+  {
+    "name": "AUG | Arctic Wolf (Field-Tested)",
+    "price": 1.37,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AUG | Arctic Wolf",
+    "id": "skin-527832"
+  },
+  {
+    "name": "StatTrak™ AUG | Arctic Wolf (Minimal Wear)",
+    "price": 7.98,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AUG | Arctic Wolf",
+    "id": "skin-527832"
+  },
+  {
+    "name": "AUG | Arctic Wolf (Minimal Wear)",
+    "price": 2.66,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AUG | Arctic Wolf",
+    "id": "skin-527832"
+  },
+  {
+    "name": "StatTrak™ AUG | Arctic Wolf (Battle-Scarred)",
+    "price": 1.74,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "AUG | Arctic Wolf",
+    "id": "skin-527832"
+  }
+]

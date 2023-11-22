@@ -1,0 +1,92 @@
+[
+  {
+    "name": "★ Bowie Knife | Boreal Forest (Field-Tested)",
+    "price": 88.45,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Bowie Knife | Boreal Forest",
+    "id": "skin-33685812"
+  },
+  {
+    "name": "★ Bowie Knife | Boreal Forest (Factory New)",
+    "price": 0,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Bowie Knife | Boreal Forest",
+    "id": "skin-33685812"
+  },
+  {
+    "name": "★ StatTrak™ Bowie Knife | Boreal Forest (Battle-Scarred)",
+    "price": 91.84,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Bowie Knife | Boreal Forest",
+    "id": "skin-33685812"
+  },
+  {
+    "name": "★ Bowie Knife | Boreal Forest (Battle-Scarred)",
+    "price": 85.49,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Bowie Knife | Boreal Forest",
+    "id": "skin-33685812"
+  },
+  {
+    "name": "★ Bowie Knife | Boreal Forest (Well-Worn)",
+    "price": 91.53,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Bowie Knife | Boreal Forest",
+    "id": "skin-33685812"
+  },
+  {
+    "name": "★ StatTrak™ Bowie Knife | Boreal Forest (Factory New)",
+    "price": 223.86,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Bowie Knife | Boreal Forest",
+    "id": "skin-33685812"
+  },
+  {
+    "name": "★ StatTrak™ Bowie Knife | Boreal Forest (Field-Tested)",
+    "price": 100.11,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Bowie Knife | Boreal Forest",
+    "id": "skin-33685812"
+  },
+  {
+    "name": "★ Bowie Knife | Boreal Forest (Minimal Wear)",
+    "price": 105.59,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Bowie Knife | Boreal Forest",
+    "id": "skin-33685812"
+  },
+  {
+    "name": "★ StatTrak™ Bowie Knife | Boreal Forest (Well-Worn)",
+    "price": 186.5,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Bowie Knife | Boreal Forest",
+    "id": "skin-33685812"
+  },
+  {
+    "name": "★ StatTrak™ Bowie Knife | Boreal Forest (Minimal Wear)",
+    "price": 150.71,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Bowie Knife | Boreal Forest",
+    "id": "skin-33685812"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "name": "UMP-45 | Crime Scene (Minimal Wear)",
+    "price": 52.86,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "UMP-45 | Crime Scene",
+    "id": "skin-1576876"
+  },
+  {
+    "name": "UMP-45 | Crime Scene (Field-Tested)",
+    "price": 52.8,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "UMP-45 | Crime Scene",
+    "id": "skin-1576876"
+  },
+  {
+    "name": "UMP-45 | Crime Scene (Battle-Scarred)",
+    "price": 71.24,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "UMP-45 | Crime Scene",
+    "id": "skin-1576876"
+  },
+  {
+    "name": "UMP-45 | Crime Scene (Factory New)",
+    "price": 53.41,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "UMP-45 | Crime Scene",
+    "id": "skin-1576876"
+  },
+  {
+    "name": "UMP-45 | Crime Scene (Well-Worn)",
+    "price": 61.71,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "UMP-45 | Crime Scene",
+    "id": "skin-1576876"
+  }
+]

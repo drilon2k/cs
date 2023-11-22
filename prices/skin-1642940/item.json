@@ -1,0 +1,92 @@
+[
+  {
+    "name": "XM1014 | Zombie Offensive (Battle-Scarred)",
+    "price": 0.17,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "XM1014 | Zombie Offensive",
+    "id": "skin-1642940"
+  },
+  {
+    "name": "XM1014 | Zombie Offensive (Field-Tested)",
+    "price": 0.17,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "XM1014 | Zombie Offensive",
+    "id": "skin-1642940"
+  },
+  {
+    "name": "XM1014 | Zombie Offensive (Well-Worn)",
+    "price": 0.17,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "XM1014 | Zombie Offensive",
+    "id": "skin-1642940"
+  },
+  {
+    "name": "StatTrak™ XM1014 | Zombie Offensive (Factory New)",
+    "price": 2.29,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "XM1014 | Zombie Offensive",
+    "id": "skin-1642940"
+  },
+  {
+    "name": "StatTrak™ XM1014 | Zombie Offensive (Field-Tested)",
+    "price": 0.34,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "XM1014 | Zombie Offensive",
+    "id": "skin-1642940"
+  },
+  {
+    "name": "StatTrak™ XM1014 | Zombie Offensive (Well-Worn)",
+    "price": 0.41,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "XM1014 | Zombie Offensive",
+    "id": "skin-1642940"
+  },
+  {
+    "name": "StatTrak™ XM1014 | Zombie Offensive (Battle-Scarred)",
+    "price": 0.49,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "XM1014 | Zombie Offensive",
+    "id": "skin-1642940"
+  },
+  {
+    "name": "XM1014 | Zombie Offensive (Factory New)",
+    "price": 0.87,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "XM1014 | Zombie Offensive",
+    "id": "skin-1642940"
+  },
+  {
+    "name": "XM1014 | Zombie Offensive (Minimal Wear)",
+    "price": 0.36,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "XM1014 | Zombie Offensive",
+    "id": "skin-1642940"
+  },
+  {
+    "name": "StatTrak™ XM1014 | Zombie Offensive (Minimal Wear)",
+    "price": 0.81,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "XM1014 | Zombie Offensive",
+    "id": "skin-1642940"
+  }
+]

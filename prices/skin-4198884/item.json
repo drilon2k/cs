@@ -1,0 +1,92 @@
+[
+  {
+    "name": "R8 Revolver | Crazy 8 (Minimal Wear)",
+    "price": 0.65,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "R8 Revolver | Crazy 8",
+    "id": "skin-4198884"
+  },
+  {
+    "name": "R8 Revolver | Crazy 8 (Well-Worn)",
+    "price": 0.36,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "R8 Revolver | Crazy 8",
+    "id": "skin-4198884"
+  },
+  {
+    "name": "StatTrak™ R8 Revolver | Crazy 8 (Battle-Scarred)",
+    "price": 0.65,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "R8 Revolver | Crazy 8",
+    "id": "skin-4198884"
+  },
+  {
+    "name": "StatTrak™ R8 Revolver | Crazy 8 (Factory New)",
+    "price": 4.58,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "R8 Revolver | Crazy 8",
+    "id": "skin-4198884"
+  },
+  {
+    "name": "R8 Revolver | Crazy 8 (Factory New)",
+    "price": 1.56,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "R8 Revolver | Crazy 8",
+    "id": "skin-4198884"
+  },
+  {
+    "name": "StatTrak™ R8 Revolver | Crazy 8 (Field-Tested)",
+    "price": 0.83,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "R8 Revolver | Crazy 8",
+    "id": "skin-4198884"
+  },
+  {
+    "name": "R8 Revolver | Crazy 8 (Battle-Scarred)",
+    "price": 0.37,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "R8 Revolver | Crazy 8",
+    "id": "skin-4198884"
+  },
+  {
+    "name": "StatTrak™ R8 Revolver | Crazy 8 (Minimal Wear)",
+    "price": 1.82,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "R8 Revolver | Crazy 8",
+    "id": "skin-4198884"
+  },
+  {
+    "name": "StatTrak™ R8 Revolver | Crazy 8 (Well-Worn)",
+    "price": 0.73,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "R8 Revolver | Crazy 8",
+    "id": "skin-4198884"
+  },
+  {
+    "name": "R8 Revolver | Crazy 8 (Field-Tested)",
+    "price": 0.4,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "R8 Revolver | Crazy 8",
+    "id": "skin-4198884"
+  }
+]

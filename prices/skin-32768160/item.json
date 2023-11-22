@@ -1,0 +1,92 @@
+[
+  {
+    "name": "★ Bayonet | Night (Battle-Scarred)",
+    "price": 182.38,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Bayonet | Night",
+    "id": "skin-32768160"
+  },
+  {
+    "name": "★ StatTrak™ Bayonet | Night (Factory New)",
+    "price": 0,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Bayonet | Night",
+    "id": "skin-32768160"
+  },
+  {
+    "name": "★ StatTrak™ Bayonet | Night (Well-Worn)",
+    "price": 260.55,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Bayonet | Night",
+    "id": "skin-32768160"
+  },
+  {
+    "name": "★ StatTrak™ Bayonet | Night (Minimal Wear)",
+    "price": 308.54,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Bayonet | Night",
+    "id": "skin-32768160"
+  },
+  {
+    "name": "★ StatTrak™ Bayonet | Night (Field-Tested)",
+    "price": 205.7,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Bayonet | Night",
+    "id": "skin-32768160"
+  },
+  {
+    "name": "★ StatTrak™ Bayonet | Night (Battle-Scarred)",
+    "price": 197.06,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Bayonet | Night",
+    "id": "skin-32768160"
+  },
+  {
+    "name": "★ Bayonet | Night (Well-Worn)",
+    "price": 169.77,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Bayonet | Night",
+    "id": "skin-32768160"
+  },
+  {
+    "name": "★ Bayonet | Night (Field-Tested)",
+    "price": 182.04,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Bayonet | Night",
+    "id": "skin-32768160"
+  },
+  {
+    "name": "★ Bayonet | Night (Minimal Wear)",
+    "price": 284.75,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Bayonet | Night",
+    "id": "skin-32768160"
+  },
+  {
+    "name": "★ Bayonet | Night (Factory New)",
+    "price": 959.92,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Bayonet | Night",
+    "id": "skin-32768160"
+  }
+]

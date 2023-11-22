@@ -1,0 +1,47 @@
+[
+  {
+    "name": "AWP | Dragon Lore (Factory New)",
+    "price": 10284.68,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AWP | Dragon Lore",
+    "id": "skin-591200"
+  },
+  {
+    "name": "AWP | Dragon Lore (Well-Worn)",
+    "price": 4868.15,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AWP | Dragon Lore",
+    "id": "skin-591200"
+  },
+  {
+    "name": "AWP | Dragon Lore (Field-Tested)",
+    "price": 5471.52,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AWP | Dragon Lore",
+    "id": "skin-591200"
+  },
+  {
+    "name": "AWP | Dragon Lore (Minimal Wear)",
+    "price": 7816.46,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AWP | Dragon Lore",
+    "id": "skin-591200"
+  },
+  {
+    "name": "AWP | Dragon Lore (Battle-Scarred)",
+    "price": 4045.36,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "AWP | Dragon Lore",
+    "id": "skin-591200"
+  }
+]

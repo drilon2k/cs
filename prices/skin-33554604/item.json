@@ -1,0 +1,92 @@
+[
+  {
+    "name": "★ Falchion Knife | Stained (Field-Tested)",
+    "price": 106.26,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Falchion Knife | Stained",
+    "id": "skin-33554604"
+  },
+  {
+    "name": "★ Falchion Knife | Stained (Battle-Scarred)",
+    "price": 95.51,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Falchion Knife | Stained",
+    "id": "skin-33554604"
+  },
+  {
+    "name": "★ StatTrak™ Falchion Knife | Stained (Minimal Wear)",
+    "price": 119.3,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Falchion Knife | Stained",
+    "id": "skin-33554604"
+  },
+  {
+    "name": "★ StatTrak™ Falchion Knife | Stained (Field-Tested)",
+    "price": 113.13,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Falchion Knife | Stained",
+    "id": "skin-33554604"
+  },
+  {
+    "name": "★ StatTrak™ Falchion Knife | Stained (Battle-Scarred)",
+    "price": 116.56,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Falchion Knife | Stained",
+    "id": "skin-33554604"
+  },
+  {
+    "name": "★ Falchion Knife | Stained (Minimal Wear)",
+    "price": 111.07,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Falchion Knife | Stained",
+    "id": "skin-33554604"
+  },
+  {
+    "name": "★ StatTrak™ Falchion Knife | Stained (Well-Worn)",
+    "price": 212.55,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Falchion Knife | Stained",
+    "id": "skin-33554604"
+  },
+  {
+    "name": "★ StatTrak™ Falchion Knife | Stained (Factory New)",
+    "price": 0,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Falchion Knife | Stained",
+    "id": "skin-33554604"
+  },
+  {
+    "name": "★ Falchion Knife | Stained (Well-Worn)",
+    "price": 98.46,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Falchion Knife | Stained",
+    "id": "skin-33554604"
+  },
+  {
+    "name": "★ Falchion Knife | Stained (Factory New)",
+    "price": 143.23,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Falchion Knife | Stained",
+    "id": "skin-33554604"
+  }
+]

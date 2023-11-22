@@ -1,0 +1,92 @@
+[
+  {
+    "name": "StatTrak™ Sawed-Off | Highwayman (Field-Tested)",
+    "price": 1.22,
+    "wear": "Field-Tested",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Sawed-Off | Highwayman",
+    "id": "skin-1902104"
+  },
+  {
+    "name": "StatTrak™ Sawed-Off | Highwayman (Minimal Wear)",
+    "price": 3.27,
+    "wear": "Minimal Wear",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Sawed-Off | Highwayman",
+    "id": "skin-1902104"
+  },
+  {
+    "name": "Sawed-Off | Highwayman (Well-Worn)",
+    "price": 0.45,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Sawed-Off | Highwayman",
+    "id": "skin-1902104"
+  },
+  {
+    "name": "StatTrak™ Sawed-Off | Highwayman (Battle-Scarred)",
+    "price": 0.98,
+    "wear": "Battle-Scarred",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Sawed-Off | Highwayman",
+    "id": "skin-1902104"
+  },
+  {
+    "name": "StatTrak™ Sawed-Off | Highwayman (Factory New)",
+    "price": 6.65,
+    "wear": "Factory New",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Sawed-Off | Highwayman",
+    "id": "skin-1902104"
+  },
+  {
+    "name": "Sawed-Off | Highwayman (Battle-Scarred)",
+    "price": 0.41,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Sawed-Off | Highwayman",
+    "id": "skin-1902104"
+  },
+  {
+    "name": "Sawed-Off | Highwayman (Minimal Wear)",
+    "price": 0.81,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Sawed-Off | Highwayman",
+    "id": "skin-1902104"
+  },
+  {
+    "name": "Sawed-Off | Highwayman (Factory New)",
+    "price": 1.65,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Sawed-Off | Highwayman",
+    "id": "skin-1902104"
+  },
+  {
+    "name": "StatTrak™ Sawed-Off | Highwayman (Well-Worn)",
+    "price": 1.26,
+    "wear": "Well-Worn",
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "Sawed-Off | Highwayman",
+    "id": "skin-1902104"
+  },
+  {
+    "name": "Sawed-Off | Highwayman (Field-Tested)",
+    "price": 0.49,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Sawed-Off | Highwayman",
+    "id": "skin-1902104"
+  }
+]

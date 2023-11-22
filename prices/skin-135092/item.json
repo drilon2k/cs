@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Dual Berettas | Heist (Factory New)",
+    "price": 0.29,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Dual Berettas | Heist",
+    "id": "skin-135092"
+  },
+  {
+    "name": "Dual Berettas | Heist (Minimal Wear)",
+    "price": 0.22,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Dual Berettas | Heist",
+    "id": "skin-135092"
+  },
+  {
+    "name": "Dual Berettas | Heist (Field-Tested)",
+    "price": 0.16,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Dual Berettas | Heist",
+    "id": "skin-135092"
+  },
+  {
+    "name": "Dual Berettas | Heist (Well-Worn)",
+    "price": 0.36,
+    "wear": "Well-Worn",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Dual Berettas | Heist",
+    "id": "skin-135092"
+  },
+  {
+    "name": "Dual Berettas | Heist (Battle-Scarred)",
+    "price": 0.16,
+    "wear": "Battle-Scarred",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Dual Berettas | Heist",
+    "id": "skin-135092"
+  }
+]

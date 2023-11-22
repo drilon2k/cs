@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Dual Berettas | Briar (Minimal Wear)",
+    "price": 1.7,
+    "wear": "Minimal Wear",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Dual Berettas | Briar",
+    "id": "skin-132392"
+  },
+  {
+    "name": "Dual Berettas | Briar (Field-Tested)",
+    "price": 1.49,
+    "wear": "Field-Tested",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Dual Berettas | Briar",
+    "id": "skin-132392"
+  },
+  {
+    "name": "Dual Berettas | Briar (Factory New)",
+    "price": 2.97,
+    "wear": "Factory New",
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "Dual Berettas | Briar",
+    "id": "skin-132392"
+  }
+]
