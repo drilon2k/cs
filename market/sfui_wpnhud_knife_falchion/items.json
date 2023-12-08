@@ -1,0 +1,30 @@
+[
+  {
+    "id": "skin-vanilla-weapon_knife_falchion",
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapons/base_weapons/weapon_knife_falchion.adcc43a018fd4fe315dbdbc7960cfc52c5d63e3e.png",
+    "case_id": "crate-4091",
+    "weapon_id": "sfui_wpnhud_knife_falchion",
+    "min_wear": null,
+    "max_wear": null,
+    "wear": null,
+    "name": "★ StatTrak™ Falchion Knife",
+    "price": 170.83,
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Falchion Knife"
+  },
+  {
+    "id": "skin-vanilla-weapon_knife_falchion",
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapons/base_weapons/weapon_knife_falchion.adcc43a018fd4fe315dbdbc7960cfc52c5d63e3e.png",
+    "case_id": "crate-4091",
+    "weapon_id": "sfui_wpnhud_knife_falchion",
+    "min_wear": null,
+    "max_wear": null,
+    "wear": null,
+    "name": "★ Falchion Knife",
+    "price": 148.29,
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Falchion Knife"
+  }
+]

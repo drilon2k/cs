@@ -1,0 +1,30 @@
+[
+  {
+    "id": "skin-vanilla-weapon_knife_css",
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapons/base_weapons/weapon_knife_css.0b33071c28c02e6f19e363dc9a838566c6557389.png",
+    "case_id": "crate-4669",
+    "weapon_id": "sfui_wpnhud_knife_css",
+    "min_wear": null,
+    "max_wear": null,
+    "wear": null,
+    "name": "★ StatTrak™ Classic Knife",
+    "price": 317.13,
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Classic Knife"
+  },
+  {
+    "id": "skin-vanilla-weapon_knife_css",
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapons/base_weapons/weapon_knife_css.0b33071c28c02e6f19e363dc9a838566c6557389.png",
+    "case_id": "crate-4669",
+    "weapon_id": "sfui_wpnhud_knife_css",
+    "min_wear": null,
+    "max_wear": null,
+    "wear": null,
+    "name": "★ Classic Knife",
+    "price": 282.49,
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Classic Knife"
+  }
+]

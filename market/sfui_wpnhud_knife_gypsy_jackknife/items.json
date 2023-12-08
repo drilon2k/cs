@@ -1,0 +1,30 @@
+[
+  {
+    "id": "skin-vanilla-weapon_knife_gypsy_jackknife",
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapons/base_weapons/weapon_knife_gypsy_jackknife.1a7e57791fa9383cce67d5915ffc442c7de2694a.png",
+    "case_id": "crate-4482",
+    "weapon_id": "sfui_wpnhud_knife_gypsy_jackknife",
+    "min_wear": null,
+    "max_wear": null,
+    "wear": null,
+    "name": "★ Navaja Knife",
+    "price": 103.27,
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Navaja Knife"
+  },
+  {
+    "id": "skin-vanilla-weapon_knife_gypsy_jackknife",
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapons/base_weapons/weapon_knife_gypsy_jackknife.1a7e57791fa9383cce67d5915ffc442c7de2694a.png",
+    "case_id": "crate-4482",
+    "weapon_id": "sfui_wpnhud_knife_gypsy_jackknife",
+    "min_wear": null,
+    "max_wear": null,
+    "wear": null,
+    "name": "★ StatTrak™ Navaja Knife",
+    "price": 97.76,
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Navaja Knife"
+  }
+]

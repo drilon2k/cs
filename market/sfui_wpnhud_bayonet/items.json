@@ -1,0 +1,30 @@
+[
+  {
+    "id": "skin-vanilla-weapon_bayonet",
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapons/base_weapons/weapon_bayonet.515de291204d6d896724d9fbb6856fcc6054a787.png",
+    "case_id": "crate-4001",
+    "weapon_id": "sfui_wpnhud_bayonet",
+    "min_wear": null,
+    "max_wear": null,
+    "wear": null,
+    "name": "★ StatTrak™ Bayonet",
+    "price": 441.23,
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Bayonet"
+  },
+  {
+    "id": "skin-vanilla-weapon_bayonet",
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapons/base_weapons/weapon_bayonet.515de291204d6d896724d9fbb6856fcc6054a787.png",
+    "case_id": "crate-4001",
+    "weapon_id": "sfui_wpnhud_bayonet",
+    "min_wear": null,
+    "max_wear": null,
+    "wear": null,
+    "name": "★ Bayonet",
+    "price": 433.64,
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Bayonet"
+  }
+]

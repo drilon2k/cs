@@ -1,0 +1,30 @@
+[
+  {
+    "id": "skin-vanilla-weapon_knife_skeleton",
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapons/base_weapons/weapon_knife_skeleton.1fc401a844008bcaa89f8381cbe7b550a051609d.png",
+    "case_id": "crate-4620",
+    "weapon_id": "sfui_wpnhud_knife_skeleton",
+    "min_wear": null,
+    "max_wear": null,
+    "wear": null,
+    "name": "★ Skeleton Knife",
+    "price": 634.26,
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Skeleton Knife"
+  },
+  {
+    "id": "skin-vanilla-weapon_knife_skeleton",
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapons/base_weapons/weapon_knife_skeleton.1fc401a844008bcaa89f8381cbe7b550a051609d.png",
+    "case_id": "crate-4620",
+    "weapon_id": "sfui_wpnhud_knife_skeleton",
+    "min_wear": null,
+    "max_wear": null,
+    "wear": null,
+    "name": "★ StatTrak™ Skeleton Knife",
+    "price": 638.4,
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Skeleton Knife"
+  }
+]

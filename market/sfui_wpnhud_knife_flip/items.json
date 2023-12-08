@@ -1,0 +1,30 @@
+[
+  {
+    "id": "skin-vanilla-weapon_knife_flip",
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapons/base_weapons/weapon_knife_flip.ebfc00735792b1e2947b30a321a07215dae8ceed.png",
+    "case_id": "crate-4001",
+    "weapon_id": "sfui_wpnhud_knife_flip",
+    "min_wear": null,
+    "max_wear": null,
+    "wear": null,
+    "name": "★ Flip Knife",
+    "price": 316.72,
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Flip Knife"
+  },
+  {
+    "id": "skin-vanilla-weapon_knife_flip",
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapons/base_weapons/weapon_knife_flip.ebfc00735792b1e2947b30a321a07215dae8ceed.png",
+    "case_id": "crate-4001",
+    "weapon_id": "sfui_wpnhud_knife_flip",
+    "min_wear": null,
+    "max_wear": null,
+    "wear": null,
+    "name": "★ StatTrak™ Flip Knife",
+    "price": 283.9,
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Flip Knife"
+  }
+]
