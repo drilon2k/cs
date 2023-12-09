@@ -11,7 +11,9 @@
     "price": 0.61,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | High Seas"
+    "item_name": "G3SG1 | High Seas",
+    "rarity": "Restricted",
+    "paint_index": "712"
   },
   {
     "id": "skin-723744",
@@ -25,7 +27,9 @@
     "price": 0.96,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | High Seas"
+    "item_name": "G3SG1 | High Seas",
+    "rarity": "Restricted",
+    "paint_index": "712"
   },
   {
     "id": "skin-723744",
@@ -39,7 +43,9 @@
     "price": 2.13,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | High Seas"
+    "item_name": "G3SG1 | High Seas",
+    "rarity": "Restricted",
+    "paint_index": "712"
   },
   {
     "id": "skin-723744",
@@ -53,7 +59,9 @@
     "price": 2.99,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "G3SG1 | High Seas"
+    "item_name": "G3SG1 | High Seas",
+    "rarity": "Restricted",
+    "paint_index": "712"
   },
   {
     "id": "skin-723744",
@@ -67,7 +75,9 @@
     "price": 0.36,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | High Seas"
+    "item_name": "G3SG1 | High Seas",
+    "rarity": "Restricted",
+    "paint_index": "712"
   },
   {
     "id": "skin-723744",
@@ -81,7 +91,9 @@
     "price": 1.01,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "G3SG1 | High Seas"
+    "item_name": "G3SG1 | High Seas",
+    "rarity": "Restricted",
+    "paint_index": "712"
   },
   {
     "id": "skin-723744",
@@ -95,7 +107,9 @@
     "price": 0.94,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "G3SG1 | High Seas"
+    "item_name": "G3SG1 | High Seas",
+    "rarity": "Restricted",
+    "paint_index": "712"
   },
   {
     "id": "skin-723744",
@@ -109,7 +123,9 @@
     "price": 0.5,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | High Seas"
+    "item_name": "G3SG1 | High Seas",
+    "rarity": "Restricted",
+    "paint_index": "712"
   },
   {
     "id": "skin-723744",
@@ -123,7 +139,9 @@
     "price": 2.45,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "G3SG1 | High Seas"
+    "item_name": "G3SG1 | High Seas",
+    "rarity": "Restricted",
+    "paint_index": "712"
   },
   {
     "id": "skin-723744",
@@ -137,7 +155,9 @@
     "price": 5.02,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "G3SG1 | High Seas"
+    "item_name": "G3SG1 | High Seas",
+    "rarity": "Restricted",
+    "paint_index": "712"
   },
   {
     "id": "skin-720920",
@@ -151,7 +171,9 @@
     "price": 67.19,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | Arctic Camo"
+    "item_name": "G3SG1 | Arctic Camo",
+    "rarity": "Industrial Grade",
+    "paint_index": "6"
   },
   {
     "id": "skin-720920",
@@ -165,7 +187,9 @@
     "price": 7.13,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | Arctic Camo"
+    "item_name": "G3SG1 | Arctic Camo",
+    "rarity": "Industrial Grade",
+    "paint_index": "6"
   },
   {
     "id": "skin-720920",
@@ -179,7 +203,9 @@
     "price": 4.11,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | Arctic Camo"
+    "item_name": "G3SG1 | Arctic Camo",
+    "rarity": "Industrial Grade",
+    "paint_index": "6"
   },
   {
     "id": "skin-720920",
@@ -193,7 +219,9 @@
     "price": 4.98,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | Arctic Camo"
+    "item_name": "G3SG1 | Arctic Camo",
+    "rarity": "Industrial Grade",
+    "paint_index": "6"
   },
   {
     "id": "skin-720920",
@@ -207,7 +235,9 @@
     "price": 8.15,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | Arctic Camo"
+    "item_name": "G3SG1 | Arctic Camo",
+    "rarity": "Industrial Grade",
+    "paint_index": "6"
   },
   {
     "id": "skin-723408",
@@ -221,7 +251,9 @@
     "price": 0.44,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | Stinger"
+    "item_name": "G3SG1 | Stinger",
+    "rarity": "Restricted",
+    "paint_index": "628"
   },
   {
     "id": "skin-723408",
@@ -235,7 +267,9 @@
     "price": 0.23,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | Stinger"
+    "item_name": "G3SG1 | Stinger",
+    "rarity": "Restricted",
+    "paint_index": "628"
   },
   {
     "id": "skin-723408",
@@ -249,7 +283,9 @@
     "price": 0.4,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | Stinger"
+    "item_name": "G3SG1 | Stinger",
+    "rarity": "Restricted",
+    "paint_index": "628"
   },
   {
     "id": "skin-723408",
@@ -263,7 +299,9 @@
     "price": 2.47,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "G3SG1 | Stinger"
+    "item_name": "G3SG1 | Stinger",
+    "rarity": "Restricted",
+    "paint_index": "628"
   },
   {
     "id": "skin-723408",
@@ -277,7 +315,9 @@
     "price": 0.74,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "G3SG1 | Stinger"
+    "item_name": "G3SG1 | Stinger",
+    "rarity": "Restricted",
+    "paint_index": "628"
   },
   {
     "id": "skin-723408",
@@ -291,7 +331,9 @@
     "price": 1.04,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "G3SG1 | Stinger"
+    "item_name": "G3SG1 | Stinger",
+    "rarity": "Restricted",
+    "paint_index": "628"
   },
   {
     "id": "skin-723408",
@@ -305,7 +347,9 @@
     "price": 0.22,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | Stinger"
+    "item_name": "G3SG1 | Stinger",
+    "rarity": "Restricted",
+    "paint_index": "628"
   },
   {
     "id": "skin-723408",
@@ -319,7 +363,9 @@
     "price": 0.54,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "G3SG1 | Stinger"
+    "item_name": "G3SG1 | Stinger",
+    "rarity": "Restricted",
+    "paint_index": "628"
   },
   {
     "id": "skin-723408",
@@ -333,7 +379,9 @@
     "price": 0.81,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | Stinger"
+    "item_name": "G3SG1 | Stinger",
+    "rarity": "Restricted",
+    "paint_index": "628"
   },
   {
     "id": "skin-723408",
@@ -347,7 +395,9 @@
     "price": 0.51,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "G3SG1 | Stinger"
+    "item_name": "G3SG1 | Stinger",
+    "rarity": "Restricted",
+    "paint_index": "628"
   },
   {
     "id": "skin-723852",
@@ -361,7 +411,9 @@
     "price": 20.22,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | Violet Murano"
+    "item_name": "G3SG1 | Violet Murano",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "739"
   },
   {
     "id": "skin-723852",
@@ -375,7 +427,9 @@
     "price": 20.23,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | Violet Murano"
+    "item_name": "G3SG1 | Violet Murano",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "739"
   },
   {
     "id": "skin-723852",
@@ -389,7 +443,9 @@
     "price": 30.1,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | Violet Murano"
+    "item_name": "G3SG1 | Violet Murano",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "739"
   },
   {
     "id": "skin-723852",
@@ -403,7 +459,9 @@
     "price": 21.09,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | Violet Murano"
+    "item_name": "G3SG1 | Violet Murano",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "739"
   },
   {
     "id": "skin-723852",
@@ -417,7 +475,9 @@
     "price": 40.87,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | Violet Murano"
+    "item_name": "G3SG1 | Violet Murano",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "739"
   },
   {
     "id": "skin-722868",
@@ -431,7 +491,9 @@
     "price": 12.33,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "G3SG1 | Flux"
+    "item_name": "G3SG1 | Flux",
+    "rarity": "Classified",
+    "paint_index": "493"
   },
   {
     "id": "skin-722868",
@@ -445,7 +507,9 @@
     "price": 8.46,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | Flux"
+    "item_name": "G3SG1 | Flux",
+    "rarity": "Classified",
+    "paint_index": "493"
   },
   {
     "id": "skin-722868",
@@ -459,7 +523,9 @@
     "price": 16.94,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | Flux"
+    "item_name": "G3SG1 | Flux",
+    "rarity": "Classified",
+    "paint_index": "493"
   },
   {
     "id": "skin-722868",
@@ -473,7 +539,9 @@
     "price": 5,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | Flux"
+    "item_name": "G3SG1 | Flux",
+    "rarity": "Classified",
+    "paint_index": "493"
   },
   {
     "id": "skin-722868",
@@ -487,7 +555,9 @@
     "price": 5.27,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | Flux"
+    "item_name": "G3SG1 | Flux",
+    "rarity": "Classified",
+    "paint_index": "493"
   },
   {
     "id": "skin-722868",
@@ -501,7 +571,9 @@
     "price": 10.22,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "G3SG1 | Flux"
+    "item_name": "G3SG1 | Flux",
+    "rarity": "Classified",
+    "paint_index": "493"
   },
   {
     "id": "skin-722868",
@@ -515,7 +587,9 @@
     "price": 10.9,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "G3SG1 | Flux"
+    "item_name": "G3SG1 | Flux",
+    "rarity": "Classified",
+    "paint_index": "493"
   },
   {
     "id": "skin-722868",
@@ -529,7 +603,9 @@
     "price": 45.79,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "G3SG1 | Flux"
+    "item_name": "G3SG1 | Flux",
+    "rarity": "Classified",
+    "paint_index": "493"
   },
   {
     "id": "skin-722868",
@@ -543,7 +619,9 @@
     "price": 27.41,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "G3SG1 | Flux"
+    "item_name": "G3SG1 | Flux",
+    "rarity": "Classified",
+    "paint_index": "493"
   },
   {
     "id": "skin-722868",
@@ -557,7 +635,9 @@
     "price": 4.04,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | Flux"
+    "item_name": "G3SG1 | Flux",
+    "rarity": "Classified",
+    "paint_index": "493"
   },
   {
     "id": "skin-723076",
@@ -571,7 +651,9 @@
     "price": 0.78,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "G3SG1 | Orange Crash"
+    "item_name": "G3SG1 | Orange Crash",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "545"
   },
   {
     "id": "skin-723076",
@@ -585,7 +667,9 @@
     "price": 0.12,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "G3SG1 | Orange Crash"
+    "item_name": "G3SG1 | Orange Crash",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "545"
   },
   {
     "id": "skin-723076",
@@ -599,7 +683,9 @@
     "price": 0.13,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "G3SG1 | Orange Crash"
+    "item_name": "G3SG1 | Orange Crash",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "545"
   },
   {
     "id": "skin-723076",
@@ -613,7 +699,9 @@
     "price": 0.12,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "G3SG1 | Orange Crash"
+    "item_name": "G3SG1 | Orange Crash",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "545"
   },
   {
     "id": "skin-723076",
@@ -627,7 +715,9 @@
     "price": 0.09,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | Orange Crash"
+    "item_name": "G3SG1 | Orange Crash",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "545"
   },
   {
     "id": "skin-723076",
@@ -641,7 +731,9 @@
     "price": 0.34,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "G3SG1 | Orange Crash"
+    "item_name": "G3SG1 | Orange Crash",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "545"
   },
   {
     "id": "skin-723076",
@@ -655,7 +747,9 @@
     "price": 0.19,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | Orange Crash"
+    "item_name": "G3SG1 | Orange Crash",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "545"
   },
   {
     "id": "skin-723076",
@@ -669,7 +763,9 @@
     "price": 0.04,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | Orange Crash"
+    "item_name": "G3SG1 | Orange Crash",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "545"
   },
   {
     "id": "skin-723076",
@@ -683,7 +779,9 @@
     "price": 0.04,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | Orange Crash"
+    "item_name": "G3SG1 | Orange Crash",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "545"
   },
   {
     "id": "skin-723076",
@@ -697,7 +795,9 @@
     "price": 0.05,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | Orange Crash"
+    "item_name": "G3SG1 | Orange Crash",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "545"
   },
   {
     "id": "skin-725412",
@@ -711,7 +811,9 @@
     "price": 2.4,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "G3SG1 | Dream Glade"
+    "item_name": "G3SG1 | Dream Glade",
+    "rarity": "Restricted",
+    "paint_index": "1129"
   },
   {
     "id": "skin-725412",
@@ -725,7 +827,9 @@
     "price": 0.8,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "G3SG1 | Dream Glade"
+    "item_name": "G3SG1 | Dream Glade",
+    "rarity": "Restricted",
+    "paint_index": "1129"
   },
   {
     "id": "skin-725412",
@@ -739,7 +843,9 @@
     "price": 0.28,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "G3SG1 | Dream Glade"
+    "item_name": "G3SG1 | Dream Glade",
+    "rarity": "Restricted",
+    "paint_index": "1129"
   },
   {
     "id": "skin-725412",
@@ -753,7 +859,9 @@
     "price": 0.15,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | Dream Glade"
+    "item_name": "G3SG1 | Dream Glade",
+    "rarity": "Restricted",
+    "paint_index": "1129"
   },
   {
     "id": "skin-725412",
@@ -767,7 +875,9 @@
     "price": 0.19,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | Dream Glade"
+    "item_name": "G3SG1 | Dream Glade",
+    "rarity": "Restricted",
+    "paint_index": "1129"
   },
   {
     "id": "skin-725412",
@@ -781,7 +891,9 @@
     "price": 0.16,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | Dream Glade"
+    "item_name": "G3SG1 | Dream Glade",
+    "rarity": "Restricted",
+    "paint_index": "1129"
   },
   {
     "id": "skin-725412",
@@ -795,7 +907,9 @@
     "price": 0.36,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | Dream Glade"
+    "item_name": "G3SG1 | Dream Glade",
+    "rarity": "Restricted",
+    "paint_index": "1129"
   },
   {
     "id": "skin-725412",
@@ -809,7 +923,9 @@
     "price": 0.91,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | Dream Glade"
+    "item_name": "G3SG1 | Dream Glade",
+    "rarity": "Restricted",
+    "paint_index": "1129"
   },
   {
     "id": "skin-725412",
@@ -823,7 +939,9 @@
     "price": 0.28,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "G3SG1 | Dream Glade"
+    "item_name": "G3SG1 | Dream Glade",
+    "rarity": "Restricted",
+    "paint_index": "1129"
   },
   {
     "id": "skin-725412",
@@ -837,7 +955,9 @@
     "price": 0.3,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "G3SG1 | Dream Glade"
+    "item_name": "G3SG1 | Dream Glade",
+    "rarity": "Restricted",
+    "paint_index": "1129"
   },
   {
     "id": "skin-723320",
@@ -851,7 +971,9 @@
     "price": 0.18,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | Ventilator"
+    "item_name": "G3SG1 | Ventilator",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "606"
   },
   {
     "id": "skin-723320",
@@ -865,7 +987,9 @@
     "price": 0.24,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "G3SG1 | Ventilator"
+    "item_name": "G3SG1 | Ventilator",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "606"
   },
   {
     "id": "skin-723320",
@@ -879,7 +1003,9 @@
     "price": 0.11,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "G3SG1 | Ventilator"
+    "item_name": "G3SG1 | Ventilator",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "606"
   },
   {
     "id": "skin-723320",
@@ -893,7 +1019,9 @@
     "price": 0.12,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "G3SG1 | Ventilator"
+    "item_name": "G3SG1 | Ventilator",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "606"
   },
   {
     "id": "skin-723320",
@@ -907,7 +1035,9 @@
     "price": 0.6,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | Ventilator"
+    "item_name": "G3SG1 | Ventilator",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "606"
   },
   {
     "id": "skin-723320",
@@ -921,7 +1051,9 @@
     "price": 0.66,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "G3SG1 | Ventilator"
+    "item_name": "G3SG1 | Ventilator",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "606"
   },
   {
     "id": "skin-723320",
@@ -935,7 +1067,9 @@
     "price": 0.09,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | Ventilator"
+    "item_name": "G3SG1 | Ventilator",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "606"
   },
   {
     "id": "skin-723320",
@@ -949,7 +1083,9 @@
     "price": 0.09,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | Ventilator"
+    "item_name": "G3SG1 | Ventilator",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "606"
   },
   {
     "id": "skin-724816",
@@ -963,7 +1099,9 @@
     "price": 0.8,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "G3SG1 | Digital Mesh"
+    "item_name": "G3SG1 | Digital Mesh",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "980"
   },
   {
     "id": "skin-724816",
@@ -977,7 +1115,9 @@
     "price": 0.69,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | Digital Mesh"
+    "item_name": "G3SG1 | Digital Mesh",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "980"
   },
   {
     "id": "skin-724816",
@@ -991,7 +1131,9 @@
     "price": 0.43,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | Digital Mesh"
+    "item_name": "G3SG1 | Digital Mesh",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "980"
   },
   {
     "id": "skin-724816",
@@ -1005,7 +1147,9 @@
     "price": 0.27,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "G3SG1 | Digital Mesh"
+    "item_name": "G3SG1 | Digital Mesh",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "980"
   },
   {
     "id": "skin-724816",
@@ -1019,7 +1163,9 @@
     "price": 1.9,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "G3SG1 | Digital Mesh"
+    "item_name": "G3SG1 | Digital Mesh",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "980"
   },
   {
     "id": "skin-724816",
@@ -1033,7 +1179,9 @@
     "price": 0.31,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "G3SG1 | Digital Mesh"
+    "item_name": "G3SG1 | Digital Mesh",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "980"
   },
   {
     "id": "skin-724816",
@@ -1047,7 +1195,9 @@
     "price": 0.45,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | Digital Mesh"
+    "item_name": "G3SG1 | Digital Mesh",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "980"
   },
   {
     "id": "skin-724816",
@@ -1061,7 +1211,9 @@
     "price": 0.36,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "G3SG1 | Digital Mesh"
+    "item_name": "G3SG1 | Digital Mesh",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "980"
   },
   {
     "id": "skin-724816",
@@ -1075,7 +1227,9 @@
     "price": 0.51,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | Digital Mesh"
+    "item_name": "G3SG1 | Digital Mesh",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "980"
   },
   {
     "id": "skin-724816",
@@ -1089,7 +1243,9 @@
     "price": 0.31,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | Digital Mesh"
+    "item_name": "G3SG1 | Digital Mesh",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "980"
   },
   {
     "id": "skin-722648",
@@ -1103,7 +1259,9 @@
     "price": 164.56,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | Chronos"
+    "item_name": "G3SG1 | Chronos",
+    "rarity": "Restricted",
+    "paint_index": "438"
   },
   {
     "id": "skin-722648",
@@ -1117,7 +1275,9 @@
     "price": 411.39,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | Chronos"
+    "item_name": "G3SG1 | Chronos",
+    "rarity": "Restricted",
+    "paint_index": "438"
   },
   {
     "id": "skin-722648",
@@ -1131,7 +1291,9 @@
     "price": 164.56,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | Chronos"
+    "item_name": "G3SG1 | Chronos",
+    "rarity": "Restricted",
+    "paint_index": "438"
   },
   {
     "id": "skin-722648",
@@ -1145,7 +1307,9 @@
     "price": 176.62,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | Chronos"
+    "item_name": "G3SG1 | Chronos",
+    "rarity": "Restricted",
+    "paint_index": "438"
   },
   {
     "id": "skin-722940",
@@ -1159,7 +1323,9 @@
     "price": 2.17,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "G3SG1 | The Executioner"
+    "item_name": "G3SG1 | The Executioner",
+    "rarity": "Classified",
+    "paint_index": "511"
   },
   {
     "id": "skin-722940",
@@ -1173,7 +1339,9 @@
     "price": 9.6,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | The Executioner"
+    "item_name": "G3SG1 | The Executioner",
+    "rarity": "Classified",
+    "paint_index": "511"
   },
   {
     "id": "skin-722940",
@@ -1187,7 +1355,9 @@
     "price": 0.86,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | The Executioner"
+    "item_name": "G3SG1 | The Executioner",
+    "rarity": "Classified",
+    "paint_index": "511"
   },
   {
     "id": "skin-722940",
@@ -1201,7 +1371,9 @@
     "price": 2.74,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "G3SG1 | The Executioner"
+    "item_name": "G3SG1 | The Executioner",
+    "rarity": "Classified",
+    "paint_index": "511"
   },
   {
     "id": "skin-722940",
@@ -1215,7 +1387,9 @@
     "price": 2.19,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "G3SG1 | The Executioner"
+    "item_name": "G3SG1 | The Executioner",
+    "rarity": "Classified",
+    "paint_index": "511"
   },
   {
     "id": "skin-722940",
@@ -1229,7 +1403,9 @@
     "price": 0.96,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | The Executioner"
+    "item_name": "G3SG1 | The Executioner",
+    "rarity": "Classified",
+    "paint_index": "511"
   },
   {
     "id": "skin-722940",
@@ -1243,7 +1419,9 @@
     "price": 0.97,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | The Executioner"
+    "item_name": "G3SG1 | The Executioner",
+    "rarity": "Classified",
+    "paint_index": "511"
   },
   {
     "id": "skin-722940",
@@ -1257,7 +1435,9 @@
     "price": 44.13,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "G3SG1 | The Executioner"
+    "item_name": "G3SG1 | The Executioner",
+    "rarity": "Classified",
+    "paint_index": "511"
   },
   {
     "id": "skin-721676",
@@ -1271,7 +1451,9 @@
     "price": 4.88,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | Demeter"
+    "item_name": "G3SG1 | Demeter",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "195"
   },
   {
     "id": "skin-721676",
@@ -1285,7 +1467,9 @@
     "price": 4.34,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "G3SG1 | Demeter"
+    "item_name": "G3SG1 | Demeter",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "195"
   },
   {
     "id": "skin-721676",
@@ -1299,7 +1483,9 @@
     "price": 5.04,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | Demeter"
+    "item_name": "G3SG1 | Demeter",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "195"
   },
   {
     "id": "skin-721676",
@@ -1313,7 +1499,9 @@
     "price": 6,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "G3SG1 | Demeter"
+    "item_name": "G3SG1 | Demeter",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "195"
   },
   {
     "id": "skin-721676",
@@ -1327,7 +1515,9 @@
     "price": 5.48,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "G3SG1 | Demeter"
+    "item_name": "G3SG1 | Demeter",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "195"
   },
   {
     "id": "skin-721676",
@@ -1341,7 +1531,9 @@
     "price": 4.76,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "G3SG1 | Demeter"
+    "item_name": "G3SG1 | Demeter",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "195"
   },
   {
     "id": "skin-721676",
@@ -1355,7 +1547,9 @@
     "price": 5.35,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | Demeter"
+    "item_name": "G3SG1 | Demeter",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "195"
   },
   {
     "id": "skin-721676",
@@ -1369,7 +1563,9 @@
     "price": 71.01,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "G3SG1 | Demeter"
+    "item_name": "G3SG1 | Demeter",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "195"
   },
   {
     "id": "skin-721676",
@@ -1383,7 +1579,9 @@
     "price": 4.64,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | Demeter"
+    "item_name": "G3SG1 | Demeter",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "195"
   },
   {
     "id": "skin-721676",
@@ -1397,7 +1595,9 @@
     "price": 13.71,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | Demeter"
+    "item_name": "G3SG1 | Demeter",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "195"
   },
   {
     "id": "skin-721080",
@@ -1411,7 +1611,9 @@
     "price": 1.44,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | Contractor"
+    "item_name": "G3SG1 | Contractor",
+    "rarity": "Consumer Grade",
+    "paint_index": "46"
   },
   {
     "id": "skin-721080",
@@ -1425,7 +1627,9 @@
     "price": 9.4,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | Contractor"
+    "item_name": "G3SG1 | Contractor",
+    "rarity": "Consumer Grade",
+    "paint_index": "46"
   },
   {
     "id": "skin-721080",
@@ -1439,7 +1643,9 @@
     "price": 1.3,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | Contractor"
+    "item_name": "G3SG1 | Contractor",
+    "rarity": "Consumer Grade",
+    "paint_index": "46"
   },
   {
     "id": "skin-721080",
@@ -1453,7 +1659,9 @@
     "price": 4.25,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | Contractor"
+    "item_name": "G3SG1 | Contractor",
+    "rarity": "Consumer Grade",
+    "paint_index": "46"
   },
   {
     "id": "skin-721080",
@@ -1467,7 +1675,9 @@
     "price": 2.26,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | Contractor"
+    "item_name": "G3SG1 | Contractor",
+    "rarity": "Consumer Grade",
+    "paint_index": "46"
   },
   {
     "id": "skin-721184",
@@ -1481,7 +1691,9 @@
     "price": 0.96,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | Safari Mesh"
+    "item_name": "G3SG1 | Safari Mesh",
+    "rarity": "Consumer Grade",
+    "paint_index": "72"
   },
   {
     "id": "skin-721184",
@@ -1495,7 +1707,9 @@
     "price": 1.01,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | Safari Mesh"
+    "item_name": "G3SG1 | Safari Mesh",
+    "rarity": "Consumer Grade",
+    "paint_index": "72"
   },
   {
     "id": "skin-721184",
@@ -1509,7 +1723,9 @@
     "price": 1.22,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | Safari Mesh"
+    "item_name": "G3SG1 | Safari Mesh",
+    "rarity": "Consumer Grade",
+    "paint_index": "72"
   },
   {
     "id": "skin-721184",
@@ -1523,7 +1739,9 @@
     "price": 1.37,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | Safari Mesh"
+    "item_name": "G3SG1 | Safari Mesh",
+    "rarity": "Consumer Grade",
+    "paint_index": "72"
   },
   {
     "id": "skin-721184",
@@ -1537,7 +1755,9 @@
     "price": 5.2,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | Safari Mesh"
+    "item_name": "G3SG1 | Safari Mesh",
+    "rarity": "Consumer Grade",
+    "paint_index": "72"
   },
   {
     "id": "skin-724120",
@@ -1551,7 +1771,9 @@
     "price": 0.89,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | Scavenger"
+    "item_name": "G3SG1 | Scavenger",
+    "rarity": "Restricted",
+    "paint_index": "806"
   },
   {
     "id": "skin-724120",
@@ -1565,7 +1787,9 @@
     "price": 1.29,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "G3SG1 | Scavenger"
+    "item_name": "G3SG1 | Scavenger",
+    "rarity": "Restricted",
+    "paint_index": "806"
   },
   {
     "id": "skin-724120",
@@ -1579,7 +1803,9 @@
     "price": 0.27,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | Scavenger"
+    "item_name": "G3SG1 | Scavenger",
+    "rarity": "Restricted",
+    "paint_index": "806"
   },
   {
     "id": "skin-724120",
@@ -1593,7 +1819,9 @@
     "price": 0.32,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | Scavenger"
+    "item_name": "G3SG1 | Scavenger",
+    "rarity": "Restricted",
+    "paint_index": "806"
   },
   {
     "id": "skin-724120",
@@ -1607,7 +1835,9 @@
     "price": 2.5,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "G3SG1 | Scavenger"
+    "item_name": "G3SG1 | Scavenger",
+    "rarity": "Restricted",
+    "paint_index": "806"
   },
   {
     "id": "skin-724120",
@@ -1621,7 +1851,9 @@
     "price": 0.68,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "G3SG1 | Scavenger"
+    "item_name": "G3SG1 | Scavenger",
+    "rarity": "Restricted",
+    "paint_index": "806"
   },
   {
     "id": "skin-724120",
@@ -1635,7 +1867,9 @@
     "price": 0.56,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "G3SG1 | Scavenger"
+    "item_name": "G3SG1 | Scavenger",
+    "rarity": "Restricted",
+    "paint_index": "806"
   },
   {
     "id": "skin-724120",
@@ -1649,7 +1883,9 @@
     "price": 0.52,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | Scavenger"
+    "item_name": "G3SG1 | Scavenger",
+    "rarity": "Restricted",
+    "paint_index": "806"
   },
   {
     "id": "skin-724120",
@@ -1663,7 +1899,9 @@
     "price": 0.61,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "G3SG1 | Scavenger"
+    "item_name": "G3SG1 | Scavenger",
+    "rarity": "Restricted",
+    "paint_index": "806"
   },
   {
     "id": "skin-724120",
@@ -1677,7 +1915,9 @@
     "price": 0.29,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | Scavenger"
+    "item_name": "G3SG1 | Scavenger",
+    "rarity": "Restricted",
+    "paint_index": "806"
   },
   {
     "id": "skin-721836",
@@ -1691,7 +1931,9 @@
     "price": 0.06,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | VariCamo"
+    "item_name": "G3SG1 | VariCamo",
+    "rarity": "Industrial Grade",
+    "paint_index": "235"
   },
   {
     "id": "skin-721836",
@@ -1705,7 +1947,9 @@
     "price": 0.13,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | VariCamo"
+    "item_name": "G3SG1 | VariCamo",
+    "rarity": "Industrial Grade",
+    "paint_index": "235"
   },
   {
     "id": "skin-721836",
@@ -1719,7 +1963,9 @@
     "price": 0.06,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | VariCamo"
+    "item_name": "G3SG1 | VariCamo",
+    "rarity": "Industrial Grade",
+    "paint_index": "235"
   },
   {
     "id": "skin-721836",
@@ -1733,7 +1979,9 @@
     "price": 0.06,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | VariCamo"
+    "item_name": "G3SG1 | VariCamo",
+    "rarity": "Industrial Grade",
+    "paint_index": "235"
   },
   {
     "id": "skin-721836",
@@ -1747,7 +1995,9 @@
     "price": 0.09,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | VariCamo"
+    "item_name": "G3SG1 | VariCamo",
+    "rarity": "Industrial Grade",
+    "paint_index": "235"
   },
   {
     "id": "skin-725032",
@@ -1761,7 +2011,9 @@
     "price": 2.25,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | Ancient Ritual"
+    "item_name": "G3SG1 | Ancient Ritual",
+    "rarity": "Industrial Grade",
+    "paint_index": "1034"
   },
   {
     "id": "skin-725032",
@@ -1775,7 +2027,9 @@
     "price": 2.48,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | Ancient Ritual"
+    "item_name": "G3SG1 | Ancient Ritual",
+    "rarity": "Industrial Grade",
+    "paint_index": "1034"
   },
   {
     "id": "skin-725032",
@@ -1789,7 +2043,9 @@
     "price": 2.7,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | Ancient Ritual"
+    "item_name": "G3SG1 | Ancient Ritual",
+    "rarity": "Industrial Grade",
+    "paint_index": "1034"
   },
   {
     "id": "skin-725032",
@@ -1803,7 +2059,9 @@
     "price": 1.89,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | Ancient Ritual"
+    "item_name": "G3SG1 | Ancient Ritual",
+    "rarity": "Industrial Grade",
+    "paint_index": "1034"
   },
   {
     "id": "skin-725032",
@@ -1817,7 +2075,9 @@
     "price": 1.91,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | Ancient Ritual"
+    "item_name": "G3SG1 | Ancient Ritual",
+    "rarity": "Industrial Grade",
+    "paint_index": "1034"
   },
   {
     "id": "skin-721812",
@@ -1831,7 +2091,9 @@
     "price": 4.3,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "G3SG1 | Azure Zebra"
+    "item_name": "G3SG1 | Azure Zebra",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "229"
   },
   {
     "id": "skin-721812",
@@ -1845,7 +2107,9 @@
     "price": 0.97,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | Azure Zebra"
+    "item_name": "G3SG1 | Azure Zebra",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "229"
   },
   {
     "id": "skin-721812",
@@ -1859,7 +2123,9 @@
     "price": 4.32,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "G3SG1 | Azure Zebra"
+    "item_name": "G3SG1 | Azure Zebra",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "229"
   },
   {
     "id": "skin-721812",
@@ -1873,7 +2139,9 @@
     "price": 3.45,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "G3SG1 | Azure Zebra"
+    "item_name": "G3SG1 | Azure Zebra",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "229"
   },
   {
     "id": "skin-721812",
@@ -1887,7 +2155,9 @@
     "price": 1.18,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | Azure Zebra"
+    "item_name": "G3SG1 | Azure Zebra",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "229"
   },
   {
     "id": "skin-721812",
@@ -1901,7 +2171,9 @@
     "price": 1.16,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | Azure Zebra"
+    "item_name": "G3SG1 | Azure Zebra",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "229"
   },
   {
     "id": "skin-724616",
@@ -1915,7 +2187,9 @@
     "price": 17.83,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | New Roots"
+    "item_name": "G3SG1 | New Roots",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "930"
   },
   {
     "id": "skin-724616",
@@ -1929,7 +2203,9 @@
     "price": 17.53,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | New Roots"
+    "item_name": "G3SG1 | New Roots",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "930"
   },
   {
     "id": "skin-724616",
@@ -1943,7 +2219,9 @@
     "price": 17.42,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | New Roots"
+    "item_name": "G3SG1 | New Roots",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "930"
   },
   {
     "id": "skin-724616",
@@ -1957,7 +2235,9 @@
     "price": 16.32,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | New Roots"
+    "item_name": "G3SG1 | New Roots",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "930"
   },
   {
     "id": "skin-724616",
@@ -1971,7 +2251,9 @@
     "price": 17.28,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | New Roots"
+    "item_name": "G3SG1 | New Roots",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "930"
   },
   {
     "id": "skin-725276",
@@ -1985,7 +2267,9 @@
     "price": 0.27,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | Keeping Tabs"
+    "item_name": "G3SG1 | Keeping Tabs",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1095"
   },
   {
     "id": "skin-725276",
@@ -1999,7 +2283,9 @@
     "price": 1.49,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "G3SG1 | Keeping Tabs"
+    "item_name": "G3SG1 | Keeping Tabs",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1095"
   },
   {
     "id": "skin-725276",
@@ -2013,7 +2299,9 @@
     "price": 0.23,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | Keeping Tabs"
+    "item_name": "G3SG1 | Keeping Tabs",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1095"
   },
   {
     "id": "skin-725276",
@@ -2027,7 +2315,9 @@
     "price": 0.39,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "G3SG1 | Keeping Tabs"
+    "item_name": "G3SG1 | Keeping Tabs",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1095"
   },
   {
     "id": "skin-725276",
@@ -2041,7 +2331,9 @@
     "price": 0.52,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "G3SG1 | Keeping Tabs"
+    "item_name": "G3SG1 | Keeping Tabs",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1095"
   },
   {
     "id": "skin-725276",
@@ -2055,7 +2347,9 @@
     "price": 0.29,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | Keeping Tabs"
+    "item_name": "G3SG1 | Keeping Tabs",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1095"
   },
   {
     "id": "skin-725276",
@@ -2069,7 +2363,9 @@
     "price": 0.55,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | Keeping Tabs"
+    "item_name": "G3SG1 | Keeping Tabs",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1095"
   },
   {
     "id": "skin-725276",
@@ -2083,7 +2379,9 @@
     "price": 2.19,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "G3SG1 | Keeping Tabs"
+    "item_name": "G3SG1 | Keeping Tabs",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1095"
   },
   {
     "id": "skin-725276",
@@ -2097,7 +2395,9 @@
     "price": 0.91,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | Keeping Tabs"
+    "item_name": "G3SG1 | Keeping Tabs",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1095"
   },
   {
     "id": "skin-725276",
@@ -2111,7 +2411,9 @@
     "price": 2.44,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "G3SG1 | Keeping Tabs"
+    "item_name": "G3SG1 | Keeping Tabs",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1095"
   },
   {
     "id": "skin-723604",
@@ -2125,7 +2427,9 @@
     "price": 0.13,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "G3SG1 | Hunter"
+    "item_name": "G3SG1 | Hunter",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "677"
   },
   {
     "id": "skin-723604",
@@ -2139,7 +2443,9 @@
     "price": 0.19,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | Hunter"
+    "item_name": "G3SG1 | Hunter",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "677"
   },
   {
     "id": "skin-723604",
@@ -2153,7 +2459,9 @@
     "price": 0.05,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | Hunter"
+    "item_name": "G3SG1 | Hunter",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "677"
   },
   {
     "id": "skin-723604",
@@ -2167,7 +2475,9 @@
     "price": 0.09,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | Hunter"
+    "item_name": "G3SG1 | Hunter",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "677"
   },
   {
     "id": "skin-723604",
@@ -2181,7 +2491,9 @@
     "price": 0.21,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "G3SG1 | Hunter"
+    "item_name": "G3SG1 | Hunter",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "677"
   },
   {
     "id": "skin-723604",
@@ -2195,7 +2507,9 @@
     "price": 0.04,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | Hunter"
+    "item_name": "G3SG1 | Hunter",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "677"
   },
   {
     "id": "skin-723604",
@@ -2209,7 +2523,9 @@
     "price": 0.1,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "G3SG1 | Hunter"
+    "item_name": "G3SG1 | Hunter",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "677"
   },
   {
     "id": "skin-723604",
@@ -2223,7 +2539,9 @@
     "price": 0.86,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "G3SG1 | Hunter"
+    "item_name": "G3SG1 | Hunter",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "677"
   },
   {
     "id": "skin-723604",
@@ -2237,7 +2555,9 @@
     "price": 0.08,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "G3SG1 | Hunter"
+    "item_name": "G3SG1 | Hunter",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "677"
   },
   {
     "id": "skin-723604",
@@ -2251,7 +2571,9 @@
     "price": 0.04,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | Hunter"
+    "item_name": "G3SG1 | Hunter",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "677"
   },
   {
     "id": "skin-722424",
@@ -2265,7 +2587,9 @@
     "price": 1.35,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "G3SG1 | Murky"
+    "item_name": "G3SG1 | Murky",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "382"
   },
   {
     "id": "skin-722424",
@@ -2279,7 +2603,9 @@
     "price": 0.51,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | Murky"
+    "item_name": "G3SG1 | Murky",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "382"
   },
   {
     "id": "skin-722424",
@@ -2293,7 +2619,9 @@
     "price": 1.78,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "G3SG1 | Murky"
+    "item_name": "G3SG1 | Murky",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "382"
   },
   {
     "id": "skin-722424",
@@ -2307,7 +2635,9 @@
     "price": 0.39,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | Murky"
+    "item_name": "G3SG1 | Murky",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "382"
   },
   {
     "id": "skin-722424",
@@ -2321,7 +2651,9 @@
     "price": 1.24,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "G3SG1 | Murky"
+    "item_name": "G3SG1 | Murky",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "382"
   },
   {
     "id": "skin-722424",
@@ -2335,7 +2667,9 @@
     "price": 0.34,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | Murky"
+    "item_name": "G3SG1 | Murky",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "382"
   },
   {
     "id": "skin-722072",
@@ -2349,7 +2683,9 @@
     "price": 0.14,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | Green Apple"
+    "item_name": "G3SG1 | Green Apple",
+    "rarity": "Industrial Grade",
+    "paint_index": "294"
   },
   {
     "id": "skin-722072",
@@ -2363,7 +2699,9 @@
     "price": 0.09,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | Green Apple"
+    "item_name": "G3SG1 | Green Apple",
+    "rarity": "Industrial Grade",
+    "paint_index": "294"
   },
   {
     "id": "skin-722072",
@@ -2377,7 +2715,9 @@
     "price": 0.07,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | Green Apple"
+    "item_name": "G3SG1 | Green Apple",
+    "rarity": "Industrial Grade",
+    "paint_index": "294"
   },
   {
     "id": "skin-721484",
@@ -2391,7 +2731,9 @@
     "price": 0.01,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | Jungle Dashed"
+    "item_name": "G3SG1 | Jungle Dashed",
+    "rarity": "Consumer Grade",
+    "paint_index": "147"
   },
   {
     "id": "skin-721484",
@@ -2405,7 +2747,9 @@
     "price": 0.01,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | Jungle Dashed"
+    "item_name": "G3SG1 | Jungle Dashed",
+    "rarity": "Consumer Grade",
+    "paint_index": "147"
   },
   {
     "id": "skin-721484",
@@ -2419,7 +2763,9 @@
     "price": 0.01,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | Jungle Dashed"
+    "item_name": "G3SG1 | Jungle Dashed",
+    "rarity": "Consumer Grade",
+    "paint_index": "147"
   },
   {
     "id": "skin-721484",
@@ -2433,7 +2779,9 @@
     "price": 0.01,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | Jungle Dashed"
+    "item_name": "G3SG1 | Jungle Dashed",
+    "rarity": "Consumer Grade",
+    "paint_index": "147"
   },
   {
     "id": "skin-721484",
@@ -2447,7 +2795,9 @@
     "price": 0.08,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | Jungle Dashed"
+    "item_name": "G3SG1 | Jungle Dashed",
+    "rarity": "Consumer Grade",
+    "paint_index": "147"
   },
   {
     "id": "skin-720928",
@@ -2461,7 +2811,9 @@
     "price": 0.01,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | Desert Storm"
+    "item_name": "G3SG1 | Desert Storm",
+    "rarity": "Consumer Grade",
+    "paint_index": "8"
   },
   {
     "id": "skin-720928",
@@ -2475,7 +2827,9 @@
     "price": 0.01,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | Desert Storm"
+    "item_name": "G3SG1 | Desert Storm",
+    "rarity": "Consumer Grade",
+    "paint_index": "8"
   },
   {
     "id": "skin-720928",
@@ -2489,7 +2843,9 @@
     "price": 0.01,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | Desert Storm"
+    "item_name": "G3SG1 | Desert Storm",
+    "rarity": "Consumer Grade",
+    "paint_index": "8"
   },
   {
     "id": "skin-720928",
@@ -2503,7 +2859,9 @@
     "price": 0.09,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | Desert Storm"
+    "item_name": "G3SG1 | Desert Storm",
+    "rarity": "Consumer Grade",
+    "paint_index": "8"
   },
   {
     "id": "skin-720928",
@@ -2517,7 +2875,9 @@
     "price": 0.01,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | Desert Storm"
+    "item_name": "G3SG1 | Desert Storm",
+    "rarity": "Consumer Grade",
+    "paint_index": "8"
   },
   {
     "id": "skin-722756",
@@ -2531,7 +2891,9 @@
     "price": 1.96,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | Orange Kimono"
+    "item_name": "G3SG1 | Orange Kimono",
+    "rarity": "Consumer Grade",
+    "paint_index": "465"
   },
   {
     "id": "skin-722756",
@@ -2545,7 +2907,9 @@
     "price": 1.56,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | Orange Kimono"
+    "item_name": "G3SG1 | Orange Kimono",
+    "rarity": "Consumer Grade",
+    "paint_index": "465"
   },
   {
     "id": "skin-722756",
@@ -2559,7 +2923,9 @@
     "price": 1.44,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | Orange Kimono"
+    "item_name": "G3SG1 | Orange Kimono",
+    "rarity": "Consumer Grade",
+    "paint_index": "465"
   },
   {
     "id": "skin-722756",
@@ -2573,7 +2939,9 @@
     "price": 2.75,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | Orange Kimono"
+    "item_name": "G3SG1 | Orange Kimono",
+    "rarity": "Consumer Grade",
+    "paint_index": "465"
   },
   {
     "id": "skin-722756",
@@ -2587,7 +2955,9 @@
     "price": 2.09,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | Orange Kimono"
+    "item_name": "G3SG1 | Orange Kimono",
+    "rarity": "Consumer Grade",
+    "paint_index": "465"
   },
   {
     "id": "skin-721192",
@@ -2601,7 +2971,9 @@
     "price": 0.02,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | Polar Camo"
+    "item_name": "G3SG1 | Polar Camo",
+    "rarity": "Consumer Grade",
+    "paint_index": "74"
   },
   {
     "id": "skin-721192",
@@ -2615,7 +2987,9 @@
     "price": 0.1,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | Polar Camo"
+    "item_name": "G3SG1 | Polar Camo",
+    "rarity": "Consumer Grade",
+    "paint_index": "74"
   },
   {
     "id": "skin-721192",
@@ -2629,7 +3003,9 @@
     "price": 0.02,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | Polar Camo"
+    "item_name": "G3SG1 | Polar Camo",
+    "rarity": "Consumer Grade",
+    "paint_index": "74"
   },
   {
     "id": "skin-721192",
@@ -2643,7 +3019,9 @@
     "price": 0.02,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | Polar Camo"
+    "item_name": "G3SG1 | Polar Camo",
+    "rarity": "Consumer Grade",
+    "paint_index": "74"
   },
   {
     "id": "skin-721192",
@@ -2657,7 +3035,9 @@
     "price": 0.02,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | Polar Camo"
+    "item_name": "G3SG1 | Polar Camo",
+    "rarity": "Consumer Grade",
+    "paint_index": "74"
   },
   {
     "id": "skin-724460",
@@ -2671,7 +3051,9 @@
     "price": 0.84,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | Black Sand"
+    "item_name": "G3SG1 | Black Sand",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "891"
   },
   {
     "id": "skin-724460",
@@ -2685,7 +3067,9 @@
     "price": 1.56,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "G3SG1 | Black Sand"
+    "item_name": "G3SG1 | Black Sand",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "891"
   },
   {
     "id": "skin-724460",
@@ -2699,7 +3083,9 @@
     "price": 1.08,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | Black Sand"
+    "item_name": "G3SG1 | Black Sand",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "891"
   },
   {
     "id": "skin-724460",
@@ -2713,7 +3099,9 @@
     "price": 1.11,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | Black Sand"
+    "item_name": "G3SG1 | Black Sand",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "891"
   },
   {
     "id": "skin-724460",
@@ -2727,7 +3115,9 @@
     "price": 1.12,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | Black Sand"
+    "item_name": "G3SG1 | Black Sand",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "891"
   },
   {
     "id": "skin-724460",
@@ -2741,7 +3131,9 @@
     "price": 0.7,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "G3SG1 | Black Sand"
+    "item_name": "G3SG1 | Black Sand",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "891"
   },
   {
     "id": "skin-724460",
@@ -2755,7 +3147,9 @@
     "price": 1.37,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "G3SG1 | Black Sand"
+    "item_name": "G3SG1 | Black Sand",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "891"
   },
   {
     "id": "skin-724460",
@@ -2769,7 +3163,9 @@
     "price": 0.87,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "G3SG1 | Black Sand"
+    "item_name": "G3SG1 | Black Sand",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "891"
   },
   {
     "id": "skin-724460",
@@ -2783,7 +3179,9 @@
     "price": 0.66,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "G3SG1 | Black Sand"
+    "item_name": "G3SG1 | Black Sand",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "891"
   },
   {
     "id": "skin-724460",
@@ -2797,6 +3195,8 @@
     "price": 2.73,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "G3SG1 | Black Sand"
+    "item_name": "G3SG1 | Black Sand",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "891"
   }
 ]

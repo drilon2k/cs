@@ -11,7 +11,9 @@
     "price": 317.13,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Classic Knife"
+    "item_name": "★ Classic Knife",
+    "rarity": "Covert",
+    "paint_index": null
   },
   {
     "id": "skin-vanilla-weapon_knife_css",
@@ -25,6 +27,8 @@
     "price": 282.49,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Classic Knife"
+    "item_name": "★ Classic Knife",
+    "rarity": "Covert",
+    "paint_index": null
   }
 ]

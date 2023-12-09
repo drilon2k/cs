@@ -11,7 +11,9 @@
     "price": 0.16,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP5-SD | Gauss"
+    "item_name": "MP5-SD | Gauss",
+    "rarity": "Restricted",
+    "paint_index": "846"
   },
   {
     "id": "skin-1510712",
@@ -25,7 +27,9 @@
     "price": 0.83,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP5-SD | Gauss"
+    "item_name": "MP5-SD | Gauss",
+    "rarity": "Restricted",
+    "paint_index": "846"
   },
   {
     "id": "skin-1510712",
@@ -39,7 +43,9 @@
     "price": 0.86,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP5-SD | Gauss"
+    "item_name": "MP5-SD | Gauss",
+    "rarity": "Restricted",
+    "paint_index": "846"
   },
   {
     "id": "skin-1510712",
@@ -53,7 +59,9 @@
     "price": 0.16,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP5-SD | Gauss"
+    "item_name": "MP5-SD | Gauss",
+    "rarity": "Restricted",
+    "paint_index": "846"
   },
   {
     "id": "skin-1510712",
@@ -67,7 +75,9 @@
     "price": 0.38,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP5-SD | Gauss"
+    "item_name": "MP5-SD | Gauss",
+    "rarity": "Restricted",
+    "paint_index": "846"
   },
   {
     "id": "skin-1510712",
@@ -81,7 +91,9 @@
     "price": 0.33,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP5-SD | Gauss"
+    "item_name": "MP5-SD | Gauss",
+    "rarity": "Restricted",
+    "paint_index": "846"
   },
   {
     "id": "skin-1510712",
@@ -95,7 +107,9 @@
     "price": 0.32,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP5-SD | Gauss"
+    "item_name": "MP5-SD | Gauss",
+    "rarity": "Restricted",
+    "paint_index": "846"
   },
   {
     "id": "skin-1510712",
@@ -109,7 +123,9 @@
     "price": 2.81,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP5-SD | Gauss"
+    "item_name": "MP5-SD | Gauss",
+    "rarity": "Restricted",
+    "paint_index": "846"
   },
   {
     "id": "skin-1510712",
@@ -123,7 +139,9 @@
     "price": 0.19,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP5-SD | Gauss"
+    "item_name": "MP5-SD | Gauss",
+    "rarity": "Restricted",
+    "paint_index": "846"
   },
   {
     "id": "skin-1510712",
@@ -137,7 +155,9 @@
     "price": 0.33,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP5-SD | Gauss"
+    "item_name": "MP5-SD | Gauss",
+    "rarity": "Restricted",
+    "paint_index": "846"
   },
   {
     "id": "skin-1511876",
@@ -151,7 +171,9 @@
     "price": 1.2,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP5-SD | Necro Jr."
+    "item_name": "MP5-SD | Necro Jr.",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1137"
   },
   {
     "id": "skin-1511876",
@@ -165,7 +187,9 @@
     "price": 0.17,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP5-SD | Necro Jr."
+    "item_name": "MP5-SD | Necro Jr.",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1137"
   },
   {
     "id": "skin-1511876",
@@ -179,7 +203,9 @@
     "price": 0.12,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP5-SD | Necro Jr."
+    "item_name": "MP5-SD | Necro Jr.",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1137"
   },
   {
     "id": "skin-1511876",
@@ -193,7 +219,9 @@
     "price": 0.05,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP5-SD | Necro Jr."
+    "item_name": "MP5-SD | Necro Jr.",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1137"
   },
   {
     "id": "skin-1511876",
@@ -207,7 +235,9 @@
     "price": 0.11,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP5-SD | Necro Jr."
+    "item_name": "MP5-SD | Necro Jr.",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1137"
   },
   {
     "id": "skin-1511876",
@@ -221,7 +251,9 @@
     "price": 0.05,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP5-SD | Necro Jr."
+    "item_name": "MP5-SD | Necro Jr.",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1137"
   },
   {
     "id": "skin-1511876",
@@ -235,7 +267,9 @@
     "price": 0.11,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP5-SD | Necro Jr."
+    "item_name": "MP5-SD | Necro Jr.",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1137"
   },
   {
     "id": "skin-1511876",
@@ -249,7 +283,9 @@
     "price": 0.21,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP5-SD | Necro Jr."
+    "item_name": "MP5-SD | Necro Jr.",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1137"
   },
   {
     "id": "skin-1511876",
@@ -263,7 +299,9 @@
     "price": 0.04,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP5-SD | Necro Jr."
+    "item_name": "MP5-SD | Necro Jr.",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1137"
   },
   {
     "id": "skin-1511876",
@@ -277,7 +315,9 @@
     "price": 0.34,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP5-SD | Necro Jr."
+    "item_name": "MP5-SD | Necro Jr.",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1137"
   },
   {
     "id": "skin-1510988",
@@ -291,7 +331,9 @@
     "price": 1.08,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP5-SD | Agent"
+    "item_name": "MP5-SD | Agent",
+    "rarity": "Restricted",
+    "paint_index": "915"
   },
   {
     "id": "skin-1510988",
@@ -305,7 +347,9 @@
     "price": 0.71,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP5-SD | Agent"
+    "item_name": "MP5-SD | Agent",
+    "rarity": "Restricted",
+    "paint_index": "915"
   },
   {
     "id": "skin-1510988",
@@ -319,7 +363,9 @@
     "price": 0.43,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP5-SD | Agent"
+    "item_name": "MP5-SD | Agent",
+    "rarity": "Restricted",
+    "paint_index": "915"
   },
   {
     "id": "skin-1510988",
@@ -333,7 +379,9 @@
     "price": 1.01,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP5-SD | Agent"
+    "item_name": "MP5-SD | Agent",
+    "rarity": "Restricted",
+    "paint_index": "915"
   },
   {
     "id": "skin-1510988",
@@ -347,7 +395,9 @@
     "price": 2.13,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP5-SD | Agent"
+    "item_name": "MP5-SD | Agent",
+    "rarity": "Restricted",
+    "paint_index": "915"
   },
   {
     "id": "skin-1510988",
@@ -361,7 +411,9 @@
     "price": 0.46,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP5-SD | Agent"
+    "item_name": "MP5-SD | Agent",
+    "rarity": "Restricted",
+    "paint_index": "915"
   },
   {
     "id": "skin-1510988",
@@ -375,7 +427,9 @@
     "price": 0.47,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP5-SD | Agent"
+    "item_name": "MP5-SD | Agent",
+    "rarity": "Restricted",
+    "paint_index": "915"
   },
   {
     "id": "skin-1510988",
@@ -389,7 +443,9 @@
     "price": 1.02,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP5-SD | Agent"
+    "item_name": "MP5-SD | Agent",
+    "rarity": "Restricted",
+    "paint_index": "915"
   },
   {
     "id": "skin-1510988",
@@ -403,7 +459,9 @@
     "price": 2.38,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP5-SD | Agent"
+    "item_name": "MP5-SD | Agent",
+    "rarity": "Restricted",
+    "paint_index": "915"
   },
   {
     "id": "skin-1510988",
@@ -417,7 +475,9 @@
     "price": 10.83,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP5-SD | Agent"
+    "item_name": "MP5-SD | Agent",
+    "rarity": "Restricted",
+    "paint_index": "915"
   },
   {
     "id": "skin-1510880",
@@ -431,7 +491,9 @@
     "price": 0.84,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP5-SD | Acid Wash"
+    "item_name": "MP5-SD | Acid Wash",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "888"
   },
   {
     "id": "skin-1510880",
@@ -445,7 +507,9 @@
     "price": 1.86,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP5-SD | Acid Wash"
+    "item_name": "MP5-SD | Acid Wash",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "888"
   },
   {
     "id": "skin-1510880",
@@ -459,7 +523,9 @@
     "price": 2.06,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP5-SD | Acid Wash"
+    "item_name": "MP5-SD | Acid Wash",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "888"
   },
   {
     "id": "skin-1510880",
@@ -473,7 +539,9 @@
     "price": 3.92,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP5-SD | Acid Wash"
+    "item_name": "MP5-SD | Acid Wash",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "888"
   },
   {
     "id": "skin-1510880",
@@ -487,7 +555,9 @@
     "price": 0.96,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP5-SD | Acid Wash"
+    "item_name": "MP5-SD | Acid Wash",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "888"
   },
   {
     "id": "skin-1510880",
@@ -501,7 +571,9 @@
     "price": 0.88,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP5-SD | Acid Wash"
+    "item_name": "MP5-SD | Acid Wash",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "888"
   },
   {
     "id": "skin-1510880",
@@ -515,7 +587,9 @@
     "price": 0.95,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP5-SD | Acid Wash"
+    "item_name": "MP5-SD | Acid Wash",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "888"
   },
   {
     "id": "skin-1510880",
@@ -529,7 +603,9 @@
     "price": 0.86,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP5-SD | Acid Wash"
+    "item_name": "MP5-SD | Acid Wash",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "888"
   },
   {
     "id": "skin-1510880",
@@ -543,7 +619,9 @@
     "price": 0.68,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP5-SD | Acid Wash"
+    "item_name": "MP5-SD | Acid Wash",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "888"
   },
   {
     "id": "skin-1510880",
@@ -557,7 +635,9 @@
     "price": 0.73,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP5-SD | Acid Wash"
+    "item_name": "MP5-SD | Acid Wash",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "888"
   },
   {
     "id": "skin-1511272",
@@ -571,7 +651,9 @@
     "price": 0.28,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP5-SD | Condition Zero"
+    "item_name": "MP5-SD | Condition Zero",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "986"
   },
   {
     "id": "skin-1511272",
@@ -585,7 +667,9 @@
     "price": 0.29,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP5-SD | Condition Zero"
+    "item_name": "MP5-SD | Condition Zero",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "986"
   },
   {
     "id": "skin-1511272",
@@ -599,7 +683,9 @@
     "price": 0.83,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP5-SD | Condition Zero"
+    "item_name": "MP5-SD | Condition Zero",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "986"
   },
   {
     "id": "skin-1511272",
@@ -613,7 +699,9 @@
     "price": 0.28,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP5-SD | Condition Zero"
+    "item_name": "MP5-SD | Condition Zero",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "986"
   },
   {
     "id": "skin-1511272",
@@ -627,7 +715,9 @@
     "price": 0.9,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP5-SD | Condition Zero"
+    "item_name": "MP5-SD | Condition Zero",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "986"
   },
   {
     "id": "skin-1511272",
@@ -641,7 +731,9 @@
     "price": 0.41,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP5-SD | Condition Zero"
+    "item_name": "MP5-SD | Condition Zero",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "986"
   },
   {
     "id": "skin-1511272",
@@ -655,7 +747,9 @@
     "price": 0.46,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP5-SD | Condition Zero"
+    "item_name": "MP5-SD | Condition Zero",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "986"
   },
   {
     "id": "skin-1511272",
@@ -669,7 +763,9 @@
     "price": 0.26,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP5-SD | Condition Zero"
+    "item_name": "MP5-SD | Condition Zero",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "986"
   },
   {
     "id": "skin-1511272",
@@ -683,7 +779,9 @@
     "price": 3.66,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP5-SD | Condition Zero"
+    "item_name": "MP5-SD | Condition Zero",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "986"
   },
   {
     "id": "skin-1511272",
@@ -697,7 +795,9 @@
     "price": 0.4,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP5-SD | Condition Zero"
+    "item_name": "MP5-SD | Condition Zero",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "986"
   },
   {
     "id": "skin-1512252",
@@ -711,7 +811,9 @@
     "price": 0.04,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP5-SD | Liquidation"
+    "item_name": "MP5-SD | Liquidation",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1231"
   },
   {
     "id": "skin-1512252",
@@ -725,7 +827,9 @@
     "price": 0.15,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP5-SD | Liquidation"
+    "item_name": "MP5-SD | Liquidation",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1231"
   },
   {
     "id": "skin-1512252",
@@ -739,7 +843,9 @@
     "price": 0.14,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP5-SD | Liquidation"
+    "item_name": "MP5-SD | Liquidation",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1231"
   },
   {
     "id": "skin-1512252",
@@ -753,7 +859,9 @@
     "price": 0.36,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP5-SD | Liquidation"
+    "item_name": "MP5-SD | Liquidation",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1231"
   },
   {
     "id": "skin-1512252",
@@ -767,7 +875,9 @@
     "price": 0.16,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP5-SD | Liquidation"
+    "item_name": "MP5-SD | Liquidation",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1231"
   },
   {
     "id": "skin-1512252",
@@ -781,7 +891,9 @@
     "price": 0.3,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP5-SD | Liquidation"
+    "item_name": "MP5-SD | Liquidation",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1231"
   },
   {
     "id": "skin-1512252",
@@ -795,7 +907,9 @@
     "price": 0.06,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP5-SD | Liquidation"
+    "item_name": "MP5-SD | Liquidation",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1231"
   },
   {
     "id": "skin-1512252",
@@ -809,7 +923,9 @@
     "price": 0.11,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP5-SD | Liquidation"
+    "item_name": "MP5-SD | Liquidation",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1231"
   },
   {
     "id": "skin-1512252",
@@ -823,7 +939,9 @@
     "price": 2.27,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP5-SD | Liquidation"
+    "item_name": "MP5-SD | Liquidation",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1231"
   },
   {
     "id": "skin-1512252",
@@ -837,7 +955,9 @@
     "price": 0.04,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP5-SD | Liquidation"
+    "item_name": "MP5-SD | Liquidation",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1231"
   },
   {
     "id": "skin-1510520",
@@ -851,7 +971,9 @@
     "price": 1.99,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP5-SD | Nitro"
+    "item_name": "MP5-SD | Nitro",
+    "rarity": "Industrial Grade",
+    "paint_index": "798"
   },
   {
     "id": "skin-1510520",
@@ -865,7 +987,9 @@
     "price": 2.04,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP5-SD | Nitro"
+    "item_name": "MP5-SD | Nitro",
+    "rarity": "Industrial Grade",
+    "paint_index": "798"
   },
   {
     "id": "skin-1510520",
@@ -879,7 +1003,9 @@
     "price": 2,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP5-SD | Nitro"
+    "item_name": "MP5-SD | Nitro",
+    "rarity": "Industrial Grade",
+    "paint_index": "798"
   },
   {
     "id": "skin-1510520",
@@ -893,7 +1019,9 @@
     "price": 8.2,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP5-SD | Nitro"
+    "item_name": "MP5-SD | Nitro",
+    "rarity": "Industrial Grade",
+    "paint_index": "798"
   },
   {
     "id": "skin-1510520",
@@ -907,7 +1035,9 @@
     "price": 2.09,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP5-SD | Nitro"
+    "item_name": "MP5-SD | Nitro",
+    "rarity": "Industrial Grade",
+    "paint_index": "798"
   },
   {
     "id": "skin-1510816",
@@ -921,7 +1051,9 @@
     "price": 1.64,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP5-SD | Bamboo Garden"
+    "item_name": "MP5-SD | Bamboo Garden",
+    "rarity": "Consumer Grade",
+    "paint_index": "872"
   },
   {
     "id": "skin-1510816",
@@ -935,7 +1067,9 @@
     "price": 2.01,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP5-SD | Bamboo Garden"
+    "item_name": "MP5-SD | Bamboo Garden",
+    "rarity": "Consumer Grade",
+    "paint_index": "872"
   },
   {
     "id": "skin-1510816",
@@ -949,7 +1083,9 @@
     "price": 1.77,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP5-SD | Bamboo Garden"
+    "item_name": "MP5-SD | Bamboo Garden",
+    "rarity": "Consumer Grade",
+    "paint_index": "872"
   },
   {
     "id": "skin-1510816",
@@ -963,7 +1099,9 @@
     "price": 1.88,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP5-SD | Bamboo Garden"
+    "item_name": "MP5-SD | Bamboo Garden",
+    "rarity": "Consumer Grade",
+    "paint_index": "872"
   },
   {
     "id": "skin-1510816",
@@ -977,7 +1115,9 @@
     "price": 2.19,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP5-SD | Bamboo Garden"
+    "item_name": "MP5-SD | Bamboo Garden",
+    "rarity": "Consumer Grade",
+    "paint_index": "872"
   },
   {
     "id": "skin-1510528",
@@ -991,7 +1131,9 @@
     "price": 0,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP5-SD | Lab Rats"
+    "item_name": "MP5-SD | Lab Rats",
+    "rarity": "Restricted",
+    "paint_index": "800"
   },
   {
     "id": "skin-1510528",
@@ -1005,7 +1147,9 @@
     "price": 0,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP5-SD | Lab Rats"
+    "item_name": "MP5-SD | Lab Rats",
+    "rarity": "Restricted",
+    "paint_index": "800"
   },
   {
     "id": "skin-1510528",
@@ -1019,7 +1163,9 @@
     "price": 0,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP5-SD | Lab Rats"
+    "item_name": "MP5-SD | Lab Rats",
+    "rarity": "Restricted",
+    "paint_index": "800"
   },
   {
     "id": "skin-1511224",
@@ -1033,7 +1179,9 @@
     "price": 0.97,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP5-SD | Kitbash"
+    "item_name": "MP5-SD | Kitbash",
+    "rarity": "Restricted",
+    "paint_index": "974"
   },
   {
     "id": "skin-1511224",
@@ -1047,7 +1195,9 @@
     "price": 0.44,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP5-SD | Kitbash"
+    "item_name": "MP5-SD | Kitbash",
+    "rarity": "Restricted",
+    "paint_index": "974"
   },
   {
     "id": "skin-1511224",
@@ -1061,7 +1211,9 @@
     "price": 1.23,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP5-SD | Kitbash"
+    "item_name": "MP5-SD | Kitbash",
+    "rarity": "Restricted",
+    "paint_index": "974"
   },
   {
     "id": "skin-1511224",
@@ -1075,7 +1227,9 @@
     "price": 2.73,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP5-SD | Kitbash"
+    "item_name": "MP5-SD | Kitbash",
+    "rarity": "Restricted",
+    "paint_index": "974"
   },
   {
     "id": "skin-1511224",
@@ -1089,7 +1243,9 @@
     "price": 0.27,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP5-SD | Kitbash"
+    "item_name": "MP5-SD | Kitbash",
+    "rarity": "Restricted",
+    "paint_index": "974"
   },
   {
     "id": "skin-1511224",
@@ -1103,7 +1259,9 @@
     "price": 0.73,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP5-SD | Kitbash"
+    "item_name": "MP5-SD | Kitbash",
+    "rarity": "Restricted",
+    "paint_index": "974"
   },
   {
     "id": "skin-1511224",
@@ -1117,7 +1275,9 @@
     "price": 0.49,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP5-SD | Kitbash"
+    "item_name": "MP5-SD | Kitbash",
+    "rarity": "Restricted",
+    "paint_index": "974"
   },
   {
     "id": "skin-1511224",
@@ -1131,7 +1291,9 @@
     "price": 0.52,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP5-SD | Kitbash"
+    "item_name": "MP5-SD | Kitbash",
+    "rarity": "Restricted",
+    "paint_index": "974"
   },
   {
     "id": "skin-1511224",
@@ -1145,7 +1307,9 @@
     "price": 0.23,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP5-SD | Kitbash"
+    "item_name": "MP5-SD | Kitbash",
+    "rarity": "Restricted",
+    "paint_index": "974"
   },
   {
     "id": "skin-1511224",
@@ -1159,7 +1323,9 @@
     "price": 0.25,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP5-SD | Kitbash"
+    "item_name": "MP5-SD | Kitbash",
+    "rarity": "Restricted",
+    "paint_index": "974"
   },
   {
     "id": "skin-1511124",
@@ -1173,7 +1339,9 @@
     "price": 0.04,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP5-SD | Desert Strike"
+    "item_name": "MP5-SD | Desert Strike",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "949"
   },
   {
     "id": "skin-1511124",
@@ -1187,7 +1355,9 @@
     "price": 0.31,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP5-SD | Desert Strike"
+    "item_name": "MP5-SD | Desert Strike",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "949"
   },
   {
     "id": "skin-1511124",
@@ -1201,7 +1371,9 @@
     "price": 0.04,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP5-SD | Desert Strike"
+    "item_name": "MP5-SD | Desert Strike",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "949"
   },
   {
     "id": "skin-1511124",
@@ -1215,7 +1387,9 @@
     "price": 0.09,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP5-SD | Desert Strike"
+    "item_name": "MP5-SD | Desert Strike",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "949"
   },
   {
     "id": "skin-1511124",
@@ -1229,7 +1403,9 @@
     "price": 0.09,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP5-SD | Desert Strike"
+    "item_name": "MP5-SD | Desert Strike",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "949"
   },
   {
     "id": "skin-1511124",
@@ -1243,7 +1419,9 @@
     "price": 0.23,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP5-SD | Desert Strike"
+    "item_name": "MP5-SD | Desert Strike",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "949"
   },
   {
     "id": "skin-1511124",
@@ -1257,7 +1435,9 @@
     "price": 0.04,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP5-SD | Desert Strike"
+    "item_name": "MP5-SD | Desert Strike",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "949"
   },
   {
     "id": "skin-1511124",
@@ -1271,7 +1451,9 @@
     "price": 0.09,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP5-SD | Desert Strike"
+    "item_name": "MP5-SD | Desert Strike",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "949"
   },
   {
     "id": "skin-1511124",
@@ -1285,7 +1467,9 @@
     "price": 1.47,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP5-SD | Desert Strike"
+    "item_name": "MP5-SD | Desert Strike",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "949"
   },
   {
     "id": "skin-1511124",
@@ -1299,7 +1483,9 @@
     "price": 0.08,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP5-SD | Desert Strike"
+    "item_name": "MP5-SD | Desert Strike",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "949"
   },
   {
     "id": "skin-1510340",
@@ -1313,7 +1499,9 @@
     "price": 0.01,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP5-SD | Dirt Drop"
+    "item_name": "MP5-SD | Dirt Drop",
+    "rarity": "Consumer Grade",
+    "paint_index": "753"
   },
   {
     "id": "skin-1510340",
@@ -1327,7 +1515,9 @@
     "price": 0.01,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP5-SD | Dirt Drop"
+    "item_name": "MP5-SD | Dirt Drop",
+    "rarity": "Consumer Grade",
+    "paint_index": "753"
   },
   {
     "id": "skin-1510340",
@@ -1341,7 +1531,9 @@
     "price": 0.01,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP5-SD | Dirt Drop"
+    "item_name": "MP5-SD | Dirt Drop",
+    "rarity": "Consumer Grade",
+    "paint_index": "753"
   },
   {
     "id": "skin-1510340",
@@ -1355,7 +1547,9 @@
     "price": 0.02,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP5-SD | Dirt Drop"
+    "item_name": "MP5-SD | Dirt Drop",
+    "rarity": "Consumer Grade",
+    "paint_index": "753"
   },
   {
     "id": "skin-1510340",
@@ -1369,7 +1563,9 @@
     "price": 0.06,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP5-SD | Dirt Drop"
+    "item_name": "MP5-SD | Dirt Drop",
+    "rarity": "Consumer Grade",
+    "paint_index": "753"
   },
   {
     "id": "skin-1510568",
@@ -1383,7 +1579,9 @@
     "price": 2.93,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP5-SD | Phosphor"
+    "item_name": "MP5-SD | Phosphor",
+    "rarity": "Classified",
+    "paint_index": "810"
   },
   {
     "id": "skin-1510568",
@@ -1397,7 +1595,9 @@
     "price": 5.47,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP5-SD | Phosphor"
+    "item_name": "MP5-SD | Phosphor",
+    "rarity": "Classified",
+    "paint_index": "810"
   },
   {
     "id": "skin-1510568",
@@ -1411,7 +1611,9 @@
     "price": 4.78,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP5-SD | Phosphor"
+    "item_name": "MP5-SD | Phosphor",
+    "rarity": "Classified",
+    "paint_index": "810"
   },
   {
     "id": "skin-1510568",
@@ -1425,7 +1627,9 @@
     "price": 8.91,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP5-SD | Phosphor"
+    "item_name": "MP5-SD | Phosphor",
+    "rarity": "Classified",
+    "paint_index": "810"
   },
   {
     "id": "skin-1510568",
@@ -1439,7 +1643,9 @@
     "price": 16.87,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP5-SD | Phosphor"
+    "item_name": "MP5-SD | Phosphor",
+    "rarity": "Classified",
+    "paint_index": "810"
   },
   {
     "id": "skin-1510568",
@@ -1453,7 +1659,9 @@
     "price": 6.73,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP5-SD | Phosphor"
+    "item_name": "MP5-SD | Phosphor",
+    "rarity": "Classified",
+    "paint_index": "810"
   },
   {
     "id": "skin-1510568",
@@ -1467,7 +1675,9 @@
     "price": 2.06,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP5-SD | Phosphor"
+    "item_name": "MP5-SD | Phosphor",
+    "rarity": "Classified",
+    "paint_index": "810"
   },
   {
     "id": "skin-1510568",
@@ -1481,7 +1691,9 @@
     "price": 3.67,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP5-SD | Phosphor"
+    "item_name": "MP5-SD | Phosphor",
+    "rarity": "Classified",
+    "paint_index": "810"
   },
   {
     "id": "skin-1510568",
@@ -1495,7 +1707,9 @@
     "price": 4.45,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP5-SD | Phosphor"
+    "item_name": "MP5-SD | Phosphor",
+    "rarity": "Classified",
+    "paint_index": "810"
   },
   {
     "id": "skin-1510568",
@@ -1509,7 +1723,9 @@
     "price": 2.15,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP5-SD | Phosphor"
+    "item_name": "MP5-SD | Phosphor",
+    "rarity": "Classified",
+    "paint_index": "810"
   },
   {
     "id": "skin-1510452",
@@ -1523,7 +1739,9 @@
     "price": 0.6,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP5-SD | Co-Processor"
+    "item_name": "MP5-SD | Co-Processor",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "781"
   },
   {
     "id": "skin-1510452",
@@ -1537,7 +1755,9 @@
     "price": 0.43,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP5-SD | Co-Processor"
+    "item_name": "MP5-SD | Co-Processor",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "781"
   },
   {
     "id": "skin-1510452",
@@ -1551,7 +1771,9 @@
     "price": 0.25,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP5-SD | Co-Processor"
+    "item_name": "MP5-SD | Co-Processor",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "781"
   },
   {
     "id": "skin-1510452",
@@ -1565,7 +1787,9 @@
     "price": 0.21,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP5-SD | Co-Processor"
+    "item_name": "MP5-SD | Co-Processor",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "781"
   },
   {
     "id": "skin-1510452",
@@ -1579,7 +1803,9 @@
     "price": 0.21,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP5-SD | Co-Processor"
+    "item_name": "MP5-SD | Co-Processor",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "781"
   },
   {
     "id": "skin-1511020",
@@ -1593,7 +1819,9 @@
     "price": 459.32,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP5-SD | Oxide Oasis"
+    "item_name": "MP5-SD | Oxide Oasis",
+    "rarity": "Classified",
+    "paint_index": "923"
   },
   {
     "id": "skin-1511020",
@@ -1607,7 +1835,9 @@
     "price": 281.12,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP5-SD | Oxide Oasis"
+    "item_name": "MP5-SD | Oxide Oasis",
+    "rarity": "Classified",
+    "paint_index": "923"
   },
   {
     "id": "skin-1511020",
@@ -1621,7 +1851,9 @@
     "price": 239.91,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP5-SD | Oxide Oasis"
+    "item_name": "MP5-SD | Oxide Oasis",
+    "rarity": "Classified",
+    "paint_index": "923"
   },
   {
     "id": "skin-1511020",
@@ -1635,7 +1867,9 @@
     "price": 342.83,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP5-SD | Oxide Oasis"
+    "item_name": "MP5-SD | Oxide Oasis",
+    "rarity": "Classified",
+    "paint_index": "923"
   },
   {
     "id": "skin-1511020",
@@ -1649,7 +1883,9 @@
     "price": 285.22,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP5-SD | Oxide Oasis"
+    "item_name": "MP5-SD | Oxide Oasis",
+    "rarity": "Classified",
+    "paint_index": "923"
   },
   {
     "id": "skin-1511572",
@@ -1663,7 +1899,9 @@
     "price": 3.3,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP5-SD | Autumn Twilly"
+    "item_name": "MP5-SD | Autumn Twilly",
+    "rarity": "Restricted",
+    "paint_index": "1061"
   },
   {
     "id": "skin-1511572",
@@ -1677,7 +1915,9 @@
     "price": 3.19,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP5-SD | Autumn Twilly"
+    "item_name": "MP5-SD | Autumn Twilly",
+    "rarity": "Restricted",
+    "paint_index": "1061"
   },
   {
     "id": "skin-1511572",
@@ -1691,7 +1931,9 @@
     "price": 5.3,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP5-SD | Autumn Twilly"
+    "item_name": "MP5-SD | Autumn Twilly",
+    "rarity": "Restricted",
+    "paint_index": "1061"
   },
   {
     "id": "skin-1511572",
@@ -1705,7 +1947,9 @@
     "price": 3.25,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP5-SD | Autumn Twilly"
+    "item_name": "MP5-SD | Autumn Twilly",
+    "rarity": "Restricted",
+    "paint_index": "1061"
   },
   {
     "id": "skin-1511572",
@@ -1719,6 +1963,8 @@
     "price": 2.62,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP5-SD | Autumn Twilly"
+    "item_name": "MP5-SD | Autumn Twilly",
+    "rarity": "Restricted",
+    "paint_index": "1061"
   }
 ]

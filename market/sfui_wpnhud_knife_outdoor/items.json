@@ -11,7 +11,9 @@
     "price": 372.29,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Nomad Knife"
+    "item_name": "★ Nomad Knife",
+    "rarity": "Covert",
+    "paint_index": null
   },
   {
     "id": "skin-vanilla-weapon_knife_outdoor",
@@ -25,6 +27,8 @@
     "price": 365.32,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Nomad Knife"
+    "item_name": "★ Nomad Knife",
+    "rarity": "Covert",
+    "paint_index": null
   }
 ]

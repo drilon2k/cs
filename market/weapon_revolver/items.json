@@ -11,7 +11,9 @@
     "price": 0.64,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "R8 Revolver | Memento"
+    "item_name": "R8 Revolver | Memento",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "892"
   },
   {
     "id": "skin-4197872",
@@ -25,7 +27,9 @@
     "price": 1.31,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "R8 Revolver | Memento"
+    "item_name": "R8 Revolver | Memento",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "892"
   },
   {
     "id": "skin-4197872",
@@ -39,7 +43,9 @@
     "price": 0.71,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "R8 Revolver | Memento"
+    "item_name": "R8 Revolver | Memento",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "892"
   },
   {
     "id": "skin-4197872",
@@ -53,7 +59,9 @@
     "price": 1.37,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "R8 Revolver | Memento"
+    "item_name": "R8 Revolver | Memento",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "892"
   },
   {
     "id": "skin-4197872",
@@ -67,7 +75,9 @@
     "price": 5.24,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "R8 Revolver | Memento"
+    "item_name": "R8 Revolver | Memento",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "892"
   },
   {
     "id": "skin-4197872",
@@ -81,7 +91,9 @@
     "price": 0.85,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "R8 Revolver | Memento"
+    "item_name": "R8 Revolver | Memento",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "892"
   },
   {
     "id": "skin-4197872",
@@ -95,7 +107,9 @@
     "price": 0.92,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "R8 Revolver | Memento"
+    "item_name": "R8 Revolver | Memento",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "892"
   },
   {
     "id": "skin-4197872",
@@ -109,7 +123,9 @@
     "price": 0.82,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "R8 Revolver | Memento"
+    "item_name": "R8 Revolver | Memento",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "892"
   },
   {
     "id": "skin-4197872",
@@ -123,7 +139,9 @@
     "price": 1.64,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "R8 Revolver | Memento"
+    "item_name": "R8 Revolver | Memento",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "892"
   },
   {
     "id": "skin-4197872",
@@ -137,7 +155,9 @@
     "price": 0.85,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "R8 Revolver | Memento"
+    "item_name": "R8 Revolver | Memento",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "892"
   },
   {
     "id": "skin-4197036",
@@ -151,7 +171,9 @@
     "price": 23.04,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "R8 Revolver | Llama Cannon"
+    "item_name": "R8 Revolver | Llama Cannon",
+    "rarity": "Classified",
+    "paint_index": "683"
   },
   {
     "id": "skin-4197036",
@@ -165,7 +187,9 @@
     "price": 1.4,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "R8 Revolver | Llama Cannon"
+    "item_name": "R8 Revolver | Llama Cannon",
+    "rarity": "Classified",
+    "paint_index": "683"
   },
   {
     "id": "skin-4197036",
@@ -179,7 +203,9 @@
     "price": 2.94,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "R8 Revolver | Llama Cannon"
+    "item_name": "R8 Revolver | Llama Cannon",
+    "rarity": "Classified",
+    "paint_index": "683"
   },
   {
     "id": "skin-4197036",
@@ -193,7 +219,9 @@
     "price": 4.88,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "R8 Revolver | Llama Cannon"
+    "item_name": "R8 Revolver | Llama Cannon",
+    "rarity": "Classified",
+    "paint_index": "683"
   },
   {
     "id": "skin-4197036",
@@ -207,7 +235,9 @@
     "price": 4.38,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "R8 Revolver | Llama Cannon"
+    "item_name": "R8 Revolver | Llama Cannon",
+    "rarity": "Classified",
+    "paint_index": "683"
   },
   {
     "id": "skin-4197036",
@@ -221,7 +251,9 @@
     "price": 3.15,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "R8 Revolver | Llama Cannon"
+    "item_name": "R8 Revolver | Llama Cannon",
+    "rarity": "Classified",
+    "paint_index": "683"
   },
   {
     "id": "skin-4197036",
@@ -235,7 +267,9 @@
     "price": 1.76,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "R8 Revolver | Llama Cannon"
+    "item_name": "R8 Revolver | Llama Cannon",
+    "rarity": "Classified",
+    "paint_index": "683"
   },
   {
     "id": "skin-4197036",
@@ -249,7 +283,9 @@
     "price": 1.73,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "R8 Revolver | Llama Cannon"
+    "item_name": "R8 Revolver | Llama Cannon",
+    "rarity": "Classified",
+    "paint_index": "683"
   },
   {
     "id": "skin-4197036",
@@ -263,7 +299,9 @@
     "price": 9.02,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "R8 Revolver | Llama Cannon"
+    "item_name": "R8 Revolver | Llama Cannon",
+    "rarity": "Classified",
+    "paint_index": "683"
   },
   {
     "id": "skin-4197036",
@@ -277,7 +315,9 @@
     "price": 9.3,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "R8 Revolver | Llama Cannon"
+    "item_name": "R8 Revolver | Llama Cannon",
+    "rarity": "Classified",
+    "paint_index": "683"
   },
   {
     "id": "skin-4194352",
@@ -291,7 +331,9 @@
     "price": 0.18,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "R8 Revolver | Crimson Web"
+    "item_name": "R8 Revolver | Crimson Web",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "12"
   },
   {
     "id": "skin-4194352",
@@ -305,7 +347,9 @@
     "price": 0.06,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "R8 Revolver | Crimson Web"
+    "item_name": "R8 Revolver | Crimson Web",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "12"
   },
   {
     "id": "skin-4194352",
@@ -319,7 +363,9 @@
     "price": 0.15,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "R8 Revolver | Crimson Web"
+    "item_name": "R8 Revolver | Crimson Web",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "12"
   },
   {
     "id": "skin-4194352",
@@ -333,7 +379,9 @@
     "price": 20.57,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "R8 Revolver | Crimson Web"
+    "item_name": "R8 Revolver | Crimson Web",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "12"
   },
   {
     "id": "skin-4194352",
@@ -347,7 +395,9 @@
     "price": 0.06,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "R8 Revolver | Crimson Web"
+    "item_name": "R8 Revolver | Crimson Web",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "12"
   },
   {
     "id": "skin-4194352",
@@ -361,7 +411,9 @@
     "price": 2.8,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "R8 Revolver | Crimson Web"
+    "item_name": "R8 Revolver | Crimson Web",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "12"
   },
   {
     "id": "skin-4194352",
@@ -375,7 +427,9 @@
     "price": 0.05,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "R8 Revolver | Crimson Web"
+    "item_name": "R8 Revolver | Crimson Web",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "12"
   },
   {
     "id": "skin-4194352",
@@ -389,7 +443,9 @@
     "price": 0.92,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "R8 Revolver | Crimson Web"
+    "item_name": "R8 Revolver | Crimson Web",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "12"
   },
   {
     "id": "skin-4194352",
@@ -403,7 +459,9 @@
     "price": 0.2,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "R8 Revolver | Crimson Web"
+    "item_name": "R8 Revolver | Crimson Web",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "12"
   },
   {
     "id": "skin-4194352",
@@ -417,7 +475,9 @@
     "price": 0.17,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "R8 Revolver | Crimson Web"
+    "item_name": "R8 Revolver | Crimson Web",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "12"
   },
   {
     "id": "skin-4196684",
@@ -431,7 +491,9 @@
     "price": 0.29,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "R8 Revolver | Reboot"
+    "item_name": "R8 Revolver | Reboot",
+    "rarity": "Restricted",
+    "paint_index": "595"
   },
   {
     "id": "skin-4196684",
@@ -445,7 +507,9 @@
     "price": 0.28,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "R8 Revolver | Reboot"
+    "item_name": "R8 Revolver | Reboot",
+    "rarity": "Restricted",
+    "paint_index": "595"
   },
   {
     "id": "skin-4196684",
@@ -459,7 +523,9 @@
     "price": 0.73,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "R8 Revolver | Reboot"
+    "item_name": "R8 Revolver | Reboot",
+    "rarity": "Restricted",
+    "paint_index": "595"
   },
   {
     "id": "skin-4196684",
@@ -473,7 +539,9 @@
     "price": 2.74,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "R8 Revolver | Reboot"
+    "item_name": "R8 Revolver | Reboot",
+    "rarity": "Restricted",
+    "paint_index": "595"
   },
   {
     "id": "skin-4196684",
@@ -487,7 +555,9 @@
     "price": 10.92,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "R8 Revolver | Reboot"
+    "item_name": "R8 Revolver | Reboot",
+    "rarity": "Restricted",
+    "paint_index": "595"
   },
   {
     "id": "skin-4196684",
@@ -501,7 +571,9 @@
     "price": 0.63,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "R8 Revolver | Reboot"
+    "item_name": "R8 Revolver | Reboot",
+    "rarity": "Restricted",
+    "paint_index": "595"
   },
   {
     "id": "skin-4196684",
@@ -515,7 +587,9 @@
     "price": 0.35,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "R8 Revolver | Reboot"
+    "item_name": "R8 Revolver | Reboot",
+    "rarity": "Restricted",
+    "paint_index": "595"
   },
   {
     "id": "skin-4196684",
@@ -529,7 +603,9 @@
     "price": 0.77,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "R8 Revolver | Reboot"
+    "item_name": "R8 Revolver | Reboot",
+    "rarity": "Restricted",
+    "paint_index": "595"
   },
   {
     "id": "skin-4196684",
@@ -543,7 +619,9 @@
     "price": 2.18,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "R8 Revolver | Reboot"
+    "item_name": "R8 Revolver | Reboot",
+    "rarity": "Restricted",
+    "paint_index": "595"
   },
   {
     "id": "skin-4196684",
@@ -557,7 +635,9 @@
     "price": 1.01,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "R8 Revolver | Reboot"
+    "item_name": "R8 Revolver | Reboot",
+    "rarity": "Restricted",
+    "paint_index": "595"
   },
   {
     "id": "skin-4196392",
@@ -571,7 +651,9 @@
     "price": 23.27,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "R8 Revolver | Fade"
+    "item_name": "R8 Revolver | Fade",
+    "rarity": "Covert",
+    "paint_index": "522"
   },
   {
     "id": "skin-4196392",
@@ -585,7 +667,9 @@
     "price": 29.66,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "R8 Revolver | Fade"
+    "item_name": "R8 Revolver | Fade",
+    "rarity": "Covert",
+    "paint_index": "522"
   },
   {
     "id": "skin-4196392",
@@ -599,7 +683,9 @@
     "price": 6.57,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "R8 Revolver | Fade"
+    "item_name": "R8 Revolver | Fade",
+    "rarity": "Covert",
+    "paint_index": "522"
   },
   {
     "id": "skin-4196392",
@@ -613,7 +699,9 @@
     "price": 6.58,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "R8 Revolver | Fade"
+    "item_name": "R8 Revolver | Fade",
+    "rarity": "Covert",
+    "paint_index": "522"
   },
   {
     "id": "skin-4196392",
@@ -627,7 +715,9 @@
     "price": 4.39,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "R8 Revolver | Fade"
+    "item_name": "R8 Revolver | Fade",
+    "rarity": "Covert",
+    "paint_index": "522"
   },
   {
     "id": "skin-4196392",
@@ -641,7 +731,9 @@
     "price": 54.85,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "R8 Revolver | Fade"
+    "item_name": "R8 Revolver | Fade",
+    "rarity": "Covert",
+    "paint_index": "522"
   },
   {
     "id": "skin-4196392",
@@ -655,7 +747,9 @@
     "price": 15.81,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "R8 Revolver | Fade"
+    "item_name": "R8 Revolver | Fade",
+    "rarity": "Covert",
+    "paint_index": "522"
   },
   {
     "id": "skin-4196392",
@@ -669,7 +763,9 @@
     "price": 13.58,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "R8 Revolver | Fade"
+    "item_name": "R8 Revolver | Fade",
+    "rarity": "Covert",
+    "paint_index": "522"
   },
   {
     "id": "skin-4197188",
@@ -683,7 +779,9 @@
     "price": 0.11,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "R8 Revolver | Survivalist"
+    "item_name": "R8 Revolver | Survivalist",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "721"
   },
   {
     "id": "skin-4197188",
@@ -697,7 +795,9 @@
     "price": 0.18,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "R8 Revolver | Survivalist"
+    "item_name": "R8 Revolver | Survivalist",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "721"
   },
   {
     "id": "skin-4197188",
@@ -711,7 +811,9 @@
     "price": 0.12,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "R8 Revolver | Survivalist"
+    "item_name": "R8 Revolver | Survivalist",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "721"
   },
   {
     "id": "skin-4197188",
@@ -725,7 +827,9 @@
     "price": 0.49,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "R8 Revolver | Survivalist"
+    "item_name": "R8 Revolver | Survivalist",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "721"
   },
   {
     "id": "skin-4197188",
@@ -739,7 +843,9 @@
     "price": 0.21,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "R8 Revolver | Survivalist"
+    "item_name": "R8 Revolver | Survivalist",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "721"
   },
   {
     "id": "skin-4197188",
@@ -753,7 +859,9 @@
     "price": 0.18,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "R8 Revolver | Survivalist"
+    "item_name": "R8 Revolver | Survivalist",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "721"
   },
   {
     "id": "skin-4197188",
@@ -767,7 +875,9 @@
     "price": 0.24,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "R8 Revolver | Survivalist"
+    "item_name": "R8 Revolver | Survivalist",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "721"
   },
   {
     "id": "skin-4197188",
@@ -781,7 +891,9 @@
     "price": 1.09,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "R8 Revolver | Survivalist"
+    "item_name": "R8 Revolver | Survivalist",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "721"
   },
   {
     "id": "skin-4197188",
@@ -795,7 +907,9 @@
     "price": 0.27,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "R8 Revolver | Survivalist"
+    "item_name": "R8 Revolver | Survivalist",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "721"
   },
   {
     "id": "skin-4197188",
@@ -809,7 +923,9 @@
     "price": 0.09,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "R8 Revolver | Survivalist"
+    "item_name": "R8 Revolver | Survivalist",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "721"
   },
   {
     "id": "skin-4198492",
@@ -823,7 +939,9 @@
     "price": 0.16,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "R8 Revolver | Junk Yard"
+    "item_name": "R8 Revolver | Junk Yard",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1047"
   },
   {
     "id": "skin-4198492",
@@ -837,7 +955,9 @@
     "price": 0.19,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "R8 Revolver | Junk Yard"
+    "item_name": "R8 Revolver | Junk Yard",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1047"
   },
   {
     "id": "skin-4198492",
@@ -851,7 +971,9 @@
     "price": 0.17,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "R8 Revolver | Junk Yard"
+    "item_name": "R8 Revolver | Junk Yard",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1047"
   },
   {
     "id": "skin-4198492",
@@ -865,7 +987,9 @@
     "price": 0.11,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "R8 Revolver | Junk Yard"
+    "item_name": "R8 Revolver | Junk Yard",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1047"
   },
   {
     "id": "skin-4198492",
@@ -879,7 +1003,9 @@
     "price": 0.06,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "R8 Revolver | Junk Yard"
+    "item_name": "R8 Revolver | Junk Yard",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1047"
   },
   {
     "id": "skin-4198492",
@@ -893,7 +1019,9 @@
     "price": 0.06,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "R8 Revolver | Junk Yard"
+    "item_name": "R8 Revolver | Junk Yard",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1047"
   },
   {
     "id": "skin-4198492",
@@ -907,7 +1035,9 @@
     "price": 0.29,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "R8 Revolver | Junk Yard"
+    "item_name": "R8 Revolver | Junk Yard",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1047"
   },
   {
     "id": "skin-4198492",
@@ -921,7 +1051,9 @@
     "price": 0.05,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "R8 Revolver | Junk Yard"
+    "item_name": "R8 Revolver | Junk Yard",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1047"
   },
   {
     "id": "skin-4198492",
@@ -935,7 +1067,9 @@
     "price": 1.22,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "R8 Revolver | Junk Yard"
+    "item_name": "R8 Revolver | Junk Yard",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1047"
   },
   {
     "id": "skin-4198492",
@@ -949,7 +1083,9 @@
     "price": 0.44,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "R8 Revolver | Junk Yard"
+    "item_name": "R8 Revolver | Junk Yard",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1047"
   },
   {
     "id": "skin-4197676",
@@ -963,7 +1099,9 @@
     "price": 0.96,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "R8 Revolver | Skull Crusher"
+    "item_name": "R8 Revolver | Skull Crusher",
+    "rarity": "Classified",
+    "paint_index": "843"
   },
   {
     "id": "skin-4197676",
@@ -977,7 +1115,9 @@
     "price": 1.85,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "R8 Revolver | Skull Crusher"
+    "item_name": "R8 Revolver | Skull Crusher",
+    "rarity": "Classified",
+    "paint_index": "843"
   },
   {
     "id": "skin-4197676",
@@ -991,7 +1131,9 @@
     "price": 0.9,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "R8 Revolver | Skull Crusher"
+    "item_name": "R8 Revolver | Skull Crusher",
+    "rarity": "Classified",
+    "paint_index": "843"
   },
   {
     "id": "skin-4197676",
@@ -1005,7 +1147,9 @@
     "price": 1.08,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "R8 Revolver | Skull Crusher"
+    "item_name": "R8 Revolver | Skull Crusher",
+    "rarity": "Classified",
+    "paint_index": "843"
   },
   {
     "id": "skin-4197676",
@@ -1019,7 +1163,9 @@
     "price": 2.4,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "R8 Revolver | Skull Crusher"
+    "item_name": "R8 Revolver | Skull Crusher",
+    "rarity": "Classified",
+    "paint_index": "843"
   },
   {
     "id": "skin-4197676",
@@ -1033,7 +1179,9 @@
     "price": 1.83,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "R8 Revolver | Skull Crusher"
+    "item_name": "R8 Revolver | Skull Crusher",
+    "rarity": "Classified",
+    "paint_index": "843"
   },
   {
     "id": "skin-4194412",
@@ -1047,7 +1195,9 @@
     "price": 0.06,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "R8 Revolver | Bone Mask"
+    "item_name": "R8 Revolver | Bone Mask",
+    "rarity": "Consumer Grade",
+    "paint_index": "27"
   },
   {
     "id": "skin-4194412",
@@ -1061,7 +1211,9 @@
     "price": 0.01,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "R8 Revolver | Bone Mask"
+    "item_name": "R8 Revolver | Bone Mask",
+    "rarity": "Consumer Grade",
+    "paint_index": "27"
   },
   {
     "id": "skin-4194412",
@@ -1075,7 +1227,9 @@
     "price": 0.01,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "R8 Revolver | Bone Mask"
+    "item_name": "R8 Revolver | Bone Mask",
+    "rarity": "Consumer Grade",
+    "paint_index": "27"
   },
   {
     "id": "skin-4194412",
@@ -1089,7 +1243,9 @@
     "price": 0.02,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "R8 Revolver | Bone Mask"
+    "item_name": "R8 Revolver | Bone Mask",
+    "rarity": "Consumer Grade",
+    "paint_index": "27"
   },
   {
     "id": "skin-4194412",
@@ -1103,7 +1259,9 @@
     "price": 0.01,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "R8 Revolver | Bone Mask"
+    "item_name": "R8 Revolver | Bone Mask",
+    "rarity": "Consumer Grade",
+    "paint_index": "27"
   },
   {
     "id": "skin-4198884",
@@ -1117,7 +1275,9 @@
     "price": 0.65,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "R8 Revolver | Crazy 8"
+    "item_name": "R8 Revolver | Crazy 8",
+    "rarity": "Restricted",
+    "paint_index": "1145"
   },
   {
     "id": "skin-4198884",
@@ -1131,7 +1291,9 @@
     "price": 0.36,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "R8 Revolver | Crazy 8"
+    "item_name": "R8 Revolver | Crazy 8",
+    "rarity": "Restricted",
+    "paint_index": "1145"
   },
   {
     "id": "skin-4198884",
@@ -1145,7 +1307,9 @@
     "price": 0.65,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "R8 Revolver | Crazy 8"
+    "item_name": "R8 Revolver | Crazy 8",
+    "rarity": "Restricted",
+    "paint_index": "1145"
   },
   {
     "id": "skin-4198884",
@@ -1159,7 +1323,9 @@
     "price": 4.58,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "R8 Revolver | Crazy 8"
+    "item_name": "R8 Revolver | Crazy 8",
+    "rarity": "Restricted",
+    "paint_index": "1145"
   },
   {
     "id": "skin-4198884",
@@ -1173,7 +1339,9 @@
     "price": 1.56,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "R8 Revolver | Crazy 8"
+    "item_name": "R8 Revolver | Crazy 8",
+    "rarity": "Restricted",
+    "paint_index": "1145"
   },
   {
     "id": "skin-4198884",
@@ -1187,7 +1355,9 @@
     "price": 0.83,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "R8 Revolver | Crazy 8"
+    "item_name": "R8 Revolver | Crazy 8",
+    "rarity": "Restricted",
+    "paint_index": "1145"
   },
   {
     "id": "skin-4198884",
@@ -1201,7 +1371,9 @@
     "price": 0.37,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "R8 Revolver | Crazy 8"
+    "item_name": "R8 Revolver | Crazy 8",
+    "rarity": "Restricted",
+    "paint_index": "1145"
   },
   {
     "id": "skin-4198884",
@@ -1215,7 +1387,9 @@
     "price": 1.82,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "R8 Revolver | Crazy 8"
+    "item_name": "R8 Revolver | Crazy 8",
+    "rarity": "Restricted",
+    "paint_index": "1145"
   },
   {
     "id": "skin-4198884",
@@ -1229,7 +1403,9 @@
     "price": 0.73,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "R8 Revolver | Crazy 8"
+    "item_name": "R8 Revolver | Crazy 8",
+    "rarity": "Restricted",
+    "paint_index": "1145"
   },
   {
     "id": "skin-4198884",
@@ -1243,7 +1419,9 @@
     "price": 0.4,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "R8 Revolver | Crazy 8"
+    "item_name": "R8 Revolver | Crazy 8",
+    "rarity": "Restricted",
+    "paint_index": "1145"
   },
   {
     "id": "skin-4196396",
@@ -1257,7 +1435,9 @@
     "price": 0.7,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "R8 Revolver | Amber Fade"
+    "item_name": "R8 Revolver | Amber Fade",
+    "rarity": "Classified",
+    "paint_index": "523"
   },
   {
     "id": "skin-4196396",
@@ -1271,7 +1451,9 @@
     "price": 0.93,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "R8 Revolver | Amber Fade"
+    "item_name": "R8 Revolver | Amber Fade",
+    "rarity": "Classified",
+    "paint_index": "523"
   },
   {
     "id": "skin-4196396",
@@ -1285,7 +1467,9 @@
     "price": 0.67,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "R8 Revolver | Amber Fade"
+    "item_name": "R8 Revolver | Amber Fade",
+    "rarity": "Classified",
+    "paint_index": "523"
   },
   {
     "id": "skin-4196396",
@@ -1299,7 +1483,9 @@
     "price": 1.37,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "R8 Revolver | Amber Fade"
+    "item_name": "R8 Revolver | Amber Fade",
+    "rarity": "Classified",
+    "paint_index": "523"
   },
   {
     "id": "skin-4198000",
@@ -1313,7 +1499,9 @@
     "price": 0.4,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "R8 Revolver | Desert Brush"
+    "item_name": "R8 Revolver | Desert Brush",
+    "rarity": "Consumer Grade",
+    "paint_index": "924"
   },
   {
     "id": "skin-4198000",
@@ -1327,7 +1515,9 @@
     "price": 0.45,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "R8 Revolver | Desert Brush"
+    "item_name": "R8 Revolver | Desert Brush",
+    "rarity": "Consumer Grade",
+    "paint_index": "924"
   },
   {
     "id": "skin-4198000",
@@ -1341,7 +1531,9 @@
     "price": 0.41,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "R8 Revolver | Desert Brush"
+    "item_name": "R8 Revolver | Desert Brush",
+    "rarity": "Consumer Grade",
+    "paint_index": "924"
   },
   {
     "id": "skin-4198000",
@@ -1355,7 +1547,9 @@
     "price": 0.41,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "R8 Revolver | Desert Brush"
+    "item_name": "R8 Revolver | Desert Brush",
+    "rarity": "Consumer Grade",
+    "paint_index": "924"
   },
   {
     "id": "skin-4198000",
@@ -1369,7 +1563,9 @@
     "price": 0.41,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "R8 Revolver | Desert Brush"
+    "item_name": "R8 Revolver | Desert Brush",
+    "rarity": "Consumer Grade",
+    "paint_index": "924"
   },
   {
     "id": "skin-4197108",
@@ -1383,7 +1579,9 @@
     "price": 0.08,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "R8 Revolver | Grip"
+    "item_name": "R8 Revolver | Grip",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "701"
   },
   {
     "id": "skin-4197108",
@@ -1397,7 +1595,9 @@
     "price": 0.2,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "R8 Revolver | Grip"
+    "item_name": "R8 Revolver | Grip",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "701"
   },
   {
     "id": "skin-4197108",
@@ -1411,7 +1611,9 @@
     "price": 0.04,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "R8 Revolver | Grip"
+    "item_name": "R8 Revolver | Grip",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "701"
   },
   {
     "id": "skin-4197108",
@@ -1425,7 +1627,9 @@
     "price": 0.08,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "R8 Revolver | Grip"
+    "item_name": "R8 Revolver | Grip",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "701"
   },
   {
     "id": "skin-4197108",
@@ -1439,7 +1643,9 @@
     "price": 0.12,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "R8 Revolver | Grip"
+    "item_name": "R8 Revolver | Grip",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "701"
   },
   {
     "id": "skin-4197108",
@@ -1453,7 +1659,9 @@
     "price": 0.05,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "R8 Revolver | Grip"
+    "item_name": "R8 Revolver | Grip",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "701"
   },
   {
     "id": "skin-4197108",
@@ -1467,7 +1675,9 @@
     "price": 0.21,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "R8 Revolver | Grip"
+    "item_name": "R8 Revolver | Grip",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "701"
   },
   {
     "id": "skin-4197108",
@@ -1481,7 +1691,9 @@
     "price": 0.08,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "R8 Revolver | Grip"
+    "item_name": "R8 Revolver | Grip",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "701"
   },
   {
     "id": "skin-4197108",
@@ -1495,7 +1707,9 @@
     "price": 0.78,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "R8 Revolver | Grip"
+    "item_name": "R8 Revolver | Grip",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "701"
   },
   {
     "id": "skin-4197108",
@@ -1509,7 +1723,9 @@
     "price": 0.09,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "R8 Revolver | Grip"
+    "item_name": "R8 Revolver | Grip",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "701"
   },
   {
     "id": "skin-4199252",
@@ -1523,7 +1739,9 @@
     "price": 0.03,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "R8 Revolver | Inlay"
+    "item_name": "R8 Revolver | Inlay",
+    "rarity": "Consumer Grade",
+    "paint_index": "1237"
   },
   {
     "id": "skin-4199252",
@@ -1537,7 +1755,9 @@
     "price": 0.1,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "R8 Revolver | Inlay"
+    "item_name": "R8 Revolver | Inlay",
+    "rarity": "Consumer Grade",
+    "paint_index": "1237"
   },
   {
     "id": "skin-4199252",
@@ -1551,7 +1771,9 @@
     "price": 0.02,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "R8 Revolver | Inlay"
+    "item_name": "R8 Revolver | Inlay",
+    "rarity": "Consumer Grade",
+    "paint_index": "1237"
   },
   {
     "id": "skin-4199252",
@@ -1565,7 +1787,9 @@
     "price": 0.02,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "R8 Revolver | Inlay"
+    "item_name": "R8 Revolver | Inlay",
+    "rarity": "Consumer Grade",
+    "paint_index": "1237"
   },
   {
     "id": "skin-4199252",
@@ -1579,7 +1803,9 @@
     "price": 0.02,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "R8 Revolver | Inlay"
+    "item_name": "R8 Revolver | Inlay",
+    "rarity": "Consumer Grade",
+    "paint_index": "1237"
   },
   {
     "id": "skin-4194452",
@@ -1593,7 +1819,9 @@
     "price": 1.07,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "R8 Revolver | Blaze"
+    "item_name": "R8 Revolver | Blaze",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "37"
   },
   {
     "id": "skin-4194452",
@@ -1607,7 +1835,9 @@
     "price": 0.97,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "R8 Revolver | Blaze"
+    "item_name": "R8 Revolver | Blaze",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "37"
   },
   {
     "id": "skin-4197768",
@@ -1621,7 +1851,9 @@
     "price": 0.76,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "R8 Revolver | Canal Spray"
+    "item_name": "R8 Revolver | Canal Spray",
+    "rarity": "Consumer Grade",
+    "paint_index": "866"
   },
   {
     "id": "skin-4197768",
@@ -1635,7 +1867,9 @@
     "price": 0.86,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "R8 Revolver | Canal Spray"
+    "item_name": "R8 Revolver | Canal Spray",
+    "rarity": "Consumer Grade",
+    "paint_index": "866"
   },
   {
     "id": "skin-4197768",
@@ -1649,7 +1883,9 @@
     "price": 0.88,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "R8 Revolver | Canal Spray"
+    "item_name": "R8 Revolver | Canal Spray",
+    "rarity": "Consumer Grade",
+    "paint_index": "866"
   },
   {
     "id": "skin-4197768",
@@ -1663,7 +1899,9 @@
     "price": 1.19,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "R8 Revolver | Canal Spray"
+    "item_name": "R8 Revolver | Canal Spray",
+    "rarity": "Consumer Grade",
+    "paint_index": "866"
   },
   {
     "id": "skin-4197768",
@@ -1677,7 +1915,9 @@
     "price": 3.43,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "R8 Revolver | Canal Spray"
+    "item_name": "R8 Revolver | Canal Spray",
+    "rarity": "Consumer Grade",
+    "paint_index": "866"
   },
   {
     "id": "skin-4198348",
@@ -1691,7 +1931,9 @@
     "price": 1.21,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "R8 Revolver | Phoenix Marker"
+    "item_name": "R8 Revolver | Phoenix Marker",
+    "rarity": "Industrial Grade",
+    "paint_index": "1011"
   },
   {
     "id": "skin-4198348",
@@ -1705,7 +1947,9 @@
     "price": 1.29,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "R8 Revolver | Phoenix Marker"
+    "item_name": "R8 Revolver | Phoenix Marker",
+    "rarity": "Industrial Grade",
+    "paint_index": "1011"
   },
   {
     "id": "skin-4198348",
@@ -1719,7 +1963,9 @@
     "price": 1.47,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "R8 Revolver | Phoenix Marker"
+    "item_name": "R8 Revolver | Phoenix Marker",
+    "rarity": "Industrial Grade",
+    "paint_index": "1011"
   },
   {
     "id": "skin-4198348",
@@ -1733,7 +1979,9 @@
     "price": 1.18,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "R8 Revolver | Phoenix Marker"
+    "item_name": "R8 Revolver | Phoenix Marker",
+    "rarity": "Industrial Grade",
+    "paint_index": "1011"
   },
   {
     "id": "skin-4198348",
@@ -1747,7 +1995,9 @@
     "price": 1.23,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "R8 Revolver | Phoenix Marker"
+    "item_name": "R8 Revolver | Phoenix Marker",
+    "rarity": "Industrial Grade",
+    "paint_index": "1011"
   },
   {
     "id": "skin-4199232",
@@ -1761,7 +2011,9 @@
     "price": 0.29,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "R8 Revolver | Banana Cannon"
+    "item_name": "R8 Revolver | Banana Cannon",
+    "rarity": "Restricted",
+    "paint_index": "1232"
   },
   {
     "id": "skin-4199232",
@@ -1775,7 +2027,9 @@
     "price": 0.61,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "R8 Revolver | Banana Cannon"
+    "item_name": "R8 Revolver | Banana Cannon",
+    "rarity": "Restricted",
+    "paint_index": "1232"
   },
   {
     "id": "skin-4199232",
@@ -1789,7 +2043,9 @@
     "price": 5.69,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "R8 Revolver | Banana Cannon"
+    "item_name": "R8 Revolver | Banana Cannon",
+    "rarity": "Restricted",
+    "paint_index": "1232"
   },
   {
     "id": "skin-4199232",
@@ -1803,7 +2059,9 @@
     "price": 0.65,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "R8 Revolver | Banana Cannon"
+    "item_name": "R8 Revolver | Banana Cannon",
+    "rarity": "Restricted",
+    "paint_index": "1232"
   },
   {
     "id": "skin-4199232",
@@ -1817,7 +2075,9 @@
     "price": 0.61,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "R8 Revolver | Banana Cannon"
+    "item_name": "R8 Revolver | Banana Cannon",
+    "rarity": "Restricted",
+    "paint_index": "1232"
   },
   {
     "id": "skin-4199232",
@@ -1831,7 +2091,9 @@
     "price": 1.7,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "R8 Revolver | Banana Cannon"
+    "item_name": "R8 Revolver | Banana Cannon",
+    "rarity": "Restricted",
+    "paint_index": "1232"
   },
   {
     "id": "skin-4199232",
@@ -1845,7 +2107,9 @@
     "price": 1.79,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "R8 Revolver | Banana Cannon"
+    "item_name": "R8 Revolver | Banana Cannon",
+    "rarity": "Restricted",
+    "paint_index": "1232"
   },
   {
     "id": "skin-4199232",
@@ -1859,7 +2123,9 @@
     "price": 0.23,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "R8 Revolver | Banana Cannon"
+    "item_name": "R8 Revolver | Banana Cannon",
+    "rarity": "Restricted",
+    "paint_index": "1232"
   },
   {
     "id": "skin-4199232",
@@ -1873,7 +2139,9 @@
     "price": 0.67,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "R8 Revolver | Banana Cannon"
+    "item_name": "R8 Revolver | Banana Cannon",
+    "rarity": "Restricted",
+    "paint_index": "1232"
   },
   {
     "id": "skin-4199232",
@@ -1887,7 +2155,9 @@
     "price": 0.25,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "R8 Revolver | Banana Cannon"
+    "item_name": "R8 Revolver | Banana Cannon",
+    "rarity": "Restricted",
+    "paint_index": "1232"
   },
   {
     "id": "skin-4198112",
@@ -1901,7 +2171,9 @@
     "price": 0.24,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "R8 Revolver | Bone Forged"
+    "item_name": "R8 Revolver | Bone Forged",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "952"
   },
   {
     "id": "skin-4198112",
@@ -1915,7 +2187,9 @@
     "price": 0.08,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "R8 Revolver | Bone Forged"
+    "item_name": "R8 Revolver | Bone Forged",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "952"
   },
   {
     "id": "skin-4198112",
@@ -1929,7 +2203,9 @@
     "price": 0.09,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "R8 Revolver | Bone Forged"
+    "item_name": "R8 Revolver | Bone Forged",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "952"
   },
   {
     "id": "skin-4198112",
@@ -1943,7 +2219,9 @@
     "price": 0.13,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "R8 Revolver | Bone Forged"
+    "item_name": "R8 Revolver | Bone Forged",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "952"
   },
   {
     "id": "skin-4198112",
@@ -1957,7 +2235,9 @@
     "price": 0.72,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "R8 Revolver | Bone Forged"
+    "item_name": "R8 Revolver | Bone Forged",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "952"
   },
   {
     "id": "skin-4198112",
@@ -1971,7 +2251,9 @@
     "price": 0.04,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "R8 Revolver | Bone Forged"
+    "item_name": "R8 Revolver | Bone Forged",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "952"
   },
   {
     "id": "skin-4198112",
@@ -1985,7 +2267,9 @@
     "price": 0.04,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "R8 Revolver | Bone Forged"
+    "item_name": "R8 Revolver | Bone Forged",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "952"
   },
   {
     "id": "skin-4198112",
@@ -1999,7 +2283,9 @@
     "price": 0.09,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "R8 Revolver | Bone Forged"
+    "item_name": "R8 Revolver | Bone Forged",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "952"
   },
   {
     "id": "skin-4198112",
@@ -2013,7 +2299,9 @@
     "price": 0.17,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "R8 Revolver | Bone Forged"
+    "item_name": "R8 Revolver | Bone Forged",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "952"
   },
   {
     "id": "skin-4198112",
@@ -2027,7 +2315,9 @@
     "price": 0.04,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "R8 Revolver | Bone Forged"
+    "item_name": "R8 Revolver | Bone Forged",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "952"
   },
   {
     "id": "skin-4194464",
@@ -2041,7 +2331,9 @@
     "price": 0.38,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "R8 Revolver | Night"
+    "item_name": "R8 Revolver | Night",
+    "rarity": "Consumer Grade",
+    "paint_index": "40"
   },
   {
     "id": "skin-4194464",
@@ -2055,7 +2347,9 @@
     "price": 0.32,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "R8 Revolver | Night"
+    "item_name": "R8 Revolver | Night",
+    "rarity": "Consumer Grade",
+    "paint_index": "40"
   },
   {
     "id": "skin-4194464",
@@ -2069,7 +2363,9 @@
     "price": 3.35,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "R8 Revolver | Night"
+    "item_name": "R8 Revolver | Night",
+    "rarity": "Consumer Grade",
+    "paint_index": "40"
   },
   {
     "id": "skin-4194464",
@@ -2083,7 +2379,9 @@
     "price": 0.36,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "R8 Revolver | Night"
+    "item_name": "R8 Revolver | Night",
+    "rarity": "Consumer Grade",
+    "paint_index": "40"
   },
   {
     "id": "skin-4194464",
@@ -2097,7 +2395,9 @@
     "price": 0.37,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "R8 Revolver | Night"
+    "item_name": "R8 Revolver | Night",
+    "rarity": "Consumer Grade",
+    "paint_index": "40"
   },
   {
     "id": "skin-4197496",
@@ -2111,7 +2411,9 @@
     "price": 0.34,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "R8 Revolver | Nitro"
+    "item_name": "R8 Revolver | Nitro",
+    "rarity": "Industrial Grade",
+    "paint_index": "798"
   },
   {
     "id": "skin-4197496",
@@ -2125,7 +2427,9 @@
     "price": 0.07,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "R8 Revolver | Nitro"
+    "item_name": "R8 Revolver | Nitro",
+    "rarity": "Industrial Grade",
+    "paint_index": "798"
   },
   {
     "id": "skin-4197496",
@@ -2139,7 +2443,9 @@
     "price": 0.08,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "R8 Revolver | Nitro"
+    "item_name": "R8 Revolver | Nitro",
+    "rarity": "Industrial Grade",
+    "paint_index": "798"
   },
   {
     "id": "skin-4197496",
@@ -2153,7 +2459,9 @@
     "price": 0.06,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "R8 Revolver | Nitro"
+    "item_name": "R8 Revolver | Nitro",
+    "rarity": "Industrial Grade",
+    "paint_index": "798"
   },
   {
     "id": "skin-4197496",
@@ -2167,6 +2475,8 @@
     "price": 0.06,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "R8 Revolver | Nitro"
+    "item_name": "R8 Revolver | Nitro",
+    "rarity": "Industrial Grade",
+    "paint_index": "798"
   }
 ]

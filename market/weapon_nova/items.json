@@ -11,7 +11,9 @@
     "price": 0.84,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Gila"
+    "item_name": "Nova | Gila",
+    "rarity": "Restricted",
+    "paint_index": "634"
   },
   {
     "id": "skin-2296296",
@@ -25,7 +27,9 @@
     "price": 0.25,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Gila"
+    "item_name": "Nova | Gila",
+    "rarity": "Restricted",
+    "paint_index": "634"
   },
   {
     "id": "skin-2296296",
@@ -39,7 +43,9 @@
     "price": 2.54,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Nova | Gila"
+    "item_name": "Nova | Gila",
+    "rarity": "Restricted",
+    "paint_index": "634"
   },
   {
     "id": "skin-2296296",
@@ -53,7 +59,9 @@
     "price": 0.41,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Gila"
+    "item_name": "Nova | Gila",
+    "rarity": "Restricted",
+    "paint_index": "634"
   },
   {
     "id": "skin-2296296",
@@ -67,7 +75,9 @@
     "price": 1.12,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Nova | Gila"
+    "item_name": "Nova | Gila",
+    "rarity": "Restricted",
+    "paint_index": "634"
   },
   {
     "id": "skin-2296296",
@@ -81,7 +91,9 @@
     "price": 0.95,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Nova | Gila"
+    "item_name": "Nova | Gila",
+    "rarity": "Restricted",
+    "paint_index": "634"
   },
   {
     "id": "skin-2294904",
@@ -95,7 +107,9 @@
     "price": 19.13,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Nova | Antique"
+    "item_name": "Nova | Antique",
+    "rarity": "Classified",
+    "paint_index": "286"
   },
   {
     "id": "skin-2294904",
@@ -109,7 +123,9 @@
     "price": 9.02,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Antique"
+    "item_name": "Nova | Antique",
+    "rarity": "Classified",
+    "paint_index": "286"
   },
   {
     "id": "skin-2294904",
@@ -123,7 +139,9 @@
     "price": 8.06,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Antique"
+    "item_name": "Nova | Antique",
+    "rarity": "Classified",
+    "paint_index": "286"
   },
   {
     "id": "skin-2294904",
@@ -137,7 +155,9 @@
     "price": 15.9,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Nova | Antique"
+    "item_name": "Nova | Antique",
+    "rarity": "Classified",
+    "paint_index": "286"
   },
   {
     "id": "skin-2294904",
@@ -151,7 +171,9 @@
     "price": 7.57,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Antique"
+    "item_name": "Nova | Antique",
+    "rarity": "Classified",
+    "paint_index": "286"
   },
   {
     "id": "skin-2294904",
@@ -165,7 +187,9 @@
     "price": 15.77,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Nova | Antique"
+    "item_name": "Nova | Antique",
+    "rarity": "Classified",
+    "paint_index": "286"
   },
   {
     "id": "skin-2293860",
@@ -179,7 +203,9 @@
     "price": 53.62,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Forest Leaves"
+    "item_name": "Nova | Forest Leaves",
+    "rarity": "Consumer Grade",
+    "paint_index": "25"
   },
   {
     "id": "skin-2293860",
@@ -193,7 +219,9 @@
     "price": 3.2,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Forest Leaves"
+    "item_name": "Nova | Forest Leaves",
+    "rarity": "Consumer Grade",
+    "paint_index": "25"
   },
   {
     "id": "skin-2293860",
@@ -207,7 +235,9 @@
     "price": 2.74,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Forest Leaves"
+    "item_name": "Nova | Forest Leaves",
+    "rarity": "Consumer Grade",
+    "paint_index": "25"
   },
   {
     "id": "skin-2293860",
@@ -221,7 +251,9 @@
     "price": 1.25,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Forest Leaves"
+    "item_name": "Nova | Forest Leaves",
+    "rarity": "Consumer Grade",
+    "paint_index": "25"
   },
   {
     "id": "skin-2293860",
@@ -235,7 +267,9 @@
     "price": 1.35,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Forest Leaves"
+    "item_name": "Nova | Forest Leaves",
+    "rarity": "Consumer Grade",
+    "paint_index": "25"
   },
   {
     "id": "skin-2295560",
@@ -249,7 +283,9 @@
     "price": 3.02,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Moon in Libra"
+    "item_name": "Nova | Moon in Libra",
+    "rarity": "Consumer Grade",
+    "paint_index": "450"
   },
   {
     "id": "skin-2295560",
@@ -263,7 +299,9 @@
     "price": 2.71,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Moon in Libra"
+    "item_name": "Nova | Moon in Libra",
+    "rarity": "Consumer Grade",
+    "paint_index": "450"
   },
   {
     "id": "skin-2295560",
@@ -277,7 +315,9 @@
     "price": 2.67,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Moon in Libra"
+    "item_name": "Nova | Moon in Libra",
+    "rarity": "Consumer Grade",
+    "paint_index": "450"
   },
   {
     "id": "skin-2295560",
@@ -291,7 +331,9 @@
     "price": 2.76,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Moon in Libra"
+    "item_name": "Nova | Moon in Libra",
+    "rarity": "Consumer Grade",
+    "paint_index": "450"
   },
   {
     "id": "skin-2295560",
@@ -305,7 +347,9 @@
     "price": 2.9,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Moon in Libra"
+    "item_name": "Nova | Moon in Libra",
+    "rarity": "Consumer Grade",
+    "paint_index": "450"
   },
   {
     "id": "skin-2296624",
@@ -319,7 +363,9 @@
     "price": 0.93,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Nova | Toy Soldier"
+    "item_name": "Nova | Toy Soldier",
+    "rarity": "Restricted",
+    "paint_index": "716"
   },
   {
     "id": "skin-2296624",
@@ -333,7 +379,9 @@
     "price": 0.5,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Toy Soldier"
+    "item_name": "Nova | Toy Soldier",
+    "rarity": "Restricted",
+    "paint_index": "716"
   },
   {
     "id": "skin-2296624",
@@ -347,7 +395,9 @@
     "price": 2.83,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Nova | Toy Soldier"
+    "item_name": "Nova | Toy Soldier",
+    "rarity": "Restricted",
+    "paint_index": "716"
   },
   {
     "id": "skin-2296624",
@@ -361,7 +411,9 @@
     "price": 8.05,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Nova | Toy Soldier"
+    "item_name": "Nova | Toy Soldier",
+    "rarity": "Restricted",
+    "paint_index": "716"
   },
   {
     "id": "skin-2296624",
@@ -375,7 +427,9 @@
     "price": 0.38,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Toy Soldier"
+    "item_name": "Nova | Toy Soldier",
+    "rarity": "Restricted",
+    "paint_index": "716"
   },
   {
     "id": "skin-2296624",
@@ -389,7 +443,9 @@
     "price": 2.4,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Toy Soldier"
+    "item_name": "Nova | Toy Soldier",
+    "rarity": "Restricted",
+    "paint_index": "716"
   },
   {
     "id": "skin-2296624",
@@ -403,7 +459,9 @@
     "price": 0.96,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Nova | Toy Soldier"
+    "item_name": "Nova | Toy Soldier",
+    "rarity": "Restricted",
+    "paint_index": "716"
   },
   {
     "id": "skin-2296624",
@@ -417,7 +475,9 @@
     "price": 0.99,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Toy Soldier"
+    "item_name": "Nova | Toy Soldier",
+    "rarity": "Restricted",
+    "paint_index": "716"
   },
   {
     "id": "skin-2296624",
@@ -431,7 +491,9 @@
     "price": 0.37,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Toy Soldier"
+    "item_name": "Nova | Toy Soldier",
+    "rarity": "Restricted",
+    "paint_index": "716"
   },
   {
     "id": "skin-2296624",
@@ -445,7 +507,9 @@
     "price": 1.11,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Nova | Toy Soldier"
+    "item_name": "Nova | Toy Soldier",
+    "rarity": "Restricted",
+    "paint_index": "716"
   },
   {
     "id": "skin-2295184",
@@ -459,7 +523,9 @@
     "price": 1.07,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Koi"
+    "item_name": "Nova | Koi",
+    "rarity": "Restricted",
+    "paint_index": "356"
   },
   {
     "id": "skin-2295184",
@@ -473,7 +539,9 @@
     "price": 1.87,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Nova | Koi"
+    "item_name": "Nova | Koi",
+    "rarity": "Restricted",
+    "paint_index": "356"
   },
   {
     "id": "skin-2295184",
@@ -487,7 +555,9 @@
     "price": 3.58,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Nova | Koi"
+    "item_name": "Nova | Koi",
+    "rarity": "Restricted",
+    "paint_index": "356"
   },
   {
     "id": "skin-2295184",
@@ -501,7 +571,9 @@
     "price": 0.52,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Koi"
+    "item_name": "Nova | Koi",
+    "rarity": "Restricted",
+    "paint_index": "356"
   },
   {
     "id": "skin-2295184",
@@ -515,7 +587,9 @@
     "price": 2.15,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Nova | Koi"
+    "item_name": "Nova | Koi",
+    "rarity": "Restricted",
+    "paint_index": "356"
   },
   {
     "id": "skin-2295184",
@@ -529,7 +603,9 @@
     "price": 0.57,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Koi"
+    "item_name": "Nova | Koi",
+    "rarity": "Restricted",
+    "paint_index": "356"
   },
   {
     "id": "skin-2295696",
@@ -543,7 +619,9 @@
     "price": 0.55,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Nova | Ranger"
+    "item_name": "Nova | Ranger",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "484"
   },
   {
     "id": "skin-2295696",
@@ -557,7 +635,9 @@
     "price": 0.16,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Ranger"
+    "item_name": "Nova | Ranger",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "484"
   },
   {
     "id": "skin-2295696",
@@ -571,7 +651,9 @@
     "price": 0.14,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Ranger"
+    "item_name": "Nova | Ranger",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "484"
   },
   {
     "id": "skin-2295696",
@@ -585,7 +667,9 @@
     "price": 0.28,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Nova | Ranger"
+    "item_name": "Nova | Ranger",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "484"
   },
   {
     "id": "skin-2295696",
@@ -599,7 +683,9 @@
     "price": 0.18,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Ranger"
+    "item_name": "Nova | Ranger",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "484"
   },
   {
     "id": "skin-2295696",
@@ -613,7 +699,9 @@
     "price": 0.16,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Ranger"
+    "item_name": "Nova | Ranger",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "484"
   },
   {
     "id": "skin-2295696",
@@ -627,7 +715,9 @@
     "price": 0.49,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Ranger"
+    "item_name": "Nova | Ranger",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "484"
   },
   {
     "id": "skin-2295696",
@@ -641,7 +731,9 @@
     "price": 1.81,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Nova | Ranger"
+    "item_name": "Nova | Ranger",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "484"
   },
   {
     "id": "skin-2295696",
@@ -655,7 +747,9 @@
     "price": 0.2,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Nova | Ranger"
+    "item_name": "Nova | Ranger",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "484"
   },
   {
     "id": "skin-2295696",
@@ -669,7 +763,9 @@
     "price": 0.26,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Nova | Ranger"
+    "item_name": "Nova | Ranger",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "484"
   },
   {
     "id": "skin-2296556",
@@ -683,7 +779,9 @@
     "price": 0.72,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Nova | Wild Six"
+    "item_name": "Nova | Wild Six",
+    "rarity": "Restricted",
+    "paint_index": "699"
   },
   {
     "id": "skin-2296556",
@@ -697,7 +795,9 @@
     "price": 0.16,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Wild Six"
+    "item_name": "Nova | Wild Six",
+    "rarity": "Restricted",
+    "paint_index": "699"
   },
   {
     "id": "skin-2296556",
@@ -711,7 +811,9 @@
     "price": 0.19,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Wild Six"
+    "item_name": "Nova | Wild Six",
+    "rarity": "Restricted",
+    "paint_index": "699"
   },
   {
     "id": "skin-2296556",
@@ -725,7 +827,9 @@
     "price": 0.38,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Wild Six"
+    "item_name": "Nova | Wild Six",
+    "rarity": "Restricted",
+    "paint_index": "699"
   },
   {
     "id": "skin-2296556",
@@ -739,7 +843,9 @@
     "price": 0.34,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Nova | Wild Six"
+    "item_name": "Nova | Wild Six",
+    "rarity": "Restricted",
+    "paint_index": "699"
   },
   {
     "id": "skin-2296556",
@@ -753,7 +859,9 @@
     "price": 0.39,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Nova | Wild Six"
+    "item_name": "Nova | Wild Six",
+    "rarity": "Restricted",
+    "paint_index": "699"
   },
   {
     "id": "skin-2296556",
@@ -767,7 +875,9 @@
     "price": 3.34,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Nova | Wild Six"
+    "item_name": "Nova | Wild Six",
+    "rarity": "Restricted",
+    "paint_index": "699"
   },
   {
     "id": "skin-2296556",
@@ -781,7 +891,9 @@
     "price": 0.96,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Wild Six"
+    "item_name": "Nova | Wild Six",
+    "rarity": "Restricted",
+    "paint_index": "699"
   },
   {
     "id": "skin-2296556",
@@ -795,7 +907,9 @@
     "price": 1.01,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Nova | Wild Six"
+    "item_name": "Nova | Wild Six",
+    "rarity": "Restricted",
+    "paint_index": "699"
   },
   {
     "id": "skin-2296556",
@@ -809,7 +923,9 @@
     "price": 0.22,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Wild Six"
+    "item_name": "Nova | Wild Six",
+    "rarity": "Restricted",
+    "paint_index": "699"
   },
   {
     "id": "skin-2297964",
@@ -823,7 +939,9 @@
     "price": 0.19,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Nova | Windblown"
+    "item_name": "Nova | Windblown",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1051"
   },
   {
     "id": "skin-2297964",
@@ -837,7 +955,9 @@
     "price": 0.2,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Nova | Windblown"
+    "item_name": "Nova | Windblown",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1051"
   },
   {
     "id": "skin-2297964",
@@ -851,7 +971,9 @@
     "price": 0.07,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Windblown"
+    "item_name": "Nova | Windblown",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1051"
   },
   {
     "id": "skin-2297964",
@@ -865,7 +987,9 @@
     "price": 0.45,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Nova | Windblown"
+    "item_name": "Nova | Windblown",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1051"
   },
   {
     "id": "skin-2297964",
@@ -879,7 +1003,9 @@
     "price": 0.07,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Windblown"
+    "item_name": "Nova | Windblown",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1051"
   },
   {
     "id": "skin-2297964",
@@ -893,7 +1019,9 @@
     "price": 0.2,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Nova | Windblown"
+    "item_name": "Nova | Windblown",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1051"
   },
   {
     "id": "skin-2297964",
@@ -907,7 +1035,9 @@
     "price": 0.14,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Windblown"
+    "item_name": "Nova | Windblown",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1051"
   },
   {
     "id": "skin-2297964",
@@ -921,7 +1051,9 @@
     "price": 0.26,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Windblown"
+    "item_name": "Nova | Windblown",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1051"
   },
   {
     "id": "skin-2297964",
@@ -935,7 +1067,9 @@
     "price": 1.03,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Nova | Windblown"
+    "item_name": "Nova | Windblown",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1051"
   },
   {
     "id": "skin-2297964",
@@ -949,7 +1083,9 @@
     "price": 0.07,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Windblown"
+    "item_name": "Nova | Windblown",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1051"
   },
   {
     "id": "skin-2294956",
@@ -963,7 +1099,9 @@
     "price": 0.11,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Caged Steel"
+    "item_name": "Nova | Caged Steel",
+    "rarity": "Industrial Grade",
+    "paint_index": "299"
   },
   {
     "id": "skin-2294956",
@@ -977,7 +1115,9 @@
     "price": 0.09,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Caged Steel"
+    "item_name": "Nova | Caged Steel",
+    "rarity": "Industrial Grade",
+    "paint_index": "299"
   },
   {
     "id": "skin-2294956",
@@ -991,7 +1131,9 @@
     "price": 0.15,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Caged Steel"
+    "item_name": "Nova | Caged Steel",
+    "rarity": "Industrial Grade",
+    "paint_index": "299"
   },
   {
     "id": "skin-2294936",
@@ -1005,7 +1147,9 @@
     "price": 9.67,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Green Apple"
+    "item_name": "Nova | Green Apple",
+    "rarity": "Industrial Grade",
+    "paint_index": "294"
   },
   {
     "id": "skin-2294936",
@@ -1019,7 +1163,9 @@
     "price": 9.08,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Green Apple"
+    "item_name": "Nova | Green Apple",
+    "rarity": "Industrial Grade",
+    "paint_index": "294"
   },
   {
     "id": "skin-2294936",
@@ -1033,7 +1179,9 @@
     "price": 9.19,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Green Apple"
+    "item_name": "Nova | Green Apple",
+    "rarity": "Industrial Grade",
+    "paint_index": "294"
   },
   {
     "id": "skin-2296996",
@@ -1047,7 +1195,9 @@
     "price": 0.68,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Nova | Wood Fired"
+    "item_name": "Nova | Wood Fired",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "809"
   },
   {
     "id": "skin-2296996",
@@ -1061,7 +1211,9 @@
     "price": 0.12,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Nova | Wood Fired"
+    "item_name": "Nova | Wood Fired",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "809"
   },
   {
     "id": "skin-2296996",
@@ -1075,7 +1227,9 @@
     "price": 0.17,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Nova | Wood Fired"
+    "item_name": "Nova | Wood Fired",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "809"
   },
   {
     "id": "skin-2296996",
@@ -1089,7 +1243,9 @@
     "price": 0.25,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Nova | Wood Fired"
+    "item_name": "Nova | Wood Fired",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "809"
   },
   {
     "id": "skin-2296996",
@@ -1103,7 +1259,9 @@
     "price": 0.1,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Wood Fired"
+    "item_name": "Nova | Wood Fired",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "809"
   },
   {
     "id": "skin-2296996",
@@ -1117,7 +1275,9 @@
     "price": 0.18,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Nova | Wood Fired"
+    "item_name": "Nova | Wood Fired",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "809"
   },
   {
     "id": "skin-2296996",
@@ -1131,7 +1291,9 @@
     "price": 0.15,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Wood Fired"
+    "item_name": "Nova | Wood Fired",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "809"
   },
   {
     "id": "skin-2296996",
@@ -1145,7 +1307,9 @@
     "price": 0.07,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Wood Fired"
+    "item_name": "Nova | Wood Fired",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "809"
   },
   {
     "id": "skin-2296996",
@@ -1159,7 +1323,9 @@
     "price": 0.04,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Wood Fired"
+    "item_name": "Nova | Wood Fired",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "809"
   },
   {
     "id": "skin-2296996",
@@ -1173,7 +1339,9 @@
     "price": 0.06,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Wood Fired"
+    "item_name": "Nova | Wood Fired",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "809"
   },
   {
     "id": "skin-2295908",
@@ -1187,7 +1355,9 @@
     "price": 18.51,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Nova | Hyper Beast"
+    "item_name": "Nova | Hyper Beast",
+    "rarity": "Classified",
+    "paint_index": "537"
   },
   {
     "id": "skin-2295908",
@@ -1201,7 +1371,9 @@
     "price": 24.66,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Hyper Beast"
+    "item_name": "Nova | Hyper Beast",
+    "rarity": "Classified",
+    "paint_index": "537"
   },
   {
     "id": "skin-2295908",
@@ -1215,7 +1387,9 @@
     "price": 56.84,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Nova | Hyper Beast"
+    "item_name": "Nova | Hyper Beast",
+    "rarity": "Classified",
+    "paint_index": "537"
   },
   {
     "id": "skin-2295908",
@@ -1229,7 +1403,9 @@
     "price": 34.95,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Nova | Hyper Beast"
+    "item_name": "Nova | Hyper Beast",
+    "rarity": "Classified",
+    "paint_index": "537"
   },
   {
     "id": "skin-2295908",
@@ -1243,7 +1419,9 @@
     "price": 10.39,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Hyper Beast"
+    "item_name": "Nova | Hyper Beast",
+    "rarity": "Classified",
+    "paint_index": "537"
   },
   {
     "id": "skin-2295908",
@@ -1257,7 +1435,9 @@
     "price": 13.46,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Hyper Beast"
+    "item_name": "Nova | Hyper Beast",
+    "rarity": "Classified",
+    "paint_index": "537"
   },
   {
     "id": "skin-2295908",
@@ -1271,7 +1451,9 @@
     "price": 10.28,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Hyper Beast"
+    "item_name": "Nova | Hyper Beast",
+    "rarity": "Classified",
+    "paint_index": "537"
   },
   {
     "id": "skin-2295908",
@@ -1285,7 +1467,9 @@
     "price": 14.58,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Hyper Beast"
+    "item_name": "Nova | Hyper Beast",
+    "rarity": "Classified",
+    "paint_index": "537"
   },
   {
     "id": "skin-2295908",
@@ -1299,7 +1483,9 @@
     "price": 20.84,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Nova | Hyper Beast"
+    "item_name": "Nova | Hyper Beast",
+    "rarity": "Classified",
+    "paint_index": "537"
   },
   {
     "id": "skin-2295908",
@@ -1313,7 +1499,9 @@
     "price": 18.81,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Nova | Hyper Beast"
+    "item_name": "Nova | Hyper Beast",
+    "rarity": "Classified",
+    "paint_index": "537"
   },
   {
     "id": "skin-2296120",
@@ -1327,7 +1515,9 @@
     "price": 0.56,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Nova | Exo"
+    "item_name": "Nova | Exo",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "590"
   },
   {
     "id": "skin-2296120",
@@ -1341,7 +1531,9 @@
     "price": 1.08,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Nova | Exo"
+    "item_name": "Nova | Exo",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "590"
   },
   {
     "id": "skin-2296120",
@@ -1355,7 +1547,9 @@
     "price": 0.39,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Nova | Exo"
+    "item_name": "Nova | Exo",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "590"
   },
   {
     "id": "skin-2296120",
@@ -1369,7 +1563,9 @@
     "price": 0.12,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Exo"
+    "item_name": "Nova | Exo",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "590"
   },
   {
     "id": "skin-2296120",
@@ -1383,7 +1579,9 @@
     "price": 0.14,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Exo"
+    "item_name": "Nova | Exo",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "590"
   },
   {
     "id": "skin-2296120",
@@ -1397,7 +1595,9 @@
     "price": 0.2,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Exo"
+    "item_name": "Nova | Exo",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "590"
   },
   {
     "id": "skin-2296120",
@@ -1411,7 +1611,9 @@
     "price": 0.27,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Nova | Exo"
+    "item_name": "Nova | Exo",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "590"
   },
   {
     "id": "skin-2296120",
@@ -1425,7 +1627,9 @@
     "price": 0.15,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Exo"
+    "item_name": "Nova | Exo",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "590"
   },
   {
     "id": "skin-2296120",
@@ -1439,7 +1643,9 @@
     "price": 0.07,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Exo"
+    "item_name": "Nova | Exo",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "590"
   },
   {
     "id": "skin-2296120",
@@ -1453,7 +1659,9 @@
     "price": 0.4,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Nova | Exo"
+    "item_name": "Nova | Exo",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "590"
   },
   {
     "id": "skin-2294440",
@@ -1467,7 +1675,9 @@
     "price": 0.07,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Predator"
+    "item_name": "Nova | Predator",
+    "rarity": "Consumer Grade",
+    "paint_index": "170"
   },
   {
     "id": "skin-2294440",
@@ -1481,7 +1691,9 @@
     "price": 0.01,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Predator"
+    "item_name": "Nova | Predator",
+    "rarity": "Consumer Grade",
+    "paint_index": "170"
   },
   {
     "id": "skin-2294440",
@@ -1495,7 +1707,9 @@
     "price": 0.02,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Predator"
+    "item_name": "Nova | Predator",
+    "rarity": "Consumer Grade",
+    "paint_index": "170"
   },
   {
     "id": "skin-2294440",
@@ -1509,7 +1723,9 @@
     "price": 0.01,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Predator"
+    "item_name": "Nova | Predator",
+    "rarity": "Consumer Grade",
+    "paint_index": "170"
   },
   {
     "id": "skin-2294440",
@@ -1523,7 +1739,9 @@
     "price": 0.01,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Predator"
+    "item_name": "Nova | Predator",
+    "rarity": "Consumer Grade",
+    "paint_index": "170"
   },
   {
     "id": "skin-2297320",
@@ -1537,7 +1755,9 @@
     "price": 0.62,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Nova | Plume"
+    "item_name": "Nova | Plume",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "890"
   },
   {
     "id": "skin-2297320",
@@ -1551,7 +1771,9 @@
     "price": 1.7,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Nova | Plume"
+    "item_name": "Nova | Plume",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "890"
   },
   {
     "id": "skin-2297320",
@@ -1565,7 +1787,9 @@
     "price": 0.84,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Plume"
+    "item_name": "Nova | Plume",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "890"
   },
   {
     "id": "skin-2297320",
@@ -1579,7 +1803,9 @@
     "price": 0.64,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Nova | Plume"
+    "item_name": "Nova | Plume",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "890"
   },
   {
     "id": "skin-2297320",
@@ -1593,7 +1819,9 @@
     "price": 0.97,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Nova | Plume"
+    "item_name": "Nova | Plume",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "890"
   },
   {
     "id": "skin-2297320",
@@ -1607,7 +1835,9 @@
     "price": 0.86,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Plume"
+    "item_name": "Nova | Plume",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "890"
   },
   {
     "id": "skin-2297320",
@@ -1621,7 +1851,9 @@
     "price": 0.9,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Plume"
+    "item_name": "Nova | Plume",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "890"
   },
   {
     "id": "skin-2297320",
@@ -1635,7 +1867,9 @@
     "price": 0.85,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Plume"
+    "item_name": "Nova | Plume",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "890"
   },
   {
     "id": "skin-2297320",
@@ -1649,7 +1883,9 @@
     "price": 1.04,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Plume"
+    "item_name": "Nova | Plume",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "890"
   },
   {
     "id": "skin-2297320",
@@ -1663,7 +1899,9 @@
     "price": 3.8,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Nova | Plume"
+    "item_name": "Nova | Plume",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "890"
   },
   {
     "id": "skin-2294008",
@@ -1677,7 +1915,9 @@
     "price": 131.63,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Nova | Bloomstick"
+    "item_name": "Nova | Bloomstick",
+    "rarity": "Classified",
+    "paint_index": "62"
   },
   {
     "id": "skin-2294008",
@@ -1691,7 +1931,9 @@
     "price": 12.11,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Bloomstick"
+    "item_name": "Nova | Bloomstick",
+    "rarity": "Classified",
+    "paint_index": "62"
   },
   {
     "id": "skin-2294008",
@@ -1705,7 +1947,9 @@
     "price": 13.71,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Nova | Bloomstick"
+    "item_name": "Nova | Bloomstick",
+    "rarity": "Classified",
+    "paint_index": "62"
   },
   {
     "id": "skin-2294008",
@@ -1719,7 +1963,9 @@
     "price": 4.52,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Bloomstick"
+    "item_name": "Nova | Bloomstick",
+    "rarity": "Classified",
+    "paint_index": "62"
   },
   {
     "id": "skin-2294008",
@@ -1733,7 +1979,9 @@
     "price": 4.93,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Bloomstick"
+    "item_name": "Nova | Bloomstick",
+    "rarity": "Classified",
+    "paint_index": "62"
   },
   {
     "id": "skin-2294008",
@@ -1747,7 +1995,9 @@
     "price": 43.19,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Bloomstick"
+    "item_name": "Nova | Bloomstick",
+    "rarity": "Classified",
+    "paint_index": "62"
   },
   {
     "id": "skin-2294008",
@@ -1761,7 +2011,9 @@
     "price": 11.6,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Nova | Bloomstick"
+    "item_name": "Nova | Bloomstick",
+    "rarity": "Classified",
+    "paint_index": "62"
   },
   {
     "id": "skin-2294008",
@@ -1775,7 +2027,9 @@
     "price": 11.43,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Nova | Bloomstick"
+    "item_name": "Nova | Bloomstick",
+    "rarity": "Classified",
+    "paint_index": "62"
   },
   {
     "id": "skin-2294008",
@@ -1789,7 +2043,9 @@
     "price": 37.57,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Nova | Bloomstick"
+    "item_name": "Nova | Bloomstick",
+    "rarity": "Classified",
+    "paint_index": "62"
   },
   {
     "id": "skin-2294008",
@@ -1803,7 +2059,9 @@
     "price": 4.38,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Bloomstick"
+    "item_name": "Nova | Bloomstick",
+    "rarity": "Classified",
+    "paint_index": "62"
   },
   {
     "id": "skin-2296744",
@@ -1817,7 +2075,9 @@
     "price": 64.45,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Baroque Orange"
+    "item_name": "Nova | Baroque Orange",
+    "rarity": "Restricted",
+    "paint_index": "746"
   },
   {
     "id": "skin-2296744",
@@ -1831,7 +2091,9 @@
     "price": 61.71,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Baroque Orange"
+    "item_name": "Nova | Baroque Orange",
+    "rarity": "Restricted",
+    "paint_index": "746"
   },
   {
     "id": "skin-2296744",
@@ -1845,7 +2107,9 @@
     "price": 74.6,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Baroque Orange"
+    "item_name": "Nova | Baroque Orange",
+    "rarity": "Restricted",
+    "paint_index": "746"
   },
   {
     "id": "skin-2296744",
@@ -1859,7 +2123,9 @@
     "price": 65,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Baroque Orange"
+    "item_name": "Nova | Baroque Orange",
+    "rarity": "Restricted",
+    "paint_index": "746"
   },
   {
     "id": "skin-2296744",
@@ -1873,7 +2139,9 @@
     "price": 71.31,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Baroque Orange"
+    "item_name": "Nova | Baroque Orange",
+    "rarity": "Restricted",
+    "paint_index": "746"
   },
   {
     "id": "skin-2295052",
@@ -1887,7 +2155,9 @@
     "price": 1.23,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Rust Coat"
+    "item_name": "Nova | Rust Coat",
+    "rarity": "Industrial Grade",
+    "paint_index": "323"
   },
   {
     "id": "skin-2295052",
@@ -1901,7 +2171,9 @@
     "price": 1.18,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Rust Coat"
+    "item_name": "Nova | Rust Coat",
+    "rarity": "Industrial Grade",
+    "paint_index": "323"
   },
   {
     "id": "skin-2295052",
@@ -1915,7 +2187,9 @@
     "price": 2.01,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Rust Coat"
+    "item_name": "Nova | Rust Coat",
+    "rarity": "Industrial Grade",
+    "paint_index": "323"
   },
   {
     "id": "skin-2295052",
@@ -1929,7 +2203,9 @@
     "price": 1.32,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Rust Coat"
+    "item_name": "Nova | Rust Coat",
+    "rarity": "Industrial Grade",
+    "paint_index": "323"
   },
   {
     "id": "skin-2295052",
@@ -1943,7 +2219,9 @@
     "price": 1.17,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Rust Coat"
+    "item_name": "Nova | Rust Coat",
+    "rarity": "Industrial Grade",
+    "paint_index": "323"
   },
   {
     "id": "skin-2293772",
@@ -1957,7 +2235,9 @@
     "price": 0.06,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Candy Apple"
+    "item_name": "Nova | Candy Apple",
+    "rarity": "Industrial Grade",
+    "paint_index": "3"
   },
   {
     "id": "skin-2293772",
@@ -1971,7 +2251,9 @@
     "price": 0.06,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Candy Apple"
+    "item_name": "Nova | Candy Apple",
+    "rarity": "Industrial Grade",
+    "paint_index": "3"
   },
   {
     "id": "skin-2293772",
@@ -1985,7 +2267,9 @@
     "price": 0.13,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Candy Apple"
+    "item_name": "Nova | Candy Apple",
+    "rarity": "Industrial Grade",
+    "paint_index": "3"
   },
   {
     "id": "skin-2294752",
@@ -1999,7 +2283,9 @@
     "price": 3.17,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Red Quartz"
+    "item_name": "Nova | Red Quartz",
+    "rarity": "Restricted",
+    "paint_index": "248"
   },
   {
     "id": "skin-2294752",
@@ -2013,7 +2299,9 @@
     "price": 3.35,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Red Quartz"
+    "item_name": "Nova | Red Quartz",
+    "rarity": "Restricted",
+    "paint_index": "248"
   },
   {
     "id": "skin-2294752",
@@ -2027,7 +2315,9 @@
     "price": 5.09,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Red Quartz"
+    "item_name": "Nova | Red Quartz",
+    "rarity": "Restricted",
+    "paint_index": "248"
   },
   {
     "id": "skin-2294752",
@@ -2041,7 +2331,9 @@
     "price": 2.96,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Red Quartz"
+    "item_name": "Nova | Red Quartz",
+    "rarity": "Restricted",
+    "paint_index": "248"
   },
   {
     "id": "skin-2294524",
@@ -2055,7 +2347,9 @@
     "price": 6.16,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Nova | Tempest"
+    "item_name": "Nova | Tempest",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "191"
   },
   {
     "id": "skin-2294524",
@@ -2069,7 +2363,9 @@
     "price": 27.36,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Nova | Tempest"
+    "item_name": "Nova | Tempest",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "191"
   },
   {
     "id": "skin-2294524",
@@ -2083,7 +2379,9 @@
     "price": 10.69,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Tempest"
+    "item_name": "Nova | Tempest",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "191"
   },
   {
     "id": "skin-2294524",
@@ -2097,7 +2395,9 @@
     "price": 4.83,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Tempest"
+    "item_name": "Nova | Tempest",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "191"
   },
   {
     "id": "skin-2294524",
@@ -2111,7 +2411,9 @@
     "price": 6.36,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Nova | Tempest"
+    "item_name": "Nova | Tempest",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "191"
   },
   {
     "id": "skin-2294524",
@@ -2125,7 +2427,9 @@
     "price": 5.29,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Tempest"
+    "item_name": "Nova | Tempest",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "191"
   },
   {
     "id": "skin-2294424",
@@ -2139,7 +2443,9 @@
     "price": 34.69,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Blaze Orange"
+    "item_name": "Nova | Blaze Orange",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "166"
   },
   {
     "id": "skin-2294424",
@@ -2153,7 +2459,9 @@
     "price": 10.27,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Blaze Orange"
+    "item_name": "Nova | Blaze Orange",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "166"
   },
   {
     "id": "skin-2294424",
@@ -2167,7 +2475,9 @@
     "price": 548.52,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Blaze Orange"
+    "item_name": "Nova | Blaze Orange",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "166"
   },
   {
     "id": "skin-2294424",
@@ -2181,7 +2491,9 @@
     "price": 13.58,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Blaze Orange"
+    "item_name": "Nova | Blaze Orange",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "166"
   },
   {
     "id": "skin-2294424",
@@ -2195,7 +2507,9 @@
     "price": 19.8,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Blaze Orange"
+    "item_name": "Nova | Blaze Orange",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "166"
   },
   {
     "id": "skin-2297476",
@@ -2209,7 +2523,9 @@
     "price": 17.19,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Quick Sand"
+    "item_name": "Nova | Quick Sand",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "929"
   },
   {
     "id": "skin-2297476",
@@ -2223,7 +2539,9 @@
     "price": 18.07,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Quick Sand"
+    "item_name": "Nova | Quick Sand",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "929"
   },
   {
     "id": "skin-2297476",
@@ -2237,7 +2555,9 @@
     "price": 17.28,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Quick Sand"
+    "item_name": "Nova | Quick Sand",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "929"
   },
   {
     "id": "skin-2297476",
@@ -2251,7 +2571,9 @@
     "price": 17.14,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Quick Sand"
+    "item_name": "Nova | Quick Sand",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "929"
   },
   {
     "id": "skin-2297476",
@@ -2265,7 +2587,9 @@
     "price": 17.14,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Quick Sand"
+    "item_name": "Nova | Quick Sand",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "929"
   },
   {
     "id": "skin-2297708",
@@ -2279,7 +2603,9 @@
     "price": 2.25,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Nova | Clear Polymer"
+    "item_name": "Nova | Clear Polymer",
+    "rarity": "Restricted",
+    "paint_index": "987"
   },
   {
     "id": "skin-2297708",
@@ -2293,7 +2619,9 @@
     "price": 1.48,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Clear Polymer"
+    "item_name": "Nova | Clear Polymer",
+    "rarity": "Restricted",
+    "paint_index": "987"
   },
   {
     "id": "skin-2297708",
@@ -2307,7 +2635,9 @@
     "price": 2.45,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Nova | Clear Polymer"
+    "item_name": "Nova | Clear Polymer",
+    "rarity": "Restricted",
+    "paint_index": "987"
   },
   {
     "id": "skin-2297708",
@@ -2321,7 +2651,9 @@
     "price": 5.75,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Nova | Clear Polymer"
+    "item_name": "Nova | Clear Polymer",
+    "rarity": "Restricted",
+    "paint_index": "987"
   },
   {
     "id": "skin-2297708",
@@ -2335,7 +2667,9 @@
     "price": 1.85,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Clear Polymer"
+    "item_name": "Nova | Clear Polymer",
+    "rarity": "Restricted",
+    "paint_index": "987"
   },
   {
     "id": "skin-2297708",
@@ -2349,7 +2683,9 @@
     "price": 9.54,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Nova | Clear Polymer"
+    "item_name": "Nova | Clear Polymer",
+    "rarity": "Restricted",
+    "paint_index": "987"
   },
   {
     "id": "skin-2297708",
@@ -2363,7 +2699,9 @@
     "price": 2.75,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Clear Polymer"
+    "item_name": "Nova | Clear Polymer",
+    "rarity": "Restricted",
+    "paint_index": "987"
   },
   {
     "id": "skin-2297708",
@@ -2377,7 +2715,9 @@
     "price": 1.37,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Clear Polymer"
+    "item_name": "Nova | Clear Polymer",
+    "rarity": "Restricted",
+    "paint_index": "987"
   },
   {
     "id": "skin-2297708",
@@ -2391,7 +2731,9 @@
     "price": 2.4,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Nova | Clear Polymer"
+    "item_name": "Nova | Clear Polymer",
+    "rarity": "Restricted",
+    "paint_index": "987"
   },
   {
     "id": "skin-2297708",
@@ -2405,7 +2747,9 @@
     "price": 4.21,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Clear Polymer"
+    "item_name": "Nova | Clear Polymer",
+    "rarity": "Restricted",
+    "paint_index": "987"
   },
   {
     "id": "skin-2294392",
@@ -2419,7 +2763,9 @@
     "price": 16.3,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Walnut"
+    "item_name": "Nova | Walnut",
+    "rarity": "Consumer Grade",
+    "paint_index": "158"
   },
   {
     "id": "skin-2294392",
@@ -2433,7 +2779,9 @@
     "price": 0.88,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Walnut"
+    "item_name": "Nova | Walnut",
+    "rarity": "Consumer Grade",
+    "paint_index": "158"
   },
   {
     "id": "skin-2294392",
@@ -2447,7 +2795,9 @@
     "price": 2.17,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Walnut"
+    "item_name": "Nova | Walnut",
+    "rarity": "Consumer Grade",
+    "paint_index": "158"
   },
   {
     "id": "skin-2294392",
@@ -2461,7 +2811,9 @@
     "price": 0.94,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Walnut"
+    "item_name": "Nova | Walnut",
+    "rarity": "Consumer Grade",
+    "paint_index": "158"
   },
   {
     "id": "skin-2294392",
@@ -2475,7 +2827,9 @@
     "price": 1.01,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Walnut"
+    "item_name": "Nova | Walnut",
+    "rarity": "Consumer Grade",
+    "paint_index": "158"
   },
   {
     "id": "skin-2294188",
@@ -2489,7 +2843,9 @@
     "price": 0.02,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Polar Mesh"
+    "item_name": "Nova | Polar Mesh",
+    "rarity": "Consumer Grade",
+    "paint_index": "107"
   },
   {
     "id": "skin-2294188",
@@ -2503,7 +2859,9 @@
     "price": 0.11,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Polar Mesh"
+    "item_name": "Nova | Polar Mesh",
+    "rarity": "Consumer Grade",
+    "paint_index": "107"
   },
   {
     "id": "skin-2294188",
@@ -2517,7 +2875,9 @@
     "price": 0.02,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Polar Mesh"
+    "item_name": "Nova | Polar Mesh",
+    "rarity": "Consumer Grade",
+    "paint_index": "107"
   },
   {
     "id": "skin-2294188",
@@ -2531,7 +2891,9 @@
     "price": 0.02,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Polar Mesh"
+    "item_name": "Nova | Polar Mesh",
+    "rarity": "Consumer Grade",
+    "paint_index": "107"
   },
   {
     "id": "skin-2294188",
@@ -2545,7 +2907,9 @@
     "price": 0.02,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Polar Mesh"
+    "item_name": "Nova | Polar Mesh",
+    "rarity": "Consumer Grade",
+    "paint_index": "107"
   },
   {
     "id": "skin-2298068",
@@ -2559,7 +2923,9 @@
     "price": 8.9,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Interlock"
+    "item_name": "Nova | Interlock",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1077"
   },
   {
     "id": "skin-2298068",
@@ -2573,7 +2939,9 @@
     "price": 8.45,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Interlock"
+    "item_name": "Nova | Interlock",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1077"
   },
   {
     "id": "skin-2298068",
@@ -2587,7 +2955,9 @@
     "price": 8.83,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Interlock"
+    "item_name": "Nova | Interlock",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1077"
   },
   {
     "id": "skin-2298068",
@@ -2601,7 +2971,9 @@
     "price": 9.77,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Interlock"
+    "item_name": "Nova | Interlock",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1077"
   },
   {
     "id": "skin-2298068",
@@ -2615,7 +2987,9 @@
     "price": 12.3,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Interlock"
+    "item_name": "Nova | Interlock",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1077"
   },
   {
     "id": "skin-2294812",
@@ -2629,7 +3003,9 @@
     "price": 4.51,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Rising Skull"
+    "item_name": "Nova | Rising Skull",
+    "rarity": "Restricted",
+    "paint_index": "263"
   },
   {
     "id": "skin-2294812",
@@ -2643,7 +3019,9 @@
     "price": 31.06,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Nova | Rising Skull"
+    "item_name": "Nova | Rising Skull",
+    "rarity": "Restricted",
+    "paint_index": "263"
   },
   {
     "id": "skin-2294812",
@@ -2657,7 +3035,9 @@
     "price": 3.88,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Rising Skull"
+    "item_name": "Nova | Rising Skull",
+    "rarity": "Restricted",
+    "paint_index": "263"
   },
   {
     "id": "skin-2294812",
@@ -2671,7 +3051,9 @@
     "price": 8.13,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Nova | Rising Skull"
+    "item_name": "Nova | Rising Skull",
+    "rarity": "Restricted",
+    "paint_index": "263"
   },
   {
     "id": "skin-2294812",
@@ -2685,7 +3067,9 @@
     "price": 12.76,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Nova | Rising Skull"
+    "item_name": "Nova | Rising Skull",
+    "rarity": "Restricted",
+    "paint_index": "263"
   },
   {
     "id": "skin-2294812",
@@ -2699,7 +3083,9 @@
     "price": 10.46,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Nova | Rising Skull"
+    "item_name": "Nova | Rising Skull",
+    "rarity": "Restricted",
+    "paint_index": "263"
   },
   {
     "id": "skin-2294812",
@@ -2713,7 +3099,9 @@
     "price": 4.63,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Rising Skull"
+    "item_name": "Nova | Rising Skull",
+    "rarity": "Restricted",
+    "paint_index": "263"
   },
   {
     "id": "skin-2294812",
@@ -2727,7 +3115,9 @@
     "price": 5.35,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Rising Skull"
+    "item_name": "Nova | Rising Skull",
+    "rarity": "Restricted",
+    "paint_index": "263"
   },
   {
     "id": "skin-2294812",
@@ -2741,7 +3131,9 @@
     "price": 3.9,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Rising Skull"
+    "item_name": "Nova | Rising Skull",
+    "rarity": "Restricted",
+    "paint_index": "263"
   },
   {
     "id": "skin-2294812",
@@ -2755,7 +3147,9 @@
     "price": 8.43,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Nova | Rising Skull"
+    "item_name": "Nova | Rising Skull",
+    "rarity": "Restricted",
+    "paint_index": "263"
   },
   {
     "id": "skin-2294416",
@@ -2769,7 +3163,9 @@
     "price": 25.37,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Modern Hunter"
+    "item_name": "Nova | Modern Hunter",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "164"
   },
   {
     "id": "skin-2294416",
@@ -2783,7 +3179,9 @@
     "price": 9.34,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Modern Hunter"
+    "item_name": "Nova | Modern Hunter",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "164"
   },
   {
     "id": "skin-2294416",
@@ -2797,7 +3195,9 @@
     "price": 41,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Modern Hunter"
+    "item_name": "Nova | Modern Hunter",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "164"
   },
   {
     "id": "skin-2294416",
@@ -2811,7 +3211,9 @@
     "price": 246.7,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Modern Hunter"
+    "item_name": "Nova | Modern Hunter",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "164"
   },
   {
     "id": "skin-2294416",
@@ -2825,7 +3227,9 @@
     "price": 33.72,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Modern Hunter"
+    "item_name": "Nova | Modern Hunter",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "164"
   },
   {
     "id": "skin-2294156",
@@ -2839,7 +3243,9 @@
     "price": 0.08,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Sand Dune"
+    "item_name": "Nova | Sand Dune",
+    "rarity": "Consumer Grade",
+    "paint_index": "99"
   },
   {
     "id": "skin-2294156",
@@ -2853,7 +3259,9 @@
     "price": 0.01,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Sand Dune"
+    "item_name": "Nova | Sand Dune",
+    "rarity": "Consumer Grade",
+    "paint_index": "99"
   },
   {
     "id": "skin-2294156",
@@ -2867,7 +3275,9 @@
     "price": 0.01,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Sand Dune"
+    "item_name": "Nova | Sand Dune",
+    "rarity": "Consumer Grade",
+    "paint_index": "99"
   },
   {
     "id": "skin-2294156",
@@ -2881,7 +3291,9 @@
     "price": 0.01,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Sand Dune"
+    "item_name": "Nova | Sand Dune",
+    "rarity": "Consumer Grade",
+    "paint_index": "99"
   },
   {
     "id": "skin-2294156",
@@ -2895,7 +3307,9 @@
     "price": 0.01,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Sand Dune"
+    "item_name": "Nova | Sand Dune",
+    "rarity": "Consumer Grade",
+    "paint_index": "99"
   },
   {
     "id": "skin-2298748",
@@ -2909,7 +3323,9 @@
     "price": 5.78,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Sobek's Bite"
+    "item_name": "Nova | Sobek's Bite",
+    "rarity": "Restricted",
+    "paint_index": "1247"
   },
   {
     "id": "skin-2298748",
@@ -2923,7 +3339,9 @@
     "price": 13.59,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Sobek's Bite"
+    "item_name": "Nova | Sobek's Bite",
+    "rarity": "Restricted",
+    "paint_index": "1247"
   },
   {
     "id": "skin-2298748",
@@ -2937,7 +3355,9 @@
     "price": 6.93,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Sobek's Bite"
+    "item_name": "Nova | Sobek's Bite",
+    "rarity": "Restricted",
+    "paint_index": "1247"
   },
   {
     "id": "skin-2298748",
@@ -2951,7 +3371,9 @@
     "price": 5.34,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Sobek's Bite"
+    "item_name": "Nova | Sobek's Bite",
+    "rarity": "Restricted",
+    "paint_index": "1247"
   },
   {
     "id": "skin-2298748",
@@ -2965,7 +3387,9 @@
     "price": 10.28,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Sobek's Bite"
+    "item_name": "Nova | Sobek's Bite",
+    "rarity": "Restricted",
+    "paint_index": "1247"
   },
   {
     "id": "skin-2294660",
@@ -2979,7 +3403,9 @@
     "price": 1.26,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Ghost Camo"
+    "item_name": "Nova | Ghost Camo",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "225"
   },
   {
     "id": "skin-2294660",
@@ -2993,7 +3419,9 @@
     "price": 3.83,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Nova | Ghost Camo"
+    "item_name": "Nova | Ghost Camo",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "225"
   },
   {
     "id": "skin-2294660",
@@ -3007,7 +3435,9 @@
     "price": 4.55,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Nova | Ghost Camo"
+    "item_name": "Nova | Ghost Camo",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "225"
   },
   {
     "id": "skin-2294660",
@@ -3021,7 +3451,9 @@
     "price": 2.04,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Ghost Camo"
+    "item_name": "Nova | Ghost Camo",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "225"
   },
   {
     "id": "skin-2294660",
@@ -3035,7 +3467,9 @@
     "price": 0.89,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Ghost Camo"
+    "item_name": "Nova | Ghost Camo",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "225"
   },
   {
     "id": "skin-2294660",
@@ -3049,7 +3483,9 @@
     "price": 4.02,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Nova | Ghost Camo"
+    "item_name": "Nova | Ghost Camo",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "225"
   },
   {
     "id": "skin-2294660",
@@ -3063,7 +3499,9 @@
     "price": 0.99,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Ghost Camo"
+    "item_name": "Nova | Ghost Camo",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "225"
   },
   {
     "id": "skin-2294660",
@@ -3077,7 +3515,9 @@
     "price": 4.22,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Nova | Ghost Camo"
+    "item_name": "Nova | Ghost Camo",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "225"
   },
   {
     "id": "skin-2294616",
@@ -3091,7 +3531,9 @@
     "price": 8.09,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Graphite"
+    "item_name": "Nova | Graphite",
+    "rarity": "Restricted",
+    "paint_index": "214"
   },
   {
     "id": "skin-2294616",
@@ -3105,7 +3547,9 @@
     "price": 21.82,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Nova | Graphite"
+    "item_name": "Nova | Graphite",
+    "rarity": "Restricted",
+    "paint_index": "214"
   },
   {
     "id": "skin-2294616",
@@ -3119,7 +3563,9 @@
     "price": 15.56,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Nova | Graphite"
+    "item_name": "Nova | Graphite",
+    "rarity": "Restricted",
+    "paint_index": "214"
   },
   {
     "id": "skin-2294616",
@@ -3133,7 +3579,9 @@
     "price": 6.72,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Graphite"
+    "item_name": "Nova | Graphite",
+    "rarity": "Restricted",
+    "paint_index": "214"
   },
   {
     "id": "skin-2296900",
@@ -3147,7 +3595,9 @@
     "price": 0.01,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Mandrel"
+    "item_name": "Nova | Mandrel",
+    "rarity": "Consumer Grade",
+    "paint_index": "785"
   },
   {
     "id": "skin-2296900",
@@ -3161,7 +3611,9 @@
     "price": 0.01,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Mandrel"
+    "item_name": "Nova | Mandrel",
+    "rarity": "Consumer Grade",
+    "paint_index": "785"
   },
   {
     "id": "skin-2296900",
@@ -3175,7 +3627,9 @@
     "price": 0.03,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Mandrel"
+    "item_name": "Nova | Mandrel",
+    "rarity": "Consumer Grade",
+    "paint_index": "785"
   },
   {
     "id": "skin-2296900",
@@ -3189,7 +3643,9 @@
     "price": 0.01,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Mandrel"
+    "item_name": "Nova | Mandrel",
+    "rarity": "Consumer Grade",
+    "paint_index": "785"
   },
   {
     "id": "skin-2296900",
@@ -3203,7 +3659,9 @@
     "price": 0.01,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Mandrel"
+    "item_name": "Nova | Mandrel",
+    "rarity": "Consumer Grade",
+    "paint_index": "785"
   },
   {
     "id": "skin-2294952",
@@ -3217,7 +3675,9 @@
     "price": 0.37,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Army Sheen"
+    "item_name": "Nova | Army Sheen",
+    "rarity": "Consumer Grade",
+    "paint_index": "298"
   },
   {
     "id": "skin-2294952",
@@ -3231,7 +3691,9 @@
     "price": 0.43,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Army Sheen"
+    "item_name": "Nova | Army Sheen",
+    "rarity": "Consumer Grade",
+    "paint_index": "298"
   },
   {
     "id": "skin-2294952",
@@ -3245,6 +3707,8 @@
     "price": 0.38,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Nova | Army Sheen"
+    "item_name": "Nova | Army Sheen",
+    "rarity": "Consumer Grade",
+    "paint_index": "298"
   }
 ]

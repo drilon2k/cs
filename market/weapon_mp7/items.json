@@ -11,7 +11,9 @@
     "price": 0.65,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP7 | Akoben"
+    "item_name": "MP7 | Akoben",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "649"
   },
   {
     "id": "skin-2165284",
@@ -25,7 +27,9 @@
     "price": 0.23,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP7 | Akoben"
+    "item_name": "MP7 | Akoben",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "649"
   },
   {
     "id": "skin-2165284",
@@ -39,7 +43,9 @@
     "price": 0.25,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Akoben"
+    "item_name": "MP7 | Akoben",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "649"
   },
   {
     "id": "skin-2165284",
@@ -53,7 +59,9 @@
     "price": 0.19,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Akoben"
+    "item_name": "MP7 | Akoben",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "649"
   },
   {
     "id": "skin-2165284",
@@ -67,7 +75,9 @@
     "price": 0.17,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP7 | Akoben"
+    "item_name": "MP7 | Akoben",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "649"
   },
   {
     "id": "skin-2165284",
@@ -81,7 +91,9 @@
     "price": 0.17,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Akoben"
+    "item_name": "MP7 | Akoben",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "649"
   },
   {
     "id": "skin-2165284",
@@ -95,7 +107,9 @@
     "price": 0.25,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP7 | Akoben"
+    "item_name": "MP7 | Akoben",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "649"
   },
   {
     "id": "skin-2165284",
@@ -109,7 +123,9 @@
     "price": 0.15,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Akoben"
+    "item_name": "MP7 | Akoben",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "649"
   },
   {
     "id": "skin-2165284",
@@ -123,7 +139,9 @@
     "price": 0.16,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Akoben"
+    "item_name": "MP7 | Akoben",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "649"
   },
   {
     "id": "skin-2165284",
@@ -137,7 +155,9 @@
     "price": 0.46,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP7 | Akoben"
+    "item_name": "MP7 | Akoben",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "649"
   },
   {
     "id": "skin-2166716",
@@ -151,7 +171,9 @@
     "price": 1.36,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Vault Heist"
+    "item_name": "MP7 | Vault Heist",
+    "rarity": "Industrial Grade",
+    "paint_index": "1007"
   },
   {
     "id": "skin-2166716",
@@ -165,7 +187,9 @@
     "price": 1.41,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Vault Heist"
+    "item_name": "MP7 | Vault Heist",
+    "rarity": "Industrial Grade",
+    "paint_index": "1007"
   },
   {
     "id": "skin-2166716",
@@ -179,7 +203,9 @@
     "price": 1.19,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Vault Heist"
+    "item_name": "MP7 | Vault Heist",
+    "rarity": "Industrial Grade",
+    "paint_index": "1007"
   },
   {
     "id": "skin-2166716",
@@ -193,7 +219,9 @@
     "price": 1.17,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Vault Heist"
+    "item_name": "MP7 | Vault Heist",
+    "rarity": "Industrial Grade",
+    "paint_index": "1007"
   },
   {
     "id": "skin-2166716",
@@ -207,7 +235,9 @@
     "price": 1.2,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Vault Heist"
+    "item_name": "MP7 | Vault Heist",
+    "rarity": "Industrial Grade",
+    "paint_index": "1007"
   },
   {
     "id": "skin-2164456",
@@ -221,7 +251,9 @@
     "price": 2.88,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Asterion"
+    "item_name": "MP7 | Asterion",
+    "rarity": "Consumer Grade",
+    "paint_index": "442"
   },
   {
     "id": "skin-2164456",
@@ -235,7 +267,9 @@
     "price": 2.7,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Asterion"
+    "item_name": "MP7 | Asterion",
+    "rarity": "Consumer Grade",
+    "paint_index": "442"
   },
   {
     "id": "skin-2164456",
@@ -249,7 +283,9 @@
     "price": 2.73,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Asterion"
+    "item_name": "MP7 | Asterion",
+    "rarity": "Consumer Grade",
+    "paint_index": "442"
   },
   {
     "id": "skin-2164456",
@@ -263,7 +299,9 @@
     "price": 2.77,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Asterion"
+    "item_name": "MP7 | Asterion",
+    "rarity": "Consumer Grade",
+    "paint_index": "442"
   },
   {
     "id": "skin-2164456",
@@ -277,7 +315,9 @@
     "price": 2.73,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Asterion"
+    "item_name": "MP7 | Asterion",
+    "rarity": "Consumer Grade",
+    "paint_index": "442"
   },
   {
     "id": "skin-2165196",
@@ -291,7 +331,9 @@
     "price": 0.07,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Cirrus"
+    "item_name": "MP7 | Cirrus",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "627"
   },
   {
     "id": "skin-2165196",
@@ -305,7 +347,9 @@
     "price": 0.44,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Cirrus"
+    "item_name": "MP7 | Cirrus",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "627"
   },
   {
     "id": "skin-2165196",
@@ -319,7 +363,9 @@
     "price": 0.07,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Cirrus"
+    "item_name": "MP7 | Cirrus",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "627"
   },
   {
     "id": "skin-2165196",
@@ -333,7 +379,9 @@
     "price": 0.14,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Cirrus"
+    "item_name": "MP7 | Cirrus",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "627"
   },
   {
     "id": "skin-2165196",
@@ -347,7 +395,9 @@
     "price": 2.14,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP7 | Cirrus"
+    "item_name": "MP7 | Cirrus",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "627"
   },
   {
     "id": "skin-2165196",
@@ -361,7 +411,9 @@
     "price": 0.19,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP7 | Cirrus"
+    "item_name": "MP7 | Cirrus",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "627"
   },
   {
     "id": "skin-2165196",
@@ -375,7 +427,9 @@
     "price": 0.13,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Cirrus"
+    "item_name": "MP7 | Cirrus",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "627"
   },
   {
     "id": "skin-2165196",
@@ -389,7 +443,9 @@
     "price": 0.25,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP7 | Cirrus"
+    "item_name": "MP7 | Cirrus",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "627"
   },
   {
     "id": "skin-2165196",
@@ -403,7 +459,9 @@
     "price": 0.69,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP7 | Cirrus"
+    "item_name": "MP7 | Cirrus",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "627"
   },
   {
     "id": "skin-2165196",
@@ -417,7 +475,9 @@
     "price": 0.69,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP7 | Cirrus"
+    "item_name": "MP7 | Cirrus",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "627"
   },
   {
     "id": "skin-2162748",
@@ -431,7 +491,9 @@
     "price": 1.23,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Gunsmoke"
+    "item_name": "MP7 | Gunsmoke",
+    "rarity": "Industrial Grade",
+    "paint_index": "15"
   },
   {
     "id": "skin-2162748",
@@ -445,7 +507,9 @@
     "price": 1.11,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Gunsmoke"
+    "item_name": "MP7 | Gunsmoke",
+    "rarity": "Industrial Grade",
+    "paint_index": "15"
   },
   {
     "id": "skin-2162748",
@@ -459,7 +523,9 @@
     "price": 1.19,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Gunsmoke"
+    "item_name": "MP7 | Gunsmoke",
+    "rarity": "Industrial Grade",
+    "paint_index": "15"
   },
   {
     "id": "skin-2162748",
@@ -473,7 +539,9 @@
     "price": 1.49,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Gunsmoke"
+    "item_name": "MP7 | Gunsmoke",
+    "rarity": "Industrial Grade",
+    "paint_index": "15"
   },
   {
     "id": "skin-2162748",
@@ -487,7 +555,9 @@
     "price": 5.59,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Gunsmoke"
+    "item_name": "MP7 | Gunsmoke",
+    "rarity": "Industrial Grade",
+    "paint_index": "15"
   },
   {
     "id": "skin-2167072",
@@ -501,7 +571,9 @@
     "price": 0.23,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Guerrilla"
+    "item_name": "MP7 | Guerrilla",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1096"
   },
   {
     "id": "skin-2167072",
@@ -515,7 +587,9 @@
     "price": 0.28,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Guerrilla"
+    "item_name": "MP7 | Guerrilla",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1096"
   },
   {
     "id": "skin-2167072",
@@ -529,7 +603,9 @@
     "price": 0.22,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Guerrilla"
+    "item_name": "MP7 | Guerrilla",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1096"
   },
   {
     "id": "skin-2167072",
@@ -543,7 +619,9 @@
     "price": 0.31,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP7 | Guerrilla"
+    "item_name": "MP7 | Guerrilla",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1096"
   },
   {
     "id": "skin-2167072",
@@ -557,7 +635,9 @@
     "price": 0.54,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Guerrilla"
+    "item_name": "MP7 | Guerrilla",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1096"
   },
   {
     "id": "skin-2167072",
@@ -571,7 +651,9 @@
     "price": 0.32,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP7 | Guerrilla"
+    "item_name": "MP7 | Guerrilla",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1096"
   },
   {
     "id": "skin-2167072",
@@ -585,7 +667,9 @@
     "price": 0.53,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP7 | Guerrilla"
+    "item_name": "MP7 | Guerrilla",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1096"
   },
   {
     "id": "skin-2167072",
@@ -599,7 +683,9 @@
     "price": 1.48,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP7 | Guerrilla"
+    "item_name": "MP7 | Guerrilla",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1096"
   },
   {
     "id": "skin-2167072",
@@ -613,7 +699,9 @@
     "price": 1.01,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Guerrilla"
+    "item_name": "MP7 | Guerrilla",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1096"
   },
   {
     "id": "skin-2167072",
@@ -627,7 +715,9 @@
     "price": 4.1,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP7 | Guerrilla"
+    "item_name": "MP7 | Guerrilla",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1096"
   },
   {
     "id": "skin-2164612",
@@ -641,7 +731,9 @@
     "price": 4.5,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Nemesis"
+    "item_name": "MP7 | Nemesis",
+    "rarity": "Classified",
+    "paint_index": "481"
   },
   {
     "id": "skin-2164612",
@@ -655,7 +747,9 @@
     "price": 3.68,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Nemesis"
+    "item_name": "MP7 | Nemesis",
+    "rarity": "Classified",
+    "paint_index": "481"
   },
   {
     "id": "skin-2164612",
@@ -669,7 +763,9 @@
     "price": 9.72,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Nemesis"
+    "item_name": "MP7 | Nemesis",
+    "rarity": "Classified",
+    "paint_index": "481"
   },
   {
     "id": "skin-2164612",
@@ -683,7 +779,9 @@
     "price": 13.12,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP7 | Nemesis"
+    "item_name": "MP7 | Nemesis",
+    "rarity": "Classified",
+    "paint_index": "481"
   },
   {
     "id": "skin-2164612",
@@ -697,7 +795,9 @@
     "price": 25.82,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP7 | Nemesis"
+    "item_name": "MP7 | Nemesis",
+    "rarity": "Classified",
+    "paint_index": "481"
   },
   {
     "id": "skin-2164612",
@@ -711,7 +811,9 @@
     "price": 9.53,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP7 | Nemesis"
+    "item_name": "MP7 | Nemesis",
+    "rarity": "Classified",
+    "paint_index": "481"
   },
   {
     "id": "skin-2165564",
@@ -725,7 +827,9 @@
     "price": 0.98,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Powercore"
+    "item_name": "MP7 | Powercore",
+    "rarity": "Restricted",
+    "paint_index": "719"
   },
   {
     "id": "skin-2165564",
@@ -739,7 +843,9 @@
     "price": 2.74,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP7 | Powercore"
+    "item_name": "MP7 | Powercore",
+    "rarity": "Restricted",
+    "paint_index": "719"
   },
   {
     "id": "skin-2165564",
@@ -753,7 +859,9 @@
     "price": 0.46,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Powercore"
+    "item_name": "MP7 | Powercore",
+    "rarity": "Restricted",
+    "paint_index": "719"
   },
   {
     "id": "skin-2165564",
@@ -767,7 +875,9 @@
     "price": 5.63,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP7 | Powercore"
+    "item_name": "MP7 | Powercore",
+    "rarity": "Restricted",
+    "paint_index": "719"
   },
   {
     "id": "skin-2165564",
@@ -781,7 +891,9 @@
     "price": 1.16,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP7 | Powercore"
+    "item_name": "MP7 | Powercore",
+    "rarity": "Restricted",
+    "paint_index": "719"
   },
   {
     "id": "skin-2165564",
@@ -795,7 +907,9 @@
     "price": 0.5,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Powercore"
+    "item_name": "MP7 | Powercore",
+    "rarity": "Restricted",
+    "paint_index": "719"
   },
   {
     "id": "skin-2165564",
@@ -809,7 +923,9 @@
     "price": 0.97,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP7 | Powercore"
+    "item_name": "MP7 | Powercore",
+    "rarity": "Restricted",
+    "paint_index": "719"
   },
   {
     "id": "skin-2165564",
@@ -823,7 +939,9 @@
     "price": 0.38,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Powercore"
+    "item_name": "MP7 | Powercore",
+    "rarity": "Restricted",
+    "paint_index": "719"
   },
   {
     "id": "skin-2165564",
@@ -837,7 +955,9 @@
     "price": 1.06,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP7 | Powercore"
+    "item_name": "MP7 | Powercore",
+    "rarity": "Restricted",
+    "paint_index": "719"
   },
   {
     "id": "skin-2165564",
@@ -851,7 +971,9 @@
     "price": 2.12,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Powercore"
+    "item_name": "MP7 | Powercore",
+    "rarity": "Restricted",
+    "paint_index": "719"
   },
   {
     "id": "skin-2164832",
@@ -865,7 +987,9 @@
     "price": 2.01,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Impire"
+    "item_name": "MP7 | Impire",
+    "rarity": "Restricted",
+    "paint_index": "536"
   },
   {
     "id": "skin-2164832",
@@ -879,7 +1003,9 @@
     "price": 2.02,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Impire"
+    "item_name": "MP7 | Impire",
+    "rarity": "Restricted",
+    "paint_index": "536"
   },
   {
     "id": "skin-2164832",
@@ -893,7 +1019,9 @@
     "price": 6.85,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP7 | Impire"
+    "item_name": "MP7 | Impire",
+    "rarity": "Restricted",
+    "paint_index": "536"
   },
   {
     "id": "skin-2164832",
@@ -907,7 +1035,9 @@
     "price": 3.74,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP7 | Impire"
+    "item_name": "MP7 | Impire",
+    "rarity": "Restricted",
+    "paint_index": "536"
   },
   {
     "id": "skin-2164832",
@@ -921,7 +1051,9 @@
     "price": 1.6,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Impire"
+    "item_name": "MP7 | Impire",
+    "rarity": "Restricted",
+    "paint_index": "536"
   },
   {
     "id": "skin-2164832",
@@ -935,7 +1067,9 @@
     "price": 2.99,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Impire"
+    "item_name": "MP7 | Impire",
+    "rarity": "Restricted",
+    "paint_index": "536"
   },
   {
     "id": "skin-2164832",
@@ -949,7 +1083,9 @@
     "price": 3.88,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP7 | Impire"
+    "item_name": "MP7 | Impire",
+    "rarity": "Restricted",
+    "paint_index": "536"
   },
   {
     "id": "skin-2164832",
@@ -963,7 +1099,9 @@
     "price": 5.06,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP7 | Impire"
+    "item_name": "MP7 | Impire",
+    "rarity": "Restricted",
+    "paint_index": "536"
   },
   {
     "id": "skin-2166076",
@@ -977,7 +1115,9 @@
     "price": 0.08,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Mischief"
+    "item_name": "MP7 | Mischief",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "847"
   },
   {
     "id": "skin-2166076",
@@ -991,7 +1131,9 @@
     "price": 0.19,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP7 | Mischief"
+    "item_name": "MP7 | Mischief",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "847"
   },
   {
     "id": "skin-2166076",
@@ -1005,7 +1147,9 @@
     "price": 0.26,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Mischief"
+    "item_name": "MP7 | Mischief",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "847"
   },
   {
     "id": "skin-2166076",
@@ -1019,7 +1163,9 @@
     "price": 0.18,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP7 | Mischief"
+    "item_name": "MP7 | Mischief",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "847"
   },
   {
     "id": "skin-2166076",
@@ -1033,7 +1179,9 @@
     "price": 0.06,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Mischief"
+    "item_name": "MP7 | Mischief",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "847"
   },
   {
     "id": "skin-2166076",
@@ -1047,7 +1195,9 @@
     "price": 0.07,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Mischief"
+    "item_name": "MP7 | Mischief",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "847"
   },
   {
     "id": "skin-2166076",
@@ -1061,7 +1211,9 @@
     "price": 1.16,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP7 | Mischief"
+    "item_name": "MP7 | Mischief",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "847"
   },
   {
     "id": "skin-2166076",
@@ -1075,7 +1227,9 @@
     "price": 0.2,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP7 | Mischief"
+    "item_name": "MP7 | Mischief",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "847"
   },
   {
     "id": "skin-2162732",
@@ -1089,7 +1243,9 @@
     "price": 13.35,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Skulls"
+    "item_name": "MP7 | Skulls",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "11"
   },
   {
     "id": "skin-2162732",
@@ -1103,7 +1259,9 @@
     "price": 14.45,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP7 | Skulls"
+    "item_name": "MP7 | Skulls",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "11"
   },
   {
     "id": "skin-2162732",
@@ -1117,7 +1275,9 @@
     "price": 14.66,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP7 | Skulls"
+    "item_name": "MP7 | Skulls",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "11"
   },
   {
     "id": "skin-2162732",
@@ -1131,7 +1291,9 @@
     "price": 13.56,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Skulls"
+    "item_name": "MP7 | Skulls",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "11"
   },
   {
     "id": "skin-2164104",
@@ -1145,7 +1307,9 @@
     "price": 0.11,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Urban Hazard"
+    "item_name": "MP7 | Urban Hazard",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "354"
   },
   {
     "id": "skin-2164104",
@@ -1159,7 +1323,9 @@
     "price": 0.08,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Urban Hazard"
+    "item_name": "MP7 | Urban Hazard",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "354"
   },
   {
     "id": "skin-2164104",
@@ -1173,7 +1339,9 @@
     "price": 0.16,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Urban Hazard"
+    "item_name": "MP7 | Urban Hazard",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "354"
   },
   {
     "id": "skin-2164104",
@@ -1187,7 +1355,9 @@
     "price": 0.19,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP7 | Urban Hazard"
+    "item_name": "MP7 | Urban Hazard",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "354"
   },
   {
     "id": "skin-2164104",
@@ -1201,7 +1371,9 @@
     "price": 0.09,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Urban Hazard"
+    "item_name": "MP7 | Urban Hazard",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "354"
   },
   {
     "id": "skin-2164104",
@@ -1215,7 +1387,9 @@
     "price": 0.18,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP7 | Urban Hazard"
+    "item_name": "MP7 | Urban Hazard",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "354"
   },
   {
     "id": "skin-2164104",
@@ -1229,7 +1403,9 @@
     "price": 0.6,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP7 | Urban Hazard"
+    "item_name": "MP7 | Urban Hazard",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "354"
   },
   {
     "id": "skin-2164104",
@@ -1243,7 +1419,9 @@
     "price": 0.31,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP7 | Urban Hazard"
+    "item_name": "MP7 | Urban Hazard",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "354"
   },
   {
     "id": "skin-2164104",
@@ -1257,7 +1435,9 @@
     "price": 0.2,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP7 | Urban Hazard"
+    "item_name": "MP7 | Urban Hazard",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "354"
   },
   {
     "id": "skin-2164104",
@@ -1271,7 +1451,9 @@
     "price": 0.05,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Urban Hazard"
+    "item_name": "MP7 | Urban Hazard",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "354"
   },
   {
     "id": "skin-2167672",
@@ -1285,7 +1467,9 @@
     "price": 0.03,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Sunbaked"
+    "item_name": "MP7 | Sunbaked",
+    "rarity": "Consumer Grade",
+    "paint_index": "1246"
   },
   {
     "id": "skin-2167672",
@@ -1299,7 +1483,9 @@
     "price": 0.1,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Sunbaked"
+    "item_name": "MP7 | Sunbaked",
+    "rarity": "Consumer Grade",
+    "paint_index": "1246"
   },
   {
     "id": "skin-2167672",
@@ -1313,7 +1499,9 @@
     "price": 0.02,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Sunbaked"
+    "item_name": "MP7 | Sunbaked",
+    "rarity": "Consumer Grade",
+    "paint_index": "1246"
   },
   {
     "id": "skin-2167672",
@@ -1327,7 +1515,9 @@
     "price": 0.02,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Sunbaked"
+    "item_name": "MP7 | Sunbaked",
+    "rarity": "Consumer Grade",
+    "paint_index": "1246"
   },
   {
     "id": "skin-2167672",
@@ -1341,7 +1531,9 @@
     "price": 0.02,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Sunbaked"
+    "item_name": "MP7 | Sunbaked",
+    "rarity": "Consumer Grade",
+    "paint_index": "1246"
   },
   {
     "id": "skin-2164380",
@@ -1355,7 +1547,9 @@
     "price": 0.18,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP7 | Armor Core"
+    "item_name": "MP7 | Armor Core",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "423"
   },
   {
     "id": "skin-2164380",
@@ -1369,7 +1563,9 @@
     "price": 0.06,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Armor Core"
+    "item_name": "MP7 | Armor Core",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "423"
   },
   {
     "id": "skin-2164380",
@@ -1383,7 +1579,9 @@
     "price": 0.19,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP7 | Armor Core"
+    "item_name": "MP7 | Armor Core",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "423"
   },
   {
     "id": "skin-2164380",
@@ -1397,7 +1595,9 @@
     "price": 0.06,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Armor Core"
+    "item_name": "MP7 | Armor Core",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "423"
   },
   {
     "id": "skin-2164380",
@@ -1411,7 +1611,9 @@
     "price": 0.3,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP7 | Armor Core"
+    "item_name": "MP7 | Armor Core",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "423"
   },
   {
     "id": "skin-2164380",
@@ -1425,7 +1627,9 @@
     "price": 0.11,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Armor Core"
+    "item_name": "MP7 | Armor Core",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "423"
   },
   {
     "id": "skin-2164380",
@@ -1439,7 +1643,9 @@
     "price": 0.1,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Armor Core"
+    "item_name": "MP7 | Armor Core",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "423"
   },
   {
     "id": "skin-2164380",
@@ -1453,7 +1659,9 @@
     "price": 0.23,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP7 | Armor Core"
+    "item_name": "MP7 | Armor Core",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "423"
   },
   {
     "id": "skin-2164380",
@@ -1467,7 +1675,9 @@
     "price": 0.18,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Armor Core"
+    "item_name": "MP7 | Armor Core",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "423"
   },
   {
     "id": "skin-2164380",
@@ -1481,7 +1691,9 @@
     "price": 0.65,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP7 | Armor Core"
+    "item_name": "MP7 | Armor Core",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "423"
   },
   {
     "id": "skin-2162708",
@@ -1495,7 +1707,9 @@
     "price": 0.01,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Forest DDPAT"
+    "item_name": "MP7 | Forest DDPAT",
+    "rarity": "Consumer Grade",
+    "paint_index": "5"
   },
   {
     "id": "skin-2162708",
@@ -1509,7 +1723,9 @@
     "price": 0.05,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Forest DDPAT"
+    "item_name": "MP7 | Forest DDPAT",
+    "rarity": "Consumer Grade",
+    "paint_index": "5"
   },
   {
     "id": "skin-2162708",
@@ -1523,7 +1739,9 @@
     "price": 0.02,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Forest DDPAT"
+    "item_name": "MP7 | Forest DDPAT",
+    "rarity": "Consumer Grade",
+    "paint_index": "5"
   },
   {
     "id": "skin-2162708",
@@ -1537,7 +1755,9 @@
     "price": 0.01,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Forest DDPAT"
+    "item_name": "MP7 | Forest DDPAT",
+    "rarity": "Consumer Grade",
+    "paint_index": "5"
   },
   {
     "id": "skin-2162708",
@@ -1551,7 +1771,9 @@
     "price": 0.01,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Forest DDPAT"
+    "item_name": "MP7 | Forest DDPAT",
+    "rarity": "Consumer Grade",
+    "paint_index": "5"
   },
   {
     "id": "skin-2163540",
@@ -1565,7 +1787,9 @@
     "price": 7.42,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP7 | Ocean Foam"
+    "item_name": "MP7 | Ocean Foam",
+    "rarity": "Restricted",
+    "paint_index": "213"
   },
   {
     "id": "skin-2163540",
@@ -1579,7 +1803,9 @@
     "price": 3,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Ocean Foam"
+    "item_name": "MP7 | Ocean Foam",
+    "rarity": "Restricted",
+    "paint_index": "213"
   },
   {
     "id": "skin-2163540",
@@ -1593,7 +1819,9 @@
     "price": 7.86,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP7 | Ocean Foam"
+    "item_name": "MP7 | Ocean Foam",
+    "rarity": "Restricted",
+    "paint_index": "213"
   },
   {
     "id": "skin-2163540",
@@ -1607,7 +1835,9 @@
     "price": 3.21,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Ocean Foam"
+    "item_name": "MP7 | Ocean Foam",
+    "rarity": "Restricted",
+    "paint_index": "213"
   },
   {
     "id": "skin-2164688",
@@ -1621,7 +1851,9 @@
     "price": 3.89,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP7 | Special Delivery"
+    "item_name": "MP7 | Special Delivery",
+    "rarity": "Restricted",
+    "paint_index": "500"
   },
   {
     "id": "skin-2164688",
@@ -1635,7 +1867,9 @@
     "price": 0.67,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Special Delivery"
+    "item_name": "MP7 | Special Delivery",
+    "rarity": "Restricted",
+    "paint_index": "500"
   },
   {
     "id": "skin-2164688",
@@ -1649,7 +1883,9 @@
     "price": 1.63,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Special Delivery"
+    "item_name": "MP7 | Special Delivery",
+    "rarity": "Restricted",
+    "paint_index": "500"
   },
   {
     "id": "skin-2164688",
@@ -1663,7 +1899,9 @@
     "price": 0.85,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Special Delivery"
+    "item_name": "MP7 | Special Delivery",
+    "rarity": "Restricted",
+    "paint_index": "500"
   },
   {
     "id": "skin-2164688",
@@ -1677,7 +1915,9 @@
     "price": 1.89,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP7 | Special Delivery"
+    "item_name": "MP7 | Special Delivery",
+    "rarity": "Restricted",
+    "paint_index": "500"
   },
   {
     "id": "skin-2164688",
@@ -1691,7 +1931,9 @@
     "price": 1.8,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP7 | Special Delivery"
+    "item_name": "MP7 | Special Delivery",
+    "rarity": "Restricted",
+    "paint_index": "500"
   },
   {
     "id": "skin-2164688",
@@ -1705,7 +1947,9 @@
     "price": 2.37,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP7 | Special Delivery"
+    "item_name": "MP7 | Special Delivery",
+    "rarity": "Restricted",
+    "paint_index": "500"
   },
   {
     "id": "skin-2164688",
@@ -1719,7 +1963,9 @@
     "price": 2.54,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Special Delivery"
+    "item_name": "MP7 | Special Delivery",
+    "rarity": "Restricted",
+    "paint_index": "500"
   },
   {
     "id": "skin-2164688",
@@ -1733,7 +1979,9 @@
     "price": 1.22,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Special Delivery"
+    "item_name": "MP7 | Special Delivery",
+    "rarity": "Restricted",
+    "paint_index": "500"
   },
   {
     "id": "skin-2164688",
@@ -1747,7 +1995,9 @@
     "price": 7.64,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP7 | Special Delivery"
+    "item_name": "MP7 | Special Delivery",
+    "rarity": "Restricted",
+    "paint_index": "500"
   },
   {
     "id": "skin-2166260",
@@ -1761,7 +2011,9 @@
     "price": 0.74,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Neon Ply"
+    "item_name": "MP7 | Neon Ply",
+    "rarity": "Restricted",
+    "paint_index": "893"
   },
   {
     "id": "skin-2166260",
@@ -1775,7 +2027,9 @@
     "price": 1.91,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP7 | Neon Ply"
+    "item_name": "MP7 | Neon Ply",
+    "rarity": "Restricted",
+    "paint_index": "893"
   },
   {
     "id": "skin-2166260",
@@ -1789,7 +2043,9 @@
     "price": 2.08,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP7 | Neon Ply"
+    "item_name": "MP7 | Neon Ply",
+    "rarity": "Restricted",
+    "paint_index": "893"
   },
   {
     "id": "skin-2166260",
@@ -1803,7 +2059,9 @@
     "price": 13.04,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP7 | Neon Ply"
+    "item_name": "MP7 | Neon Ply",
+    "rarity": "Restricted",
+    "paint_index": "893"
   },
   {
     "id": "skin-2166260",
@@ -1817,7 +2075,9 @@
     "price": 1.86,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP7 | Neon Ply"
+    "item_name": "MP7 | Neon Ply",
+    "rarity": "Restricted",
+    "paint_index": "893"
   },
   {
     "id": "skin-2166260",
@@ -1831,7 +2091,9 @@
     "price": 1.1,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Neon Ply"
+    "item_name": "MP7 | Neon Ply",
+    "rarity": "Restricted",
+    "paint_index": "893"
   },
   {
     "id": "skin-2166260",
@@ -1845,7 +2107,9 @@
     "price": 5.49,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP7 | Neon Ply"
+    "item_name": "MP7 | Neon Ply",
+    "rarity": "Restricted",
+    "paint_index": "893"
   },
   {
     "id": "skin-2166260",
@@ -1859,7 +2123,9 @@
     "price": 1.16,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Neon Ply"
+    "item_name": "MP7 | Neon Ply",
+    "rarity": "Restricted",
+    "paint_index": "893"
   },
   {
     "id": "skin-2166260",
@@ -1873,7 +2139,9 @@
     "price": 4.73,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Neon Ply"
+    "item_name": "MP7 | Neon Ply",
+    "rarity": "Restricted",
+    "paint_index": "893"
   },
   {
     "id": "skin-2166260",
@@ -1887,7 +2155,9 @@
     "price": 2.11,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Neon Ply"
+    "item_name": "MP7 | Neon Ply",
+    "rarity": "Restricted",
+    "paint_index": "893"
   },
   {
     "id": "skin-2163252",
@@ -1901,7 +2171,9 @@
     "price": 13.7,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Orange Peel"
+    "item_name": "MP7 | Orange Peel",
+    "rarity": "Industrial Grade",
+    "paint_index": "141"
   },
   {
     "id": "skin-2163252",
@@ -1915,7 +2187,9 @@
     "price": 5.85,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Orange Peel"
+    "item_name": "MP7 | Orange Peel",
+    "rarity": "Industrial Grade",
+    "paint_index": "141"
   },
   {
     "id": "skin-2163252",
@@ -1929,7 +2203,9 @@
     "price": 9.46,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Orange Peel"
+    "item_name": "MP7 | Orange Peel",
+    "rarity": "Industrial Grade",
+    "paint_index": "141"
   },
   {
     "id": "skin-2163252",
@@ -1943,7 +2219,9 @@
     "price": 4.78,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Orange Peel"
+    "item_name": "MP7 | Orange Peel",
+    "rarity": "Industrial Grade",
+    "paint_index": "141"
   },
   {
     "id": "skin-2163252",
@@ -1957,7 +2235,9 @@
     "price": 5.84,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Orange Peel"
+    "item_name": "MP7 | Orange Peel",
+    "rarity": "Industrial Grade",
+    "paint_index": "141"
   },
   {
     "id": "skin-2165816",
@@ -1971,7 +2251,9 @@
     "price": 0.12,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Motherboard"
+    "item_name": "MP7 | Motherboard",
+    "rarity": "Industrial Grade",
+    "paint_index": "782"
   },
   {
     "id": "skin-2165816",
@@ -1985,7 +2267,9 @@
     "price": 0.08,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Motherboard"
+    "item_name": "MP7 | Motherboard",
+    "rarity": "Industrial Grade",
+    "paint_index": "782"
   },
   {
     "id": "skin-2165816",
@@ -1999,7 +2283,9 @@
     "price": 0.05,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Motherboard"
+    "item_name": "MP7 | Motherboard",
+    "rarity": "Industrial Grade",
+    "paint_index": "782"
   },
   {
     "id": "skin-2165816",
@@ -2013,7 +2299,9 @@
     "price": 0.04,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Motherboard"
+    "item_name": "MP7 | Motherboard",
+    "rarity": "Industrial Grade",
+    "paint_index": "782"
   },
   {
     "id": "skin-2165816",
@@ -2027,7 +2315,9 @@
     "price": 0.06,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Motherboard"
+    "item_name": "MP7 | Motherboard",
+    "rarity": "Industrial Grade",
+    "paint_index": "782"
   },
   {
     "id": "skin-2163688",
@@ -2041,7 +2331,9 @@
     "price": 46.49,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Full Stop"
+    "item_name": "MP7 | Full Stop",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "250"
   },
   {
     "id": "skin-2163688",
@@ -2055,7 +2347,9 @@
     "price": 19.75,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Full Stop"
+    "item_name": "MP7 | Full Stop",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "250"
   },
   {
     "id": "skin-2163688",
@@ -2069,7 +2363,9 @@
     "price": 20.71,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Full Stop"
+    "item_name": "MP7 | Full Stop",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "250"
   },
   {
     "id": "skin-2163688",
@@ -2083,7 +2379,9 @@
     "price": 19.18,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Full Stop"
+    "item_name": "MP7 | Full Stop",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "250"
   },
   {
     "id": "skin-2163688",
@@ -2097,7 +2395,9 @@
     "price": 19.68,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Full Stop"
+    "item_name": "MP7 | Full Stop",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "250"
   },
   {
     "id": "skin-2165472",
@@ -2111,7 +2411,9 @@
     "price": 3.02,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Bloodsport"
+    "item_name": "MP7 | Bloodsport",
+    "rarity": "Covert",
+    "paint_index": "696"
   },
   {
     "id": "skin-2165472",
@@ -2125,7 +2427,9 @@
     "price": 5.44,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP7 | Bloodsport"
+    "item_name": "MP7 | Bloodsport",
+    "rarity": "Covert",
+    "paint_index": "696"
   },
   {
     "id": "skin-2165472",
@@ -2139,7 +2443,9 @@
     "price": 2.89,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP7 | Bloodsport"
+    "item_name": "MP7 | Bloodsport",
+    "rarity": "Covert",
+    "paint_index": "696"
   },
   {
     "id": "skin-2165472",
@@ -2153,7 +2459,9 @@
     "price": 1.56,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Bloodsport"
+    "item_name": "MP7 | Bloodsport",
+    "rarity": "Covert",
+    "paint_index": "696"
   },
   {
     "id": "skin-2165472",
@@ -2167,7 +2475,9 @@
     "price": 2.79,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP7 | Bloodsport"
+    "item_name": "MP7 | Bloodsport",
+    "rarity": "Covert",
+    "paint_index": "696"
   },
   {
     "id": "skin-2165472",
@@ -2181,7 +2491,9 @@
     "price": 13,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP7 | Bloodsport"
+    "item_name": "MP7 | Bloodsport",
+    "rarity": "Covert",
+    "paint_index": "696"
   },
   {
     "id": "skin-2165472",
@@ -2195,7 +2507,9 @@
     "price": 6.27,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP7 | Bloodsport"
+    "item_name": "MP7 | Bloodsport",
+    "rarity": "Covert",
+    "paint_index": "696"
   },
   {
     "id": "skin-2165472",
@@ -2209,7 +2523,9 @@
     "price": 1.51,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Bloodsport"
+    "item_name": "MP7 | Bloodsport",
+    "rarity": "Covert",
+    "paint_index": "696"
   },
   {
     "id": "skin-2165472",
@@ -2223,7 +2539,9 @@
     "price": 1.04,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Bloodsport"
+    "item_name": "MP7 | Bloodsport",
+    "rarity": "Covert",
+    "paint_index": "696"
   },
   {
     "id": "skin-2165472",
@@ -2237,7 +2555,9 @@
     "price": 0.91,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Bloodsport"
+    "item_name": "MP7 | Bloodsport",
+    "rarity": "Covert",
+    "paint_index": "696"
   },
   {
     "id": "skin-2167220",
@@ -2251,7 +2571,9 @@
     "price": 2.28,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Abyssal Apparition"
+    "item_name": "MP7 | Abyssal Apparition",
+    "rarity": "Classified",
+    "paint_index": "1133"
   },
   {
     "id": "skin-2167220",
@@ -2265,7 +2587,9 @@
     "price": 0.82,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Abyssal Apparition"
+    "item_name": "MP7 | Abyssal Apparition",
+    "rarity": "Classified",
+    "paint_index": "1133"
   },
   {
     "id": "skin-2167220",
@@ -2279,7 +2603,9 @@
     "price": 14.61,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP7 | Abyssal Apparition"
+    "item_name": "MP7 | Abyssal Apparition",
+    "rarity": "Classified",
+    "paint_index": "1133"
   },
   {
     "id": "skin-2167220",
@@ -2293,7 +2619,9 @@
     "price": 1.73,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP7 | Abyssal Apparition"
+    "item_name": "MP7 | Abyssal Apparition",
+    "rarity": "Classified",
+    "paint_index": "1133"
   },
   {
     "id": "skin-2167220",
@@ -2307,7 +2635,9 @@
     "price": 4.83,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP7 | Abyssal Apparition"
+    "item_name": "MP7 | Abyssal Apparition",
+    "rarity": "Classified",
+    "paint_index": "1133"
   },
   {
     "id": "skin-2167220",
@@ -2321,7 +2651,9 @@
     "price": 0.89,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Abyssal Apparition"
+    "item_name": "MP7 | Abyssal Apparition",
+    "rarity": "Classified",
+    "paint_index": "1133"
   },
   {
     "id": "skin-2167220",
@@ -2335,7 +2667,9 @@
     "price": 6.5,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Abyssal Apparition"
+    "item_name": "MP7 | Abyssal Apparition",
+    "rarity": "Classified",
+    "paint_index": "1133"
   },
   {
     "id": "skin-2167220",
@@ -2349,7 +2683,9 @@
     "price": 1.68,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP7 | Abyssal Apparition"
+    "item_name": "MP7 | Abyssal Apparition",
+    "rarity": "Classified",
+    "paint_index": "1133"
   },
   {
     "id": "skin-2167220",
@@ -2363,7 +2699,9 @@
     "price": 1.98,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP7 | Abyssal Apparition"
+    "item_name": "MP7 | Abyssal Apparition",
+    "rarity": "Classified",
+    "paint_index": "1133"
   },
   {
     "id": "skin-2167220",
@@ -2377,7 +2715,9 @@
     "price": 0.93,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Abyssal Apparition"
+    "item_name": "MP7 | Abyssal Apparition",
+    "rarity": "Classified",
+    "paint_index": "1133"
   },
   {
     "id": "skin-2163668",
@@ -2391,7 +2731,9 @@
     "price": 0.06,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Army Recon"
+    "item_name": "MP7 | Army Recon",
+    "rarity": "Consumer Grade",
+    "paint_index": "245"
   },
   {
     "id": "skin-2163668",
@@ -2405,7 +2747,9 @@
     "price": 0.01,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Army Recon"
+    "item_name": "MP7 | Army Recon",
+    "rarity": "Consumer Grade",
+    "paint_index": "245"
   },
   {
     "id": "skin-2163668",
@@ -2419,7 +2763,9 @@
     "price": 0.01,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Army Recon"
+    "item_name": "MP7 | Army Recon",
+    "rarity": "Consumer Grade",
+    "paint_index": "245"
   },
   {
     "id": "skin-2163668",
@@ -2433,7 +2779,9 @@
     "price": 0.01,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Army Recon"
+    "item_name": "MP7 | Army Recon",
+    "rarity": "Consumer Grade",
+    "paint_index": "245"
   },
   {
     "id": "skin-2163668",
@@ -2447,7 +2795,9 @@
     "price": 0.01,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Army Recon"
+    "item_name": "MP7 | Army Recon",
+    "rarity": "Consumer Grade",
+    "paint_index": "245"
   },
   {
     "id": "skin-2162800",
@@ -2461,7 +2811,9 @@
     "price": 0.63,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Anodized Navy"
+    "item_name": "MP7 | Anodized Navy",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "28"
   },
   {
     "id": "skin-2162800",
@@ -2475,7 +2827,9 @@
     "price": 0.56,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Anodized Navy"
+    "item_name": "MP7 | Anodized Navy",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "28"
   },
   {
     "id": "skin-2164148",
@@ -2489,7 +2843,9 @@
     "price": 5.99,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Olive Plaid"
+    "item_name": "MP7 | Olive Plaid",
+    "rarity": "Consumer Grade",
+    "paint_index": "365"
   },
   {
     "id": "skin-2164148",
@@ -2503,7 +2859,9 @@
     "price": 2.68,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Olive Plaid"
+    "item_name": "MP7 | Olive Plaid",
+    "rarity": "Consumer Grade",
+    "paint_index": "365"
   },
   {
     "id": "skin-2164148",
@@ -2517,7 +2875,9 @@
     "price": 1.46,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Olive Plaid"
+    "item_name": "MP7 | Olive Plaid",
+    "rarity": "Consumer Grade",
+    "paint_index": "365"
   },
   {
     "id": "skin-2164148",
@@ -2531,7 +2891,9 @@
     "price": 2.15,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Olive Plaid"
+    "item_name": "MP7 | Olive Plaid",
+    "rarity": "Consumer Grade",
+    "paint_index": "365"
   },
   {
     "id": "skin-2164148",
@@ -2545,7 +2907,9 @@
     "price": 3.8,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Olive Plaid"
+    "item_name": "MP7 | Olive Plaid",
+    "rarity": "Consumer Grade",
+    "paint_index": "365"
   },
   {
     "id": "skin-2165696",
@@ -2559,7 +2923,9 @@
     "price": 5.26,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Fade"
+    "item_name": "MP7 | Fade",
+    "rarity": "Restricted",
+    "paint_index": "752"
   },
   {
     "id": "skin-2165696",
@@ -2573,7 +2939,9 @@
     "price": 7.27,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Fade"
+    "item_name": "MP7 | Fade",
+    "rarity": "Restricted",
+    "paint_index": "752"
   },
   {
     "id": "skin-2165696",
@@ -2587,7 +2955,9 @@
     "price": 4.67,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Fade"
+    "item_name": "MP7 | Fade",
+    "rarity": "Restricted",
+    "paint_index": "752"
   },
   {
     "id": "skin-2163524",
@@ -2601,7 +2971,9 @@
     "price": 1.16,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Groundwater"
+    "item_name": "MP7 | Groundwater",
+    "rarity": "Consumer Grade",
+    "paint_index": "209"
   },
   {
     "id": "skin-2163524",
@@ -2615,7 +2987,9 @@
     "price": 13.16,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Groundwater"
+    "item_name": "MP7 | Groundwater",
+    "rarity": "Consumer Grade",
+    "paint_index": "209"
   },
   {
     "id": "skin-2163524",
@@ -2629,7 +3003,9 @@
     "price": 1.18,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Groundwater"
+    "item_name": "MP7 | Groundwater",
+    "rarity": "Consumer Grade",
+    "paint_index": "209"
   },
   {
     "id": "skin-2163524",
@@ -2643,7 +3019,9 @@
     "price": 2.06,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Groundwater"
+    "item_name": "MP7 | Groundwater",
+    "rarity": "Consumer Grade",
+    "paint_index": "209"
   },
   {
     "id": "skin-2163524",
@@ -2657,7 +3035,9 @@
     "price": 0.94,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Groundwater"
+    "item_name": "MP7 | Groundwater",
+    "rarity": "Consumer Grade",
+    "paint_index": "209"
   },
   {
     "id": "skin-2165600",
@@ -2671,7 +3051,9 @@
     "price": 63.08,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Teal Blossom"
+    "item_name": "MP7 | Teal Blossom",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "728"
   },
   {
     "id": "skin-2165600",
@@ -2685,7 +3067,9 @@
     "price": 67,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Teal Blossom"
+    "item_name": "MP7 | Teal Blossom",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "728"
   },
   {
     "id": "skin-2165600",
@@ -2699,7 +3083,9 @@
     "price": 71.08,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Teal Blossom"
+    "item_name": "MP7 | Teal Blossom",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "728"
   },
   {
     "id": "skin-2165600",
@@ -2713,7 +3099,9 @@
     "price": 64.45,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Teal Blossom"
+    "item_name": "MP7 | Teal Blossom",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "728"
   },
   {
     "id": "skin-2165600",
@@ -2727,7 +3115,9 @@
     "price": 63.08,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Teal Blossom"
+    "item_name": "MP7 | Teal Blossom",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "728"
   },
   {
     "id": "skin-2163096",
@@ -2741,7 +3131,9 @@
     "price": 6.86,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Whiteout"
+    "item_name": "MP7 | Whiteout",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "102"
   },
   {
     "id": "skin-2163096",
@@ -2755,7 +3147,9 @@
     "price": 32.23,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Whiteout"
+    "item_name": "MP7 | Whiteout",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "102"
   },
   {
     "id": "skin-2163096",
@@ -2769,7 +3163,9 @@
     "price": 6.77,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Whiteout"
+    "item_name": "MP7 | Whiteout",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "102"
   },
   {
     "id": "skin-2163096",
@@ -2783,7 +3179,9 @@
     "price": 47.93,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Whiteout"
+    "item_name": "MP7 | Whiteout",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "102"
   },
   {
     "id": "skin-2163096",
@@ -2797,7 +3195,9 @@
     "price": 379.75,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Whiteout"
+    "item_name": "MP7 | Whiteout",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "102"
   },
   {
     "id": "skin-2166780",
@@ -2811,7 +3211,9 @@
     "price": 2.06,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Tall Grass"
+    "item_name": "MP7 | Tall Grass",
+    "rarity": "Industrial Grade",
+    "paint_index": "1023"
   },
   {
     "id": "skin-2166780",
@@ -2825,7 +3227,9 @@
     "price": 2.04,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Tall Grass"
+    "item_name": "MP7 | Tall Grass",
+    "rarity": "Industrial Grade",
+    "paint_index": "1023"
   },
   {
     "id": "skin-2166780",
@@ -2839,7 +3243,9 @@
     "price": 2.55,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Tall Grass"
+    "item_name": "MP7 | Tall Grass",
+    "rarity": "Industrial Grade",
+    "paint_index": "1023"
   },
   {
     "id": "skin-2166780",
@@ -2853,7 +3259,9 @@
     "price": 2.61,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Tall Grass"
+    "item_name": "MP7 | Tall Grass",
+    "rarity": "Industrial Grade",
+    "paint_index": "1023"
   },
   {
     "id": "skin-2166780",
@@ -2867,7 +3275,9 @@
     "price": 2.24,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Tall Grass"
+    "item_name": "MP7 | Tall Grass",
+    "rarity": "Industrial Grade",
+    "paint_index": "1023"
   },
   {
     "id": "skin-2163388",
@@ -2881,7 +3291,9 @@
     "price": 2.93,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Scorched"
+    "item_name": "MP7 | Scorched",
+    "rarity": "Consumer Grade",
+    "paint_index": "175"
   },
   {
     "id": "skin-2163388",
@@ -2895,7 +3307,9 @@
     "price": 2.77,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Scorched"
+    "item_name": "MP7 | Scorched",
+    "rarity": "Consumer Grade",
+    "paint_index": "175"
   },
   {
     "id": "skin-2163388",
@@ -2909,7 +3323,9 @@
     "price": 3.13,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Scorched"
+    "item_name": "MP7 | Scorched",
+    "rarity": "Consumer Grade",
+    "paint_index": "175"
   },
   {
     "id": "skin-2163388",
@@ -2923,7 +3339,9 @@
     "price": 2.73,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Scorched"
+    "item_name": "MP7 | Scorched",
+    "rarity": "Consumer Grade",
+    "paint_index": "175"
   },
   {
     "id": "skin-2163388",
@@ -2937,7 +3355,9 @@
     "price": 3.65,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Scorched"
+    "item_name": "MP7 | Scorched",
+    "rarity": "Consumer Grade",
+    "paint_index": "175"
   },
   {
     "id": "skin-2166428",
@@ -2951,7 +3371,9 @@
     "price": 0.41,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Prey"
+    "item_name": "MP7 | Prey",
+    "rarity": "Consumer Grade",
+    "paint_index": "935"
   },
   {
     "id": "skin-2166428",
@@ -2965,7 +3387,9 @@
     "price": 0.41,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Prey"
+    "item_name": "MP7 | Prey",
+    "rarity": "Consumer Grade",
+    "paint_index": "935"
   },
   {
     "id": "skin-2166428",
@@ -2979,7 +3403,9 @@
     "price": 0.39,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Prey"
+    "item_name": "MP7 | Prey",
+    "rarity": "Consumer Grade",
+    "paint_index": "935"
   },
   {
     "id": "skin-2166428",
@@ -2993,7 +3419,9 @@
     "price": 0.41,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Prey"
+    "item_name": "MP7 | Prey",
+    "rarity": "Consumer Grade",
+    "paint_index": "935"
   },
   {
     "id": "skin-2166428",
@@ -3007,6 +3435,8 @@
     "price": 0.41,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP7 | Prey"
+    "item_name": "MP7 | Prey",
+    "rarity": "Consumer Grade",
+    "paint_index": "935"
   }
 ]

@@ -11,7 +11,9 @@
     "price": 1.06,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Contamination"
+    "item_name": "P250 | Contamination",
+    "rarity": "Industrial Grade",
+    "paint_index": "373"
   },
   {
     "id": "skin-2360788",
@@ -25,7 +27,9 @@
     "price": 1.3,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Contamination"
+    "item_name": "P250 | Contamination",
+    "rarity": "Industrial Grade",
+    "paint_index": "373"
   },
   {
     "id": "skin-2360788",
@@ -39,7 +43,9 @@
     "price": 1.07,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Contamination"
+    "item_name": "P250 | Contamination",
+    "rarity": "Industrial Grade",
+    "paint_index": "373"
   },
   {
     "id": "skin-2360788",
@@ -53,7 +59,9 @@
     "price": 1.77,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Contamination"
+    "item_name": "P250 | Contamination",
+    "rarity": "Industrial Grade",
+    "paint_index": "373"
   },
   {
     "id": "skin-2360788",
@@ -67,7 +75,9 @@
     "price": 1.09,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Contamination"
+    "item_name": "P250 | Contamination",
+    "rarity": "Industrial Grade",
+    "paint_index": "373"
   },
   {
     "id": "skin-2359692",
@@ -81,7 +91,9 @@
     "price": 0.01,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Sand Dune"
+    "item_name": "P250 | Sand Dune",
+    "rarity": "Consumer Grade",
+    "paint_index": "99"
   },
   {
     "id": "skin-2359692",
@@ -95,7 +107,9 @@
     "price": 0.01,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Sand Dune"
+    "item_name": "P250 | Sand Dune",
+    "rarity": "Consumer Grade",
+    "paint_index": "99"
   },
   {
     "id": "skin-2359692",
@@ -109,7 +123,9 @@
     "price": 0.21,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Sand Dune"
+    "item_name": "P250 | Sand Dune",
+    "rarity": "Consumer Grade",
+    "paint_index": "99"
   },
   {
     "id": "skin-2359692",
@@ -123,7 +139,9 @@
     "price": 0.01,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Sand Dune"
+    "item_name": "P250 | Sand Dune",
+    "rarity": "Consumer Grade",
+    "paint_index": "99"
   },
   {
     "id": "skin-2359692",
@@ -137,7 +155,9 @@
     "price": 0.01,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Sand Dune"
+    "item_name": "P250 | Sand Dune",
+    "rarity": "Consumer Grade",
+    "paint_index": "99"
   },
   {
     "id": "skin-2363008",
@@ -151,7 +171,9 @@
     "price": 17.19,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Black & Tan"
+    "item_name": "P250 | Black & Tan",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "928"
   },
   {
     "id": "skin-2363008",
@@ -165,7 +187,9 @@
     "price": 17.66,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Black & Tan"
+    "item_name": "P250 | Black & Tan",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "928"
   },
   {
     "id": "skin-2363008",
@@ -179,7 +203,9 @@
     "price": 19.2,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Black & Tan"
+    "item_name": "P250 | Black & Tan",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "928"
   },
   {
     "id": "skin-2363008",
@@ -193,7 +219,9 @@
     "price": 17.41,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Black & Tan"
+    "item_name": "P250 | Black & Tan",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "928"
   },
   {
     "id": "skin-2363008",
@@ -207,7 +235,9 @@
     "price": 17.55,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Black & Tan"
+    "item_name": "P250 | Black & Tan",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "928"
   },
   {
     "id": "skin-2363168",
@@ -221,7 +251,9 @@
     "price": 0.15,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Cassette"
+    "item_name": "P250 | Cassette",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "968"
   },
   {
     "id": "skin-2363168",
@@ -235,7 +267,9 @@
     "price": 0.2,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P250 | Cassette"
+    "item_name": "P250 | Cassette",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "968"
   },
   {
     "id": "skin-2363168",
@@ -249,7 +283,9 @@
     "price": 0.04,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Cassette"
+    "item_name": "P250 | Cassette",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "968"
   },
   {
     "id": "skin-2363168",
@@ -263,7 +299,9 @@
     "price": 0.09,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P250 | Cassette"
+    "item_name": "P250 | Cassette",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "968"
   },
   {
     "id": "skin-2363168",
@@ -277,7 +315,9 @@
     "price": 0.09,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Cassette"
+    "item_name": "P250 | Cassette",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "968"
   },
   {
     "id": "skin-2363168",
@@ -291,7 +331,9 @@
     "price": 0.04,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Cassette"
+    "item_name": "P250 | Cassette",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "968"
   },
   {
     "id": "skin-2363168",
@@ -305,7 +347,9 @@
     "price": 0.08,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P250 | Cassette"
+    "item_name": "P250 | Cassette",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "968"
   },
   {
     "id": "skin-2363168",
@@ -319,7 +363,9 @@
     "price": 0.1,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P250 | Cassette"
+    "item_name": "P250 | Cassette",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "968"
   },
   {
     "id": "skin-2363168",
@@ -333,7 +379,9 @@
     "price": 0.04,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Cassette"
+    "item_name": "P250 | Cassette",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "968"
   },
   {
     "id": "skin-2363168",
@@ -347,7 +395,9 @@
     "price": 0.51,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P250 | Cassette"
+    "item_name": "P250 | Cassette",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "968"
   },
   {
     "id": "skin-2360912",
@@ -361,7 +411,9 @@
     "price": 12.6,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P250 | Muertos"
+    "item_name": "P250 | Muertos",
+    "rarity": "Classified",
+    "paint_index": "404"
   },
   {
     "id": "skin-2360912",
@@ -375,7 +427,9 @@
     "price": 9.04,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P250 | Muertos"
+    "item_name": "P250 | Muertos",
+    "rarity": "Classified",
+    "paint_index": "404"
   },
   {
     "id": "skin-2360912",
@@ -389,7 +443,9 @@
     "price": 22.08,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P250 | Muertos"
+    "item_name": "P250 | Muertos",
+    "rarity": "Classified",
+    "paint_index": "404"
   },
   {
     "id": "skin-2360912",
@@ -403,7 +459,9 @@
     "price": 7.65,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Muertos"
+    "item_name": "P250 | Muertos",
+    "rarity": "Classified",
+    "paint_index": "404"
   },
   {
     "id": "skin-2360912",
@@ -417,7 +475,9 @@
     "price": 3.78,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Muertos"
+    "item_name": "P250 | Muertos",
+    "rarity": "Classified",
+    "paint_index": "404"
   },
   {
     "id": "skin-2360912",
@@ -431,7 +491,9 @@
     "price": 3.56,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Muertos"
+    "item_name": "P250 | Muertos",
+    "rarity": "Classified",
+    "paint_index": "404"
   },
   {
     "id": "skin-2360912",
@@ -445,7 +507,9 @@
     "price": 10.55,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P250 | Muertos"
+    "item_name": "P250 | Muertos",
+    "rarity": "Classified",
+    "paint_index": "404"
   },
   {
     "id": "skin-2360912",
@@ -459,7 +523,9 @@
     "price": 3.85,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Muertos"
+    "item_name": "P250 | Muertos",
+    "rarity": "Classified",
+    "paint_index": "404"
   },
   {
     "id": "skin-2360912",
@@ -473,7 +539,9 @@
     "price": 10.83,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P250 | Muertos"
+    "item_name": "P250 | Muertos",
+    "rarity": "Classified",
+    "paint_index": "404"
   },
   {
     "id": "skin-2360912",
@@ -487,7 +555,9 @@
     "price": 3.71,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Muertos"
+    "item_name": "P250 | Muertos",
+    "rarity": "Classified",
+    "paint_index": "404"
   },
   {
     "id": "skin-2359404",
@@ -501,7 +571,9 @@
     "price": 1.21,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Bone Mask"
+    "item_name": "P250 | Bone Mask",
+    "rarity": "Consumer Grade",
+    "paint_index": "27"
   },
   {
     "id": "skin-2359404",
@@ -515,7 +587,9 @@
     "price": 0.86,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Bone Mask"
+    "item_name": "P250 | Bone Mask",
+    "rarity": "Consumer Grade",
+    "paint_index": "27"
   },
   {
     "id": "skin-2359404",
@@ -529,7 +603,9 @@
     "price": 7.19,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Bone Mask"
+    "item_name": "P250 | Bone Mask",
+    "rarity": "Consumer Grade",
+    "paint_index": "27"
   },
   {
     "id": "skin-2359404",
@@ -543,7 +619,9 @@
     "price": 1.09,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Bone Mask"
+    "item_name": "P250 | Bone Mask",
+    "rarity": "Consumer Grade",
+    "paint_index": "27"
   },
   {
     "id": "skin-2359404",
@@ -557,7 +635,9 @@
     "price": 1.25,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Bone Mask"
+    "item_name": "P250 | Bone Mask",
+    "rarity": "Consumer Grade",
+    "paint_index": "27"
   },
   {
     "id": "skin-2360328",
@@ -571,7 +651,9 @@
     "price": 57.59,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P250 | Mehndi"
+    "item_name": "P250 | Mehndi",
+    "rarity": "Classified",
+    "paint_index": "258"
   },
   {
     "id": "skin-2360328",
@@ -585,7 +667,9 @@
     "price": 9.58,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Mehndi"
+    "item_name": "P250 | Mehndi",
+    "rarity": "Classified",
+    "paint_index": "258"
   },
   {
     "id": "skin-2360328",
@@ -599,7 +683,9 @@
     "price": 20.16,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P250 | Mehndi"
+    "item_name": "P250 | Mehndi",
+    "rarity": "Classified",
+    "paint_index": "258"
   },
   {
     "id": "skin-2360328",
@@ -613,7 +699,9 @@
     "price": 24.96,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P250 | Mehndi"
+    "item_name": "P250 | Mehndi",
+    "rarity": "Classified",
+    "paint_index": "258"
   },
   {
     "id": "skin-2360328",
@@ -627,7 +715,9 @@
     "price": 20.31,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P250 | Mehndi"
+    "item_name": "P250 | Mehndi",
+    "rarity": "Classified",
+    "paint_index": "258"
   },
   {
     "id": "skin-2360328",
@@ -641,7 +731,9 @@
     "price": 8.36,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Mehndi"
+    "item_name": "P250 | Mehndi",
+    "rarity": "Classified",
+    "paint_index": "258"
   },
   {
     "id": "skin-2360328",
@@ -655,7 +747,9 @@
     "price": 26.3,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P250 | Mehndi"
+    "item_name": "P250 | Mehndi",
+    "rarity": "Classified",
+    "paint_index": "258"
   },
   {
     "id": "skin-2360328",
@@ -669,7 +763,9 @@
     "price": 8.97,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Mehndi"
+    "item_name": "P250 | Mehndi",
+    "rarity": "Classified",
+    "paint_index": "258"
   },
   {
     "id": "skin-2360328",
@@ -683,7 +779,9 @@
     "price": 8.87,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Mehndi"
+    "item_name": "P250 | Mehndi",
+    "rarity": "Classified",
+    "paint_index": "258"
   },
   {
     "id": "skin-2360328",
@@ -697,7 +795,9 @@
     "price": 16.22,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Mehndi"
+    "item_name": "P250 | Mehndi",
+    "rarity": "Classified",
+    "paint_index": "258"
   },
   {
     "id": "skin-2360172",
@@ -711,7 +811,9 @@
     "price": 3.8,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Hive"
+    "item_name": "P250 | Hive",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "219"
   },
   {
     "id": "skin-2360172",
@@ -725,7 +827,9 @@
     "price": 4.53,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Hive"
+    "item_name": "P250 | Hive",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "219"
   },
   {
     "id": "skin-2360172",
@@ -739,7 +843,9 @@
     "price": 6.28,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P250 | Hive"
+    "item_name": "P250 | Hive",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "219"
   },
   {
     "id": "skin-2360172",
@@ -753,7 +859,9 @@
     "price": 5.03,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P250 | Hive"
+    "item_name": "P250 | Hive",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "219"
   },
   {
     "id": "skin-2360172",
@@ -767,7 +875,9 @@
     "price": 3.98,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Hive"
+    "item_name": "P250 | Hive",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "219"
   },
   {
     "id": "skin-2360172",
@@ -781,7 +891,9 @@
     "price": 4.93,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P250 | Hive"
+    "item_name": "P250 | Hive",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "219"
   },
   {
     "id": "skin-2362924",
@@ -795,7 +907,9 @@
     "price": 0.39,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Inferno"
+    "item_name": "P250 | Inferno",
+    "rarity": "Restricted",
+    "paint_index": "907"
   },
   {
     "id": "skin-2362924",
@@ -809,7 +923,9 @@
     "price": 1.73,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P250 | Inferno"
+    "item_name": "P250 | Inferno",
+    "rarity": "Restricted",
+    "paint_index": "907"
   },
   {
     "id": "skin-2362924",
@@ -823,7 +939,9 @@
     "price": 0.46,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Inferno"
+    "item_name": "P250 | Inferno",
+    "rarity": "Restricted",
+    "paint_index": "907"
   },
   {
     "id": "skin-2362924",
@@ -837,7 +955,9 @@
     "price": 0.41,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Inferno"
+    "item_name": "P250 | Inferno",
+    "rarity": "Restricted",
+    "paint_index": "907"
   },
   {
     "id": "skin-2362924",
@@ -851,7 +971,9 @@
     "price": 3.04,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P250 | Inferno"
+    "item_name": "P250 | Inferno",
+    "rarity": "Restricted",
+    "paint_index": "907"
   },
   {
     "id": "skin-2362924",
@@ -865,7 +987,9 @@
     "price": 0.73,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P250 | Inferno"
+    "item_name": "P250 | Inferno",
+    "rarity": "Restricted",
+    "paint_index": "907"
   },
   {
     "id": "skin-2362924",
@@ -879,7 +1003,9 @@
     "price": 1.2,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P250 | Inferno"
+    "item_name": "P250 | Inferno",
+    "rarity": "Restricted",
+    "paint_index": "907"
   },
   {
     "id": "skin-2362924",
@@ -893,7 +1019,9 @@
     "price": 0.7,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Inferno"
+    "item_name": "P250 | Inferno",
+    "rarity": "Restricted",
+    "paint_index": "907"
   },
   {
     "id": "skin-2362924",
@@ -907,7 +1035,9 @@
     "price": 1.2,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Inferno"
+    "item_name": "P250 | Inferno",
+    "rarity": "Restricted",
+    "paint_index": "907"
   },
   {
     "id": "skin-2362924",
@@ -921,7 +1051,9 @@
     "price": 0.91,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P250 | Inferno"
+    "item_name": "P250 | Inferno",
+    "rarity": "Restricted",
+    "paint_index": "907"
   },
   {
     "id": "skin-2364216",
@@ -935,7 +1067,9 @@
     "price": 0.05,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Re.built"
+    "item_name": "P250 | Re.built",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1230"
   },
   {
     "id": "skin-2364216",
@@ -949,7 +1083,9 @@
     "price": 0.33,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P250 | Re.built"
+    "item_name": "P250 | Re.built",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1230"
   },
   {
     "id": "skin-2364216",
@@ -963,7 +1099,9 @@
     "price": 0.14,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P250 | Re.built"
+    "item_name": "P250 | Re.built",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1230"
   },
   {
     "id": "skin-2364216",
@@ -977,7 +1115,9 @@
     "price": 1,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P250 | Re.built"
+    "item_name": "P250 | Re.built",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1230"
   },
   {
     "id": "skin-2364216",
@@ -991,7 +1131,9 @@
     "price": 0.15,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P250 | Re.built"
+    "item_name": "P250 | Re.built",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1230"
   },
   {
     "id": "skin-2364216",
@@ -1005,7 +1147,9 @@
     "price": 0.15,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P250 | Re.built"
+    "item_name": "P250 | Re.built",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1230"
   },
   {
     "id": "skin-2364216",
@@ -1019,7 +1163,9 @@
     "price": 0.23,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Re.built"
+    "item_name": "P250 | Re.built",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1230"
   },
   {
     "id": "skin-2364216",
@@ -1033,7 +1179,9 @@
     "price": 0.05,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Re.built"
+    "item_name": "P250 | Re.built",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1230"
   },
   {
     "id": "skin-2364216",
@@ -1047,7 +1195,9 @@
     "price": 0.11,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Re.built"
+    "item_name": "P250 | Re.built",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1230"
   },
   {
     "id": "skin-2364216",
@@ -1061,7 +1211,9 @@
     "price": 0.04,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Re.built"
+    "item_name": "P250 | Re.built",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1230"
   },
   {
     "id": "skin-2363472",
@@ -1075,7 +1227,9 @@
     "price": 0.19,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Cyber Shell"
+    "item_name": "P250 | Cyber Shell",
+    "rarity": "Restricted",
+    "paint_index": "1044"
   },
   {
     "id": "skin-2363472",
@@ -1089,7 +1243,9 @@
     "price": 0.48,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P250 | Cyber Shell"
+    "item_name": "P250 | Cyber Shell",
+    "rarity": "Restricted",
+    "paint_index": "1044"
   },
   {
     "id": "skin-2363472",
@@ -1103,7 +1259,9 @@
     "price": 0.16,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Cyber Shell"
+    "item_name": "P250 | Cyber Shell",
+    "rarity": "Restricted",
+    "paint_index": "1044"
   },
   {
     "id": "skin-2363472",
@@ -1117,7 +1275,9 @@
     "price": 0.29,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P250 | Cyber Shell"
+    "item_name": "P250 | Cyber Shell",
+    "rarity": "Restricted",
+    "paint_index": "1044"
   },
   {
     "id": "skin-2363472",
@@ -1131,7 +1291,9 @@
     "price": 0.95,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P250 | Cyber Shell"
+    "item_name": "P250 | Cyber Shell",
+    "rarity": "Restricted",
+    "paint_index": "1044"
   },
   {
     "id": "skin-2363472",
@@ -1145,7 +1307,9 @@
     "price": 0.3,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P250 | Cyber Shell"
+    "item_name": "P250 | Cyber Shell",
+    "rarity": "Restricted",
+    "paint_index": "1044"
   },
   {
     "id": "skin-2363472",
@@ -1159,7 +1323,9 @@
     "price": 0.37,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Cyber Shell"
+    "item_name": "P250 | Cyber Shell",
+    "rarity": "Restricted",
+    "paint_index": "1044"
   },
   {
     "id": "skin-2363472",
@@ -1173,7 +1339,9 @@
     "price": 2.62,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P250 | Cyber Shell"
+    "item_name": "P250 | Cyber Shell",
+    "rarity": "Restricted",
+    "paint_index": "1044"
   },
   {
     "id": "skin-2363472",
@@ -1187,7 +1355,9 @@
     "price": 0.2,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Cyber Shell"
+    "item_name": "P250 | Cyber Shell",
+    "rarity": "Restricted",
+    "paint_index": "1044"
   },
   {
     "id": "skin-2363472",
@@ -1201,7 +1371,9 @@
     "price": 0.88,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Cyber Shell"
+    "item_name": "P250 | Cyber Shell",
+    "rarity": "Restricted",
+    "paint_index": "1044"
   },
   {
     "id": "skin-2359944",
@@ -1215,7 +1387,9 @@
     "price": 14.4,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Splash"
+    "item_name": "P250 | Splash",
+    "rarity": "Restricted",
+    "paint_index": "162"
   },
   {
     "id": "skin-2359944",
@@ -1229,7 +1403,9 @@
     "price": 62.97,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P250 | Splash"
+    "item_name": "P250 | Splash",
+    "rarity": "Restricted",
+    "paint_index": "162"
   },
   {
     "id": "skin-2359944",
@@ -1243,7 +1419,9 @@
     "price": 31.4,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P250 | Splash"
+    "item_name": "P250 | Splash",
+    "rarity": "Restricted",
+    "paint_index": "162"
   },
   {
     "id": "skin-2359944",
@@ -1257,7 +1435,9 @@
     "price": 54.85,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Splash"
+    "item_name": "P250 | Splash",
+    "rarity": "Restricted",
+    "paint_index": "162"
   },
   {
     "id": "skin-2359944",
@@ -1271,7 +1451,9 @@
     "price": 27.29,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P250 | Splash"
+    "item_name": "P250 | Splash",
+    "rarity": "Restricted",
+    "paint_index": "162"
   },
   {
     "id": "skin-2359944",
@@ -1285,7 +1467,9 @@
     "price": 34.21,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Splash"
+    "item_name": "P250 | Splash",
+    "rarity": "Restricted",
+    "paint_index": "162"
   },
   {
     "id": "skin-2359608",
@@ -1299,7 +1483,9 @@
     "price": 0.3,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Forest Night"
+    "item_name": "P250 | Forest Night",
+    "rarity": "Consumer Grade",
+    "paint_index": "78"
   },
   {
     "id": "skin-2359608",
@@ -1313,7 +1499,9 @@
     "price": 1.25,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Forest Night"
+    "item_name": "P250 | Forest Night",
+    "rarity": "Consumer Grade",
+    "paint_index": "78"
   },
   {
     "id": "skin-2359608",
@@ -1327,7 +1515,9 @@
     "price": 0.32,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Forest Night"
+    "item_name": "P250 | Forest Night",
+    "rarity": "Consumer Grade",
+    "paint_index": "78"
   },
   {
     "id": "skin-2359608",
@@ -1341,7 +1531,9 @@
     "price": 0.3,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Forest Night"
+    "item_name": "P250 | Forest Night",
+    "rarity": "Consumer Grade",
+    "paint_index": "78"
   },
   {
     "id": "skin-2359608",
@@ -1355,7 +1547,9 @@
     "price": 0.31,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Forest Night"
+    "item_name": "P250 | Forest Night",
+    "rarity": "Consumer Grade",
+    "paint_index": "78"
   },
   {
     "id": "skin-2361968",
@@ -1369,7 +1563,9 @@
     "price": 7.52,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P250 | Red Rock"
+    "item_name": "P250 | Red Rock",
+    "rarity": "Restricted",
+    "paint_index": "668"
   },
   {
     "id": "skin-2361968",
@@ -1383,7 +1579,9 @@
     "price": 10.52,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Red Rock"
+    "item_name": "P250 | Red Rock",
+    "rarity": "Restricted",
+    "paint_index": "668"
   },
   {
     "id": "skin-2361968",
@@ -1397,7 +1595,9 @@
     "price": 9.16,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P250 | Red Rock"
+    "item_name": "P250 | Red Rock",
+    "rarity": "Restricted",
+    "paint_index": "668"
   },
   {
     "id": "skin-2361968",
@@ -1411,7 +1611,9 @@
     "price": 5.34,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Red Rock"
+    "item_name": "P250 | Red Rock",
+    "rarity": "Restricted",
+    "paint_index": "668"
   },
   {
     "id": "skin-2361968",
@@ -1425,7 +1627,9 @@
     "price": 13.45,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P250 | Red Rock"
+    "item_name": "P250 | Red Rock",
+    "rarity": "Restricted",
+    "paint_index": "668"
   },
   {
     "id": "skin-2361968",
@@ -1439,7 +1643,9 @@
     "price": 6.76,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Red Rock"
+    "item_name": "P250 | Red Rock",
+    "rarity": "Restricted",
+    "paint_index": "668"
   },
   {
     "id": "skin-2361968",
@@ -1453,7 +1659,9 @@
     "price": 5.87,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Red Rock"
+    "item_name": "P250 | Red Rock",
+    "rarity": "Restricted",
+    "paint_index": "668"
   },
   {
     "id": "skin-2361968",
@@ -1467,7 +1675,9 @@
     "price": 22.56,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P250 | Red Rock"
+    "item_name": "P250 | Red Rock",
+    "rarity": "Restricted",
+    "paint_index": "668"
   },
   {
     "id": "skin-2361968",
@@ -1481,7 +1691,9 @@
     "price": 7.65,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P250 | Red Rock"
+    "item_name": "P250 | Red Rock",
+    "rarity": "Restricted",
+    "paint_index": "668"
   },
   {
     "id": "skin-2361968",
@@ -1495,7 +1707,9 @@
     "price": 4.61,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Red Rock"
+    "item_name": "P250 | Red Rock",
+    "rarity": "Restricted",
+    "paint_index": "668"
   },
   {
     "id": "skin-2361000",
@@ -1509,7 +1723,9 @@
     "price": 0.6,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P250 | Valence"
+    "item_name": "P250 | Valence",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "426"
   },
   {
     "id": "skin-2361000",
@@ -1523,7 +1739,9 @@
     "price": 0.19,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P250 | Valence"
+    "item_name": "P250 | Valence",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "426"
   },
   {
     "id": "skin-2361000",
@@ -1537,7 +1755,9 @@
     "price": 0.19,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P250 | Valence"
+    "item_name": "P250 | Valence",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "426"
   },
   {
     "id": "skin-2361000",
@@ -1551,7 +1771,9 @@
     "price": 0.08,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Valence"
+    "item_name": "P250 | Valence",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "426"
   },
   {
     "id": "skin-2361000",
@@ -1565,7 +1787,9 @@
     "price": 0.08,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Valence"
+    "item_name": "P250 | Valence",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "426"
   },
   {
     "id": "skin-2361000",
@@ -1579,7 +1803,9 @@
     "price": 2.11,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P250 | Valence"
+    "item_name": "P250 | Valence",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "426"
   },
   {
     "id": "skin-2361000",
@@ -1593,7 +1819,9 @@
     "price": 0.53,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Valence"
+    "item_name": "P250 | Valence",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "426"
   },
   {
     "id": "skin-2361000",
@@ -1607,7 +1835,9 @@
     "price": 0.13,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Valence"
+    "item_name": "P250 | Valence",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "426"
   },
   {
     "id": "skin-2361000",
@@ -1621,7 +1851,9 @@
     "price": 0.59,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P250 | Valence"
+    "item_name": "P250 | Valence",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "426"
   },
   {
     "id": "skin-2361000",
@@ -1635,7 +1867,9 @@
     "price": 0.14,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Valence"
+    "item_name": "P250 | Valence",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "426"
   },
   {
     "id": "skin-2360728",
@@ -1649,7 +1883,9 @@
     "price": 3.34,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P250 | Supernova"
+    "item_name": "P250 | Supernova",
+    "rarity": "Restricted",
+    "paint_index": "358"
   },
   {
     "id": "skin-2360728",
@@ -1663,7 +1899,9 @@
     "price": 0.46,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Supernova"
+    "item_name": "P250 | Supernova",
+    "rarity": "Restricted",
+    "paint_index": "358"
   },
   {
     "id": "skin-2360728",
@@ -1677,7 +1915,9 @@
     "price": 0.93,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Supernova"
+    "item_name": "P250 | Supernova",
+    "rarity": "Restricted",
+    "paint_index": "358"
   },
   {
     "id": "skin-2360728",
@@ -1691,7 +1931,9 @@
     "price": 0.55,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Supernova"
+    "item_name": "P250 | Supernova",
+    "rarity": "Restricted",
+    "paint_index": "358"
   },
   {
     "id": "skin-2360728",
@@ -1705,7 +1947,9 @@
     "price": 1.77,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P250 | Supernova"
+    "item_name": "P250 | Supernova",
+    "rarity": "Restricted",
+    "paint_index": "358"
   },
   {
     "id": "skin-2360728",
@@ -1719,7 +1963,9 @@
     "price": 1.68,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P250 | Supernova"
+    "item_name": "P250 | Supernova",
+    "rarity": "Restricted",
+    "paint_index": "358"
   },
   {
     "id": "skin-2360728",
@@ -1733,7 +1979,9 @@
     "price": 1.15,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Supernova"
+    "item_name": "P250 | Supernova",
+    "rarity": "Restricted",
+    "paint_index": "358"
   },
   {
     "id": "skin-2360728",
@@ -1747,7 +1995,9 @@
     "price": 2.16,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P250 | Supernova"
+    "item_name": "P250 | Supernova",
+    "rarity": "Restricted",
+    "paint_index": "358"
   },
   {
     "id": "skin-2360216",
@@ -1761,7 +2011,9 @@
     "price": 1.18,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Steel Disruption"
+    "item_name": "P250 | Steel Disruption",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "230"
   },
   {
     "id": "skin-2360216",
@@ -1775,7 +2027,9 @@
     "price": 1.58,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Steel Disruption"
+    "item_name": "P250 | Steel Disruption",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "230"
   },
   {
     "id": "skin-2360216",
@@ -1789,7 +2043,9 @@
     "price": 4.3,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P250 | Steel Disruption"
+    "item_name": "P250 | Steel Disruption",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "230"
   },
   {
     "id": "skin-2360216",
@@ -1803,7 +2059,9 @@
     "price": 4.05,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P250 | Steel Disruption"
+    "item_name": "P250 | Steel Disruption",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "230"
   },
   {
     "id": "skin-2360216",
@@ -1817,7 +2075,9 @@
     "price": 4.18,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P250 | Steel Disruption"
+    "item_name": "P250 | Steel Disruption",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "230"
   },
   {
     "id": "skin-2360216",
@@ -1831,7 +2091,9 @@
     "price": 1.35,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Steel Disruption"
+    "item_name": "P250 | Steel Disruption",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "230"
   },
   {
     "id": "skin-2360848",
@@ -1845,7 +2107,9 @@
     "price": 3.77,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Cartel"
+    "item_name": "P250 | Cartel",
+    "rarity": "Classified",
+    "paint_index": "388"
   },
   {
     "id": "skin-2360848",
@@ -1859,7 +2123,9 @@
     "price": 54.03,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P250 | Cartel"
+    "item_name": "P250 | Cartel",
+    "rarity": "Classified",
+    "paint_index": "388"
   },
   {
     "id": "skin-2360848",
@@ -1873,7 +2139,9 @@
     "price": 4.04,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Cartel"
+    "item_name": "P250 | Cartel",
+    "rarity": "Classified",
+    "paint_index": "388"
   },
   {
     "id": "skin-2360848",
@@ -1887,7 +2155,9 @@
     "price": 17.8,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P250 | Cartel"
+    "item_name": "P250 | Cartel",
+    "rarity": "Classified",
+    "paint_index": "388"
   },
   {
     "id": "skin-2360848",
@@ -1901,7 +2171,9 @@
     "price": 5.1,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Cartel"
+    "item_name": "P250 | Cartel",
+    "rarity": "Classified",
+    "paint_index": "388"
   },
   {
     "id": "skin-2360848",
@@ -1915,7 +2187,9 @@
     "price": 13.03,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P250 | Cartel"
+    "item_name": "P250 | Cartel",
+    "rarity": "Classified",
+    "paint_index": "388"
   },
   {
     "id": "skin-2360848",
@@ -1929,7 +2203,9 @@
     "price": 5.03,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Cartel"
+    "item_name": "P250 | Cartel",
+    "rarity": "Classified",
+    "paint_index": "388"
   },
   {
     "id": "skin-2360848",
@@ -1943,7 +2219,9 @@
     "price": 11.29,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Cartel"
+    "item_name": "P250 | Cartel",
+    "rarity": "Classified",
+    "paint_index": "388"
   },
   {
     "id": "skin-2360848",
@@ -1957,7 +2235,9 @@
     "price": 10.17,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P250 | Cartel"
+    "item_name": "P250 | Cartel",
+    "rarity": "Classified",
+    "paint_index": "388"
   },
   {
     "id": "skin-2360848",
@@ -1971,7 +2251,9 @@
     "price": 9.87,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P250 | Cartel"
+    "item_name": "P250 | Cartel",
+    "rarity": "Classified",
+    "paint_index": "388"
   },
   {
     "id": "skin-2362008",
@@ -1985,7 +2267,9 @@
     "price": 40.64,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P250 | See Ya Later"
+    "item_name": "P250 | See Ya Later",
+    "rarity": "Covert",
+    "paint_index": "678"
   },
   {
     "id": "skin-2362008",
@@ -1999,7 +2283,9 @@
     "price": 6.8,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P250 | See Ya Later"
+    "item_name": "P250 | See Ya Later",
+    "rarity": "Covert",
+    "paint_index": "678"
   },
   {
     "id": "skin-2362008",
@@ -2013,7 +2299,9 @@
     "price": 12.12,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P250 | See Ya Later"
+    "item_name": "P250 | See Ya Later",
+    "rarity": "Covert",
+    "paint_index": "678"
   },
   {
     "id": "skin-2362008",
@@ -2027,7 +2315,9 @@
     "price": 3.96,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | See Ya Later"
+    "item_name": "P250 | See Ya Later",
+    "rarity": "Covert",
+    "paint_index": "678"
   },
   {
     "id": "skin-2362008",
@@ -2041,7 +2331,9 @@
     "price": 13.47,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P250 | See Ya Later"
+    "item_name": "P250 | See Ya Later",
+    "rarity": "Covert",
+    "paint_index": "678"
   },
   {
     "id": "skin-2362008",
@@ -2055,7 +2347,9 @@
     "price": 6.95,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P250 | See Ya Later"
+    "item_name": "P250 | See Ya Later",
+    "rarity": "Covert",
+    "paint_index": "678"
   },
   {
     "id": "skin-2362008",
@@ -2069,7 +2363,9 @@
     "price": 3.03,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | See Ya Later"
+    "item_name": "P250 | See Ya Later",
+    "rarity": "Covert",
+    "paint_index": "678"
   },
   {
     "id": "skin-2362008",
@@ -2083,7 +2379,9 @@
     "price": 7.12,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | See Ya Later"
+    "item_name": "P250 | See Ya Later",
+    "rarity": "Covert",
+    "paint_index": "678"
   },
   {
     "id": "skin-2362008",
@@ -2097,7 +2395,9 @@
     "price": 2.32,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | See Ya Later"
+    "item_name": "P250 | See Ya Later",
+    "rarity": "Covert",
+    "paint_index": "678"
   },
   {
     "id": "skin-2362008",
@@ -2111,7 +2411,9 @@
     "price": 2.64,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | See Ya Later"
+    "item_name": "P250 | See Ya Later",
+    "rarity": "Covert",
+    "paint_index": "678"
   },
   {
     "id": "skin-2359796",
@@ -2125,7 +2427,9 @@
     "price": 1.21,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P250 | X-Ray"
+    "item_name": "P250 | X-Ray",
+    "rarity": "Restricted",
+    "paint_index": "125"
   },
   {
     "id": "skin-2359796",
@@ -2139,7 +2443,9 @@
     "price": 1.08,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P250 | X-Ray"
+    "item_name": "P250 | X-Ray",
+    "rarity": "Restricted",
+    "paint_index": "125"
   },
   {
     "id": "skin-2359796",
@@ -2153,7 +2459,9 @@
     "price": 0.23,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | X-Ray"
+    "item_name": "P250 | X-Ray",
+    "rarity": "Restricted",
+    "paint_index": "125"
   },
   {
     "id": "skin-2359796",
@@ -2167,7 +2475,9 @@
     "price": 0.4,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | X-Ray"
+    "item_name": "P250 | X-Ray",
+    "rarity": "Restricted",
+    "paint_index": "125"
   },
   {
     "id": "skin-2359796",
@@ -2181,7 +2491,9 @@
     "price": 0.26,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | X-Ray"
+    "item_name": "P250 | X-Ray",
+    "rarity": "Restricted",
+    "paint_index": "125"
   },
   {
     "id": "skin-2359796",
@@ -2195,7 +2507,9 @@
     "price": 2.17,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P250 | X-Ray"
+    "item_name": "P250 | X-Ray",
+    "rarity": "Restricted",
+    "paint_index": "125"
   },
   {
     "id": "skin-2363224",
@@ -2209,7 +2523,9 @@
     "price": 0.5,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Contaminant"
+    "item_name": "P250 | Contaminant",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "982"
   },
   {
     "id": "skin-2363224",
@@ -2223,7 +2539,9 @@
     "price": 1.78,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P250 | Contaminant"
+    "item_name": "P250 | Contaminant",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "982"
   },
   {
     "id": "skin-2363224",
@@ -2237,7 +2555,9 @@
     "price": 0.45,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Contaminant"
+    "item_name": "P250 | Contaminant",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "982"
   },
   {
     "id": "skin-2363224",
@@ -2251,7 +2571,9 @@
     "price": 0.25,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P250 | Contaminant"
+    "item_name": "P250 | Contaminant",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "982"
   },
   {
     "id": "skin-2363224",
@@ -2265,7 +2587,9 @@
     "price": 0.7,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Contaminant"
+    "item_name": "P250 | Contaminant",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "982"
   },
   {
     "id": "skin-2363224",
@@ -2279,7 +2603,9 @@
     "price": 0.88,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P250 | Contaminant"
+    "item_name": "P250 | Contaminant",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "982"
   },
   {
     "id": "skin-2363224",
@@ -2293,7 +2619,9 @@
     "price": 0.26,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Contaminant"
+    "item_name": "P250 | Contaminant",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "982"
   },
   {
     "id": "skin-2363224",
@@ -2307,7 +2635,9 @@
     "price": 0.38,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Contaminant"
+    "item_name": "P250 | Contaminant",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "982"
   },
   {
     "id": "skin-2363224",
@@ -2321,7 +2651,9 @@
     "price": 0.96,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P250 | Contaminant"
+    "item_name": "P250 | Contaminant",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "982"
   },
   {
     "id": "skin-2363224",
@@ -2335,7 +2667,9 @@
     "price": 0.33,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P250 | Contaminant"
+    "item_name": "P250 | Contaminant",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "982"
   },
   {
     "id": "skin-2359952",
@@ -2349,7 +2683,9 @@
     "price": 23.27,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Modern Hunter"
+    "item_name": "P250 | Modern Hunter",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "164"
   },
   {
     "id": "skin-2359952",
@@ -2363,7 +2699,9 @@
     "price": 281.12,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Modern Hunter"
+    "item_name": "P250 | Modern Hunter",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "164"
   },
   {
     "id": "skin-2359952",
@@ -2377,7 +2715,9 @@
     "price": 12.65,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Modern Hunter"
+    "item_name": "P250 | Modern Hunter",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "164"
   },
   {
     "id": "skin-2359952",
@@ -2391,7 +2731,9 @@
     "price": 8.74,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Modern Hunter"
+    "item_name": "P250 | Modern Hunter",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "164"
   },
   {
     "id": "skin-2359952",
@@ -2405,7 +2747,9 @@
     "price": 548.39,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Modern Hunter"
+    "item_name": "P250 | Modern Hunter",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "164"
   },
   {
     "id": "skin-2361300",
@@ -2419,7 +2763,9 @@
     "price": 4.17,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P250 | Wingshot"
+    "item_name": "P250 | Wingshot",
+    "rarity": "Restricted",
+    "paint_index": "501"
   },
   {
     "id": "skin-2361300",
@@ -2433,7 +2779,9 @@
     "price": 9.32,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P250 | Wingshot"
+    "item_name": "P250 | Wingshot",
+    "rarity": "Restricted",
+    "paint_index": "501"
   },
   {
     "id": "skin-2361300",
@@ -2447,7 +2795,9 @@
     "price": 1.9,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P250 | Wingshot"
+    "item_name": "P250 | Wingshot",
+    "rarity": "Restricted",
+    "paint_index": "501"
   },
   {
     "id": "skin-2361300",
@@ -2461,7 +2811,9 @@
     "price": 3.19,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Wingshot"
+    "item_name": "P250 | Wingshot",
+    "rarity": "Restricted",
+    "paint_index": "501"
   },
   {
     "id": "skin-2361300",
@@ -2475,7 +2827,9 @@
     "price": 0.82,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Wingshot"
+    "item_name": "P250 | Wingshot",
+    "rarity": "Restricted",
+    "paint_index": "501"
   },
   {
     "id": "skin-2361300",
@@ -2489,7 +2843,9 @@
     "price": 0.79,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Wingshot"
+    "item_name": "P250 | Wingshot",
+    "rarity": "Restricted",
+    "paint_index": "501"
   },
   {
     "id": "skin-2361300",
@@ -2503,7 +2859,9 @@
     "price": 1.86,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P250 | Wingshot"
+    "item_name": "P250 | Wingshot",
+    "rarity": "Restricted",
+    "paint_index": "501"
   },
   {
     "id": "skin-2361300",
@@ -2517,7 +2875,9 @@
     "price": 1.65,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P250 | Wingshot"
+    "item_name": "P250 | Wingshot",
+    "rarity": "Restricted",
+    "paint_index": "501"
   },
   {
     "id": "skin-2361300",
@@ -2531,7 +2891,9 @@
     "price": 0.93,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Wingshot"
+    "item_name": "P250 | Wingshot",
+    "rarity": "Restricted",
+    "paint_index": "501"
   },
   {
     "id": "skin-2361300",
@@ -2545,7 +2907,9 @@
     "price": 1.67,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Wingshot"
+    "item_name": "P250 | Wingshot",
+    "rarity": "Restricted",
+    "paint_index": "501"
   },
   {
     "id": "skin-2360380",
@@ -2559,7 +2923,9 @@
     "price": 31.88,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Undertow"
+    "item_name": "P250 | Undertow",
+    "rarity": "Classified",
+    "paint_index": "271"
   },
   {
     "id": "skin-2360380",
@@ -2573,7 +2939,9 @@
     "price": 32.22,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Undertow"
+    "item_name": "P250 | Undertow",
+    "rarity": "Classified",
+    "paint_index": "271"
   },
   {
     "id": "skin-2360380",
@@ -2587,7 +2955,9 @@
     "price": 51.29,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P250 | Undertow"
+    "item_name": "P250 | Undertow",
+    "rarity": "Classified",
+    "paint_index": "271"
   },
   {
     "id": "skin-2360380",
@@ -2601,7 +2971,9 @@
     "price": 29.89,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P250 | Undertow"
+    "item_name": "P250 | Undertow",
+    "rarity": "Classified",
+    "paint_index": "271"
   },
   {
     "id": "skin-2360380",
@@ -2615,7 +2987,9 @@
     "price": 45.82,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Undertow"
+    "item_name": "P250 | Undertow",
+    "rarity": "Classified",
+    "paint_index": "271"
   },
   {
     "id": "skin-2360380",
@@ -2629,7 +3003,9 @@
     "price": 30.41,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P250 | Undertow"
+    "item_name": "P250 | Undertow",
+    "rarity": "Classified",
+    "paint_index": "271"
   },
   {
     "id": "skin-2359704",
@@ -2643,7 +3019,9 @@
     "price": 19.83,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Whiteout"
+    "item_name": "P250 | Whiteout",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "102"
   },
   {
     "id": "skin-2359704",
@@ -2657,7 +3035,9 @@
     "price": 26.05,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Whiteout"
+    "item_name": "P250 | Whiteout",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "102"
   },
   {
     "id": "skin-2359704",
@@ -2671,7 +3051,9 @@
     "price": 104.7,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Whiteout"
+    "item_name": "P250 | Whiteout",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "102"
   },
   {
     "id": "skin-2359704",
@@ -2685,7 +3067,9 @@
     "price": 18.42,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Whiteout"
+    "item_name": "P250 | Whiteout",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "102"
   },
   {
     "id": "skin-2359704",
@@ -2699,7 +3083,9 @@
     "price": 20.57,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Whiteout"
+    "item_name": "P250 | Whiteout",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "102"
   },
   {
     "id": "skin-2360124",
@@ -2713,7 +3099,9 @@
     "price": 6.86,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Facets"
+    "item_name": "P250 | Facets",
+    "rarity": "Industrial Grade",
+    "paint_index": "207"
   },
   {
     "id": "skin-2360124",
@@ -2727,7 +3115,9 @@
     "price": 3.17,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Facets"
+    "item_name": "P250 | Facets",
+    "rarity": "Industrial Grade",
+    "paint_index": "207"
   },
   {
     "id": "skin-2360124",
@@ -2741,7 +3131,9 @@
     "price": 3.97,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Facets"
+    "item_name": "P250 | Facets",
+    "rarity": "Industrial Grade",
+    "paint_index": "207"
   },
   {
     "id": "skin-2360124",
@@ -2755,7 +3147,9 @@
     "price": 12.17,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Facets"
+    "item_name": "P250 | Facets",
+    "rarity": "Industrial Grade",
+    "paint_index": "207"
   },
   {
     "id": "skin-2360124",
@@ -2769,7 +3163,9 @@
     "price": 4.58,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Facets"
+    "item_name": "P250 | Facets",
+    "rarity": "Industrial Grade",
+    "paint_index": "207"
   },
   {
     "id": "skin-2359356",
@@ -2783,7 +3179,9 @@
     "price": 1.92,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Gunsmoke"
+    "item_name": "P250 | Gunsmoke",
+    "rarity": "Industrial Grade",
+    "paint_index": "15"
   },
   {
     "id": "skin-2359356",
@@ -2797,7 +3195,9 @@
     "price": 3.17,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Gunsmoke"
+    "item_name": "P250 | Gunsmoke",
+    "rarity": "Industrial Grade",
+    "paint_index": "15"
   },
   {
     "id": "skin-2359356",
@@ -2811,7 +3211,9 @@
     "price": 25.37,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Gunsmoke"
+    "item_name": "P250 | Gunsmoke",
+    "rarity": "Industrial Grade",
+    "paint_index": "15"
   },
   {
     "id": "skin-2359356",
@@ -2825,7 +3227,9 @@
     "price": 1.79,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Gunsmoke"
+    "item_name": "P250 | Gunsmoke",
+    "rarity": "Industrial Grade",
+    "paint_index": "15"
   },
   {
     "id": "skin-2359356",
@@ -2839,7 +3243,9 @@
     "price": 1.4,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Gunsmoke"
+    "item_name": "P250 | Gunsmoke",
+    "rarity": "Industrial Grade",
+    "paint_index": "15"
   },
   {
     "id": "skin-2359432",
@@ -2853,7 +3259,9 @@
     "price": 0.19,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Metallic DDPAT"
+    "item_name": "P250 | Metallic DDPAT",
+    "rarity": "Industrial Grade",
+    "paint_index": "34"
   },
   {
     "id": "skin-2359432",
@@ -2867,7 +3275,9 @@
     "price": 0.19,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Metallic DDPAT"
+    "item_name": "P250 | Metallic DDPAT",
+    "rarity": "Industrial Grade",
+    "paint_index": "34"
   },
   {
     "id": "skin-2361896",
@@ -2881,7 +3291,9 @@
     "price": 0.49,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P250 | Ripple"
+    "item_name": "P250 | Ripple",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "650"
   },
   {
     "id": "skin-2361896",
@@ -2895,7 +3307,9 @@
     "price": 0.25,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Ripple"
+    "item_name": "P250 | Ripple",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "650"
   },
   {
     "id": "skin-2361896",
@@ -2909,7 +3323,9 @@
     "price": 0.15,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Ripple"
+    "item_name": "P250 | Ripple",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "650"
   },
   {
     "id": "skin-2361896",
@@ -2923,7 +3339,9 @@
     "price": 0.66,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P250 | Ripple"
+    "item_name": "P250 | Ripple",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "650"
   },
   {
     "id": "skin-2361896",
@@ -2937,7 +3355,9 @@
     "price": 0.26,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P250 | Ripple"
+    "item_name": "P250 | Ripple",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "650"
   },
   {
     "id": "skin-2361896",
@@ -2951,7 +3371,9 @@
     "price": 0.17,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Ripple"
+    "item_name": "P250 | Ripple",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "650"
   },
   {
     "id": "skin-2361896",
@@ -2965,7 +3387,9 @@
     "price": 0.15,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Ripple"
+    "item_name": "P250 | Ripple",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "650"
   },
   {
     "id": "skin-2361896",
@@ -2979,7 +3403,9 @@
     "price": 0.24,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P250 | Ripple"
+    "item_name": "P250 | Ripple",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "650"
   },
   {
     "id": "skin-2361896",
@@ -2993,7 +3419,9 @@
     "price": 0.19,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Ripple"
+    "item_name": "P250 | Ripple",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "650"
   },
   {
     "id": "skin-2361896",
@@ -3007,7 +3435,9 @@
     "price": 0.25,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P250 | Ripple"
+    "item_name": "P250 | Ripple",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "650"
   },
   {
     "id": "skin-2362292",
@@ -3021,7 +3451,9 @@
     "price": 7.38,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Vino Primo"
+    "item_name": "P250 | Vino Primo",
+    "rarity": "Restricted",
+    "paint_index": "749"
   },
   {
     "id": "skin-2362292",
@@ -3035,7 +3467,9 @@
     "price": 1.84,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Vino Primo"
+    "item_name": "P250 | Vino Primo",
+    "rarity": "Restricted",
+    "paint_index": "749"
   },
   {
     "id": "skin-2362292",
@@ -3049,7 +3483,9 @@
     "price": 4.24,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Vino Primo"
+    "item_name": "P250 | Vino Primo",
+    "rarity": "Restricted",
+    "paint_index": "749"
   },
   {
     "id": "skin-2362292",
@@ -3063,7 +3499,9 @@
     "price": 0.91,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Vino Primo"
+    "item_name": "P250 | Vino Primo",
+    "rarity": "Restricted",
+    "paint_index": "749"
   },
   {
     "id": "skin-2362292",
@@ -3077,7 +3515,9 @@
     "price": 1.21,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Vino Primo"
+    "item_name": "P250 | Vino Primo",
+    "rarity": "Restricted",
+    "paint_index": "749"
   },
   {
     "id": "skin-2361664",
@@ -3091,7 +3531,9 @@
     "price": 0.1,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Iron Clad"
+    "item_name": "P250 | Iron Clad",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "592"
   },
   {
     "id": "skin-2361664",
@@ -3105,7 +3547,9 @@
     "price": 0.18,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P250 | Iron Clad"
+    "item_name": "P250 | Iron Clad",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "592"
   },
   {
     "id": "skin-2361664",
@@ -3119,7 +3563,9 @@
     "price": 0.34,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Iron Clad"
+    "item_name": "P250 | Iron Clad",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "592"
   },
   {
     "id": "skin-2361664",
@@ -3133,7 +3579,9 @@
     "price": 2.03,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P250 | Iron Clad"
+    "item_name": "P250 | Iron Clad",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "592"
   },
   {
     "id": "skin-2361664",
@@ -3147,7 +3595,9 @@
     "price": 0.14,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P250 | Iron Clad"
+    "item_name": "P250 | Iron Clad",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "592"
   },
   {
     "id": "skin-2361664",
@@ -3161,7 +3611,9 @@
     "price": 0.06,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Iron Clad"
+    "item_name": "P250 | Iron Clad",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "592"
   },
   {
     "id": "skin-2361664",
@@ -3175,7 +3627,9 @@
     "price": 0.33,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P250 | Iron Clad"
+    "item_name": "P250 | Iron Clad",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "592"
   },
   {
     "id": "skin-2361664",
@@ -3189,7 +3643,9 @@
     "price": 0.1,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Iron Clad"
+    "item_name": "P250 | Iron Clad",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "592"
   },
   {
     "id": "skin-2361664",
@@ -3203,7 +3659,9 @@
     "price": 0.14,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P250 | Iron Clad"
+    "item_name": "P250 | Iron Clad",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "592"
   },
   {
     "id": "skin-2361664",
@@ -3217,7 +3675,9 @@
     "price": 0.09,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Iron Clad"
+    "item_name": "P250 | Iron Clad",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "592"
   },
   {
     "id": "skin-2363620",
@@ -3231,7 +3691,9 @@
     "price": 31.95,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Digital Architect"
+    "item_name": "P250 | Digital Architect",
+    "rarity": "Restricted",
+    "paint_index": "1081"
   },
   {
     "id": "skin-2363620",
@@ -3245,7 +3707,9 @@
     "price": 35.65,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Digital Architect"
+    "item_name": "P250 | Digital Architect",
+    "rarity": "Restricted",
+    "paint_index": "1081"
   },
   {
     "id": "skin-2363620",
@@ -3259,7 +3723,9 @@
     "price": 41.14,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Digital Architect"
+    "item_name": "P250 | Digital Architect",
+    "rarity": "Restricted",
+    "paint_index": "1081"
   },
   {
     "id": "skin-2363620",
@@ -3273,7 +3739,9 @@
     "price": 54.85,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Digital Architect"
+    "item_name": "P250 | Digital Architect",
+    "rarity": "Restricted",
+    "paint_index": "1081"
   },
   {
     "id": "skin-2363620",
@@ -3287,7 +3755,9 @@
     "price": 39.36,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Digital Architect"
+    "item_name": "P250 | Digital Architect",
+    "rarity": "Restricted",
+    "paint_index": "1081"
   },
   {
     "id": "skin-2362260",
@@ -3301,7 +3771,9 @@
     "price": 5.27,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Dark Filigree"
+    "item_name": "P250 | Dark Filigree",
+    "rarity": "Industrial Grade",
+    "paint_index": "741"
   },
   {
     "id": "skin-2362260",
@@ -3315,7 +3787,9 @@
     "price": 4.33,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Dark Filigree"
+    "item_name": "P250 | Dark Filigree",
+    "rarity": "Industrial Grade",
+    "paint_index": "741"
   },
   {
     "id": "skin-2362260",
@@ -3329,7 +3803,9 @@
     "price": 4.2,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Dark Filigree"
+    "item_name": "P250 | Dark Filigree",
+    "rarity": "Industrial Grade",
+    "paint_index": "741"
   },
   {
     "id": "skin-2362260",
@@ -3343,7 +3819,9 @@
     "price": 4.3,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Dark Filigree"
+    "item_name": "P250 | Dark Filigree",
+    "rarity": "Industrial Grade",
+    "paint_index": "741"
   },
   {
     "id": "skin-2362260",
@@ -3357,7 +3835,9 @@
     "price": 4.8,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Dark Filigree"
+    "item_name": "P250 | Dark Filigree",
+    "rarity": "Industrial Grade",
+    "paint_index": "741"
   },
   {
     "id": "skin-2361500",
@@ -3371,7 +3851,9 @@
     "price": 2.58,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Asiimov"
+    "item_name": "P250 | Asiimov",
+    "rarity": "Classified",
+    "paint_index": "551"
   },
   {
     "id": "skin-2361500",
@@ -3385,7 +3867,9 @@
     "price": 3.37,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P250 | Asiimov"
+    "item_name": "P250 | Asiimov",
+    "rarity": "Classified",
+    "paint_index": "551"
   },
   {
     "id": "skin-2361500",
@@ -3399,7 +3883,9 @@
     "price": 13.38,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Asiimov"
+    "item_name": "P250 | Asiimov",
+    "rarity": "Classified",
+    "paint_index": "551"
   },
   {
     "id": "skin-2361500",
@@ -3413,7 +3899,9 @@
     "price": 1.21,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Asiimov"
+    "item_name": "P250 | Asiimov",
+    "rarity": "Classified",
+    "paint_index": "551"
   },
   {
     "id": "skin-2361500",
@@ -3427,7 +3915,9 @@
     "price": 1.94,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Asiimov"
+    "item_name": "P250 | Asiimov",
+    "rarity": "Classified",
+    "paint_index": "551"
   },
   {
     "id": "skin-2361500",
@@ -3441,7 +3931,9 @@
     "price": 48.95,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P250 | Asiimov"
+    "item_name": "P250 | Asiimov",
+    "rarity": "Classified",
+    "paint_index": "551"
   },
   {
     "id": "skin-2361500",
@@ -3455,7 +3947,9 @@
     "price": 6.84,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P250 | Asiimov"
+    "item_name": "P250 | Asiimov",
+    "rarity": "Classified",
+    "paint_index": "551"
   },
   {
     "id": "skin-2361500",
@@ -3469,7 +3963,9 @@
     "price": 8.52,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P250 | Asiimov"
+    "item_name": "P250 | Asiimov",
+    "rarity": "Classified",
+    "paint_index": "551"
   },
   {
     "id": "skin-2363908",
@@ -3483,7 +3979,9 @@
     "price": 8.64,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P250 | Visions"
+    "item_name": "P250 | Visions",
+    "rarity": "Classified",
+    "paint_index": "1153"
   },
   {
     "id": "skin-2363908",
@@ -3497,7 +3995,9 @@
     "price": 2.3,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Visions"
+    "item_name": "P250 | Visions",
+    "rarity": "Classified",
+    "paint_index": "1153"
   },
   {
     "id": "skin-2363908",
@@ -3511,7 +4011,9 @@
     "price": 3.92,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P250 | Visions"
+    "item_name": "P250 | Visions",
+    "rarity": "Classified",
+    "paint_index": "1153"
   },
   {
     "id": "skin-2363908",
@@ -3525,7 +4027,9 @@
     "price": 2.06,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Visions"
+    "item_name": "P250 | Visions",
+    "rarity": "Classified",
+    "paint_index": "1153"
   },
   {
     "id": "skin-2363908",
@@ -3539,7 +4043,9 @@
     "price": 1.84,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Visions"
+    "item_name": "P250 | Visions",
+    "rarity": "Classified",
+    "paint_index": "1153"
   },
   {
     "id": "skin-2363908",
@@ -3553,7 +4059,9 @@
     "price": 3.4,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P250 | Visions"
+    "item_name": "P250 | Visions",
+    "rarity": "Classified",
+    "paint_index": "1153"
   },
   {
     "id": "skin-2363908",
@@ -3567,7 +4075,9 @@
     "price": 8.03,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Visions"
+    "item_name": "P250 | Visions",
+    "rarity": "Classified",
+    "paint_index": "1153"
   },
   {
     "id": "skin-2363908",
@@ -3581,7 +4091,9 @@
     "price": 3.98,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P250 | Visions"
+    "item_name": "P250 | Visions",
+    "rarity": "Classified",
+    "paint_index": "1153"
   },
   {
     "id": "skin-2363908",
@@ -3595,7 +4107,9 @@
     "price": 3.8,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Visions"
+    "item_name": "P250 | Visions",
+    "rarity": "Classified",
+    "paint_index": "1153"
   },
   {
     "id": "skin-2363908",
@@ -3609,7 +4123,9 @@
     "price": 21.8,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P250 | Visions"
+    "item_name": "P250 | Visions",
+    "rarity": "Classified",
+    "paint_index": "1153"
   },
   {
     "id": "skin-2362688",
@@ -3623,7 +4139,9 @@
     "price": 0.07,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Verdigris"
+    "item_name": "P250 | Verdigris",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "848"
   },
   {
     "id": "skin-2362688",
@@ -3637,7 +4155,9 @@
     "price": 1.3,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P250 | Verdigris"
+    "item_name": "P250 | Verdigris",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "848"
   },
   {
     "id": "skin-2362688",
@@ -3651,7 +4171,9 @@
     "price": 0.19,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P250 | Verdigris"
+    "item_name": "P250 | Verdigris",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "848"
   },
   {
     "id": "skin-2362688",
@@ -3665,7 +4187,9 @@
     "price": 0.25,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P250 | Verdigris"
+    "item_name": "P250 | Verdigris",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "848"
   },
   {
     "id": "skin-2362688",
@@ -3679,7 +4203,9 @@
     "price": 0.62,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P250 | Verdigris"
+    "item_name": "P250 | Verdigris",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "848"
   },
   {
     "id": "skin-2362688",
@@ -3693,7 +4219,9 @@
     "price": 0.21,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P250 | Verdigris"
+    "item_name": "P250 | Verdigris",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "848"
   },
   {
     "id": "skin-2362688",
@@ -3707,7 +4235,9 @@
     "price": 0.35,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Verdigris"
+    "item_name": "P250 | Verdigris",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "848"
   },
   {
     "id": "skin-2362688",
@@ -3721,7 +4251,9 @@
     "price": 0.13,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Verdigris"
+    "item_name": "P250 | Verdigris",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "848"
   },
   {
     "id": "skin-2362688",
@@ -3735,7 +4267,9 @@
     "price": 0.09,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Verdigris"
+    "item_name": "P250 | Verdigris",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "848"
   },
   {
     "id": "skin-2362688",
@@ -3749,7 +4283,9 @@
     "price": 0.2,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Verdigris"
+    "item_name": "P250 | Verdigris",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "848"
   },
   {
     "id": "skin-2362404",
@@ -3763,7 +4299,9 @@
     "price": 0.01,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Facility Draft"
+    "item_name": "P250 | Facility Draft",
+    "rarity": "Consumer Grade",
+    "paint_index": "777"
   },
   {
     "id": "skin-2362404",
@@ -3777,7 +4315,9 @@
     "price": 0.03,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Facility Draft"
+    "item_name": "P250 | Facility Draft",
+    "rarity": "Consumer Grade",
+    "paint_index": "777"
   },
   {
     "id": "skin-2362404",
@@ -3791,7 +4331,9 @@
     "price": 0.01,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Facility Draft"
+    "item_name": "P250 | Facility Draft",
+    "rarity": "Consumer Grade",
+    "paint_index": "777"
   },
   {
     "id": "skin-2362404",
@@ -3805,7 +4347,9 @@
     "price": 0.01,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Facility Draft"
+    "item_name": "P250 | Facility Draft",
+    "rarity": "Consumer Grade",
+    "paint_index": "777"
   },
   {
     "id": "skin-2362404",
@@ -3819,7 +4363,9 @@
     "price": 0.01,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Facility Draft"
+    "item_name": "P250 | Facility Draft",
+    "rarity": "Consumer Grade",
+    "paint_index": "777"
   },
   {
     "id": "skin-2360476",
@@ -3833,7 +4379,9 @@
     "price": 1.28,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Franklin"
+    "item_name": "P250 | Franklin",
+    "rarity": "Classified",
+    "paint_index": "295"
   },
   {
     "id": "skin-2360476",
@@ -3847,7 +4395,9 @@
     "price": 0.67,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Franklin"
+    "item_name": "P250 | Franklin",
+    "rarity": "Classified",
+    "paint_index": "295"
   },
   {
     "id": "skin-2360476",
@@ -3861,7 +4411,9 @@
     "price": 0.85,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Franklin"
+    "item_name": "P250 | Franklin",
+    "rarity": "Classified",
+    "paint_index": "295"
   },
   {
     "id": "skin-2360476",
@@ -3875,7 +4427,9 @@
     "price": 1.34,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Franklin"
+    "item_name": "P250 | Franklin",
+    "rarity": "Classified",
+    "paint_index": "295"
   },
   {
     "id": "skin-2362548",
@@ -3889,7 +4443,9 @@
     "price": 0.55,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Nevermore"
+    "item_name": "P250 | Nevermore",
+    "rarity": "Restricted",
+    "paint_index": "813"
   },
   {
     "id": "skin-2362548",
@@ -3903,7 +4459,9 @@
     "price": 0.38,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Nevermore"
+    "item_name": "P250 | Nevermore",
+    "rarity": "Restricted",
+    "paint_index": "813"
   },
   {
     "id": "skin-2362548",
@@ -3917,7 +4475,9 @@
     "price": 0.95,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Nevermore"
+    "item_name": "P250 | Nevermore",
+    "rarity": "Restricted",
+    "paint_index": "813"
   },
   {
     "id": "skin-2362548",
@@ -3931,7 +4491,9 @@
     "price": 0.62,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Nevermore"
+    "item_name": "P250 | Nevermore",
+    "rarity": "Restricted",
+    "paint_index": "813"
   },
   {
     "id": "skin-2362548",
@@ -3945,7 +4507,9 @@
     "price": 2.58,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P250 | Nevermore"
+    "item_name": "P250 | Nevermore",
+    "rarity": "Restricted",
+    "paint_index": "813"
   },
   {
     "id": "skin-2362548",
@@ -3959,7 +4523,9 @@
     "price": 0.88,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P250 | Nevermore"
+    "item_name": "P250 | Nevermore",
+    "rarity": "Restricted",
+    "paint_index": "813"
   },
   {
     "id": "skin-2362548",
@@ -3973,7 +4539,9 @@
     "price": 1.35,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P250 | Nevermore"
+    "item_name": "P250 | Nevermore",
+    "rarity": "Restricted",
+    "paint_index": "813"
   },
   {
     "id": "skin-2362548",
@@ -3987,7 +4555,9 @@
     "price": 1.89,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P250 | Nevermore"
+    "item_name": "P250 | Nevermore",
+    "rarity": "Restricted",
+    "paint_index": "813"
   },
   {
     "id": "skin-2361160",
@@ -4001,7 +4571,9 @@
     "price": 13.54,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Crimson Kimono"
+    "item_name": "P250 | Crimson Kimono",
+    "rarity": "Industrial Grade",
+    "paint_index": "466"
   },
   {
     "id": "skin-2361160",
@@ -4015,7 +4587,9 @@
     "price": 13.62,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Crimson Kimono"
+    "item_name": "P250 | Crimson Kimono",
+    "rarity": "Industrial Grade",
+    "paint_index": "466"
   },
   {
     "id": "skin-2361160",
@@ -4029,7 +4603,9 @@
     "price": 13.71,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Crimson Kimono"
+    "item_name": "P250 | Crimson Kimono",
+    "rarity": "Industrial Grade",
+    "paint_index": "466"
   },
   {
     "id": "skin-2361160",
@@ -4043,7 +4619,9 @@
     "price": 13.46,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Crimson Kimono"
+    "item_name": "P250 | Crimson Kimono",
+    "rarity": "Industrial Grade",
+    "paint_index": "466"
   },
   {
     "id": "skin-2361160",
@@ -4057,7 +4635,9 @@
     "price": 14.4,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Crimson Kimono"
+    "item_name": "P250 | Crimson Kimono",
+    "rarity": "Industrial Grade",
+    "paint_index": "466"
   },
   {
     "id": "skin-2362440",
@@ -4071,7 +4651,9 @@
     "price": 0.4,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Exchanger"
+    "item_name": "P250 | Exchanger",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "786"
   },
   {
     "id": "skin-2362440",
@@ -4085,7 +4667,9 @@
     "price": 0.19,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Exchanger"
+    "item_name": "P250 | Exchanger",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "786"
   },
   {
     "id": "skin-2362440",
@@ -4099,7 +4683,9 @@
     "price": 0.62,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Exchanger"
+    "item_name": "P250 | Exchanger",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "786"
   },
   {
     "id": "skin-2362440",
@@ -4113,7 +4699,9 @@
     "price": 0.25,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Exchanger"
+    "item_name": "P250 | Exchanger",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "786"
   },
   {
     "id": "skin-2362440",
@@ -4127,7 +4715,9 @@
     "price": 0.2,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Exchanger"
+    "item_name": "P250 | Exchanger",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "786"
   },
   {
     "id": "skin-2363416",
@@ -4141,7 +4731,9 @@
     "price": 7.35,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Bengal Tiger"
+    "item_name": "P250 | Bengal Tiger",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1030"
   },
   {
     "id": "skin-2363416",
@@ -4155,7 +4747,9 @@
     "price": 6.98,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Bengal Tiger"
+    "item_name": "P250 | Bengal Tiger",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1030"
   },
   {
     "id": "skin-2363416",
@@ -4169,7 +4763,9 @@
     "price": 7.13,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Bengal Tiger"
+    "item_name": "P250 | Bengal Tiger",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1030"
   },
   {
     "id": "skin-2363416",
@@ -4183,7 +4779,9 @@
     "price": 17.83,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Bengal Tiger"
+    "item_name": "P250 | Bengal Tiger",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1030"
   },
   {
     "id": "skin-2363416",
@@ -4197,7 +4795,9 @@
     "price": 6.74,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Bengal Tiger"
+    "item_name": "P250 | Bengal Tiger",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1030"
   },
   {
     "id": "skin-2361164",
@@ -4211,7 +4811,9 @@
     "price": 1.59,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Mint Kimono"
+    "item_name": "P250 | Mint Kimono",
+    "rarity": "Consumer Grade",
+    "paint_index": "467"
   },
   {
     "id": "skin-2361164",
@@ -4225,7 +4827,9 @@
     "price": 2.73,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Mint Kimono"
+    "item_name": "P250 | Mint Kimono",
+    "rarity": "Consumer Grade",
+    "paint_index": "467"
   },
   {
     "id": "skin-2361164",
@@ -4239,7 +4843,9 @@
     "price": 1.82,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Mint Kimono"
+    "item_name": "P250 | Mint Kimono",
+    "rarity": "Consumer Grade",
+    "paint_index": "467"
   },
   {
     "id": "skin-2361164",
@@ -4253,7 +4859,9 @@
     "price": 1.96,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Mint Kimono"
+    "item_name": "P250 | Mint Kimono",
+    "rarity": "Consumer Grade",
+    "paint_index": "467"
   },
   {
     "id": "skin-2361164",
@@ -4267,7 +4875,9 @@
     "price": 1.45,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Mint Kimono"
+    "item_name": "P250 | Mint Kimono",
+    "rarity": "Consumer Grade",
+    "paint_index": "467"
   },
   {
     "id": "skin-2362596",
@@ -4281,7 +4891,9 @@
     "price": 0.22,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Drought"
+    "item_name": "P250 | Drought",
+    "rarity": "Consumer Grade",
+    "paint_index": "825"
   },
   {
     "id": "skin-2362596",
@@ -4295,7 +4907,9 @@
     "price": 0.21,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Drought"
+    "item_name": "P250 | Drought",
+    "rarity": "Consumer Grade",
+    "paint_index": "825"
   },
   {
     "id": "skin-2362596",
@@ -4309,7 +4923,9 @@
     "price": 0.21,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Drought"
+    "item_name": "P250 | Drought",
+    "rarity": "Consumer Grade",
+    "paint_index": "825"
   },
   {
     "id": "skin-2362596",
@@ -4323,7 +4939,9 @@
     "price": 0.21,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Drought"
+    "item_name": "P250 | Drought",
+    "rarity": "Consumer Grade",
+    "paint_index": "825"
   },
   {
     "id": "skin-2359968",
@@ -4337,7 +4955,9 @@
     "price": 75.42,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Nuclear Threat"
+    "item_name": "P250 | Nuclear Threat",
+    "rarity": "Restricted",
+    "paint_index": "168"
   },
   {
     "id": "skin-2359968",
@@ -4351,7 +4971,9 @@
     "price": 20.28,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Nuclear Threat"
+    "item_name": "P250 | Nuclear Threat",
+    "rarity": "Restricted",
+    "paint_index": "168"
   },
   {
     "id": "skin-2359968",
@@ -4365,7 +4987,9 @@
     "price": 16.1,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Nuclear Threat"
+    "item_name": "P250 | Nuclear Threat",
+    "rarity": "Restricted",
+    "paint_index": "168"
   },
   {
     "id": "skin-2359968",
@@ -4379,7 +5003,9 @@
     "price": 410.02,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Nuclear Threat"
+    "item_name": "P250 | Nuclear Threat",
+    "rarity": "Restricted",
+    "paint_index": "168"
   },
   {
     "id": "skin-2359968",
@@ -4393,7 +5019,9 @@
     "price": 22.49,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Nuclear Threat"
+    "item_name": "P250 | Nuclear Threat",
+    "rarity": "Restricted",
+    "paint_index": "168"
   },
   {
     "id": "skin-2359604",
@@ -4407,7 +5035,9 @@
     "price": 0.01,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Boreal Forest"
+    "item_name": "P250 | Boreal Forest",
+    "rarity": "Consumer Grade",
+    "paint_index": "77"
   },
   {
     "id": "skin-2359604",
@@ -4421,7 +5051,9 @@
     "price": 0.01,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Boreal Forest"
+    "item_name": "P250 | Boreal Forest",
+    "rarity": "Consumer Grade",
+    "paint_index": "77"
   },
   {
     "id": "skin-2359604",
@@ -4435,7 +5067,9 @@
     "price": 0.12,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Boreal Forest"
+    "item_name": "P250 | Boreal Forest",
+    "rarity": "Consumer Grade",
+    "paint_index": "77"
   },
   {
     "id": "skin-2359604",
@@ -4449,7 +5083,9 @@
     "price": 0.01,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Boreal Forest"
+    "item_name": "P250 | Boreal Forest",
+    "rarity": "Consumer Grade",
+    "paint_index": "77"
   },
   {
     "id": "skin-2359604",
@@ -4463,7 +5099,9 @@
     "price": 0.01,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Boreal Forest"
+    "item_name": "P250 | Boreal Forest",
+    "rarity": "Consumer Grade",
+    "paint_index": "77"
   },
   {
     "id": "skin-2364288",
@@ -4477,7 +5115,9 @@
     "price": 116.56,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Apep's Curse"
+    "item_name": "P250 | Apep's Curse",
+    "rarity": "Classified",
+    "paint_index": "1248"
   },
   {
     "id": "skin-2364288",
@@ -4491,7 +5131,9 @@
     "price": 37,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Apep's Curse"
+    "item_name": "P250 | Apep's Curse",
+    "rarity": "Classified",
+    "paint_index": "1248"
   },
   {
     "id": "skin-2364288",
@@ -4505,7 +5147,9 @@
     "price": 86.39,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Apep's Curse"
+    "item_name": "P250 | Apep's Curse",
+    "rarity": "Classified",
+    "paint_index": "1248"
   },
   {
     "id": "skin-2364288",
@@ -4519,7 +5163,9 @@
     "price": 46.61,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Apep's Curse"
+    "item_name": "P250 | Apep's Curse",
+    "rarity": "Classified",
+    "paint_index": "1248"
   },
   {
     "id": "skin-2364288",
@@ -4533,6 +5179,8 @@
     "price": 41.05,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P250 | Apep's Curse"
+    "item_name": "P250 | Apep's Curse",
+    "rarity": "Classified",
+    "paint_index": "1248"
   }
 ]

@@ -11,7 +11,9 @@
     "price": 381.52,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Talon Knife"
+    "item_name": "★ Talon Knife",
+    "rarity": "Covert",
+    "paint_index": null
   },
   {
     "id": "skin-vanilla-weapon_knife_widowmaker",
@@ -25,6 +27,8 @@
     "price": 382.6,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Talon Knife"
+    "item_name": "★ Talon Knife",
+    "rarity": "Covert",
+    "paint_index": null
   }
 ]

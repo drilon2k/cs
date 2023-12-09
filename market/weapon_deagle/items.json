@@ -11,7 +11,9 @@
     "price": 304.7,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Emerald Jörmungandr"
+    "item_name": "Desert Eagle | Emerald Jörmungandr",
+    "rarity": "Restricted",
+    "paint_index": "757"
   },
   {
     "id": "skin-68564",
@@ -25,7 +27,9 @@
     "price": 281.8,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Emerald Jörmungandr"
+    "item_name": "Desert Eagle | Emerald Jörmungandr",
+    "rarity": "Restricted",
+    "paint_index": "757"
   },
   {
     "id": "skin-68564",
@@ -39,7 +43,9 @@
     "price": 209.81,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Emerald Jörmungandr"
+    "item_name": "Desert Eagle | Emerald Jörmungandr",
+    "rarity": "Restricted",
+    "paint_index": "757"
   },
   {
     "id": "skin-68564",
@@ -53,7 +59,9 @@
     "price": 219.4,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Emerald Jörmungandr"
+    "item_name": "Desert Eagle | Emerald Jörmungandr",
+    "rarity": "Restricted",
+    "paint_index": "757"
   },
   {
     "id": "skin-68564",
@@ -67,7 +75,9 @@
     "price": 215.3,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Emerald Jörmungandr"
+    "item_name": "Desert Eagle | Emerald Jörmungandr",
+    "rarity": "Restricted",
+    "paint_index": "757"
   },
   {
     "id": "skin-67236",
@@ -81,7 +91,9 @@
     "price": 0.17,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Bronze Deco"
+    "item_name": "Desert Eagle | Bronze Deco",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "425"
   },
   {
     "id": "skin-67236",
@@ -95,7 +107,9 @@
     "price": 0.74,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Desert Eagle | Bronze Deco"
+    "item_name": "Desert Eagle | Bronze Deco",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "425"
   },
   {
     "id": "skin-67236",
@@ -109,7 +123,9 @@
     "price": 0.66,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Bronze Deco"
+    "item_name": "Desert Eagle | Bronze Deco",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "425"
   },
   {
     "id": "skin-67236",
@@ -123,7 +139,9 @@
     "price": 1.08,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Desert Eagle | Bronze Deco"
+    "item_name": "Desert Eagle | Bronze Deco",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "425"
   },
   {
     "id": "skin-67236",
@@ -137,7 +155,9 @@
     "price": 3.22,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Desert Eagle | Bronze Deco"
+    "item_name": "Desert Eagle | Bronze Deco",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "425"
   },
   {
     "id": "skin-67236",
@@ -151,7 +171,9 @@
     "price": 0.17,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Bronze Deco"
+    "item_name": "Desert Eagle | Bronze Deco",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "425"
   },
   {
     "id": "skin-67236",
@@ -165,7 +187,9 @@
     "price": 0.54,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Bronze Deco"
+    "item_name": "Desert Eagle | Bronze Deco",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "425"
   },
   {
     "id": "skin-67236",
@@ -179,7 +203,9 @@
     "price": 0.36,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Bronze Deco"
+    "item_name": "Desert Eagle | Bronze Deco",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "425"
   },
   {
     "id": "skin-67236",
@@ -193,7 +219,9 @@
     "price": 0.54,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Desert Eagle | Bronze Deco"
+    "item_name": "Desert Eagle | Bronze Deco",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "425"
   },
   {
     "id": "skin-67236",
@@ -207,7 +235,9 @@
     "price": 1.84,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Desert Eagle | Bronze Deco"
+    "item_name": "Desert Eagle | Bronze Deco",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "425"
   },
   {
     "id": "skin-66720",
@@ -221,7 +251,9 @@
     "price": 0.63,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Meteorite"
+    "item_name": "Desert Eagle | Meteorite",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "296"
   },
   {
     "id": "skin-66720",
@@ -235,7 +267,9 @@
     "price": 0.71,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Meteorite"
+    "item_name": "Desert Eagle | Meteorite",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "296"
   },
   {
     "id": "skin-66720",
@@ -249,7 +283,9 @@
     "price": 1.15,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Meteorite"
+    "item_name": "Desert Eagle | Meteorite",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "296"
   },
   {
     "id": "skin-65696",
@@ -263,7 +299,9 @@
     "price": 5.82,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Night"
+    "item_name": "Desert Eagle | Night",
+    "rarity": "Industrial Grade",
+    "paint_index": "40"
   },
   {
     "id": "skin-65696",
@@ -277,7 +315,9 @@
     "price": 39.73,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Night"
+    "item_name": "Desert Eagle | Night",
+    "rarity": "Industrial Grade",
+    "paint_index": "40"
   },
   {
     "id": "skin-65696",
@@ -291,7 +331,9 @@
     "price": 5.99,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Night"
+    "item_name": "Desert Eagle | Night",
+    "rarity": "Industrial Grade",
+    "paint_index": "40"
   },
   {
     "id": "skin-65696",
@@ -305,7 +347,9 @@
     "price": 5.59,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Night"
+    "item_name": "Desert Eagle | Night",
+    "rarity": "Industrial Grade",
+    "paint_index": "40"
   },
   {
     "id": "skin-65696",
@@ -319,7 +363,9 @@
     "price": 6.17,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Night"
+    "item_name": "Desert Eagle | Night",
+    "rarity": "Industrial Grade",
+    "paint_index": "40"
   },
   {
     "id": "skin-67408",
@@ -333,7 +379,9 @@
     "price": 13.39,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Midnight Storm"
+    "item_name": "Desert Eagle | Midnight Storm",
+    "rarity": "Industrial Grade",
+    "paint_index": "468"
   },
   {
     "id": "skin-67408",
@@ -347,7 +395,9 @@
     "price": 13.48,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Midnight Storm"
+    "item_name": "Desert Eagle | Midnight Storm",
+    "rarity": "Industrial Grade",
+    "paint_index": "468"
   },
   {
     "id": "skin-67408",
@@ -361,7 +411,9 @@
     "price": 13.61,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Midnight Storm"
+    "item_name": "Desert Eagle | Midnight Storm",
+    "rarity": "Industrial Grade",
+    "paint_index": "468"
   },
   {
     "id": "skin-67408",
@@ -375,7 +427,9 @@
     "price": 17.76,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Midnight Storm"
+    "item_name": "Desert Eagle | Midnight Storm",
+    "rarity": "Industrial Grade",
+    "paint_index": "468"
   },
   {
     "id": "skin-67408",
@@ -389,7 +443,9 @@
     "price": 13.53,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Midnight Storm"
+    "item_name": "Desert Eagle | Midnight Storm",
+    "rarity": "Industrial Grade",
+    "paint_index": "468"
   },
   {
     "id": "skin-69316",
@@ -403,7 +459,9 @@
     "price": 0.07,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Blue Ply"
+    "item_name": "Desert Eagle | Blue Ply",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "945"
   },
   {
     "id": "skin-69316",
@@ -417,7 +475,9 @@
     "price": 5.29,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Desert Eagle | Blue Ply"
+    "item_name": "Desert Eagle | Blue Ply",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "945"
   },
   {
     "id": "skin-69316",
@@ -431,7 +491,9 @@
     "price": 0.08,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Blue Ply"
+    "item_name": "Desert Eagle | Blue Ply",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "945"
   },
   {
     "id": "skin-69316",
@@ -445,7 +507,9 @@
     "price": 0.41,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Desert Eagle | Blue Ply"
+    "item_name": "Desert Eagle | Blue Ply",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "945"
   },
   {
     "id": "skin-69316",
@@ -459,7 +523,9 @@
     "price": 0.82,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Blue Ply"
+    "item_name": "Desert Eagle | Blue Ply",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "945"
   },
   {
     "id": "skin-69316",
@@ -473,7 +539,9 @@
     "price": 0.51,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Desert Eagle | Blue Ply"
+    "item_name": "Desert Eagle | Blue Ply",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "945"
   },
   {
     "id": "skin-69316",
@@ -487,7 +555,9 @@
     "price": 0.99,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Desert Eagle | Blue Ply"
+    "item_name": "Desert Eagle | Blue Ply",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "945"
   },
   {
     "id": "skin-69316",
@@ -501,7 +571,9 @@
     "price": 0.11,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Blue Ply"
+    "item_name": "Desert Eagle | Blue Ply",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "945"
   },
   {
     "id": "skin-69316",
@@ -515,7 +587,9 @@
     "price": 0.38,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Desert Eagle | Blue Ply"
+    "item_name": "Desert Eagle | Blue Ply",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "945"
   },
   {
     "id": "skin-69316",
@@ -529,7 +603,9 @@
     "price": 0.22,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Blue Ply"
+    "item_name": "Desert Eagle | Blue Ply",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "945"
   },
   {
     "id": "skin-69896",
@@ -543,7 +619,9 @@
     "price": 90.51,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Desert Eagle | Ocean Drive"
+    "item_name": "Desert Eagle | Ocean Drive",
+    "rarity": "Covert",
+    "paint_index": "1090"
   },
   {
     "id": "skin-69896",
@@ -557,7 +635,9 @@
     "price": 12.17,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Ocean Drive"
+    "item_name": "Desert Eagle | Ocean Drive",
+    "rarity": "Covert",
+    "paint_index": "1090"
   },
   {
     "id": "skin-69896",
@@ -571,7 +651,9 @@
     "price": 29.61,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Desert Eagle | Ocean Drive"
+    "item_name": "Desert Eagle | Ocean Drive",
+    "rarity": "Covert",
+    "paint_index": "1090"
   },
   {
     "id": "skin-69896",
@@ -585,7 +667,9 @@
     "price": 101.34,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Ocean Drive"
+    "item_name": "Desert Eagle | Ocean Drive",
+    "rarity": "Covert",
+    "paint_index": "1090"
   },
   {
     "id": "skin-69896",
@@ -599,7 +683,9 @@
     "price": 43.13,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Desert Eagle | Ocean Drive"
+    "item_name": "Desert Eagle | Ocean Drive",
+    "rarity": "Covert",
+    "paint_index": "1090"
   },
   {
     "id": "skin-69896",
@@ -613,7 +699,9 @@
     "price": 13.71,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Ocean Drive"
+    "item_name": "Desert Eagle | Ocean Drive",
+    "rarity": "Covert",
+    "paint_index": "1090"
   },
   {
     "id": "skin-69896",
@@ -627,7 +715,9 @@
     "price": 11.38,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Ocean Drive"
+    "item_name": "Desert Eagle | Ocean Drive",
+    "rarity": "Covert",
+    "paint_index": "1090"
   },
   {
     "id": "skin-69896",
@@ -641,7 +731,9 @@
     "price": 30.17,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Ocean Drive"
+    "item_name": "Desert Eagle | Ocean Drive",
+    "rarity": "Covert",
+    "paint_index": "1090"
   },
   {
     "id": "skin-69896",
@@ -655,7 +747,9 @@
     "price": 335.63,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Desert Eagle | Ocean Drive"
+    "item_name": "Desert Eagle | Ocean Drive",
+    "rarity": "Covert",
+    "paint_index": "1090"
   },
   {
     "id": "skin-69896",
@@ -669,7 +763,9 @@
     "price": 30.14,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Desert Eagle | Ocean Drive"
+    "item_name": "Desert Eagle | Ocean Drive",
+    "rarity": "Covert",
+    "paint_index": "1090"
   },
   {
     "id": "skin-68116",
@@ -683,7 +779,9 @@
     "price": 0.17,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Oxide Blaze"
+    "item_name": "Desert Eagle | Oxide Blaze",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "645"
   },
   {
     "id": "skin-68116",
@@ -697,7 +795,9 @@
     "price": 1.47,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Desert Eagle | Oxide Blaze"
+    "item_name": "Desert Eagle | Oxide Blaze",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "645"
   },
   {
     "id": "skin-68116",
@@ -711,7 +811,9 @@
     "price": 0.55,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Desert Eagle | Oxide Blaze"
+    "item_name": "Desert Eagle | Oxide Blaze",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "645"
   },
   {
     "id": "skin-68116",
@@ -725,7 +827,9 @@
     "price": 0.97,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Desert Eagle | Oxide Blaze"
+    "item_name": "Desert Eagle | Oxide Blaze",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "645"
   },
   {
     "id": "skin-68116",
@@ -739,7 +843,9 @@
     "price": 0.35,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Oxide Blaze"
+    "item_name": "Desert Eagle | Oxide Blaze",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "645"
   },
   {
     "id": "skin-68116",
@@ -753,7 +859,9 @@
     "price": 0.17,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Oxide Blaze"
+    "item_name": "Desert Eagle | Oxide Blaze",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "645"
   },
   {
     "id": "skin-68116",
@@ -767,7 +875,9 @@
     "price": 0.18,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Oxide Blaze"
+    "item_name": "Desert Eagle | Oxide Blaze",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "645"
   },
   {
     "id": "skin-68116",
@@ -781,7 +891,9 @@
     "price": 0.2,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Oxide Blaze"
+    "item_name": "Desert Eagle | Oxide Blaze",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "645"
   },
   {
     "id": "skin-68116",
@@ -795,7 +907,9 @@
     "price": 1.51,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Desert Eagle | Oxide Blaze"
+    "item_name": "Desert Eagle | Oxide Blaze",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "645"
   },
   {
     "id": "skin-68116",
@@ -809,7 +923,9 @@
     "price": 0.77,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Desert Eagle | Oxide Blaze"
+    "item_name": "Desert Eagle | Oxide Blaze",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "645"
   },
   {
     "id": "skin-68592",
@@ -823,7 +939,9 @@
     "price": 237.24,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Fennec Fox"
+    "item_name": "Desert Eagle | Fennec Fox",
+    "rarity": "Classified",
+    "paint_index": "764"
   },
   {
     "id": "skin-68592",
@@ -837,7 +955,9 @@
     "price": 253.05,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Fennec Fox"
+    "item_name": "Desert Eagle | Fennec Fox",
+    "rarity": "Classified",
+    "paint_index": "764"
   },
   {
     "id": "skin-68592",
@@ -851,7 +971,9 @@
     "price": 335.83,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Fennec Fox"
+    "item_name": "Desert Eagle | Fennec Fox",
+    "rarity": "Classified",
+    "paint_index": "764"
   },
   {
     "id": "skin-68592",
@@ -865,7 +987,9 @@
     "price": 230.11,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Fennec Fox"
+    "item_name": "Desert Eagle | Fennec Fox",
+    "rarity": "Classified",
+    "paint_index": "764"
   },
   {
     "id": "skin-68592",
@@ -879,7 +1003,9 @@
     "price": 274.26,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Fennec Fox"
+    "item_name": "Desert Eagle | Fennec Fox",
+    "rarity": "Classified",
+    "paint_index": "764"
   },
   {
     "id": "skin-69384",
@@ -893,7 +1019,9 @@
     "price": 75.35,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Desert Eagle | Printstream"
+    "item_name": "Desert Eagle | Printstream",
+    "rarity": "Covert",
+    "paint_index": "962"
   },
   {
     "id": "skin-69384",
@@ -907,7 +1035,9 @@
     "price": 61.56,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Desert Eagle | Printstream"
+    "item_name": "Desert Eagle | Printstream",
+    "rarity": "Covert",
+    "paint_index": "962"
   },
   {
     "id": "skin-69384",
@@ -921,7 +1051,9 @@
     "price": 38.05,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Printstream"
+    "item_name": "Desert Eagle | Printstream",
+    "rarity": "Covert",
+    "paint_index": "962"
   },
   {
     "id": "skin-69384",
@@ -935,7 +1067,9 @@
     "price": 42.51,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Desert Eagle | Printstream"
+    "item_name": "Desert Eagle | Printstream",
+    "rarity": "Covert",
+    "paint_index": "962"
   },
   {
     "id": "skin-69384",
@@ -949,7 +1083,9 @@
     "price": 26.19,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Printstream"
+    "item_name": "Desert Eagle | Printstream",
+    "rarity": "Covert",
+    "paint_index": "962"
   },
   {
     "id": "skin-69384",
@@ -963,7 +1099,9 @@
     "price": 139.05,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Desert Eagle | Printstream"
+    "item_name": "Desert Eagle | Printstream",
+    "rarity": "Covert",
+    "paint_index": "962"
   },
   {
     "id": "skin-69384",
@@ -977,7 +1115,9 @@
     "price": 21.18,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Printstream"
+    "item_name": "Desert Eagle | Printstream",
+    "rarity": "Covert",
+    "paint_index": "962"
   },
   {
     "id": "skin-69384",
@@ -991,7 +1131,9 @@
     "price": 68.91,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Printstream"
+    "item_name": "Desert Eagle | Printstream",
+    "rarity": "Covert",
+    "paint_index": "962"
   },
   {
     "id": "skin-69384",
@@ -1005,7 +1147,9 @@
     "price": 46.76,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Desert Eagle | Printstream"
+    "item_name": "Desert Eagle | Printstream",
+    "rarity": "Covert",
+    "paint_index": "962"
   },
   {
     "id": "skin-69384",
@@ -1019,7 +1163,9 @@
     "price": 27.01,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Printstream"
+    "item_name": "Desert Eagle | Printstream",
+    "rarity": "Covert",
+    "paint_index": "962"
   },
   {
     "id": "skin-69560",
@@ -1033,7 +1179,9 @@
     "price": 6.83,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Night Heist"
+    "item_name": "Desert Eagle | Night Heist",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1006"
   },
   {
     "id": "skin-69560",
@@ -1047,7 +1195,9 @@
     "price": 10.42,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Night Heist"
+    "item_name": "Desert Eagle | Night Heist",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1006"
   },
   {
     "id": "skin-69560",
@@ -1061,7 +1211,9 @@
     "price": 6.91,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Night Heist"
+    "item_name": "Desert Eagle | Night Heist",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1006"
   },
   {
     "id": "skin-69560",
@@ -1075,7 +1227,9 @@
     "price": 7.5,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Night Heist"
+    "item_name": "Desert Eagle | Night Heist",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1006"
   },
   {
     "id": "skin-69560",
@@ -1089,7 +1243,9 @@
     "price": 8.62,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Night Heist"
+    "item_name": "Desert Eagle | Night Heist",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1006"
   },
   {
     "id": "skin-69736",
@@ -1103,7 +1259,9 @@
     "price": 0.26,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Trigger Discipline"
+    "item_name": "Desert Eagle | Trigger Discipline",
+    "rarity": "Restricted",
+    "paint_index": "1050"
   },
   {
     "id": "skin-69736",
@@ -1117,7 +1275,9 @@
     "price": 7.71,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Desert Eagle | Trigger Discipline"
+    "item_name": "Desert Eagle | Trigger Discipline",
+    "rarity": "Restricted",
+    "paint_index": "1050"
   },
   {
     "id": "skin-69736",
@@ -1131,7 +1291,9 @@
     "price": 0.79,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Trigger Discipline"
+    "item_name": "Desert Eagle | Trigger Discipline",
+    "rarity": "Restricted",
+    "paint_index": "1050"
   },
   {
     "id": "skin-69736",
@@ -1145,7 +1307,9 @@
     "price": 1,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Desert Eagle | Trigger Discipline"
+    "item_name": "Desert Eagle | Trigger Discipline",
+    "rarity": "Restricted",
+    "paint_index": "1050"
   },
   {
     "id": "skin-69736",
@@ -1159,7 +1323,9 @@
     "price": 0.91,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Desert Eagle | Trigger Discipline"
+    "item_name": "Desert Eagle | Trigger Discipline",
+    "rarity": "Restricted",
+    "paint_index": "1050"
   },
   {
     "id": "skin-69736",
@@ -1173,7 +1339,9 @@
     "price": 2.85,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Desert Eagle | Trigger Discipline"
+    "item_name": "Desert Eagle | Trigger Discipline",
+    "rarity": "Restricted",
+    "paint_index": "1050"
   },
   {
     "id": "skin-69736",
@@ -1187,7 +1355,9 @@
     "price": 0.23,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Trigger Discipline"
+    "item_name": "Desert Eagle | Trigger Discipline",
+    "rarity": "Restricted",
+    "paint_index": "1050"
   },
   {
     "id": "skin-69736",
@@ -1201,7 +1371,9 @@
     "price": 0.29,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Trigger Discipline"
+    "item_name": "Desert Eagle | Trigger Discipline",
+    "rarity": "Restricted",
+    "paint_index": "1050"
   },
   {
     "id": "skin-69736",
@@ -1215,7 +1387,9 @@
     "price": 1.3,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Desert Eagle | Trigger Discipline"
+    "item_name": "Desert Eagle | Trigger Discipline",
+    "rarity": "Restricted",
+    "paint_index": "1050"
   },
   {
     "id": "skin-69736",
@@ -1229,7 +1403,9 @@
     "price": 1.77,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Trigger Discipline"
+    "item_name": "Desert Eagle | Trigger Discipline",
+    "rarity": "Restricted",
+    "paint_index": "1050"
   },
   {
     "id": "skin-66628",
@@ -1243,7 +1419,9 @@
     "price": 4.1,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Heirloom"
+    "item_name": "Desert Eagle | Heirloom",
+    "rarity": "Restricted",
+    "paint_index": "273"
   },
   {
     "id": "skin-66628",
@@ -1257,7 +1435,9 @@
     "price": 6.41,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Heirloom"
+    "item_name": "Desert Eagle | Heirloom",
+    "rarity": "Restricted",
+    "paint_index": "273"
   },
   {
     "id": "skin-66628",
@@ -1271,7 +1451,9 @@
     "price": 5.2,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Heirloom"
+    "item_name": "Desert Eagle | Heirloom",
+    "rarity": "Restricted",
+    "paint_index": "273"
   },
   {
     "id": "skin-66628",
@@ -1285,7 +1467,9 @@
     "price": 3.62,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Heirloom"
+    "item_name": "Desert Eagle | Heirloom",
+    "rarity": "Restricted",
+    "paint_index": "273"
   },
   {
     "id": "skin-66628",
@@ -1299,7 +1483,9 @@
     "price": 16.87,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Desert Eagle | Heirloom"
+    "item_name": "Desert Eagle | Heirloom",
+    "rarity": "Restricted",
+    "paint_index": "273"
   },
   {
     "id": "skin-66628",
@@ -1313,7 +1499,9 @@
     "price": 12.34,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Heirloom"
+    "item_name": "Desert Eagle | Heirloom",
+    "rarity": "Restricted",
+    "paint_index": "273"
   },
   {
     "id": "skin-66628",
@@ -1327,7 +1515,9 @@
     "price": 8.46,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Desert Eagle | Heirloom"
+    "item_name": "Desert Eagle | Heirloom",
+    "rarity": "Restricted",
+    "paint_index": "273"
   },
   {
     "id": "skin-66628",
@@ -1341,7 +1531,9 @@
     "price": 12.98,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Desert Eagle | Heirloom"
+    "item_name": "Desert Eagle | Heirloom",
+    "rarity": "Restricted",
+    "paint_index": "273"
   },
   {
     "id": "skin-66628",
@@ -1355,7 +1547,9 @@
     "price": 8.02,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Desert Eagle | Heirloom"
+    "item_name": "Desert Eagle | Heirloom",
+    "rarity": "Restricted",
+    "paint_index": "273"
   },
   {
     "id": "skin-66628",
@@ -1369,7 +1563,9 @@
     "price": 60.61,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Desert Eagle | Heirloom"
+    "item_name": "Desert Eagle | Heirloom",
+    "rarity": "Restricted",
+    "paint_index": "273"
   },
   {
     "id": "skin-67124",
@@ -1383,7 +1579,9 @@
     "price": 1.65,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Naga"
+    "item_name": "Desert Eagle | Naga",
+    "rarity": "Restricted",
+    "paint_index": "397"
   },
   {
     "id": "skin-67124",
@@ -1397,7 +1595,9 @@
     "price": 0.76,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Naga"
+    "item_name": "Desert Eagle | Naga",
+    "rarity": "Restricted",
+    "paint_index": "397"
   },
   {
     "id": "skin-67124",
@@ -1411,7 +1611,9 @@
     "price": 16.82,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Desert Eagle | Naga"
+    "item_name": "Desert Eagle | Naga",
+    "rarity": "Restricted",
+    "paint_index": "397"
   },
   {
     "id": "skin-67124",
@@ -1425,7 +1627,9 @@
     "price": 3,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Desert Eagle | Naga"
+    "item_name": "Desert Eagle | Naga",
+    "rarity": "Restricted",
+    "paint_index": "397"
   },
   {
     "id": "skin-67124",
@@ -1439,7 +1643,9 @@
     "price": 2.95,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Desert Eagle | Naga"
+    "item_name": "Desert Eagle | Naga",
+    "rarity": "Restricted",
+    "paint_index": "397"
   },
   {
     "id": "skin-67124",
@@ -1453,7 +1659,9 @@
     "price": 0.74,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Naga"
+    "item_name": "Desert Eagle | Naga",
+    "rarity": "Restricted",
+    "paint_index": "397"
   },
   {
     "id": "skin-67124",
@@ -1467,7 +1675,9 @@
     "price": 5.55,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Desert Eagle | Naga"
+    "item_name": "Desert Eagle | Naga",
+    "rarity": "Restricted",
+    "paint_index": "397"
   },
   {
     "id": "skin-67124",
@@ -1481,7 +1691,9 @@
     "price": 0.93,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Naga"
+    "item_name": "Desert Eagle | Naga",
+    "rarity": "Restricted",
+    "paint_index": "397"
   },
   {
     "id": "skin-67124",
@@ -1495,7 +1707,9 @@
     "price": 4.85,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Naga"
+    "item_name": "Desert Eagle | Naga",
+    "rarity": "Restricted",
+    "paint_index": "397"
   },
   {
     "id": "skin-67124",
@@ -1509,7 +1723,9 @@
     "price": 3.15,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Desert Eagle | Naga"
+    "item_name": "Desert Eagle | Naga",
+    "rarity": "Restricted",
+    "paint_index": "397"
   },
   {
     "id": "skin-69504",
@@ -1523,7 +1739,9 @@
     "price": 1.99,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | The Bronze"
+    "item_name": "Desert Eagle | The Bronze",
+    "rarity": "Industrial Grade",
+    "paint_index": "992"
   },
   {
     "id": "skin-69504",
@@ -1537,7 +1755,9 @@
     "price": 2.04,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | The Bronze"
+    "item_name": "Desert Eagle | The Bronze",
+    "rarity": "Industrial Grade",
+    "paint_index": "992"
   },
   {
     "id": "skin-69504",
@@ -1551,7 +1771,9 @@
     "price": 2.07,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | The Bronze"
+    "item_name": "Desert Eagle | The Bronze",
+    "rarity": "Industrial Grade",
+    "paint_index": "992"
   },
   {
     "id": "skin-68900",
@@ -1565,7 +1787,9 @@
     "price": 2.75,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Desert Eagle | Light Rail"
+    "item_name": "Desert Eagle | Light Rail",
+    "rarity": "Restricted",
+    "paint_index": "841"
   },
   {
     "id": "skin-68900",
@@ -1579,7 +1803,9 @@
     "price": 4.69,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Desert Eagle | Light Rail"
+    "item_name": "Desert Eagle | Light Rail",
+    "rarity": "Restricted",
+    "paint_index": "841"
   },
   {
     "id": "skin-68900",
@@ -1593,7 +1819,9 @@
     "price": 0.59,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Light Rail"
+    "item_name": "Desert Eagle | Light Rail",
+    "rarity": "Restricted",
+    "paint_index": "841"
   },
   {
     "id": "skin-68900",
@@ -1607,7 +1835,9 @@
     "price": 2.52,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Desert Eagle | Light Rail"
+    "item_name": "Desert Eagle | Light Rail",
+    "rarity": "Restricted",
+    "paint_index": "841"
   },
   {
     "id": "skin-68900",
@@ -1621,7 +1851,9 @@
     "price": 0.5,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Light Rail"
+    "item_name": "Desert Eagle | Light Rail",
+    "rarity": "Restricted",
+    "paint_index": "841"
   },
   {
     "id": "skin-68900",
@@ -1635,7 +1867,9 @@
     "price": 0.43,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Light Rail"
+    "item_name": "Desert Eagle | Light Rail",
+    "rarity": "Restricted",
+    "paint_index": "841"
   },
   {
     "id": "skin-68900",
@@ -1649,7 +1883,9 @@
     "price": 12.95,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Desert Eagle | Light Rail"
+    "item_name": "Desert Eagle | Light Rail",
+    "rarity": "Restricted",
+    "paint_index": "841"
   },
   {
     "id": "skin-68900",
@@ -1663,7 +1899,9 @@
     "price": 3.31,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Light Rail"
+    "item_name": "Desert Eagle | Light Rail",
+    "rarity": "Restricted",
+    "paint_index": "841"
   },
   {
     "id": "skin-68900",
@@ -1677,7 +1915,9 @@
     "price": 1.15,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Light Rail"
+    "item_name": "Desert Eagle | Light Rail",
+    "rarity": "Restricted",
+    "paint_index": "841"
   },
   {
     "id": "skin-68900",
@@ -1691,7 +1931,9 @@
     "price": 2.52,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Desert Eagle | Light Rail"
+    "item_name": "Desert Eagle | Light Rail",
+    "rarity": "Restricted",
+    "paint_index": "841"
   },
   {
     "id": "skin-68380",
@@ -1705,7 +1947,9 @@
     "price": 13.2,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Code Red"
+    "item_name": "Desert Eagle | Code Red",
+    "rarity": "Covert",
+    "paint_index": "711"
   },
   {
     "id": "skin-68380",
@@ -1719,7 +1963,9 @@
     "price": 23.72,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Code Red"
+    "item_name": "Desert Eagle | Code Red",
+    "rarity": "Covert",
+    "paint_index": "711"
   },
   {
     "id": "skin-68380",
@@ -1733,7 +1979,9 @@
     "price": 12.83,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Code Red"
+    "item_name": "Desert Eagle | Code Red",
+    "rarity": "Covert",
+    "paint_index": "711"
   },
   {
     "id": "skin-68380",
@@ -1747,7 +1995,9 @@
     "price": 14.66,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Code Red"
+    "item_name": "Desert Eagle | Code Red",
+    "rarity": "Covert",
+    "paint_index": "711"
   },
   {
     "id": "skin-68380",
@@ -1761,7 +2011,9 @@
     "price": 154.82,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Desert Eagle | Code Red"
+    "item_name": "Desert Eagle | Code Red",
+    "rarity": "Covert",
+    "paint_index": "711"
   },
   {
     "id": "skin-68380",
@@ -1775,7 +2027,9 @@
     "price": 31.19,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Desert Eagle | Code Red"
+    "item_name": "Desert Eagle | Code Red",
+    "rarity": "Covert",
+    "paint_index": "711"
   },
   {
     "id": "skin-68380",
@@ -1789,7 +2043,9 @@
     "price": 36.07,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Desert Eagle | Code Red"
+    "item_name": "Desert Eagle | Code Red",
+    "rarity": "Covert",
+    "paint_index": "711"
   },
   {
     "id": "skin-68380",
@@ -1803,7 +2059,9 @@
     "price": 53.48,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Code Red"
+    "item_name": "Desert Eagle | Code Red",
+    "rarity": "Covert",
+    "paint_index": "711"
   },
   {
     "id": "skin-68380",
@@ -1817,7 +2075,9 @@
     "price": 63.56,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Desert Eagle | Code Red"
+    "item_name": "Desert Eagle | Code Red",
+    "rarity": "Covert",
+    "paint_index": "711"
   },
   {
     "id": "skin-68380",
@@ -1831,7 +2091,9 @@
     "price": 27.87,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Desert Eagle | Code Red"
+    "item_name": "Desert Eagle | Code Red",
+    "rarity": "Covert",
+    "paint_index": "711"
   },
   {
     "id": "skin-66484",
@@ -1845,7 +2107,9 @@
     "price": 0.36,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Urban Rubble"
+    "item_name": "Desert Eagle | Urban Rubble",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "237"
   },
   {
     "id": "skin-66484",
@@ -1859,7 +2123,9 @@
     "price": 0.25,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Urban Rubble"
+    "item_name": "Desert Eagle | Urban Rubble",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "237"
   },
   {
     "id": "skin-66484",
@@ -1873,7 +2139,9 @@
     "price": 0.65,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Urban Rubble"
+    "item_name": "Desert Eagle | Urban Rubble",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "237"
   },
   {
     "id": "skin-66484",
@@ -1887,7 +2155,9 @@
     "price": 0.24,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Urban Rubble"
+    "item_name": "Desert Eagle | Urban Rubble",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "237"
   },
   {
     "id": "skin-66484",
@@ -1901,7 +2171,9 @@
     "price": 0.25,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Urban Rubble"
+    "item_name": "Desert Eagle | Urban Rubble",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "237"
   },
   {
     "id": "skin-69760",
@@ -1915,7 +2187,9 @@
     "price": 0.82,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Sputnik"
+    "item_name": "Desert Eagle | Sputnik",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1056"
   },
   {
     "id": "skin-69760",
@@ -1929,7 +2203,9 @@
     "price": 1.21,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Sputnik"
+    "item_name": "Desert Eagle | Sputnik",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1056"
   },
   {
     "id": "skin-69760",
@@ -1943,7 +2219,9 @@
     "price": 0.64,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Sputnik"
+    "item_name": "Desert Eagle | Sputnik",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1056"
   },
   {
     "id": "skin-69760",
@@ -1957,7 +2235,9 @@
     "price": 0.77,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Sputnik"
+    "item_name": "Desert Eagle | Sputnik",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1056"
   },
   {
     "id": "skin-69760",
@@ -1971,7 +2251,9 @@
     "price": 0.77,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Sputnik"
+    "item_name": "Desert Eagle | Sputnik",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1056"
   },
   {
     "id": "skin-67948",
@@ -1985,7 +2267,9 @@
     "price": 0.29,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Directive"
+    "item_name": "Desert Eagle | Directive",
+    "rarity": "Restricted",
+    "paint_index": "603"
   },
   {
     "id": "skin-67948",
@@ -1999,7 +2283,9 @@
     "price": 1.19,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Desert Eagle | Directive"
+    "item_name": "Desert Eagle | Directive",
+    "rarity": "Restricted",
+    "paint_index": "603"
   },
   {
     "id": "skin-67948",
@@ -2013,7 +2299,9 @@
     "price": 0.26,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Directive"
+    "item_name": "Desert Eagle | Directive",
+    "rarity": "Restricted",
+    "paint_index": "603"
   },
   {
     "id": "skin-67948",
@@ -2027,7 +2315,9 @@
     "price": 37.03,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Desert Eagle | Directive"
+    "item_name": "Desert Eagle | Directive",
+    "rarity": "Restricted",
+    "paint_index": "603"
   },
   {
     "id": "skin-67948",
@@ -2041,7 +2331,9 @@
     "price": 0.95,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Directive"
+    "item_name": "Desert Eagle | Directive",
+    "rarity": "Restricted",
+    "paint_index": "603"
   },
   {
     "id": "skin-67948",
@@ -2055,7 +2347,9 @@
     "price": 0.26,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Directive"
+    "item_name": "Desert Eagle | Directive",
+    "rarity": "Restricted",
+    "paint_index": "603"
   },
   {
     "id": "skin-67948",
@@ -2069,7 +2363,9 @@
     "price": 1.06,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Desert Eagle | Directive"
+    "item_name": "Desert Eagle | Directive",
+    "rarity": "Restricted",
+    "paint_index": "603"
   },
   {
     "id": "skin-67948",
@@ -2083,7 +2379,9 @@
     "price": 5.43,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Desert Eagle | Directive"
+    "item_name": "Desert Eagle | Directive",
+    "rarity": "Restricted",
+    "paint_index": "603"
   },
   {
     "id": "skin-67948",
@@ -2097,7 +2395,9 @@
     "price": 7.91,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Directive"
+    "item_name": "Desert Eagle | Directive",
+    "rarity": "Restricted",
+    "paint_index": "603"
   },
   {
     "id": "skin-67948",
@@ -2111,7 +2411,9 @@
     "price": 1.22,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Desert Eagle | Directive"
+    "item_name": "Desert Eagle | Directive",
+    "rarity": "Restricted",
+    "paint_index": "603"
   },
   {
     "id": "skin-66464",
@@ -2125,7 +2427,9 @@
     "price": 4.56,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Crimson Web"
+    "item_name": "Desert Eagle | Crimson Web",
+    "rarity": "Restricted",
+    "paint_index": "232"
   },
   {
     "id": "skin-66464",
@@ -2139,7 +2443,9 @@
     "price": 9.65,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Desert Eagle | Crimson Web"
+    "item_name": "Desert Eagle | Crimson Web",
+    "rarity": "Restricted",
+    "paint_index": "232"
   },
   {
     "id": "skin-66464",
@@ -2153,7 +2459,9 @@
     "price": 90.99,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Crimson Web"
+    "item_name": "Desert Eagle | Crimson Web",
+    "rarity": "Restricted",
+    "paint_index": "232"
   },
   {
     "id": "skin-66464",
@@ -2167,7 +2475,9 @@
     "price": 257.81,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Desert Eagle | Crimson Web"
+    "item_name": "Desert Eagle | Crimson Web",
+    "rarity": "Restricted",
+    "paint_index": "232"
   },
   {
     "id": "skin-66464",
@@ -2181,7 +2491,9 @@
     "price": 4.73,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Crimson Web"
+    "item_name": "Desert Eagle | Crimson Web",
+    "rarity": "Restricted",
+    "paint_index": "232"
   },
   {
     "id": "skin-66464",
@@ -2195,7 +2507,9 @@
     "price": 10.06,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Desert Eagle | Crimson Web"
+    "item_name": "Desert Eagle | Crimson Web",
+    "rarity": "Restricted",
+    "paint_index": "232"
   },
   {
     "id": "skin-66464",
@@ -2209,7 +2523,9 @@
     "price": 15.56,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Desert Eagle | Crimson Web"
+    "item_name": "Desert Eagle | Crimson Web",
+    "rarity": "Restricted",
+    "paint_index": "232"
   },
   {
     "id": "skin-66464",
@@ -2223,7 +2539,9 @@
     "price": 16.04,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Crimson Web"
+    "item_name": "Desert Eagle | Crimson Web",
+    "rarity": "Restricted",
+    "paint_index": "232"
   },
   {
     "id": "skin-66464",
@@ -2237,7 +2555,9 @@
     "price": 36.89,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Desert Eagle | Crimson Web"
+    "item_name": "Desert Eagle | Crimson Web",
+    "rarity": "Restricted",
+    "paint_index": "232"
   },
   {
     "id": "skin-66464",
@@ -2251,7 +2571,9 @@
     "price": 4.48,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Crimson Web"
+    "item_name": "Desert Eagle | Crimson Web",
+    "rarity": "Restricted",
+    "paint_index": "232"
   },
   {
     "id": "skin-66848",
@@ -2265,7 +2587,9 @@
     "price": 346.26,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Hand Cannon"
+    "item_name": "Desert Eagle | Hand Cannon",
+    "rarity": "Restricted",
+    "paint_index": "328"
   },
   {
     "id": "skin-66848",
@@ -2279,7 +2603,9 @@
     "price": 0,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Hand Cannon"
+    "item_name": "Desert Eagle | Hand Cannon",
+    "rarity": "Restricted",
+    "paint_index": "328"
   },
   {
     "id": "skin-66848",
@@ -2293,7 +2619,9 @@
     "price": 319.93,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Hand Cannon"
+    "item_name": "Desert Eagle | Hand Cannon",
+    "rarity": "Restricted",
+    "paint_index": "328"
   },
   {
     "id": "skin-66848",
@@ -2307,7 +2635,9 @@
     "price": 1330.17,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Hand Cannon"
+    "item_name": "Desert Eagle | Hand Cannon",
+    "rarity": "Restricted",
+    "paint_index": "328"
   },
   {
     "id": "skin-66848",
@@ -2321,7 +2651,9 @@
     "price": 345.57,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Hand Cannon"
+    "item_name": "Desert Eagle | Hand Cannon",
+    "rarity": "Restricted",
+    "paint_index": "328"
   },
   {
     "id": "skin-67572",
@@ -2335,7 +2667,9 @@
     "price": 3.15,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Desert Eagle | Corinthian"
+    "item_name": "Desert Eagle | Corinthian",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "509"
   },
   {
     "id": "skin-67572",
@@ -2349,7 +2683,9 @@
     "price": 0.33,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Corinthian"
+    "item_name": "Desert Eagle | Corinthian",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "509"
   },
   {
     "id": "skin-67572",
@@ -2363,7 +2699,9 @@
     "price": 0.61,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Corinthian"
+    "item_name": "Desert Eagle | Corinthian",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "509"
   },
   {
     "id": "skin-67572",
@@ -2377,7 +2715,9 @@
     "price": 1.93,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Desert Eagle | Corinthian"
+    "item_name": "Desert Eagle | Corinthian",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "509"
   },
   {
     "id": "skin-67572",
@@ -2391,7 +2731,9 @@
     "price": 3.08,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Desert Eagle | Corinthian"
+    "item_name": "Desert Eagle | Corinthian",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "509"
   },
   {
     "id": "skin-67572",
@@ -2405,7 +2747,9 @@
     "price": 0.21,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Corinthian"
+    "item_name": "Desert Eagle | Corinthian",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "509"
   },
   {
     "id": "skin-67572",
@@ -2419,7 +2763,9 @@
     "price": 1.39,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Desert Eagle | Corinthian"
+    "item_name": "Desert Eagle | Corinthian",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "509"
   },
   {
     "id": "skin-67572",
@@ -2433,7 +2779,9 @@
     "price": 0.35,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Corinthian"
+    "item_name": "Desert Eagle | Corinthian",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "509"
   },
   {
     "id": "skin-68756",
@@ -2447,7 +2795,9 @@
     "price": 2.73,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Mecha Industries"
+    "item_name": "Desert Eagle | Mecha Industries",
+    "rarity": "Classified",
+    "paint_index": "805"
   },
   {
     "id": "skin-68756",
@@ -2461,7 +2811,9 @@
     "price": 2.73,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Mecha Industries"
+    "item_name": "Desert Eagle | Mecha Industries",
+    "rarity": "Classified",
+    "paint_index": "805"
   },
   {
     "id": "skin-68756",
@@ -2475,7 +2827,9 @@
     "price": 10.24,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Desert Eagle | Mecha Industries"
+    "item_name": "Desert Eagle | Mecha Industries",
+    "rarity": "Classified",
+    "paint_index": "805"
   },
   {
     "id": "skin-68756",
@@ -2489,7 +2843,9 @@
     "price": 16.72,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Desert Eagle | Mecha Industries"
+    "item_name": "Desert Eagle | Mecha Industries",
+    "rarity": "Classified",
+    "paint_index": "805"
   },
   {
     "id": "skin-68756",
@@ -2503,7 +2859,9 @@
     "price": 6.84,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Desert Eagle | Mecha Industries"
+    "item_name": "Desert Eagle | Mecha Industries",
+    "rarity": "Classified",
+    "paint_index": "805"
   },
   {
     "id": "skin-68756",
@@ -2517,7 +2875,9 @@
     "price": 6.9,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Desert Eagle | Mecha Industries"
+    "item_name": "Desert Eagle | Mecha Industries",
+    "rarity": "Classified",
+    "paint_index": "805"
   },
   {
     "id": "skin-68756",
@@ -2531,7 +2891,9 @@
     "price": 6.76,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Mecha Industries"
+    "item_name": "Desert Eagle | Mecha Industries",
+    "rarity": "Classified",
+    "paint_index": "805"
   },
   {
     "id": "skin-68756",
@@ -2545,7 +2907,9 @@
     "price": 3.87,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Mecha Industries"
+    "item_name": "Desert Eagle | Mecha Industries",
+    "rarity": "Classified",
+    "paint_index": "805"
   },
   {
     "id": "skin-68756",
@@ -2559,7 +2923,9 @@
     "price": 9.51,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Desert Eagle | Mecha Industries"
+    "item_name": "Desert Eagle | Mecha Industries",
+    "rarity": "Classified",
+    "paint_index": "805"
   },
   {
     "id": "skin-68756",
@@ -2573,7 +2939,9 @@
     "price": 3.11,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Mecha Industries"
+    "item_name": "Desert Eagle | Mecha Industries",
+    "rarity": "Classified",
+    "paint_index": "805"
   },
   {
     "id": "skin-66924",
@@ -2587,7 +2955,9 @@
     "price": 57.32,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Pilot"
+    "item_name": "Desert Eagle | Pilot",
+    "rarity": "Restricted",
+    "paint_index": "347"
   },
   {
     "id": "skin-66924",
@@ -2601,7 +2971,9 @@
     "price": 81.94,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Pilot"
+    "item_name": "Desert Eagle | Pilot",
+    "rarity": "Restricted",
+    "paint_index": "347"
   },
   {
     "id": "skin-66924",
@@ -2615,7 +2987,9 @@
     "price": 128.22,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Pilot"
+    "item_name": "Desert Eagle | Pilot",
+    "rarity": "Restricted",
+    "paint_index": "347"
   },
   {
     "id": "skin-66924",
@@ -2629,7 +3003,9 @@
     "price": 52.8,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Pilot"
+    "item_name": "Desert Eagle | Pilot",
+    "rarity": "Restricted",
+    "paint_index": "347"
   },
   {
     "id": "skin-66924",
@@ -2643,7 +3019,9 @@
     "price": 49.84,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Pilot"
+    "item_name": "Desert Eagle | Pilot",
+    "rarity": "Restricted",
+    "paint_index": "347"
   },
   {
     "id": "skin-65780",
@@ -2657,7 +3035,9 @@
     "price": 93.11,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Hypnotic"
+    "item_name": "Desert Eagle | Hypnotic",
+    "rarity": "Classified",
+    "paint_index": "61"
   },
   {
     "id": "skin-65780",
@@ -2671,7 +3051,9 @@
     "price": 128.56,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Desert Eagle | Hypnotic"
+    "item_name": "Desert Eagle | Hypnotic",
+    "rarity": "Classified",
+    "paint_index": "61"
   },
   {
     "id": "skin-65780",
@@ -2685,7 +3067,9 @@
     "price": 79.95,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Hypnotic"
+    "item_name": "Desert Eagle | Hypnotic",
+    "rarity": "Classified",
+    "paint_index": "61"
   },
   {
     "id": "skin-65780",
@@ -2699,7 +3083,9 @@
     "price": 136.45,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Desert Eagle | Hypnotic"
+    "item_name": "Desert Eagle | Hypnotic",
+    "rarity": "Classified",
+    "paint_index": "61"
   },
   {
     "id": "skin-65684",
@@ -2713,7 +3099,9 @@
     "price": 466.11,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Blaze"
+    "item_name": "Desert Eagle | Blaze",
+    "rarity": "Restricted",
+    "paint_index": "37"
   },
   {
     "id": "skin-65684",
@@ -2727,7 +3115,9 @@
     "price": 463.5,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Blaze"
+    "item_name": "Desert Eagle | Blaze",
+    "rarity": "Restricted",
+    "paint_index": "37"
   },
   {
     "id": "skin-67412",
@@ -2741,7 +3131,9 @@
     "price": 210.99,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Sunset Storm 壱"
+    "item_name": "Desert Eagle | Sunset Storm 壱",
+    "rarity": "Restricted",
+    "paint_index": "469"
   },
   {
     "id": "skin-67412",
@@ -2755,7 +3147,9 @@
     "price": 272.96,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Sunset Storm 壱"
+    "item_name": "Desert Eagle | Sunset Storm 壱",
+    "rarity": "Restricted",
+    "paint_index": "469"
   },
   {
     "id": "skin-67412",
@@ -2769,7 +3163,9 @@
     "price": 228.67,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Sunset Storm 壱"
+    "item_name": "Desert Eagle | Sunset Storm 壱",
+    "rarity": "Restricted",
+    "paint_index": "469"
   },
   {
     "id": "skin-67412",
@@ -2783,7 +3179,9 @@
     "price": 205.63,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Sunset Storm 壱"
+    "item_name": "Desert Eagle | Sunset Storm 壱",
+    "rarity": "Restricted",
+    "paint_index": "469"
   },
   {
     "id": "skin-67412",
@@ -2797,7 +3195,9 @@
     "price": 375.74,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Sunset Storm 壱"
+    "item_name": "Desert Eagle | Sunset Storm 壱",
+    "rarity": "Restricted",
+    "paint_index": "469"
   },
   {
     "id": "skin-66276",
@@ -2811,7 +3211,9 @@
     "price": 64.45,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Golden Koi"
+    "item_name": "Desert Eagle | Golden Koi",
+    "rarity": "Covert",
+    "paint_index": "185"
   },
   {
     "id": "skin-66276",
@@ -2825,7 +3227,9 @@
     "price": 63.63,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Golden Koi"
+    "item_name": "Desert Eagle | Golden Koi",
+    "rarity": "Covert",
+    "paint_index": "185"
   },
   {
     "id": "skin-66276",
@@ -2839,7 +3243,9 @@
     "price": 193.01,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Desert Eagle | Golden Koi"
+    "item_name": "Desert Eagle | Golden Koi",
+    "rarity": "Covert",
+    "paint_index": "185"
   },
   {
     "id": "skin-66276",
@@ -2853,7 +3259,9 @@
     "price": 113.82,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Desert Eagle | Golden Koi"
+    "item_name": "Desert Eagle | Golden Koi",
+    "rarity": "Covert",
+    "paint_index": "185"
   },
   {
     "id": "skin-65604",
@@ -2867,7 +3275,9 @@
     "price": 14.4,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Urban DDPAT"
+    "item_name": "Desert Eagle | Urban DDPAT",
+    "rarity": "Industrial Grade",
+    "paint_index": "17"
   },
   {
     "id": "skin-65604",
@@ -2881,7 +3291,9 @@
     "price": 1.58,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Urban DDPAT"
+    "item_name": "Desert Eagle | Urban DDPAT",
+    "rarity": "Industrial Grade",
+    "paint_index": "17"
   },
   {
     "id": "skin-65604",
@@ -2895,7 +3307,9 @@
     "price": 1.35,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Urban DDPAT"
+    "item_name": "Desert Eagle | Urban DDPAT",
+    "rarity": "Industrial Grade",
+    "paint_index": "17"
   },
   {
     "id": "skin-65604",
@@ -2909,7 +3323,9 @@
     "price": 1.27,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Urban DDPAT"
+    "item_name": "Desert Eagle | Urban DDPAT",
+    "rarity": "Industrial Grade",
+    "paint_index": "17"
   },
   {
     "id": "skin-65604",
@@ -2923,7 +3339,9 @@
     "price": 1.19,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Urban DDPAT"
+    "item_name": "Desert Eagle | Urban DDPAT",
+    "rarity": "Industrial Grade",
+    "paint_index": "17"
   },
   {
     "id": "skin-67416",
@@ -2937,7 +3355,9 @@
     "price": 277.89,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Sunset Storm 弐"
+    "item_name": "Desert Eagle | Sunset Storm 弐",
+    "rarity": "Restricted",
+    "paint_index": "470"
   },
   {
     "id": "skin-67416",
@@ -2951,7 +3371,9 @@
     "price": 212.96,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Sunset Storm 弐"
+    "item_name": "Desert Eagle | Sunset Storm 弐",
+    "rarity": "Restricted",
+    "paint_index": "470"
   },
   {
     "id": "skin-67416",
@@ -2965,7 +3387,9 @@
     "price": 226.06,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Sunset Storm 弐"
+    "item_name": "Desert Eagle | Sunset Storm 弐",
+    "rarity": "Restricted",
+    "paint_index": "470"
   },
   {
     "id": "skin-67416",
@@ -2979,7 +3403,9 @@
     "price": 201.65,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Sunset Storm 弐"
+    "item_name": "Desert Eagle | Sunset Storm 弐",
+    "rarity": "Restricted",
+    "paint_index": "470"
   },
   {
     "id": "skin-67416",
@@ -2993,7 +3419,9 @@
     "price": 218.66,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Sunset Storm 弐"
+    "item_name": "Desert Eagle | Sunset Storm 弐",
+    "rarity": "Restricted",
+    "paint_index": "470"
   },
   {
     "id": "skin-66940",
@@ -3007,7 +3435,9 @@
     "price": 4.09,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Conspiracy"
+    "item_name": "Desert Eagle | Conspiracy",
+    "rarity": "Classified",
+    "paint_index": "351"
   },
   {
     "id": "skin-66940",
@@ -3021,7 +3451,9 @@
     "price": 6.51,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Conspiracy"
+    "item_name": "Desert Eagle | Conspiracy",
+    "rarity": "Classified",
+    "paint_index": "351"
   },
   {
     "id": "skin-66940",
@@ -3035,7 +3467,9 @@
     "price": 18.5,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Desert Eagle | Conspiracy"
+    "item_name": "Desert Eagle | Conspiracy",
+    "rarity": "Classified",
+    "paint_index": "351"
   },
   {
     "id": "skin-66940",
@@ -3049,7 +3483,9 @@
     "price": 11.86,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Desert Eagle | Conspiracy"
+    "item_name": "Desert Eagle | Conspiracy",
+    "rarity": "Classified",
+    "paint_index": "351"
   },
   {
     "id": "skin-66940",
@@ -3063,7 +3499,9 @@
     "price": 3.96,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Conspiracy"
+    "item_name": "Desert Eagle | Conspiracy",
+    "rarity": "Classified",
+    "paint_index": "351"
   },
   {
     "id": "skin-66940",
@@ -3077,7 +3515,9 @@
     "price": 10.28,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Desert Eagle | Conspiracy"
+    "item_name": "Desert Eagle | Conspiracy",
+    "rarity": "Classified",
+    "paint_index": "351"
   },
   {
     "id": "skin-66460",
@@ -3091,7 +3531,9 @@
     "price": 60.06,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Cobalt Disruption"
+    "item_name": "Desert Eagle | Cobalt Disruption",
+    "rarity": "Classified",
+    "paint_index": "231"
   },
   {
     "id": "skin-66460",
@@ -3105,7 +3547,9 @@
     "price": 77.89,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Desert Eagle | Cobalt Disruption"
+    "item_name": "Desert Eagle | Cobalt Disruption",
+    "rarity": "Classified",
+    "paint_index": "231"
   },
   {
     "id": "skin-66460",
@@ -3119,7 +3563,9 @@
     "price": 123.42,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Desert Eagle | Cobalt Disruption"
+    "item_name": "Desert Eagle | Cobalt Disruption",
+    "rarity": "Classified",
+    "paint_index": "231"
   },
   {
     "id": "skin-66460",
@@ -3133,7 +3579,9 @@
     "price": 49.63,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Cobalt Disruption"
+    "item_name": "Desert Eagle | Cobalt Disruption",
+    "rarity": "Classified",
+    "paint_index": "231"
   },
   {
     "id": "skin-66460",
@@ -3147,7 +3595,9 @@
     "price": 46.47,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Cobalt Disruption"
+    "item_name": "Desert Eagle | Cobalt Disruption",
+    "rarity": "Classified",
+    "paint_index": "231"
   },
   {
     "id": "skin-66460",
@@ -3161,7 +3611,9 @@
     "price": 76.52,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Desert Eagle | Cobalt Disruption"
+    "item_name": "Desert Eagle | Cobalt Disruption",
+    "rarity": "Classified",
+    "paint_index": "231"
   },
   {
     "id": "skin-65896",
@@ -3175,7 +3627,9 @@
     "price": 0.55,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Mudder"
+    "item_name": "Desert Eagle | Mudder",
+    "rarity": "Industrial Grade",
+    "paint_index": "90"
   },
   {
     "id": "skin-65896",
@@ -3189,7 +3643,9 @@
     "price": 0.07,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Mudder"
+    "item_name": "Desert Eagle | Mudder",
+    "rarity": "Industrial Grade",
+    "paint_index": "90"
   },
   {
     "id": "skin-65896",
@@ -3203,7 +3659,9 @@
     "price": 0.04,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Mudder"
+    "item_name": "Desert Eagle | Mudder",
+    "rarity": "Industrial Grade",
+    "paint_index": "90"
   },
   {
     "id": "skin-65896",
@@ -3217,7 +3675,9 @@
     "price": 0.05,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Mudder"
+    "item_name": "Desert Eagle | Mudder",
+    "rarity": "Industrial Grade",
+    "paint_index": "90"
   },
   {
     "id": "skin-65896",
@@ -3231,7 +3691,9 @@
     "price": 0.05,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Mudder"
+    "item_name": "Desert Eagle | Mudder",
+    "rarity": "Industrial Grade",
+    "paint_index": "90"
   },
   {
     "id": "skin-67644",
@@ -3245,7 +3707,9 @@
     "price": 26.33,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Kumicho Dragon"
+    "item_name": "Desert Eagle | Kumicho Dragon",
+    "rarity": "Classified",
+    "paint_index": "527"
   },
   {
     "id": "skin-67644",
@@ -3259,7 +3723,9 @@
     "price": 76.03,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Desert Eagle | Kumicho Dragon"
+    "item_name": "Desert Eagle | Kumicho Dragon",
+    "rarity": "Classified",
+    "paint_index": "527"
   },
   {
     "id": "skin-67644",
@@ -3273,7 +3739,9 @@
     "price": 27.22,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Desert Eagle | Kumicho Dragon"
+    "item_name": "Desert Eagle | Kumicho Dragon",
+    "rarity": "Classified",
+    "paint_index": "527"
   },
   {
     "id": "skin-67644",
@@ -3287,7 +3755,9 @@
     "price": 10.82,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Kumicho Dragon"
+    "item_name": "Desert Eagle | Kumicho Dragon",
+    "rarity": "Classified",
+    "paint_index": "527"
   },
   {
     "id": "skin-67644",
@@ -3301,7 +3771,9 @@
     "price": 9.68,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Kumicho Dragon"
+    "item_name": "Desert Eagle | Kumicho Dragon",
+    "rarity": "Classified",
+    "paint_index": "527"
   },
   {
     "id": "skin-67644",
@@ -3315,7 +3787,9 @@
     "price": 13.12,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Kumicho Dragon"
+    "item_name": "Desert Eagle | Kumicho Dragon",
+    "rarity": "Classified",
+    "paint_index": "527"
   },
   {
     "id": "skin-67644",
@@ -3329,7 +3803,9 @@
     "price": 16.32,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Desert Eagle | Kumicho Dragon"
+    "item_name": "Desert Eagle | Kumicho Dragon",
+    "rarity": "Classified",
+    "paint_index": "527"
   },
   {
     "id": "skin-67644",
@@ -3343,7 +3819,9 @@
     "price": 26.18,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Desert Eagle | Kumicho Dragon"
+    "item_name": "Desert Eagle | Kumicho Dragon",
+    "rarity": "Classified",
+    "paint_index": "527"
   },
   {
     "id": "skin-67644",
@@ -3357,7 +3835,9 @@
     "price": 38.4,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Desert Eagle | Kumicho Dragon"
+    "item_name": "Desert Eagle | Kumicho Dragon",
+    "rarity": "Classified",
+    "paint_index": "527"
   },
   {
     "id": "skin-67644",
@@ -3371,6 +3851,8 @@
     "price": 37.85,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Desert Eagle | Kumicho Dragon"
+    "item_name": "Desert Eagle | Kumicho Dragon",
+    "rarity": "Classified",
+    "paint_index": "527"
   }
 ]

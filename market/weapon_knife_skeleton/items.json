@@ -11,7 +11,9 @@
     "price": 0,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Skeleton Knife | Boreal Forest"
+    "item_name": "★ Skeleton Knife | Boreal Forest",
+    "rarity": "Covert",
+    "paint_index": "77"
   },
   {
     "id": "skin-34406708",
@@ -25,7 +27,9 @@
     "price": 218.04,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Skeleton Knife | Boreal Forest"
+    "item_name": "★ Skeleton Knife | Boreal Forest",
+    "rarity": "Covert",
+    "paint_index": "77"
   },
   {
     "id": "skin-34406708",
@@ -39,7 +43,9 @@
     "price": 218.04,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Skeleton Knife | Boreal Forest"
+    "item_name": "★ Skeleton Knife | Boreal Forest",
+    "rarity": "Covert",
+    "paint_index": "77"
   },
   {
     "id": "skin-34406708",
@@ -53,7 +59,9 @@
     "price": 476.67,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Skeleton Knife | Boreal Forest"
+    "item_name": "★ Skeleton Knife | Boreal Forest",
+    "rarity": "Covert",
+    "paint_index": "77"
   },
   {
     "id": "skin-34406708",
@@ -67,7 +75,9 @@
     "price": 204.33,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Skeleton Knife | Boreal Forest"
+    "item_name": "★ Skeleton Knife | Boreal Forest",
+    "rarity": "Covert",
+    "paint_index": "77"
   },
   {
     "id": "skin-34406708",
@@ -81,7 +91,9 @@
     "price": 205.7,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Skeleton Knife | Boreal Forest"
+    "item_name": "★ Skeleton Knife | Boreal Forest",
+    "rarity": "Covert",
+    "paint_index": "77"
   },
   {
     "id": "skin-34406708",
@@ -95,7 +107,9 @@
     "price": 191.5,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Skeleton Knife | Boreal Forest"
+    "item_name": "★ Skeleton Knife | Boreal Forest",
+    "rarity": "Covert",
+    "paint_index": "77"
   },
   {
     "id": "skin-34406708",
@@ -109,7 +123,9 @@
     "price": 205.7,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Skeleton Knife | Boreal Forest"
+    "item_name": "★ Skeleton Knife | Boreal Forest",
+    "rarity": "Covert",
+    "paint_index": "77"
   },
   {
     "id": "skin-34406708",
@@ -123,7 +139,9 @@
     "price": 205.7,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Skeleton Knife | Boreal Forest"
+    "item_name": "★ Skeleton Knife | Boreal Forest",
+    "rarity": "Covert",
+    "paint_index": "77"
   },
   {
     "id": "skin-34406708",
@@ -137,7 +155,9 @@
     "price": 191.16,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Skeleton Knife | Boreal Forest"
+    "item_name": "★ Skeleton Knife | Boreal Forest",
+    "rarity": "Covert",
+    "paint_index": "77"
   },
   {
     "id": "skin-34409340",
@@ -151,7 +171,9 @@
     "price": 257.81,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Skeleton Knife | Night Stripe"
+    "item_name": "★ Skeleton Knife | Night Stripe",
+    "rarity": "Covert",
+    "paint_index": "735"
   },
   {
     "id": "skin-34409340",
@@ -165,7 +187,9 @@
     "price": 279.06,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Skeleton Knife | Night Stripe"
+    "item_name": "★ Skeleton Knife | Night Stripe",
+    "rarity": "Covert",
+    "paint_index": "735"
   },
   {
     "id": "skin-34409340",
@@ -179,7 +203,9 @@
     "price": 329.05,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Skeleton Knife | Night Stripe"
+    "item_name": "★ Skeleton Knife | Night Stripe",
+    "rarity": "Covert",
+    "paint_index": "735"
   },
   {
     "id": "skin-34409340",
@@ -193,7 +219,9 @@
     "price": 0,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Skeleton Knife | Night Stripe"
+    "item_name": "★ Skeleton Knife | Night Stripe",
+    "rarity": "Covert",
+    "paint_index": "735"
   },
   {
     "id": "skin-34409340",
@@ -207,7 +235,9 @@
     "price": 219.41,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Skeleton Knife | Night Stripe"
+    "item_name": "★ Skeleton Knife | Night Stripe",
+    "rarity": "Covert",
+    "paint_index": "735"
   },
   {
     "id": "skin-34409340",
@@ -221,7 +251,9 @@
     "price": 259.04,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Skeleton Knife | Night Stripe"
+    "item_name": "★ Skeleton Knife | Night Stripe",
+    "rarity": "Covert",
+    "paint_index": "735"
   },
   {
     "id": "skin-34409340",
@@ -235,7 +267,9 @@
     "price": 328.98,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Skeleton Knife | Night Stripe"
+    "item_name": "★ Skeleton Knife | Night Stripe",
+    "rarity": "Covert",
+    "paint_index": "735"
   },
   {
     "id": "skin-34409340",
@@ -249,7 +283,9 @@
     "price": 260.55,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Skeleton Knife | Night Stripe"
+    "item_name": "★ Skeleton Knife | Night Stripe",
+    "rarity": "Covert",
+    "paint_index": "735"
   },
   {
     "id": "skin-34409340",
@@ -263,7 +299,9 @@
     "price": 685.52,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Skeleton Knife | Night Stripe"
+    "item_name": "★ Skeleton Knife | Night Stripe",
+    "rarity": "Covert",
+    "paint_index": "735"
   },
   {
     "id": "skin-34409340",
@@ -277,7 +315,9 @@
     "price": 258.83,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Skeleton Knife | Night Stripe"
+    "item_name": "★ Skeleton Knife | Night Stripe",
+    "rarity": "Covert",
+    "paint_index": "735"
   },
   {
     "id": "skin-34406688",
@@ -291,7 +331,9 @@
     "price": 219.34,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Skeleton Knife | Safari Mesh"
+    "item_name": "★ Skeleton Knife | Safari Mesh",
+    "rarity": "Covert",
+    "paint_index": "72"
   },
   {
     "id": "skin-34406688",
@@ -305,7 +347,9 @@
     "price": 194.66,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Skeleton Knife | Safari Mesh"
+    "item_name": "★ Skeleton Knife | Safari Mesh",
+    "rarity": "Covert",
+    "paint_index": "72"
   },
   {
     "id": "skin-34406688",
@@ -319,7 +363,9 @@
     "price": 436.01,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Skeleton Knife | Safari Mesh"
+    "item_name": "★ Skeleton Knife | Safari Mesh",
+    "rarity": "Covert",
+    "paint_index": "72"
   },
   {
     "id": "skin-34406688",
@@ -333,7 +379,9 @@
     "price": 187.39,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Skeleton Knife | Safari Mesh"
+    "item_name": "★ Skeleton Knife | Safari Mesh",
+    "rarity": "Covert",
+    "paint_index": "72"
   },
   {
     "id": "skin-34406688",
@@ -347,7 +395,9 @@
     "price": 13662.51,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Skeleton Knife | Safari Mesh"
+    "item_name": "★ Skeleton Knife | Safari Mesh",
+    "rarity": "Covert",
+    "paint_index": "72"
   },
   {
     "id": "skin-34406688",
@@ -361,7 +411,9 @@
     "price": 188.56,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Skeleton Knife | Safari Mesh"
+    "item_name": "★ Skeleton Knife | Safari Mesh",
+    "rarity": "Covert",
+    "paint_index": "72"
   },
   {
     "id": "skin-34406688",
@@ -375,7 +427,9 @@
     "price": 188.87,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Skeleton Knife | Safari Mesh"
+    "item_name": "★ Skeleton Knife | Safari Mesh",
+    "rarity": "Covert",
+    "paint_index": "72"
   },
   {
     "id": "skin-34406688",
@@ -389,7 +443,9 @@
     "price": 210.04,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Skeleton Knife | Safari Mesh"
+    "item_name": "★ Skeleton Knife | Safari Mesh",
+    "rarity": "Covert",
+    "paint_index": "72"
   },
   {
     "id": "skin-34406688",
@@ -403,7 +459,9 @@
     "price": 200.07,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Skeleton Knife | Safari Mesh"
+    "item_name": "★ Skeleton Knife | Safari Mesh",
+    "rarity": "Covert",
+    "paint_index": "72"
   },
   {
     "id": "skin-34406688",
@@ -417,7 +475,9 @@
     "price": 209.74,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Skeleton Knife | Safari Mesh"
+    "item_name": "★ Skeleton Knife | Safari Mesh",
+    "rarity": "Covert",
+    "paint_index": "72"
   },
   {
     "id": "skin-34407100",
@@ -431,7 +491,9 @@
     "price": 219.41,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Skeleton Knife | Scorched"
+    "item_name": "★ Skeleton Knife | Scorched",
+    "rarity": "Covert",
+    "paint_index": "175"
   },
   {
     "id": "skin-34407100",
@@ -445,7 +507,9 @@
     "price": 198.77,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Skeleton Knife | Scorched"
+    "item_name": "★ Skeleton Knife | Scorched",
+    "rarity": "Covert",
+    "paint_index": "175"
   },
   {
     "id": "skin-34407100",
@@ -459,7 +523,9 @@
     "price": 206.92,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Skeleton Knife | Scorched"
+    "item_name": "★ Skeleton Knife | Scorched",
+    "rarity": "Covert",
+    "paint_index": "175"
   },
   {
     "id": "skin-34407100",
@@ -473,7 +539,9 @@
     "price": 189.79,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Skeleton Knife | Scorched"
+    "item_name": "★ Skeleton Knife | Scorched",
+    "rarity": "Covert",
+    "paint_index": "175"
   },
   {
     "id": "skin-34407100",
@@ -487,7 +555,9 @@
     "price": 1406.47,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Skeleton Knife | Scorched"
+    "item_name": "★ Skeleton Knife | Scorched",
+    "rarity": "Covert",
+    "paint_index": "175"
   },
   {
     "id": "skin-34407100",
@@ -501,7 +571,9 @@
     "price": 231.61,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Skeleton Knife | Scorched"
+    "item_name": "★ Skeleton Knife | Scorched",
+    "rarity": "Covert",
+    "paint_index": "175"
   },
   {
     "id": "skin-34407100",
@@ -515,7 +587,9 @@
     "price": 397.68,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Skeleton Knife | Scorched"
+    "item_name": "★ Skeleton Knife | Scorched",
+    "rarity": "Covert",
+    "paint_index": "175"
   },
   {
     "id": "skin-34407100",
@@ -529,7 +603,9 @@
     "price": 260.14,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Skeleton Knife | Scorched"
+    "item_name": "★ Skeleton Knife | Scorched",
+    "rarity": "Covert",
+    "paint_index": "175"
   },
   {
     "id": "skin-34407100",
@@ -543,7 +619,9 @@
     "price": 225.58,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Skeleton Knife | Scorched"
+    "item_name": "★ Skeleton Knife | Scorched",
+    "rarity": "Covert",
+    "paint_index": "175"
   },
   {
     "id": "skin-34407100",
@@ -557,7 +635,9 @@
     "price": 198.15,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Skeleton Knife | Scorched"
+    "item_name": "★ Skeleton Knife | Scorched",
+    "rarity": "Covert",
+    "paint_index": "175"
   },
   {
     "id": "skin-34406568",
@@ -571,7 +651,9 @@
     "price": 310.74,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Skeleton Knife | Blue Steel"
+    "item_name": "★ Skeleton Knife | Blue Steel",
+    "rarity": "Covert",
+    "paint_index": "42"
   },
   {
     "id": "skin-34406568",
@@ -585,7 +667,9 @@
     "price": 397.54,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Skeleton Knife | Blue Steel"
+    "item_name": "★ Skeleton Knife | Blue Steel",
+    "rarity": "Covert",
+    "paint_index": "42"
   },
   {
     "id": "skin-34406568",
@@ -599,7 +683,9 @@
     "price": 628.06,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Skeleton Knife | Blue Steel"
+    "item_name": "★ Skeleton Knife | Blue Steel",
+    "rarity": "Covert",
+    "paint_index": "42"
   },
   {
     "id": "skin-34406568",
@@ -613,7 +699,9 @@
     "price": 615.38,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Skeleton Knife | Blue Steel"
+    "item_name": "★ Skeleton Knife | Blue Steel",
+    "rarity": "Covert",
+    "paint_index": "42"
   },
   {
     "id": "skin-34406568",
@@ -627,7 +715,9 @@
     "price": 315.4,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Skeleton Knife | Blue Steel"
+    "item_name": "★ Skeleton Knife | Blue Steel",
+    "rarity": "Covert",
+    "paint_index": "42"
   },
   {
     "id": "skin-34406568",
@@ -641,7 +731,9 @@
     "price": 427.82,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Skeleton Knife | Blue Steel"
+    "item_name": "★ Skeleton Knife | Blue Steel",
+    "rarity": "Covert",
+    "paint_index": "42"
   },
   {
     "id": "skin-34406568",
@@ -655,7 +747,9 @@
     "price": 361.89,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Skeleton Knife | Blue Steel"
+    "item_name": "★ Skeleton Knife | Blue Steel",
+    "rarity": "Covert",
+    "paint_index": "42"
   },
   {
     "id": "skin-34406568",
@@ -669,7 +763,9 @@
     "price": 349.68,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Skeleton Knife | Blue Steel"
+    "item_name": "★ Skeleton Knife | Blue Steel",
+    "rarity": "Covert",
+    "paint_index": "42"
   },
   {
     "id": "skin-34406568",
@@ -683,7 +779,9 @@
     "price": 487.5,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Skeleton Knife | Blue Steel"
+    "item_name": "★ Skeleton Knife | Blue Steel",
+    "rarity": "Covert",
+    "paint_index": "42"
   },
   {
     "id": "skin-34406568",
@@ -697,7 +795,9 @@
     "price": 335.83,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Skeleton Knife | Blue Steel"
+    "item_name": "★ Skeleton Knife | Blue Steel",
+    "rarity": "Covert",
+    "paint_index": "42"
   },
   {
     "id": "skin-34406572",
@@ -711,7 +811,9 @@
     "price": 615.72,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Skeleton Knife | Stained"
+    "item_name": "★ Skeleton Knife | Stained",
+    "rarity": "Covert",
+    "paint_index": "43"
   },
   {
     "id": "skin-34406572",
@@ -725,7 +827,9 @@
     "price": 276.59,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Skeleton Knife | Stained"
+    "item_name": "★ Skeleton Knife | Stained",
+    "rarity": "Covert",
+    "paint_index": "43"
   },
   {
     "id": "skin-34406572",
@@ -739,7 +843,9 @@
     "price": 408.44,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Skeleton Knife | Stained"
+    "item_name": "★ Skeleton Knife | Stained",
+    "rarity": "Covert",
+    "paint_index": "43"
   },
   {
     "id": "skin-34406572",
@@ -753,7 +859,9 @@
     "price": 713.08,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Skeleton Knife | Stained"
+    "item_name": "★ Skeleton Knife | Stained",
+    "rarity": "Covert",
+    "paint_index": "43"
   },
   {
     "id": "skin-34406572",
@@ -767,7 +875,9 @@
     "price": 329.11,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Skeleton Knife | Stained"
+    "item_name": "★ Skeleton Knife | Stained",
+    "rarity": "Covert",
+    "paint_index": "43"
   },
   {
     "id": "skin-34406572",
@@ -781,7 +891,9 @@
     "price": 335.97,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Skeleton Knife | Stained"
+    "item_name": "★ Skeleton Knife | Stained",
+    "rarity": "Covert",
+    "paint_index": "43"
   },
   {
     "id": "skin-34406572",
@@ -795,7 +907,9 @@
     "price": 281.53,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Skeleton Knife | Stained"
+    "item_name": "★ Skeleton Knife | Stained",
+    "rarity": "Covert",
+    "paint_index": "43"
   },
   {
     "id": "skin-34406572",
@@ -809,7 +923,9 @@
     "price": 390.82,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Skeleton Knife | Stained"
+    "item_name": "★ Skeleton Knife | Stained",
+    "rarity": "Covert",
+    "paint_index": "43"
   },
   {
     "id": "skin-34406572",
@@ -823,7 +939,9 @@
     "price": 282.49,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Skeleton Knife | Stained"
+    "item_name": "★ Skeleton Knife | Stained",
+    "rarity": "Covert",
+    "paint_index": "43"
   },
   {
     "id": "skin-34406572",
@@ -837,7 +955,9 @@
     "price": 301.48,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Skeleton Knife | Stained"
+    "item_name": "★ Skeleton Knife | Stained",
+    "rarity": "Covert",
+    "paint_index": "43"
   },
   {
     "id": "skin-34406636",
@@ -851,7 +971,9 @@
     "price": 637.66,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Skeleton Knife | Slaughter"
+    "item_name": "★ Skeleton Knife | Slaughter",
+    "rarity": "Covert",
+    "paint_index": "59"
   },
   {
     "id": "skin-34406636",
@@ -865,7 +987,9 @@
     "price": 656.58,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Skeleton Knife | Slaughter"
+    "item_name": "★ Skeleton Knife | Slaughter",
+    "rarity": "Covert",
+    "paint_index": "59"
   },
   {
     "id": "skin-34406636",
@@ -879,7 +1003,9 @@
     "price": 658.23,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Skeleton Knife | Slaughter"
+    "item_name": "★ Skeleton Knife | Slaughter",
+    "rarity": "Covert",
+    "paint_index": "59"
   },
   {
     "id": "skin-34406636",
@@ -893,7 +1019,9 @@
     "price": 850.21,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Skeleton Knife | Slaughter"
+    "item_name": "★ Skeleton Knife | Slaughter",
+    "rarity": "Covert",
+    "paint_index": "59"
   },
   {
     "id": "skin-34406636",
@@ -907,7 +1035,9 @@
     "price": 788.5,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Skeleton Knife | Slaughter"
+    "item_name": "★ Skeleton Knife | Slaughter",
+    "rarity": "Covert",
+    "paint_index": "59"
   },
   {
     "id": "skin-34406636",
@@ -921,7 +1051,9 @@
     "price": 623.95,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Skeleton Knife | Slaughter"
+    "item_name": "★ Skeleton Knife | Slaughter",
+    "rarity": "Covert",
+    "paint_index": "59"
   },
   {
     "id": "skin-34406420",
@@ -935,7 +1067,9 @@
     "price": 222.15,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Skeleton Knife | Forest DDPAT"
+    "item_name": "★ Skeleton Knife | Forest DDPAT",
+    "rarity": "Covert",
+    "paint_index": "5"
   },
   {
     "id": "skin-34406420",
@@ -949,7 +1083,9 @@
     "price": 197.38,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Skeleton Knife | Forest DDPAT"
+    "item_name": "★ Skeleton Knife | Forest DDPAT",
+    "rarity": "Covert",
+    "paint_index": "5"
   },
   {
     "id": "skin-34406420",
@@ -963,7 +1099,9 @@
     "price": 200.14,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Skeleton Knife | Forest DDPAT"
+    "item_name": "★ Skeleton Knife | Forest DDPAT",
+    "rarity": "Covert",
+    "paint_index": "5"
   },
   {
     "id": "skin-34406420",
@@ -977,7 +1115,9 @@
     "price": 687.22,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Skeleton Knife | Forest DDPAT"
+    "item_name": "★ Skeleton Knife | Forest DDPAT",
+    "rarity": "Covert",
+    "paint_index": "5"
   },
   {
     "id": "skin-34406420",
@@ -991,7 +1131,9 @@
     "price": 186.36,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Skeleton Knife | Forest DDPAT"
+    "item_name": "★ Skeleton Knife | Forest DDPAT",
+    "rarity": "Covert",
+    "paint_index": "5"
   },
   {
     "id": "skin-34406420",
@@ -1005,7 +1147,9 @@
     "price": 230.38,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Skeleton Knife | Forest DDPAT"
+    "item_name": "★ Skeleton Knife | Forest DDPAT",
+    "rarity": "Covert",
+    "paint_index": "5"
   },
   {
     "id": "skin-34406420",
@@ -1019,7 +1163,9 @@
     "price": 178.27,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Skeleton Knife | Forest DDPAT"
+    "item_name": "★ Skeleton Knife | Forest DDPAT",
+    "rarity": "Covert",
+    "paint_index": "5"
   },
   {
     "id": "skin-34406420",
@@ -1033,7 +1179,9 @@
     "price": 222.97,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Skeleton Knife | Forest DDPAT"
+    "item_name": "★ Skeleton Knife | Forest DDPAT",
+    "rarity": "Covert",
+    "paint_index": "5"
   },
   {
     "id": "skin-34406420",
@@ -1047,7 +1195,9 @@
     "price": 446.98,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Skeleton Knife | Forest DDPAT"
+    "item_name": "★ Skeleton Knife | Forest DDPAT",
+    "rarity": "Covert",
+    "paint_index": "5"
   },
   {
     "id": "skin-34406420",
@@ -1061,7 +1211,9 @@
     "price": 191.84,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Skeleton Knife | Forest DDPAT"
+    "item_name": "★ Skeleton Knife | Forest DDPAT",
+    "rarity": "Covert",
+    "paint_index": "5"
   },
   {
     "id": "skin-34406552",
@@ -1075,7 +1227,9 @@
     "price": 1356.91,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Skeleton Knife | Fade"
+    "item_name": "★ Skeleton Knife | Fade",
+    "rarity": "Covert",
+    "paint_index": "38"
   },
   {
     "id": "skin-34406552",
@@ -1089,7 +1243,9 @@
     "price": 2011.16,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Skeleton Knife | Fade"
+    "item_name": "★ Skeleton Knife | Fade",
+    "rarity": "Covert",
+    "paint_index": "38"
   },
   {
     "id": "skin-34406552",
@@ -1103,7 +1259,9 @@
     "price": 1368.57,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Skeleton Knife | Fade"
+    "item_name": "★ Skeleton Knife | Fade",
+    "rarity": "Covert",
+    "paint_index": "38"
   },
   {
     "id": "skin-34406552",
@@ -1117,7 +1275,9 @@
     "price": 1439.87,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Skeleton Knife | Fade"
+    "item_name": "★ Skeleton Knife | Fade",
+    "rarity": "Covert",
+    "paint_index": "38"
   },
   {
     "id": "skin-34406972",
@@ -1131,7 +1291,9 @@
     "price": 209.81,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Skeleton Knife | Urban Masked"
+    "item_name": "★ Skeleton Knife | Urban Masked",
+    "rarity": "Covert",
+    "paint_index": "143"
   },
   {
     "id": "skin-34406972",
@@ -1145,7 +1307,9 @@
     "price": 200.21,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Skeleton Knife | Urban Masked"
+    "item_name": "★ Skeleton Knife | Urban Masked",
+    "rarity": "Covert",
+    "paint_index": "143"
   },
   {
     "id": "skin-34406972",
@@ -1159,7 +1323,9 @@
     "price": 215.23,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Skeleton Knife | Urban Masked"
+    "item_name": "★ Skeleton Knife | Urban Masked",
+    "rarity": "Covert",
+    "paint_index": "143"
   },
   {
     "id": "skin-34406972",
@@ -1173,7 +1339,9 @@
     "price": 0,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Skeleton Knife | Urban Masked"
+    "item_name": "★ Skeleton Knife | Urban Masked",
+    "rarity": "Covert",
+    "paint_index": "143"
   },
   {
     "id": "skin-34406972",
@@ -1187,7 +1355,9 @@
     "price": 211.18,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Skeleton Knife | Urban Masked"
+    "item_name": "★ Skeleton Knife | Urban Masked",
+    "rarity": "Covert",
+    "paint_index": "143"
   },
   {
     "id": "skin-34406972",
@@ -1201,7 +1371,9 @@
     "price": 245.46,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Skeleton Knife | Urban Masked"
+    "item_name": "★ Skeleton Knife | Urban Masked",
+    "rarity": "Covert",
+    "paint_index": "143"
   },
   {
     "id": "skin-34406972",
@@ -1215,7 +1387,9 @@
     "price": 225.92,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Skeleton Knife | Urban Masked"
+    "item_name": "★ Skeleton Knife | Urban Masked",
+    "rarity": "Covert",
+    "paint_index": "143"
   },
   {
     "id": "skin-34406972",
@@ -1229,7 +1403,9 @@
     "price": 335.77,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Skeleton Knife | Urban Masked"
+    "item_name": "★ Skeleton Knife | Urban Masked",
+    "rarity": "Covert",
+    "paint_index": "143"
   },
   {
     "id": "skin-34406972",
@@ -1243,7 +1419,9 @@
     "price": 230.31,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Skeleton Knife | Urban Masked"
+    "item_name": "★ Skeleton Knife | Urban Masked",
+    "rarity": "Covert",
+    "paint_index": "143"
   },
   {
     "id": "skin-34406972",
@@ -1257,7 +1435,9 @@
     "price": 437.45,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Skeleton Knife | Urban Masked"
+    "item_name": "★ Skeleton Knife | Urban Masked",
+    "rarity": "Covert",
+    "paint_index": "143"
   },
   {
     "id": "skin-34406576",
@@ -1271,7 +1451,9 @@
     "price": 390.82,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Skeleton Knife | Case Hardened"
+    "item_name": "★ Skeleton Knife | Case Hardened",
+    "rarity": "Covert",
+    "paint_index": "44"
   },
   {
     "id": "skin-34406576",
@@ -1285,7 +1467,9 @@
     "price": 313.89,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Skeleton Knife | Case Hardened"
+    "item_name": "★ Skeleton Knife | Case Hardened",
+    "rarity": "Covert",
+    "paint_index": "44"
   },
   {
     "id": "skin-34406576",
@@ -1299,7 +1483,9 @@
     "price": 611.19,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Skeleton Knife | Case Hardened"
+    "item_name": "★ Skeleton Knife | Case Hardened",
+    "rarity": "Covert",
+    "paint_index": "44"
   },
   {
     "id": "skin-34406576",
@@ -1313,7 +1499,9 @@
     "price": 374.37,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Skeleton Knife | Case Hardened"
+    "item_name": "★ Skeleton Knife | Case Hardened",
+    "rarity": "Covert",
+    "paint_index": "44"
   },
   {
     "id": "skin-34406576",
@@ -1327,7 +1515,9 @@
     "price": 822.79,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Skeleton Knife | Case Hardened"
+    "item_name": "★ Skeleton Knife | Case Hardened",
+    "rarity": "Covert",
+    "paint_index": "44"
   },
   {
     "id": "skin-34406576",
@@ -1341,7 +1531,9 @@
     "price": 373,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Skeleton Knife | Case Hardened"
+    "item_name": "★ Skeleton Knife | Case Hardened",
+    "rarity": "Covert",
+    "paint_index": "44"
   },
   {
     "id": "skin-34406576",
@@ -1355,7 +1547,9 @@
     "price": 435.94,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Skeleton Knife | Case Hardened"
+    "item_name": "★ Skeleton Knife | Case Hardened",
+    "rarity": "Covert",
+    "paint_index": "44"
   },
   {
     "id": "skin-34406576",
@@ -1369,7 +1563,9 @@
     "price": 477.22,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Skeleton Knife | Case Hardened"
+    "item_name": "★ Skeleton Knife | Case Hardened",
+    "rarity": "Covert",
+    "paint_index": "44"
   },
   {
     "id": "skin-34406576",
@@ -1383,7 +1579,9 @@
     "price": 479.96,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Skeleton Knife | Case Hardened"
+    "item_name": "★ Skeleton Knife | Case Hardened",
+    "rarity": "Covert",
+    "paint_index": "44"
   },
   {
     "id": "skin-34406576",
@@ -1397,7 +1595,9 @@
     "price": 1181.44,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Skeleton Knife | Case Hardened"
+    "item_name": "★ Skeleton Knife | Case Hardened",
+    "rarity": "Covert",
+    "paint_index": "44"
   },
   {
     "id": "skin-34406448",
@@ -1411,7 +1611,9 @@
     "price": 0,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Skeleton Knife | Crimson Web"
+    "item_name": "★ Skeleton Knife | Crimson Web",
+    "rarity": "Covert",
+    "paint_index": "12"
   },
   {
     "id": "skin-34406448",
@@ -1425,7 +1627,9 @@
     "price": 973.42,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Skeleton Knife | Crimson Web"
+    "item_name": "★ Skeleton Knife | Crimson Web",
+    "rarity": "Covert",
+    "paint_index": "12"
   },
   {
     "id": "skin-34406448",
@@ -1439,7 +1643,9 @@
     "price": 693.88,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Skeleton Knife | Crimson Web"
+    "item_name": "★ Skeleton Knife | Crimson Web",
+    "rarity": "Covert",
+    "paint_index": "12"
   },
   {
     "id": "skin-34406448",
@@ -1453,7 +1659,9 @@
     "price": 932.49,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Skeleton Knife | Crimson Web"
+    "item_name": "★ Skeleton Knife | Crimson Web",
+    "rarity": "Covert",
+    "paint_index": "12"
   },
   {
     "id": "skin-34406448",
@@ -1467,7 +1675,9 @@
     "price": 692.51,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Skeleton Knife | Crimson Web"
+    "item_name": "★ Skeleton Knife | Crimson Web",
+    "rarity": "Covert",
+    "paint_index": "12"
   },
   {
     "id": "skin-34406448",
@@ -1481,7 +1691,9 @@
     "price": 492.82,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Skeleton Knife | Crimson Web"
+    "item_name": "★ Skeleton Knife | Crimson Web",
+    "rarity": "Covert",
+    "paint_index": "12"
   },
   {
     "id": "skin-34406448",
@@ -1495,7 +1707,9 @@
     "price": 575.88,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Skeleton Knife | Crimson Web"
+    "item_name": "★ Skeleton Knife | Crimson Web",
+    "rarity": "Covert",
+    "paint_index": "12"
   },
   {
     "id": "skin-34406448",
@@ -1509,7 +1723,9 @@
     "price": 699.37,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Skeleton Knife | Crimson Web"
+    "item_name": "★ Skeleton Knife | Crimson Web",
+    "rarity": "Covert",
+    "paint_index": "12"
   },
   {
     "id": "skin-34406448",
@@ -1523,7 +1739,9 @@
     "price": 3510,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Skeleton Knife | Crimson Web"
+    "item_name": "★ Skeleton Knife | Crimson Web",
+    "rarity": "Covert",
+    "paint_index": "12"
   },
   {
     "id": "skin-34406448",
@@ -1537,6 +1755,8 @@
     "price": 712.94,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Skeleton Knife | Crimson Web"
+    "item_name": "★ Skeleton Knife | Crimson Web",
+    "rarity": "Covert",
+    "paint_index": "12"
   }
 ]

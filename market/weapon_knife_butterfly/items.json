@@ -11,7 +11,9 @@
     "price": 1234.18,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Blue Steel"
+    "item_name": "★ Butterfly Knife | Blue Steel",
+    "rarity": "Covert",
+    "paint_index": "42"
   },
   {
     "id": "skin-33751208",
@@ -25,7 +27,9 @@
     "price": 776.92,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Blue Steel"
+    "item_name": "★ Butterfly Knife | Blue Steel",
+    "rarity": "Covert",
+    "paint_index": "42"
   },
   {
     "id": "skin-33751208",
@@ -39,7 +43,9 @@
     "price": 669.2,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Blue Steel"
+    "item_name": "★ Butterfly Knife | Blue Steel",
+    "rarity": "Covert",
+    "paint_index": "42"
   },
   {
     "id": "skin-33751208",
@@ -53,7 +59,9 @@
     "price": 638.21,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Blue Steel"
+    "item_name": "★ Butterfly Knife | Blue Steel",
+    "rarity": "Covert",
+    "paint_index": "42"
   },
   {
     "id": "skin-33751208",
@@ -67,7 +75,9 @@
     "price": 1076.48,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Blue Steel"
+    "item_name": "★ Butterfly Knife | Blue Steel",
+    "rarity": "Covert",
+    "paint_index": "42"
   },
   {
     "id": "skin-33751208",
@@ -81,7 +91,9 @@
     "price": 705.47,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Blue Steel"
+    "item_name": "★ Butterfly Knife | Blue Steel",
+    "rarity": "Covert",
+    "paint_index": "42"
   },
   {
     "id": "skin-33751208",
@@ -95,7 +107,9 @@
     "price": 639.85,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Blue Steel"
+    "item_name": "★ Butterfly Knife | Blue Steel",
+    "rarity": "Covert",
+    "paint_index": "42"
   },
   {
     "id": "skin-33751208",
@@ -109,7 +123,9 @@
     "price": 711.02,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Blue Steel"
+    "item_name": "★ Butterfly Knife | Blue Steel",
+    "rarity": "Covert",
+    "paint_index": "42"
   },
   {
     "id": "skin-33751208",
@@ -123,7 +139,9 @@
     "price": 636.22,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Blue Steel"
+    "item_name": "★ Butterfly Knife | Blue Steel",
+    "rarity": "Covert",
+    "paint_index": "42"
   },
   {
     "id": "skin-33751208",
@@ -137,7 +155,9 @@
     "price": 836.5,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Blue Steel"
+    "item_name": "★ Butterfly Knife | Blue Steel",
+    "rarity": "Covert",
+    "paint_index": "42"
   },
   {
     "id": "skin-33751200",
@@ -151,7 +171,9 @@
     "price": 569.02,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Night"
+    "item_name": "★ Butterfly Knife | Night",
+    "rarity": "Covert",
+    "paint_index": "40"
   },
   {
     "id": "skin-33751200",
@@ -165,7 +187,9 @@
     "price": 484.07,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Night"
+    "item_name": "★ Butterfly Knife | Night",
+    "rarity": "Covert",
+    "paint_index": "40"
   },
   {
     "id": "skin-33751200",
@@ -179,7 +203,9 @@
     "price": 507.38,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Night"
+    "item_name": "★ Butterfly Knife | Night",
+    "rarity": "Covert",
+    "paint_index": "40"
   },
   {
     "id": "skin-33751200",
@@ -193,7 +219,9 @@
     "price": 542.22,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Night"
+    "item_name": "★ Butterfly Knife | Night",
+    "rarity": "Covert",
+    "paint_index": "40"
   },
   {
     "id": "skin-33751200",
@@ -207,7 +235,9 @@
     "price": 713.08,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Night"
+    "item_name": "★ Butterfly Knife | Night",
+    "rarity": "Covert",
+    "paint_index": "40"
   },
   {
     "id": "skin-33751200",
@@ -221,7 +251,9 @@
     "price": 533.1,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Night"
+    "item_name": "★ Butterfly Knife | Night",
+    "rarity": "Covert",
+    "paint_index": "40"
   },
   {
     "id": "skin-33751200",
@@ -235,7 +267,9 @@
     "price": 526.31,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Night"
+    "item_name": "★ Butterfly Knife | Night",
+    "rarity": "Covert",
+    "paint_index": "40"
   },
   {
     "id": "skin-33751200",
@@ -249,7 +283,9 @@
     "price": 3793.86,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Night"
+    "item_name": "★ Butterfly Knife | Night",
+    "rarity": "Covert",
+    "paint_index": "40"
   },
   {
     "id": "skin-33751200",
@@ -263,7 +299,9 @@
     "price": 754.01,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Night"
+    "item_name": "★ Butterfly Knife | Night",
+    "rarity": "Covert",
+    "paint_index": "40"
   },
   {
     "id": "skin-33751200",
@@ -277,7 +315,9 @@
     "price": 1220.4,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Night"
+    "item_name": "★ Butterfly Knife | Night",
+    "rarity": "Covert",
+    "paint_index": "40"
   },
   {
     "id": "skin-33753364",
@@ -291,7 +331,9 @@
     "price": 863.79,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Freehand"
+    "item_name": "★ Butterfly Knife | Freehand",
+    "rarity": "Covert",
+    "paint_index": "581"
   },
   {
     "id": "skin-33753364",
@@ -305,7 +347,9 @@
     "price": 891.35,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Freehand"
+    "item_name": "★ Butterfly Knife | Freehand",
+    "rarity": "Covert",
+    "paint_index": "581"
   },
   {
     "id": "skin-33753364",
@@ -319,7 +363,9 @@
     "price": 619.76,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Freehand"
+    "item_name": "★ Butterfly Knife | Freehand",
+    "rarity": "Covert",
+    "paint_index": "581"
   },
   {
     "id": "skin-33753364",
@@ -333,7 +379,9 @@
     "price": 670.3,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Freehand"
+    "item_name": "★ Butterfly Knife | Freehand",
+    "rarity": "Covert",
+    "paint_index": "581"
   },
   {
     "id": "skin-33753364",
@@ -347,7 +395,9 @@
     "price": 699.37,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Freehand"
+    "item_name": "★ Butterfly Knife | Freehand",
+    "rarity": "Covert",
+    "paint_index": "581"
   },
   {
     "id": "skin-33753364",
@@ -361,7 +411,9 @@
     "price": 778.84,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Freehand"
+    "item_name": "★ Butterfly Knife | Freehand",
+    "rarity": "Covert",
+    "paint_index": "581"
   },
   {
     "id": "skin-33753364",
@@ -375,7 +427,9 @@
     "price": 795.36,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Freehand"
+    "item_name": "★ Butterfly Knife | Freehand",
+    "rarity": "Covert",
+    "paint_index": "581"
   },
   {
     "id": "skin-33753364",
@@ -389,7 +443,9 @@
     "price": 706.22,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Freehand"
+    "item_name": "★ Butterfly Knife | Freehand",
+    "rarity": "Covert",
+    "paint_index": "581"
   },
   {
     "id": "skin-33753364",
@@ -403,7 +459,9 @@
     "price": 645.89,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Freehand"
+    "item_name": "★ Butterfly Knife | Freehand",
+    "rarity": "Covert",
+    "paint_index": "581"
   },
   {
     "id": "skin-33753364",
@@ -417,7 +475,9 @@
     "price": 601.59,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Freehand"
+    "item_name": "★ Butterfly Knife | Freehand",
+    "rarity": "Covert",
+    "paint_index": "581"
   },
   {
     "id": "skin-33753356",
@@ -431,7 +491,9 @@
     "price": 712.74,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Bright Water"
+    "item_name": "★ Butterfly Knife | Bright Water",
+    "rarity": "Covert",
+    "paint_index": "579"
   },
   {
     "id": "skin-33753356",
@@ -445,7 +507,9 @@
     "price": 795.36,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Bright Water"
+    "item_name": "★ Butterfly Knife | Bright Water",
+    "rarity": "Covert",
+    "paint_index": "579"
   },
   {
     "id": "skin-33753356",
@@ -459,7 +523,9 @@
     "price": 627.92,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Bright Water"
+    "item_name": "★ Butterfly Knife | Bright Water",
+    "rarity": "Covert",
+    "paint_index": "579"
   },
   {
     "id": "skin-33753356",
@@ -473,7 +539,9 @@
     "price": 609.96,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Bright Water"
+    "item_name": "★ Butterfly Knife | Bright Water",
+    "rarity": "Covert",
+    "paint_index": "579"
   },
   {
     "id": "skin-33753356",
@@ -487,7 +555,9 @@
     "price": 651.37,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Bright Water"
+    "item_name": "★ Butterfly Knife | Bright Water",
+    "rarity": "Covert",
+    "paint_index": "579"
   },
   {
     "id": "skin-33753356",
@@ -501,7 +571,9 @@
     "price": 815.79,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Bright Water"
+    "item_name": "★ Butterfly Knife | Bright Water",
+    "rarity": "Covert",
+    "paint_index": "579"
   },
   {
     "id": "skin-33753356",
@@ -515,7 +587,9 @@
     "price": 671.74,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Bright Water"
+    "item_name": "★ Butterfly Knife | Bright Water",
+    "rarity": "Covert",
+    "paint_index": "579"
   },
   {
     "id": "skin-33753356",
@@ -529,7 +603,9 @@
     "price": 596.38,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Bright Water"
+    "item_name": "★ Butterfly Knife | Bright Water",
+    "rarity": "Covert",
+    "paint_index": "579"
   },
   {
     "id": "skin-33753356",
@@ -543,7 +619,9 @@
     "price": 644.24,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Bright Water"
+    "item_name": "★ Butterfly Knife | Bright Water",
+    "rarity": "Covert",
+    "paint_index": "579"
   },
   {
     "id": "skin-33753356",
@@ -557,7 +635,9 @@
     "price": 843.36,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Bright Water"
+    "item_name": "★ Butterfly Knife | Bright Water",
+    "rarity": "Covert",
+    "paint_index": "579"
   },
   {
     "id": "skin-33753516",
@@ -571,7 +651,9 @@
     "price": 1659.28,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Doppler"
+    "item_name": "★ Butterfly Knife | Doppler",
+    "rarity": "Covert",
+    "paint_index": "619"
   },
   {
     "id": "skin-33753516",
@@ -585,7 +667,9 @@
     "price": 1614.99,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Doppler"
+    "item_name": "★ Butterfly Knife | Doppler",
+    "rarity": "Covert",
+    "paint_index": "619"
   },
   {
     "id": "skin-33753516",
@@ -599,7 +683,9 @@
     "price": 1563.16,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Doppler"
+    "item_name": "★ Butterfly Knife | Doppler",
+    "rarity": "Covert",
+    "paint_index": "619"
   },
   {
     "id": "skin-33753516",
@@ -613,7 +699,9 @@
     "price": 1491.92,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Doppler"
+    "item_name": "★ Butterfly Knife | Doppler",
+    "rarity": "Covert",
+    "paint_index": "619"
   },
   {
     "id": "skin-33751060",
@@ -627,7 +715,9 @@
     "price": 459.39,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Forest DDPAT"
+    "item_name": "★ Butterfly Knife | Forest DDPAT",
+    "rarity": "Covert",
+    "paint_index": "5"
   },
   {
     "id": "skin-33751060",
@@ -641,7 +731,9 @@
     "price": 452.46,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Forest DDPAT"
+    "item_name": "★ Butterfly Knife | Forest DDPAT",
+    "rarity": "Covert",
+    "paint_index": "5"
   },
   {
     "id": "skin-33751060",
@@ -655,7 +747,9 @@
     "price": 506.89,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Forest DDPAT"
+    "item_name": "★ Butterfly Knife | Forest DDPAT",
+    "rarity": "Covert",
+    "paint_index": "5"
   },
   {
     "id": "skin-33751060",
@@ -669,7 +763,9 @@
     "price": 448.14,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Forest DDPAT"
+    "item_name": "★ Butterfly Knife | Forest DDPAT",
+    "rarity": "Covert",
+    "paint_index": "5"
   },
   {
     "id": "skin-33751060",
@@ -683,7 +779,9 @@
     "price": 550.79,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Forest DDPAT"
+    "item_name": "★ Butterfly Knife | Forest DDPAT",
+    "rarity": "Covert",
+    "paint_index": "5"
   },
   {
     "id": "skin-33751060",
@@ -697,7 +795,9 @@
     "price": 466.25,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Forest DDPAT"
+    "item_name": "★ Butterfly Knife | Forest DDPAT",
+    "rarity": "Covert",
+    "paint_index": "5"
   },
   {
     "id": "skin-33751060",
@@ -711,7 +811,9 @@
     "price": 438.82,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Forest DDPAT"
+    "item_name": "★ Butterfly Knife | Forest DDPAT",
+    "rarity": "Covert",
+    "paint_index": "5"
   },
   {
     "id": "skin-33751060",
@@ -725,7 +827,9 @@
     "price": 521.03,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Forest DDPAT"
+    "item_name": "★ Butterfly Knife | Forest DDPAT",
+    "rarity": "Covert",
+    "paint_index": "5"
   },
   {
     "id": "skin-33751060",
@@ -739,7 +843,9 @@
     "price": 958.33,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Forest DDPAT"
+    "item_name": "★ Butterfly Knife | Forest DDPAT",
+    "rarity": "Covert",
+    "paint_index": "5"
   },
   {
     "id": "skin-33751060",
@@ -753,7 +859,9 @@
     "price": 795.22,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Forest DDPAT"
+    "item_name": "★ Butterfly Knife | Forest DDPAT",
+    "rarity": "Covert",
+    "paint_index": "5"
   },
   {
     "id": "skin-33755480",
@@ -767,7 +875,9 @@
     "price": 712.94,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Black Laminate"
+    "item_name": "★ Butterfly Knife | Black Laminate",
+    "rarity": "Covert",
+    "paint_index": "1110"
   },
   {
     "id": "skin-33755480",
@@ -781,7 +891,9 @@
     "price": 708.9,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Black Laminate"
+    "item_name": "★ Butterfly Knife | Black Laminate",
+    "rarity": "Covert",
+    "paint_index": "1110"
   },
   {
     "id": "skin-33755480",
@@ -795,7 +907,9 @@
     "price": 1218.82,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Black Laminate"
+    "item_name": "★ Butterfly Knife | Black Laminate",
+    "rarity": "Covert",
+    "paint_index": "1110"
   },
   {
     "id": "skin-33755480",
@@ -809,7 +923,9 @@
     "price": 814.56,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Black Laminate"
+    "item_name": "★ Butterfly Knife | Black Laminate",
+    "rarity": "Covert",
+    "paint_index": "1110"
   },
   {
     "id": "skin-33755480",
@@ -823,7 +939,9 @@
     "price": 754.22,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Black Laminate"
+    "item_name": "★ Butterfly Knife | Black Laminate",
+    "rarity": "Covert",
+    "paint_index": "1110"
   },
   {
     "id": "skin-33755480",
@@ -837,7 +955,9 @@
     "price": 859.26,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Black Laminate"
+    "item_name": "★ Butterfly Knife | Black Laminate",
+    "rarity": "Covert",
+    "paint_index": "1110"
   },
   {
     "id": "skin-33755480",
@@ -851,7 +971,9 @@
     "price": 774.79,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Black Laminate"
+    "item_name": "★ Butterfly Knife | Black Laminate",
+    "rarity": "Covert",
+    "paint_index": "1110"
   },
   {
     "id": "skin-33755480",
@@ -865,7 +987,9 @@
     "price": 711.44,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Black Laminate"
+    "item_name": "★ Butterfly Knife | Black Laminate",
+    "rarity": "Covert",
+    "paint_index": "1110"
   },
   {
     "id": "skin-33755480",
@@ -879,7 +1003,9 @@
     "price": 759.71,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Black Laminate"
+    "item_name": "★ Butterfly Knife | Black Laminate",
+    "rarity": "Covert",
+    "paint_index": "1110"
   },
   {
     "id": "skin-33755480",
@@ -893,7 +1019,9 @@
     "price": 1218.54,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Black Laminate"
+    "item_name": "★ Butterfly Knife | Black Laminate",
+    "rarity": "Covert",
+    "paint_index": "1110"
   },
   {
     "id": "skin-33755460",
@@ -907,7 +1035,9 @@
     "price": 813.05,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Lore"
+    "item_name": "★ Butterfly Knife | Lore",
+    "rarity": "Covert",
+    "paint_index": "1105"
   },
   {
     "id": "skin-33755460",
@@ -921,7 +1051,9 @@
     "price": 4853.82,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Lore"
+    "item_name": "★ Butterfly Knife | Lore",
+    "rarity": "Covert",
+    "paint_index": "1105"
   },
   {
     "id": "skin-33755460",
@@ -935,7 +1067,9 @@
     "price": 708.97,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Lore"
+    "item_name": "★ Butterfly Knife | Lore",
+    "rarity": "Covert",
+    "paint_index": "1105"
   },
   {
     "id": "skin-33755460",
@@ -949,7 +1083,9 @@
     "price": 1947.19,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Lore"
+    "item_name": "★ Butterfly Knife | Lore",
+    "rarity": "Covert",
+    "paint_index": "1105"
   },
   {
     "id": "skin-33755460",
@@ -963,7 +1099,9 @@
     "price": 815.86,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Lore"
+    "item_name": "★ Butterfly Knife | Lore",
+    "rarity": "Covert",
+    "paint_index": "1105"
   },
   {
     "id": "skin-33755460",
@@ -977,7 +1115,9 @@
     "price": 22855.07,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Lore"
+    "item_name": "★ Butterfly Knife | Lore",
+    "rarity": "Covert",
+    "paint_index": "1105"
   },
   {
     "id": "skin-33755460",
@@ -991,7 +1131,9 @@
     "price": 1206.75,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Lore"
+    "item_name": "★ Butterfly Knife | Lore",
+    "rarity": "Covert",
+    "paint_index": "1105"
   },
   {
     "id": "skin-33755460",
@@ -1005,7 +1147,9 @@
     "price": 1151.9,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Lore"
+    "item_name": "★ Butterfly Knife | Lore",
+    "rarity": "Covert",
+    "paint_index": "1105"
   },
   {
     "id": "skin-33755460",
@@ -1019,7 +1163,9 @@
     "price": 766.01,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Lore"
+    "item_name": "★ Butterfly Knife | Lore",
+    "rarity": "Covert",
+    "paint_index": "1105"
   },
   {
     "id": "skin-33755460",
@@ -1033,7 +1179,9 @@
     "price": 1822.2,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Lore"
+    "item_name": "★ Butterfly Knife | Lore",
+    "rarity": "Covert",
+    "paint_index": "1105"
   },
   {
     "id": "skin-33751432",
@@ -1047,7 +1195,9 @@
     "price": 512.18,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Ultraviolet"
+    "item_name": "★ Butterfly Knife | Ultraviolet",
+    "rarity": "Covert",
+    "paint_index": "98"
   },
   {
     "id": "skin-33751432",
@@ -1061,7 +1211,9 @@
     "price": 610.16,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Ultraviolet"
+    "item_name": "★ Butterfly Knife | Ultraviolet",
+    "rarity": "Covert",
+    "paint_index": "98"
   },
   {
     "id": "skin-33751432",
@@ -1075,7 +1227,9 @@
     "price": 629.16,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Ultraviolet"
+    "item_name": "★ Butterfly Knife | Ultraviolet",
+    "rarity": "Covert",
+    "paint_index": "98"
   },
   {
     "id": "skin-33751432",
@@ -1089,7 +1243,9 @@
     "price": 6833.87,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Ultraviolet"
+    "item_name": "★ Butterfly Knife | Ultraviolet",
+    "rarity": "Covert",
+    "paint_index": "98"
   },
   {
     "id": "skin-33751432",
@@ -1103,7 +1259,9 @@
     "price": 836.5,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Ultraviolet"
+    "item_name": "★ Butterfly Knife | Ultraviolet",
+    "rarity": "Covert",
+    "paint_index": "98"
   },
   {
     "id": "skin-33751432",
@@ -1117,7 +1275,9 @@
     "price": 596.52,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Ultraviolet"
+    "item_name": "★ Butterfly Knife | Ultraviolet",
+    "rarity": "Covert",
+    "paint_index": "98"
   },
   {
     "id": "skin-33751432",
@@ -1131,7 +1291,9 @@
     "price": 897.73,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Ultraviolet"
+    "item_name": "★ Butterfly Knife | Ultraviolet",
+    "rarity": "Covert",
+    "paint_index": "98"
   },
   {
     "id": "skin-33751432",
@@ -1145,7 +1307,9 @@
     "price": 2147.81,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Ultraviolet"
+    "item_name": "★ Butterfly Knife | Ultraviolet",
+    "rarity": "Covert",
+    "paint_index": "98"
   },
   {
     "id": "skin-33751432",
@@ -1159,7 +1323,9 @@
     "price": 568.96,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Ultraviolet"
+    "item_name": "★ Butterfly Knife | Ultraviolet",
+    "rarity": "Covert",
+    "paint_index": "98"
   },
   {
     "id": "skin-33751432",
@@ -1173,7 +1339,9 @@
     "price": 486.81,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Ultraviolet"
+    "item_name": "★ Butterfly Knife | Ultraviolet",
+    "rarity": "Covert",
+    "paint_index": "98"
   },
   {
     "id": "skin-33751276",
@@ -1187,7 +1355,9 @@
     "price": 1371.24,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Slaughter"
+    "item_name": "★ Butterfly Knife | Slaughter",
+    "rarity": "Covert",
+    "paint_index": "59"
   },
   {
     "id": "skin-33751276",
@@ -1201,7 +1371,9 @@
     "price": 971.98,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Slaughter"
+    "item_name": "★ Butterfly Knife | Slaughter",
+    "rarity": "Covert",
+    "paint_index": "59"
   },
   {
     "id": "skin-33751276",
@@ -1215,7 +1387,9 @@
     "price": 1090.19,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Slaughter"
+    "item_name": "★ Butterfly Knife | Slaughter",
+    "rarity": "Covert",
+    "paint_index": "59"
   },
   {
     "id": "skin-33751276",
@@ -1229,7 +1403,9 @@
     "price": 1183.85,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Slaughter"
+    "item_name": "★ Butterfly Knife | Slaughter",
+    "rarity": "Covert",
+    "paint_index": "59"
   },
   {
     "id": "skin-33751276",
@@ -1243,7 +1419,9 @@
     "price": 1234.18,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Slaughter"
+    "item_name": "★ Butterfly Knife | Slaughter",
+    "rarity": "Covert",
+    "paint_index": "59"
   },
   {
     "id": "skin-33751276",
@@ -1257,7 +1435,9 @@
     "price": 973.55,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Slaughter"
+    "item_name": "★ Butterfly Knife | Slaughter",
+    "rarity": "Covert",
+    "paint_index": "59"
   },
   {
     "id": "skin-33752684",
@@ -1271,7 +1451,9 @@
     "price": 818.12,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Damascus Steel"
+    "item_name": "★ Butterfly Knife | Damascus Steel",
+    "rarity": "Covert",
+    "paint_index": "411"
   },
   {
     "id": "skin-33752684",
@@ -1285,7 +1467,9 @@
     "price": 698.96,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Damascus Steel"
+    "item_name": "★ Butterfly Knife | Damascus Steel",
+    "rarity": "Covert",
+    "paint_index": "411"
   },
   {
     "id": "skin-33752684",
@@ -1299,7 +1483,9 @@
     "price": 706.22,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Damascus Steel"
+    "item_name": "★ Butterfly Knife | Damascus Steel",
+    "rarity": "Covert",
+    "paint_index": "411"
   },
   {
     "id": "skin-33752684",
@@ -1313,7 +1499,9 @@
     "price": 729.54,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Damascus Steel"
+    "item_name": "★ Butterfly Knife | Damascus Steel",
+    "rarity": "Covert",
+    "paint_index": "411"
   },
   {
     "id": "skin-33752684",
@@ -1327,7 +1515,9 @@
     "price": 1028.48,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Damascus Steel"
+    "item_name": "★ Butterfly Knife | Damascus Steel",
+    "rarity": "Covert",
+    "paint_index": "411"
   },
   {
     "id": "skin-33752684",
@@ -1341,7 +1531,9 @@
     "price": 678.8,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Damascus Steel"
+    "item_name": "★ Butterfly Knife | Damascus Steel",
+    "rarity": "Covert",
+    "paint_index": "411"
   },
   {
     "id": "skin-33752684",
@@ -1355,7 +1547,9 @@
     "price": 884.36,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Damascus Steel"
+    "item_name": "★ Butterfly Knife | Damascus Steel",
+    "rarity": "Covert",
+    "paint_index": "411"
   },
   {
     "id": "skin-33752684",
@@ -1369,7 +1563,9 @@
     "price": 795.36,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Damascus Steel"
+    "item_name": "★ Butterfly Knife | Damascus Steel",
+    "rarity": "Covert",
+    "paint_index": "411"
   },
   {
     "id": "skin-33752684",
@@ -1383,7 +1579,9 @@
     "price": 712.87,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Damascus Steel"
+    "item_name": "★ Butterfly Knife | Damascus Steel",
+    "rarity": "Covert",
+    "paint_index": "411"
   },
   {
     "id": "skin-33752684",
@@ -1397,7 +1595,9 @@
     "price": 774.79,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Damascus Steel"
+    "item_name": "★ Butterfly Knife | Damascus Steel",
+    "rarity": "Covert",
+    "paint_index": "411"
   },
   {
     "id": "skin-33751216",
@@ -1411,7 +1611,9 @@
     "price": 821.14,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Case Hardened"
+    "item_name": "★ Butterfly Knife | Case Hardened",
+    "rarity": "Covert",
+    "paint_index": "44"
   },
   {
     "id": "skin-33751216",
@@ -1425,7 +1627,9 @@
     "price": 761.08,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Case Hardened"
+    "item_name": "★ Butterfly Knife | Case Hardened",
+    "rarity": "Covert",
+    "paint_index": "44"
   },
   {
     "id": "skin-33751216",
@@ -1439,7 +1643,9 @@
     "price": 637.52,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Case Hardened"
+    "item_name": "★ Butterfly Knife | Case Hardened",
+    "rarity": "Covert",
+    "paint_index": "44"
   },
   {
     "id": "skin-33751216",
@@ -1453,7 +1659,9 @@
     "price": 670.57,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Case Hardened"
+    "item_name": "★ Butterfly Knife | Case Hardened",
+    "rarity": "Covert",
+    "paint_index": "44"
   },
   {
     "id": "skin-33751216",
@@ -1467,7 +1675,9 @@
     "price": 685.65,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Case Hardened"
+    "item_name": "★ Butterfly Knife | Case Hardened",
+    "rarity": "Covert",
+    "paint_index": "44"
   },
   {
     "id": "skin-33751216",
@@ -1481,7 +1691,9 @@
     "price": 1247.89,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Case Hardened"
+    "item_name": "★ Butterfly Knife | Case Hardened",
+    "rarity": "Covert",
+    "paint_index": "44"
   },
   {
     "id": "skin-33751216",
@@ -1495,7 +1707,9 @@
     "price": 752.99,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Case Hardened"
+    "item_name": "★ Butterfly Knife | Case Hardened",
+    "rarity": "Covert",
+    "paint_index": "44"
   },
   {
     "id": "skin-33751216",
@@ -1509,7 +1723,9 @@
     "price": 1618.15,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Case Hardened"
+    "item_name": "★ Butterfly Knife | Case Hardened",
+    "rarity": "Covert",
+    "paint_index": "44"
   },
   {
     "id": "skin-33751216",
@@ -1523,7 +1739,9 @@
     "price": 929.34,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Case Hardened"
+    "item_name": "★ Butterfly Knife | Case Hardened",
+    "rarity": "Covert",
+    "paint_index": "44"
   },
   {
     "id": "skin-33751216",
@@ -1537,7 +1755,9 @@
     "price": 637.59,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Case Hardened"
+    "item_name": "★ Butterfly Knife | Case Hardened",
+    "rarity": "Covert",
+    "paint_index": "44"
   },
   {
     "id": "skin-33755500",
@@ -1551,7 +1771,9 @@
     "price": 1982.91,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Autotronic"
+    "item_name": "★ Butterfly Knife | Autotronic",
+    "rarity": "Covert",
+    "paint_index": "1115"
   },
   {
     "id": "skin-33755500",
@@ -1565,7 +1787,9 @@
     "price": 994.2,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Autotronic"
+    "item_name": "★ Butterfly Knife | Autotronic",
+    "rarity": "Covert",
+    "paint_index": "1115"
   },
   {
     "id": "skin-33755500",
@@ -1579,7 +1803,9 @@
     "price": 1179.33,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Autotronic"
+    "item_name": "★ Butterfly Knife | Autotronic",
+    "rarity": "Covert",
+    "paint_index": "1115"
   },
   {
     "id": "skin-33755500",
@@ -1593,7 +1819,9 @@
     "price": 1988.33,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Autotronic"
+    "item_name": "★ Butterfly Knife | Autotronic",
+    "rarity": "Covert",
+    "paint_index": "1115"
   },
   {
     "id": "skin-33755500",
@@ -1607,7 +1835,9 @@
     "price": 987.34,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Autotronic"
+    "item_name": "★ Butterfly Knife | Autotronic",
+    "rarity": "Covert",
+    "paint_index": "1115"
   },
   {
     "id": "skin-33755500",
@@ -1621,7 +1851,9 @@
     "price": 754.08,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Autotronic"
+    "item_name": "★ Butterfly Knife | Autotronic",
+    "rarity": "Covert",
+    "paint_index": "1115"
   },
   {
     "id": "skin-33755500",
@@ -1635,7 +1867,9 @@
     "price": 1182.62,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Autotronic"
+    "item_name": "★ Butterfly Knife | Autotronic",
+    "rarity": "Covert",
+    "paint_index": "1115"
   },
   {
     "id": "skin-33755500",
@@ -1649,7 +1883,9 @@
     "price": 932.49,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Autotronic"
+    "item_name": "★ Butterfly Knife | Autotronic",
+    "rarity": "Covert",
+    "paint_index": "1115"
   },
   {
     "id": "skin-33755500",
@@ -1663,7 +1899,9 @@
     "price": 1035.34,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Autotronic"
+    "item_name": "★ Butterfly Knife | Autotronic",
+    "rarity": "Covert",
+    "paint_index": "1115"
   },
   {
     "id": "skin-33755500",
@@ -1677,7 +1915,9 @@
     "price": 863.72,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Autotronic"
+    "item_name": "★ Butterfly Knife | Autotronic",
+    "rarity": "Covert",
+    "paint_index": "1115"
   },
   {
     "id": "skin-33751612",
@@ -1691,7 +1931,9 @@
     "price": 452.39,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Urban Masked"
+    "item_name": "★ Butterfly Knife | Urban Masked",
+    "rarity": "Covert",
+    "paint_index": "143"
   },
   {
     "id": "skin-33751612",
@@ -1705,7 +1947,9 @@
     "price": 443.34,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Urban Masked"
+    "item_name": "★ Butterfly Knife | Urban Masked",
+    "rarity": "Covert",
+    "paint_index": "143"
   },
   {
     "id": "skin-33751612",
@@ -1719,7 +1963,9 @@
     "price": 507.32,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Urban Masked"
+    "item_name": "★ Butterfly Knife | Urban Masked",
+    "rarity": "Covert",
+    "paint_index": "143"
   },
   {
     "id": "skin-33751612",
@@ -1733,7 +1979,9 @@
     "price": 492.16,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Urban Masked"
+    "item_name": "★ Butterfly Knife | Urban Masked",
+    "rarity": "Covert",
+    "paint_index": "143"
   },
   {
     "id": "skin-33751612",
@@ -1747,7 +1995,9 @@
     "price": 843.36,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Urban Masked"
+    "item_name": "★ Butterfly Knife | Urban Masked",
+    "rarity": "Covert",
+    "paint_index": "143"
   },
   {
     "id": "skin-33751612",
@@ -1761,7 +2011,9 @@
     "price": 444.85,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Urban Masked"
+    "item_name": "★ Butterfly Knife | Urban Masked",
+    "rarity": "Covert",
+    "paint_index": "143"
   },
   {
     "id": "skin-33751612",
@@ -1775,7 +2027,9 @@
     "price": 0,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Urban Masked"
+    "item_name": "★ Butterfly Knife | Urban Masked",
+    "rarity": "Covert",
+    "paint_index": "143"
   },
   {
     "id": "skin-33751612",
@@ -1789,7 +2043,9 @@
     "price": 493.67,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Urban Masked"
+    "item_name": "★ Butterfly Knife | Urban Masked",
+    "rarity": "Covert",
+    "paint_index": "143"
   },
   {
     "id": "skin-33751612",
@@ -1803,7 +2059,9 @@
     "price": 452.53,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Urban Masked"
+    "item_name": "★ Butterfly Knife | Urban Masked",
+    "rarity": "Covert",
+    "paint_index": "143"
   },
   {
     "id": "skin-33751612",
@@ -1817,7 +2075,9 @@
     "price": 548.39,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Urban Masked"
+    "item_name": "★ Butterfly Knife | Urban Masked",
+    "rarity": "Covert",
+    "paint_index": "143"
   },
   {
     "id": "skin-33751348",
@@ -1831,7 +2091,9 @@
     "price": 1642.37,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Boreal Forest"
+    "item_name": "★ Butterfly Knife | Boreal Forest",
+    "rarity": "Covert",
+    "paint_index": "77"
   },
   {
     "id": "skin-33751348",
@@ -1845,7 +2107,9 @@
     "price": 502.58,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Boreal Forest"
+    "item_name": "★ Butterfly Knife | Boreal Forest",
+    "rarity": "Covert",
+    "paint_index": "77"
   },
   {
     "id": "skin-33751348",
@@ -1859,7 +2123,9 @@
     "price": 471.04,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Boreal Forest"
+    "item_name": "★ Butterfly Knife | Boreal Forest",
+    "rarity": "Covert",
+    "paint_index": "77"
   },
   {
     "id": "skin-33751348",
@@ -1873,7 +2139,9 @@
     "price": 479.89,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Boreal Forest"
+    "item_name": "★ Butterfly Knife | Boreal Forest",
+    "rarity": "Covert",
+    "paint_index": "77"
   },
   {
     "id": "skin-33751348",
@@ -1887,7 +2155,9 @@
     "price": 822.51,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Boreal Forest"
+    "item_name": "★ Butterfly Knife | Boreal Forest",
+    "rarity": "Covert",
+    "paint_index": "77"
   },
   {
     "id": "skin-33751348",
@@ -1901,7 +2171,9 @@
     "price": 438.82,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Boreal Forest"
+    "item_name": "★ Butterfly Knife | Boreal Forest",
+    "rarity": "Covert",
+    "paint_index": "77"
   },
   {
     "id": "skin-33751348",
@@ -1915,7 +2187,9 @@
     "price": 470.36,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Boreal Forest"
+    "item_name": "★ Butterfly Knife | Boreal Forest",
+    "rarity": "Covert",
+    "paint_index": "77"
   },
   {
     "id": "skin-33751348",
@@ -1929,7 +2203,9 @@
     "price": 610.85,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Boreal Forest"
+    "item_name": "★ Butterfly Knife | Boreal Forest",
+    "rarity": "Covert",
+    "paint_index": "77"
   },
   {
     "id": "skin-33751348",
@@ -1943,7 +2219,9 @@
     "price": 501.69,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Boreal Forest"
+    "item_name": "★ Butterfly Knife | Boreal Forest",
+    "rarity": "Covert",
+    "paint_index": "77"
   },
   {
     "id": "skin-33751348",
@@ -1957,7 +2235,9 @@
     "price": 514.24,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Boreal Forest"
+    "item_name": "★ Butterfly Knife | Boreal Forest",
+    "rarity": "Covert",
+    "paint_index": "77"
   },
   {
     "id": "skin-33751740",
@@ -1971,7 +2251,9 @@
     "price": 0,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Scorched"
+    "item_name": "★ Butterfly Knife | Scorched",
+    "rarity": "Covert",
+    "paint_index": "175"
   },
   {
     "id": "skin-33751740",
@@ -1985,7 +2267,9 @@
     "price": 465.56,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Scorched"
+    "item_name": "★ Butterfly Knife | Scorched",
+    "rarity": "Covert",
+    "paint_index": "175"
   },
   {
     "id": "skin-33751740",
@@ -1999,7 +2283,9 @@
     "price": 527.95,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Scorched"
+    "item_name": "★ Butterfly Knife | Scorched",
+    "rarity": "Covert",
+    "paint_index": "175"
   },
   {
     "id": "skin-33751740",
@@ -2013,7 +2299,9 @@
     "price": 501.9,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Scorched"
+    "item_name": "★ Butterfly Knife | Scorched",
+    "rarity": "Covert",
+    "paint_index": "175"
   },
   {
     "id": "skin-33751740",
@@ -2027,7 +2315,9 @@
     "price": 457.06,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Scorched"
+    "item_name": "★ Butterfly Knife | Scorched",
+    "rarity": "Covert",
+    "paint_index": "175"
   },
   {
     "id": "skin-33751740",
@@ -2041,7 +2331,9 @@
     "price": 449.79,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Scorched"
+    "item_name": "★ Butterfly Knife | Scorched",
+    "rarity": "Covert",
+    "paint_index": "175"
   },
   {
     "id": "skin-33751740",
@@ -2055,7 +2347,9 @@
     "price": 442.93,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Scorched"
+    "item_name": "★ Butterfly Knife | Scorched",
+    "rarity": "Covert",
+    "paint_index": "175"
   },
   {
     "id": "skin-33751740",
@@ -2069,7 +2363,9 @@
     "price": 582.81,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Scorched"
+    "item_name": "★ Butterfly Knife | Scorched",
+    "rarity": "Covert",
+    "paint_index": "175"
   },
   {
     "id": "skin-33751740",
@@ -2083,7 +2379,9 @@
     "price": 479.62,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Scorched"
+    "item_name": "★ Butterfly Knife | Scorched",
+    "rarity": "Covert",
+    "paint_index": "175"
   },
   {
     "id": "skin-33751740",
@@ -2097,7 +2395,9 @@
     "price": 706.09,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Scorched"
+    "item_name": "★ Butterfly Knife | Scorched",
+    "rarity": "Covert",
+    "paint_index": "175"
   },
   {
     "id": "skin-33751328",
@@ -2111,7 +2411,9 @@
     "price": 479.82,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Safari Mesh"
+    "item_name": "★ Butterfly Knife | Safari Mesh",
+    "rarity": "Covert",
+    "paint_index": "72"
   },
   {
     "id": "skin-33751328",
@@ -2125,7 +2427,9 @@
     "price": 484,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Safari Mesh"
+    "item_name": "★ Butterfly Knife | Safari Mesh",
+    "rarity": "Covert",
+    "paint_index": "72"
   },
   {
     "id": "skin-33751328",
@@ -2139,7 +2443,9 @@
     "price": 441.49,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Safari Mesh"
+    "item_name": "★ Butterfly Knife | Safari Mesh",
+    "rarity": "Covert",
+    "paint_index": "72"
   },
   {
     "id": "skin-33751328",
@@ -2153,7 +2459,9 @@
     "price": 465.83,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Safari Mesh"
+    "item_name": "★ Butterfly Knife | Safari Mesh",
+    "rarity": "Covert",
+    "paint_index": "72"
   },
   {
     "id": "skin-33751328",
@@ -2167,7 +2475,9 @@
     "price": 767.25,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Safari Mesh"
+    "item_name": "★ Butterfly Knife | Safari Mesh",
+    "rarity": "Covert",
+    "paint_index": "72"
   },
   {
     "id": "skin-33751328",
@@ -2181,7 +2491,9 @@
     "price": 507.25,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Safari Mesh"
+    "item_name": "★ Butterfly Knife | Safari Mesh",
+    "rarity": "Covert",
+    "paint_index": "72"
   },
   {
     "id": "skin-33751328",
@@ -2195,7 +2507,9 @@
     "price": 1042.2,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Safari Mesh"
+    "item_name": "★ Butterfly Knife | Safari Mesh",
+    "rarity": "Covert",
+    "paint_index": "72"
   },
   {
     "id": "skin-33751328",
@@ -2209,7 +2523,9 @@
     "price": 445.68,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Safari Mesh"
+    "item_name": "★ Butterfly Knife | Safari Mesh",
+    "rarity": "Covert",
+    "paint_index": "72"
   },
   {
     "id": "skin-33751328",
@@ -2223,7 +2539,9 @@
     "price": 466.25,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Safari Mesh"
+    "item_name": "★ Butterfly Knife | Safari Mesh",
+    "rarity": "Covert",
+    "paint_index": "72"
   },
   {
     "id": "skin-33751328",
@@ -2237,7 +2555,9 @@
     "price": 445.61,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Safari Mesh"
+    "item_name": "★ Butterfly Knife | Safari Mesh",
+    "rarity": "Covert",
+    "paint_index": "72"
   },
   {
     "id": "skin-33751192",
@@ -2251,7 +2571,9 @@
     "price": 2432.7,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Fade"
+    "item_name": "★ Butterfly Knife | Fade",
+    "rarity": "Covert",
+    "paint_index": "38"
   },
   {
     "id": "skin-33751192",
@@ -2265,7 +2587,9 @@
     "price": 2303.8,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Fade"
+    "item_name": "★ Butterfly Knife | Fade",
+    "rarity": "Covert",
+    "paint_index": "38"
   },
   {
     "id": "skin-33751192",
@@ -2279,7 +2603,9 @@
     "price": 2811.18,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Fade"
+    "item_name": "★ Butterfly Knife | Fade",
+    "rarity": "Covert",
+    "paint_index": "38"
   },
   {
     "id": "skin-33751192",
@@ -2293,7 +2619,9 @@
     "price": 2393.55,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Fade"
+    "item_name": "★ Butterfly Knife | Fade",
+    "rarity": "Covert",
+    "paint_index": "38"
   },
   {
     "id": "skin-33751088",
@@ -2307,7 +2635,9 @@
     "price": 698.82,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Crimson Web"
+    "item_name": "★ Butterfly Knife | Crimson Web",
+    "rarity": "Covert",
+    "paint_index": "12"
   },
   {
     "id": "skin-33751088",
@@ -2321,7 +2651,9 @@
     "price": 5965.2,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Crimson Web"
+    "item_name": "★ Butterfly Knife | Crimson Web",
+    "rarity": "Covert",
+    "paint_index": "12"
   },
   {
     "id": "skin-33751088",
@@ -2335,7 +2667,9 @@
     "price": 767.93,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Crimson Web"
+    "item_name": "★ Butterfly Knife | Crimson Web",
+    "rarity": "Covert",
+    "paint_index": "12"
   },
   {
     "id": "skin-33751088",
@@ -2349,7 +2683,9 @@
     "price": 575.68,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Crimson Web"
+    "item_name": "★ Butterfly Knife | Crimson Web",
+    "rarity": "Covert",
+    "paint_index": "12"
   },
   {
     "id": "skin-33751088",
@@ -2363,7 +2699,9 @@
     "price": 1369.72,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Crimson Web"
+    "item_name": "★ Butterfly Knife | Crimson Web",
+    "rarity": "Covert",
+    "paint_index": "12"
   },
   {
     "id": "skin-33751088",
@@ -2377,7 +2715,9 @@
     "price": 27426.05,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Crimson Web"
+    "item_name": "★ Butterfly Knife | Crimson Web",
+    "rarity": "Covert",
+    "paint_index": "12"
   },
   {
     "id": "skin-33751088",
@@ -2391,7 +2731,9 @@
     "price": 610.23,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Crimson Web"
+    "item_name": "★ Butterfly Knife | Crimson Web",
+    "rarity": "Covert",
+    "paint_index": "12"
   },
   {
     "id": "skin-33751088",
@@ -2405,7 +2747,9 @@
     "price": 1439.87,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Crimson Web"
+    "item_name": "★ Butterfly Knife | Crimson Web",
+    "rarity": "Covert",
+    "paint_index": "12"
   },
   {
     "id": "skin-33751088",
@@ -2419,7 +2763,9 @@
     "price": 712.94,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Crimson Web"
+    "item_name": "★ Butterfly Knife | Crimson Web",
+    "rarity": "Covert",
+    "paint_index": "12"
   },
   {
     "id": "skin-33751088",
@@ -2433,7 +2779,9 @@
     "price": 795.36,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Crimson Web"
+    "item_name": "★ Butterfly Knife | Crimson Web",
+    "rarity": "Covert",
+    "paint_index": "12"
   },
   {
     "id": "skin-33751212",
@@ -2447,7 +2795,9 @@
     "price": 534.81,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Stained"
+    "item_name": "★ Butterfly Knife | Stained",
+    "rarity": "Covert",
+    "paint_index": "43"
   },
   {
     "id": "skin-33751212",
@@ -2461,7 +2811,9 @@
     "price": 552.64,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Stained"
+    "item_name": "★ Butterfly Knife | Stained",
+    "rarity": "Covert",
+    "paint_index": "43"
   },
   {
     "id": "skin-33751212",
@@ -2475,7 +2827,9 @@
     "price": 534.67,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Stained"
+    "item_name": "★ Butterfly Knife | Stained",
+    "rarity": "Covert",
+    "paint_index": "43"
   },
   {
     "id": "skin-33751212",
@@ -2489,7 +2843,9 @@
     "price": 637.59,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Stained"
+    "item_name": "★ Butterfly Knife | Stained",
+    "rarity": "Covert",
+    "paint_index": "43"
   },
   {
     "id": "skin-33751212",
@@ -2503,7 +2859,9 @@
     "price": 534.81,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Stained"
+    "item_name": "★ Butterfly Knife | Stained",
+    "rarity": "Covert",
+    "paint_index": "43"
   },
   {
     "id": "skin-33751212",
@@ -2517,7 +2875,9 @@
     "price": 1371.17,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Stained"
+    "item_name": "★ Butterfly Knife | Stained",
+    "rarity": "Covert",
+    "paint_index": "43"
   },
   {
     "id": "skin-33751212",
@@ -2531,7 +2891,9 @@
     "price": 578.69,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Stained"
+    "item_name": "★ Butterfly Knife | Stained",
+    "rarity": "Covert",
+    "paint_index": "43"
   },
   {
     "id": "skin-33751212",
@@ -2545,7 +2907,9 @@
     "price": 637.59,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Stained"
+    "item_name": "★ Butterfly Knife | Stained",
+    "rarity": "Covert",
+    "paint_index": "43"
   },
   {
     "id": "skin-33751212",
@@ -2559,7 +2923,9 @@
     "price": 865.84,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Stained"
+    "item_name": "★ Butterfly Knife | Stained",
+    "rarity": "Covert",
+    "paint_index": "43"
   },
   {
     "id": "skin-33751212",
@@ -2573,7 +2939,9 @@
     "price": 691,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Stained"
+    "item_name": "★ Butterfly Knife | Stained",
+    "rarity": "Covert",
+    "paint_index": "43"
   },
   {
     "id": "skin-33752676",
@@ -2587,7 +2955,9 @@
     "price": 1294.38,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Tiger Tooth"
+    "item_name": "★ Butterfly Knife | Tiger Tooth",
+    "rarity": "Covert",
+    "paint_index": "409"
   },
   {
     "id": "skin-33752676",
@@ -2601,7 +2971,9 @@
     "price": 1199.9,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Tiger Tooth"
+    "item_name": "★ Butterfly Knife | Tiger Tooth",
+    "rarity": "Covert",
+    "paint_index": "409"
   },
   {
     "id": "skin-33752676",
@@ -2615,7 +2987,9 @@
     "price": 1153.27,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Tiger Tooth"
+    "item_name": "★ Butterfly Knife | Tiger Tooth",
+    "rarity": "Covert",
+    "paint_index": "409"
   },
   {
     "id": "skin-33752676",
@@ -2629,7 +3003,9 @@
     "price": 1535.8,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Tiger Tooth"
+    "item_name": "★ Butterfly Knife | Tiger Tooth",
+    "rarity": "Covert",
+    "paint_index": "409"
   },
   {
     "id": "skin-33753328",
@@ -2643,7 +3019,9 @@
     "price": 1904.47,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Gamma Doppler"
+    "item_name": "★ Butterfly Knife | Gamma Doppler",
+    "rarity": "Covert",
+    "paint_index": "572"
   },
   {
     "id": "skin-33753328",
@@ -2657,7 +3035,9 @@
     "price": 1823.77,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Gamma Doppler"
+    "item_name": "★ Butterfly Knife | Gamma Doppler",
+    "rarity": "Covert",
+    "paint_index": "572"
   },
   {
     "id": "skin-33753328",
@@ -2671,7 +3051,9 @@
     "price": 2040.51,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Gamma Doppler"
+    "item_name": "★ Butterfly Knife | Gamma Doppler",
+    "rarity": "Covert",
+    "paint_index": "572"
   },
   {
     "id": "skin-33753328",
@@ -2685,7 +3067,9 @@
     "price": 1892.41,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Gamma Doppler"
+    "item_name": "★ Butterfly Knife | Gamma Doppler",
+    "rarity": "Covert",
+    "paint_index": "572"
   },
   {
     "id": "skin-33752692",
@@ -2699,7 +3083,9 @@
     "price": 1796.28,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Marble Fade"
+    "item_name": "★ Butterfly Knife | Marble Fade",
+    "rarity": "Covert",
+    "paint_index": "413"
   },
   {
     "id": "skin-33752692",
@@ -2713,7 +3099,9 @@
     "price": 1611.29,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Marble Fade"
+    "item_name": "★ Butterfly Knife | Marble Fade",
+    "rarity": "Covert",
+    "paint_index": "413"
   },
   {
     "id": "skin-33752692",
@@ -2727,7 +3115,9 @@
     "price": 1611.15,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Marble Fade"
+    "item_name": "★ Butterfly Knife | Marble Fade",
+    "rarity": "Covert",
+    "paint_index": "413"
   },
   {
     "id": "skin-33752692",
@@ -2741,7 +3131,9 @@
     "price": 1618.15,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Marble Fade"
+    "item_name": "★ Butterfly Knife | Marble Fade",
+    "rarity": "Covert",
+    "paint_index": "413"
   },
   {
     "id": "skin-33752696",
@@ -2755,7 +3147,9 @@
     "price": 589.66,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Rust Coat"
+    "item_name": "★ Butterfly Knife | Rust Coat",
+    "rarity": "Covert",
+    "paint_index": "414"
   },
   {
     "id": "skin-33752696",
@@ -2769,7 +3163,9 @@
     "price": 507.38,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Rust Coat"
+    "item_name": "★ Butterfly Knife | Rust Coat",
+    "rarity": "Covert",
+    "paint_index": "414"
   },
   {
     "id": "skin-33752696",
@@ -2783,7 +3179,9 @@
     "price": 515.61,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Rust Coat"
+    "item_name": "★ Butterfly Knife | Rust Coat",
+    "rarity": "Covert",
+    "paint_index": "414"
   },
   {
     "id": "skin-33752696",
@@ -2797,6 +3195,8 @@
     "price": 541.67,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Butterfly Knife | Rust Coat"
+    "item_name": "★ Butterfly Knife | Rust Coat",
+    "rarity": "Covert",
+    "paint_index": "414"
   }
 ]

@@ -11,7 +11,9 @@
     "price": 0.49,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAG-7 | Petroglyph"
+    "item_name": "MAG-7 | Petroglyph",
+    "rarity": "Restricted",
+    "paint_index": "608"
   },
   {
     "id": "skin-1771904",
@@ -25,7 +27,9 @@
     "price": 1,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAG-7 | Petroglyph"
+    "item_name": "MAG-7 | Petroglyph",
+    "rarity": "Restricted",
+    "paint_index": "608"
   },
   {
     "id": "skin-1771904",
@@ -39,7 +43,9 @@
     "price": 0.93,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Petroglyph"
+    "item_name": "MAG-7 | Petroglyph",
+    "rarity": "Restricted",
+    "paint_index": "608"
   },
   {
     "id": "skin-1771904",
@@ -53,7 +59,9 @@
     "price": 0.23,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Petroglyph"
+    "item_name": "MAG-7 | Petroglyph",
+    "rarity": "Restricted",
+    "paint_index": "608"
   },
   {
     "id": "skin-1771904",
@@ -67,7 +75,9 @@
     "price": 0.49,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAG-7 | Petroglyph"
+    "item_name": "MAG-7 | Petroglyph",
+    "rarity": "Restricted",
+    "paint_index": "608"
   },
   {
     "id": "skin-1771904",
@@ -81,7 +91,9 @@
     "price": 0.33,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Petroglyph"
+    "item_name": "MAG-7 | Petroglyph",
+    "rarity": "Restricted",
+    "paint_index": "608"
   },
   {
     "id": "skin-1771904",
@@ -95,7 +107,9 @@
     "price": 2.86,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAG-7 | Petroglyph"
+    "item_name": "MAG-7 | Petroglyph",
+    "rarity": "Restricted",
+    "paint_index": "608"
   },
   {
     "id": "skin-1771904",
@@ -109,7 +123,9 @@
     "price": 0.37,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Petroglyph"
+    "item_name": "MAG-7 | Petroglyph",
+    "rarity": "Restricted",
+    "paint_index": "608"
   },
   {
     "id": "skin-1772284",
@@ -123,7 +139,9 @@
     "price": 0.4,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | SWAG-7"
+    "item_name": "MAG-7 | SWAG-7",
+    "rarity": "Restricted",
+    "paint_index": "703"
   },
   {
     "id": "skin-1772284",
@@ -137,7 +155,9 @@
     "price": 0.94,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAG-7 | SWAG-7"
+    "item_name": "MAG-7 | SWAG-7",
+    "rarity": "Restricted",
+    "paint_index": "703"
   },
   {
     "id": "skin-1772284",
@@ -151,7 +171,9 @@
     "price": 0.3,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAG-7 | SWAG-7"
+    "item_name": "MAG-7 | SWAG-7",
+    "rarity": "Restricted",
+    "paint_index": "703"
   },
   {
     "id": "skin-1772284",
@@ -165,7 +187,9 @@
     "price": 0.16,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | SWAG-7"
+    "item_name": "MAG-7 | SWAG-7",
+    "rarity": "Restricted",
+    "paint_index": "703"
   },
   {
     "id": "skin-1772284",
@@ -179,7 +203,9 @@
     "price": 0.21,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | SWAG-7"
+    "item_name": "MAG-7 | SWAG-7",
+    "rarity": "Restricted",
+    "paint_index": "703"
   },
   {
     "id": "skin-1772284",
@@ -193,7 +219,9 @@
     "price": 0.35,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAG-7 | SWAG-7"
+    "item_name": "MAG-7 | SWAG-7",
+    "rarity": "Restricted",
+    "paint_index": "703"
   },
   {
     "id": "skin-1772284",
@@ -207,7 +235,9 @@
     "price": 0.33,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAG-7 | SWAG-7"
+    "item_name": "MAG-7 | SWAG-7",
+    "rarity": "Restricted",
+    "paint_index": "703"
   },
   {
     "id": "skin-1772284",
@@ -221,7 +251,9 @@
     "price": 0.17,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | SWAG-7"
+    "item_name": "MAG-7 | SWAG-7",
+    "rarity": "Restricted",
+    "paint_index": "703"
   },
   {
     "id": "skin-1772284",
@@ -235,7 +267,9 @@
     "price": 1.1,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | SWAG-7"
+    "item_name": "MAG-7 | SWAG-7",
+    "rarity": "Restricted",
+    "paint_index": "703"
   },
   {
     "id": "skin-1772284",
@@ -249,7 +283,9 @@
     "price": 4.36,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAG-7 | SWAG-7"
+    "item_name": "MAG-7 | SWAG-7",
+    "rarity": "Restricted",
+    "paint_index": "703"
   },
   {
     "id": "skin-1774352",
@@ -263,7 +299,9 @@
     "price": 0.05,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Insomnia"
+    "item_name": "MAG-7 | Insomnia",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1220"
   },
   {
     "id": "skin-1774352",
@@ -277,7 +315,9 @@
     "price": 0.04,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Insomnia"
+    "item_name": "MAG-7 | Insomnia",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1220"
   },
   {
     "id": "skin-1774352",
@@ -291,7 +331,9 @@
     "price": 0.12,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAG-7 | Insomnia"
+    "item_name": "MAG-7 | Insomnia",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1220"
   },
   {
     "id": "skin-1774352",
@@ -305,7 +347,9 @@
     "price": 1.04,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAG-7 | Insomnia"
+    "item_name": "MAG-7 | Insomnia",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1220"
   },
   {
     "id": "skin-1774352",
@@ -319,7 +363,9 @@
     "price": 0.16,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAG-7 | Insomnia"
+    "item_name": "MAG-7 | Insomnia",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1220"
   },
   {
     "id": "skin-1774352",
@@ -333,7 +379,9 @@
     "price": 0.34,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAG-7 | Insomnia"
+    "item_name": "MAG-7 | Insomnia",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1220"
   },
   {
     "id": "skin-1774352",
@@ -347,7 +395,9 @@
     "price": 0.04,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Insomnia"
+    "item_name": "MAG-7 | Insomnia",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1220"
   },
   {
     "id": "skin-1774352",
@@ -361,7 +411,9 @@
     "price": 0.15,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAG-7 | Insomnia"
+    "item_name": "MAG-7 | Insomnia",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1220"
   },
   {
     "id": "skin-1774352",
@@ -375,7 +427,9 @@
     "price": 0.23,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Insomnia"
+    "item_name": "MAG-7 | Insomnia",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1220"
   },
   {
     "id": "skin-1774352",
@@ -389,7 +443,9 @@
     "price": 0.09,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Insomnia"
+    "item_name": "MAG-7 | Insomnia",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1220"
   },
   {
     "id": "skin-1772136",
@@ -403,7 +459,9 @@
     "price": 1.9,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Hard Water"
+    "item_name": "MAG-7 | Hard Water",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "666"
   },
   {
     "id": "skin-1772136",
@@ -417,7 +475,9 @@
     "price": 3.87,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAG-7 | Hard Water"
+    "item_name": "MAG-7 | Hard Water",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "666"
   },
   {
     "id": "skin-1772136",
@@ -431,7 +491,9 @@
     "price": 2.35,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Hard Water"
+    "item_name": "MAG-7 | Hard Water",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "666"
   },
   {
     "id": "skin-1772136",
@@ -445,7 +507,9 @@
     "price": 4.5,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAG-7 | Hard Water"
+    "item_name": "MAG-7 | Hard Water",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "666"
   },
   {
     "id": "skin-1772136",
@@ -459,7 +523,9 @@
     "price": 2.12,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Hard Water"
+    "item_name": "MAG-7 | Hard Water",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "666"
   },
   {
     "id": "skin-1772136",
@@ -473,7 +539,9 @@
     "price": 6.43,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAG-7 | Hard Water"
+    "item_name": "MAG-7 | Hard Water",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "666"
   },
   {
     "id": "skin-1772136",
@@ -487,7 +555,9 @@
     "price": 2.71,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAG-7 | Hard Water"
+    "item_name": "MAG-7 | Hard Water",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "666"
   },
   {
     "id": "skin-1772136",
@@ -501,7 +571,9 @@
     "price": 1.86,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Hard Water"
+    "item_name": "MAG-7 | Hard Water",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "666"
   },
   {
     "id": "skin-1774000",
@@ -515,7 +587,9 @@
     "price": 0.16,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAG-7 | Foresight"
+    "item_name": "MAG-7 | Foresight",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1132"
   },
   {
     "id": "skin-1774000",
@@ -529,7 +603,9 @@
     "price": 0.04,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Foresight"
+    "item_name": "MAG-7 | Foresight",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1132"
   },
   {
     "id": "skin-1774000",
@@ -543,7 +619,9 @@
     "price": 0.3,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAG-7 | Foresight"
+    "item_name": "MAG-7 | Foresight",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1132"
   },
   {
     "id": "skin-1774000",
@@ -557,7 +635,9 @@
     "price": 0.62,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAG-7 | Foresight"
+    "item_name": "MAG-7 | Foresight",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1132"
   },
   {
     "id": "skin-1774000",
@@ -571,7 +651,9 @@
     "price": 0.11,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAG-7 | Foresight"
+    "item_name": "MAG-7 | Foresight",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1132"
   },
   {
     "id": "skin-1774000",
@@ -585,7 +667,9 @@
     "price": 0.15,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Foresight"
+    "item_name": "MAG-7 | Foresight",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1132"
   },
   {
     "id": "skin-1774000",
@@ -599,7 +683,9 @@
     "price": 0.04,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Foresight"
+    "item_name": "MAG-7 | Foresight",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1132"
   },
   {
     "id": "skin-1774000",
@@ -613,7 +699,9 @@
     "price": 0.11,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAG-7 | Foresight"
+    "item_name": "MAG-7 | Foresight",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1132"
   },
   {
     "id": "skin-1774000",
@@ -627,7 +715,9 @@
     "price": 0.08,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Foresight"
+    "item_name": "MAG-7 | Foresight",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1132"
   },
   {
     "id": "skin-1774000",
@@ -641,7 +731,9 @@
     "price": 0.04,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Foresight"
+    "item_name": "MAG-7 | Foresight",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1132"
   },
   {
     "id": "skin-1773264",
@@ -655,7 +747,9 @@
     "price": 7.23,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAG-7 | Justice"
+    "item_name": "MAG-7 | Justice",
+    "rarity": "Classified",
+    "paint_index": "948"
   },
   {
     "id": "skin-1773264",
@@ -669,7 +763,9 @@
     "price": 7.51,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Justice"
+    "item_name": "MAG-7 | Justice",
+    "rarity": "Classified",
+    "paint_index": "948"
   },
   {
     "id": "skin-1773264",
@@ -683,7 +779,9 @@
     "price": 22.2,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAG-7 | Justice"
+    "item_name": "MAG-7 | Justice",
+    "rarity": "Classified",
+    "paint_index": "948"
   },
   {
     "id": "skin-1773264",
@@ -697,7 +795,9 @@
     "price": 3.33,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAG-7 | Justice"
+    "item_name": "MAG-7 | Justice",
+    "rarity": "Classified",
+    "paint_index": "948"
   },
   {
     "id": "skin-1773264",
@@ -711,7 +811,9 @@
     "price": 1.21,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Justice"
+    "item_name": "MAG-7 | Justice",
+    "rarity": "Classified",
+    "paint_index": "948"
   },
   {
     "id": "skin-1773264",
@@ -725,7 +827,9 @@
     "price": 2.96,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAG-7 | Justice"
+    "item_name": "MAG-7 | Justice",
+    "rarity": "Classified",
+    "paint_index": "948"
   },
   {
     "id": "skin-1773264",
@@ -739,7 +843,9 @@
     "price": 3.04,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Justice"
+    "item_name": "MAG-7 | Justice",
+    "rarity": "Classified",
+    "paint_index": "948"
   },
   {
     "id": "skin-1773264",
@@ -753,7 +859,9 @@
     "price": 1.37,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Justice"
+    "item_name": "MAG-7 | Justice",
+    "rarity": "Classified",
+    "paint_index": "948"
   },
   {
     "id": "skin-1773264",
@@ -767,7 +875,9 @@
     "price": 2.41,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAG-7 | Justice"
+    "item_name": "MAG-7 | Justice",
+    "rarity": "Classified",
+    "paint_index": "948"
   },
   {
     "id": "skin-1773264",
@@ -781,7 +891,9 @@
     "price": 1.28,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Justice"
+    "item_name": "MAG-7 | Justice",
+    "rarity": "Classified",
+    "paint_index": "948"
   },
   {
     "id": "skin-1773828",
@@ -795,7 +907,9 @@
     "price": 0.87,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | BI83 Spectrum"
+    "item_name": "MAG-7 | BI83 Spectrum",
+    "rarity": "Restricted",
+    "paint_index": "1089"
   },
   {
     "id": "skin-1773828",
@@ -809,7 +923,9 @@
     "price": 5.21,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAG-7 | BI83 Spectrum"
+    "item_name": "MAG-7 | BI83 Spectrum",
+    "rarity": "Restricted",
+    "paint_index": "1089"
   },
   {
     "id": "skin-1773828",
@@ -823,7 +939,9 @@
     "price": 1.09,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAG-7 | BI83 Spectrum"
+    "item_name": "MAG-7 | BI83 Spectrum",
+    "rarity": "Restricted",
+    "paint_index": "1089"
   },
   {
     "id": "skin-1773828",
@@ -837,7 +955,9 @@
     "price": 0.91,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | BI83 Spectrum"
+    "item_name": "MAG-7 | BI83 Spectrum",
+    "rarity": "Restricted",
+    "paint_index": "1089"
   },
   {
     "id": "skin-1773828",
@@ -851,7 +971,9 @@
     "price": 0.44,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | BI83 Spectrum"
+    "item_name": "MAG-7 | BI83 Spectrum",
+    "rarity": "Restricted",
+    "paint_index": "1089"
   },
   {
     "id": "skin-1773828",
@@ -865,7 +987,9 @@
     "price": 1.6,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | BI83 Spectrum"
+    "item_name": "MAG-7 | BI83 Spectrum",
+    "rarity": "Restricted",
+    "paint_index": "1089"
   },
   {
     "id": "skin-1773828",
@@ -879,7 +1003,9 @@
     "price": 0.68,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | BI83 Spectrum"
+    "item_name": "MAG-7 | BI83 Spectrum",
+    "rarity": "Restricted",
+    "paint_index": "1089"
   },
   {
     "id": "skin-1773828",
@@ -893,7 +1019,9 @@
     "price": 2.61,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAG-7 | BI83 Spectrum"
+    "item_name": "MAG-7 | BI83 Spectrum",
+    "rarity": "Restricted",
+    "paint_index": "1089"
   },
   {
     "id": "skin-1773828",
@@ -907,7 +1035,9 @@
     "price": 1.21,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAG-7 | BI83 Spectrum"
+    "item_name": "MAG-7 | BI83 Spectrum",
+    "rarity": "Restricted",
+    "paint_index": "1089"
   },
   {
     "id": "skin-1773828",
@@ -921,7 +1051,9 @@
     "price": 1.08,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAG-7 | BI83 Spectrum"
+    "item_name": "MAG-7 | BI83 Spectrum",
+    "rarity": "Restricted",
+    "paint_index": "1089"
   },
   {
     "id": "skin-1770264",
@@ -935,7 +1067,9 @@
     "price": 120.68,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Hazard"
+    "item_name": "MAG-7 | Hazard",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "198"
   },
   {
     "id": "skin-1770264",
@@ -949,7 +1083,9 @@
     "price": 8.31,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Hazard"
+    "item_name": "MAG-7 | Hazard",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "198"
   },
   {
     "id": "skin-1770264",
@@ -963,7 +1099,9 @@
     "price": 68.43,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Hazard"
+    "item_name": "MAG-7 | Hazard",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "198"
   },
   {
     "id": "skin-1770264",
@@ -977,7 +1115,9 @@
     "price": 11.65,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Hazard"
+    "item_name": "MAG-7 | Hazard",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "198"
   },
   {
     "id": "skin-1770264",
@@ -991,7 +1131,9 @@
     "price": 8.42,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Hazard"
+    "item_name": "MAG-7 | Hazard",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "198"
   },
   {
     "id": "skin-1774452",
@@ -1005,7 +1147,9 @@
     "price": 1.01,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Copper Coated"
+    "item_name": "MAG-7 | Copper Coated",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1245"
   },
   {
     "id": "skin-1774452",
@@ -1019,7 +1163,9 @@
     "price": 2.18,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Copper Coated"
+    "item_name": "MAG-7 | Copper Coated",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1245"
   },
   {
     "id": "skin-1774452",
@@ -1033,7 +1179,9 @@
     "price": 0.81,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Copper Coated"
+    "item_name": "MAG-7 | Copper Coated",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1245"
   },
   {
     "id": "skin-1774452",
@@ -1047,7 +1195,9 @@
     "price": 0.79,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Copper Coated"
+    "item_name": "MAG-7 | Copper Coated",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1245"
   },
   {
     "id": "skin-1774452",
@@ -1061,7 +1211,9 @@
     "price": 1.4,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Copper Coated"
+    "item_name": "MAG-7 | Copper Coated",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1245"
   },
   {
     "id": "skin-1770180",
@@ -1075,7 +1227,9 @@
     "price": 2.58,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Memento"
+    "item_name": "MAG-7 | Memento",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "177"
   },
   {
     "id": "skin-1770180",
@@ -1089,7 +1243,9 @@
     "price": 6.06,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAG-7 | Memento"
+    "item_name": "MAG-7 | Memento",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "177"
   },
   {
     "id": "skin-1770180",
@@ -1103,7 +1259,9 @@
     "price": 3,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Memento"
+    "item_name": "MAG-7 | Memento",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "177"
   },
   {
     "id": "skin-1770180",
@@ -1117,7 +1275,9 @@
     "price": 3.52,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Memento"
+    "item_name": "MAG-7 | Memento",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "177"
   },
   {
     "id": "skin-1770180",
@@ -1131,7 +1291,9 @@
     "price": 4.14,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAG-7 | Memento"
+    "item_name": "MAG-7 | Memento",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "177"
   },
   {
     "id": "skin-1770180",
@@ -1145,7 +1307,9 @@
     "price": 3.71,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAG-7 | Memento"
+    "item_name": "MAG-7 | Memento",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "177"
   },
   {
     "id": "skin-1772004",
@@ -1159,7 +1323,9 @@
     "price": 0.23,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAG-7 | Sonar"
+    "item_name": "MAG-7 | Sonar",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "633"
   },
   {
     "id": "skin-1772004",
@@ -1173,7 +1339,9 @@
     "price": 1.01,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAG-7 | Sonar"
+    "item_name": "MAG-7 | Sonar",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "633"
   },
   {
     "id": "skin-1772004",
@@ -1187,7 +1355,9 @@
     "price": 0.53,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAG-7 | Sonar"
+    "item_name": "MAG-7 | Sonar",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "633"
   },
   {
     "id": "skin-1772004",
@@ -1201,7 +1371,9 @@
     "price": 0.1,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Sonar"
+    "item_name": "MAG-7 | Sonar",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "633"
   },
   {
     "id": "skin-1772004",
@@ -1215,7 +1387,9 @@
     "price": 0.2,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Sonar"
+    "item_name": "MAG-7 | Sonar",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "633"
   },
   {
     "id": "skin-1772004",
@@ -1229,7 +1403,9 @@
     "price": 0.17,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAG-7 | Sonar"
+    "item_name": "MAG-7 | Sonar",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "633"
   },
   {
     "id": "skin-1772004",
@@ -1243,7 +1419,9 @@
     "price": 0.09,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Sonar"
+    "item_name": "MAG-7 | Sonar",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "633"
   },
   {
     "id": "skin-1772004",
@@ -1257,7 +1435,9 @@
     "price": 0.07,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Sonar"
+    "item_name": "MAG-7 | Sonar",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "633"
   },
   {
     "id": "skin-1772620",
@@ -1271,7 +1451,9 @@
     "price": 1.82,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Core Breach"
+    "item_name": "MAG-7 | Core Breach",
+    "rarity": "Restricted",
+    "paint_index": "787"
   },
   {
     "id": "skin-1772620",
@@ -1285,7 +1467,9 @@
     "price": 0.55,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Core Breach"
+    "item_name": "MAG-7 | Core Breach",
+    "rarity": "Restricted",
+    "paint_index": "787"
   },
   {
     "id": "skin-1772620",
@@ -1299,7 +1483,9 @@
     "price": 4.28,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Core Breach"
+    "item_name": "MAG-7 | Core Breach",
+    "rarity": "Restricted",
+    "paint_index": "787"
   },
   {
     "id": "skin-1772620",
@@ -1313,7 +1499,9 @@
     "price": 0.78,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Core Breach"
+    "item_name": "MAG-7 | Core Breach",
+    "rarity": "Restricted",
+    "paint_index": "787"
   },
   {
     "id": "skin-1772620",
@@ -1327,7 +1515,9 @@
     "price": 0.54,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Core Breach"
+    "item_name": "MAG-7 | Core Breach",
+    "rarity": "Restricted",
+    "paint_index": "787"
   },
   {
     "id": "skin-1769608",
@@ -1341,7 +1531,9 @@
     "price": 0.2,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Metallic DDPAT"
+    "item_name": "MAG-7 | Metallic DDPAT",
+    "rarity": "Industrial Grade",
+    "paint_index": "34"
   },
   {
     "id": "skin-1769608",
@@ -1355,7 +1547,9 @@
     "price": 0.19,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Metallic DDPAT"
+    "item_name": "MAG-7 | Metallic DDPAT",
+    "rarity": "Industrial Grade",
+    "paint_index": "34"
   },
   {
     "id": "skin-1771012",
@@ -1369,7 +1563,9 @@
     "price": 0.62,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Firestarter"
+    "item_name": "MAG-7 | Firestarter",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "385"
   },
   {
     "id": "skin-1771012",
@@ -1383,7 +1579,9 @@
     "price": 0.29,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Firestarter"
+    "item_name": "MAG-7 | Firestarter",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "385"
   },
   {
     "id": "skin-1771012",
@@ -1397,7 +1595,9 @@
     "price": 11.76,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAG-7 | Firestarter"
+    "item_name": "MAG-7 | Firestarter",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "385"
   },
   {
     "id": "skin-1771012",
@@ -1411,7 +1611,9 @@
     "price": 0.53,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Firestarter"
+    "item_name": "MAG-7 | Firestarter",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "385"
   },
   {
     "id": "skin-1771012",
@@ -1425,7 +1627,9 @@
     "price": 0.94,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAG-7 | Firestarter"
+    "item_name": "MAG-7 | Firestarter",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "385"
   },
   {
     "id": "skin-1771012",
@@ -1439,7 +1643,9 @@
     "price": 0.91,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAG-7 | Firestarter"
+    "item_name": "MAG-7 | Firestarter",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "385"
   },
   {
     "id": "skin-1771012",
@@ -1453,7 +1659,9 @@
     "price": 0.39,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Firestarter"
+    "item_name": "MAG-7 | Firestarter",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "385"
   },
   {
     "id": "skin-1771012",
@@ -1467,7 +1675,9 @@
     "price": 1.35,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAG-7 | Firestarter"
+    "item_name": "MAG-7 | Firestarter",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "385"
   },
   {
     "id": "skin-1771012",
@@ -1481,7 +1691,9 @@
     "price": 3.87,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Firestarter"
+    "item_name": "MAG-7 | Firestarter",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "385"
   },
   {
     "id": "skin-1771012",
@@ -1495,7 +1707,9 @@
     "price": 1.65,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAG-7 | Firestarter"
+    "item_name": "MAG-7 | Firestarter",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "385"
   },
   {
     "id": "skin-1769628",
@@ -1509,7 +1723,9 @@
     "price": 3.62,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Bulldozer"
+    "item_name": "MAG-7 | Bulldozer",
+    "rarity": "Restricted",
+    "paint_index": "39"
   },
   {
     "id": "skin-1769628",
@@ -1523,7 +1739,9 @@
     "price": 123.35,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Bulldozer"
+    "item_name": "MAG-7 | Bulldozer",
+    "rarity": "Restricted",
+    "paint_index": "39"
   },
   {
     "id": "skin-1769628",
@@ -1537,7 +1755,9 @@
     "price": 12.34,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Bulldozer"
+    "item_name": "MAG-7 | Bulldozer",
+    "rarity": "Restricted",
+    "paint_index": "39"
   },
   {
     "id": "skin-1769628",
@@ -1551,7 +1771,9 @@
     "price": 3.5,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Bulldozer"
+    "item_name": "MAG-7 | Bulldozer",
+    "rarity": "Restricted",
+    "paint_index": "39"
   },
   {
     "id": "skin-1769628",
@@ -1565,7 +1787,9 @@
     "price": 3.77,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Bulldozer"
+    "item_name": "MAG-7 | Bulldozer",
+    "rarity": "Restricted",
+    "paint_index": "39"
   },
   {
     "id": "skin-1771468",
@@ -1579,7 +1803,9 @@
     "price": 1.09,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAG-7 | Cobalt Core"
+    "item_name": "MAG-7 | Cobalt Core",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "499"
   },
   {
     "id": "skin-1771468",
@@ -1593,7 +1819,9 @@
     "price": 0.23,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAG-7 | Cobalt Core"
+    "item_name": "MAG-7 | Cobalt Core",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "499"
   },
   {
     "id": "skin-1771468",
@@ -1607,7 +1835,9 @@
     "price": 0.26,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAG-7 | Cobalt Core"
+    "item_name": "MAG-7 | Cobalt Core",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "499"
   },
   {
     "id": "skin-1771468",
@@ -1621,7 +1851,9 @@
     "price": 0.37,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Cobalt Core"
+    "item_name": "MAG-7 | Cobalt Core",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "499"
   },
   {
     "id": "skin-1771468",
@@ -1635,7 +1867,9 @@
     "price": 0.13,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Cobalt Core"
+    "item_name": "MAG-7 | Cobalt Core",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "499"
   },
   {
     "id": "skin-1771468",
@@ -1649,7 +1883,9 @@
     "price": 0.12,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Cobalt Core"
+    "item_name": "MAG-7 | Cobalt Core",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "499"
   },
   {
     "id": "skin-1771468",
@@ -1663,7 +1899,9 @@
     "price": 0.19,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Cobalt Core"
+    "item_name": "MAG-7 | Cobalt Core",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "499"
   },
   {
     "id": "skin-1771468",
@@ -1677,7 +1915,9 @@
     "price": 0.63,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAG-7 | Cobalt Core"
+    "item_name": "MAG-7 | Cobalt Core",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "499"
   },
   {
     "id": "skin-1771468",
@@ -1691,7 +1931,9 @@
     "price": 0.28,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAG-7 | Cobalt Core"
+    "item_name": "MAG-7 | Cobalt Core",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "499"
   },
   {
     "id": "skin-1771468",
@@ -1705,7 +1947,9 @@
     "price": 0.3,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Cobalt Core"
+    "item_name": "MAG-7 | Cobalt Core",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "499"
   },
   {
     "id": "skin-1770636",
@@ -1719,7 +1963,9 @@
     "price": 0.25,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Heaven Guard"
+    "item_name": "MAG-7 | Heaven Guard",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "291"
   },
   {
     "id": "skin-1770636",
@@ -1733,7 +1979,9 @@
     "price": 0.49,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAG-7 | Heaven Guard"
+    "item_name": "MAG-7 | Heaven Guard",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "291"
   },
   {
     "id": "skin-1770636",
@@ -1747,7 +1995,9 @@
     "price": 0.54,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAG-7 | Heaven Guard"
+    "item_name": "MAG-7 | Heaven Guard",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "291"
   },
   {
     "id": "skin-1770636",
@@ -1761,7 +2011,9 @@
     "price": 0.99,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAG-7 | Heaven Guard"
+    "item_name": "MAG-7 | Heaven Guard",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "291"
   },
   {
     "id": "skin-1770636",
@@ -1775,7 +2027,9 @@
     "price": 0.3,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAG-7 | Heaven Guard"
+    "item_name": "MAG-7 | Heaven Guard",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "291"
   },
   {
     "id": "skin-1770636",
@@ -1789,7 +2043,9 @@
     "price": 0.25,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Heaven Guard"
+    "item_name": "MAG-7 | Heaven Guard",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "291"
   },
   {
     "id": "skin-1770636",
@@ -1803,7 +2059,9 @@
     "price": 0.37,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Heaven Guard"
+    "item_name": "MAG-7 | Heaven Guard",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "291"
   },
   {
     "id": "skin-1770636",
@@ -1817,7 +2075,9 @@
     "price": 0.19,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Heaven Guard"
+    "item_name": "MAG-7 | Heaven Guard",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "291"
   },
   {
     "id": "skin-1771320",
@@ -1831,7 +2091,9 @@
     "price": 78.12,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Counter Terrace"
+    "item_name": "MAG-7 | Counter Terrace",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "462"
   },
   {
     "id": "skin-1771320",
@@ -1845,7 +2107,9 @@
     "price": 0,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Counter Terrace"
+    "item_name": "MAG-7 | Counter Terrace",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "462"
   },
   {
     "id": "skin-1771320",
@@ -1859,7 +2123,9 @@
     "price": 87.08,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Counter Terrace"
+    "item_name": "MAG-7 | Counter Terrace",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "462"
   },
   {
     "id": "skin-1771320",
@@ -1873,7 +2139,9 @@
     "price": 87.08,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Counter Terrace"
+    "item_name": "MAG-7 | Counter Terrace",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "462"
   },
   {
     "id": "skin-1771320",
@@ -1887,7 +2155,9 @@
     "price": 663.7,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Counter Terrace"
+    "item_name": "MAG-7 | Counter Terrace",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "462"
   },
   {
     "id": "skin-1771612",
@@ -1901,7 +2171,9 @@
     "price": 6.99,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAG-7 | Praetorian"
+    "item_name": "MAG-7 | Praetorian",
+    "rarity": "Restricted",
+    "paint_index": "535"
   },
   {
     "id": "skin-1771612",
@@ -1915,7 +2187,9 @@
     "price": 2.93,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Praetorian"
+    "item_name": "MAG-7 | Praetorian",
+    "rarity": "Restricted",
+    "paint_index": "535"
   },
   {
     "id": "skin-1771612",
@@ -1929,7 +2203,9 @@
     "price": 3.15,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAG-7 | Praetorian"
+    "item_name": "MAG-7 | Praetorian",
+    "rarity": "Restricted",
+    "paint_index": "535"
   },
   {
     "id": "skin-1771612",
@@ -1943,7 +2219,9 @@
     "price": 1.97,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Praetorian"
+    "item_name": "MAG-7 | Praetorian",
+    "rarity": "Restricted",
+    "paint_index": "535"
   },
   {
     "id": "skin-1771612",
@@ -1957,7 +2235,9 @@
     "price": 4.51,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAG-7 | Praetorian"
+    "item_name": "MAG-7 | Praetorian",
+    "rarity": "Restricted",
+    "paint_index": "535"
   },
   {
     "id": "skin-1771612",
@@ -1971,7 +2251,9 @@
     "price": 1.66,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Praetorian"
+    "item_name": "MAG-7 | Praetorian",
+    "rarity": "Restricted",
+    "paint_index": "535"
   },
   {
     "id": "skin-1771612",
@@ -1985,7 +2267,9 @@
     "price": 3.82,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAG-7 | Praetorian"
+    "item_name": "MAG-7 | Praetorian",
+    "rarity": "Restricted",
+    "paint_index": "535"
   },
   {
     "id": "skin-1771612",
@@ -1999,7 +2283,9 @@
     "price": 1.52,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Praetorian"
+    "item_name": "MAG-7 | Praetorian",
+    "rarity": "Restricted",
+    "paint_index": "535"
   },
   {
     "id": "skin-1771196",
@@ -2013,7 +2299,9 @@
     "price": 0.24,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Heat"
+    "item_name": "MAG-7 | Heat",
+    "rarity": "Restricted",
+    "paint_index": "431"
   },
   {
     "id": "skin-1771196",
@@ -2027,7 +2315,9 @@
     "price": 6.17,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAG-7 | Heat"
+    "item_name": "MAG-7 | Heat",
+    "rarity": "Restricted",
+    "paint_index": "431"
   },
   {
     "id": "skin-1771196",
@@ -2041,7 +2331,9 @@
     "price": 0.26,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Heat"
+    "item_name": "MAG-7 | Heat",
+    "rarity": "Restricted",
+    "paint_index": "431"
   },
   {
     "id": "skin-1771196",
@@ -2055,7 +2347,9 @@
     "price": 1.73,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Heat"
+    "item_name": "MAG-7 | Heat",
+    "rarity": "Restricted",
+    "paint_index": "431"
   },
   {
     "id": "skin-1771196",
@@ -2069,7 +2363,9 @@
     "price": 0.46,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Heat"
+    "item_name": "MAG-7 | Heat",
+    "rarity": "Restricted",
+    "paint_index": "431"
   },
   {
     "id": "skin-1771196",
@@ -2083,7 +2379,9 @@
     "price": 0.26,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Heat"
+    "item_name": "MAG-7 | Heat",
+    "rarity": "Restricted",
+    "paint_index": "431"
   },
   {
     "id": "skin-1771196",
@@ -2097,7 +2395,9 @@
     "price": 1.46,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAG-7 | Heat"
+    "item_name": "MAG-7 | Heat",
+    "rarity": "Restricted",
+    "paint_index": "431"
   },
   {
     "id": "skin-1771196",
@@ -2111,7 +2411,9 @@
     "price": 0.43,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAG-7 | Heat"
+    "item_name": "MAG-7 | Heat",
+    "rarity": "Restricted",
+    "paint_index": "431"
   },
   {
     "id": "skin-1771196",
@@ -2125,7 +2427,9 @@
     "price": 0.57,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAG-7 | Heat"
+    "item_name": "MAG-7 | Heat",
+    "rarity": "Restricted",
+    "paint_index": "431"
   },
   {
     "id": "skin-1771196",
@@ -2139,7 +2443,9 @@
     "price": 0.41,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAG-7 | Heat"
+    "item_name": "MAG-7 | Heat",
+    "rarity": "Restricted",
+    "paint_index": "431"
   },
   {
     "id": "skin-1773760",
@@ -2153,7 +2459,9 @@
     "price": 36.74,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Prism Terrace"
+    "item_name": "MAG-7 | Prism Terrace",
+    "rarity": "Restricted",
+    "paint_index": "1072"
   },
   {
     "id": "skin-1773760",
@@ -2167,7 +2475,9 @@
     "price": 36.57,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Prism Terrace"
+    "item_name": "MAG-7 | Prism Terrace",
+    "rarity": "Restricted",
+    "paint_index": "1072"
   },
   {
     "id": "skin-1773760",
@@ -2181,7 +2491,9 @@
     "price": 40.04,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Prism Terrace"
+    "item_name": "MAG-7 | Prism Terrace",
+    "rarity": "Restricted",
+    "paint_index": "1072"
   },
   {
     "id": "skin-1773316",
@@ -2195,7 +2507,9 @@
     "price": 0.24,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Monster Call"
+    "item_name": "MAG-7 | Monster Call",
+    "rarity": "Restricted",
+    "paint_index": "961"
   },
   {
     "id": "skin-1773316",
@@ -2209,7 +2523,9 @@
     "price": 3.28,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAG-7 | Monster Call"
+    "item_name": "MAG-7 | Monster Call",
+    "rarity": "Restricted",
+    "paint_index": "961"
   },
   {
     "id": "skin-1773316",
@@ -2223,7 +2539,9 @@
     "price": 0.49,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Monster Call"
+    "item_name": "MAG-7 | Monster Call",
+    "rarity": "Restricted",
+    "paint_index": "961"
   },
   {
     "id": "skin-1773316",
@@ -2237,7 +2555,9 @@
     "price": 1.02,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Monster Call"
+    "item_name": "MAG-7 | Monster Call",
+    "rarity": "Restricted",
+    "paint_index": "961"
   },
   {
     "id": "skin-1773316",
@@ -2251,7 +2571,9 @@
     "price": 0.42,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAG-7 | Monster Call"
+    "item_name": "MAG-7 | Monster Call",
+    "rarity": "Restricted",
+    "paint_index": "961"
   },
   {
     "id": "skin-1773316",
@@ -2265,7 +2587,9 @@
     "price": 0.33,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Monster Call"
+    "item_name": "MAG-7 | Monster Call",
+    "rarity": "Restricted",
+    "paint_index": "961"
   },
   {
     "id": "skin-1773316",
@@ -2279,7 +2603,9 @@
     "price": 0.41,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAG-7 | Monster Call"
+    "item_name": "MAG-7 | Monster Call",
+    "rarity": "Restricted",
+    "paint_index": "961"
   },
   {
     "id": "skin-1773316",
@@ -2293,7 +2619,9 @@
     "price": 0.54,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAG-7 | Monster Call"
+    "item_name": "MAG-7 | Monster Call",
+    "rarity": "Restricted",
+    "paint_index": "961"
   },
   {
     "id": "skin-1773316",
@@ -2307,7 +2635,9 @@
     "price": 1.14,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAG-7 | Monster Call"
+    "item_name": "MAG-7 | Monster Call",
+    "rarity": "Restricted",
+    "paint_index": "961"
   },
   {
     "id": "skin-1773316",
@@ -2321,7 +2651,9 @@
     "price": 0.29,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Monster Call"
+    "item_name": "MAG-7 | Monster Call",
+    "rarity": "Restricted",
+    "paint_index": "961"
   },
   {
     "id": "skin-1773108",
@@ -2335,7 +2667,9 @@
     "price": 0.11,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Popdog"
+    "item_name": "MAG-7 | Popdog",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "909"
   },
   {
     "id": "skin-1773108",
@@ -2349,7 +2683,9 @@
     "price": 0.13,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Popdog"
+    "item_name": "MAG-7 | Popdog",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "909"
   },
   {
     "id": "skin-1773108",
@@ -2363,7 +2699,9 @@
     "price": 0.24,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAG-7 | Popdog"
+    "item_name": "MAG-7 | Popdog",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "909"
   },
   {
     "id": "skin-1773108",
@@ -2377,7 +2715,9 @@
     "price": 0.22,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Popdog"
+    "item_name": "MAG-7 | Popdog",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "909"
   },
   {
     "id": "skin-1773108",
@@ -2391,7 +2731,9 @@
     "price": 0.36,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAG-7 | Popdog"
+    "item_name": "MAG-7 | Popdog",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "909"
   },
   {
     "id": "skin-1773108",
@@ -2405,7 +2747,9 @@
     "price": 0.11,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAG-7 | Popdog"
+    "item_name": "MAG-7 | Popdog",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "909"
   },
   {
     "id": "skin-1773108",
@@ -2419,7 +2763,9 @@
     "price": 0.1,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Popdog"
+    "item_name": "MAG-7 | Popdog",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "909"
   },
   {
     "id": "skin-1773108",
@@ -2433,7 +2779,9 @@
     "price": 1.01,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAG-7 | Popdog"
+    "item_name": "MAG-7 | Popdog",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "909"
   },
   {
     "id": "skin-1773108",
@@ -2447,7 +2795,9 @@
     "price": 0.11,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Popdog"
+    "item_name": "MAG-7 | Popdog",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "909"
   },
   {
     "id": "skin-1773108",
@@ -2461,7 +2811,9 @@
     "price": 0.11,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAG-7 | Popdog"
+    "item_name": "MAG-7 | Popdog",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "909"
   },
   {
     "id": "skin-1769752",
@@ -2475,7 +2827,9 @@
     "price": 2.02,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Carbon Fiber"
+    "item_name": "MAG-7 | Carbon Fiber",
+    "rarity": "Industrial Grade",
+    "paint_index": "70"
   },
   {
     "id": "skin-1769752",
@@ -2489,7 +2843,9 @@
     "price": 1.98,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Carbon Fiber"
+    "item_name": "MAG-7 | Carbon Fiber",
+    "rarity": "Industrial Grade",
+    "paint_index": "70"
   },
   {
     "id": "skin-1770156",
@@ -2503,7 +2859,9 @@
     "price": 20.57,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Irradiated Alert"
+    "item_name": "MAG-7 | Irradiated Alert",
+    "rarity": "Consumer Grade",
+    "paint_index": "171"
   },
   {
     "id": "skin-1770156",
@@ -2517,7 +2875,9 @@
     "price": 1.22,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Irradiated Alert"
+    "item_name": "MAG-7 | Irradiated Alert",
+    "rarity": "Consumer Grade",
+    "paint_index": "171"
   },
   {
     "id": "skin-1770156",
@@ -2531,7 +2891,9 @@
     "price": 1.78,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Irradiated Alert"
+    "item_name": "MAG-7 | Irradiated Alert",
+    "rarity": "Consumer Grade",
+    "paint_index": "171"
   },
   {
     "id": "skin-1770156",
@@ -2545,7 +2907,9 @@
     "price": 1.46,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Irradiated Alert"
+    "item_name": "MAG-7 | Irradiated Alert",
+    "rarity": "Consumer Grade",
+    "paint_index": "171"
   },
   {
     "id": "skin-1770156",
@@ -2559,7 +2923,9 @@
     "price": 1.1,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Irradiated Alert"
+    "item_name": "MAG-7 | Irradiated Alert",
+    "rarity": "Consumer Grade",
+    "paint_index": "171"
   },
   {
     "id": "skin-1771364",
@@ -2573,7 +2939,9 @@
     "price": 0.91,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Seabird"
+    "item_name": "MAG-7 | Seabird",
+    "rarity": "Consumer Grade",
+    "paint_index": "473"
   },
   {
     "id": "skin-1771364",
@@ -2587,7 +2955,9 @@
     "price": 0.82,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Seabird"
+    "item_name": "MAG-7 | Seabird",
+    "rarity": "Consumer Grade",
+    "paint_index": "473"
   },
   {
     "id": "skin-1771364",
@@ -2601,7 +2971,9 @@
     "price": 1.21,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Seabird"
+    "item_name": "MAG-7 | Seabird",
+    "rarity": "Consumer Grade",
+    "paint_index": "473"
   },
   {
     "id": "skin-1771364",
@@ -2615,7 +2987,9 @@
     "price": 0.78,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Seabird"
+    "item_name": "MAG-7 | Seabird",
+    "rarity": "Consumer Grade",
+    "paint_index": "473"
   },
   {
     "id": "skin-1771364",
@@ -2629,7 +3003,9 @@
     "price": 3.15,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Seabird"
+    "item_name": "MAG-7 | Seabird",
+    "rarity": "Consumer Grade",
+    "paint_index": "473"
   },
   {
     "id": "skin-1769868",
@@ -2643,7 +3019,9 @@
     "price": 0.64,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Sand Dune"
+    "item_name": "MAG-7 | Sand Dune",
+    "rarity": "Consumer Grade",
+    "paint_index": "99"
   },
   {
     "id": "skin-1769868",
@@ -2657,7 +3035,9 @@
     "price": 1.13,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Sand Dune"
+    "item_name": "MAG-7 | Sand Dune",
+    "rarity": "Consumer Grade",
+    "paint_index": "99"
   },
   {
     "id": "skin-1769868",
@@ -2671,7 +3051,9 @@
     "price": 1.37,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Sand Dune"
+    "item_name": "MAG-7 | Sand Dune",
+    "rarity": "Consumer Grade",
+    "paint_index": "99"
   },
   {
     "id": "skin-1769868",
@@ -2685,7 +3067,9 @@
     "price": 2.11,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Sand Dune"
+    "item_name": "MAG-7 | Sand Dune",
+    "rarity": "Consumer Grade",
+    "paint_index": "99"
   },
   {
     "id": "skin-1769868",
@@ -2699,7 +3083,9 @@
     "price": 13.18,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Sand Dune"
+    "item_name": "MAG-7 | Sand Dune",
+    "rarity": "Consumer Grade",
+    "paint_index": "99"
   },
   {
     "id": "skin-1769872",
@@ -2713,7 +3099,9 @@
     "price": 0.18,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Storm"
+    "item_name": "MAG-7 | Storm",
+    "rarity": "Consumer Grade",
+    "paint_index": "100"
   },
   {
     "id": "skin-1769872",
@@ -2727,7 +3115,9 @@
     "price": 0.22,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Storm"
+    "item_name": "MAG-7 | Storm",
+    "rarity": "Consumer Grade",
+    "paint_index": "100"
   },
   {
     "id": "skin-1769872",
@@ -2741,7 +3131,9 @@
     "price": 0.22,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Storm"
+    "item_name": "MAG-7 | Storm",
+    "rarity": "Consumer Grade",
+    "paint_index": "100"
   },
   {
     "id": "skin-1769872",
@@ -2755,7 +3147,9 @@
     "price": 5.22,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Storm"
+    "item_name": "MAG-7 | Storm",
+    "rarity": "Consumer Grade",
+    "paint_index": "100"
   },
   {
     "id": "skin-1769872",
@@ -2769,7 +3163,9 @@
     "price": 0.35,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Storm"
+    "item_name": "MAG-7 | Storm",
+    "rarity": "Consumer Grade",
+    "paint_index": "100"
   },
   {
     "id": "skin-1770780",
@@ -2783,7 +3179,9 @@
     "price": 17.83,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Chainmail"
+    "item_name": "MAG-7 | Chainmail",
+    "rarity": "Industrial Grade",
+    "paint_index": "327"
   },
   {
     "id": "skin-1770780",
@@ -2797,7 +3195,9 @@
     "price": 17.83,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Chainmail"
+    "item_name": "MAG-7 | Chainmail",
+    "rarity": "Industrial Grade",
+    "paint_index": "327"
   },
   {
     "id": "skin-1770780",
@@ -2811,7 +3211,9 @@
     "price": 17.21,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Chainmail"
+    "item_name": "MAG-7 | Chainmail",
+    "rarity": "Industrial Grade",
+    "paint_index": "327"
   },
   {
     "id": "skin-1769600",
@@ -2825,7 +3227,9 @@
     "price": 9.32,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Silver"
+    "item_name": "MAG-7 | Silver",
+    "rarity": "Industrial Grade",
+    "paint_index": "32"
   },
   {
     "id": "skin-1769600",
@@ -2839,7 +3243,9 @@
     "price": 13.31,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Silver"
+    "item_name": "MAG-7 | Silver",
+    "rarity": "Industrial Grade",
+    "paint_index": "32"
   },
   {
     "id": "skin-1772760",
@@ -2853,7 +3259,9 @@
     "price": 0.22,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Navy Sheen"
+    "item_name": "MAG-7 | Navy Sheen",
+    "rarity": "Consumer Grade",
+    "paint_index": "822"
   },
   {
     "id": "skin-1772760",
@@ -2867,7 +3275,9 @@
     "price": 0.29,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Navy Sheen"
+    "item_name": "MAG-7 | Navy Sheen",
+    "rarity": "Consumer Grade",
+    "paint_index": "822"
   },
   {
     "id": "skin-1772760",
@@ -2881,7 +3291,9 @@
     "price": 0.21,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Navy Sheen"
+    "item_name": "MAG-7 | Navy Sheen",
+    "rarity": "Consumer Grade",
+    "paint_index": "822"
   },
   {
     "id": "skin-1772760",
@@ -2895,7 +3307,9 @@
     "price": 0.21,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Navy Sheen"
+    "item_name": "MAG-7 | Navy Sheen",
+    "rarity": "Consumer Grade",
+    "paint_index": "822"
   },
   {
     "id": "skin-1772760",
@@ -2909,7 +3323,9 @@
     "price": 0.23,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Navy Sheen"
+    "item_name": "MAG-7 | Navy Sheen",
+    "rarity": "Consumer Grade",
+    "paint_index": "822"
   },
   {
     "id": "skin-1772488",
@@ -2923,7 +3339,9 @@
     "price": 0.02,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Rust Coat"
+    "item_name": "MAG-7 | Rust Coat",
+    "rarity": "Consumer Grade",
+    "paint_index": "754"
   },
   {
     "id": "skin-1772488",
@@ -2937,7 +3355,9 @@
     "price": 0.1,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Rust Coat"
+    "item_name": "MAG-7 | Rust Coat",
+    "rarity": "Consumer Grade",
+    "paint_index": "754"
   },
   {
     "id": "skin-1772488",
@@ -2951,7 +3371,9 @@
     "price": 0.01,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Rust Coat"
+    "item_name": "MAG-7 | Rust Coat",
+    "rarity": "Consumer Grade",
+    "paint_index": "754"
   },
   {
     "id": "skin-1772488",
@@ -2965,7 +3387,9 @@
     "price": 0.01,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Rust Coat"
+    "item_name": "MAG-7 | Rust Coat",
+    "rarity": "Consumer Grade",
+    "paint_index": "754"
   },
   {
     "id": "skin-1772488",
@@ -2979,7 +3403,9 @@
     "price": 0.01,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Rust Coat"
+    "item_name": "MAG-7 | Rust Coat",
+    "rarity": "Consumer Grade",
+    "paint_index": "754"
   },
   {
     "id": "skin-1772420",
@@ -2993,7 +3419,9 @@
     "price": 657.47,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Cinquedea"
+    "item_name": "MAG-7 | Cinquedea",
+    "rarity": "Classified",
+    "paint_index": "737"
   },
   {
     "id": "skin-1772420",
@@ -3007,7 +3435,9 @@
     "price": 466.18,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Cinquedea"
+    "item_name": "MAG-7 | Cinquedea",
+    "rarity": "Classified",
+    "paint_index": "737"
   },
   {
     "id": "skin-1772420",
@@ -3021,7 +3451,9 @@
     "price": 402.48,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Cinquedea"
+    "item_name": "MAG-7 | Cinquedea",
+    "rarity": "Classified",
+    "paint_index": "737"
   },
   {
     "id": "skin-1772420",
@@ -3035,7 +3467,9 @@
     "price": 473.1,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Cinquedea"
+    "item_name": "MAG-7 | Cinquedea",
+    "rarity": "Classified",
+    "paint_index": "737"
   },
   {
     "id": "skin-1772420",
@@ -3049,6 +3483,8 @@
     "price": 577.94,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAG-7 | Cinquedea"
+    "item_name": "MAG-7 | Cinquedea",
+    "rarity": "Classified",
+    "paint_index": "737"
   }
 ]

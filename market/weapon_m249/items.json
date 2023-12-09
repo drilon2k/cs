@@ -11,7 +11,9 @@
     "price": 0.71,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M249 | Magma"
+    "item_name": "M249 | Magma",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "266"
   },
   {
     "id": "skin-918568",
@@ -25,7 +27,9 @@
     "price": 1.05,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M249 | Magma"
+    "item_name": "M249 | Magma",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "266"
   },
   {
     "id": "skin-918568",
@@ -39,7 +43,9 @@
     "price": 0.67,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M249 | Magma"
+    "item_name": "M249 | Magma",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "266"
   },
   {
     "id": "skin-918568",
@@ -53,7 +59,9 @@
     "price": 0.63,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M249 | Magma"
+    "item_name": "M249 | Magma",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "266"
   },
   {
     "id": "skin-918568",
@@ -67,7 +75,9 @@
     "price": 1.55,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M249 | Magma"
+    "item_name": "M249 | Magma",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "266"
   },
   {
     "id": "skin-918568",
@@ -81,7 +91,9 @@
     "price": 1.33,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M249 | Magma"
+    "item_name": "M249 | Magma",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "266"
   },
   {
     "id": "skin-918568",
@@ -95,7 +107,9 @@
     "price": 0.72,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M249 | Magma"
+    "item_name": "M249 | Magma",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "266"
   },
   {
     "id": "skin-918568",
@@ -109,7 +123,9 @@
     "price": 0.96,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M249 | Magma"
+    "item_name": "M249 | Magma",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "266"
   },
   {
     "id": "skin-918568",
@@ -123,7 +139,9 @@
     "price": 0.88,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M249 | Magma"
+    "item_name": "M249 | Magma",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "266"
   },
   {
     "id": "skin-918568",
@@ -137,7 +155,9 @@
     "price": 1.71,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M249 | Magma"
+    "item_name": "M249 | Magma",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "266"
   },
   {
     "id": "skin-919312",
@@ -151,7 +171,9 @@
     "price": 10.66,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M249 | Shipping Forecast"
+    "item_name": "M249 | Shipping Forecast",
+    "rarity": "Industrial Grade",
+    "paint_index": "452"
   },
   {
     "id": "skin-919312",
@@ -165,7 +187,9 @@
     "price": 11.86,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M249 | Shipping Forecast"
+    "item_name": "M249 | Shipping Forecast",
+    "rarity": "Industrial Grade",
+    "paint_index": "452"
   },
   {
     "id": "skin-919312",
@@ -179,7 +203,9 @@
     "price": 10.69,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M249 | Shipping Forecast"
+    "item_name": "M249 | Shipping Forecast",
+    "rarity": "Industrial Grade",
+    "paint_index": "452"
   },
   {
     "id": "skin-919312",
@@ -193,7 +219,9 @@
     "price": 13.51,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M249 | Shipping Forecast"
+    "item_name": "M249 | Shipping Forecast",
+    "rarity": "Industrial Grade",
+    "paint_index": "452"
   },
   {
     "id": "skin-919312",
@@ -207,7 +235,9 @@
     "price": 10.6,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M249 | Shipping Forecast"
+    "item_name": "M249 | Shipping Forecast",
+    "rarity": "Industrial Grade",
+    "paint_index": "452"
   },
   {
     "id": "skin-921104",
@@ -221,7 +251,9 @@
     "price": 0.75,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M249 | Warbird"
+    "item_name": "M249 | Warbird",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "900"
   },
   {
     "id": "skin-921104",
@@ -235,7 +267,9 @@
     "price": 0.93,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M249 | Warbird"
+    "item_name": "M249 | Warbird",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "900"
   },
   {
     "id": "skin-921104",
@@ -249,7 +283,9 @@
     "price": 1.01,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M249 | Warbird"
+    "item_name": "M249 | Warbird",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "900"
   },
   {
     "id": "skin-921104",
@@ -263,7 +299,9 @@
     "price": 1.45,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M249 | Warbird"
+    "item_name": "M249 | Warbird",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "900"
   },
   {
     "id": "skin-921104",
@@ -277,7 +315,9 @@
     "price": 0.72,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M249 | Warbird"
+    "item_name": "M249 | Warbird",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "900"
   },
   {
     "id": "skin-921104",
@@ -291,7 +331,9 @@
     "price": 1.1,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M249 | Warbird"
+    "item_name": "M249 | Warbird",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "900"
   },
   {
     "id": "skin-921104",
@@ -305,7 +347,9 @@
     "price": 0.73,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M249 | Warbird"
+    "item_name": "M249 | Warbird",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "900"
   },
   {
     "id": "skin-921104",
@@ -319,7 +363,9 @@
     "price": 2.72,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M249 | Warbird"
+    "item_name": "M249 | Warbird",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "900"
   },
   {
     "id": "skin-921104",
@@ -333,7 +379,9 @@
     "price": 0.8,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M249 | Warbird"
+    "item_name": "M249 | Warbird",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "900"
   },
   {
     "id": "skin-921104",
@@ -347,7 +395,9 @@
     "price": 0.85,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M249 | Warbird"
+    "item_name": "M249 | Warbird",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "900"
   },
   {
     "id": "skin-919488",
@@ -361,7 +411,9 @@
     "price": 2.97,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M249 | Nebula Crusader"
+    "item_name": "M249 | Nebula Crusader",
+    "rarity": "Restricted",
+    "paint_index": "496"
   },
   {
     "id": "skin-919488",
@@ -375,7 +427,9 @@
     "price": 3.5,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M249 | Nebula Crusader"
+    "item_name": "M249 | Nebula Crusader",
+    "rarity": "Restricted",
+    "paint_index": "496"
   },
   {
     "id": "skin-919488",
@@ -389,7 +443,9 @@
     "price": 0.74,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M249 | Nebula Crusader"
+    "item_name": "M249 | Nebula Crusader",
+    "rarity": "Restricted",
+    "paint_index": "496"
   },
   {
     "id": "skin-919488",
@@ -403,7 +459,9 @@
     "price": 0.84,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M249 | Nebula Crusader"
+    "item_name": "M249 | Nebula Crusader",
+    "rarity": "Restricted",
+    "paint_index": "496"
   },
   {
     "id": "skin-919488",
@@ -417,7 +475,9 @@
     "price": 1.86,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M249 | Nebula Crusader"
+    "item_name": "M249 | Nebula Crusader",
+    "rarity": "Restricted",
+    "paint_index": "496"
   },
   {
     "id": "skin-919488",
@@ -431,7 +491,9 @@
     "price": 1.49,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M249 | Nebula Crusader"
+    "item_name": "M249 | Nebula Crusader",
+    "rarity": "Restricted",
+    "paint_index": "496"
   },
   {
     "id": "skin-919488",
@@ -445,7 +507,9 @@
     "price": 0.79,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M249 | Nebula Crusader"
+    "item_name": "M249 | Nebula Crusader",
+    "rarity": "Restricted",
+    "paint_index": "496"
   },
   {
     "id": "skin-919488",
@@ -459,7 +523,9 @@
     "price": 8.21,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M249 | Nebula Crusader"
+    "item_name": "M249 | Nebula Crusader",
+    "rarity": "Restricted",
+    "paint_index": "496"
   },
   {
     "id": "skin-919488",
@@ -473,7 +539,9 @@
     "price": 1.62,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M249 | Nebula Crusader"
+    "item_name": "M249 | Nebula Crusader",
+    "rarity": "Restricted",
+    "paint_index": "496"
   },
   {
     "id": "skin-919488",
@@ -487,7 +555,9 @@
     "price": 1.66,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M249 | Nebula Crusader"
+    "item_name": "M249 | Nebula Crusader",
+    "rarity": "Restricted",
+    "paint_index": "496"
   },
   {
     "id": "skin-921436",
@@ -501,7 +571,9 @@
     "price": 0.28,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M249 | Deep Relief"
+    "item_name": "M249 | Deep Relief",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "983"
   },
   {
     "id": "skin-921436",
@@ -515,7 +587,9 @@
     "price": 0.23,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M249 | Deep Relief"
+    "item_name": "M249 | Deep Relief",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "983"
   },
   {
     "id": "skin-921436",
@@ -529,7 +603,9 @@
     "price": 0.3,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M249 | Deep Relief"
+    "item_name": "M249 | Deep Relief",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "983"
   },
   {
     "id": "skin-921436",
@@ -543,7 +619,9 @@
     "price": 0.7,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M249 | Deep Relief"
+    "item_name": "M249 | Deep Relief",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "983"
   },
   {
     "id": "skin-921436",
@@ -557,7 +635,9 @@
     "price": 0.86,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M249 | Deep Relief"
+    "item_name": "M249 | Deep Relief",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "983"
   },
   {
     "id": "skin-921436",
@@ -571,7 +651,9 @@
     "price": 0.33,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M249 | Deep Relief"
+    "item_name": "M249 | Deep Relief",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "983"
   },
   {
     "id": "skin-921436",
@@ -585,7 +667,9 @@
     "price": 1.97,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M249 | Deep Relief"
+    "item_name": "M249 | Deep Relief",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "983"
   },
   {
     "id": "skin-921436",
@@ -599,7 +683,9 @@
     "price": 0.25,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M249 | Deep Relief"
+    "item_name": "M249 | Deep Relief",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "983"
   },
   {
     "id": "skin-921436",
@@ -613,7 +699,9 @@
     "price": 0.39,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M249 | Deep Relief"
+    "item_name": "M249 | Deep Relief",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "983"
   },
   {
     "id": "skin-921436",
@@ -627,7 +715,9 @@
     "price": 0.47,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M249 | Deep Relief"
+    "item_name": "M249 | Deep Relief",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "983"
   },
   {
     "id": "skin-921236",
@@ -641,7 +731,9 @@
     "price": 2.65,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M249 | Midnight Palm"
+    "item_name": "M249 | Midnight Palm",
+    "rarity": "Industrial Grade",
+    "paint_index": "933"
   },
   {
     "id": "skin-921236",
@@ -655,7 +747,9 @@
     "price": 2.82,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M249 | Midnight Palm"
+    "item_name": "M249 | Midnight Palm",
+    "rarity": "Industrial Grade",
+    "paint_index": "933"
   },
   {
     "id": "skin-921236",
@@ -669,7 +763,9 @@
     "price": 2.62,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M249 | Midnight Palm"
+    "item_name": "M249 | Midnight Palm",
+    "rarity": "Industrial Grade",
+    "paint_index": "933"
   },
   {
     "id": "skin-921236",
@@ -683,7 +779,9 @@
     "price": 2.74,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M249 | Midnight Palm"
+    "item_name": "M249 | Midnight Palm",
+    "rarity": "Industrial Grade",
+    "paint_index": "933"
   },
   {
     "id": "skin-921236",
@@ -697,7 +795,9 @@
     "price": 2.72,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M249 | Midnight Palm"
+    "item_name": "M249 | Midnight Palm",
+    "rarity": "Industrial Grade",
+    "paint_index": "933"
   },
   {
     "id": "skin-921672",
@@ -711,7 +811,9 @@
     "price": 0.19,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M249 | O.S.I.P.R."
+    "item_name": "M249 | O.S.I.P.R.",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1042"
   },
   {
     "id": "skin-921672",
@@ -725,7 +827,9 @@
     "price": 0.06,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M249 | O.S.I.P.R."
+    "item_name": "M249 | O.S.I.P.R.",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1042"
   },
   {
     "id": "skin-921672",
@@ -739,7 +843,9 @@
     "price": 0.26,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M249 | O.S.I.P.R."
+    "item_name": "M249 | O.S.I.P.R.",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1042"
   },
   {
     "id": "skin-921672",
@@ -753,7 +859,9 @@
     "price": 0.2,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M249 | O.S.I.P.R."
+    "item_name": "M249 | O.S.I.P.R.",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1042"
   },
   {
     "id": "skin-921672",
@@ -767,7 +875,9 @@
     "price": 0.17,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M249 | O.S.I.P.R."
+    "item_name": "M249 | O.S.I.P.R.",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1042"
   },
   {
     "id": "skin-921672",
@@ -781,7 +891,9 @@
     "price": 0.45,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M249 | O.S.I.P.R."
+    "item_name": "M249 | O.S.I.P.R.",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1042"
   },
   {
     "id": "skin-921672",
@@ -795,7 +907,9 @@
     "price": 0.06,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M249 | O.S.I.P.R."
+    "item_name": "M249 | O.S.I.P.R.",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1042"
   },
   {
     "id": "skin-921672",
@@ -809,7 +923,9 @@
     "price": 0.98,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M249 | O.S.I.P.R."
+    "item_name": "M249 | O.S.I.P.R.",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1042"
   },
   {
     "id": "skin-921672",
@@ -823,7 +939,9 @@
     "price": 0.05,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M249 | O.S.I.P.R."
+    "item_name": "M249 | O.S.I.P.R.",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1042"
   },
   {
     "id": "skin-921672",
@@ -837,7 +955,9 @@
     "price": 0.12,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M249 | O.S.I.P.R."
+    "item_name": "M249 | O.S.I.P.R.",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1042"
   },
   {
     "id": "skin-921112",
@@ -851,7 +971,9 @@
     "price": 0.71,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M249 | Aztec"
+    "item_name": "M249 | Aztec",
+    "rarity": "Restricted",
+    "paint_index": "902"
   },
   {
     "id": "skin-921112",
@@ -865,7 +987,9 @@
     "price": 0.99,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M249 | Aztec"
+    "item_name": "M249 | Aztec",
+    "rarity": "Restricted",
+    "paint_index": "902"
   },
   {
     "id": "skin-921112",
@@ -879,7 +1003,9 @@
     "price": 1.27,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M249 | Aztec"
+    "item_name": "M249 | Aztec",
+    "rarity": "Restricted",
+    "paint_index": "902"
   },
   {
     "id": "skin-921112",
@@ -893,7 +1019,9 @@
     "price": 1.82,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M249 | Aztec"
+    "item_name": "M249 | Aztec",
+    "rarity": "Restricted",
+    "paint_index": "902"
   },
   {
     "id": "skin-921112",
@@ -907,7 +1035,9 @@
     "price": 0.44,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M249 | Aztec"
+    "item_name": "M249 | Aztec",
+    "rarity": "Restricted",
+    "paint_index": "902"
   },
   {
     "id": "skin-921112",
@@ -921,7 +1051,9 @@
     "price": 0.39,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M249 | Aztec"
+    "item_name": "M249 | Aztec",
+    "rarity": "Restricted",
+    "paint_index": "902"
   },
   {
     "id": "skin-921112",
@@ -935,7 +1067,9 @@
     "price": 0.84,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M249 | Aztec"
+    "item_name": "M249 | Aztec",
+    "rarity": "Restricted",
+    "paint_index": "902"
   },
   {
     "id": "skin-921112",
@@ -949,7 +1083,9 @@
     "price": 3.25,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M249 | Aztec"
+    "item_name": "M249 | Aztec",
+    "rarity": "Restricted",
+    "paint_index": "902"
   },
   {
     "id": "skin-921112",
@@ -963,7 +1099,9 @@
     "price": 0.47,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M249 | Aztec"
+    "item_name": "M249 | Aztec",
+    "rarity": "Restricted",
+    "paint_index": "902"
   },
   {
     "id": "skin-921112",
@@ -977,7 +1115,9 @@
     "price": 0.72,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M249 | Aztec"
+    "item_name": "M249 | Aztec",
+    "rarity": "Restricted",
+    "paint_index": "902"
   },
   {
     "id": "skin-918184",
@@ -991,7 +1131,9 @@
     "price": 0.19,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M249 | Predator"
+    "item_name": "M249 | Predator",
+    "rarity": "Consumer Grade",
+    "paint_index": "170"
   },
   {
     "id": "skin-918184",
@@ -1005,7 +1147,9 @@
     "price": 0.16,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M249 | Predator"
+    "item_name": "M249 | Predator",
+    "rarity": "Consumer Grade",
+    "paint_index": "170"
   },
   {
     "id": "skin-918184",
@@ -1019,7 +1163,9 @@
     "price": 1.08,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M249 | Predator"
+    "item_name": "M249 | Predator",
+    "rarity": "Consumer Grade",
+    "paint_index": "170"
   },
   {
     "id": "skin-918184",
@@ -1033,7 +1179,9 @@
     "price": 0.16,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M249 | Predator"
+    "item_name": "M249 | Predator",
+    "rarity": "Consumer Grade",
+    "paint_index": "170"
   },
   {
     "id": "skin-918184",
@@ -1047,7 +1195,9 @@
     "price": 0.16,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M249 | Predator"
+    "item_name": "M249 | Predator",
+    "rarity": "Consumer Grade",
+    "paint_index": "170"
   },
   {
     "id": "skin-917592",
@@ -1061,7 +1211,9 @@
     "price": 0.26,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M249 | Contrast Spray"
+    "item_name": "M249 | Contrast Spray",
+    "rarity": "Consumer Grade",
+    "paint_index": "22"
   },
   {
     "id": "skin-917592",
@@ -1075,7 +1227,9 @@
     "price": 0.35,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M249 | Contrast Spray"
+    "item_name": "M249 | Contrast Spray",
+    "rarity": "Consumer Grade",
+    "paint_index": "22"
   },
   {
     "id": "skin-917592",
@@ -1089,7 +1243,9 @@
     "price": 0.19,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M249 | Contrast Spray"
+    "item_name": "M249 | Contrast Spray",
+    "rarity": "Consumer Grade",
+    "paint_index": "22"
   },
   {
     "id": "skin-917592",
@@ -1103,7 +1259,9 @@
     "price": 4.11,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M249 | Contrast Spray"
+    "item_name": "M249 | Contrast Spray",
+    "rarity": "Consumer Grade",
+    "paint_index": "22"
   },
   {
     "id": "skin-917592",
@@ -1117,7 +1275,9 @@
     "price": 0.2,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M249 | Contrast Spray"
+    "item_name": "M249 | Contrast Spray",
+    "rarity": "Consumer Grade",
+    "paint_index": "22"
   },
   {
     "id": "skin-920096",
@@ -1131,7 +1291,9 @@
     "price": 1.8,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M249 | Emerald Poison Dart"
+    "item_name": "M249 | Emerald Poison Dart",
+    "rarity": "Restricted",
+    "paint_index": "648"
   },
   {
     "id": "skin-920096",
@@ -1145,7 +1307,9 @@
     "price": 5.39,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M249 | Emerald Poison Dart"
+    "item_name": "M249 | Emerald Poison Dart",
+    "rarity": "Restricted",
+    "paint_index": "648"
   },
   {
     "id": "skin-920096",
@@ -1159,7 +1323,9 @@
     "price": 2.84,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M249 | Emerald Poison Dart"
+    "item_name": "M249 | Emerald Poison Dart",
+    "rarity": "Restricted",
+    "paint_index": "648"
   },
   {
     "id": "skin-920096",
@@ -1173,7 +1339,9 @@
     "price": 1.97,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M249 | Emerald Poison Dart"
+    "item_name": "M249 | Emerald Poison Dart",
+    "rarity": "Restricted",
+    "paint_index": "648"
   },
   {
     "id": "skin-920096",
@@ -1187,7 +1355,9 @@
     "price": 1.4,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M249 | Emerald Poison Dart"
+    "item_name": "M249 | Emerald Poison Dart",
+    "rarity": "Restricted",
+    "paint_index": "648"
   },
   {
     "id": "skin-920096",
@@ -1201,7 +1371,9 @@
     "price": 1.08,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M249 | Emerald Poison Dart"
+    "item_name": "M249 | Emerald Poison Dart",
+    "rarity": "Restricted",
+    "paint_index": "648"
   },
   {
     "id": "skin-920096",
@@ -1215,7 +1387,9 @@
     "price": 1.26,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M249 | Emerald Poison Dart"
+    "item_name": "M249 | Emerald Poison Dart",
+    "rarity": "Restricted",
+    "paint_index": "648"
   },
   {
     "id": "skin-920096",
@@ -1229,7 +1403,9 @@
     "price": 10.28,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M249 | Emerald Poison Dart"
+    "item_name": "M249 | Emerald Poison Dart",
+    "rarity": "Restricted",
+    "paint_index": "648"
   },
   {
     "id": "skin-919108",
@@ -1243,7 +1419,9 @@
     "price": 0.3,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M249 | System Lock"
+    "item_name": "M249 | System Lock",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "401"
   },
   {
     "id": "skin-919108",
@@ -1257,7 +1435,9 @@
     "price": 0.6,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M249 | System Lock"
+    "item_name": "M249 | System Lock",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "401"
   },
   {
     "id": "skin-919108",
@@ -1271,7 +1451,9 @@
     "price": 0.11,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M249 | System Lock"
+    "item_name": "M249 | System Lock",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "401"
   },
   {
     "id": "skin-919108",
@@ -1285,7 +1467,9 @@
     "price": 0.54,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M249 | System Lock"
+    "item_name": "M249 | System Lock",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "401"
   },
   {
     "id": "skin-919108",
@@ -1299,7 +1483,9 @@
     "price": 0.12,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M249 | System Lock"
+    "item_name": "M249 | System Lock",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "401"
   },
   {
     "id": "skin-919108",
@@ -1313,7 +1499,9 @@
     "price": 0.31,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M249 | System Lock"
+    "item_name": "M249 | System Lock",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "401"
   },
   {
     "id": "skin-919108",
@@ -1327,7 +1515,9 @@
     "price": 0.35,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M249 | System Lock"
+    "item_name": "M249 | System Lock",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "401"
   },
   {
     "id": "skin-919108",
@@ -1341,7 +1531,9 @@
     "price": 0.19,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M249 | System Lock"
+    "item_name": "M249 | System Lock",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "401"
   },
   {
     "id": "skin-919108",
@@ -1355,7 +1547,9 @@
     "price": 1.15,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M249 | System Lock"
+    "item_name": "M249 | System Lock",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "401"
   },
   {
     "id": "skin-919108",
@@ -1369,7 +1563,9 @@
     "price": 0.38,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M249 | System Lock"
+    "item_name": "M249 | System Lock",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "401"
   },
   {
     "id": "skin-919392",
@@ -1383,7 +1579,9 @@
     "price": 1.16,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M249 | Impact Drill"
+    "item_name": "M249 | Impact Drill",
+    "rarity": "Consumer Grade",
+    "paint_index": "472"
   },
   {
     "id": "skin-919392",
@@ -1397,7 +1595,9 @@
     "price": 0.92,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M249 | Impact Drill"
+    "item_name": "M249 | Impact Drill",
+    "rarity": "Consumer Grade",
+    "paint_index": "472"
   },
   {
     "id": "skin-919392",
@@ -1411,7 +1611,9 @@
     "price": 2.45,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M249 | Impact Drill"
+    "item_name": "M249 | Impact Drill",
+    "rarity": "Consumer Grade",
+    "paint_index": "472"
   },
   {
     "id": "skin-919392",
@@ -1425,7 +1627,9 @@
     "price": 0.79,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M249 | Impact Drill"
+    "item_name": "M249 | Impact Drill",
+    "rarity": "Consumer Grade",
+    "paint_index": "472"
   },
   {
     "id": "skin-919392",
@@ -1439,7 +1643,9 @@
     "price": 0.77,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M249 | Impact Drill"
+    "item_name": "M249 | Impact Drill",
+    "rarity": "Consumer Grade",
+    "paint_index": "472"
   },
   {
     "id": "skin-922096",
@@ -1453,7 +1659,9 @@
     "price": 0.37,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M249 | Downtown"
+    "item_name": "M249 | Downtown",
+    "rarity": "Restricted",
+    "paint_index": "1148"
   },
   {
     "id": "skin-922096",
@@ -1467,7 +1675,9 @@
     "price": 1.27,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M249 | Downtown"
+    "item_name": "M249 | Downtown",
+    "rarity": "Restricted",
+    "paint_index": "1148"
   },
   {
     "id": "skin-922096",
@@ -1481,7 +1691,9 @@
     "price": 3.27,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M249 | Downtown"
+    "item_name": "M249 | Downtown",
+    "rarity": "Restricted",
+    "paint_index": "1148"
   },
   {
     "id": "skin-922096",
@@ -1495,7 +1707,9 @@
     "price": 0.89,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M249 | Downtown"
+    "item_name": "M249 | Downtown",
+    "rarity": "Restricted",
+    "paint_index": "1148"
   },
   {
     "id": "skin-922096",
@@ -1509,7 +1723,9 @@
     "price": 0.41,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M249 | Downtown"
+    "item_name": "M249 | Downtown",
+    "rarity": "Restricted",
+    "paint_index": "1148"
   },
   {
     "id": "skin-922096",
@@ -1523,7 +1739,9 @@
     "price": 0.64,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M249 | Downtown"
+    "item_name": "M249 | Downtown",
+    "rarity": "Restricted",
+    "paint_index": "1148"
   },
   {
     "id": "skin-922096",
@@ -1537,7 +1755,9 @@
     "price": 0.82,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M249 | Downtown"
+    "item_name": "M249 | Downtown",
+    "rarity": "Restricted",
+    "paint_index": "1148"
   },
   {
     "id": "skin-922096",
@@ -1551,7 +1771,9 @@
     "price": 1.72,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M249 | Downtown"
+    "item_name": "M249 | Downtown",
+    "rarity": "Restricted",
+    "paint_index": "1148"
   },
   {
     "id": "skin-922096",
@@ -1565,7 +1787,9 @@
     "price": 0.67,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M249 | Downtown"
+    "item_name": "M249 | Downtown",
+    "rarity": "Restricted",
+    "paint_index": "1148"
   },
   {
     "id": "skin-922096",
@@ -1579,7 +1803,9 @@
     "price": 0.38,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M249 | Downtown"
+    "item_name": "M249 | Downtown",
+    "rarity": "Restricted",
+    "paint_index": "1148"
   },
   {
     "id": "skin-922472",
@@ -1593,7 +1819,9 @@
     "price": 0.02,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M249 | Submerged"
+    "item_name": "M249 | Submerged",
+    "rarity": "Consumer Grade",
+    "paint_index": "1242"
   },
   {
     "id": "skin-922472",
@@ -1607,7 +1835,9 @@
     "price": 0.02,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M249 | Submerged"
+    "item_name": "M249 | Submerged",
+    "rarity": "Consumer Grade",
+    "paint_index": "1242"
   },
   {
     "id": "skin-922472",
@@ -1621,7 +1851,9 @@
     "price": 0.03,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M249 | Submerged"
+    "item_name": "M249 | Submerged",
+    "rarity": "Consumer Grade",
+    "paint_index": "1242"
   },
   {
     "id": "skin-922472",
@@ -1635,7 +1867,9 @@
     "price": 0.02,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M249 | Submerged"
+    "item_name": "M249 | Submerged",
+    "rarity": "Consumer Grade",
+    "paint_index": "1242"
   },
   {
     "id": "skin-922472",
@@ -1649,7 +1883,9 @@
     "price": 0.1,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M249 | Submerged"
+    "item_name": "M249 | Submerged",
+    "rarity": "Consumer Grade",
+    "paint_index": "1242"
   },
   {
     "id": "skin-919692",
@@ -1663,7 +1899,9 @@
     "price": 0.12,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M249 | Spectre"
+    "item_name": "M249 | Spectre",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "547"
   },
   {
     "id": "skin-919692",
@@ -1677,7 +1915,9 @@
     "price": 0.1,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M249 | Spectre"
+    "item_name": "M249 | Spectre",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "547"
   },
   {
     "id": "skin-919692",
@@ -1691,7 +1931,9 @@
     "price": 0.78,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M249 | Spectre"
+    "item_name": "M249 | Spectre",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "547"
   },
   {
     "id": "skin-919692",
@@ -1705,7 +1947,9 @@
     "price": 0.19,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M249 | Spectre"
+    "item_name": "M249 | Spectre",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "547"
   },
   {
     "id": "skin-919692",
@@ -1719,7 +1963,9 @@
     "price": 0.1,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M249 | Spectre"
+    "item_name": "M249 | Spectre",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "547"
   },
   {
     "id": "skin-919692",
@@ -1733,7 +1979,9 @@
     "price": 0.13,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M249 | Spectre"
+    "item_name": "M249 | Spectre",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "547"
   },
   {
     "id": "skin-919692",
@@ -1747,7 +1995,9 @@
     "price": 0.31,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M249 | Spectre"
+    "item_name": "M249 | Spectre",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "547"
   },
   {
     "id": "skin-919692",
@@ -1761,7 +2011,9 @@
     "price": 0.05,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M249 | Spectre"
+    "item_name": "M249 | Spectre",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "547"
   },
   {
     "id": "skin-919692",
@@ -1775,7 +2027,9 @@
     "price": 0.05,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M249 | Spectre"
+    "item_name": "M249 | Spectre",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "547"
   },
   {
     "id": "skin-919692",
@@ -1789,7 +2043,9 @@
     "price": 0.05,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M249 | Spectre"
+    "item_name": "M249 | Spectre",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "547"
   },
   {
     "id": "skin-918476",
@@ -1803,7 +2059,9 @@
     "price": 0.06,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M249 | Gator Mesh"
+    "item_name": "M249 | Gator Mesh",
+    "rarity": "Industrial Grade",
+    "paint_index": "243"
   },
   {
     "id": "skin-918476",
@@ -1817,7 +2075,9 @@
     "price": 0.13,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M249 | Gator Mesh"
+    "item_name": "M249 | Gator Mesh",
+    "rarity": "Industrial Grade",
+    "paint_index": "243"
   },
   {
     "id": "skin-918476",
@@ -1831,7 +2091,9 @@
     "price": 0.09,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M249 | Gator Mesh"
+    "item_name": "M249 | Gator Mesh",
+    "rarity": "Industrial Grade",
+    "paint_index": "243"
   },
   {
     "id": "skin-918476",
@@ -1845,7 +2107,9 @@
     "price": 0.06,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M249 | Gator Mesh"
+    "item_name": "M249 | Gator Mesh",
+    "rarity": "Industrial Grade",
+    "paint_index": "243"
   },
   {
     "id": "skin-918476",
@@ -1859,7 +2123,9 @@
     "price": 0.07,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M249 | Gator Mesh"
+    "item_name": "M249 | Gator Mesh",
+    "rarity": "Industrial Grade",
+    "paint_index": "243"
   },
   {
     "id": "skin-920812",
@@ -1873,7 +2139,9 @@
     "price": 10,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M249 | Humidor"
+    "item_name": "M249 | Humidor",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "827"
   },
   {
     "id": "skin-920812",
@@ -1887,7 +2155,9 @@
     "price": 10.79,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M249 | Humidor"
+    "item_name": "M249 | Humidor",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "827"
   },
   {
     "id": "skin-920812",
@@ -1901,7 +2171,9 @@
     "price": 10.93,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M249 | Humidor"
+    "item_name": "M249 | Humidor",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "827"
   },
   {
     "id": "skin-920812",
@@ -1915,7 +2187,9 @@
     "price": 9.87,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M249 | Humidor"
+    "item_name": "M249 | Humidor",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "827"
   },
   {
     "id": "skin-920812",
@@ -1929,7 +2203,9 @@
     "price": 9.87,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M249 | Humidor"
+    "item_name": "M249 | Humidor",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "827"
   },
   {
     "id": "skin-917804",
@@ -1943,7 +2219,9 @@
     "price": 27.4,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M249 | Blizzard Marbleized"
+    "item_name": "M249 | Blizzard Marbleized",
+    "rarity": "Industrial Grade",
+    "paint_index": "75"
   },
   {
     "id": "skin-917804",
@@ -1957,7 +2235,9 @@
     "price": 134.18,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M249 | Blizzard Marbleized"
+    "item_name": "M249 | Blizzard Marbleized",
+    "rarity": "Industrial Grade",
+    "paint_index": "75"
   },
   {
     "id": "skin-917804",
@@ -1971,7 +2251,9 @@
     "price": 5.2,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M249 | Blizzard Marbleized"
+    "item_name": "M249 | Blizzard Marbleized",
+    "rarity": "Industrial Grade",
+    "paint_index": "75"
   },
   {
     "id": "skin-917804",
@@ -1985,7 +2267,9 @@
     "price": 12.98,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M249 | Blizzard Marbleized"
+    "item_name": "M249 | Blizzard Marbleized",
+    "rarity": "Industrial Grade",
+    "paint_index": "75"
   },
   {
     "id": "skin-917804",
@@ -1999,7 +2283,9 @@
     "price": 6.1,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M249 | Blizzard Marbleized"
+    "item_name": "M249 | Blizzard Marbleized",
+    "rarity": "Industrial Grade",
+    "paint_index": "75"
   },
   {
     "id": "skin-918108",
@@ -2013,7 +2299,9 @@
     "price": 1.91,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M249 | Jungle"
+    "item_name": "M249 | Jungle",
+    "rarity": "Consumer Grade",
+    "paint_index": "151"
   },
   {
     "id": "skin-918108",
@@ -2027,7 +2315,9 @@
     "price": 1.7,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M249 | Jungle"
+    "item_name": "M249 | Jungle",
+    "rarity": "Consumer Grade",
+    "paint_index": "151"
   },
   {
     "id": "skin-918108",
@@ -2041,7 +2331,9 @@
     "price": 1.97,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M249 | Jungle"
+    "item_name": "M249 | Jungle",
+    "rarity": "Consumer Grade",
+    "paint_index": "151"
   },
   {
     "id": "skin-918108",
@@ -2055,7 +2347,9 @@
     "price": 14.81,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M249 | Jungle"
+    "item_name": "M249 | Jungle",
+    "rarity": "Consumer Grade",
+    "paint_index": "151"
   },
   {
     "id": "skin-918108",
@@ -2069,7 +2363,9 @@
     "price": 1.93,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M249 | Jungle"
+    "item_name": "M249 | Jungle",
+    "rarity": "Consumer Grade",
+    "paint_index": "151"
   },
   {
     "id": "skin-918312",
@@ -2083,7 +2379,9 @@
     "price": 1.7,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M249 | Jungle DDPAT"
+    "item_name": "M249 | Jungle DDPAT",
+    "rarity": "Consumer Grade",
+    "paint_index": "202"
   },
   {
     "id": "skin-918312",
@@ -2097,7 +2395,9 @@
     "price": 2.4,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M249 | Jungle DDPAT"
+    "item_name": "M249 | Jungle DDPAT",
+    "rarity": "Consumer Grade",
+    "paint_index": "202"
   },
   {
     "id": "skin-918312",
@@ -2111,7 +2411,9 @@
     "price": 12.75,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M249 | Jungle DDPAT"
+    "item_name": "M249 | Jungle DDPAT",
+    "rarity": "Consumer Grade",
+    "paint_index": "202"
   },
   {
     "id": "skin-918312",
@@ -2125,7 +2427,9 @@
     "price": 1.08,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M249 | Jungle DDPAT"
+    "item_name": "M249 | Jungle DDPAT",
+    "rarity": "Consumer Grade",
+    "paint_index": "202"
   },
   {
     "id": "skin-918312",
@@ -2139,6 +2443,8 @@
     "price": 0.83,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M249 | Jungle DDPAT"
+    "item_name": "M249 | Jungle DDPAT",
+    "rarity": "Consumer Grade",
+    "paint_index": "202"
   }
 ]

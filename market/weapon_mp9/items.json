@@ -11,7 +11,9 @@
     "price": 0.37,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Dart"
+    "item_name": "MP9 | Dart",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "386"
   },
   {
     "id": "skin-2229768",
@@ -25,7 +27,9 @@
     "price": 1.07,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP9 | Dart"
+    "item_name": "MP9 | Dart",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "386"
   },
   {
     "id": "skin-2229768",
@@ -39,7 +43,9 @@
     "price": 0.31,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Dart"
+    "item_name": "MP9 | Dart",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "386"
   },
   {
     "id": "skin-2229768",
@@ -53,7 +59,9 @@
     "price": 1.4,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP9 | Dart"
+    "item_name": "MP9 | Dart",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "386"
   },
   {
     "id": "skin-2229768",
@@ -67,7 +75,9 @@
     "price": 0.53,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Dart"
+    "item_name": "MP9 | Dart",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "386"
   },
   {
     "id": "skin-2229768",
@@ -81,7 +91,9 @@
     "price": 6.44,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP9 | Dart"
+    "item_name": "MP9 | Dart",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "386"
   },
   {
     "id": "skin-2229768",
@@ -95,7 +107,9 @@
     "price": 1.89,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP9 | Dart"
+    "item_name": "MP9 | Dart",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "386"
   },
   {
     "id": "skin-2229768",
@@ -109,7 +123,9 @@
     "price": 1.12,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP9 | Dart"
+    "item_name": "MP9 | Dart",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "386"
   },
   {
     "id": "skin-2229768",
@@ -123,7 +139,9 @@
     "price": 0.55,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Dart"
+    "item_name": "MP9 | Dart",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "386"
   },
   {
     "id": "skin-2229768",
@@ -137,7 +155,9 @@
     "price": 0.33,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Dart"
+    "item_name": "MP9 | Dart",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "386"
   },
   {
     "id": "skin-2228624",
@@ -151,7 +171,9 @@
     "price": 0.31,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Storm"
+    "item_name": "MP9 | Storm",
+    "rarity": "Consumer Grade",
+    "paint_index": "100"
   },
   {
     "id": "skin-2228624",
@@ -165,7 +187,9 @@
     "price": 9.28,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Storm"
+    "item_name": "MP9 | Storm",
+    "rarity": "Consumer Grade",
+    "paint_index": "100"
   },
   {
     "id": "skin-2228624",
@@ -179,7 +203,9 @@
     "price": 0.2,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Storm"
+    "item_name": "MP9 | Storm",
+    "rarity": "Consumer Grade",
+    "paint_index": "100"
   },
   {
     "id": "skin-2228624",
@@ -193,7 +219,9 @@
     "price": 0.96,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Storm"
+    "item_name": "MP9 | Storm",
+    "rarity": "Consumer Grade",
+    "paint_index": "100"
   },
   {
     "id": "skin-2228624",
@@ -207,7 +235,9 @@
     "price": 0.2,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Storm"
+    "item_name": "MP9 | Storm",
+    "rarity": "Consumer Grade",
+    "paint_index": "100"
   },
   {
     "id": "skin-2228468",
@@ -221,7 +251,9 @@
     "price": 13.71,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Hypnotic"
+    "item_name": "MP9 | Hypnotic",
+    "rarity": "Restricted",
+    "paint_index": "61"
   },
   {
     "id": "skin-2228468",
@@ -235,7 +267,9 @@
     "price": 8.64,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Hypnotic"
+    "item_name": "MP9 | Hypnotic",
+    "rarity": "Restricted",
+    "paint_index": "61"
   },
   {
     "id": "skin-2228468",
@@ -249,7 +283,9 @@
     "price": 23.45,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP9 | Hypnotic"
+    "item_name": "MP9 | Hypnotic",
+    "rarity": "Restricted",
+    "paint_index": "61"
   },
   {
     "id": "skin-2228468",
@@ -263,7 +299,9 @@
     "price": 25.13,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP9 | Hypnotic"
+    "item_name": "MP9 | Hypnotic",
+    "rarity": "Restricted",
+    "paint_index": "61"
   },
   {
     "id": "skin-2231160",
@@ -277,7 +315,9 @@
     "price": 1892.41,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Wild Lily"
+    "item_name": "MP9 | Wild Lily",
+    "rarity": "Classified",
+    "paint_index": "734"
   },
   {
     "id": "skin-2231160",
@@ -291,7 +331,9 @@
     "price": 1726.2,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Wild Lily"
+    "item_name": "MP9 | Wild Lily",
+    "rarity": "Classified",
+    "paint_index": "734"
   },
   {
     "id": "skin-2231160",
@@ -305,7 +347,9 @@
     "price": 1888.77,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Wild Lily"
+    "item_name": "MP9 | Wild Lily",
+    "rarity": "Classified",
+    "paint_index": "734"
   },
   {
     "id": "skin-2231160",
@@ -319,7 +363,9 @@
     "price": 1371.17,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Wild Lily"
+    "item_name": "MP9 | Wild Lily",
+    "rarity": "Classified",
+    "paint_index": "734"
   },
   {
     "id": "skin-2231160",
@@ -333,7 +379,9 @@
     "price": 0,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Wild Lily"
+    "item_name": "MP9 | Wild Lily",
+    "rarity": "Classified",
+    "paint_index": "734"
   },
   {
     "id": "skin-2232760",
@@ -347,7 +395,9 @@
     "price": 2.58,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Starlight Protector"
+    "item_name": "MP9 | Starlight Protector",
+    "rarity": "Covert",
+    "paint_index": "1134"
   },
   {
     "id": "skin-2232760",
@@ -361,7 +411,9 @@
     "price": 6.72,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP9 | Starlight Protector"
+    "item_name": "MP9 | Starlight Protector",
+    "rarity": "Covert",
+    "paint_index": "1134"
   },
   {
     "id": "skin-2232760",
@@ -375,7 +427,9 @@
     "price": 5.32,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP9 | Starlight Protector"
+    "item_name": "MP9 | Starlight Protector",
+    "rarity": "Covert",
+    "paint_index": "1134"
   },
   {
     "id": "skin-2232760",
@@ -389,7 +443,9 @@
     "price": 55.84,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP9 | Starlight Protector"
+    "item_name": "MP9 | Starlight Protector",
+    "rarity": "Covert",
+    "paint_index": "1134"
   },
   {
     "id": "skin-2232760",
@@ -403,7 +459,9 @@
     "price": 16.73,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP9 | Starlight Protector"
+    "item_name": "MP9 | Starlight Protector",
+    "rarity": "Covert",
+    "paint_index": "1134"
   },
   {
     "id": "skin-2232760",
@@ -417,7 +475,9 @@
     "price": 5.95,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Starlight Protector"
+    "item_name": "MP9 | Starlight Protector",
+    "rarity": "Covert",
+    "paint_index": "1134"
   },
   {
     "id": "skin-2232760",
@@ -431,7 +491,9 @@
     "price": 1.85,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Starlight Protector"
+    "item_name": "MP9 | Starlight Protector",
+    "rarity": "Covert",
+    "paint_index": "1134"
   },
   {
     "id": "skin-2232760",
@@ -445,7 +507,9 @@
     "price": 14.54,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Starlight Protector"
+    "item_name": "MP9 | Starlight Protector",
+    "rarity": "Covert",
+    "paint_index": "1134"
   },
   {
     "id": "skin-2232760",
@@ -459,7 +523,9 @@
     "price": 10.41,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP9 | Starlight Protector"
+    "item_name": "MP9 | Starlight Protector",
+    "rarity": "Covert",
+    "paint_index": "1134"
   },
   {
     "id": "skin-2232760",
@@ -473,7 +539,9 @@
     "price": 3.62,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Starlight Protector"
+    "item_name": "MP9 | Starlight Protector",
+    "rarity": "Covert",
+    "paint_index": "1134"
   },
   {
     "id": "skin-2229020",
@@ -487,7 +555,9 @@
     "price": 7.51,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Dry Season"
+    "item_name": "MP9 | Dry Season",
+    "rarity": "Consumer Grade",
+    "paint_index": "199"
   },
   {
     "id": "skin-2229020",
@@ -501,7 +571,9 @@
     "price": 4.01,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Dry Season"
+    "item_name": "MP9 | Dry Season",
+    "rarity": "Consumer Grade",
+    "paint_index": "199"
   },
   {
     "id": "skin-2229020",
@@ -515,7 +587,9 @@
     "price": 2.23,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Dry Season"
+    "item_name": "MP9 | Dry Season",
+    "rarity": "Consumer Grade",
+    "paint_index": "199"
   },
   {
     "id": "skin-2229020",
@@ -529,7 +603,9 @@
     "price": 36.89,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Dry Season"
+    "item_name": "MP9 | Dry Season",
+    "rarity": "Consumer Grade",
+    "paint_index": "199"
   },
   {
     "id": "skin-2229020",
@@ -543,7 +619,9 @@
     "price": 1.28,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Dry Season"
+    "item_name": "MP9 | Dry Season",
+    "rarity": "Consumer Grade",
+    "paint_index": "199"
   },
   {
     "id": "skin-2231244",
@@ -557,7 +635,9 @@
     "price": 0.1,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Slide"
+    "item_name": "MP9 | Slide",
+    "rarity": "Consumer Grade",
+    "paint_index": "755"
   },
   {
     "id": "skin-2231244",
@@ -571,7 +651,9 @@
     "price": 0.01,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Slide"
+    "item_name": "MP9 | Slide",
+    "rarity": "Consumer Grade",
+    "paint_index": "755"
   },
   {
     "id": "skin-2231244",
@@ -585,7 +667,9 @@
     "price": 0.03,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Slide"
+    "item_name": "MP9 | Slide",
+    "rarity": "Consumer Grade",
+    "paint_index": "755"
   },
   {
     "id": "skin-2231244",
@@ -599,7 +683,9 @@
     "price": 0.02,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Slide"
+    "item_name": "MP9 | Slide",
+    "rarity": "Consumer Grade",
+    "paint_index": "755"
   },
   {
     "id": "skin-2231244",
@@ -613,7 +699,9 @@
     "price": 0.02,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Slide"
+    "item_name": "MP9 | Slide",
+    "rarity": "Consumer Grade",
+    "paint_index": "755"
   },
   {
     "id": "skin-2231864",
@@ -627,7 +715,9 @@
     "price": 2.88,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Hydra"
+    "item_name": "MP9 | Hydra",
+    "rarity": "Classified",
+    "paint_index": "910"
   },
   {
     "id": "skin-2231864",
@@ -641,7 +731,9 @@
     "price": 3.57,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Hydra"
+    "item_name": "MP9 | Hydra",
+    "rarity": "Classified",
+    "paint_index": "910"
   },
   {
     "id": "skin-2231864",
@@ -655,7 +747,9 @@
     "price": 12.05,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP9 | Hydra"
+    "item_name": "MP9 | Hydra",
+    "rarity": "Classified",
+    "paint_index": "910"
   },
   {
     "id": "skin-2231864",
@@ -669,7 +763,9 @@
     "price": 6.09,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP9 | Hydra"
+    "item_name": "MP9 | Hydra",
+    "rarity": "Classified",
+    "paint_index": "910"
   },
   {
     "id": "skin-2231864",
@@ -683,7 +779,9 @@
     "price": 7.42,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP9 | Hydra"
+    "item_name": "MP9 | Hydra",
+    "rarity": "Classified",
+    "paint_index": "910"
   },
   {
     "id": "skin-2231864",
@@ -697,7 +795,9 @@
     "price": 6.15,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP9 | Hydra"
+    "item_name": "MP9 | Hydra",
+    "rarity": "Classified",
+    "paint_index": "910"
   },
   {
     "id": "skin-2231864",
@@ -711,7 +811,9 @@
     "price": 5.35,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Hydra"
+    "item_name": "MP9 | Hydra",
+    "rarity": "Classified",
+    "paint_index": "910"
   },
   {
     "id": "skin-2231864",
@@ -725,7 +827,9 @@
     "price": 11.75,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Hydra"
+    "item_name": "MP9 | Hydra",
+    "rarity": "Classified",
+    "paint_index": "910"
   },
   {
     "id": "skin-2231864",
@@ -739,7 +843,9 @@
     "price": 3.44,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Hydra"
+    "item_name": "MP9 | Hydra",
+    "rarity": "Classified",
+    "paint_index": "910"
   },
   {
     "id": "skin-2231864",
@@ -753,7 +859,9 @@
     "price": 29,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP9 | Hydra"
+    "item_name": "MP9 | Hydra",
+    "rarity": "Classified",
+    "paint_index": "910"
   },
   {
     "id": "skin-2230016",
@@ -767,7 +875,9 @@
     "price": 92.49,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Pandora's Box"
+    "item_name": "MP9 | Pandora's Box",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "448"
   },
   {
     "id": "skin-2230016",
@@ -781,7 +891,9 @@
     "price": 90.44,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Pandora's Box"
+    "item_name": "MP9 | Pandora's Box",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "448"
   },
   {
     "id": "skin-2230016",
@@ -795,7 +907,9 @@
     "price": 82.96,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Pandora's Box"
+    "item_name": "MP9 | Pandora's Box",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "448"
   },
   {
     "id": "skin-2231440",
@@ -809,7 +923,9 @@
     "price": 0.09,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP9 | Modest Threat"
+    "item_name": "MP9 | Modest Threat",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "804"
   },
   {
     "id": "skin-2231440",
@@ -823,7 +939,9 @@
     "price": 0.05,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Modest Threat"
+    "item_name": "MP9 | Modest Threat",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "804"
   },
   {
     "id": "skin-2231440",
@@ -837,7 +955,9 @@
     "price": 0.09,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Modest Threat"
+    "item_name": "MP9 | Modest Threat",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "804"
   },
   {
     "id": "skin-2231440",
@@ -851,7 +971,9 @@
     "price": 0.3,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP9 | Modest Threat"
+    "item_name": "MP9 | Modest Threat",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "804"
   },
   {
     "id": "skin-2231440",
@@ -865,7 +987,9 @@
     "price": 0.14,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP9 | Modest Threat"
+    "item_name": "MP9 | Modest Threat",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "804"
   },
   {
     "id": "skin-2231440",
@@ -879,7 +1003,9 @@
     "price": 0.79,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP9 | Modest Threat"
+    "item_name": "MP9 | Modest Threat",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "804"
   },
   {
     "id": "skin-2231440",
@@ -893,7 +1019,9 @@
     "price": 0.18,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Modest Threat"
+    "item_name": "MP9 | Modest Threat",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "804"
   },
   {
     "id": "skin-2231440",
@@ -907,7 +1035,9 @@
     "price": 0.06,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Modest Threat"
+    "item_name": "MP9 | Modest Threat",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "804"
   },
   {
     "id": "skin-2231440",
@@ -921,7 +1051,9 @@
     "price": 0.08,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Modest Threat"
+    "item_name": "MP9 | Modest Threat",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "804"
   },
   {
     "id": "skin-2231440",
@@ -935,7 +1067,9 @@
     "price": 0.17,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP9 | Modest Threat"
+    "item_name": "MP9 | Modest Threat",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "804"
   },
   {
     "id": "skin-2229836",
@@ -949,7 +1083,9 @@
     "price": 0.13,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Deadly Poison"
+    "item_name": "MP9 | Deadly Poison",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "403"
   },
   {
     "id": "skin-2229836",
@@ -963,7 +1099,9 @@
     "price": 0.11,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Deadly Poison"
+    "item_name": "MP9 | Deadly Poison",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "403"
   },
   {
     "id": "skin-2229836",
@@ -977,7 +1115,9 @@
     "price": 0.24,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP9 | Deadly Poison"
+    "item_name": "MP9 | Deadly Poison",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "403"
   },
   {
     "id": "skin-2229836",
@@ -991,7 +1131,9 @@
     "price": 0.77,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP9 | Deadly Poison"
+    "item_name": "MP9 | Deadly Poison",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "403"
   },
   {
     "id": "skin-2229836",
@@ -1005,7 +1147,9 @@
     "price": 0.11,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Deadly Poison"
+    "item_name": "MP9 | Deadly Poison",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "403"
   },
   {
     "id": "skin-2229836",
@@ -1019,7 +1163,9 @@
     "price": 0.43,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP9 | Deadly Poison"
+    "item_name": "MP9 | Deadly Poison",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "403"
   },
   {
     "id": "skin-2229836",
@@ -1033,7 +1179,9 @@
     "price": 4.08,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP9 | Deadly Poison"
+    "item_name": "MP9 | Deadly Poison",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "403"
   },
   {
     "id": "skin-2229836",
@@ -1047,7 +1195,9 @@
     "price": 1.14,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Deadly Poison"
+    "item_name": "MP9 | Deadly Poison",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "403"
   },
   {
     "id": "skin-2229836",
@@ -1061,7 +1211,9 @@
     "price": 0.25,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Deadly Poison"
+    "item_name": "MP9 | Deadly Poison",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "403"
   },
   {
     "id": "skin-2229836",
@@ -1075,7 +1227,9 @@
     "price": 0.26,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP9 | Deadly Poison"
+    "item_name": "MP9 | Deadly Poison",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "403"
   },
   {
     "id": "skin-2232600",
@@ -1089,7 +1243,9 @@
     "price": 6.83,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP9 | Mount Fuji"
+    "item_name": "MP9 | Mount Fuji",
+    "rarity": "Restricted",
+    "paint_index": "1094"
   },
   {
     "id": "skin-2232600",
@@ -1103,7 +1259,9 @@
     "price": 2.21,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP9 | Mount Fuji"
+    "item_name": "MP9 | Mount Fuji",
+    "rarity": "Restricted",
+    "paint_index": "1094"
   },
   {
     "id": "skin-2232600",
@@ -1117,7 +1275,9 @@
     "price": 1.76,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Mount Fuji"
+    "item_name": "MP9 | Mount Fuji",
+    "rarity": "Restricted",
+    "paint_index": "1094"
   },
   {
     "id": "skin-2232600",
@@ -1131,7 +1291,9 @@
     "price": 1.76,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Mount Fuji"
+    "item_name": "MP9 | Mount Fuji",
+    "rarity": "Restricted",
+    "paint_index": "1094"
   },
   {
     "id": "skin-2232600",
@@ -1145,7 +1307,9 @@
     "price": 3.55,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Mount Fuji"
+    "item_name": "MP9 | Mount Fuji",
+    "rarity": "Restricted",
+    "paint_index": "1094"
   },
   {
     "id": "skin-2232600",
@@ -1159,7 +1323,9 @@
     "price": 3.11,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP9 | Mount Fuji"
+    "item_name": "MP9 | Mount Fuji",
+    "rarity": "Restricted",
+    "paint_index": "1094"
   },
   {
     "id": "skin-2232600",
@@ -1173,7 +1339,9 @@
     "price": 5.43,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Mount Fuji"
+    "item_name": "MP9 | Mount Fuji",
+    "rarity": "Restricted",
+    "paint_index": "1094"
   },
   {
     "id": "skin-2232600",
@@ -1187,7 +1355,9 @@
     "price": 13.99,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP9 | Mount Fuji"
+    "item_name": "MP9 | Mount Fuji",
+    "rarity": "Restricted",
+    "paint_index": "1094"
   },
   {
     "id": "skin-2232600",
@@ -1201,7 +1371,9 @@
     "price": 1.76,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Mount Fuji"
+    "item_name": "MP9 | Mount Fuji",
+    "rarity": "Restricted",
+    "paint_index": "1094"
   },
   {
     "id": "skin-2232600",
@@ -1215,7 +1387,9 @@
     "price": 2.74,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP9 | Mount Fuji"
+    "item_name": "MP9 | Mount Fuji",
+    "rarity": "Restricted",
+    "paint_index": "1094"
   },
   {
     "id": "skin-2230940",
@@ -1229,7 +1403,9 @@
     "price": 1.05,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Goo"
+    "item_name": "MP9 | Goo",
+    "rarity": "Restricted",
+    "paint_index": "679"
   },
   {
     "id": "skin-2230940",
@@ -1243,7 +1419,9 @@
     "price": 0.48,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Goo"
+    "item_name": "MP9 | Goo",
+    "rarity": "Restricted",
+    "paint_index": "679"
   },
   {
     "id": "skin-2230940",
@@ -1257,7 +1435,9 @@
     "price": 1.26,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP9 | Goo"
+    "item_name": "MP9 | Goo",
+    "rarity": "Restricted",
+    "paint_index": "679"
   },
   {
     "id": "skin-2230940",
@@ -1271,7 +1451,9 @@
     "price": 0.36,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Goo"
+    "item_name": "MP9 | Goo",
+    "rarity": "Restricted",
+    "paint_index": "679"
   },
   {
     "id": "skin-2230940",
@@ -1285,7 +1467,9 @@
     "price": 0.3,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Goo"
+    "item_name": "MP9 | Goo",
+    "rarity": "Restricted",
+    "paint_index": "679"
   },
   {
     "id": "skin-2230940",
@@ -1299,7 +1483,9 @@
     "price": 0.68,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP9 | Goo"
+    "item_name": "MP9 | Goo",
+    "rarity": "Restricted",
+    "paint_index": "679"
   },
   {
     "id": "skin-2230940",
@@ -1313,7 +1499,9 @@
     "price": 2.71,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP9 | Goo"
+    "item_name": "MP9 | Goo",
+    "rarity": "Restricted",
+    "paint_index": "679"
   },
   {
     "id": "skin-2230940",
@@ -1327,7 +1515,9 @@
     "price": 0.73,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP9 | Goo"
+    "item_name": "MP9 | Goo",
+    "rarity": "Restricted",
+    "paint_index": "679"
   },
   {
     "id": "skin-2230940",
@@ -1341,7 +1531,9 @@
     "price": 0.31,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Goo"
+    "item_name": "MP9 | Goo",
+    "rarity": "Restricted",
+    "paint_index": "679"
   },
   {
     "id": "skin-2230940",
@@ -1355,7 +1547,9 @@
     "price": 0.96,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP9 | Goo"
+    "item_name": "MP9 | Goo",
+    "rarity": "Restricted",
+    "paint_index": "679"
   },
   {
     "id": "skin-2229540",
@@ -1369,7 +1563,9 @@
     "price": 78.85,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Dark Age"
+    "item_name": "MP9 | Dark Age",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "329"
   },
   {
     "id": "skin-2229540",
@@ -1383,7 +1579,9 @@
     "price": 76.72,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Dark Age"
+    "item_name": "MP9 | Dark Age",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "329"
   },
   {
     "id": "skin-2229540",
@@ -1397,7 +1595,9 @@
     "price": 78.73,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Dark Age"
+    "item_name": "MP9 | Dark Age",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "329"
   },
   {
     "id": "skin-2229272",
@@ -1411,7 +1611,9 @@
     "price": 4.84,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Rose Iron"
+    "item_name": "MP9 | Rose Iron",
+    "rarity": "Restricted",
+    "paint_index": "262"
   },
   {
     "id": "skin-2229272",
@@ -1425,7 +1627,9 @@
     "price": 4.36,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Rose Iron"
+    "item_name": "MP9 | Rose Iron",
+    "rarity": "Restricted",
+    "paint_index": "262"
   },
   {
     "id": "skin-2229272",
@@ -1439,7 +1643,9 @@
     "price": 11.63,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP9 | Rose Iron"
+    "item_name": "MP9 | Rose Iron",
+    "rarity": "Restricted",
+    "paint_index": "262"
   },
   {
     "id": "skin-2229272",
@@ -1453,7 +1659,9 @@
     "price": 9.02,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP9 | Rose Iron"
+    "item_name": "MP9 | Rose Iron",
+    "rarity": "Restricted",
+    "paint_index": "262"
   },
   {
     "id": "skin-2229272",
@@ -1467,7 +1675,9 @@
     "price": 4.77,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Rose Iron"
+    "item_name": "MP9 | Rose Iron",
+    "rarity": "Restricted",
+    "paint_index": "262"
   },
   {
     "id": "skin-2229272",
@@ -1481,7 +1691,9 @@
     "price": 9.32,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP9 | Rose Iron"
+    "item_name": "MP9 | Rose Iron",
+    "rarity": "Restricted",
+    "paint_index": "262"
   },
   {
     "id": "skin-2232372",
@@ -1495,7 +1707,9 @@
     "price": 0.93,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Food Chain"
+    "item_name": "MP9 | Food Chain",
+    "rarity": "Classified",
+    "paint_index": "1037"
   },
   {
     "id": "skin-2232372",
@@ -1509,7 +1723,9 @@
     "price": 6.42,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP9 | Food Chain"
+    "item_name": "MP9 | Food Chain",
+    "rarity": "Classified",
+    "paint_index": "1037"
   },
   {
     "id": "skin-2232372",
@@ -1523,7 +1739,9 @@
     "price": 0.9,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Food Chain"
+    "item_name": "MP9 | Food Chain",
+    "rarity": "Classified",
+    "paint_index": "1037"
   },
   {
     "id": "skin-2232372",
@@ -1537,7 +1755,9 @@
     "price": 2.81,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP9 | Food Chain"
+    "item_name": "MP9 | Food Chain",
+    "rarity": "Classified",
+    "paint_index": "1037"
   },
   {
     "id": "skin-2232372",
@@ -1551,7 +1771,9 @@
     "price": 6.77,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Food Chain"
+    "item_name": "MP9 | Food Chain",
+    "rarity": "Classified",
+    "paint_index": "1037"
   },
   {
     "id": "skin-2232372",
@@ -1565,7 +1787,9 @@
     "price": 2.45,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Food Chain"
+    "item_name": "MP9 | Food Chain",
+    "rarity": "Classified",
+    "paint_index": "1037"
   },
   {
     "id": "skin-2232372",
@@ -1579,7 +1803,9 @@
     "price": 17.83,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP9 | Food Chain"
+    "item_name": "MP9 | Food Chain",
+    "rarity": "Classified",
+    "paint_index": "1037"
   },
   {
     "id": "skin-2232372",
@@ -1593,7 +1819,9 @@
     "price": 1.9,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP9 | Food Chain"
+    "item_name": "MP9 | Food Chain",
+    "rarity": "Classified",
+    "paint_index": "1037"
   },
   {
     "id": "skin-2232372",
@@ -1607,7 +1835,9 @@
     "price": 2.04,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP9 | Food Chain"
+    "item_name": "MP9 | Food Chain",
+    "rarity": "Classified",
+    "paint_index": "1037"
   },
   {
     "id": "skin-2232372",
@@ -1621,7 +1851,9 @@
     "price": 1.09,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Food Chain"
+    "item_name": "MP9 | Food Chain",
+    "rarity": "Classified",
+    "paint_index": "1037"
   },
   {
     "id": "skin-2233124",
@@ -1635,7 +1867,9 @@
     "price": 0.04,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Featherweight"
+    "item_name": "MP9 | Featherweight",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1225"
   },
   {
     "id": "skin-2233124",
@@ -1649,7 +1883,9 @@
     "price": 0.26,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Featherweight"
+    "item_name": "MP9 | Featherweight",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1225"
   },
   {
     "id": "skin-2233124",
@@ -1663,7 +1899,9 @@
     "price": 0.04,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Featherweight"
+    "item_name": "MP9 | Featherweight",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1225"
   },
   {
     "id": "skin-2233124",
@@ -1677,7 +1915,9 @@
     "price": 0.12,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP9 | Featherweight"
+    "item_name": "MP9 | Featherweight",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1225"
   },
   {
     "id": "skin-2233124",
@@ -1691,7 +1931,9 @@
     "price": 0.15,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP9 | Featherweight"
+    "item_name": "MP9 | Featherweight",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1225"
   },
   {
     "id": "skin-2233124",
@@ -1705,7 +1947,9 @@
     "price": 0.16,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP9 | Featherweight"
+    "item_name": "MP9 | Featherweight",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1225"
   },
   {
     "id": "skin-2233124",
@@ -1719,7 +1963,9 @@
     "price": 0.05,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Featherweight"
+    "item_name": "MP9 | Featherweight",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1225"
   },
   {
     "id": "skin-2233124",
@@ -1733,7 +1979,9 @@
     "price": 0.34,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP9 | Featherweight"
+    "item_name": "MP9 | Featherweight",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1225"
   },
   {
     "id": "skin-2233124",
@@ -1747,7 +1995,9 @@
     "price": 0.1,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Featherweight"
+    "item_name": "MP9 | Featherweight",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1225"
   },
   {
     "id": "skin-2233124",
@@ -1761,7 +2011,9 @@
     "price": 1.63,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP9 | Featherweight"
+    "item_name": "MP9 | Featherweight",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1225"
   },
   {
     "id": "skin-2231084",
@@ -1775,7 +2027,9 @@
     "price": 0.1,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Capillary"
+    "item_name": "MP9 | Capillary",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "715"
   },
   {
     "id": "skin-2231084",
@@ -1789,7 +2043,9 @@
     "price": 0.11,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Capillary"
+    "item_name": "MP9 | Capillary",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "715"
   },
   {
     "id": "skin-2231084",
@@ -1803,7 +2059,9 @@
     "price": 0.18,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP9 | Capillary"
+    "item_name": "MP9 | Capillary",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "715"
   },
   {
     "id": "skin-2231084",
@@ -1817,7 +2075,9 @@
     "price": 1.06,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP9 | Capillary"
+    "item_name": "MP9 | Capillary",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "715"
   },
   {
     "id": "skin-2231084",
@@ -1831,7 +2091,9 @@
     "price": 0.57,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP9 | Capillary"
+    "item_name": "MP9 | Capillary",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "715"
   },
   {
     "id": "skin-2231084",
@@ -1845,7 +2107,9 @@
     "price": 0.13,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Capillary"
+    "item_name": "MP9 | Capillary",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "715"
   },
   {
     "id": "skin-2231084",
@@ -1859,7 +2123,9 @@
     "price": 0.19,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Capillary"
+    "item_name": "MP9 | Capillary",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "715"
   },
   {
     "id": "skin-2231084",
@@ -1873,7 +2139,9 @@
     "price": 0.38,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP9 | Capillary"
+    "item_name": "MP9 | Capillary",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "715"
   },
   {
     "id": "skin-2231084",
@@ -1887,7 +2155,9 @@
     "price": 0.27,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP9 | Capillary"
+    "item_name": "MP9 | Capillary",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "715"
   },
   {
     "id": "skin-2231084",
@@ -1901,7 +2171,9 @@
     "price": 0.28,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Capillary"
+    "item_name": "MP9 | Capillary",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "715"
   },
   {
     "id": "skin-2231504",
@@ -1915,7 +2187,9 @@
     "price": 10.27,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Music Box"
+    "item_name": "MP9 | Music Box",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "820"
   },
   {
     "id": "skin-2231504",
@@ -1929,7 +2203,9 @@
     "price": 11.66,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Music Box"
+    "item_name": "MP9 | Music Box",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "820"
   },
   {
     "id": "skin-2231504",
@@ -1943,7 +2219,9 @@
     "price": 12.04,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Music Box"
+    "item_name": "MP9 | Music Box",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "820"
   },
   {
     "id": "skin-2231504",
@@ -1957,7 +2235,9 @@
     "price": 9.97,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Music Box"
+    "item_name": "MP9 | Music Box",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "820"
   },
   {
     "id": "skin-2231504",
@@ -1971,7 +2251,9 @@
     "price": 10.04,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Music Box"
+    "item_name": "MP9 | Music Box",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "820"
   },
   {
     "id": "skin-2230744",
@@ -1985,7 +2267,9 @@
     "price": 0.08,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Sand Scale"
+    "item_name": "MP9 | Sand Scale",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "630"
   },
   {
     "id": "skin-2230744",
@@ -1999,7 +2283,9 @@
     "price": 0.1,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Sand Scale"
+    "item_name": "MP9 | Sand Scale",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "630"
   },
   {
     "id": "skin-2230744",
@@ -2013,7 +2299,9 @@
     "price": 0.47,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP9 | Sand Scale"
+    "item_name": "MP9 | Sand Scale",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "630"
   },
   {
     "id": "skin-2230744",
@@ -2027,7 +2315,9 @@
     "price": 0.27,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP9 | Sand Scale"
+    "item_name": "MP9 | Sand Scale",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "630"
   },
   {
     "id": "skin-2230744",
@@ -2041,7 +2331,9 @@
     "price": 0.07,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Sand Scale"
+    "item_name": "MP9 | Sand Scale",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "630"
   },
   {
     "id": "skin-2230744",
@@ -2055,7 +2347,9 @@
     "price": 0.99,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP9 | Sand Scale"
+    "item_name": "MP9 | Sand Scale",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "630"
   },
   {
     "id": "skin-2230744",
@@ -2069,7 +2363,9 @@
     "price": 0.22,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Sand Scale"
+    "item_name": "MP9 | Sand Scale",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "630"
   },
   {
     "id": "skin-2230744",
@@ -2083,7 +2379,9 @@
     "price": 0.46,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP9 | Sand Scale"
+    "item_name": "MP9 | Sand Scale",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "630"
   },
   {
     "id": "skin-2231012",
@@ -2097,7 +2395,9 @@
     "price": 0.09,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Black Sand"
+    "item_name": "MP9 | Black Sand",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "697"
   },
   {
     "id": "skin-2231012",
@@ -2111,7 +2411,9 @@
     "price": 0.19,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP9 | Black Sand"
+    "item_name": "MP9 | Black Sand",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "697"
   },
   {
     "id": "skin-2231012",
@@ -2125,7 +2427,9 @@
     "price": 0.1,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP9 | Black Sand"
+    "item_name": "MP9 | Black Sand",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "697"
   },
   {
     "id": "skin-2231012",
@@ -2139,7 +2443,9 @@
     "price": 0.08,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP9 | Black Sand"
+    "item_name": "MP9 | Black Sand",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "697"
   },
   {
     "id": "skin-2231012",
@@ -2153,7 +2459,9 @@
     "price": 0.04,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Black Sand"
+    "item_name": "MP9 | Black Sand",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "697"
   },
   {
     "id": "skin-2231012",
@@ -2167,7 +2475,9 @@
     "price": 0.04,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Black Sand"
+    "item_name": "MP9 | Black Sand",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "697"
   },
   {
     "id": "skin-2231012",
@@ -2181,7 +2491,9 @@
     "price": 0.05,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Black Sand"
+    "item_name": "MP9 | Black Sand",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "697"
   },
   {
     "id": "skin-2231012",
@@ -2195,7 +2507,9 @@
     "price": 0.18,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Black Sand"
+    "item_name": "MP9 | Black Sand",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "697"
   },
   {
     "id": "skin-2231012",
@@ -2209,7 +2523,9 @@
     "price": 0.65,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP9 | Black Sand"
+    "item_name": "MP9 | Black Sand",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "697"
   },
   {
     "id": "skin-2231012",
@@ -2223,7 +2539,9 @@
     "price": 0.08,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP9 | Black Sand"
+    "item_name": "MP9 | Black Sand",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "697"
   },
   {
     "id": "skin-2231948",
@@ -2237,7 +2555,9 @@
     "price": 2.59,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Old Roots"
+    "item_name": "MP9 | Old Roots",
+    "rarity": "Industrial Grade",
+    "paint_index": "931"
   },
   {
     "id": "skin-2231948",
@@ -2251,7 +2571,9 @@
     "price": 2.75,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Old Roots"
+    "item_name": "MP9 | Old Roots",
+    "rarity": "Industrial Grade",
+    "paint_index": "931"
   },
   {
     "id": "skin-2231948",
@@ -2265,7 +2587,9 @@
     "price": 2.72,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Old Roots"
+    "item_name": "MP9 | Old Roots",
+    "rarity": "Industrial Grade",
+    "paint_index": "931"
   },
   {
     "id": "skin-2231948",
@@ -2279,7 +2603,9 @@
     "price": 2.73,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Old Roots"
+    "item_name": "MP9 | Old Roots",
+    "rarity": "Industrial Grade",
+    "paint_index": "931"
   },
   {
     "id": "skin-2231948",
@@ -2293,7 +2619,9 @@
     "price": 2.82,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Old Roots"
+    "item_name": "MP9 | Old Roots",
+    "rarity": "Industrial Grade",
+    "paint_index": "931"
   },
   {
     "id": "skin-2229688",
@@ -2307,7 +2635,9 @@
     "price": 1.25,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Green Plaid"
+    "item_name": "MP9 | Green Plaid",
+    "rarity": "Consumer Grade",
+    "paint_index": "366"
   },
   {
     "id": "skin-2229688",
@@ -2321,7 +2651,9 @@
     "price": 123,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Green Plaid"
+    "item_name": "MP9 | Green Plaid",
+    "rarity": "Consumer Grade",
+    "paint_index": "366"
   },
   {
     "id": "skin-2229688",
@@ -2335,7 +2667,9 @@
     "price": 2.2,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Green Plaid"
+    "item_name": "MP9 | Green Plaid",
+    "rarity": "Consumer Grade",
+    "paint_index": "366"
   },
   {
     "id": "skin-2229688",
@@ -2349,7 +2683,9 @@
     "price": 3.16,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Green Plaid"
+    "item_name": "MP9 | Green Plaid",
+    "rarity": "Consumer Grade",
+    "paint_index": "366"
   },
   {
     "id": "skin-2229688",
@@ -2363,7 +2699,9 @@
     "price": 2.56,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Green Plaid"
+    "item_name": "MP9 | Green Plaid",
+    "rarity": "Consumer Grade",
+    "paint_index": "366"
   },
   {
     "id": "skin-2230420",
@@ -2377,7 +2715,9 @@
     "price": 0.19,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Bioleak"
+    "item_name": "MP9 | Bioleak",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "549"
   },
   {
     "id": "skin-2230420",
@@ -2391,7 +2731,9 @@
     "price": 0.34,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP9 | Bioleak"
+    "item_name": "MP9 | Bioleak",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "549"
   },
   {
     "id": "skin-2230420",
@@ -2405,7 +2747,9 @@
     "price": 0.82,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP9 | Bioleak"
+    "item_name": "MP9 | Bioleak",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "549"
   },
   {
     "id": "skin-2230420",
@@ -2419,7 +2763,9 @@
     "price": 0.06,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Bioleak"
+    "item_name": "MP9 | Bioleak",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "549"
   },
   {
     "id": "skin-2230420",
@@ -2433,7 +2779,9 @@
     "price": 0.06,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Bioleak"
+    "item_name": "MP9 | Bioleak",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "549"
   },
   {
     "id": "skin-2230420",
@@ -2447,7 +2795,9 @@
     "price": 0.11,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Bioleak"
+    "item_name": "MP9 | Bioleak",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "549"
   },
   {
     "id": "skin-2230420",
@@ -2461,7 +2811,9 @@
     "price": 0.16,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP9 | Bioleak"
+    "item_name": "MP9 | Bioleak",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "549"
   },
   {
     "id": "skin-2230420",
@@ -2475,7 +2827,9 @@
     "price": 0.52,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP9 | Bioleak"
+    "item_name": "MP9 | Bioleak",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "549"
   },
   {
     "id": "skin-2230420",
@@ -2489,7 +2843,9 @@
     "price": 0.08,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Bioleak"
+    "item_name": "MP9 | Bioleak",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "549"
   },
   {
     "id": "skin-2230420",
@@ -2503,7 +2859,9 @@
     "price": 1.02,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP9 | Bioleak"
+    "item_name": "MP9 | Bioleak",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "549"
   },
   {
     "id": "skin-2230660",
@@ -2517,7 +2875,9 @@
     "price": 18.92,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP9 | Airlock"
+    "item_name": "MP9 | Airlock",
+    "rarity": "Classified",
+    "paint_index": "609"
   },
   {
     "id": "skin-2230660",
@@ -2531,7 +2891,9 @@
     "price": 2.98,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP9 | Airlock"
+    "item_name": "MP9 | Airlock",
+    "rarity": "Classified",
+    "paint_index": "609"
   },
   {
     "id": "skin-2230660",
@@ -2545,7 +2907,9 @@
     "price": 1.22,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Airlock"
+    "item_name": "MP9 | Airlock",
+    "rarity": "Classified",
+    "paint_index": "609"
   },
   {
     "id": "skin-2230660",
@@ -2559,7 +2923,9 @@
     "price": 2.96,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP9 | Airlock"
+    "item_name": "MP9 | Airlock",
+    "rarity": "Classified",
+    "paint_index": "609"
   },
   {
     "id": "skin-2230660",
@@ -2573,7 +2939,9 @@
     "price": 2.72,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP9 | Airlock"
+    "item_name": "MP9 | Airlock",
+    "rarity": "Classified",
+    "paint_index": "609"
   },
   {
     "id": "skin-2230660",
@@ -2587,7 +2955,9 @@
     "price": 5.49,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP9 | Airlock"
+    "item_name": "MP9 | Airlock",
+    "rarity": "Classified",
+    "paint_index": "609"
   },
   {
     "id": "skin-2230660",
@@ -2601,7 +2971,9 @@
     "price": 1.06,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Airlock"
+    "item_name": "MP9 | Airlock",
+    "rarity": "Classified",
+    "paint_index": "609"
   },
   {
     "id": "skin-2230660",
@@ -2615,7 +2987,9 @@
     "price": 1,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Airlock"
+    "item_name": "MP9 | Airlock",
+    "rarity": "Classified",
+    "paint_index": "609"
   },
   {
     "id": "skin-2230660",
@@ -2629,7 +3003,9 @@
     "price": 7.09,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Airlock"
+    "item_name": "MP9 | Airlock",
+    "rarity": "Classified",
+    "paint_index": "609"
   },
   {
     "id": "skin-2230660",
@@ -2643,7 +3019,9 @@
     "price": 2.54,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Airlock"
+    "item_name": "MP9 | Airlock",
+    "rarity": "Classified",
+    "paint_index": "609"
   },
   {
     "id": "skin-2228380",
@@ -2657,7 +3035,9 @@
     "price": 68.57,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Bulldozer"
+    "item_name": "MP9 | Bulldozer",
+    "rarity": "Restricted",
+    "paint_index": "39"
   },
   {
     "id": "skin-2228380",
@@ -2671,7 +3051,9 @@
     "price": 45.25,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Bulldozer"
+    "item_name": "MP9 | Bulldozer",
+    "rarity": "Restricted",
+    "paint_index": "39"
   },
   {
     "id": "skin-2228380",
@@ -2685,7 +3067,9 @@
     "price": 124.79,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Bulldozer"
+    "item_name": "MP9 | Bulldozer",
+    "rarity": "Restricted",
+    "paint_index": "39"
   },
   {
     "id": "skin-2228380",
@@ -2699,7 +3083,9 @@
     "price": 438.82,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Bulldozer"
+    "item_name": "MP9 | Bulldozer",
+    "rarity": "Restricted",
+    "paint_index": "39"
   },
   {
     "id": "skin-2228380",
@@ -2713,7 +3099,9 @@
     "price": 41.14,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Bulldozer"
+    "item_name": "MP9 | Bulldozer",
+    "rarity": "Restricted",
+    "paint_index": "39"
   },
   {
     "id": "skin-2228356",
@@ -2727,7 +3115,9 @@
     "price": 53.48,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Hot Rod"
+    "item_name": "MP9 | Hot Rod",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "33"
   },
   {
     "id": "skin-2228356",
@@ -2741,7 +3131,9 @@
     "price": 61.02,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Hot Rod"
+    "item_name": "MP9 | Hot Rod",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "33"
   },
   {
     "id": "skin-2228788",
@@ -2755,7 +3147,9 @@
     "price": 0.05,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Orange Peel"
+    "item_name": "MP9 | Orange Peel",
+    "rarity": "Industrial Grade",
+    "paint_index": "141"
   },
   {
     "id": "skin-2228788",
@@ -2769,7 +3163,9 @@
     "price": 0.06,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Orange Peel"
+    "item_name": "MP9 | Orange Peel",
+    "rarity": "Industrial Grade",
+    "paint_index": "141"
   },
   {
     "id": "skin-2228788",
@@ -2783,7 +3179,9 @@
     "price": 0.07,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Orange Peel"
+    "item_name": "MP9 | Orange Peel",
+    "rarity": "Industrial Grade",
+    "paint_index": "141"
   },
   {
     "id": "skin-2228788",
@@ -2797,7 +3195,9 @@
     "price": 0.26,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Orange Peel"
+    "item_name": "MP9 | Orange Peel",
+    "rarity": "Industrial Grade",
+    "paint_index": "141"
   },
   {
     "id": "skin-2228788",
@@ -2811,7 +3211,9 @@
     "price": 0.09,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Orange Peel"
+    "item_name": "MP9 | Orange Peel",
+    "rarity": "Industrial Grade",
+    "paint_index": "141"
   },
   {
     "id": "skin-2229696",
@@ -2825,7 +3227,9 @@
     "price": 2.65,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Setting Sun"
+    "item_name": "MP9 | Setting Sun",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "368"
   },
   {
     "id": "skin-2229696",
@@ -2839,7 +3243,9 @@
     "price": 5.86,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Setting Sun"
+    "item_name": "MP9 | Setting Sun",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "368"
   },
   {
     "id": "skin-2229696",
@@ -2853,7 +3259,9 @@
     "price": 4.37,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Setting Sun"
+    "item_name": "MP9 | Setting Sun",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "368"
   },
   {
     "id": "skin-2229696",
@@ -2867,7 +3275,9 @@
     "price": 2.74,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Setting Sun"
+    "item_name": "MP9 | Setting Sun",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "368"
   },
   {
     "id": "skin-2229696",
@@ -2881,7 +3291,9 @@
     "price": 3.02,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Setting Sun"
+    "item_name": "MP9 | Setting Sun",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "368"
   },
   {
     "id": "skin-2230152",
@@ -2895,7 +3307,9 @@
     "price": 0.61,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Ruby Poison Dart"
+    "item_name": "MP9 | Ruby Poison Dart",
+    "rarity": "Restricted",
+    "paint_index": "482"
   },
   {
     "id": "skin-2230152",
@@ -2909,7 +3323,9 @@
     "price": 0.54,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Ruby Poison Dart"
+    "item_name": "MP9 | Ruby Poison Dart",
+    "rarity": "Restricted",
+    "paint_index": "482"
   },
   {
     "id": "skin-2230152",
@@ -2923,7 +3339,9 @@
     "price": 1.26,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP9 | Ruby Poison Dart"
+    "item_name": "MP9 | Ruby Poison Dart",
+    "rarity": "Restricted",
+    "paint_index": "482"
   },
   {
     "id": "skin-2230152",
@@ -2937,7 +3355,9 @@
     "price": 2.13,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP9 | Ruby Poison Dart"
+    "item_name": "MP9 | Ruby Poison Dart",
+    "rarity": "Restricted",
+    "paint_index": "482"
   },
   {
     "id": "skin-2230152",
@@ -2951,7 +3371,9 @@
     "price": 1.23,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Ruby Poison Dart"
+    "item_name": "MP9 | Ruby Poison Dart",
+    "rarity": "Restricted",
+    "paint_index": "482"
   },
   {
     "id": "skin-2230152",
@@ -2965,7 +3387,9 @@
     "price": 1.37,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP9 | Ruby Poison Dart"
+    "item_name": "MP9 | Ruby Poison Dart",
+    "rarity": "Restricted",
+    "paint_index": "482"
   },
   {
     "id": "skin-2230152",
@@ -2979,7 +3403,9 @@
     "price": 1.26,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP9 | Ruby Poison Dart"
+    "item_name": "MP9 | Ruby Poison Dart",
+    "rarity": "Restricted",
+    "paint_index": "482"
   },
   {
     "id": "skin-2230152",
@@ -2993,7 +3419,9 @@
     "price": 0.5,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Ruby Poison Dart"
+    "item_name": "MP9 | Ruby Poison Dart",
+    "rarity": "Restricted",
+    "paint_index": "482"
   },
   {
     "id": "skin-2230152",
@@ -3007,7 +3435,9 @@
     "price": 3.98,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MP9 | Ruby Poison Dart"
+    "item_name": "MP9 | Ruby Poison Dart",
+    "rarity": "Restricted",
+    "paint_index": "482"
   },
   {
     "id": "skin-2230152",
@@ -3021,7 +3451,9 @@
     "price": 0.75,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Ruby Poison Dart"
+    "item_name": "MP9 | Ruby Poison Dart",
+    "rarity": "Restricted",
+    "paint_index": "482"
   },
   {
     "id": "skin-2229416",
@@ -3035,7 +3467,9 @@
     "price": 0.47,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Army Sheen"
+    "item_name": "MP9 | Army Sheen",
+    "rarity": "Consumer Grade",
+    "paint_index": "298"
   },
   {
     "id": "skin-2229416",
@@ -3049,7 +3483,9 @@
     "price": 0.3,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Army Sheen"
+    "item_name": "MP9 | Army Sheen",
+    "rarity": "Consumer Grade",
+    "paint_index": "298"
   },
   {
     "id": "skin-2229416",
@@ -3063,7 +3499,9 @@
     "price": 0.31,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Army Sheen"
+    "item_name": "MP9 | Army Sheen",
+    "rarity": "Consumer Grade",
+    "paint_index": "298"
   },
   {
     "id": "skin-2231692",
@@ -3077,7 +3515,9 @@
     "price": 68.35,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Stained Glass"
+    "item_name": "MP9 | Stained Glass",
+    "rarity": "Restricted",
+    "paint_index": "867"
   },
   {
     "id": "skin-2231692",
@@ -3091,7 +3531,9 @@
     "price": 170.41,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Stained Glass"
+    "item_name": "MP9 | Stained Glass",
+    "rarity": "Restricted",
+    "paint_index": "867"
   },
   {
     "id": "skin-2231692",
@@ -3105,7 +3547,9 @@
     "price": 0,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Stained Glass"
+    "item_name": "MP9 | Stained Glass",
+    "rarity": "Restricted",
+    "paint_index": "867"
   },
   {
     "id": "skin-2231692",
@@ -3119,7 +3563,9 @@
     "price": 72.68,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Stained Glass"
+    "item_name": "MP9 | Stained Glass",
+    "rarity": "Restricted",
+    "paint_index": "867"
   },
   {
     "id": "skin-2231692",
@@ -3133,7 +3579,9 @@
     "price": 72.68,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Stained Glass"
+    "item_name": "MP9 | Stained Glass",
+    "rarity": "Restricted",
+    "paint_index": "867"
   },
   {
     "id": "skin-2228816",
@@ -3147,7 +3595,9 @@
     "price": 0.01,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Sand Dashed"
+    "item_name": "MP9 | Sand Dashed",
+    "rarity": "Consumer Grade",
+    "paint_index": "148"
   },
   {
     "id": "skin-2228816",
@@ -3161,7 +3611,9 @@
     "price": 0.01,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Sand Dashed"
+    "item_name": "MP9 | Sand Dashed",
+    "rarity": "Consumer Grade",
+    "paint_index": "148"
   },
   {
     "id": "skin-2228816",
@@ -3175,7 +3627,9 @@
     "price": 0.08,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Sand Dashed"
+    "item_name": "MP9 | Sand Dashed",
+    "rarity": "Consumer Grade",
+    "paint_index": "148"
   },
   {
     "id": "skin-2228816",
@@ -3189,7 +3643,9 @@
     "price": 0.01,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Sand Dashed"
+    "item_name": "MP9 | Sand Dashed",
+    "rarity": "Consumer Grade",
+    "paint_index": "148"
   },
   {
     "id": "skin-2228816",
@@ -3203,6 +3659,8 @@
     "price": 0.02,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MP9 | Sand Dashed"
+    "item_name": "MP9 | Sand Dashed",
+    "rarity": "Consumer Grade",
+    "paint_index": "148"
   }
 ]

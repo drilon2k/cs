@@ -11,7 +11,9 @@
     "price": 21.2,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AUG | Chameleon"
+    "item_name": "AUG | Chameleon",
+    "rarity": "Covert",
+    "paint_index": "280"
   },
   {
     "id": "skin-525408",
@@ -25,7 +27,9 @@
     "price": 10,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AUG | Chameleon"
+    "item_name": "AUG | Chameleon",
+    "rarity": "Covert",
+    "paint_index": "280"
   },
   {
     "id": "skin-525408",
@@ -39,7 +43,9 @@
     "price": 2.06,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Chameleon"
+    "item_name": "AUG | Chameleon",
+    "rarity": "Covert",
+    "paint_index": "280"
   },
   {
     "id": "skin-525408",
@@ -53,7 +59,9 @@
     "price": 7.07,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AUG | Chameleon"
+    "item_name": "AUG | Chameleon",
+    "rarity": "Covert",
+    "paint_index": "280"
   },
   {
     "id": "skin-525408",
@@ -67,7 +75,9 @@
     "price": 3.87,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Chameleon"
+    "item_name": "AUG | Chameleon",
+    "rarity": "Covert",
+    "paint_index": "280"
   },
   {
     "id": "skin-525408",
@@ -81,7 +91,9 @@
     "price": 19.33,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AUG | Chameleon"
+    "item_name": "AUG | Chameleon",
+    "rarity": "Covert",
+    "paint_index": "280"
   },
   {
     "id": "skin-525408",
@@ -95,7 +107,9 @@
     "price": 2.56,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Chameleon"
+    "item_name": "AUG | Chameleon",
+    "rarity": "Covert",
+    "paint_index": "280"
   },
   {
     "id": "skin-525408",
@@ -109,7 +123,9 @@
     "price": 2.69,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Chameleon"
+    "item_name": "AUG | Chameleon",
+    "rarity": "Covert",
+    "paint_index": "280"
   },
   {
     "id": "skin-525408",
@@ -123,7 +139,9 @@
     "price": 2.72,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Chameleon"
+    "item_name": "AUG | Chameleon",
+    "rarity": "Covert",
+    "paint_index": "280"
   },
   {
     "id": "skin-525408",
@@ -137,7 +155,9 @@
     "price": 9.36,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AUG | Chameleon"
+    "item_name": "AUG | Chameleon",
+    "rarity": "Covert",
+    "paint_index": "280"
   },
   {
     "id": "skin-525788",
@@ -151,7 +171,9 @@
     "price": 1.06,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Radiation Hazard"
+    "item_name": "AUG | Radiation Hazard",
+    "rarity": "Industrial Grade",
+    "paint_index": "375"
   },
   {
     "id": "skin-525788",
@@ -165,7 +187,9 @@
     "price": 0.97,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Radiation Hazard"
+    "item_name": "AUG | Radiation Hazard",
+    "rarity": "Industrial Grade",
+    "paint_index": "375"
   },
   {
     "id": "skin-525788",
@@ -179,7 +203,9 @@
     "price": 1.55,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Radiation Hazard"
+    "item_name": "AUG | Radiation Hazard",
+    "rarity": "Industrial Grade",
+    "paint_index": "375"
   },
   {
     "id": "skin-525788",
@@ -193,7 +219,9 @@
     "price": 1.09,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Radiation Hazard"
+    "item_name": "AUG | Radiation Hazard",
+    "rarity": "Industrial Grade",
+    "paint_index": "375"
   },
   {
     "id": "skin-525788",
@@ -207,7 +235,9 @@
     "price": 1.23,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Radiation Hazard"
+    "item_name": "AUG | Radiation Hazard",
+    "rarity": "Industrial Grade",
+    "paint_index": "375"
   },
   {
     "id": "skin-526984",
@@ -221,7 +251,9 @@
     "price": 0.05,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Triqua"
+    "item_name": "AUG | Triqua",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "674"
   },
   {
     "id": "skin-526984",
@@ -235,7 +267,9 @@
     "price": 0.09,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Triqua"
+    "item_name": "AUG | Triqua",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "674"
   },
   {
     "id": "skin-526984",
@@ -249,7 +283,9 @@
     "price": 0.05,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Triqua"
+    "item_name": "AUG | Triqua",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "674"
   },
   {
     "id": "skin-526984",
@@ -263,7 +299,9 @@
     "price": 0.04,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Triqua"
+    "item_name": "AUG | Triqua",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "674"
   },
   {
     "id": "skin-526984",
@@ -277,7 +315,9 @@
     "price": 0.3,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Triqua"
+    "item_name": "AUG | Triqua",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "674"
   },
   {
     "id": "skin-526984",
@@ -291,7 +331,9 @@
     "price": 0.1,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AUG | Triqua"
+    "item_name": "AUG | Triqua",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "674"
   },
   {
     "id": "skin-526984",
@@ -305,7 +347,9 @@
     "price": 1.93,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AUG | Triqua"
+    "item_name": "AUG | Triqua",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "674"
   },
   {
     "id": "skin-526984",
@@ -319,7 +363,9 @@
     "price": 0.31,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AUG | Triqua"
+    "item_name": "AUG | Triqua",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "674"
   },
   {
     "id": "skin-526984",
@@ -333,7 +379,9 @@
     "price": 0.11,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AUG | Triqua"
+    "item_name": "AUG | Triqua",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "674"
   },
   {
     "id": "skin-526984",
@@ -347,7 +395,9 @@
     "price": 0.13,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AUG | Triqua"
+    "item_name": "AUG | Triqua",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "674"
   },
   {
     "id": "skin-526620",
@@ -361,7 +411,9 @@
     "price": 0.58,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Aristocrat"
+    "item_name": "AUG | Aristocrat",
+    "rarity": "Restricted",
+    "paint_index": "583"
   },
   {
     "id": "skin-526620",
@@ -375,7 +427,9 @@
     "price": 1.04,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AUG | Aristocrat"
+    "item_name": "AUG | Aristocrat",
+    "rarity": "Restricted",
+    "paint_index": "583"
   },
   {
     "id": "skin-526620",
@@ -389,7 +443,9 @@
     "price": 1.4,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Aristocrat"
+    "item_name": "AUG | Aristocrat",
+    "rarity": "Restricted",
+    "paint_index": "583"
   },
   {
     "id": "skin-526620",
@@ -403,7 +459,9 @@
     "price": 1.89,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AUG | Aristocrat"
+    "item_name": "AUG | Aristocrat",
+    "rarity": "Restricted",
+    "paint_index": "583"
   },
   {
     "id": "skin-526620",
@@ -417,7 +475,9 @@
     "price": 5.2,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AUG | Aristocrat"
+    "item_name": "AUG | Aristocrat",
+    "rarity": "Restricted",
+    "paint_index": "583"
   },
   {
     "id": "skin-526620",
@@ -431,7 +491,9 @@
     "price": 2.41,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AUG | Aristocrat"
+    "item_name": "AUG | Aristocrat",
+    "rarity": "Restricted",
+    "paint_index": "583"
   },
   {
     "id": "skin-526620",
@@ -445,7 +507,9 @@
     "price": 0.66,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Aristocrat"
+    "item_name": "AUG | Aristocrat",
+    "rarity": "Restricted",
+    "paint_index": "583"
   },
   {
     "id": "skin-526620",
@@ -459,7 +523,9 @@
     "price": 0.32,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Aristocrat"
+    "item_name": "AUG | Aristocrat",
+    "rarity": "Restricted",
+    "paint_index": "583"
   },
   {
     "id": "skin-526620",
@@ -473,7 +539,9 @@
     "price": 0.36,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Aristocrat"
+    "item_name": "AUG | Aristocrat",
+    "rarity": "Restricted",
+    "paint_index": "583"
   },
   {
     "id": "skin-526620",
@@ -487,7 +555,9 @@
     "price": 1.08,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AUG | Aristocrat"
+    "item_name": "AUG | Aristocrat",
+    "rarity": "Restricted",
+    "paint_index": "583"
   },
   {
     "id": "skin-527996",
@@ -501,7 +571,9 @@
     "price": 2.65,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Spalted Wood"
+    "item_name": "AUG | Spalted Wood",
+    "rarity": "Industrial Grade",
+    "paint_index": "927"
   },
   {
     "id": "skin-527996",
@@ -515,7 +587,9 @@
     "price": 2.85,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Spalted Wood"
+    "item_name": "AUG | Spalted Wood",
+    "rarity": "Industrial Grade",
+    "paint_index": "927"
   },
   {
     "id": "skin-527996",
@@ -529,7 +603,9 @@
     "price": 2.64,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Spalted Wood"
+    "item_name": "AUG | Spalted Wood",
+    "rarity": "Industrial Grade",
+    "paint_index": "927"
   },
   {
     "id": "skin-527996",
@@ -543,7 +619,9 @@
     "price": 2.71,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Spalted Wood"
+    "item_name": "AUG | Spalted Wood",
+    "rarity": "Industrial Grade",
+    "paint_index": "927"
   },
   {
     "id": "skin-527996",
@@ -557,7 +635,9 @@
     "price": 2.66,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Spalted Wood"
+    "item_name": "AUG | Spalted Wood",
+    "rarity": "Industrial Grade",
+    "paint_index": "927"
   },
   {
     "id": "skin-527464",
@@ -571,7 +651,9 @@
     "price": 0.02,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Sweeper"
+    "item_name": "AUG | Sweeper",
+    "rarity": "Consumer Grade",
+    "paint_index": "794"
   },
   {
     "id": "skin-527464",
@@ -585,7 +667,9 @@
     "price": 0.01,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Sweeper"
+    "item_name": "AUG | Sweeper",
+    "rarity": "Consumer Grade",
+    "paint_index": "794"
   },
   {
     "id": "skin-527464",
@@ -599,7 +683,9 @@
     "price": 0.02,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Sweeper"
+    "item_name": "AUG | Sweeper",
+    "rarity": "Consumer Grade",
+    "paint_index": "794"
   },
   {
     "id": "skin-527464",
@@ -613,7 +699,9 @@
     "price": 0.04,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Sweeper"
+    "item_name": "AUG | Sweeper",
+    "rarity": "Consumer Grade",
+    "paint_index": "794"
   },
   {
     "id": "skin-527464",
@@ -627,7 +715,9 @@
     "price": 0.01,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Sweeper"
+    "item_name": "AUG | Sweeper",
+    "rarity": "Consumer Grade",
+    "paint_index": "794"
   },
   {
     "id": "skin-524476",
@@ -641,7 +731,9 @@
     "price": 0.89,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Colony"
+    "item_name": "AUG | Colony",
+    "rarity": "Consumer Grade",
+    "paint_index": "47"
   },
   {
     "id": "skin-524476",
@@ -655,7 +747,9 @@
     "price": 1.21,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Colony"
+    "item_name": "AUG | Colony",
+    "rarity": "Consumer Grade",
+    "paint_index": "47"
   },
   {
     "id": "skin-524476",
@@ -669,7 +763,9 @@
     "price": 1.37,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Colony"
+    "item_name": "AUG | Colony",
+    "rarity": "Consumer Grade",
+    "paint_index": "47"
   },
   {
     "id": "skin-524476",
@@ -683,7 +779,9 @@
     "price": 0.88,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Colony"
+    "item_name": "AUG | Colony",
+    "rarity": "Consumer Grade",
+    "paint_index": "47"
   },
   {
     "id": "skin-524476",
@@ -697,7 +795,9 @@
     "price": 10.15,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Colony"
+    "item_name": "AUG | Colony",
+    "rarity": "Consumer Grade",
+    "paint_index": "47"
   },
   {
     "id": "skin-527120",
@@ -711,7 +811,9 @@
     "price": 0.1,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Amber Slipstream"
+    "item_name": "AUG | Amber Slipstream",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "708"
   },
   {
     "id": "skin-527120",
@@ -725,7 +827,9 @@
     "price": 0.5,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AUG | Amber Slipstream"
+    "item_name": "AUG | Amber Slipstream",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "708"
   },
   {
     "id": "skin-527120",
@@ -739,7 +843,9 @@
     "price": 0.86,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AUG | Amber Slipstream"
+    "item_name": "AUG | Amber Slipstream",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "708"
   },
   {
     "id": "skin-527120",
@@ -753,7 +859,9 @@
     "price": 0.25,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Amber Slipstream"
+    "item_name": "AUG | Amber Slipstream",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "708"
   },
   {
     "id": "skin-527120",
@@ -767,7 +875,9 @@
     "price": 0.17,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Amber Slipstream"
+    "item_name": "AUG | Amber Slipstream",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "708"
   },
   {
     "id": "skin-527120",
@@ -781,7 +891,9 @@
     "price": 0.14,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Amber Slipstream"
+    "item_name": "AUG | Amber Slipstream",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "708"
   },
   {
     "id": "skin-527120",
@@ -795,7 +907,9 @@
     "price": 0.25,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AUG | Amber Slipstream"
+    "item_name": "AUG | Amber Slipstream",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "708"
   },
   {
     "id": "skin-527120",
@@ -809,7 +923,9 @@
     "price": 0.27,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AUG | Amber Slipstream"
+    "item_name": "AUG | Amber Slipstream",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "708"
   },
   {
     "id": "skin-527120",
@@ -823,7 +939,9 @@
     "price": 0.17,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AUG | Amber Slipstream"
+    "item_name": "AUG | Amber Slipstream",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "708"
   },
   {
     "id": "skin-527120",
@@ -837,7 +955,9 @@
     "price": 0.12,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Amber Slipstream"
+    "item_name": "AUG | Amber Slipstream",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "708"
   },
   {
     "id": "skin-526316",
@@ -851,7 +971,9 @@
     "price": 0.82,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AUG | Ricochet"
+    "item_name": "AUG | Ricochet",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "507"
   },
   {
     "id": "skin-526316",
@@ -865,7 +987,9 @@
     "price": 0.27,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AUG | Ricochet"
+    "item_name": "AUG | Ricochet",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "507"
   },
   {
     "id": "skin-526316",
@@ -879,7 +1003,9 @@
     "price": 0.16,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AUG | Ricochet"
+    "item_name": "AUG | Ricochet",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "507"
   },
   {
     "id": "skin-526316",
@@ -893,7 +1019,9 @@
     "price": 0.06,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Ricochet"
+    "item_name": "AUG | Ricochet",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "507"
   },
   {
     "id": "skin-526316",
@@ -907,7 +1035,9 @@
     "price": 0.58,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Ricochet"
+    "item_name": "AUG | Ricochet",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "507"
   },
   {
     "id": "skin-526316",
@@ -921,7 +1051,9 @@
     "price": 1.25,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AUG | Ricochet"
+    "item_name": "AUG | Ricochet",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "507"
   },
   {
     "id": "skin-526316",
@@ -935,7 +1067,9 @@
     "price": 0.06,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Ricochet"
+    "item_name": "AUG | Ricochet",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "507"
   },
   {
     "id": "skin-526316",
@@ -949,7 +1083,9 @@
     "price": 2.15,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AUG | Ricochet"
+    "item_name": "AUG | Ricochet",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "507"
   },
   {
     "id": "skin-526316",
@@ -963,7 +1099,9 @@
     "price": 0.24,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Ricochet"
+    "item_name": "AUG | Ricochet",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "507"
   },
   {
     "id": "skin-526316",
@@ -977,7 +1115,9 @@
     "price": 0.23,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Ricochet"
+    "item_name": "AUG | Ricochet",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "507"
   },
   {
     "id": "skin-528056",
@@ -991,7 +1131,9 @@
     "price": 0.11,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AUG | Tom Cat"
+    "item_name": "AUG | Tom Cat",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "942"
   },
   {
     "id": "skin-528056",
@@ -1005,7 +1147,9 @@
     "price": 0.05,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Tom Cat"
+    "item_name": "AUG | Tom Cat",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "942"
   },
   {
     "id": "skin-528056",
@@ -1019,7 +1163,9 @@
     "price": 0.37,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AUG | Tom Cat"
+    "item_name": "AUG | Tom Cat",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "942"
   },
   {
     "id": "skin-528056",
@@ -1033,7 +1179,9 @@
     "price": 0.24,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Tom Cat"
+    "item_name": "AUG | Tom Cat",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "942"
   },
   {
     "id": "skin-528056",
@@ -1047,7 +1195,9 @@
     "price": 0.09,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Tom Cat"
+    "item_name": "AUG | Tom Cat",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "942"
   },
   {
     "id": "skin-528056",
@@ -1061,7 +1211,9 @@
     "price": 0.1,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AUG | Tom Cat"
+    "item_name": "AUG | Tom Cat",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "942"
   },
   {
     "id": "skin-528056",
@@ -1075,7 +1227,9 @@
     "price": 0.32,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AUG | Tom Cat"
+    "item_name": "AUG | Tom Cat",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "942"
   },
   {
     "id": "skin-528056",
@@ -1089,7 +1243,9 @@
     "price": 1.23,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AUG | Tom Cat"
+    "item_name": "AUG | Tom Cat",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "942"
   },
   {
     "id": "skin-528056",
@@ -1103,7 +1259,9 @@
     "price": 0.05,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Tom Cat"
+    "item_name": "AUG | Tom Cat",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "942"
   },
   {
     "id": "skin-528056",
@@ -1117,7 +1275,9 @@
     "price": 0.05,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Tom Cat"
+    "item_name": "AUG | Tom Cat",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "942"
   },
   {
     "id": "skin-526452",
@@ -1131,7 +1291,9 @@
     "price": 1.16,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Fleet Flock"
+    "item_name": "AUG | Fleet Flock",
+    "rarity": "Classified",
+    "paint_index": "541"
   },
   {
     "id": "skin-526452",
@@ -1145,7 +1307,9 @@
     "price": 8.05,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Fleet Flock"
+    "item_name": "AUG | Fleet Flock",
+    "rarity": "Classified",
+    "paint_index": "541"
   },
   {
     "id": "skin-526452",
@@ -1159,7 +1323,9 @@
     "price": 2.94,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AUG | Fleet Flock"
+    "item_name": "AUG | Fleet Flock",
+    "rarity": "Classified",
+    "paint_index": "541"
   },
   {
     "id": "skin-526452",
@@ -1173,7 +1339,9 @@
     "price": 2.95,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Fleet Flock"
+    "item_name": "AUG | Fleet Flock",
+    "rarity": "Classified",
+    "paint_index": "541"
   },
   {
     "id": "skin-526452",
@@ -1187,7 +1355,9 @@
     "price": 6.86,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AUG | Fleet Flock"
+    "item_name": "AUG | Fleet Flock",
+    "rarity": "Classified",
+    "paint_index": "541"
   },
   {
     "id": "skin-526452",
@@ -1201,7 +1371,9 @@
     "price": 2.59,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AUG | Fleet Flock"
+    "item_name": "AUG | Fleet Flock",
+    "rarity": "Classified",
+    "paint_index": "541"
   },
   {
     "id": "skin-526452",
@@ -1215,7 +1387,9 @@
     "price": 1.35,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Fleet Flock"
+    "item_name": "AUG | Fleet Flock",
+    "rarity": "Classified",
+    "paint_index": "541"
   },
   {
     "id": "skin-526452",
@@ -1229,7 +1403,9 @@
     "price": 3.34,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AUG | Fleet Flock"
+    "item_name": "AUG | Fleet Flock",
+    "rarity": "Classified",
+    "paint_index": "541"
   },
   {
     "id": "skin-526452",
@@ -1243,7 +1419,9 @@
     "price": 1.2,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Fleet Flock"
+    "item_name": "AUG | Fleet Flock",
+    "rarity": "Classified",
+    "paint_index": "541"
   },
   {
     "id": "skin-526452",
@@ -1257,7 +1435,9 @@
     "price": 19.75,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AUG | Fleet Flock"
+    "item_name": "AUG | Fleet Flock",
+    "rarity": "Classified",
+    "paint_index": "541"
   },
   {
     "id": "skin-526692",
@@ -1271,7 +1451,9 @@
     "price": 6.27,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Syd Mead"
+    "item_name": "AUG | Syd Mead",
+    "rarity": "Classified",
+    "paint_index": "601"
   },
   {
     "id": "skin-526692",
@@ -1285,7 +1467,9 @@
     "price": 2.54,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AUG | Syd Mead"
+    "item_name": "AUG | Syd Mead",
+    "rarity": "Classified",
+    "paint_index": "601"
   },
   {
     "id": "skin-526692",
@@ -1299,7 +1483,9 @@
     "price": 2.57,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AUG | Syd Mead"
+    "item_name": "AUG | Syd Mead",
+    "rarity": "Classified",
+    "paint_index": "601"
   },
   {
     "id": "skin-526692",
@@ -1313,7 +1499,9 @@
     "price": 2.06,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Syd Mead"
+    "item_name": "AUG | Syd Mead",
+    "rarity": "Classified",
+    "paint_index": "601"
   },
   {
     "id": "skin-526692",
@@ -1327,7 +1515,9 @@
     "price": 16.73,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AUG | Syd Mead"
+    "item_name": "AUG | Syd Mead",
+    "rarity": "Classified",
+    "paint_index": "601"
   },
   {
     "id": "skin-526692",
@@ -1341,7 +1531,9 @@
     "price": 1.18,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Syd Mead"
+    "item_name": "AUG | Syd Mead",
+    "rarity": "Classified",
+    "paint_index": "601"
   },
   {
     "id": "skin-526692",
@@ -1355,7 +1547,9 @@
     "price": 3.71,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AUG | Syd Mead"
+    "item_name": "AUG | Syd Mead",
+    "rarity": "Classified",
+    "paint_index": "601"
   },
   {
     "id": "skin-526692",
@@ -1369,7 +1563,9 @@
     "price": 2.64,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Syd Mead"
+    "item_name": "AUG | Syd Mead",
+    "rarity": "Classified",
+    "paint_index": "601"
   },
   {
     "id": "skin-526692",
@@ -1383,7 +1579,9 @@
     "price": 6.23,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AUG | Syd Mead"
+    "item_name": "AUG | Syd Mead",
+    "rarity": "Classified",
+    "paint_index": "601"
   },
   {
     "id": "skin-526692",
@@ -1397,7 +1595,9 @@
     "price": 1.21,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Syd Mead"
+    "item_name": "AUG | Syd Mead",
+    "rarity": "Classified",
+    "paint_index": "601"
   },
   {
     "id": "skin-525508",
@@ -1411,7 +1611,9 @@
     "price": 13.42,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AUG | Torque"
+    "item_name": "AUG | Torque",
+    "rarity": "Restricted",
+    "paint_index": "305"
   },
   {
     "id": "skin-525508",
@@ -1425,7 +1627,9 @@
     "price": 9.67,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AUG | Torque"
+    "item_name": "AUG | Torque",
+    "rarity": "Restricted",
+    "paint_index": "305"
   },
   {
     "id": "skin-525508",
@@ -1439,7 +1643,9 @@
     "price": 7.94,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Torque"
+    "item_name": "AUG | Torque",
+    "rarity": "Restricted",
+    "paint_index": "305"
   },
   {
     "id": "skin-525508",
@@ -1453,7 +1659,9 @@
     "price": 12.41,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AUG | Torque"
+    "item_name": "AUG | Torque",
+    "rarity": "Restricted",
+    "paint_index": "305"
   },
   {
     "id": "skin-525508",
@@ -1467,7 +1675,9 @@
     "price": 12.14,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AUG | Torque"
+    "item_name": "AUG | Torque",
+    "rarity": "Restricted",
+    "paint_index": "305"
   },
   {
     "id": "skin-525508",
@@ -1481,7 +1691,9 @@
     "price": 5.39,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Torque"
+    "item_name": "AUG | Torque",
+    "rarity": "Restricted",
+    "paint_index": "305"
   },
   {
     "id": "skin-525508",
@@ -1495,7 +1707,9 @@
     "price": 5.88,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Torque"
+    "item_name": "AUG | Torque",
+    "rarity": "Restricted",
+    "paint_index": "305"
   },
   {
     "id": "skin-525508",
@@ -1509,7 +1723,9 @@
     "price": 5.25,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Torque"
+    "item_name": "AUG | Torque",
+    "rarity": "Restricted",
+    "paint_index": "305"
   },
   {
     "id": "skin-525508",
@@ -1523,7 +1739,9 @@
     "price": 8.5,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AUG | Torque"
+    "item_name": "AUG | Torque",
+    "rarity": "Restricted",
+    "paint_index": "305"
   },
   {
     "id": "skin-525508",
@@ -1537,7 +1755,9 @@
     "price": 4.8,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Torque"
+    "item_name": "AUG | Torque",
+    "rarity": "Restricted",
+    "paint_index": "305"
   },
   {
     "id": "skin-527668",
@@ -1551,7 +1771,9 @@
     "price": 3.78,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Momentum"
+    "item_name": "AUG | Momentum",
+    "rarity": "Classified",
+    "paint_index": "845"
   },
   {
     "id": "skin-527668",
@@ -1565,7 +1787,9 @@
     "price": 12.31,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AUG | Momentum"
+    "item_name": "AUG | Momentum",
+    "rarity": "Classified",
+    "paint_index": "845"
   },
   {
     "id": "skin-527668",
@@ -1579,7 +1803,9 @@
     "price": 16.93,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Momentum"
+    "item_name": "AUG | Momentum",
+    "rarity": "Classified",
+    "paint_index": "845"
   },
   {
     "id": "skin-527668",
@@ -1593,7 +1819,9 @@
     "price": 2.53,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AUG | Momentum"
+    "item_name": "AUG | Momentum",
+    "rarity": "Classified",
+    "paint_index": "845"
   },
   {
     "id": "skin-527668",
@@ -1607,7 +1835,9 @@
     "price": 1.08,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Momentum"
+    "item_name": "AUG | Momentum",
+    "rarity": "Classified",
+    "paint_index": "845"
   },
   {
     "id": "skin-527668",
@@ -1621,7 +1851,9 @@
     "price": 2.47,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AUG | Momentum"
+    "item_name": "AUG | Momentum",
+    "rarity": "Classified",
+    "paint_index": "845"
   },
   {
     "id": "skin-527668",
@@ -1635,7 +1867,9 @@
     "price": 1.29,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Momentum"
+    "item_name": "AUG | Momentum",
+    "rarity": "Classified",
+    "paint_index": "845"
   },
   {
     "id": "skin-527668",
@@ -1649,7 +1883,9 @@
     "price": 1.07,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Momentum"
+    "item_name": "AUG | Momentum",
+    "rarity": "Classified",
+    "paint_index": "845"
   },
   {
     "id": "skin-527668",
@@ -1663,7 +1899,9 @@
     "price": 59.71,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AUG | Momentum"
+    "item_name": "AUG | Momentum",
+    "rarity": "Classified",
+    "paint_index": "845"
   },
   {
     "id": "skin-527668",
@@ -1677,7 +1915,9 @@
     "price": 3.74,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AUG | Momentum"
+    "item_name": "AUG | Momentum",
+    "rarity": "Classified",
+    "paint_index": "845"
   },
   {
     "id": "skin-525076",
@@ -1691,7 +1931,9 @@
     "price": 34.56,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Anodized Navy"
+    "item_name": "AUG | Anodized Navy",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "197"
   },
   {
     "id": "skin-525076",
@@ -1705,7 +1947,9 @@
     "price": 27.42,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Anodized Navy"
+    "item_name": "AUG | Anodized Navy",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "197"
   },
   {
     "id": "skin-527048",
@@ -1719,7 +1963,9 @@
     "price": 4.5,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AUG | Stymphalian"
+    "item_name": "AUG | Stymphalian",
+    "rarity": "Classified",
+    "paint_index": "690"
   },
   {
     "id": "skin-527048",
@@ -1733,7 +1979,9 @@
     "price": 2.33,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Stymphalian"
+    "item_name": "AUG | Stymphalian",
+    "rarity": "Classified",
+    "paint_index": "690"
   },
   {
     "id": "skin-527048",
@@ -1747,7 +1995,9 @@
     "price": 4.84,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Stymphalian"
+    "item_name": "AUG | Stymphalian",
+    "rarity": "Classified",
+    "paint_index": "690"
   },
   {
     "id": "skin-527048",
@@ -1761,7 +2011,9 @@
     "price": 12.2,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AUG | Stymphalian"
+    "item_name": "AUG | Stymphalian",
+    "rarity": "Classified",
+    "paint_index": "690"
   },
   {
     "id": "skin-527048",
@@ -1775,7 +2027,9 @@
     "price": 2.1,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AUG | Stymphalian"
+    "item_name": "AUG | Stymphalian",
+    "rarity": "Classified",
+    "paint_index": "690"
   },
   {
     "id": "skin-527048",
@@ -1789,7 +2043,9 @@
     "price": 0.97,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Stymphalian"
+    "item_name": "AUG | Stymphalian",
+    "rarity": "Classified",
+    "paint_index": "690"
   },
   {
     "id": "skin-527048",
@@ -1803,7 +2059,9 @@
     "price": 1.06,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Stymphalian"
+    "item_name": "AUG | Stymphalian",
+    "rarity": "Classified",
+    "paint_index": "690"
   },
   {
     "id": "skin-527048",
@@ -1817,7 +2075,9 @@
     "price": 0.95,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Stymphalian"
+    "item_name": "AUG | Stymphalian",
+    "rarity": "Classified",
+    "paint_index": "690"
   },
   {
     "id": "skin-527048",
@@ -1831,7 +2091,9 @@
     "price": 2.19,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AUG | Stymphalian"
+    "item_name": "AUG | Stymphalian",
+    "rarity": "Classified",
+    "paint_index": "690"
   },
   {
     "id": "skin-527048",
@@ -1845,7 +2107,9 @@
     "price": 2.38,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AUG | Stymphalian"
+    "item_name": "AUG | Stymphalian",
+    "rarity": "Classified",
+    "paint_index": "690"
   },
   {
     "id": "skin-527320",
@@ -1859,7 +2123,9 @@
     "price": 223.52,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Flame Jörmungandr"
+    "item_name": "AUG | Flame Jörmungandr",
+    "rarity": "Restricted",
+    "paint_index": "758"
   },
   {
     "id": "skin-527320",
@@ -1873,7 +2139,9 @@
     "price": 411.26,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Flame Jörmungandr"
+    "item_name": "AUG | Flame Jörmungandr",
+    "rarity": "Restricted",
+    "paint_index": "758"
   },
   {
     "id": "skin-527320",
@@ -1887,7 +2155,9 @@
     "price": 233.12,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Flame Jörmungandr"
+    "item_name": "AUG | Flame Jörmungandr",
+    "rarity": "Restricted",
+    "paint_index": "758"
   },
   {
     "id": "skin-527320",
@@ -1901,7 +2171,9 @@
     "price": 236.43,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Flame Jörmungandr"
+    "item_name": "AUG | Flame Jörmungandr",
+    "rarity": "Restricted",
+    "paint_index": "758"
   },
   {
     "id": "skin-527320",
@@ -1915,7 +2187,9 @@
     "price": 237.24,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Flame Jörmungandr"
+    "item_name": "AUG | Flame Jörmungandr",
+    "rarity": "Restricted",
+    "paint_index": "758"
   },
   {
     "id": "skin-528268",
@@ -1929,7 +2203,9 @@
     "price": 0.29,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Surveillance"
+    "item_name": "AUG | Surveillance",
+    "rarity": "Consumer Grade",
+    "paint_index": "995"
   },
   {
     "id": "skin-528268",
@@ -1943,7 +2219,9 @@
     "price": 0.34,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Surveillance"
+    "item_name": "AUG | Surveillance",
+    "rarity": "Consumer Grade",
+    "paint_index": "995"
   },
   {
     "id": "skin-528268",
@@ -1957,7 +2235,9 @@
     "price": 0.31,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Surveillance"
+    "item_name": "AUG | Surveillance",
+    "rarity": "Consumer Grade",
+    "paint_index": "995"
   },
   {
     "id": "skin-528268",
@@ -1971,7 +2251,9 @@
     "price": 0.47,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Surveillance"
+    "item_name": "AUG | Surveillance",
+    "rarity": "Consumer Grade",
+    "paint_index": "995"
   },
   {
     "id": "skin-528268",
@@ -1985,7 +2267,9 @@
     "price": 0.29,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Surveillance"
+    "item_name": "AUG | Surveillance",
+    "rarity": "Consumer Grade",
+    "paint_index": "995"
   },
   {
     "id": "skin-527196",
@@ -1999,7 +2283,9 @@
     "price": 274.12,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Midnight Lily"
+    "item_name": "AUG | Midnight Lily",
+    "rarity": "Restricted",
+    "paint_index": "727"
   },
   {
     "id": "skin-527196",
@@ -2013,7 +2299,9 @@
     "price": 236.54,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Midnight Lily"
+    "item_name": "AUG | Midnight Lily",
+    "rarity": "Restricted",
+    "paint_index": "727"
   },
   {
     "id": "skin-527196",
@@ -2027,7 +2315,9 @@
     "price": 222.15,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Midnight Lily"
+    "item_name": "AUG | Midnight Lily",
+    "rarity": "Restricted",
+    "paint_index": "727"
   },
   {
     "id": "skin-527196",
@@ -2041,7 +2331,9 @@
     "price": 239.84,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Midnight Lily"
+    "item_name": "AUG | Midnight Lily",
+    "rarity": "Restricted",
+    "paint_index": "727"
   },
   {
     "id": "skin-527196",
@@ -2055,7 +2347,9 @@
     "price": 218.38,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Midnight Lily"
+    "item_name": "AUG | Midnight Lily",
+    "rarity": "Restricted",
+    "paint_index": "727"
   },
   {
     "id": "skin-529284",
@@ -2069,7 +2363,9 @@
     "price": 0.02,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Snake Pit"
+    "item_name": "AUG | Snake Pit",
+    "rarity": "Consumer Grade",
+    "paint_index": "1249"
   },
   {
     "id": "skin-529284",
@@ -2083,7 +2379,9 @@
     "price": 0.02,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Snake Pit"
+    "item_name": "AUG | Snake Pit",
+    "rarity": "Consumer Grade",
+    "paint_index": "1249"
   },
   {
     "id": "skin-529284",
@@ -2097,7 +2395,9 @@
     "price": 0.03,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Snake Pit"
+    "item_name": "AUG | Snake Pit",
+    "rarity": "Consumer Grade",
+    "paint_index": "1249"
   },
   {
     "id": "skin-529284",
@@ -2111,7 +2411,9 @@
     "price": 0.02,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Snake Pit"
+    "item_name": "AUG | Snake Pit",
+    "rarity": "Consumer Grade",
+    "paint_index": "1249"
   },
   {
     "id": "skin-529284",
@@ -2125,7 +2427,9 @@
     "price": 0.1,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Snake Pit"
+    "item_name": "AUG | Snake Pit",
+    "rarity": "Consumer Grade",
+    "paint_index": "1249"
   },
   {
     "id": "skin-524472",
@@ -2139,7 +2443,9 @@
     "price": 0.01,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Contractor"
+    "item_name": "AUG | Contractor",
+    "rarity": "Consumer Grade",
+    "paint_index": "46"
   },
   {
     "id": "skin-524472",
@@ -2153,7 +2459,9 @@
     "price": 0.01,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Contractor"
+    "item_name": "AUG | Contractor",
+    "rarity": "Consumer Grade",
+    "paint_index": "46"
   },
   {
     "id": "skin-524472",
@@ -2167,7 +2475,9 @@
     "price": 0.01,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Contractor"
+    "item_name": "AUG | Contractor",
+    "rarity": "Consumer Grade",
+    "paint_index": "46"
   },
   {
     "id": "skin-524472",
@@ -2181,7 +2491,9 @@
     "price": 0.01,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Contractor"
+    "item_name": "AUG | Contractor",
+    "rarity": "Consumer Grade",
+    "paint_index": "46"
   },
   {
     "id": "skin-524472",
@@ -2195,7 +2507,9 @@
     "price": 0.09,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Contractor"
+    "item_name": "AUG | Contractor",
+    "rarity": "Consumer Grade",
+    "paint_index": "46"
   },
   {
     "id": "skin-524580",
@@ -2209,7 +2523,9 @@
     "price": 13.66,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Wings"
+    "item_name": "AUG | Wings",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "73"
   },
   {
     "id": "skin-524580",
@@ -2223,7 +2539,9 @@
     "price": 14.83,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AUG | Wings"
+    "item_name": "AUG | Wings",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "73"
   },
   {
     "id": "skin-524580",
@@ -2237,7 +2555,9 @@
     "price": 14.73,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AUG | Wings"
+    "item_name": "AUG | Wings",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "73"
   },
   {
     "id": "skin-524580",
@@ -2251,7 +2571,9 @@
     "price": 13.6,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Wings"
+    "item_name": "AUG | Wings",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "73"
   },
   {
     "id": "skin-527940",
@@ -2265,7 +2587,9 @@
     "price": 5.59,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Death by Puppy"
+    "item_name": "AUG | Death by Puppy",
+    "rarity": "Classified",
+    "paint_index": "913"
   },
   {
     "id": "skin-527940",
@@ -2279,7 +2603,9 @@
     "price": 8.76,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Death by Puppy"
+    "item_name": "AUG | Death by Puppy",
+    "rarity": "Classified",
+    "paint_index": "913"
   },
   {
     "id": "skin-527940",
@@ -2293,7 +2619,9 @@
     "price": 21.32,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AUG | Death by Puppy"
+    "item_name": "AUG | Death by Puppy",
+    "rarity": "Classified",
+    "paint_index": "913"
   },
   {
     "id": "skin-527940",
@@ -2307,7 +2635,9 @@
     "price": 11.9,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AUG | Death by Puppy"
+    "item_name": "AUG | Death by Puppy",
+    "rarity": "Classified",
+    "paint_index": "913"
   },
   {
     "id": "skin-527940",
@@ -2321,7 +2651,9 @@
     "price": 8.21,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AUG | Death by Puppy"
+    "item_name": "AUG | Death by Puppy",
+    "rarity": "Classified",
+    "paint_index": "913"
   },
   {
     "id": "skin-527940",
@@ -2335,7 +2667,9 @@
     "price": 4.08,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Death by Puppy"
+    "item_name": "AUG | Death by Puppy",
+    "rarity": "Classified",
+    "paint_index": "913"
   },
   {
     "id": "skin-527940",
@@ -2349,7 +2683,9 @@
     "price": 5.14,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Death by Puppy"
+    "item_name": "AUG | Death by Puppy",
+    "rarity": "Classified",
+    "paint_index": "913"
   },
   {
     "id": "skin-527940",
@@ -2363,7 +2699,9 @@
     "price": 12,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AUG | Death by Puppy"
+    "item_name": "AUG | Death by Puppy",
+    "rarity": "Classified",
+    "paint_index": "913"
   },
   {
     "id": "skin-527832",
@@ -2377,7 +2715,9 @@
     "price": 1.45,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Arctic Wolf"
+    "item_name": "AUG | Arctic Wolf",
+    "rarity": "Restricted",
+    "paint_index": "886"
   },
   {
     "id": "skin-527832",
@@ -2391,7 +2731,9 @@
     "price": 16.92,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AUG | Arctic Wolf"
+    "item_name": "AUG | Arctic Wolf",
+    "rarity": "Restricted",
+    "paint_index": "886"
   },
   {
     "id": "skin-527832",
@@ -2405,7 +2747,9 @@
     "price": 5.07,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Arctic Wolf"
+    "item_name": "AUG | Arctic Wolf",
+    "rarity": "Restricted",
+    "paint_index": "886"
   },
   {
     "id": "skin-527832",
@@ -2419,7 +2763,9 @@
     "price": 5.88,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AUG | Arctic Wolf"
+    "item_name": "AUG | Arctic Wolf",
+    "rarity": "Restricted",
+    "paint_index": "886"
   },
   {
     "id": "skin-527832",
@@ -2433,7 +2779,9 @@
     "price": 3.64,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AUG | Arctic Wolf"
+    "item_name": "AUG | Arctic Wolf",
+    "rarity": "Restricted",
+    "paint_index": "886"
   },
   {
     "id": "skin-527832",
@@ -2447,7 +2795,9 @@
     "price": 1.97,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Arctic Wolf"
+    "item_name": "AUG | Arctic Wolf",
+    "rarity": "Restricted",
+    "paint_index": "886"
   },
   {
     "id": "skin-527832",
@@ -2461,7 +2811,9 @@
     "price": 1.37,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Arctic Wolf"
+    "item_name": "AUG | Arctic Wolf",
+    "rarity": "Restricted",
+    "paint_index": "886"
   },
   {
     "id": "skin-527832",
@@ -2475,7 +2827,9 @@
     "price": 7.98,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AUG | Arctic Wolf"
+    "item_name": "AUG | Arctic Wolf",
+    "rarity": "Restricted",
+    "paint_index": "886"
   },
   {
     "id": "skin-527832",
@@ -2489,7 +2843,9 @@
     "price": 2.66,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Arctic Wolf"
+    "item_name": "AUG | Arctic Wolf",
+    "rarity": "Restricted",
+    "paint_index": "886"
   },
   {
     "id": "skin-527832",
@@ -2503,7 +2859,9 @@
     "price": 1.74,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AUG | Arctic Wolf"
+    "item_name": "AUG | Arctic Wolf",
+    "rarity": "Restricted",
+    "paint_index": "886"
   },
   {
     "id": "skin-527404",
@@ -2517,7 +2875,9 @@
     "price": 3.84,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Random Access"
+    "item_name": "AUG | Random Access",
+    "rarity": "Restricted",
+    "paint_index": "779"
   },
   {
     "id": "skin-527404",
@@ -2531,7 +2891,9 @@
     "price": 0.78,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Random Access"
+    "item_name": "AUG | Random Access",
+    "rarity": "Restricted",
+    "paint_index": "779"
   },
   {
     "id": "skin-527404",
@@ -2545,7 +2907,9 @@
     "price": 0.77,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Random Access"
+    "item_name": "AUG | Random Access",
+    "rarity": "Restricted",
+    "paint_index": "779"
   },
   {
     "id": "skin-527404",
@@ -2559,7 +2923,9 @@
     "price": 0.88,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Random Access"
+    "item_name": "AUG | Random Access",
+    "rarity": "Restricted",
+    "paint_index": "779"
   },
   {
     "id": "skin-527404",
@@ -2573,7 +2939,9 @@
     "price": 1.86,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Random Access"
+    "item_name": "AUG | Random Access",
+    "rarity": "Restricted",
+    "paint_index": "779"
   },
   {
     "id": "skin-528640",
@@ -2587,7 +2955,9 @@
     "price": 0.25,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Plague"
+    "item_name": "AUG | Plague",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1088"
   },
   {
     "id": "skin-528640",
@@ -2601,7 +2971,9 @@
     "price": 0.23,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Plague"
+    "item_name": "AUG | Plague",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1088"
   },
   {
     "id": "skin-528640",
@@ -2615,7 +2987,9 @@
     "price": 0.57,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Plague"
+    "item_name": "AUG | Plague",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1088"
   },
   {
     "id": "skin-528640",
@@ -2629,7 +3003,9 @@
     "price": 3.76,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AUG | Plague"
+    "item_name": "AUG | Plague",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1088"
   },
   {
     "id": "skin-528640",
@@ -2643,7 +3019,9 @@
     "price": 0.64,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AUG | Plague"
+    "item_name": "AUG | Plague",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1088"
   },
   {
     "id": "skin-528640",
@@ -2657,7 +3035,9 @@
     "price": 0.56,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AUG | Plague"
+    "item_name": "AUG | Plague",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1088"
   },
   {
     "id": "skin-528640",
@@ -2671,7 +3051,9 @@
     "price": 1.24,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AUG | Plague"
+    "item_name": "AUG | Plague",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1088"
   },
   {
     "id": "skin-528640",
@@ -2685,7 +3067,9 @@
     "price": 1.6,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AUG | Plague"
+    "item_name": "AUG | Plague",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1088"
   },
   {
     "id": "skin-528640",
@@ -2699,7 +3083,9 @@
     "price": 1.06,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Plague"
+    "item_name": "AUG | Plague",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1088"
   },
   {
     "id": "skin-528640",
@@ -2713,7 +3099,9 @@
     "price": 0.63,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Plague"
+    "item_name": "AUG | Plague",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1088"
   },
   {
     "id": "skin-524688",
@@ -2727,7 +3115,9 @@
     "price": 0.36,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Storm"
+    "item_name": "AUG | Storm",
+    "rarity": "Consumer Grade",
+    "paint_index": "100"
   },
   {
     "id": "skin-524688",
@@ -2741,7 +3131,9 @@
     "price": 0.01,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Storm"
+    "item_name": "AUG | Storm",
+    "rarity": "Consumer Grade",
+    "paint_index": "100"
   },
   {
     "id": "skin-524688",
@@ -2755,7 +3147,9 @@
     "price": 0.03,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Storm"
+    "item_name": "AUG | Storm",
+    "rarity": "Consumer Grade",
+    "paint_index": "100"
   },
   {
     "id": "skin-524688",
@@ -2769,7 +3163,9 @@
     "price": 0.01,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Storm"
+    "item_name": "AUG | Storm",
+    "rarity": "Consumer Grade",
+    "paint_index": "100"
   },
   {
     "id": "skin-524688",
@@ -2783,7 +3179,9 @@
     "price": 0.01,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Storm"
+    "item_name": "AUG | Storm",
+    "rarity": "Consumer Grade",
+    "paint_index": "100"
   },
   {
     "id": "skin-525272",
@@ -2797,7 +3195,9 @@
     "price": 0.93,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Amber Fade"
+    "item_name": "AUG | Amber Fade",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "246"
   },
   {
     "id": "skin-525272",
@@ -2811,7 +3211,9 @@
     "price": 1.14,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Amber Fade"
+    "item_name": "AUG | Amber Fade",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "246"
   },
   {
     "id": "skin-525272",
@@ -2825,7 +3227,9 @@
     "price": 0.84,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Amber Fade"
+    "item_name": "AUG | Amber Fade",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "246"
   },
   {
     "id": "skin-525272",
@@ -2839,7 +3243,9 @@
     "price": 0.75,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Amber Fade"
+    "item_name": "AUG | Amber Fade",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "246"
   },
   {
     "id": "skin-524324",
@@ -2853,7 +3259,9 @@
     "price": 8.34,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AUG | Bengal Tiger"
+    "item_name": "AUG | Bengal Tiger",
+    "rarity": "Classified",
+    "paint_index": "9"
   },
   {
     "id": "skin-524324",
@@ -2867,7 +3275,9 @@
     "price": 9.96,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AUG | Bengal Tiger"
+    "item_name": "AUG | Bengal Tiger",
+    "rarity": "Classified",
+    "paint_index": "9"
   },
   {
     "id": "skin-524324",
@@ -2881,7 +3291,9 @@
     "price": 36.05,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Bengal Tiger"
+    "item_name": "AUG | Bengal Tiger",
+    "rarity": "Classified",
+    "paint_index": "9"
   },
   {
     "id": "skin-524324",
@@ -2895,7 +3307,9 @@
     "price": 3.41,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Bengal Tiger"
+    "item_name": "AUG | Bengal Tiger",
+    "rarity": "Classified",
+    "paint_index": "9"
   },
   {
     "id": "skin-524324",
@@ -2909,7 +3323,9 @@
     "price": 20.67,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AUG | Bengal Tiger"
+    "item_name": "AUG | Bengal Tiger",
+    "rarity": "Classified",
+    "paint_index": "9"
   },
   {
     "id": "skin-524324",
@@ -2923,7 +3339,9 @@
     "price": 7.43,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Bengal Tiger"
+    "item_name": "AUG | Bengal Tiger",
+    "rarity": "Classified",
+    "paint_index": "9"
   },
   {
     "id": "skin-524324",
@@ -2937,7 +3355,9 @@
     "price": 3.78,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Bengal Tiger"
+    "item_name": "AUG | Bengal Tiger",
+    "rarity": "Classified",
+    "paint_index": "9"
   },
   {
     "id": "skin-524324",
@@ -2951,7 +3371,9 @@
     "price": 68.57,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AUG | Bengal Tiger"
+    "item_name": "AUG | Bengal Tiger",
+    "rarity": "Classified",
+    "paint_index": "9"
   },
   {
     "id": "skin-524324",
@@ -2965,7 +3387,9 @@
     "price": 4.48,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Bengal Tiger"
+    "item_name": "AUG | Bengal Tiger",
+    "rarity": "Classified",
+    "paint_index": "9"
   },
   {
     "id": "skin-524324",
@@ -2979,7 +3403,9 @@
     "price": 8.45,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AUG | Bengal Tiger"
+    "item_name": "AUG | Bengal Tiger",
+    "rarity": "Classified",
+    "paint_index": "9"
   },
   {
     "id": "skin-526064",
@@ -2993,7 +3419,9 @@
     "price": 2.99,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Daedalus"
+    "item_name": "AUG | Daedalus",
+    "rarity": "Consumer Grade",
+    "paint_index": "444"
   },
   {
     "id": "skin-526064",
@@ -3007,7 +3435,9 @@
     "price": 3.47,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Daedalus"
+    "item_name": "AUG | Daedalus",
+    "rarity": "Consumer Grade",
+    "paint_index": "444"
   },
   {
     "id": "skin-526064",
@@ -3021,7 +3451,9 @@
     "price": 2.79,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Daedalus"
+    "item_name": "AUG | Daedalus",
+    "rarity": "Consumer Grade",
+    "paint_index": "444"
   },
   {
     "id": "skin-526064",
@@ -3035,7 +3467,9 @@
     "price": 2.73,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Daedalus"
+    "item_name": "AUG | Daedalus",
+    "rarity": "Consumer Grade",
+    "paint_index": "444"
   },
   {
     "id": "skin-526064",
@@ -3049,7 +3483,9 @@
     "price": 2.88,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Daedalus"
+    "item_name": "AUG | Daedalus",
+    "rarity": "Consumer Grade",
+    "paint_index": "444"
   },
   {
     "id": "skin-524728",
@@ -3063,7 +3499,9 @@
     "price": 0.07,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Condemned"
+    "item_name": "AUG | Condemned",
+    "rarity": "Industrial Grade",
+    "paint_index": "110"
   },
   {
     "id": "skin-524728",
@@ -3077,7 +3515,9 @@
     "price": 0.07,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Condemned"
+    "item_name": "AUG | Condemned",
+    "rarity": "Industrial Grade",
+    "paint_index": "110"
   },
   {
     "id": "skin-524728",
@@ -3091,7 +3531,9 @@
     "price": 0.09,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Condemned"
+    "item_name": "AUG | Condemned",
+    "rarity": "Industrial Grade",
+    "paint_index": "110"
   },
   {
     "id": "skin-524728",
@@ -3105,7 +3547,9 @@
     "price": 0.06,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Condemned"
+    "item_name": "AUG | Condemned",
+    "rarity": "Industrial Grade",
+    "paint_index": "110"
   },
   {
     "id": "skin-524728",
@@ -3119,7 +3563,9 @@
     "price": 0.55,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Condemned"
+    "item_name": "AUG | Condemned",
+    "rarity": "Industrial Grade",
+    "paint_index": "110"
   },
   {
     "id": "skin-527248",
@@ -3133,7 +3579,9 @@
     "price": 0.88,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Navy Murano"
+    "item_name": "AUG | Navy Murano",
+    "rarity": "Consumer Grade",
+    "paint_index": "740"
   },
   {
     "id": "skin-527248",
@@ -3147,7 +3595,9 @@
     "price": 0.88,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Navy Murano"
+    "item_name": "AUG | Navy Murano",
+    "rarity": "Consumer Grade",
+    "paint_index": "740"
   },
   {
     "id": "skin-527248",
@@ -3161,7 +3611,9 @@
     "price": 1.06,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Navy Murano"
+    "item_name": "AUG | Navy Murano",
+    "rarity": "Consumer Grade",
+    "paint_index": "740"
   },
   {
     "id": "skin-527248",
@@ -3175,7 +3627,9 @@
     "price": 3.43,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Navy Murano"
+    "item_name": "AUG | Navy Murano",
+    "rarity": "Consumer Grade",
+    "paint_index": "740"
   },
   {
     "id": "skin-527248",
@@ -3189,7 +3643,9 @@
     "price": 0.78,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Navy Murano"
+    "item_name": "AUG | Navy Murano",
+    "rarity": "Consumer Grade",
+    "paint_index": "740"
   },
   {
     "id": "skin-527580",
@@ -3203,7 +3659,9 @@
     "price": 43.88,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Sand Storm"
+    "item_name": "AUG | Sand Storm",
+    "rarity": "Restricted",
+    "paint_index": "823"
   },
   {
     "id": "skin-527580",
@@ -3217,7 +3675,9 @@
     "price": 43.6,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Sand Storm"
+    "item_name": "AUG | Sand Storm",
+    "rarity": "Restricted",
+    "paint_index": "823"
   },
   {
     "id": "skin-527580",
@@ -3231,7 +3691,9 @@
     "price": 46.24,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Sand Storm"
+    "item_name": "AUG | Sand Storm",
+    "rarity": "Restricted",
+    "paint_index": "823"
   },
   {
     "id": "skin-527580",
@@ -3245,7 +3707,9 @@
     "price": 61.71,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Sand Storm"
+    "item_name": "AUG | Sand Storm",
+    "rarity": "Restricted",
+    "paint_index": "823"
   },
   {
     "id": "skin-527580",
@@ -3259,7 +3723,9 @@
     "price": 47.24,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Sand Storm"
+    "item_name": "AUG | Sand Storm",
+    "rarity": "Restricted",
+    "paint_index": "823"
   },
   {
     "id": "skin-526108",
@@ -3273,7 +3739,9 @@
     "price": 329.11,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Akihabara Accept"
+    "item_name": "AUG | Akihabara Accept",
+    "rarity": "Covert",
+    "paint_index": "455"
   },
   {
     "id": "skin-526108",
@@ -3287,7 +3755,9 @@
     "price": 589.53,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Akihabara Accept"
+    "item_name": "AUG | Akihabara Accept",
+    "rarity": "Covert",
+    "paint_index": "455"
   },
   {
     "id": "skin-526108",
@@ -3301,7 +3771,9 @@
     "price": 287.7,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Akihabara Accept"
+    "item_name": "AUG | Akihabara Accept",
+    "rarity": "Covert",
+    "paint_index": "455"
   },
   {
     "id": "skin-526108",
@@ -3315,7 +3787,9 @@
     "price": 4098.57,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Akihabara Accept"
+    "item_name": "AUG | Akihabara Accept",
+    "rarity": "Covert",
+    "paint_index": "455"
   },
   {
     "id": "skin-526108",
@@ -3329,7 +3803,9 @@
     "price": 1480.88,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Akihabara Accept"
+    "item_name": "AUG | Akihabara Accept",
+    "rarity": "Covert",
+    "paint_index": "455"
   },
   {
     "id": "skin-528420",
@@ -3343,7 +3819,9 @@
     "price": 15.77,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Carved Jade"
+    "item_name": "AUG | Carved Jade",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1033"
   },
   {
     "id": "skin-528420",
@@ -3357,7 +3835,9 @@
     "price": 16.52,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Carved Jade"
+    "item_name": "AUG | Carved Jade",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1033"
   },
   {
     "id": "skin-528420",
@@ -3371,7 +3851,9 @@
     "price": 12.25,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Carved Jade"
+    "item_name": "AUG | Carved Jade",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1033"
   },
   {
     "id": "skin-524420",
@@ -3385,7 +3867,9 @@
     "price": 671.94,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Hot Rod"
+    "item_name": "AUG | Hot Rod",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "33"
   },
   {
     "id": "skin-524420",
@@ -3399,7 +3883,9 @@
     "price": 341.18,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Hot Rod"
+    "item_name": "AUG | Hot Rod",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "33"
   },
   {
     "id": "skin-524328",
@@ -3413,7 +3899,9 @@
     "price": 69.66,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Copperhead"
+    "item_name": "AUG | Copperhead",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "10"
   },
   {
     "id": "skin-524328",
@@ -3427,6 +3915,8 @@
     "price": 75.42,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AUG | Copperhead"
+    "item_name": "AUG | Copperhead",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "10"
   }
 ]

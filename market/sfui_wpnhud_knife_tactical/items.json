@@ -11,7 +11,9 @@
     "price": 275.77,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Huntsman Knife"
+    "item_name": "★ Huntsman Knife",
+    "rarity": "Covert",
+    "paint_index": null
   },
   {
     "id": "skin-vanilla-weapon_knife_tactical",
@@ -25,6 +27,8 @@
     "price": 199.93,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Huntsman Knife"
+    "item_name": "★ Huntsman Knife",
+    "rarity": "Covert",
+    "paint_index": null
   }
 ]

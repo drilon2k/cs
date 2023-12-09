@@ -11,7 +11,9 @@
     "price": 165.39,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Paracord Knife"
+    "item_name": "★ Paracord Knife",
+    "rarity": "Covert",
+    "paint_index": null
   },
   {
     "id": "skin-vanilla-weapon_knife_cord",
@@ -25,6 +27,8 @@
     "price": 183.8,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Paracord Knife"
+    "item_name": "★ Paracord Knife",
+    "rarity": "Covert",
+    "paint_index": null
   }
 ]

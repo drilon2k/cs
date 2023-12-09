@@ -11,7 +11,9 @@
     "price": 588.15,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Bayonet | Marble Fade"
+    "item_name": "★ Bayonet | Marble Fade",
+    "rarity": "Covert",
+    "paint_index": "413"
   },
   {
     "id": "skin-32769652",
@@ -25,7 +27,9 @@
     "price": 561.96,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Bayonet | Marble Fade"
+    "item_name": "★ Bayonet | Marble Fade",
+    "rarity": "Covert",
+    "paint_index": "413"
   },
   {
     "id": "skin-32769652",
@@ -39,7 +43,9 @@
     "price": 617.09,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Bayonet | Marble Fade"
+    "item_name": "★ Bayonet | Marble Fade",
+    "rarity": "Covert",
+    "paint_index": "413"
   },
   {
     "id": "skin-32769652",
@@ -53,7 +59,9 @@
     "price": 713.08,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Bayonet | Marble Fade"
+    "item_name": "★ Bayonet | Marble Fade",
+    "rarity": "Covert",
+    "paint_index": "413"
   },
   {
     "id": "skin-32770232",
@@ -67,7 +75,9 @@
     "price": 319.52,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Bayonet | Lore"
+    "item_name": "★ Bayonet | Lore",
+    "rarity": "Covert",
+    "paint_index": "558"
   },
   {
     "id": "skin-32770232",
@@ -81,7 +91,9 @@
     "price": 809.07,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Bayonet | Lore"
+    "item_name": "★ Bayonet | Lore",
+    "rarity": "Covert",
+    "paint_index": "558"
   },
   {
     "id": "skin-32770232",
@@ -95,7 +107,9 @@
     "price": 596.45,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Bayonet | Lore"
+    "item_name": "★ Bayonet | Lore",
+    "rarity": "Covert",
+    "paint_index": "558"
   },
   {
     "id": "skin-32770232",
@@ -109,7 +123,9 @@
     "price": 397.41,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Bayonet | Lore"
+    "item_name": "★ Bayonet | Lore",
+    "rarity": "Covert",
+    "paint_index": "558"
   },
   {
     "id": "skin-32770232",
@@ -123,7 +139,9 @@
     "price": 930.98,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Bayonet | Lore"
+    "item_name": "★ Bayonet | Lore",
+    "rarity": "Covert",
+    "paint_index": "558"
   },
   {
     "id": "skin-32770232",
@@ -137,7 +155,9 @@
     "price": 623.81,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Bayonet | Lore"
+    "item_name": "★ Bayonet | Lore",
+    "rarity": "Covert",
+    "paint_index": "558"
   },
   {
     "id": "skin-32770232",
@@ -151,7 +171,9 @@
     "price": 308.41,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Bayonet | Lore"
+    "item_name": "★ Bayonet | Lore",
+    "rarity": "Covert",
+    "paint_index": "558"
   },
   {
     "id": "skin-32770232",
@@ -165,7 +187,9 @@
     "price": 411.26,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Bayonet | Lore"
+    "item_name": "★ Bayonet | Lore",
+    "rarity": "Covert",
+    "paint_index": "558"
   },
   {
     "id": "skin-32770232",
@@ -179,7 +203,9 @@
     "price": 396.03,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Bayonet | Lore"
+    "item_name": "★ Bayonet | Lore",
+    "rarity": "Covert",
+    "paint_index": "558"
   },
   {
     "id": "skin-32770232",
@@ -193,7 +219,9 @@
     "price": 408.65,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Bayonet | Lore"
+    "item_name": "★ Bayonet | Lore",
+    "rarity": "Covert",
+    "paint_index": "558"
   },
   {
     "id": "skin-32768020",
@@ -207,7 +235,9 @@
     "price": 164.42,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Bayonet | Forest DDPAT"
+    "item_name": "★ Bayonet | Forest DDPAT",
+    "rarity": "Covert",
+    "paint_index": "5"
   },
   {
     "id": "skin-32768020",
@@ -221,7 +251,9 @@
     "price": 176.9,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Bayonet | Forest DDPAT"
+    "item_name": "★ Bayonet | Forest DDPAT",
+    "rarity": "Covert",
+    "paint_index": "5"
   },
   {
     "id": "skin-32768020",
@@ -235,7 +267,9 @@
     "price": 225.96,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Bayonet | Forest DDPAT"
+    "item_name": "★ Bayonet | Forest DDPAT",
+    "rarity": "Covert",
+    "paint_index": "5"
   },
   {
     "id": "skin-32768020",
@@ -249,7 +283,9 @@
     "price": 377.11,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Bayonet | Forest DDPAT"
+    "item_name": "★ Bayonet | Forest DDPAT",
+    "rarity": "Covert",
+    "paint_index": "5"
   },
   {
     "id": "skin-32768020",
@@ -263,7 +299,9 @@
     "price": 165.93,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Bayonet | Forest DDPAT"
+    "item_name": "★ Bayonet | Forest DDPAT",
+    "rarity": "Covert",
+    "paint_index": "5"
   },
   {
     "id": "skin-32768020",
@@ -277,7 +315,9 @@
     "price": 0,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Bayonet | Forest DDPAT"
+    "item_name": "★ Bayonet | Forest DDPAT",
+    "rarity": "Covert",
+    "paint_index": "5"
   },
   {
     "id": "skin-32768020",
@@ -291,7 +331,9 @@
     "price": 0,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Bayonet | Forest DDPAT"
+    "item_name": "★ Bayonet | Forest DDPAT",
+    "rarity": "Covert",
+    "paint_index": "5"
   },
   {
     "id": "skin-32768020",
@@ -305,7 +347,9 @@
     "price": 210.91,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Bayonet | Forest DDPAT"
+    "item_name": "★ Bayonet | Forest DDPAT",
+    "rarity": "Covert",
+    "paint_index": "5"
   },
   {
     "id": "skin-32768020",
@@ -319,7 +363,9 @@
     "price": 160.65,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Bayonet | Forest DDPAT"
+    "item_name": "★ Bayonet | Forest DDPAT",
+    "rarity": "Covert",
+    "paint_index": "5"
   },
   {
     "id": "skin-32768020",
@@ -333,7 +379,9 @@
     "price": 164.28,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Bayonet | Forest DDPAT"
+    "item_name": "★ Bayonet | Forest DDPAT",
+    "rarity": "Covert",
+    "paint_index": "5"
   },
   {
     "id": "skin-32768392",
@@ -347,7 +395,9 @@
     "price": 219.41,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Bayonet | Ultraviolet"
+    "item_name": "★ Bayonet | Ultraviolet",
+    "rarity": "Covert",
+    "paint_index": "98"
   },
   {
     "id": "skin-32768392",
@@ -361,7 +411,9 @@
     "price": 201.58,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Bayonet | Ultraviolet"
+    "item_name": "★ Bayonet | Ultraviolet",
+    "rarity": "Covert",
+    "paint_index": "98"
   },
   {
     "id": "skin-32768392",
@@ -375,7 +427,9 @@
     "price": 186.77,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Bayonet | Ultraviolet"
+    "item_name": "★ Bayonet | Ultraviolet",
+    "rarity": "Covert",
+    "paint_index": "98"
   },
   {
     "id": "skin-32768392",
@@ -389,7 +443,9 @@
     "price": 191.98,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Bayonet | Ultraviolet"
+    "item_name": "★ Bayonet | Ultraviolet",
+    "rarity": "Covert",
+    "paint_index": "98"
   },
   {
     "id": "skin-32768392",
@@ -403,7 +459,9 @@
     "price": 639.85,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Bayonet | Ultraviolet"
+    "item_name": "★ Bayonet | Ultraviolet",
+    "rarity": "Covert",
+    "paint_index": "98"
   },
   {
     "id": "skin-32768392",
@@ -417,7 +475,9 @@
     "price": 181.7,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Bayonet | Ultraviolet"
+    "item_name": "★ Bayonet | Ultraviolet",
+    "rarity": "Covert",
+    "paint_index": "98"
   },
   {
     "id": "skin-32768392",
@@ -431,7 +491,9 @@
     "price": 301.55,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Bayonet | Ultraviolet"
+    "item_name": "★ Bayonet | Ultraviolet",
+    "rarity": "Covert",
+    "paint_index": "98"
   },
   {
     "id": "skin-32768392",
@@ -445,7 +507,9 @@
     "price": 0,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Bayonet | Ultraviolet"
+    "item_name": "★ Bayonet | Ultraviolet",
+    "rarity": "Covert",
+    "paint_index": "98"
   },
   {
     "id": "skin-32768392",
@@ -459,7 +523,9 @@
     "price": 209.12,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Bayonet | Ultraviolet"
+    "item_name": "★ Bayonet | Ultraviolet",
+    "rarity": "Covert",
+    "paint_index": "98"
   },
   {
     "id": "skin-32768392",
@@ -473,7 +539,9 @@
     "price": 299.91,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Bayonet | Ultraviolet"
+    "item_name": "★ Bayonet | Ultraviolet",
+    "rarity": "Covert",
+    "paint_index": "98"
   },
   {
     "id": "skin-32768700",
@@ -487,7 +555,9 @@
     "price": 191.98,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Bayonet | Scorched"
+    "item_name": "★ Bayonet | Scorched",
+    "rarity": "Covert",
+    "paint_index": "175"
   },
   {
     "id": "skin-32768700",
@@ -501,7 +571,9 @@
     "price": 0,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Bayonet | Scorched"
+    "item_name": "★ Bayonet | Scorched",
+    "rarity": "Covert",
+    "paint_index": "175"
   },
   {
     "id": "skin-32768700",
@@ -515,7 +587,9 @@
     "price": 182.32,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Bayonet | Scorched"
+    "item_name": "★ Bayonet | Scorched",
+    "rarity": "Covert",
+    "paint_index": "175"
   },
   {
     "id": "skin-32768700",
@@ -529,7 +603,9 @@
     "price": 169.36,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Bayonet | Scorched"
+    "item_name": "★ Bayonet | Scorched",
+    "rarity": "Covert",
+    "paint_index": "175"
   },
   {
     "id": "skin-32768700",
@@ -543,7 +619,9 @@
     "price": 617.09,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Bayonet | Scorched"
+    "item_name": "★ Bayonet | Scorched",
+    "rarity": "Covert",
+    "paint_index": "175"
   },
   {
     "id": "skin-32768700",
@@ -557,7 +635,9 @@
     "price": 198.84,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Bayonet | Scorched"
+    "item_name": "★ Bayonet | Scorched",
+    "rarity": "Covert",
+    "paint_index": "175"
   },
   {
     "id": "skin-32768700",
@@ -571,7 +651,9 @@
     "price": 171.35,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Bayonet | Scorched"
+    "item_name": "★ Bayonet | Scorched",
+    "rarity": "Covert",
+    "paint_index": "175"
   },
   {
     "id": "skin-32768700",
@@ -585,7 +667,9 @@
     "price": 172.77,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Bayonet | Scorched"
+    "item_name": "★ Bayonet | Scorched",
+    "rarity": "Covert",
+    "paint_index": "175"
   },
   {
     "id": "skin-32768700",
@@ -599,7 +683,9 @@
     "price": 246.36,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Bayonet | Scorched"
+    "item_name": "★ Bayonet | Scorched",
+    "rarity": "Covert",
+    "paint_index": "175"
   },
   {
     "id": "skin-32768700",
@@ -613,7 +699,9 @@
     "price": 188.69,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Bayonet | Scorched"
+    "item_name": "★ Bayonet | Scorched",
+    "rarity": "Covert",
+    "paint_index": "175"
   },
   {
     "id": "skin-32770252",
@@ -627,7 +715,9 @@
     "price": 507.38,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Bayonet | Black Laminate"
+    "item_name": "★ Bayonet | Black Laminate",
+    "rarity": "Covert",
+    "paint_index": "563"
   },
   {
     "id": "skin-32770252",
@@ -641,7 +731,9 @@
     "price": 286.32,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Bayonet | Black Laminate"
+    "item_name": "★ Bayonet | Black Laminate",
+    "rarity": "Covert",
+    "paint_index": "563"
   },
   {
     "id": "skin-32770252",
@@ -655,7 +747,9 @@
     "price": 239.98,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Bayonet | Black Laminate"
+    "item_name": "★ Bayonet | Black Laminate",
+    "rarity": "Covert",
+    "paint_index": "563"
   },
   {
     "id": "skin-32770252",
@@ -669,7 +763,9 @@
     "price": 258.56,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Bayonet | Black Laminate"
+    "item_name": "★ Bayonet | Black Laminate",
+    "rarity": "Covert",
+    "paint_index": "563"
   },
   {
     "id": "skin-32770252",
@@ -683,7 +779,9 @@
     "price": 250.95,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Bayonet | Black Laminate"
+    "item_name": "★ Bayonet | Black Laminate",
+    "rarity": "Covert",
+    "paint_index": "563"
   },
   {
     "id": "skin-32770252",
@@ -697,7 +795,9 @@
     "price": 299.43,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Bayonet | Black Laminate"
+    "item_name": "★ Bayonet | Black Laminate",
+    "rarity": "Covert",
+    "paint_index": "563"
   },
   {
     "id": "skin-32770252",
@@ -711,7 +811,9 @@
     "price": 279.75,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Bayonet | Black Laminate"
+    "item_name": "★ Bayonet | Black Laminate",
+    "rarity": "Covert",
+    "paint_index": "563"
   },
   {
     "id": "skin-32770252",
@@ -725,7 +827,9 @@
     "price": 260.41,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Bayonet | Black Laminate"
+    "item_name": "★ Bayonet | Black Laminate",
+    "rarity": "Covert",
+    "paint_index": "563"
   },
   {
     "id": "skin-32770252",
@@ -739,7 +843,9 @@
     "price": 548.52,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Bayonet | Black Laminate"
+    "item_name": "★ Bayonet | Black Laminate",
+    "rarity": "Covert",
+    "paint_index": "563"
   },
   {
     "id": "skin-32770252",
@@ -753,7 +859,9 @@
     "price": 232.99,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Bayonet | Black Laminate"
+    "item_name": "★ Bayonet | Black Laminate",
+    "rarity": "Covert",
+    "paint_index": "563"
   },
   {
     "id": "skin-32768176",
@@ -767,7 +875,9 @@
     "price": 363.19,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Bayonet | Case Hardened"
+    "item_name": "★ Bayonet | Case Hardened",
+    "rarity": "Covert",
+    "paint_index": "44"
   },
   {
     "id": "skin-32768176",
@@ -781,7 +891,9 @@
     "price": 424.97,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Bayonet | Case Hardened"
+    "item_name": "★ Bayonet | Case Hardened",
+    "rarity": "Covert",
+    "paint_index": "44"
   },
   {
     "id": "skin-32768176",
@@ -795,7 +907,9 @@
     "price": 334.33,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Bayonet | Case Hardened"
+    "item_name": "★ Bayonet | Case Hardened",
+    "rarity": "Covert",
+    "paint_index": "44"
   },
   {
     "id": "skin-32768176",
@@ -809,7 +923,9 @@
     "price": 438.41,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Bayonet | Case Hardened"
+    "item_name": "★ Bayonet | Case Hardened",
+    "rarity": "Covert",
+    "paint_index": "44"
   },
   {
     "id": "skin-32768176",
@@ -823,7 +939,9 @@
     "price": 301.69,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Bayonet | Case Hardened"
+    "item_name": "★ Bayonet | Case Hardened",
+    "rarity": "Covert",
+    "paint_index": "44"
   },
   {
     "id": "skin-32768176",
@@ -837,7 +955,9 @@
     "price": 410.57,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Bayonet | Case Hardened"
+    "item_name": "★ Bayonet | Case Hardened",
+    "rarity": "Covert",
+    "paint_index": "44"
   },
   {
     "id": "skin-32768176",
@@ -851,7 +971,9 @@
     "price": 833.53,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Bayonet | Case Hardened"
+    "item_name": "★ Bayonet | Case Hardened",
+    "rarity": "Covert",
+    "paint_index": "44"
   },
   {
     "id": "skin-32768176",
@@ -865,7 +987,9 @@
     "price": 749.42,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Bayonet | Case Hardened"
+    "item_name": "★ Bayonet | Case Hardened",
+    "rarity": "Covert",
+    "paint_index": "44"
   },
   {
     "id": "skin-32768176",
@@ -879,7 +1003,9 @@
     "price": 353.11,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Bayonet | Case Hardened"
+    "item_name": "★ Bayonet | Case Hardened",
+    "rarity": "Covert",
+    "paint_index": "44"
   },
   {
     "id": "skin-32768176",
@@ -893,7 +1019,9 @@
     "price": 295.52,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Bayonet | Case Hardened"
+    "item_name": "★ Bayonet | Case Hardened",
+    "rarity": "Covert",
+    "paint_index": "44"
   },
   {
     "id": "skin-32770312",
@@ -907,7 +1035,9 @@
     "price": 283.18,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Bayonet | Bright Water"
+    "item_name": "★ Bayonet | Bright Water",
+    "rarity": "Covert",
+    "paint_index": "578"
   },
   {
     "id": "skin-32770312",
@@ -921,7 +1051,9 @@
     "price": 327.47,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Bayonet | Bright Water"
+    "item_name": "★ Bayonet | Bright Water",
+    "rarity": "Covert",
+    "paint_index": "578"
   },
   {
     "id": "skin-32770312",
@@ -935,7 +1067,9 @@
     "price": 294.83,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Bayonet | Bright Water"
+    "item_name": "★ Bayonet | Bright Water",
+    "rarity": "Covert",
+    "paint_index": "578"
   },
   {
     "id": "skin-32770312",
@@ -949,7 +1083,9 @@
     "price": 259.18,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Bayonet | Bright Water"
+    "item_name": "★ Bayonet | Bright Water",
+    "rarity": "Covert",
+    "paint_index": "578"
   },
   {
     "id": "skin-32770312",
@@ -963,7 +1099,9 @@
     "price": 255.06,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Bayonet | Bright Water"
+    "item_name": "★ Bayonet | Bright Water",
+    "rarity": "Covert",
+    "paint_index": "578"
   },
   {
     "id": "skin-32770312",
@@ -977,7 +1115,9 @@
     "price": 219.41,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Bayonet | Bright Water"
+    "item_name": "★ Bayonet | Bright Water",
+    "rarity": "Covert",
+    "paint_index": "578"
   },
   {
     "id": "skin-32770312",
@@ -991,7 +1131,9 @@
     "price": 211.73,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Bayonet | Bright Water"
+    "item_name": "★ Bayonet | Bright Water",
+    "rarity": "Covert",
+    "paint_index": "578"
   },
   {
     "id": "skin-32770312",
@@ -1005,7 +1147,9 @@
     "price": 219.34,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Bayonet | Bright Water"
+    "item_name": "★ Bayonet | Bright Water",
+    "rarity": "Covert",
+    "paint_index": "578"
   },
   {
     "id": "skin-32770312",
@@ -1019,7 +1163,9 @@
     "price": 286.6,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Bayonet | Bright Water"
+    "item_name": "★ Bayonet | Bright Water",
+    "rarity": "Covert",
+    "paint_index": "578"
   },
   {
     "id": "skin-32770312",
@@ -1033,7 +1179,9 @@
     "price": 230.38,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Bayonet | Bright Water"
+    "item_name": "★ Bayonet | Bright Water",
+    "rarity": "Covert",
+    "paint_index": "578"
   },
   {
     "id": "skin-32770292",
@@ -1047,7 +1195,9 @@
     "price": 383.97,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Bayonet | Autotronic"
+    "item_name": "★ Bayonet | Autotronic",
+    "rarity": "Covert",
+    "paint_index": "573"
   },
   {
     "id": "skin-32770292",
@@ -1061,7 +1211,9 @@
     "price": 445.67,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Bayonet | Autotronic"
+    "item_name": "★ Bayonet | Autotronic",
+    "rarity": "Covert",
+    "paint_index": "573"
   },
   {
     "id": "skin-32770292",
@@ -1075,7 +1227,9 @@
     "price": 397.68,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Bayonet | Autotronic"
+    "item_name": "★ Bayonet | Autotronic",
+    "rarity": "Covert",
+    "paint_index": "573"
   },
   {
     "id": "skin-32770292",
@@ -1089,7 +1243,9 @@
     "price": 799.88,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Bayonet | Autotronic"
+    "item_name": "★ Bayonet | Autotronic",
+    "rarity": "Covert",
+    "paint_index": "573"
   },
   {
     "id": "skin-32770292",
@@ -1103,7 +1259,9 @@
     "price": 437.45,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Bayonet | Autotronic"
+    "item_name": "★ Bayonet | Autotronic",
+    "rarity": "Covert",
+    "paint_index": "573"
   },
   {
     "id": "skin-32770292",
@@ -1117,7 +1275,9 @@
     "price": 484.07,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Bayonet | Autotronic"
+    "item_name": "★ Bayonet | Autotronic",
+    "rarity": "Covert",
+    "paint_index": "573"
   },
   {
     "id": "skin-32770292",
@@ -1131,7 +1291,9 @@
     "price": 863.86,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Bayonet | Autotronic"
+    "item_name": "★ Bayonet | Autotronic",
+    "rarity": "Covert",
+    "paint_index": "573"
   },
   {
     "id": "skin-32770292",
@@ -1145,7 +1307,9 @@
     "price": 413.86,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Bayonet | Autotronic"
+    "item_name": "★ Bayonet | Autotronic",
+    "rarity": "Covert",
+    "paint_index": "573"
   },
   {
     "id": "skin-32770292",
@@ -1159,7 +1323,9 @@
     "price": 391.3,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Bayonet | Autotronic"
+    "item_name": "★ Bayonet | Autotronic",
+    "rarity": "Covert",
+    "paint_index": "573"
   },
   {
     "id": "skin-32770292",
@@ -1173,7 +1339,9 @@
     "price": 514.24,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Bayonet | Autotronic"
+    "item_name": "★ Bayonet | Autotronic",
+    "rarity": "Covert",
+    "paint_index": "573"
   },
   {
     "id": "skin-32768168",
@@ -1187,7 +1355,9 @@
     "price": 242.72,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Bayonet | Blue Steel"
+    "item_name": "★ Bayonet | Blue Steel",
+    "rarity": "Covert",
+    "paint_index": "42"
   },
   {
     "id": "skin-32768168",
@@ -1201,7 +1371,9 @@
     "price": 260.27,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Bayonet | Blue Steel"
+    "item_name": "★ Bayonet | Blue Steel",
+    "rarity": "Covert",
+    "paint_index": "42"
   },
   {
     "id": "skin-32768168",
@@ -1215,7 +1387,9 @@
     "price": 349.48,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Bayonet | Blue Steel"
+    "item_name": "★ Bayonet | Blue Steel",
+    "rarity": "Covert",
+    "paint_index": "42"
   },
   {
     "id": "skin-32768168",
@@ -1229,7 +1403,9 @@
     "price": 294.83,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Bayonet | Blue Steel"
+    "item_name": "★ Bayonet | Blue Steel",
+    "rarity": "Covert",
+    "paint_index": "42"
   },
   {
     "id": "skin-32768168",
@@ -1243,7 +1419,9 @@
     "price": 253.69,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Bayonet | Blue Steel"
+    "item_name": "★ Bayonet | Blue Steel",
+    "rarity": "Covert",
+    "paint_index": "42"
   },
   {
     "id": "skin-32768168",
@@ -1257,7 +1435,9 @@
     "price": 547.15,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Bayonet | Blue Steel"
+    "item_name": "★ Bayonet | Blue Steel",
+    "rarity": "Covert",
+    "paint_index": "42"
   },
   {
     "id": "skin-32768168",
@@ -1271,7 +1451,9 @@
     "price": 273.71,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Bayonet | Blue Steel"
+    "item_name": "★ Bayonet | Blue Steel",
+    "rarity": "Covert",
+    "paint_index": "42"
   },
   {
     "id": "skin-32768168",
@@ -1285,7 +1467,9 @@
     "price": 0,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Bayonet | Blue Steel"
+    "item_name": "★ Bayonet | Blue Steel",
+    "rarity": "Covert",
+    "paint_index": "42"
   },
   {
     "id": "skin-32768168",
@@ -1299,7 +1483,9 @@
     "price": 274.12,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Bayonet | Blue Steel"
+    "item_name": "★ Bayonet | Blue Steel",
+    "rarity": "Covert",
+    "paint_index": "42"
   },
   {
     "id": "skin-32768168",
@@ -1313,7 +1499,9 @@
     "price": 274.26,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Bayonet | Blue Steel"
+    "item_name": "★ Bayonet | Blue Steel",
+    "rarity": "Covert",
+    "paint_index": "42"
   },
   {
     "id": "skin-32769684",
@@ -1327,7 +1515,9 @@
     "price": 555.38,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Bayonet | Doppler"
+    "item_name": "★ Bayonet | Doppler",
+    "rarity": "Covert",
+    "paint_index": "421"
   },
   {
     "id": "skin-32769684",
@@ -1341,7 +1531,9 @@
     "price": 658.09,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Bayonet | Doppler"
+    "item_name": "★ Bayonet | Doppler",
+    "rarity": "Covert",
+    "paint_index": "421"
   },
   {
     "id": "skin-32769684",
@@ -1355,7 +1547,9 @@
     "price": 570.19,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Bayonet | Doppler"
+    "item_name": "★ Bayonet | Doppler",
+    "rarity": "Covert",
+    "paint_index": "421"
   },
   {
     "id": "skin-32769684",
@@ -1369,7 +1563,9 @@
     "price": 677.29,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Bayonet | Doppler"
+    "item_name": "★ Bayonet | Doppler",
+    "rarity": "Covert",
+    "paint_index": "421"
   },
   {
     "id": "skin-32769656",
@@ -1383,7 +1579,9 @@
     "price": 197.19,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Bayonet | Rust Coat"
+    "item_name": "★ Bayonet | Rust Coat",
+    "rarity": "Covert",
+    "paint_index": "414"
   },
   {
     "id": "skin-32769656",
@@ -1397,7 +1595,9 @@
     "price": 186.16,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Bayonet | Rust Coat"
+    "item_name": "★ Bayonet | Rust Coat",
+    "rarity": "Covert",
+    "paint_index": "414"
   },
   {
     "id": "skin-32769656",
@@ -1411,7 +1611,9 @@
     "price": 204.33,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Bayonet | Rust Coat"
+    "item_name": "★ Bayonet | Rust Coat",
+    "rarity": "Covert",
+    "paint_index": "414"
   },
   {
     "id": "skin-32769656",
@@ -1425,7 +1627,9 @@
     "price": 411.26,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Bayonet | Rust Coat"
+    "item_name": "★ Bayonet | Rust Coat",
+    "rarity": "Covert",
+    "paint_index": "414"
   },
   {
     "id": "skin-32768048",
@@ -1439,7 +1643,9 @@
     "price": 2536.79,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Bayonet | Crimson Web"
+    "item_name": "★ Bayonet | Crimson Web",
+    "rarity": "Covert",
+    "paint_index": "12"
   },
   {
     "id": "skin-32768048",
@@ -1453,7 +1659,9 @@
     "price": 253.28,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Bayonet | Crimson Web"
+    "item_name": "★ Bayonet | Crimson Web",
+    "rarity": "Covert",
+    "paint_index": "12"
   },
   {
     "id": "skin-32768048",
@@ -1467,7 +1675,9 @@
     "price": 260.41,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Bayonet | Crimson Web"
+    "item_name": "★ Bayonet | Crimson Web",
+    "rarity": "Covert",
+    "paint_index": "12"
   },
   {
     "id": "skin-32768048",
@@ -1481,7 +1691,9 @@
     "price": 0,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Bayonet | Crimson Web"
+    "item_name": "★ Bayonet | Crimson Web",
+    "rarity": "Covert",
+    "paint_index": "12"
   },
   {
     "id": "skin-32768048",
@@ -1495,7 +1707,9 @@
     "price": 534.81,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Bayonet | Crimson Web"
+    "item_name": "★ Bayonet | Crimson Web",
+    "rarity": "Covert",
+    "paint_index": "12"
   },
   {
     "id": "skin-32768048",
@@ -1509,7 +1723,9 @@
     "price": 521.1,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Bayonet | Crimson Web"
+    "item_name": "★ Bayonet | Crimson Web",
+    "rarity": "Covert",
+    "paint_index": "12"
   },
   {
     "id": "skin-32768048",
@@ -1523,7 +1739,9 @@
     "price": 271.73,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Bayonet | Crimson Web"
+    "item_name": "★ Bayonet | Crimson Web",
+    "rarity": "Covert",
+    "paint_index": "12"
   },
   {
     "id": "skin-32768048",
@@ -1537,7 +1755,9 @@
     "price": 287.91,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Bayonet | Crimson Web"
+    "item_name": "★ Bayonet | Crimson Web",
+    "rarity": "Covert",
+    "paint_index": "12"
   },
   {
     "id": "skin-32768048",
@@ -1551,7 +1771,9 @@
     "price": 264.66,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Bayonet | Crimson Web"
+    "item_name": "★ Bayonet | Crimson Web",
+    "rarity": "Covert",
+    "paint_index": "12"
   },
   {
     "id": "skin-32768048",
@@ -1565,7 +1787,9 @@
     "price": 308.54,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Bayonet | Crimson Web"
+    "item_name": "★ Bayonet | Crimson Web",
+    "rarity": "Covert",
+    "paint_index": "12"
   },
   {
     "id": "skin-32768152",
@@ -1579,7 +1803,9 @@
     "price": 754.22,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Bayonet | Fade"
+    "item_name": "★ Bayonet | Fade",
+    "rarity": "Covert",
+    "paint_index": "38"
   },
   {
     "id": "skin-32768152",
@@ -1593,7 +1819,9 @@
     "price": 822.79,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Bayonet | Fade"
+    "item_name": "★ Bayonet | Fade",
+    "rarity": "Covert",
+    "paint_index": "38"
   },
   {
     "id": "skin-32768152",
@@ -1607,7 +1835,9 @@
     "price": 726.79,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Bayonet | Fade"
+    "item_name": "★ Bayonet | Fade",
+    "rarity": "Covert",
+    "paint_index": "38"
   },
   {
     "id": "skin-32768152",
@@ -1621,7 +1851,9 @@
     "price": 959.92,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Bayonet | Fade"
+    "item_name": "★ Bayonet | Fade",
+    "rarity": "Covert",
+    "paint_index": "38"
   },
   {
     "id": "skin-32770320",
@@ -1635,7 +1867,9 @@
     "price": 304.43,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Bayonet | Freehand"
+    "item_name": "★ Bayonet | Freehand",
+    "rarity": "Covert",
+    "paint_index": "580"
   },
   {
     "id": "skin-32770320",
@@ -1649,7 +1883,9 @@
     "price": 316.29,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Bayonet | Freehand"
+    "item_name": "★ Bayonet | Freehand",
+    "rarity": "Covert",
+    "paint_index": "580"
   },
   {
     "id": "skin-32770320",
@@ -1663,7 +1899,9 @@
     "price": 232.99,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Bayonet | Freehand"
+    "item_name": "★ Bayonet | Freehand",
+    "rarity": "Covert",
+    "paint_index": "580"
   },
   {
     "id": "skin-32770320",
@@ -1677,7 +1915,9 @@
     "price": 235.87,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Bayonet | Freehand"
+    "item_name": "★ Bayonet | Freehand",
+    "rarity": "Covert",
+    "paint_index": "580"
   },
   {
     "id": "skin-32770320",
@@ -1691,7 +1931,9 @@
     "price": 253.69,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Bayonet | Freehand"
+    "item_name": "★ Bayonet | Freehand",
+    "rarity": "Covert",
+    "paint_index": "580"
   },
   {
     "id": "skin-32770320",
@@ -1705,7 +1947,9 @@
     "price": 259.86,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Bayonet | Freehand"
+    "item_name": "★ Bayonet | Freehand",
+    "rarity": "Covert",
+    "paint_index": "580"
   },
   {
     "id": "skin-32770320",
@@ -1719,7 +1963,9 @@
     "price": 287.91,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Bayonet | Freehand"
+    "item_name": "★ Bayonet | Freehand",
+    "rarity": "Covert",
+    "paint_index": "580"
   },
   {
     "id": "skin-32770320",
@@ -1733,7 +1979,9 @@
     "price": 237.24,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Bayonet | Freehand"
+    "item_name": "★ Bayonet | Freehand",
+    "rarity": "Covert",
+    "paint_index": "580"
   },
   {
     "id": "skin-32770320",
@@ -1747,7 +1995,9 @@
     "price": 351.79,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Bayonet | Freehand"
+    "item_name": "★ Bayonet | Freehand",
+    "rarity": "Covert",
+    "paint_index": "580"
   },
   {
     "id": "skin-32770320",
@@ -1761,7 +2011,9 @@
     "price": 294.83,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Bayonet | Freehand"
+    "item_name": "★ Bayonet | Freehand",
+    "rarity": "Covert",
+    "paint_index": "580"
   },
   {
     "id": "skin-32768308",
@@ -1775,7 +2027,9 @@
     "price": 167.3,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Bayonet | Boreal Forest"
+    "item_name": "★ Bayonet | Boreal Forest",
+    "rarity": "Covert",
+    "paint_index": "77"
   },
   {
     "id": "skin-32768308",
@@ -1789,7 +2043,9 @@
     "price": 201.58,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Bayonet | Boreal Forest"
+    "item_name": "★ Bayonet | Boreal Forest",
+    "rarity": "Covert",
+    "paint_index": "77"
   },
   {
     "id": "skin-32768308",
@@ -1803,7 +2059,9 @@
     "price": 285.23,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Bayonet | Boreal Forest"
+    "item_name": "★ Bayonet | Boreal Forest",
+    "rarity": "Covert",
+    "paint_index": "77"
   },
   {
     "id": "skin-32768308",
@@ -1817,7 +2075,9 @@
     "price": 191.98,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Bayonet | Boreal Forest"
+    "item_name": "★ Bayonet | Boreal Forest",
+    "rarity": "Covert",
+    "paint_index": "77"
   },
   {
     "id": "skin-32768308",
@@ -1831,7 +2091,9 @@
     "price": 168.26,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Bayonet | Boreal Forest"
+    "item_name": "★ Bayonet | Boreal Forest",
+    "rarity": "Covert",
+    "paint_index": "77"
   },
   {
     "id": "skin-32768308",
@@ -1845,7 +2107,9 @@
     "price": 158.39,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Bayonet | Boreal Forest"
+    "item_name": "★ Bayonet | Boreal Forest",
+    "rarity": "Covert",
+    "paint_index": "77"
   },
   {
     "id": "skin-32768308",
@@ -1859,7 +2123,9 @@
     "price": 185.13,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Bayonet | Boreal Forest"
+    "item_name": "★ Bayonet | Boreal Forest",
+    "rarity": "Covert",
+    "paint_index": "77"
   },
   {
     "id": "skin-32768308",
@@ -1873,7 +2139,9 @@
     "price": 0,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Bayonet | Boreal Forest"
+    "item_name": "★ Bayonet | Boreal Forest",
+    "rarity": "Covert",
+    "paint_index": "77"
   },
   {
     "id": "skin-32768308",
@@ -1887,7 +2155,9 @@
     "price": 479.82,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Bayonet | Boreal Forest"
+    "item_name": "★ Bayonet | Boreal Forest",
+    "rarity": "Covert",
+    "paint_index": "77"
   },
   {
     "id": "skin-32768308",
@@ -1901,7 +2171,9 @@
     "price": 167.09,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Bayonet | Boreal Forest"
+    "item_name": "★ Bayonet | Boreal Forest",
+    "rarity": "Covert",
+    "paint_index": "77"
   },
   {
     "id": "skin-32768172",
@@ -1915,7 +2187,9 @@
     "price": 217.75,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Bayonet | Stained"
+    "item_name": "★ Bayonet | Stained",
+    "rarity": "Covert",
+    "paint_index": "43"
   },
   {
     "id": "skin-32768172",
@@ -1929,7 +2203,9 @@
     "price": 493.67,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Bayonet | Stained"
+    "item_name": "★ Bayonet | Stained",
+    "rarity": "Covert",
+    "paint_index": "43"
   },
   {
     "id": "skin-32768172",
@@ -1943,7 +2219,9 @@
     "price": 245.18,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Bayonet | Stained"
+    "item_name": "★ Bayonet | Stained",
+    "rarity": "Covert",
+    "paint_index": "43"
   },
   {
     "id": "skin-32768172",
@@ -1957,7 +2235,9 @@
     "price": 375.74,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Bayonet | Stained"
+    "item_name": "★ Bayonet | Stained",
+    "rarity": "Covert",
+    "paint_index": "43"
   },
   {
     "id": "skin-32768172",
@@ -1971,7 +2251,9 @@
     "price": 260.55,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Bayonet | Stained"
+    "item_name": "★ Bayonet | Stained",
+    "rarity": "Covert",
+    "paint_index": "43"
   },
   {
     "id": "skin-32768172",
@@ -1985,7 +2267,9 @@
     "price": 294.83,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Bayonet | Stained"
+    "item_name": "★ Bayonet | Stained",
+    "rarity": "Covert",
+    "paint_index": "43"
   },
   {
     "id": "skin-32768172",
@@ -1999,7 +2283,9 @@
     "price": 250.68,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Bayonet | Stained"
+    "item_name": "★ Bayonet | Stained",
+    "rarity": "Covert",
+    "paint_index": "43"
   },
   {
     "id": "skin-32768172",
@@ -2013,7 +2299,9 @@
     "price": 222.15,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Bayonet | Stained"
+    "item_name": "★ Bayonet | Stained",
+    "rarity": "Covert",
+    "paint_index": "43"
   },
   {
     "id": "skin-32768172",
@@ -2027,7 +2315,9 @@
     "price": 202.95,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Bayonet | Stained"
+    "item_name": "★ Bayonet | Stained",
+    "rarity": "Covert",
+    "paint_index": "43"
   },
   {
     "id": "skin-32768172",
@@ -2041,7 +2331,9 @@
     "price": 237.24,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Bayonet | Stained"
+    "item_name": "★ Bayonet | Stained",
+    "rarity": "Covert",
+    "paint_index": "43"
   },
   {
     "id": "skin-32768288",
@@ -2055,7 +2347,9 @@
     "price": 171.41,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Bayonet | Safari Mesh"
+    "item_name": "★ Bayonet | Safari Mesh",
+    "rarity": "Covert",
+    "paint_index": "72"
   },
   {
     "id": "skin-32768288",
@@ -2069,7 +2363,9 @@
     "price": 0,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Bayonet | Safari Mesh"
+    "item_name": "★ Bayonet | Safari Mesh",
+    "rarity": "Covert",
+    "paint_index": "72"
   },
   {
     "id": "skin-32768288",
@@ -2083,7 +2379,9 @@
     "price": 210.27,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Bayonet | Safari Mesh"
+    "item_name": "★ Bayonet | Safari Mesh",
+    "rarity": "Covert",
+    "paint_index": "72"
   },
   {
     "id": "skin-32768288",
@@ -2097,7 +2395,9 @@
     "price": 178.78,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Bayonet | Safari Mesh"
+    "item_name": "★ Bayonet | Safari Mesh",
+    "rarity": "Covert",
+    "paint_index": "72"
   },
   {
     "id": "skin-32768288",
@@ -2111,7 +2411,9 @@
     "price": 167.99,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Bayonet | Safari Mesh"
+    "item_name": "★ Bayonet | Safari Mesh",
+    "rarity": "Covert",
+    "paint_index": "72"
   },
   {
     "id": "skin-32768288",
@@ -2125,7 +2427,9 @@
     "price": 189.1,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Bayonet | Safari Mesh"
+    "item_name": "★ Bayonet | Safari Mesh",
+    "rarity": "Covert",
+    "paint_index": "72"
   },
   {
     "id": "skin-32768288",
@@ -2139,7 +2443,9 @@
     "price": 160.44,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Bayonet | Safari Mesh"
+    "item_name": "★ Bayonet | Safari Mesh",
+    "rarity": "Covert",
+    "paint_index": "72"
   },
   {
     "id": "skin-32768288",
@@ -2153,7 +2459,9 @@
     "price": 191.85,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Bayonet | Safari Mesh"
+    "item_name": "★ Bayonet | Safari Mesh",
+    "rarity": "Covert",
+    "paint_index": "72"
   },
   {
     "id": "skin-32768288",
@@ -2167,7 +2475,9 @@
     "price": 161.68,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Bayonet | Safari Mesh"
+    "item_name": "★ Bayonet | Safari Mesh",
+    "rarity": "Covert",
+    "paint_index": "72"
   },
   {
     "id": "skin-32768288",
@@ -2181,7 +2491,9 @@
     "price": 299.08,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Bayonet | Safari Mesh"
+    "item_name": "★ Bayonet | Safari Mesh",
+    "rarity": "Covert",
+    "paint_index": "72"
   },
   {
     "id": "skin-32768236",
@@ -2195,7 +2507,9 @@
     "price": 417.96,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Bayonet | Slaughter"
+    "item_name": "★ Bayonet | Slaughter",
+    "rarity": "Covert",
+    "paint_index": "59"
   },
   {
     "id": "skin-32768236",
@@ -2209,7 +2523,9 @@
     "price": 609.34,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Bayonet | Slaughter"
+    "item_name": "★ Bayonet | Slaughter",
+    "rarity": "Covert",
+    "paint_index": "59"
   },
   {
     "id": "skin-32768236",
@@ -2223,7 +2539,9 @@
     "price": 518.29,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Bayonet | Slaughter"
+    "item_name": "★ Bayonet | Slaughter",
+    "rarity": "Covert",
+    "paint_index": "59"
   },
   {
     "id": "skin-32768236",
@@ -2237,7 +2555,9 @@
     "price": 499.09,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Bayonet | Slaughter"
+    "item_name": "★ Bayonet | Slaughter",
+    "rarity": "Covert",
+    "paint_index": "59"
   },
   {
     "id": "skin-32768236",
@@ -2251,7 +2571,9 @@
     "price": 397.68,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Bayonet | Slaughter"
+    "item_name": "★ Bayonet | Slaughter",
+    "rarity": "Covert",
+    "paint_index": "59"
   },
   {
     "id": "skin-32768236",
@@ -2265,7 +2587,9 @@
     "price": 452.39,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Bayonet | Slaughter"
+    "item_name": "★ Bayonet | Slaughter",
+    "rarity": "Covert",
+    "paint_index": "59"
   },
   {
     "id": "skin-32768160",
@@ -2279,7 +2603,9 @@
     "price": 182.38,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Bayonet | Night"
+    "item_name": "★ Bayonet | Night",
+    "rarity": "Covert",
+    "paint_index": "40"
   },
   {
     "id": "skin-32768160",
@@ -2293,7 +2619,9 @@
     "price": 0,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Bayonet | Night"
+    "item_name": "★ Bayonet | Night",
+    "rarity": "Covert",
+    "paint_index": "40"
   },
   {
     "id": "skin-32768160",
@@ -2307,7 +2635,9 @@
     "price": 260.55,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Bayonet | Night"
+    "item_name": "★ Bayonet | Night",
+    "rarity": "Covert",
+    "paint_index": "40"
   },
   {
     "id": "skin-32768160",
@@ -2321,7 +2651,9 @@
     "price": 308.54,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Bayonet | Night"
+    "item_name": "★ Bayonet | Night",
+    "rarity": "Covert",
+    "paint_index": "40"
   },
   {
     "id": "skin-32768160",
@@ -2335,7 +2667,9 @@
     "price": 205.7,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Bayonet | Night"
+    "item_name": "★ Bayonet | Night",
+    "rarity": "Covert",
+    "paint_index": "40"
   },
   {
     "id": "skin-32768160",
@@ -2349,7 +2683,9 @@
     "price": 197.06,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Bayonet | Night"
+    "item_name": "★ Bayonet | Night",
+    "rarity": "Covert",
+    "paint_index": "40"
   },
   {
     "id": "skin-32768160",
@@ -2363,7 +2699,9 @@
     "price": 169.77,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Bayonet | Night"
+    "item_name": "★ Bayonet | Night",
+    "rarity": "Covert",
+    "paint_index": "40"
   },
   {
     "id": "skin-32768160",
@@ -2377,7 +2715,9 @@
     "price": 182.04,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Bayonet | Night"
+    "item_name": "★ Bayonet | Night",
+    "rarity": "Covert",
+    "paint_index": "40"
   },
   {
     "id": "skin-32768160",
@@ -2391,7 +2731,9 @@
     "price": 284.75,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Bayonet | Night"
+    "item_name": "★ Bayonet | Night",
+    "rarity": "Covert",
+    "paint_index": "40"
   },
   {
     "id": "skin-32768160",
@@ -2405,7 +2747,9 @@
     "price": 959.92,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Bayonet | Night"
+    "item_name": "★ Bayonet | Night",
+    "rarity": "Covert",
+    "paint_index": "40"
   },
   {
     "id": "skin-32769640",
@@ -2419,7 +2763,9 @@
     "price": 246.84,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Bayonet | Damascus Steel"
+    "item_name": "★ Bayonet | Damascus Steel",
+    "rarity": "Covert",
+    "paint_index": "410"
   },
   {
     "id": "skin-32769640",
@@ -2433,7 +2779,9 @@
     "price": 246.84,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Bayonet | Damascus Steel"
+    "item_name": "★ Bayonet | Damascus Steel",
+    "rarity": "Covert",
+    "paint_index": "410"
   },
   {
     "id": "skin-32769640",
@@ -2447,7 +2795,9 @@
     "price": 255.47,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Bayonet | Damascus Steel"
+    "item_name": "★ Bayonet | Damascus Steel",
+    "rarity": "Covert",
+    "paint_index": "410"
   },
   {
     "id": "skin-32769640",
@@ -2461,7 +2811,9 @@
     "price": 272.89,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Bayonet | Damascus Steel"
+    "item_name": "★ Bayonet | Damascus Steel",
+    "rarity": "Covert",
+    "paint_index": "410"
   },
   {
     "id": "skin-32769640",
@@ -2475,7 +2827,9 @@
     "price": 283.86,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Bayonet | Damascus Steel"
+    "item_name": "★ Bayonet | Damascus Steel",
+    "rarity": "Covert",
+    "paint_index": "410"
   },
   {
     "id": "skin-32769640",
@@ -2489,7 +2843,9 @@
     "price": 294.83,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Bayonet | Damascus Steel"
+    "item_name": "★ Bayonet | Damascus Steel",
+    "rarity": "Covert",
+    "paint_index": "410"
   },
   {
     "id": "skin-32769640",
@@ -2503,7 +2859,9 @@
     "price": 313.62,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Bayonet | Damascus Steel"
+    "item_name": "★ Bayonet | Damascus Steel",
+    "rarity": "Covert",
+    "paint_index": "410"
   },
   {
     "id": "skin-32769640",
@@ -2517,7 +2875,9 @@
     "price": 352.15,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Bayonet | Damascus Steel"
+    "item_name": "★ Bayonet | Damascus Steel",
+    "rarity": "Covert",
+    "paint_index": "410"
   },
   {
     "id": "skin-32769640",
@@ -2531,7 +2891,9 @@
     "price": 319.38,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Bayonet | Damascus Steel"
+    "item_name": "★ Bayonet | Damascus Steel",
+    "rarity": "Covert",
+    "paint_index": "410"
   },
   {
     "id": "skin-32769640",
@@ -2545,7 +2907,9 @@
     "price": 266.03,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Bayonet | Damascus Steel"
+    "item_name": "★ Bayonet | Damascus Steel",
+    "rarity": "Covert",
+    "paint_index": "410"
   },
   {
     "id": "skin-32770288",
@@ -2559,7 +2923,9 @@
     "price": 787.82,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Bayonet | Gamma Doppler"
+    "item_name": "★ Bayonet | Gamma Doppler",
+    "rarity": "Covert",
+    "paint_index": "572"
   },
   {
     "id": "skin-32770288",
@@ -2573,7 +2939,9 @@
     "price": 822.79,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Bayonet | Gamma Doppler"
+    "item_name": "★ Bayonet | Gamma Doppler",
+    "rarity": "Covert",
+    "paint_index": "572"
   },
   {
     "id": "skin-32770288",
@@ -2587,7 +2955,9 @@
     "price": 788.3,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Bayonet | Gamma Doppler"
+    "item_name": "★ Bayonet | Gamma Doppler",
+    "rarity": "Covert",
+    "paint_index": "572"
   },
   {
     "id": "skin-32770288",
@@ -2601,7 +2971,9 @@
     "price": 850.07,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Bayonet | Gamma Doppler"
+    "item_name": "★ Bayonet | Gamma Doppler",
+    "rarity": "Covert",
+    "paint_index": "572"
   },
   {
     "id": "skin-32768572",
@@ -2615,7 +2987,9 @@
     "price": 209.4,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Bayonet | Urban Masked"
+    "item_name": "★ Bayonet | Urban Masked",
+    "rarity": "Covert",
+    "paint_index": "143"
   },
   {
     "id": "skin-32768572",
@@ -2629,7 +3003,9 @@
     "price": 164.15,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Bayonet | Urban Masked"
+    "item_name": "★ Bayonet | Urban Masked",
+    "rarity": "Covert",
+    "paint_index": "143"
   },
   {
     "id": "skin-32768572",
@@ -2643,7 +3019,9 @@
     "price": 0,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Bayonet | Urban Masked"
+    "item_name": "★ Bayonet | Urban Masked",
+    "rarity": "Covert",
+    "paint_index": "143"
   },
   {
     "id": "skin-32768572",
@@ -2657,7 +3035,9 @@
     "price": 160.72,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Bayonet | Urban Masked"
+    "item_name": "★ Bayonet | Urban Masked",
+    "rarity": "Covert",
+    "paint_index": "143"
   },
   {
     "id": "skin-32768572",
@@ -2671,7 +3051,9 @@
     "price": 246.77,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Bayonet | Urban Masked"
+    "item_name": "★ Bayonet | Urban Masked",
+    "rarity": "Covert",
+    "paint_index": "143"
   },
   {
     "id": "skin-32768572",
@@ -2685,7 +3067,9 @@
     "price": 190.61,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Bayonet | Urban Masked"
+    "item_name": "★ Bayonet | Urban Masked",
+    "rarity": "Covert",
+    "paint_index": "143"
   },
   {
     "id": "skin-32768572",
@@ -2699,7 +3083,9 @@
     "price": 164.49,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Bayonet | Urban Masked"
+    "item_name": "★ Bayonet | Urban Masked",
+    "rarity": "Covert",
+    "paint_index": "143"
   },
   {
     "id": "skin-32768572",
@@ -2713,7 +3099,9 @@
     "price": 239.98,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Bayonet | Urban Masked"
+    "item_name": "★ Bayonet | Urban Masked",
+    "rarity": "Covert",
+    "paint_index": "143"
   },
   {
     "id": "skin-32768572",
@@ -2727,7 +3115,9 @@
     "price": 360.31,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Bayonet | Urban Masked"
+    "item_name": "★ Bayonet | Urban Masked",
+    "rarity": "Covert",
+    "paint_index": "143"
   },
   {
     "id": "skin-32768572",
@@ -2741,7 +3131,9 @@
     "price": 165.93,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Bayonet | Urban Masked"
+    "item_name": "★ Bayonet | Urban Masked",
+    "rarity": "Covert",
+    "paint_index": "143"
   },
   {
     "id": "skin-32769636",
@@ -2755,7 +3147,9 @@
     "price": 507.38,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Bayonet | Tiger Tooth"
+    "item_name": "★ Bayonet | Tiger Tooth",
+    "rarity": "Covert",
+    "paint_index": "409"
   },
   {
     "id": "skin-32769636",
@@ -2769,7 +3163,9 @@
     "price": 492.57,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Bayonet | Tiger Tooth"
+    "item_name": "★ Bayonet | Tiger Tooth",
+    "rarity": "Covert",
+    "paint_index": "409"
   },
   {
     "id": "skin-32769636",
@@ -2783,7 +3179,9 @@
     "price": 593.09,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Bayonet | Tiger Tooth"
+    "item_name": "★ Bayonet | Tiger Tooth",
+    "rarity": "Covert",
+    "paint_index": "409"
   },
   {
     "id": "skin-32769636",
@@ -2797,6 +3195,8 @@
     "price": 445.68,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Bayonet | Tiger Tooth"
+    "item_name": "★ Bayonet | Tiger Tooth",
+    "rarity": "Covert",
+    "paint_index": "409"
   }
 ]

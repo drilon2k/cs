@@ -11,7 +11,9 @@
     "price": 642.99,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Hydra Gloves | Case Hardened"
+    "item_name": "★ Hydra Gloves | Case Hardened",
+    "rarity": "Extraordinary",
+    "paint_index": "10060"
   },
   {
     "id": "skin-330014000",
@@ -25,7 +27,9 @@
     "price": 77.96,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Hydra Gloves | Case Hardened"
+    "item_name": "★ Hydra Gloves | Case Hardened",
+    "rarity": "Extraordinary",
+    "paint_index": "10060"
   },
   {
     "id": "skin-330014000",
@@ -39,7 +43,9 @@
     "price": 135.76,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Hydra Gloves | Case Hardened"
+    "item_name": "★ Hydra Gloves | Case Hardened",
+    "rarity": "Extraordinary",
+    "paint_index": "10060"
   },
   {
     "id": "skin-330014000",
@@ -53,7 +59,9 @@
     "price": 65.82,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Hydra Gloves | Case Hardened"
+    "item_name": "★ Hydra Gloves | Case Hardened",
+    "rarity": "Extraordinary",
+    "paint_index": "10060"
   },
   {
     "id": "skin-330014000",
@@ -67,7 +75,9 @@
     "price": 81.94,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Hydra Gloves | Case Hardened"
+    "item_name": "★ Hydra Gloves | Case Hardened",
+    "rarity": "Extraordinary",
+    "paint_index": "10060"
   },
   {
     "id": "skin-330013988",
@@ -81,7 +91,9 @@
     "price": 48,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Hydra Gloves | Emerald"
+    "item_name": "★ Hydra Gloves | Emerald",
+    "rarity": "Extraordinary",
+    "paint_index": "10057"
   },
   {
     "id": "skin-330013988",
@@ -95,7 +107,9 @@
     "price": 75.6,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Hydra Gloves | Emerald"
+    "item_name": "★ Hydra Gloves | Emerald",
+    "rarity": "Extraordinary",
+    "paint_index": "10057"
   },
   {
     "id": "skin-330013988",
@@ -109,7 +123,9 @@
     "price": 45.94,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Hydra Gloves | Emerald"
+    "item_name": "★ Hydra Gloves | Emerald",
+    "rarity": "Extraordinary",
+    "paint_index": "10057"
   },
   {
     "id": "skin-330013988",
@@ -123,7 +139,9 @@
     "price": 44.57,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Hydra Gloves | Emerald"
+    "item_name": "★ Hydra Gloves | Emerald",
+    "rarity": "Extraordinary",
+    "paint_index": "10057"
   },
   {
     "id": "skin-330013988",
@@ -137,7 +155,9 @@
     "price": 315.4,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Hydra Gloves | Emerald"
+    "item_name": "★ Hydra Gloves | Emerald",
+    "rarity": "Extraordinary",
+    "paint_index": "10057"
   },
   {
     "id": "skin-330013992",
@@ -151,7 +171,9 @@
     "price": 38.11,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Hydra Gloves | Mangrove"
+    "item_name": "★ Hydra Gloves | Mangrove",
+    "rarity": "Extraordinary",
+    "paint_index": "10058"
   },
   {
     "id": "skin-330013992",
@@ -165,7 +187,9 @@
     "price": 40.93,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Hydra Gloves | Mangrove"
+    "item_name": "★ Hydra Gloves | Mangrove",
+    "rarity": "Extraordinary",
+    "paint_index": "10058"
   },
   {
     "id": "skin-330013992",
@@ -179,7 +203,9 @@
     "price": 213.92,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Hydra Gloves | Mangrove"
+    "item_name": "★ Hydra Gloves | Mangrove",
+    "rarity": "Extraordinary",
+    "paint_index": "10058"
   },
   {
     "id": "skin-330013992",
@@ -193,7 +219,9 @@
     "price": 53,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Hydra Gloves | Mangrove"
+    "item_name": "★ Hydra Gloves | Mangrove",
+    "rarity": "Extraordinary",
+    "paint_index": "10058"
   },
   {
     "id": "skin-330013992",
@@ -207,7 +235,9 @@
     "price": 37.71,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Hydra Gloves | Mangrove"
+    "item_name": "★ Hydra Gloves | Mangrove",
+    "rarity": "Extraordinary",
+    "paint_index": "10058"
   },
   {
     "id": "skin-330013996",
@@ -221,7 +251,9 @@
     "price": 38.21,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Hydra Gloves | Rattler"
+    "item_name": "★ Hydra Gloves | Rattler",
+    "rarity": "Extraordinary",
+    "paint_index": "10059"
   },
   {
     "id": "skin-330013996",
@@ -235,7 +267,9 @@
     "price": 43.53,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Hydra Gloves | Rattler"
+    "item_name": "★ Hydra Gloves | Rattler",
+    "rarity": "Extraordinary",
+    "paint_index": "10059"
   },
   {
     "id": "skin-330013996",
@@ -249,7 +283,9 @@
     "price": 47.31,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Hydra Gloves | Rattler"
+    "item_name": "★ Hydra Gloves | Rattler",
+    "rarity": "Extraordinary",
+    "paint_index": "10059"
   },
   {
     "id": "skin-330013996",
@@ -263,7 +299,9 @@
     "price": 242.65,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Hydra Gloves | Rattler"
+    "item_name": "★ Hydra Gloves | Rattler",
+    "rarity": "Extraordinary",
+    "paint_index": "10059"
   },
   {
     "id": "skin-330013996",
@@ -277,6 +315,8 @@
     "price": 38.19,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Hydra Gloves | Rattler"
+    "item_name": "★ Hydra Gloves | Rattler",
+    "rarity": "Extraordinary",
+    "paint_index": "10059"
   }
 ]

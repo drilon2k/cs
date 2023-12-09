@@ -11,7 +11,9 @@
     "price": 0.41,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Ancient Earth"
+    "item_name": "P90 | Ancient Earth",
+    "rarity": "Consumer Grade",
+    "paint_index": "1020"
   },
   {
     "id": "skin-1249264",
@@ -25,7 +27,9 @@
     "price": 0.34,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Ancient Earth"
+    "item_name": "P90 | Ancient Earth",
+    "rarity": "Consumer Grade",
+    "paint_index": "1020"
   },
   {
     "id": "skin-1249264",
@@ -39,7 +43,9 @@
     "price": 0.37,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Ancient Earth"
+    "item_name": "P90 | Ancient Earth",
+    "rarity": "Consumer Grade",
+    "paint_index": "1020"
   },
   {
     "id": "skin-1249264",
@@ -53,7 +59,9 @@
     "price": 0.36,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Ancient Earth"
+    "item_name": "P90 | Ancient Earth",
+    "rarity": "Consumer Grade",
+    "paint_index": "1020"
   },
   {
     "id": "skin-1249264",
@@ -67,7 +75,9 @@
     "price": 0.38,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Ancient Earth"
+    "item_name": "P90 | Ancient Earth",
+    "rarity": "Consumer Grade",
+    "paint_index": "1020"
   },
   {
     "id": "skin-1249060",
@@ -81,7 +91,9 @@
     "price": 0.09,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P90 | Freight"
+    "item_name": "P90 | Freight",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "969"
   },
   {
     "id": "skin-1249060",
@@ -95,7 +107,9 @@
     "price": 0.04,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Freight"
+    "item_name": "P90 | Freight",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "969"
   },
   {
     "id": "skin-1249060",
@@ -109,7 +123,9 @@
     "price": 0.08,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Freight"
+    "item_name": "P90 | Freight",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "969"
   },
   {
     "id": "skin-1249060",
@@ -123,7 +139,9 @@
     "price": 0.04,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Freight"
+    "item_name": "P90 | Freight",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "969"
   },
   {
     "id": "skin-1249060",
@@ -137,7 +155,9 @@
     "price": 0.08,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P90 | Freight"
+    "item_name": "P90 | Freight",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "969"
   },
   {
     "id": "skin-1249060",
@@ -151,7 +171,9 @@
     "price": 0.19,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P90 | Freight"
+    "item_name": "P90 | Freight",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "969"
   },
   {
     "id": "skin-1249060",
@@ -165,7 +187,9 @@
     "price": 0.04,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Freight"
+    "item_name": "P90 | Freight",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "969"
   },
   {
     "id": "skin-1249060",
@@ -179,7 +203,9 @@
     "price": 0.16,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Freight"
+    "item_name": "P90 | Freight",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "969"
   },
   {
     "id": "skin-1249060",
@@ -193,7 +219,9 @@
     "price": 0.69,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P90 | Freight"
+    "item_name": "P90 | Freight",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "969"
   },
   {
     "id": "skin-1249060",
@@ -207,7 +235,9 @@
     "price": 0.09,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P90 | Freight"
+    "item_name": "P90 | Freight",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "969"
   },
   {
     "id": "skin-1248884",
@@ -221,7 +251,9 @@
     "price": 0.41,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Desert DDPAT"
+    "item_name": "P90 | Desert DDPAT",
+    "rarity": "Consumer Grade",
+    "paint_index": "925"
   },
   {
     "id": "skin-1248884",
@@ -235,7 +267,9 @@
     "price": 0.42,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Desert DDPAT"
+    "item_name": "P90 | Desert DDPAT",
+    "rarity": "Consumer Grade",
+    "paint_index": "925"
   },
   {
     "id": "skin-1248884",
@@ -249,7 +283,9 @@
     "price": 0.41,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Desert DDPAT"
+    "item_name": "P90 | Desert DDPAT",
+    "rarity": "Consumer Grade",
+    "paint_index": "925"
   },
   {
     "id": "skin-1248884",
@@ -263,7 +299,9 @@
     "price": 0.41,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Desert DDPAT"
+    "item_name": "P90 | Desert DDPAT",
+    "rarity": "Consumer Grade",
+    "paint_index": "925"
   },
   {
     "id": "skin-1248884",
@@ -277,7 +315,9 @@
     "price": 0.43,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Desert DDPAT"
+    "item_name": "P90 | Desert DDPAT",
+    "rarity": "Consumer Grade",
+    "paint_index": "925"
   },
   {
     "id": "skin-1247728",
@@ -291,7 +331,9 @@
     "price": 2.69,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Shallow Grave"
+    "item_name": "P90 | Shallow Grave",
+    "rarity": "Classified",
+    "paint_index": "636"
   },
   {
     "id": "skin-1247728",
@@ -305,7 +347,9 @@
     "price": 4.98,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P90 | Shallow Grave"
+    "item_name": "P90 | Shallow Grave",
+    "rarity": "Classified",
+    "paint_index": "636"
   },
   {
     "id": "skin-1247728",
@@ -319,7 +363,9 @@
     "price": 5.62,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Shallow Grave"
+    "item_name": "P90 | Shallow Grave",
+    "rarity": "Classified",
+    "paint_index": "636"
   },
   {
     "id": "skin-1247728",
@@ -333,7 +379,9 @@
     "price": 2.67,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Shallow Grave"
+    "item_name": "P90 | Shallow Grave",
+    "rarity": "Classified",
+    "paint_index": "636"
   },
   {
     "id": "skin-1247728",
@@ -347,7 +395,9 @@
     "price": 1.21,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Shallow Grave"
+    "item_name": "P90 | Shallow Grave",
+    "rarity": "Classified",
+    "paint_index": "636"
   },
   {
     "id": "skin-1247728",
@@ -361,7 +411,9 @@
     "price": 1.3,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Shallow Grave"
+    "item_name": "P90 | Shallow Grave",
+    "rarity": "Classified",
+    "paint_index": "636"
   },
   {
     "id": "skin-1247728",
@@ -375,7 +427,9 @@
     "price": 2.72,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P90 | Shallow Grave"
+    "item_name": "P90 | Shallow Grave",
+    "rarity": "Classified",
+    "paint_index": "636"
   },
   {
     "id": "skin-1247728",
@@ -389,7 +443,9 @@
     "price": 7.14,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P90 | Shallow Grave"
+    "item_name": "P90 | Shallow Grave",
+    "rarity": "Classified",
+    "paint_index": "636"
   },
   {
     "id": "skin-1247728",
@@ -403,7 +459,9 @@
     "price": 16.23,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P90 | Shallow Grave"
+    "item_name": "P90 | Shallow Grave",
+    "rarity": "Classified",
+    "paint_index": "636"
   },
   {
     "id": "skin-1247728",
@@ -417,7 +475,9 @@
     "price": 3.27,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P90 | Shallow Grave"
+    "item_name": "P90 | Shallow Grave",
+    "rarity": "Classified",
+    "paint_index": "636"
   },
   {
     "id": "skin-1248052",
@@ -431,7 +491,9 @@
     "price": 2.43,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P90 | Traction"
+    "item_name": "P90 | Traction",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "717"
   },
   {
     "id": "skin-1248052",
@@ -445,7 +507,9 @@
     "price": 0.18,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P90 | Traction"
+    "item_name": "P90 | Traction",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "717"
   },
   {
     "id": "skin-1248052",
@@ -459,7 +523,9 @@
     "price": 0.27,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P90 | Traction"
+    "item_name": "P90 | Traction",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "717"
   },
   {
     "id": "skin-1248052",
@@ -473,7 +539,9 @@
     "price": 0.12,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Traction"
+    "item_name": "P90 | Traction",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "717"
   },
   {
     "id": "skin-1248052",
@@ -487,7 +555,9 @@
     "price": 0.18,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Traction"
+    "item_name": "P90 | Traction",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "717"
   },
   {
     "id": "skin-1248052",
@@ -501,7 +571,9 @@
     "price": 0.11,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Traction"
+    "item_name": "P90 | Traction",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "717"
   },
   {
     "id": "skin-1248052",
@@ -515,7 +587,9 @@
     "price": 0.52,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P90 | Traction"
+    "item_name": "P90 | Traction",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "717"
   },
   {
     "id": "skin-1248052",
@@ -529,7 +603,9 @@
     "price": 0.74,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Traction"
+    "item_name": "P90 | Traction",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "717"
   },
   {
     "id": "skin-1248052",
@@ -543,7 +619,9 @@
     "price": 0.1,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Traction"
+    "item_name": "P90 | Traction",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "717"
   },
   {
     "id": "skin-1248052",
@@ -557,7 +635,9 @@
     "price": 0.18,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P90 | Traction"
+    "item_name": "P90 | Traction",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "717"
   },
   {
     "id": "skin-1245912",
@@ -571,7 +651,9 @@
     "price": 603.38,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P90 | Emerald Dragon"
+    "item_name": "P90 | Emerald Dragon",
+    "rarity": "Classified",
+    "paint_index": "182"
   },
   {
     "id": "skin-1245912",
@@ -585,7 +667,9 @@
     "price": 959.15,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P90 | Emerald Dragon"
+    "item_name": "P90 | Emerald Dragon",
+    "rarity": "Classified",
+    "paint_index": "182"
   },
   {
     "id": "skin-1245912",
@@ -599,7 +683,9 @@
     "price": 159.07,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P90 | Emerald Dragon"
+    "item_name": "P90 | Emerald Dragon",
+    "rarity": "Classified",
+    "paint_index": "182"
   },
   {
     "id": "skin-1245912",
@@ -613,7 +699,9 @@
     "price": 109.7,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Emerald Dragon"
+    "item_name": "P90 | Emerald Dragon",
+    "rarity": "Classified",
+    "paint_index": "182"
   },
   {
     "id": "skin-1245912",
@@ -627,7 +715,9 @@
     "price": 136.93,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Emerald Dragon"
+    "item_name": "P90 | Emerald Dragon",
+    "rarity": "Classified",
+    "paint_index": "182"
   },
   {
     "id": "skin-1245912",
@@ -641,7 +731,9 @@
     "price": 155.92,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P90 | Emerald Dragon"
+    "item_name": "P90 | Emerald Dragon",
+    "rarity": "Classified",
+    "paint_index": "182"
   },
   {
     "id": "skin-1245912",
@@ -655,7 +747,9 @@
     "price": 269.46,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Emerald Dragon"
+    "item_name": "P90 | Emerald Dragon",
+    "rarity": "Classified",
+    "paint_index": "182"
   },
   {
     "id": "skin-1245912",
@@ -669,7 +763,9 @@
     "price": 81.59,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Emerald Dragon"
+    "item_name": "P90 | Emerald Dragon",
+    "rarity": "Classified",
+    "paint_index": "182"
   },
   {
     "id": "skin-1245912",
@@ -683,7 +779,9 @@
     "price": 95.99,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Emerald Dragon"
+    "item_name": "P90 | Emerald Dragon",
+    "rarity": "Classified",
+    "paint_index": "182"
   },
   {
     "id": "skin-1245912",
@@ -697,7 +795,9 @@
     "price": 205.7,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P90 | Emerald Dragon"
+    "item_name": "P90 | Emerald Dragon",
+    "rarity": "Classified",
+    "paint_index": "182"
   },
   {
     "id": "skin-1247628",
@@ -711,7 +811,9 @@
     "price": 0.65,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P90 | Grim"
+    "item_name": "P90 | Grim",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "611"
   },
   {
     "id": "skin-1247628",
@@ -725,7 +827,9 @@
     "price": 0.54,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Grim"
+    "item_name": "P90 | Grim",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "611"
   },
   {
     "id": "skin-1247628",
@@ -739,7 +843,9 @@
     "price": 2.29,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P90 | Grim"
+    "item_name": "P90 | Grim",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "611"
   },
   {
     "id": "skin-1247628",
@@ -753,7 +859,9 @@
     "price": 0.07,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Grim"
+    "item_name": "P90 | Grim",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "611"
   },
   {
     "id": "skin-1247628",
@@ -767,7 +875,9 @@
     "price": 0.21,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P90 | Grim"
+    "item_name": "P90 | Grim",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "611"
   },
   {
     "id": "skin-1247628",
@@ -781,7 +891,9 @@
     "price": 1.12,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P90 | Grim"
+    "item_name": "P90 | Grim",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "611"
   },
   {
     "id": "skin-1247628",
@@ -795,7 +907,9 @@
     "price": 0.15,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Grim"
+    "item_name": "P90 | Grim",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "611"
   },
   {
     "id": "skin-1247628",
@@ -809,7 +923,9 @@
     "price": 0.12,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Grim"
+    "item_name": "P90 | Grim",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "611"
   },
   {
     "id": "skin-1247628",
@@ -823,7 +939,9 @@
     "price": 0.09,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Grim"
+    "item_name": "P90 | Grim",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "611"
   },
   {
     "id": "skin-1247628",
@@ -837,7 +955,9 @@
     "price": 0.2,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P90 | Grim"
+    "item_name": "P90 | Grim",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "611"
   },
   {
     "id": "skin-1246620",
@@ -851,7 +971,9 @@
     "price": 13.41,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P90 | Asiimov"
+    "item_name": "P90 | Asiimov",
+    "rarity": "Covert",
+    "paint_index": "359"
   },
   {
     "id": "skin-1246620",
@@ -865,7 +987,9 @@
     "price": 16.87,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P90 | Asiimov"
+    "item_name": "P90 | Asiimov",
+    "rarity": "Covert",
+    "paint_index": "359"
   },
   {
     "id": "skin-1246620",
@@ -879,7 +1003,9 @@
     "price": 12.7,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Asiimov"
+    "item_name": "P90 | Asiimov",
+    "rarity": "Covert",
+    "paint_index": "359"
   },
   {
     "id": "skin-1246620",
@@ -893,7 +1019,9 @@
     "price": 4.15,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Asiimov"
+    "item_name": "P90 | Asiimov",
+    "rarity": "Covert",
+    "paint_index": "359"
   },
   {
     "id": "skin-1246620",
@@ -907,7 +1035,9 @@
     "price": 20.21,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P90 | Asiimov"
+    "item_name": "P90 | Asiimov",
+    "rarity": "Covert",
+    "paint_index": "359"
   },
   {
     "id": "skin-1246620",
@@ -921,7 +1051,9 @@
     "price": 136.86,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P90 | Asiimov"
+    "item_name": "P90 | Asiimov",
+    "rarity": "Covert",
+    "paint_index": "359"
   },
   {
     "id": "skin-1246620",
@@ -935,7 +1067,9 @@
     "price": 48.79,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P90 | Asiimov"
+    "item_name": "P90 | Asiimov",
+    "rarity": "Covert",
+    "paint_index": "359"
   },
   {
     "id": "skin-1246620",
@@ -949,7 +1083,9 @@
     "price": 5.43,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Asiimov"
+    "item_name": "P90 | Asiimov",
+    "rarity": "Covert",
+    "paint_index": "359"
   },
   {
     "id": "skin-1246620",
@@ -963,7 +1099,9 @@
     "price": 28.52,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Asiimov"
+    "item_name": "P90 | Asiimov",
+    "rarity": "Covert",
+    "paint_index": "359"
   },
   {
     "id": "skin-1246620",
@@ -977,7 +1115,9 @@
     "price": 5.99,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Asiimov"
+    "item_name": "P90 | Asiimov",
+    "rarity": "Covert",
+    "paint_index": "359"
   },
   {
     "id": "skin-1247128",
@@ -991,7 +1131,9 @@
     "price": 0.73,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P90 | Elite Build"
+    "item_name": "P90 | Elite Build",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "486"
   },
   {
     "id": "skin-1247128",
@@ -1005,7 +1147,9 @@
     "price": 0.2,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P90 | Elite Build"
+    "item_name": "P90 | Elite Build",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "486"
   },
   {
     "id": "skin-1247128",
@@ -1019,7 +1163,9 @@
     "price": 0.18,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Elite Build"
+    "item_name": "P90 | Elite Build",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "486"
   },
   {
     "id": "skin-1247128",
@@ -1033,7 +1179,9 @@
     "price": 0.2,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P90 | Elite Build"
+    "item_name": "P90 | Elite Build",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "486"
   },
   {
     "id": "skin-1247128",
@@ -1047,7 +1195,9 @@
     "price": 0.31,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P90 | Elite Build"
+    "item_name": "P90 | Elite Build",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "486"
   },
   {
     "id": "skin-1247128",
@@ -1061,7 +1211,9 @@
     "price": 0.16,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Elite Build"
+    "item_name": "P90 | Elite Build",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "486"
   },
   {
     "id": "skin-1247128",
@@ -1075,7 +1227,9 @@
     "price": 0.17,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Elite Build"
+    "item_name": "P90 | Elite Build",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "486"
   },
   {
     "id": "skin-1247128",
@@ -1089,7 +1243,9 @@
     "price": 5.35,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P90 | Elite Build"
+    "item_name": "P90 | Elite Build",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "486"
   },
   {
     "id": "skin-1247128",
@@ -1103,7 +1259,9 @@
     "price": 0.96,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Elite Build"
+    "item_name": "P90 | Elite Build",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "486"
   },
   {
     "id": "skin-1247128",
@@ -1117,7 +1275,9 @@
     "price": 0.16,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Elite Build"
+    "item_name": "P90 | Elite Build",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "486"
   },
   {
     "id": "skin-1249800",
@@ -1131,7 +1291,9 @@
     "price": 0.7,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P90 | Vent Rush"
+    "item_name": "P90 | Vent Rush",
+    "rarity": "Restricted",
+    "paint_index": "1154"
   },
   {
     "id": "skin-1249800",
@@ -1145,7 +1307,9 @@
     "price": 1.89,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P90 | Vent Rush"
+    "item_name": "P90 | Vent Rush",
+    "rarity": "Restricted",
+    "paint_index": "1154"
   },
   {
     "id": "skin-1249800",
@@ -1159,7 +1323,9 @@
     "price": 1.25,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Vent Rush"
+    "item_name": "P90 | Vent Rush",
+    "rarity": "Restricted",
+    "paint_index": "1154"
   },
   {
     "id": "skin-1249800",
@@ -1173,7 +1339,9 @@
     "price": 0.39,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Vent Rush"
+    "item_name": "P90 | Vent Rush",
+    "rarity": "Restricted",
+    "paint_index": "1154"
   },
   {
     "id": "skin-1249800",
@@ -1187,7 +1355,9 @@
     "price": 0.63,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Vent Rush"
+    "item_name": "P90 | Vent Rush",
+    "rarity": "Restricted",
+    "paint_index": "1154"
   },
   {
     "id": "skin-1249800",
@@ -1201,7 +1371,9 @@
     "price": 0.38,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Vent Rush"
+    "item_name": "P90 | Vent Rush",
+    "rarity": "Restricted",
+    "paint_index": "1154"
   },
   {
     "id": "skin-1249800",
@@ -1215,7 +1387,9 @@
     "price": 0.79,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P90 | Vent Rush"
+    "item_name": "P90 | Vent Rush",
+    "rarity": "Restricted",
+    "paint_index": "1154"
   },
   {
     "id": "skin-1249800",
@@ -1229,7 +1403,9 @@
     "price": 3.44,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P90 | Vent Rush"
+    "item_name": "P90 | Vent Rush",
+    "rarity": "Restricted",
+    "paint_index": "1154"
   },
   {
     "id": "skin-1249800",
@@ -1243,7 +1419,9 @@
     "price": 0.35,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Vent Rush"
+    "item_name": "P90 | Vent Rush",
+    "rarity": "Restricted",
+    "paint_index": "1154"
   },
   {
     "id": "skin-1249800",
@@ -1257,7 +1435,9 @@
     "price": 0.94,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P90 | Vent Rush"
+    "item_name": "P90 | Vent Rush",
+    "rarity": "Restricted",
+    "paint_index": "1154"
   },
   {
     "id": "skin-1249184",
@@ -1271,7 +1451,9 @@
     "price": 158.44,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Run and Hide"
+    "item_name": "P90 | Run and Hide",
+    "rarity": "Classified",
+    "paint_index": "1000"
   },
   {
     "id": "skin-1249184",
@@ -1285,7 +1467,9 @@
     "price": 243.4,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Run and Hide"
+    "item_name": "P90 | Run and Hide",
+    "rarity": "Classified",
+    "paint_index": "1000"
   },
   {
     "id": "skin-1249184",
@@ -1299,7 +1483,9 @@
     "price": 243.68,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Run and Hide"
+    "item_name": "P90 | Run and Hide",
+    "rarity": "Classified",
+    "paint_index": "1000"
   },
   {
     "id": "skin-1249184",
@@ -1313,7 +1499,9 @@
     "price": 117.92,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Run and Hide"
+    "item_name": "P90 | Run and Hide",
+    "rarity": "Classified",
+    "paint_index": "1000"
   },
   {
     "id": "skin-1249184",
@@ -1327,7 +1515,9 @@
     "price": 119.99,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Run and Hide"
+    "item_name": "P90 | Run and Hide",
+    "rarity": "Classified",
+    "paint_index": "1000"
   },
   {
     "id": "skin-1246428",
@@ -1341,7 +1531,9 @@
     "price": 11.91,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Desert Warfare"
+    "item_name": "P90 | Desert Warfare",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "311"
   },
   {
     "id": "skin-1246428",
@@ -1355,7 +1547,9 @@
     "price": 2.31,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Desert Warfare"
+    "item_name": "P90 | Desert Warfare",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "311"
   },
   {
     "id": "skin-1246428",
@@ -1369,7 +1563,9 @@
     "price": 6.95,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P90 | Desert Warfare"
+    "item_name": "P90 | Desert Warfare",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "311"
   },
   {
     "id": "skin-1246428",
@@ -1383,7 +1579,9 @@
     "price": 2.85,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Desert Warfare"
+    "item_name": "P90 | Desert Warfare",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "311"
   },
   {
     "id": "skin-1246428",
@@ -1397,7 +1595,9 @@
     "price": 3.33,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Desert Warfare"
+    "item_name": "P90 | Desert Warfare",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "311"
   },
   {
     "id": "skin-1246428",
@@ -1411,7 +1611,9 @@
     "price": 2.85,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Desert Warfare"
+    "item_name": "P90 | Desert Warfare",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "311"
   },
   {
     "id": "skin-1246428",
@@ -1425,7 +1627,9 @@
     "price": 16.39,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P90 | Desert Warfare"
+    "item_name": "P90 | Desert Warfare",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "311"
   },
   {
     "id": "skin-1246428",
@@ -1439,7 +1643,9 @@
     "price": 10.82,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P90 | Desert Warfare"
+    "item_name": "P90 | Desert Warfare",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "311"
   },
   {
     "id": "skin-1246428",
@@ -1453,7 +1659,9 @@
     "price": 1.55,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P90 | Desert Warfare"
+    "item_name": "P90 | Desert Warfare",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "311"
   },
   {
     "id": "skin-1246428",
@@ -1467,7 +1675,9 @@
     "price": 3.05,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P90 | Desert Warfare"
+    "item_name": "P90 | Desert Warfare",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "311"
   },
   {
     "id": "skin-1245584",
@@ -1481,7 +1691,9 @@
     "price": 1.45,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Storm"
+    "item_name": "P90 | Storm",
+    "rarity": "Consumer Grade",
+    "paint_index": "100"
   },
   {
     "id": "skin-1245584",
@@ -1495,7 +1707,9 @@
     "price": 1.41,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Storm"
+    "item_name": "P90 | Storm",
+    "rarity": "Consumer Grade",
+    "paint_index": "100"
   },
   {
     "id": "skin-1245584",
@@ -1509,7 +1723,9 @@
     "price": 1.33,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Storm"
+    "item_name": "P90 | Storm",
+    "rarity": "Consumer Grade",
+    "paint_index": "100"
   },
   {
     "id": "skin-1245584",
@@ -1523,7 +1739,9 @@
     "price": 9.29,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Storm"
+    "item_name": "P90 | Storm",
+    "rarity": "Consumer Grade",
+    "paint_index": "100"
   },
   {
     "id": "skin-1245584",
@@ -1537,7 +1755,9 @@
     "price": 1.63,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Storm"
+    "item_name": "P90 | Storm",
+    "rarity": "Consumer Grade",
+    "paint_index": "100"
   },
   {
     "id": "skin-1248160",
@@ -1551,7 +1771,9 @@
     "price": 19.95,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Baroque Red"
+    "item_name": "P90 | Baroque Red",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "744"
   },
   {
     "id": "skin-1248160",
@@ -1565,7 +1787,9 @@
     "price": 19.87,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Baroque Red"
+    "item_name": "P90 | Baroque Red",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "744"
   },
   {
     "id": "skin-1248160",
@@ -1579,7 +1803,9 @@
     "price": 21.37,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Baroque Red"
+    "item_name": "P90 | Baroque Red",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "744"
   },
   {
     "id": "skin-1248160",
@@ -1593,7 +1819,9 @@
     "price": 20.57,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Baroque Red"
+    "item_name": "P90 | Baroque Red",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "744"
   },
   {
     "id": "skin-1248160",
@@ -1607,7 +1835,9 @@
     "price": 20.57,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Baroque Red"
+    "item_name": "P90 | Baroque Red",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "744"
   },
   {
     "id": "skin-1250116",
@@ -1621,7 +1851,9 @@
     "price": 1.59,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P90 | Neoqueen"
+    "item_name": "P90 | Neoqueen",
+    "rarity": "Restricted",
+    "paint_index": "1233"
   },
   {
     "id": "skin-1250116",
@@ -1635,7 +1867,9 @@
     "price": 0.94,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Neoqueen"
+    "item_name": "P90 | Neoqueen",
+    "rarity": "Restricted",
+    "paint_index": "1233"
   },
   {
     "id": "skin-1250116",
@@ -1649,7 +1883,9 @@
     "price": 4.22,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P90 | Neoqueen"
+    "item_name": "P90 | Neoqueen",
+    "rarity": "Restricted",
+    "paint_index": "1233"
   },
   {
     "id": "skin-1250116",
@@ -1663,7 +1899,9 @@
     "price": 1.07,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P90 | Neoqueen"
+    "item_name": "P90 | Neoqueen",
+    "rarity": "Restricted",
+    "paint_index": "1233"
   },
   {
     "id": "skin-1250116",
@@ -1677,7 +1915,9 @@
     "price": 0.48,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Neoqueen"
+    "item_name": "P90 | Neoqueen",
+    "rarity": "Restricted",
+    "paint_index": "1233"
   },
   {
     "id": "skin-1250116",
@@ -1691,7 +1931,9 @@
     "price": 1.46,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Neoqueen"
+    "item_name": "P90 | Neoqueen",
+    "rarity": "Restricted",
+    "paint_index": "1233"
   },
   {
     "id": "skin-1250116",
@@ -1705,7 +1947,9 @@
     "price": 3.28,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P90 | Neoqueen"
+    "item_name": "P90 | Neoqueen",
+    "rarity": "Restricted",
+    "paint_index": "1233"
   },
   {
     "id": "skin-1250116",
@@ -1719,7 +1963,9 @@
     "price": 2.05,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P90 | Neoqueen"
+    "item_name": "P90 | Neoqueen",
+    "rarity": "Restricted",
+    "paint_index": "1233"
   },
   {
     "id": "skin-1250116",
@@ -1733,7 +1979,9 @@
     "price": 0.72,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Neoqueen"
+    "item_name": "P90 | Neoqueen",
+    "rarity": "Restricted",
+    "paint_index": "1233"
   },
   {
     "id": "skin-1250116",
@@ -1747,7 +1995,9 @@
     "price": 0.41,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Neoqueen"
+    "item_name": "P90 | Neoqueen",
+    "rarity": "Restricted",
+    "paint_index": "1233"
   },
   {
     "id": "skin-1245264",
@@ -1761,7 +2011,9 @@
     "price": 1.16,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Virus"
+    "item_name": "P90 | Virus",
+    "rarity": "Restricted",
+    "paint_index": "20"
   },
   {
     "id": "skin-1245264",
@@ -1775,7 +2027,9 @@
     "price": 1.13,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Virus"
+    "item_name": "P90 | Virus",
+    "rarity": "Restricted",
+    "paint_index": "20"
   },
   {
     "id": "skin-1245264",
@@ -1789,7 +2043,9 @@
     "price": 2.64,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P90 | Virus"
+    "item_name": "P90 | Virus",
+    "rarity": "Restricted",
+    "paint_index": "20"
   },
   {
     "id": "skin-1245264",
@@ -1803,7 +2059,9 @@
     "price": 3.39,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Virus"
+    "item_name": "P90 | Virus",
+    "rarity": "Restricted",
+    "paint_index": "20"
   },
   {
     "id": "skin-1245264",
@@ -1817,7 +2075,9 @@
     "price": 32.16,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P90 | Virus"
+    "item_name": "P90 | Virus",
+    "rarity": "Restricted",
+    "paint_index": "20"
   },
   {
     "id": "skin-1245264",
@@ -1831,7 +2091,9 @@
     "price": 0.96,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Virus"
+    "item_name": "P90 | Virus",
+    "rarity": "Restricted",
+    "paint_index": "20"
   },
   {
     "id": "skin-1245264",
@@ -1845,7 +2107,9 @@
     "price": 2.18,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P90 | Virus"
+    "item_name": "P90 | Virus",
+    "rarity": "Restricted",
+    "paint_index": "20"
   },
   {
     "id": "skin-1245264",
@@ -1859,7 +2123,9 @@
     "price": 1.7,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Virus"
+    "item_name": "P90 | Virus",
+    "rarity": "Restricted",
+    "paint_index": "20"
   },
   {
     "id": "skin-1245264",
@@ -1873,7 +2139,9 @@
     "price": 4.05,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P90 | Virus"
+    "item_name": "P90 | Virus",
+    "rarity": "Restricted",
+    "paint_index": "20"
   },
   {
     "id": "skin-1245264",
@@ -1887,7 +2155,9 @@
     "price": 2.51,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P90 | Virus"
+    "item_name": "P90 | Virus",
+    "rarity": "Restricted",
+    "paint_index": "20"
   },
   {
     "id": "skin-1248828",
@@ -1901,7 +2171,9 @@
     "price": 7.28,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P90 | Nostalgia"
+    "item_name": "P90 | Nostalgia",
+    "rarity": "Classified",
+    "paint_index": "911"
   },
   {
     "id": "skin-1248828",
@@ -1915,7 +2187,9 @@
     "price": 11.52,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P90 | Nostalgia"
+    "item_name": "P90 | Nostalgia",
+    "rarity": "Classified",
+    "paint_index": "911"
   },
   {
     "id": "skin-1248828",
@@ -1929,7 +2203,9 @@
     "price": 7.24,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P90 | Nostalgia"
+    "item_name": "P90 | Nostalgia",
+    "rarity": "Classified",
+    "paint_index": "911"
   },
   {
     "id": "skin-1248828",
@@ -1943,7 +2219,9 @@
     "price": 8.68,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Nostalgia"
+    "item_name": "P90 | Nostalgia",
+    "rarity": "Classified",
+    "paint_index": "911"
   },
   {
     "id": "skin-1248828",
@@ -1957,7 +2235,9 @@
     "price": 5.05,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Nostalgia"
+    "item_name": "P90 | Nostalgia",
+    "rarity": "Classified",
+    "paint_index": "911"
   },
   {
     "id": "skin-1248828",
@@ -1971,7 +2251,9 @@
     "price": 3.57,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Nostalgia"
+    "item_name": "P90 | Nostalgia",
+    "rarity": "Classified",
+    "paint_index": "911"
   },
   {
     "id": "skin-1248828",
@@ -1985,7 +2267,9 @@
     "price": 4.06,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Nostalgia"
+    "item_name": "P90 | Nostalgia",
+    "rarity": "Classified",
+    "paint_index": "911"
   },
   {
     "id": "skin-1248828",
@@ -1999,7 +2283,9 @@
     "price": 7.34,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P90 | Nostalgia"
+    "item_name": "P90 | Nostalgia",
+    "rarity": "Classified",
+    "paint_index": "911"
   },
   {
     "id": "skin-1248828",
@@ -2013,7 +2299,9 @@
     "price": 21.12,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P90 | Nostalgia"
+    "item_name": "P90 | Nostalgia",
+    "rarity": "Classified",
+    "paint_index": "911"
   },
   {
     "id": "skin-1248828",
@@ -2027,7 +2315,9 @@
     "price": 3.73,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Nostalgia"
+    "item_name": "P90 | Nostalgia",
+    "rarity": "Classified",
+    "paint_index": "911"
   },
   {
     "id": "skin-1245808",
@@ -2041,7 +2331,9 @@
     "price": 43.54,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Death by Kitty"
+    "item_name": "P90 | Death by Kitty",
+    "rarity": "Covert",
+    "paint_index": "156"
   },
   {
     "id": "skin-1245808",
@@ -2055,7 +2347,9 @@
     "price": 95.31,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P90 | Death by Kitty"
+    "item_name": "P90 | Death by Kitty",
+    "rarity": "Covert",
+    "paint_index": "156"
   },
   {
     "id": "skin-1245808",
@@ -2069,7 +2363,9 @@
     "price": 202.65,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P90 | Death by Kitty"
+    "item_name": "P90 | Death by Kitty",
+    "rarity": "Covert",
+    "paint_index": "156"
   },
   {
     "id": "skin-1245808",
@@ -2083,7 +2379,9 @@
     "price": 29.48,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Death by Kitty"
+    "item_name": "P90 | Death by Kitty",
+    "rarity": "Covert",
+    "paint_index": "156"
   },
   {
     "id": "skin-1245452",
@@ -2097,7 +2395,9 @@
     "price": 64.8,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P90 | Cold Blooded"
+    "item_name": "P90 | Cold Blooded",
+    "rarity": "Classified",
+    "paint_index": "67"
   },
   {
     "id": "skin-1245452",
@@ -2111,7 +2411,9 @@
     "price": 53.96,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Cold Blooded"
+    "item_name": "P90 | Cold Blooded",
+    "rarity": "Classified",
+    "paint_index": "67"
   },
   {
     "id": "skin-1245452",
@@ -2125,7 +2427,9 @@
     "price": 60.63,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P90 | Cold Blooded"
+    "item_name": "P90 | Cold Blooded",
+    "rarity": "Classified",
+    "paint_index": "67"
   },
   {
     "id": "skin-1245452",
@@ -2139,7 +2443,9 @@
     "price": 54.16,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Cold Blooded"
+    "item_name": "P90 | Cold Blooded",
+    "rarity": "Classified",
+    "paint_index": "67"
   },
   {
     "id": "skin-1249480",
@@ -2153,7 +2459,9 @@
     "price": 8.6,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Schematic"
+    "item_name": "P90 | Schematic",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1074"
   },
   {
     "id": "skin-1249480",
@@ -2167,7 +2475,9 @@
     "price": 8.76,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Schematic"
+    "item_name": "P90 | Schematic",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1074"
   },
   {
     "id": "skin-1249480",
@@ -2181,7 +2491,9 @@
     "price": 11.24,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Schematic"
+    "item_name": "P90 | Schematic",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1074"
   },
   {
     "id": "skin-1249480",
@@ -2195,7 +2507,9 @@
     "price": 8.69,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Schematic"
+    "item_name": "P90 | Schematic",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1074"
   },
   {
     "id": "skin-1249480",
@@ -2209,7 +2523,9 @@
     "price": 8.59,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Schematic"
+    "item_name": "P90 | Schematic",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1074"
   },
   {
     "id": "skin-1245860",
@@ -2223,7 +2539,9 @@
     "price": 6.11,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Fallout Warning"
+    "item_name": "P90 | Fallout Warning",
+    "rarity": "Industrial Grade",
+    "paint_index": "169"
   },
   {
     "id": "skin-1245860",
@@ -2237,7 +2555,9 @@
     "price": 10.23,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Fallout Warning"
+    "item_name": "P90 | Fallout Warning",
+    "rarity": "Industrial Grade",
+    "paint_index": "169"
   },
   {
     "id": "skin-1245860",
@@ -2251,7 +2571,9 @@
     "price": 7.64,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Fallout Warning"
+    "item_name": "P90 | Fallout Warning",
+    "rarity": "Industrial Grade",
+    "paint_index": "169"
   },
   {
     "id": "skin-1245860",
@@ -2265,7 +2587,9 @@
     "price": 61.71,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Fallout Warning"
+    "item_name": "P90 | Fallout Warning",
+    "rarity": "Industrial Grade",
+    "paint_index": "169"
   },
   {
     "id": "skin-1245860",
@@ -2279,7 +2603,9 @@
     "price": 5.09,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Fallout Warning"
+    "item_name": "P90 | Fallout Warning",
+    "rarity": "Industrial Grade",
+    "paint_index": "169"
   },
   {
     "id": "skin-1246160",
@@ -2293,7 +2619,9 @@
     "price": 0.23,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Teardown"
+    "item_name": "P90 | Teardown",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "244"
   },
   {
     "id": "skin-1246160",
@@ -2307,7 +2635,9 @@
     "price": 0.64,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Teardown"
+    "item_name": "P90 | Teardown",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "244"
   },
   {
     "id": "skin-1246160",
@@ -2321,7 +2651,9 @@
     "price": 0.37,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Teardown"
+    "item_name": "P90 | Teardown",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "244"
   },
   {
     "id": "skin-1246160",
@@ -2335,7 +2667,9 @@
     "price": 0.23,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Teardown"
+    "item_name": "P90 | Teardown",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "244"
   },
   {
     "id": "skin-1246160",
@@ -2349,7 +2683,9 @@
     "price": 0.24,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Teardown"
+    "item_name": "P90 | Teardown",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "244"
   },
   {
     "id": "skin-1249092",
@@ -2363,7 +2699,9 @@
     "price": 0.48,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Cocoa Rampage"
+    "item_name": "P90 | Cocoa Rampage",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "977"
   },
   {
     "id": "skin-1249092",
@@ -2377,7 +2715,9 @@
     "price": 0.55,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Cocoa Rampage"
+    "item_name": "P90 | Cocoa Rampage",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "977"
   },
   {
     "id": "skin-1249092",
@@ -2391,7 +2731,9 @@
     "price": 0.4,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Cocoa Rampage"
+    "item_name": "P90 | Cocoa Rampage",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "977"
   },
   {
     "id": "skin-1249092",
@@ -2405,7 +2747,9 @@
     "price": 0.7,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Cocoa Rampage"
+    "item_name": "P90 | Cocoa Rampage",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "977"
   },
   {
     "id": "skin-1249092",
@@ -2419,7 +2763,9 @@
     "price": 1.66,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P90 | Cocoa Rampage"
+    "item_name": "P90 | Cocoa Rampage",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "977"
   },
   {
     "id": "skin-1249092",
@@ -2433,7 +2779,9 @@
     "price": 0.28,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Cocoa Rampage"
+    "item_name": "P90 | Cocoa Rampage",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "977"
   },
   {
     "id": "skin-1249092",
@@ -2447,7 +2795,9 @@
     "price": 0.34,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P90 | Cocoa Rampage"
+    "item_name": "P90 | Cocoa Rampage",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "977"
   },
   {
     "id": "skin-1249092",
@@ -2461,7 +2811,9 @@
     "price": 0.86,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P90 | Cocoa Rampage"
+    "item_name": "P90 | Cocoa Rampage",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "977"
   },
   {
     "id": "skin-1249092",
@@ -2475,7 +2827,9 @@
     "price": 0.46,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P90 | Cocoa Rampage"
+    "item_name": "P90 | Cocoa Rampage",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "977"
   },
   {
     "id": "skin-1249092",
@@ -2489,7 +2843,9 @@
     "price": 0.54,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P90 | Cocoa Rampage"
+    "item_name": "P90 | Cocoa Rampage",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "977"
   },
   {
     "id": "skin-1246316",
@@ -2503,7 +2859,9 @@
     "price": 16.14,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P90 | Trigon"
+    "item_name": "P90 | Trigon",
+    "rarity": "Classified",
+    "paint_index": "283"
   },
   {
     "id": "skin-1246316",
@@ -2517,7 +2875,9 @@
     "price": 6.55,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Trigon"
+    "item_name": "P90 | Trigon",
+    "rarity": "Classified",
+    "paint_index": "283"
   },
   {
     "id": "skin-1246316",
@@ -2531,7 +2891,9 @@
     "price": 14.59,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P90 | Trigon"
+    "item_name": "P90 | Trigon",
+    "rarity": "Classified",
+    "paint_index": "283"
   },
   {
     "id": "skin-1246316",
@@ -2545,7 +2907,9 @@
     "price": 12.83,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P90 | Trigon"
+    "item_name": "P90 | Trigon",
+    "rarity": "Classified",
+    "paint_index": "283"
   },
   {
     "id": "skin-1246316",
@@ -2559,7 +2923,9 @@
     "price": 9.52,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Trigon"
+    "item_name": "P90 | Trigon",
+    "rarity": "Classified",
+    "paint_index": "283"
   },
   {
     "id": "skin-1246316",
@@ -2573,7 +2939,9 @@
     "price": 7.81,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Trigon"
+    "item_name": "P90 | Trigon",
+    "rarity": "Classified",
+    "paint_index": "283"
   },
   {
     "id": "skin-1246316",
@@ -2587,7 +2955,9 @@
     "price": 7.86,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Trigon"
+    "item_name": "P90 | Trigon",
+    "rarity": "Classified",
+    "paint_index": "283"
   },
   {
     "id": "skin-1246316",
@@ -2601,7 +2971,9 @@
     "price": 15.7,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P90 | Trigon"
+    "item_name": "P90 | Trigon",
+    "rarity": "Classified",
+    "paint_index": "283"
   },
   {
     "id": "skin-1246096",
@@ -2615,7 +2987,9 @@
     "price": 6.79,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Blind Spot"
+    "item_name": "P90 | Blind Spot",
+    "rarity": "Restricted",
+    "paint_index": "228"
   },
   {
     "id": "skin-1246096",
@@ -2629,7 +3003,9 @@
     "price": 6.62,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Blind Spot"
+    "item_name": "P90 | Blind Spot",
+    "rarity": "Restricted",
+    "paint_index": "228"
   },
   {
     "id": "skin-1246096",
@@ -2643,7 +3019,9 @@
     "price": 10.06,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P90 | Blind Spot"
+    "item_name": "P90 | Blind Spot",
+    "rarity": "Restricted",
+    "paint_index": "228"
   },
   {
     "id": "skin-1246096",
@@ -2657,7 +3035,9 @@
     "price": 8.04,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Blind Spot"
+    "item_name": "P90 | Blind Spot",
+    "rarity": "Restricted",
+    "paint_index": "228"
   },
   {
     "id": "skin-1246096",
@@ -2671,7 +3051,9 @@
     "price": 12.17,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P90 | Blind Spot"
+    "item_name": "P90 | Blind Spot",
+    "rarity": "Restricted",
+    "paint_index": "228"
   },
   {
     "id": "skin-1246096",
@@ -2685,7 +3067,9 @@
     "price": 12.51,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P90 | Blind Spot"
+    "item_name": "P90 | Blind Spot",
+    "rarity": "Restricted",
+    "paint_index": "228"
   },
   {
     "id": "skin-1246096",
@@ -2699,7 +3083,9 @@
     "price": 11.34,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P90 | Blind Spot"
+    "item_name": "P90 | Blind Spot",
+    "rarity": "Restricted",
+    "paint_index": "228"
   },
   {
     "id": "skin-1246096",
@@ -2713,7 +3099,9 @@
     "price": 10.49,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P90 | Blind Spot"
+    "item_name": "P90 | Blind Spot",
+    "rarity": "Restricted",
+    "paint_index": "228"
   },
   {
     "id": "skin-1246096",
@@ -2727,7 +3115,9 @@
     "price": 8.6,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Blind Spot"
+    "item_name": "P90 | Blind Spot",
+    "rarity": "Restricted",
+    "paint_index": "228"
   },
   {
     "id": "skin-1246096",
@@ -2741,7 +3131,9 @@
     "price": 6.65,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Blind Spot"
+    "item_name": "P90 | Blind Spot",
+    "rarity": "Restricted",
+    "paint_index": "228"
   },
   {
     "id": "skin-1247860",
@@ -2755,7 +3147,9 @@
     "price": 8.89,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P90 | Death Grip"
+    "item_name": "P90 | Death Grip",
+    "rarity": "Restricted",
+    "paint_index": "669"
   },
   {
     "id": "skin-1247860",
@@ -2769,7 +3163,9 @@
     "price": 6.99,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Death Grip"
+    "item_name": "P90 | Death Grip",
+    "rarity": "Restricted",
+    "paint_index": "669"
   },
   {
     "id": "skin-1247860",
@@ -2783,7 +3179,9 @@
     "price": 5.74,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Death Grip"
+    "item_name": "P90 | Death Grip",
+    "rarity": "Restricted",
+    "paint_index": "669"
   },
   {
     "id": "skin-1247860",
@@ -2797,7 +3195,9 @@
     "price": 25.81,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P90 | Death Grip"
+    "item_name": "P90 | Death Grip",
+    "rarity": "Restricted",
+    "paint_index": "669"
   },
   {
     "id": "skin-1247860",
@@ -2811,7 +3211,9 @@
     "price": 10.86,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P90 | Death Grip"
+    "item_name": "P90 | Death Grip",
+    "rarity": "Restricted",
+    "paint_index": "669"
   },
   {
     "id": "skin-1247860",
@@ -2825,7 +3227,9 @@
     "price": 10.7,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Death Grip"
+    "item_name": "P90 | Death Grip",
+    "rarity": "Restricted",
+    "paint_index": "669"
   },
   {
     "id": "skin-1247860",
@@ -2839,7 +3243,9 @@
     "price": 5.35,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Death Grip"
+    "item_name": "P90 | Death Grip",
+    "rarity": "Restricted",
+    "paint_index": "669"
   },
   {
     "id": "skin-1247860",
@@ -2853,7 +3259,9 @@
     "price": 10.42,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P90 | Death Grip"
+    "item_name": "P90 | Death Grip",
+    "rarity": "Restricted",
+    "paint_index": "669"
   },
   {
     "id": "skin-1247860",
@@ -2867,7 +3275,9 @@
     "price": 4.77,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Death Grip"
+    "item_name": "P90 | Death Grip",
+    "rarity": "Restricted",
+    "paint_index": "669"
   },
   {
     "id": "skin-1247860",
@@ -2881,7 +3291,9 @@
     "price": 16.39,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P90 | Death Grip"
+    "item_name": "P90 | Death Grip",
+    "rarity": "Restricted",
+    "paint_index": "669"
   },
   {
     "id": "skin-1248088",
@@ -2895,7 +3307,9 @@
     "price": 13.58,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Sunset Lily"
+    "item_name": "P90 | Sunset Lily",
+    "rarity": "Industrial Grade",
+    "paint_index": "726"
   },
   {
     "id": "skin-1248088",
@@ -2909,7 +3323,9 @@
     "price": 13.71,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Sunset Lily"
+    "item_name": "P90 | Sunset Lily",
+    "rarity": "Industrial Grade",
+    "paint_index": "726"
   },
   {
     "id": "skin-1248088",
@@ -2923,7 +3339,9 @@
     "price": 14.03,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Sunset Lily"
+    "item_name": "P90 | Sunset Lily",
+    "rarity": "Industrial Grade",
+    "paint_index": "726"
   },
   {
     "id": "skin-1248088",
@@ -2937,7 +3355,9 @@
     "price": 13.35,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Sunset Lily"
+    "item_name": "P90 | Sunset Lily",
+    "rarity": "Industrial Grade",
+    "paint_index": "726"
   },
   {
     "id": "skin-1248088",
@@ -2951,7 +3371,9 @@
     "price": 13.56,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Sunset Lily"
+    "item_name": "P90 | Sunset Lily",
+    "rarity": "Industrial Grade",
+    "paint_index": "726"
   },
   {
     "id": "skin-1247556",
@@ -2965,7 +3387,9 @@
     "price": 1.34,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Chopper"
+    "item_name": "P90 | Chopper",
+    "rarity": "Restricted",
+    "paint_index": "593"
   },
   {
     "id": "skin-1247556",
@@ -2979,7 +3403,9 @@
     "price": 4.65,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P90 | Chopper"
+    "item_name": "P90 | Chopper",
+    "rarity": "Restricted",
+    "paint_index": "593"
   },
   {
     "id": "skin-1247556",
@@ -2993,7 +3419,9 @@
     "price": 0.68,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Chopper"
+    "item_name": "P90 | Chopper",
+    "rarity": "Restricted",
+    "paint_index": "593"
   },
   {
     "id": "skin-1247556",
@@ -3007,7 +3435,9 @@
     "price": 0.53,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Chopper"
+    "item_name": "P90 | Chopper",
+    "rarity": "Restricted",
+    "paint_index": "593"
   },
   {
     "id": "skin-1247556",
@@ -3021,7 +3451,9 @@
     "price": 1,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P90 | Chopper"
+    "item_name": "P90 | Chopper",
+    "rarity": "Restricted",
+    "paint_index": "593"
   },
   {
     "id": "skin-1247556",
@@ -3035,7 +3467,9 @@
     "price": 2.27,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P90 | Chopper"
+    "item_name": "P90 | Chopper",
+    "rarity": "Restricted",
+    "paint_index": "593"
   },
   {
     "id": "skin-1247556",
@@ -3049,7 +3483,9 @@
     "price": 0.97,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P90 | Chopper"
+    "item_name": "P90 | Chopper",
+    "rarity": "Restricted",
+    "paint_index": "593"
   },
   {
     "id": "skin-1247556",
@@ -3063,7 +3499,9 @@
     "price": 1.62,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P90 | Chopper"
+    "item_name": "P90 | Chopper",
+    "rarity": "Restricted",
+    "paint_index": "593"
   },
   {
     "id": "skin-1247556",
@@ -3077,7 +3515,9 @@
     "price": 0.35,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Chopper"
+    "item_name": "P90 | Chopper",
+    "rarity": "Restricted",
+    "paint_index": "593"
   },
   {
     "id": "skin-1247556",
@@ -3091,7 +3531,9 @@
     "price": 0.32,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Chopper"
+    "item_name": "P90 | Chopper",
+    "rarity": "Restricted",
+    "paint_index": "593"
   },
   {
     "id": "skin-1248288",
@@ -3105,7 +3547,9 @@
     "price": 0.26,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Facility Negative"
+    "item_name": "P90 | Facility Negative",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "776"
   },
   {
     "id": "skin-1248288",
@@ -3119,7 +3563,9 @@
     "price": 0.7,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Facility Negative"
+    "item_name": "P90 | Facility Negative",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "776"
   },
   {
     "id": "skin-1248288",
@@ -3133,7 +3579,9 @@
     "price": 0.55,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Facility Negative"
+    "item_name": "P90 | Facility Negative",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "776"
   },
   {
     "id": "skin-1248288",
@@ -3147,7 +3595,9 @@
     "price": 0.22,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Facility Negative"
+    "item_name": "P90 | Facility Negative",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "776"
   },
   {
     "id": "skin-1248288",
@@ -3161,7 +3611,9 @@
     "price": 0.23,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Facility Negative"
+    "item_name": "P90 | Facility Negative",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "776"
   },
   {
     "id": "skin-1246524",
@@ -3175,7 +3627,9 @@
     "price": 1.7,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Module"
+    "item_name": "P90 | Module",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "335"
   },
   {
     "id": "skin-1246524",
@@ -3189,7 +3643,9 @@
     "price": 2.44,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P90 | Module"
+    "item_name": "P90 | Module",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "335"
   },
   {
     "id": "skin-1246524",
@@ -3203,7 +3659,9 @@
     "price": 1.98,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Module"
+    "item_name": "P90 | Module",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "335"
   },
   {
     "id": "skin-1246524",
@@ -3217,7 +3675,9 @@
     "price": 1.35,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P90 | Module"
+    "item_name": "P90 | Module",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "335"
   },
   {
     "id": "skin-1246524",
@@ -3231,7 +3691,9 @@
     "price": 1.62,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P90 | Module"
+    "item_name": "P90 | Module",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "335"
   },
   {
     "id": "skin-1246524",
@@ -3245,7 +3707,9 @@
     "price": 1.71,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Module"
+    "item_name": "P90 | Module",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "335"
   },
   {
     "id": "skin-1248580",
@@ -3259,7 +3723,9 @@
     "price": 0.35,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P90 | Off World"
+    "item_name": "P90 | Off World",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "849"
   },
   {
     "id": "skin-1248580",
@@ -3273,7 +3739,9 @@
     "price": 0.1,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Off World"
+    "item_name": "P90 | Off World",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "849"
   },
   {
     "id": "skin-1248580",
@@ -3287,7 +3755,9 @@
     "price": 0.18,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P90 | Off World"
+    "item_name": "P90 | Off World",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "849"
   },
   {
     "id": "skin-1248580",
@@ -3301,7 +3771,9 @@
     "price": 0.09,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Off World"
+    "item_name": "P90 | Off World",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "849"
   },
   {
     "id": "skin-1248580",
@@ -3315,7 +3787,9 @@
     "price": 0.06,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Off World"
+    "item_name": "P90 | Off World",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "849"
   },
   {
     "id": "skin-1248580",
@@ -3329,7 +3803,9 @@
     "price": 0.19,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Off World"
+    "item_name": "P90 | Off World",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "849"
   },
   {
     "id": "skin-1248580",
@@ -3343,7 +3819,9 @@
     "price": 1.55,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P90 | Off World"
+    "item_name": "P90 | Off World",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "849"
   },
   {
     "id": "skin-1248580",
@@ -3357,7 +3835,9 @@
     "price": 0.37,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Off World"
+    "item_name": "P90 | Off World",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "849"
   },
   {
     "id": "skin-1248580",
@@ -3371,7 +3851,9 @@
     "price": 0.24,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P90 | Off World"
+    "item_name": "P90 | Off World",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "849"
   },
   {
     "id": "skin-1248580",
@@ -3385,7 +3867,9 @@
     "price": 0.75,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P90 | Off World"
+    "item_name": "P90 | Off World",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "849"
   },
   {
     "id": "skin-1249244",
@@ -3399,7 +3883,9 @@
     "price": 6.8,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Tiger Pit"
+    "item_name": "P90 | Tiger Pit",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1015"
   },
   {
     "id": "skin-1249244",
@@ -3413,7 +3899,9 @@
     "price": 7.44,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Tiger Pit"
+    "item_name": "P90 | Tiger Pit",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1015"
   },
   {
     "id": "skin-1249244",
@@ -3427,7 +3915,9 @@
     "price": 7.05,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Tiger Pit"
+    "item_name": "P90 | Tiger Pit",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1015"
   },
   {
     "id": "skin-1249244",
@@ -3441,7 +3931,9 @@
     "price": 7.65,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Tiger Pit"
+    "item_name": "P90 | Tiger Pit",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1015"
   },
   {
     "id": "skin-1249244",
@@ -3455,7 +3947,9 @@
     "price": 6.86,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Tiger Pit"
+    "item_name": "P90 | Tiger Pit",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1015"
   },
   {
     "id": "skin-1247248",
@@ -3469,7 +3963,9 @@
     "price": 3.4,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P90 | Shapewood"
+    "item_name": "P90 | Shapewood",
+    "rarity": "Classified",
+    "paint_index": "516"
   },
   {
     "id": "skin-1247248",
@@ -3483,7 +3979,9 @@
     "price": 25.37,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P90 | Shapewood"
+    "item_name": "P90 | Shapewood",
+    "rarity": "Classified",
+    "paint_index": "516"
   },
   {
     "id": "skin-1247248",
@@ -3497,7 +3995,9 @@
     "price": 1.45,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Shapewood"
+    "item_name": "P90 | Shapewood",
+    "rarity": "Classified",
+    "paint_index": "516"
   },
   {
     "id": "skin-1247248",
@@ -3511,7 +4011,9 @@
     "price": 9.28,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P90 | Shapewood"
+    "item_name": "P90 | Shapewood",
+    "rarity": "Classified",
+    "paint_index": "516"
   },
   {
     "id": "skin-1247248",
@@ -3525,7 +4027,9 @@
     "price": 2.83,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P90 | Shapewood"
+    "item_name": "P90 | Shapewood",
+    "rarity": "Classified",
+    "paint_index": "516"
   },
   {
     "id": "skin-1247248",
@@ -3539,7 +4043,9 @@
     "price": 3.01,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Shapewood"
+    "item_name": "P90 | Shapewood",
+    "rarity": "Classified",
+    "paint_index": "516"
   },
   {
     "id": "skin-1247248",
@@ -3553,7 +4059,9 @@
     "price": 2.86,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P90 | Shapewood"
+    "item_name": "P90 | Shapewood",
+    "rarity": "Classified",
+    "paint_index": "516"
   },
   {
     "id": "skin-1247248",
@@ -3567,7 +4075,9 @@
     "price": 8.76,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Shapewood"
+    "item_name": "P90 | Shapewood",
+    "rarity": "Classified",
+    "paint_index": "516"
   },
   {
     "id": "skin-1247248",
@@ -3581,7 +4091,9 @@
     "price": 1.03,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Shapewood"
+    "item_name": "P90 | Shapewood",
+    "rarity": "Classified",
+    "paint_index": "516"
   },
   {
     "id": "skin-1247248",
@@ -3595,7 +4107,9 @@
     "price": 0.93,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Shapewood"
+    "item_name": "P90 | Shapewood",
+    "rarity": "Classified",
+    "paint_index": "516"
   },
   {
     "id": "skin-1246552",
@@ -3609,7 +4123,9 @@
     "price": 5.19,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Leather"
+    "item_name": "P90 | Leather",
+    "rarity": "Industrial Grade",
+    "paint_index": "342"
   },
   {
     "id": "skin-1246552",
@@ -3623,7 +4139,9 @@
     "price": 11.5,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Leather"
+    "item_name": "P90 | Leather",
+    "rarity": "Industrial Grade",
+    "paint_index": "342"
   },
   {
     "id": "skin-1246552",
@@ -3637,7 +4155,9 @@
     "price": 5.3,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Leather"
+    "item_name": "P90 | Leather",
+    "rarity": "Industrial Grade",
+    "paint_index": "342"
   },
   {
     "id": "skin-1246552",
@@ -3651,7 +4171,9 @@
     "price": 6.83,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Leather"
+    "item_name": "P90 | Leather",
+    "rarity": "Industrial Grade",
+    "paint_index": "342"
   },
   {
     "id": "skin-1246552",
@@ -3665,7 +4187,9 @@
     "price": 5.26,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Leather"
+    "item_name": "P90 | Leather",
+    "rarity": "Industrial Grade",
+    "paint_index": "342"
   },
   {
     "id": "skin-1245680",
@@ -3679,7 +4203,9 @@
     "price": 0.01,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Sand Spray"
+    "item_name": "P90 | Sand Spray",
+    "rarity": "Consumer Grade",
+    "paint_index": "124"
   },
   {
     "id": "skin-1245680",
@@ -3693,7 +4219,9 @@
     "price": 0.01,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Sand Spray"
+    "item_name": "P90 | Sand Spray",
+    "rarity": "Consumer Grade",
+    "paint_index": "124"
   },
   {
     "id": "skin-1245680",
@@ -3707,7 +4235,9 @@
     "price": 0.01,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Sand Spray"
+    "item_name": "P90 | Sand Spray",
+    "rarity": "Consumer Grade",
+    "paint_index": "124"
   },
   {
     "id": "skin-1245680",
@@ -3721,7 +4251,9 @@
     "price": 0.12,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Sand Spray"
+    "item_name": "P90 | Sand Spray",
+    "rarity": "Consumer Grade",
+    "paint_index": "124"
   },
   {
     "id": "skin-1245680",
@@ -3735,7 +4267,9 @@
     "price": 0.01,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Sand Spray"
+    "item_name": "P90 | Sand Spray",
+    "rarity": "Consumer Grade",
+    "paint_index": "124"
   },
   {
     "id": "skin-1250184",
@@ -3749,7 +4283,9 @@
     "price": 5.59,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | ScaraB Rush"
+    "item_name": "P90 | ScaraB Rush",
+    "rarity": "Restricted",
+    "paint_index": "1250"
   },
   {
     "id": "skin-1250184",
@@ -3763,7 +4299,9 @@
     "price": 13.53,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | ScaraB Rush"
+    "item_name": "P90 | ScaraB Rush",
+    "rarity": "Restricted",
+    "paint_index": "1250"
   },
   {
     "id": "skin-1250184",
@@ -3777,7 +4315,9 @@
     "price": 6.71,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | ScaraB Rush"
+    "item_name": "P90 | ScaraB Rush",
+    "rarity": "Restricted",
+    "paint_index": "1250"
   },
   {
     "id": "skin-1250184",
@@ -3791,7 +4331,9 @@
     "price": 10.13,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | ScaraB Rush"
+    "item_name": "P90 | ScaraB Rush",
+    "rarity": "Restricted",
+    "paint_index": "1250"
   },
   {
     "id": "skin-1250184",
@@ -3805,7 +4347,9 @@
     "price": 5.45,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | ScaraB Rush"
+    "item_name": "P90 | ScaraB Rush",
+    "rarity": "Restricted",
+    "paint_index": "1250"
   },
   {
     "id": "skin-1245884",
@@ -3819,7 +4363,9 @@
     "price": 0.84,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Scorched"
+    "item_name": "P90 | Scorched",
+    "rarity": "Consumer Grade",
+    "paint_index": "175"
   },
   {
     "id": "skin-1245884",
@@ -3833,7 +4379,9 @@
     "price": 0.82,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Scorched"
+    "item_name": "P90 | Scorched",
+    "rarity": "Consumer Grade",
+    "paint_index": "175"
   },
   {
     "id": "skin-1245884",
@@ -3847,7 +4395,9 @@
     "price": 4.52,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Scorched"
+    "item_name": "P90 | Scorched",
+    "rarity": "Consumer Grade",
+    "paint_index": "175"
   },
   {
     "id": "skin-1245884",
@@ -3861,7 +4411,9 @@
     "price": 1.29,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Scorched"
+    "item_name": "P90 | Scorched",
+    "rarity": "Consumer Grade",
+    "paint_index": "175"
   },
   {
     "id": "skin-1245884",
@@ -3875,7 +4427,9 @@
     "price": 1.01,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Scorched"
+    "item_name": "P90 | Scorched",
+    "rarity": "Consumer Grade",
+    "paint_index": "175"
   },
   {
     "id": "skin-1248496",
@@ -3889,7 +4443,9 @@
     "price": 1.62,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Verdant Growth"
+    "item_name": "P90 | Verdant Growth",
+    "rarity": "Industrial Grade",
+    "paint_index": "828"
   },
   {
     "id": "skin-1248496",
@@ -3903,7 +4459,9 @@
     "price": 1.67,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Verdant Growth"
+    "item_name": "P90 | Verdant Growth",
+    "rarity": "Industrial Grade",
+    "paint_index": "828"
   },
   {
     "id": "skin-1248496",
@@ -3917,7 +4475,9 @@
     "price": 1.62,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Verdant Growth"
+    "item_name": "P90 | Verdant Growth",
+    "rarity": "Industrial Grade",
+    "paint_index": "828"
   },
   {
     "id": "skin-1248496",
@@ -3931,7 +4491,9 @@
     "price": 1.73,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Verdant Growth"
+    "item_name": "P90 | Verdant Growth",
+    "rarity": "Industrial Grade",
+    "paint_index": "828"
   },
   {
     "id": "skin-1248496",
@@ -3945,7 +4507,9 @@
     "price": 1.74,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Verdant Growth"
+    "item_name": "P90 | Verdant Growth",
+    "rarity": "Industrial Grade",
+    "paint_index": "828"
   },
   {
     "id": "skin-1245628",
@@ -3959,7 +4523,9 @@
     "price": 25.64,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Glacier Mesh"
+    "item_name": "P90 | Glacier Mesh",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "111"
   },
   {
     "id": "skin-1245628",
@@ -3973,7 +4539,9 @@
     "price": 15.08,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Glacier Mesh"
+    "item_name": "P90 | Glacier Mesh",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "111"
   },
   {
     "id": "skin-1245628",
@@ -3987,7 +4555,9 @@
     "price": 3.42,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Glacier Mesh"
+    "item_name": "P90 | Glacier Mesh",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "111"
   },
   {
     "id": "skin-1245628",
@@ -4001,7 +4571,9 @@
     "price": 4.79,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Glacier Mesh"
+    "item_name": "P90 | Glacier Mesh",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "111"
   },
   {
     "id": "skin-1245628",
@@ -4015,7 +4587,9 @@
     "price": 93.93,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Glacier Mesh"
+    "item_name": "P90 | Glacier Mesh",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "111"
   },
   {
     "id": "skin-1246120",
@@ -4029,7 +4603,9 @@
     "price": 0.13,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Ash Wood"
+    "item_name": "P90 | Ash Wood",
+    "rarity": "Industrial Grade",
+    "paint_index": "234"
   },
   {
     "id": "skin-1246120",
@@ -4043,7 +4619,9 @@
     "price": 0.2,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Ash Wood"
+    "item_name": "P90 | Ash Wood",
+    "rarity": "Industrial Grade",
+    "paint_index": "234"
   },
   {
     "id": "skin-1246120",
@@ -4057,7 +4635,9 @@
     "price": 0.13,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Ash Wood"
+    "item_name": "P90 | Ash Wood",
+    "rarity": "Industrial Grade",
+    "paint_index": "234"
   },
   {
     "id": "skin-1246120",
@@ -4071,7 +4651,9 @@
     "price": 0.17,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Ash Wood"
+    "item_name": "P90 | Ash Wood",
+    "rarity": "Industrial Grade",
+    "paint_index": "234"
   },
   {
     "id": "skin-1248220",
@@ -4085,7 +4667,9 @@
     "price": 244.09,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Astral Jörmungandr"
+    "item_name": "P90 | Astral Jörmungandr",
+    "rarity": "Restricted",
+    "paint_index": "759"
   },
   {
     "id": "skin-1248220",
@@ -4099,7 +4683,9 @@
     "price": 257.67,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Astral Jörmungandr"
+    "item_name": "P90 | Astral Jörmungandr",
+    "rarity": "Restricted",
+    "paint_index": "759"
   },
   {
     "id": "skin-1248220",
@@ -4113,7 +4699,9 @@
     "price": 239.51,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Astral Jörmungandr"
+    "item_name": "P90 | Astral Jörmungandr",
+    "rarity": "Restricted",
+    "paint_index": "759"
   },
   {
     "id": "skin-1248220",
@@ -4127,7 +4715,9 @@
     "price": 232.99,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Astral Jörmungandr"
+    "item_name": "P90 | Astral Jörmungandr",
+    "rarity": "Restricted",
+    "paint_index": "759"
   },
   {
     "id": "skin-1248220",
@@ -4141,6 +4731,8 @@
     "price": 546.7,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P90 | Astral Jörmungandr"
+    "item_name": "P90 | Astral Jörmungandr",
+    "rarity": "Restricted",
+    "paint_index": "759"
   }
 ]

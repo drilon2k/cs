@@ -11,7 +11,9 @@
     "price": 329.11,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Stained"
+    "item_name": "★ Talon Knife | Stained",
+    "rarity": "Covert",
+    "paint_index": "43"
   },
   {
     "id": "skin-34275500",
@@ -25,7 +27,9 @@
     "price": 445.61,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Stained"
+    "item_name": "★ Talon Knife | Stained",
+    "rarity": "Covert",
+    "paint_index": "43"
   },
   {
     "id": "skin-34275500",
@@ -39,7 +43,9 @@
     "price": 274.26,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Stained"
+    "item_name": "★ Talon Knife | Stained",
+    "rarity": "Covert",
+    "paint_index": "43"
   },
   {
     "id": "skin-34275500",
@@ -53,7 +59,9 @@
     "price": 407.9,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Stained"
+    "item_name": "★ Talon Knife | Stained",
+    "rarity": "Covert",
+    "paint_index": "43"
   },
   {
     "id": "skin-34275500",
@@ -67,7 +75,9 @@
     "price": 301.41,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Stained"
+    "item_name": "★ Talon Knife | Stained",
+    "rarity": "Covert",
+    "paint_index": "43"
   },
   {
     "id": "skin-34275500",
@@ -81,7 +91,9 @@
     "price": 274.26,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Stained"
+    "item_name": "★ Talon Knife | Stained",
+    "rarity": "Covert",
+    "paint_index": "43"
   },
   {
     "id": "skin-34275500",
@@ -95,7 +107,9 @@
     "price": 331.65,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Stained"
+    "item_name": "★ Talon Knife | Stained",
+    "rarity": "Covert",
+    "paint_index": "43"
   },
   {
     "id": "skin-34275500",
@@ -109,7 +123,9 @@
     "price": 267.41,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Stained"
+    "item_name": "★ Talon Knife | Stained",
+    "rarity": "Covert",
+    "paint_index": "43"
   },
   {
     "id": "skin-34275500",
@@ -123,7 +139,9 @@
     "price": 329.11,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Stained"
+    "item_name": "★ Talon Knife | Stained",
+    "rarity": "Covert",
+    "paint_index": "43"
   },
   {
     "id": "skin-34275500",
@@ -137,7 +155,9 @@
     "price": 335.9,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Stained"
+    "item_name": "★ Talon Knife | Stained",
+    "rarity": "Covert",
+    "paint_index": "43"
   },
   {
     "id": "skin-34275348",
@@ -151,7 +171,9 @@
     "price": 294.69,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Forest DDPAT"
+    "item_name": "★ Talon Knife | Forest DDPAT",
+    "rarity": "Covert",
+    "paint_index": "5"
   },
   {
     "id": "skin-34275348",
@@ -165,7 +187,9 @@
     "price": 217.9,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Forest DDPAT"
+    "item_name": "★ Talon Knife | Forest DDPAT",
+    "rarity": "Covert",
+    "paint_index": "5"
   },
   {
     "id": "skin-34275348",
@@ -179,7 +203,9 @@
     "price": 208.19,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Forest DDPAT"
+    "item_name": "★ Talon Knife | Forest DDPAT",
+    "rarity": "Covert",
+    "paint_index": "5"
   },
   {
     "id": "skin-34275348",
@@ -193,7 +219,9 @@
     "price": 244.02,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Forest DDPAT"
+    "item_name": "★ Talon Knife | Forest DDPAT",
+    "rarity": "Covert",
+    "paint_index": "5"
   },
   {
     "id": "skin-34275348",
@@ -207,7 +235,9 @@
     "price": 212,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Forest DDPAT"
+    "item_name": "★ Talon Knife | Forest DDPAT",
+    "rarity": "Covert",
+    "paint_index": "5"
   },
   {
     "id": "skin-34275348",
@@ -221,7 +251,9 @@
     "price": 239.91,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Forest DDPAT"
+    "item_name": "★ Talon Knife | Forest DDPAT",
+    "rarity": "Covert",
+    "paint_index": "5"
   },
   {
     "id": "skin-34275348",
@@ -235,7 +267,9 @@
     "price": 210.36,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Forest DDPAT"
+    "item_name": "★ Talon Knife | Forest DDPAT",
+    "rarity": "Covert",
+    "paint_index": "5"
   },
   {
     "id": "skin-34275348",
@@ -249,7 +283,9 @@
     "price": 205.7,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Forest DDPAT"
+    "item_name": "★ Talon Knife | Forest DDPAT",
+    "rarity": "Covert",
+    "paint_index": "5"
   },
   {
     "id": "skin-34275348",
@@ -263,7 +299,9 @@
     "price": 0,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Forest DDPAT"
+    "item_name": "★ Talon Knife | Forest DDPAT",
+    "rarity": "Covert",
+    "paint_index": "5"
   },
   {
     "id": "skin-34275348",
@@ -277,7 +315,9 @@
     "price": 438.82,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Forest DDPAT"
+    "item_name": "★ Talon Knife | Forest DDPAT",
+    "rarity": "Covert",
+    "paint_index": "5"
   },
   {
     "id": "skin-34275720",
@@ -291,7 +331,9 @@
     "price": 234.22,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Ultraviolet"
+    "item_name": "★ Talon Knife | Ultraviolet",
+    "rarity": "Covert",
+    "paint_index": "98"
   },
   {
     "id": "skin-34275720",
@@ -305,7 +347,9 @@
     "price": 2646.63,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Ultraviolet"
+    "item_name": "★ Talon Knife | Ultraviolet",
+    "rarity": "Covert",
+    "paint_index": "98"
   },
   {
     "id": "skin-34275720",
@@ -319,7 +363,9 @@
     "price": 282.49,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Ultraviolet"
+    "item_name": "★ Talon Knife | Ultraviolet",
+    "rarity": "Covert",
+    "paint_index": "98"
   },
   {
     "id": "skin-34275720",
@@ -333,7 +379,9 @@
     "price": 260.27,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Ultraviolet"
+    "item_name": "★ Talon Knife | Ultraviolet",
+    "rarity": "Covert",
+    "paint_index": "98"
   },
   {
     "id": "skin-34275720",
@@ -347,7 +395,9 @@
     "price": 252.25,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Ultraviolet"
+    "item_name": "★ Talon Knife | Ultraviolet",
+    "rarity": "Covert",
+    "paint_index": "98"
   },
   {
     "id": "skin-34275720",
@@ -361,7 +411,9 @@
     "price": 411.39,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Ultraviolet"
+    "item_name": "★ Talon Knife | Ultraviolet",
+    "rarity": "Covert",
+    "paint_index": "98"
   },
   {
     "id": "skin-34275720",
@@ -375,7 +427,9 @@
     "price": 367.03,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Ultraviolet"
+    "item_name": "★ Talon Knife | Ultraviolet",
+    "rarity": "Covert",
+    "paint_index": "98"
   },
   {
     "id": "skin-34275720",
@@ -389,7 +443,9 @@
     "price": 982.82,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Ultraviolet"
+    "item_name": "★ Talon Knife | Ultraviolet",
+    "rarity": "Covert",
+    "paint_index": "98"
   },
   {
     "id": "skin-34275720",
@@ -403,7 +459,9 @@
     "price": 274.06,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Ultraviolet"
+    "item_name": "★ Talon Knife | Ultraviolet",
+    "rarity": "Covert",
+    "paint_index": "98"
   },
   {
     "id": "skin-34275720",
@@ -417,7 +475,9 @@
     "price": 251.64,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Ultraviolet"
+    "item_name": "★ Talon Knife | Ultraviolet",
+    "rarity": "Covert",
+    "paint_index": "98"
   },
   {
     "id": "skin-34275496",
@@ -431,7 +491,9 @@
     "price": 353.8,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Blue Steel"
+    "item_name": "★ Talon Knife | Blue Steel",
+    "rarity": "Covert",
+    "paint_index": "42"
   },
   {
     "id": "skin-34275496",
@@ -445,7 +507,9 @@
     "price": 356.54,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Blue Steel"
+    "item_name": "★ Talon Knife | Blue Steel",
+    "rarity": "Covert",
+    "paint_index": "42"
   },
   {
     "id": "skin-34275496",
@@ -459,7 +523,9 @@
     "price": 322.85,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Blue Steel"
+    "item_name": "★ Talon Knife | Blue Steel",
+    "rarity": "Covert",
+    "paint_index": "42"
   },
   {
     "id": "skin-34275496",
@@ -473,7 +539,9 @@
     "price": 1371.17,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Blue Steel"
+    "item_name": "★ Talon Knife | Blue Steel",
+    "rarity": "Covert",
+    "paint_index": "42"
   },
   {
     "id": "skin-34275496",
@@ -487,7 +555,9 @@
     "price": 304.84,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Blue Steel"
+    "item_name": "★ Talon Knife | Blue Steel",
+    "rarity": "Covert",
+    "paint_index": "42"
   },
   {
     "id": "skin-34275496",
@@ -501,7 +571,9 @@
     "price": 325,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Blue Steel"
+    "item_name": "★ Talon Knife | Blue Steel",
+    "rarity": "Covert",
+    "paint_index": "42"
   },
   {
     "id": "skin-34275496",
@@ -515,7 +587,9 @@
     "price": 380.95,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Blue Steel"
+    "item_name": "★ Talon Knife | Blue Steel",
+    "rarity": "Covert",
+    "paint_index": "42"
   },
   {
     "id": "skin-34275496",
@@ -529,7 +603,9 @@
     "price": 352.36,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Blue Steel"
+    "item_name": "★ Talon Knife | Blue Steel",
+    "rarity": "Covert",
+    "paint_index": "42"
   },
   {
     "id": "skin-34275496",
@@ -543,7 +619,9 @@
     "price": 533.3,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Blue Steel"
+    "item_name": "★ Talon Knife | Blue Steel",
+    "rarity": "Covert",
+    "paint_index": "42"
   },
   {
     "id": "skin-34275496",
@@ -557,7 +635,9 @@
     "price": 350.3,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Blue Steel"
+    "item_name": "★ Talon Knife | Blue Steel",
+    "rarity": "Covert",
+    "paint_index": "42"
   },
   {
     "id": "skin-34278268",
@@ -571,7 +651,9 @@
     "price": 237.24,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Night Stripe"
+    "item_name": "★ Talon Knife | Night Stripe",
+    "rarity": "Covert",
+    "paint_index": "735"
   },
   {
     "id": "skin-34278268",
@@ -585,7 +667,9 @@
     "price": 0,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Night Stripe"
+    "item_name": "★ Talon Knife | Night Stripe",
+    "rarity": "Covert",
+    "paint_index": "735"
   },
   {
     "id": "skin-34278268",
@@ -599,7 +683,9 @@
     "price": 479.96,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Night Stripe"
+    "item_name": "★ Talon Knife | Night Stripe",
+    "rarity": "Covert",
+    "paint_index": "735"
   },
   {
     "id": "skin-34278268",
@@ -613,7 +699,9 @@
     "price": 213.86,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Night Stripe"
+    "item_name": "★ Talon Knife | Night Stripe",
+    "rarity": "Covert",
+    "paint_index": "735"
   },
   {
     "id": "skin-34278268",
@@ -627,7 +715,9 @@
     "price": 245.46,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Night Stripe"
+    "item_name": "★ Talon Knife | Night Stripe",
+    "rarity": "Covert",
+    "paint_index": "735"
   },
   {
     "id": "skin-34278268",
@@ -641,7 +731,9 @@
     "price": 229.01,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Night Stripe"
+    "item_name": "★ Talon Knife | Night Stripe",
+    "rarity": "Covert",
+    "paint_index": "735"
   },
   {
     "id": "skin-34278268",
@@ -655,7 +747,9 @@
     "price": 245.46,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Night Stripe"
+    "item_name": "★ Talon Knife | Night Stripe",
+    "rarity": "Covert",
+    "paint_index": "735"
   },
   {
     "id": "skin-34278268",
@@ -669,7 +763,9 @@
     "price": 328.43,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Night Stripe"
+    "item_name": "★ Talon Knife | Night Stripe",
+    "rarity": "Covert",
+    "paint_index": "735"
   },
   {
     "id": "skin-34278268",
@@ -683,7 +779,9 @@
     "price": 224.76,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Night Stripe"
+    "item_name": "★ Talon Knife | Night Stripe",
+    "rarity": "Covert",
+    "paint_index": "735"
   },
   {
     "id": "skin-34278268",
@@ -697,7 +795,9 @@
     "price": 298.26,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Night Stripe"
+    "item_name": "★ Talon Knife | Night Stripe",
+    "rarity": "Covert",
+    "paint_index": "735"
   },
   {
     "id": "skin-34276964",
@@ -711,7 +811,9 @@
     "price": 589.66,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Tiger Tooth"
+    "item_name": "★ Talon Knife | Tiger Tooth",
+    "rarity": "Covert",
+    "paint_index": "409"
   },
   {
     "id": "skin-34276964",
@@ -725,7 +827,9 @@
     "price": 575.4,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Tiger Tooth"
+    "item_name": "★ Talon Knife | Tiger Tooth",
+    "rarity": "Covert",
+    "paint_index": "409"
   },
   {
     "id": "skin-34276964",
@@ -739,7 +843,9 @@
     "price": 617.09,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Tiger Tooth"
+    "item_name": "★ Talon Knife | Tiger Tooth",
+    "rarity": "Covert",
+    "paint_index": "409"
   },
   {
     "id": "skin-34276964",
@@ -753,7 +859,9 @@
     "price": 582.74,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Tiger Tooth"
+    "item_name": "★ Talon Knife | Tiger Tooth",
+    "rarity": "Covert",
+    "paint_index": "409"
   },
   {
     "id": "skin-34275900",
@@ -767,7 +875,9 @@
     "price": 205.56,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Urban Masked"
+    "item_name": "★ Talon Knife | Urban Masked",
+    "rarity": "Covert",
+    "paint_index": "143"
   },
   {
     "id": "skin-34275900",
@@ -781,7 +891,9 @@
     "price": 219.41,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Urban Masked"
+    "item_name": "★ Talon Knife | Urban Masked",
+    "rarity": "Covert",
+    "paint_index": "143"
   },
   {
     "id": "skin-34275900",
@@ -795,7 +907,9 @@
     "price": 219.41,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Urban Masked"
+    "item_name": "★ Talon Knife | Urban Masked",
+    "rarity": "Covert",
+    "paint_index": "143"
   },
   {
     "id": "skin-34275900",
@@ -809,7 +923,9 @@
     "price": 205.7,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Urban Masked"
+    "item_name": "★ Talon Knife | Urban Masked",
+    "rarity": "Covert",
+    "paint_index": "143"
   },
   {
     "id": "skin-34275900",
@@ -823,7 +939,9 @@
     "price": 224.48,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Urban Masked"
+    "item_name": "★ Talon Knife | Urban Masked",
+    "rarity": "Covert",
+    "paint_index": "143"
   },
   {
     "id": "skin-34275900",
@@ -837,7 +955,9 @@
     "price": 216.67,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Urban Masked"
+    "item_name": "★ Talon Knife | Urban Masked",
+    "rarity": "Covert",
+    "paint_index": "143"
   },
   {
     "id": "skin-34275900",
@@ -851,7 +971,9 @@
     "price": 251.91,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Urban Masked"
+    "item_name": "★ Talon Knife | Urban Masked",
+    "rarity": "Covert",
+    "paint_index": "143"
   },
   {
     "id": "skin-34275900",
@@ -865,7 +987,9 @@
     "price": 267.41,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Urban Masked"
+    "item_name": "★ Talon Knife | Urban Masked",
+    "rarity": "Covert",
+    "paint_index": "143"
   },
   {
     "id": "skin-34275900",
@@ -879,7 +1003,9 @@
     "price": 0,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Urban Masked"
+    "item_name": "★ Talon Knife | Urban Masked",
+    "rarity": "Covert",
+    "paint_index": "143"
   },
   {
     "id": "skin-34275900",
@@ -893,7 +1019,9 @@
     "price": 383.83,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Urban Masked"
+    "item_name": "★ Talon Knife | Urban Masked",
+    "rarity": "Covert",
+    "paint_index": "143"
   },
   {
     "id": "skin-34275504",
@@ -907,7 +1035,9 @@
     "price": 370.25,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Case Hardened"
+    "item_name": "★ Talon Knife | Case Hardened",
+    "rarity": "Covert",
+    "paint_index": "44"
   },
   {
     "id": "skin-34275504",
@@ -921,7 +1051,9 @@
     "price": 542.42,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Case Hardened"
+    "item_name": "★ Talon Knife | Case Hardened",
+    "rarity": "Covert",
+    "paint_index": "44"
   },
   {
     "id": "skin-34275504",
@@ -935,7 +1067,9 @@
     "price": 397.68,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Case Hardened"
+    "item_name": "★ Talon Knife | Case Hardened",
+    "rarity": "Covert",
+    "paint_index": "44"
   },
   {
     "id": "skin-34275504",
@@ -949,7 +1083,9 @@
     "price": 1234.11,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Case Hardened"
+    "item_name": "★ Talon Knife | Case Hardened",
+    "rarity": "Covert",
+    "paint_index": "44"
   },
   {
     "id": "skin-34275504",
@@ -963,7 +1099,9 @@
     "price": 410.84,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Case Hardened"
+    "item_name": "★ Talon Knife | Case Hardened",
+    "rarity": "Covert",
+    "paint_index": "44"
   },
   {
     "id": "skin-34275504",
@@ -977,7 +1115,9 @@
     "price": 464.81,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Case Hardened"
+    "item_name": "★ Talon Knife | Case Hardened",
+    "rarity": "Covert",
+    "paint_index": "44"
   },
   {
     "id": "skin-34275504",
@@ -991,7 +1131,9 @@
     "price": 544.41,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Case Hardened"
+    "item_name": "★ Talon Knife | Case Hardened",
+    "rarity": "Covert",
+    "paint_index": "44"
   },
   {
     "id": "skin-34275504",
@@ -1005,7 +1147,9 @@
     "price": 479.55,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Case Hardened"
+    "item_name": "★ Talon Knife | Case Hardened",
+    "rarity": "Covert",
+    "paint_index": "44"
   },
   {
     "id": "skin-34275504",
@@ -1019,7 +1163,9 @@
     "price": 376.42,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Case Hardened"
+    "item_name": "★ Talon Knife | Case Hardened",
+    "rarity": "Covert",
+    "paint_index": "44"
   },
   {
     "id": "skin-34275504",
@@ -1033,7 +1179,9 @@
     "price": 896.22,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Case Hardened"
+    "item_name": "★ Talon Knife | Case Hardened",
+    "rarity": "Covert",
+    "paint_index": "44"
   },
   {
     "id": "skin-34276028",
@@ -1047,7 +1195,9 @@
     "price": 208.16,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Scorched"
+    "item_name": "★ Talon Knife | Scorched",
+    "rarity": "Covert",
+    "paint_index": "175"
   },
   {
     "id": "skin-34276028",
@@ -1061,7 +1211,9 @@
     "price": 233.12,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Scorched"
+    "item_name": "★ Talon Knife | Scorched",
+    "rarity": "Covert",
+    "paint_index": "175"
   },
   {
     "id": "skin-34276028",
@@ -1075,7 +1227,9 @@
     "price": 261.79,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Scorched"
+    "item_name": "★ Talon Knife | Scorched",
+    "rarity": "Covert",
+    "paint_index": "175"
   },
   {
     "id": "skin-34276028",
@@ -1089,7 +1243,9 @@
     "price": 217.97,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Scorched"
+    "item_name": "★ Talon Knife | Scorched",
+    "rarity": "Covert",
+    "paint_index": "175"
   },
   {
     "id": "skin-34276028",
@@ -1103,7 +1259,9 @@
     "price": 249.58,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Scorched"
+    "item_name": "★ Talon Knife | Scorched",
+    "rarity": "Covert",
+    "paint_index": "175"
   },
   {
     "id": "skin-34276028",
@@ -1117,7 +1275,9 @@
     "price": 205.7,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Scorched"
+    "item_name": "★ Talon Knife | Scorched",
+    "rarity": "Covert",
+    "paint_index": "175"
   },
   {
     "id": "skin-34276028",
@@ -1131,7 +1291,9 @@
     "price": 0,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Scorched"
+    "item_name": "★ Talon Knife | Scorched",
+    "rarity": "Covert",
+    "paint_index": "175"
   },
   {
     "id": "skin-34276028",
@@ -1145,7 +1307,9 @@
     "price": 205.56,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Scorched"
+    "item_name": "★ Talon Knife | Scorched",
+    "rarity": "Covert",
+    "paint_index": "175"
   },
   {
     "id": "skin-34276028",
@@ -1159,7 +1323,9 @@
     "price": 349.07,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Scorched"
+    "item_name": "★ Talon Knife | Scorched",
+    "rarity": "Covert",
+    "paint_index": "175"
   },
   {
     "id": "skin-34276028",
@@ -1173,7 +1339,9 @@
     "price": 219.34,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Scorched"
+    "item_name": "★ Talon Knife | Scorched",
+    "rarity": "Covert",
+    "paint_index": "175"
   },
   {
     "id": "skin-34275564",
@@ -1187,7 +1355,9 @@
     "price": 721.24,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Slaughter"
+    "item_name": "★ Talon Knife | Slaughter",
+    "rarity": "Covert",
+    "paint_index": "59"
   },
   {
     "id": "skin-34275564",
@@ -1201,7 +1371,9 @@
     "price": 566.08,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Slaughter"
+    "item_name": "★ Talon Knife | Slaughter",
+    "rarity": "Covert",
+    "paint_index": "59"
   },
   {
     "id": "skin-34275564",
@@ -1215,7 +1387,9 @@
     "price": 553.73,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Slaughter"
+    "item_name": "★ Talon Knife | Slaughter",
+    "rarity": "Covert",
+    "paint_index": "59"
   },
   {
     "id": "skin-34275564",
@@ -1229,7 +1403,9 @@
     "price": 541.32,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Slaughter"
+    "item_name": "★ Talon Knife | Slaughter",
+    "rarity": "Covert",
+    "paint_index": "59"
   },
   {
     "id": "skin-34275564",
@@ -1243,7 +1419,9 @@
     "price": 490.65,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Slaughter"
+    "item_name": "★ Talon Knife | Slaughter",
+    "rarity": "Covert",
+    "paint_index": "59"
   },
   {
     "id": "skin-34275564",
@@ -1257,7 +1435,9 @@
     "price": 810.31,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Slaughter"
+    "item_name": "★ Talon Knife | Slaughter",
+    "rarity": "Covert",
+    "paint_index": "59"
   },
   {
     "id": "skin-34275480",
@@ -1271,7 +1451,9 @@
     "price": 1302.06,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Fade"
+    "item_name": "★ Talon Knife | Fade",
+    "rarity": "Covert",
+    "paint_index": "38"
   },
   {
     "id": "skin-34275480",
@@ -1285,7 +1467,9 @@
     "price": 1059.41,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Fade"
+    "item_name": "★ Talon Knife | Fade",
+    "rarity": "Covert",
+    "paint_index": "38"
   },
   {
     "id": "skin-34275480",
@@ -1299,7 +1483,9 @@
     "price": 1099.65,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Fade"
+    "item_name": "★ Talon Knife | Fade",
+    "rarity": "Covert",
+    "paint_index": "38"
   },
   {
     "id": "skin-34275480",
@@ -1313,7 +1499,9 @@
     "price": 1059.34,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Fade"
+    "item_name": "★ Talon Knife | Fade",
+    "rarity": "Covert",
+    "paint_index": "38"
   },
   {
     "id": "skin-34275616",
@@ -1327,7 +1515,9 @@
     "price": 0,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Safari Mesh"
+    "item_name": "★ Talon Knife | Safari Mesh",
+    "rarity": "Covert",
+    "paint_index": "72"
   },
   {
     "id": "skin-34275616",
@@ -1341,7 +1531,9 @@
     "price": 226.4,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Safari Mesh"
+    "item_name": "★ Talon Knife | Safari Mesh",
+    "rarity": "Covert",
+    "paint_index": "72"
   },
   {
     "id": "skin-34275616",
@@ -1355,7 +1547,9 @@
     "price": 258.97,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Safari Mesh"
+    "item_name": "★ Talon Knife | Safari Mesh",
+    "rarity": "Covert",
+    "paint_index": "72"
   },
   {
     "id": "skin-34275616",
@@ -1369,7 +1563,9 @@
     "price": 424.9,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Safari Mesh"
+    "item_name": "★ Talon Knife | Safari Mesh",
+    "rarity": "Covert",
+    "paint_index": "72"
   },
   {
     "id": "skin-34275616",
@@ -1383,7 +1579,9 @@
     "price": 238.33,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Safari Mesh"
+    "item_name": "★ Talon Knife | Safari Mesh",
+    "rarity": "Covert",
+    "paint_index": "72"
   },
   {
     "id": "skin-34275616",
@@ -1397,7 +1595,9 @@
     "price": 208.37,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Safari Mesh"
+    "item_name": "★ Talon Knife | Safari Mesh",
+    "rarity": "Covert",
+    "paint_index": "72"
   },
   {
     "id": "skin-34275616",
@@ -1411,7 +1611,9 @@
     "price": 230.11,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Safari Mesh"
+    "item_name": "★ Talon Knife | Safari Mesh",
+    "rarity": "Covert",
+    "paint_index": "72"
   },
   {
     "id": "skin-34275616",
@@ -1425,7 +1627,9 @@
     "price": 203.64,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Safari Mesh"
+    "item_name": "★ Talon Knife | Safari Mesh",
+    "rarity": "Covert",
+    "paint_index": "72"
   },
   {
     "id": "skin-34275616",
@@ -1439,7 +1643,9 @@
     "price": 209.81,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Safari Mesh"
+    "item_name": "★ Talon Knife | Safari Mesh",
+    "rarity": "Covert",
+    "paint_index": "72"
   },
   {
     "id": "skin-34275616",
@@ -1453,7 +1659,9 @@
     "price": 206.66,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Safari Mesh"
+    "item_name": "★ Talon Knife | Safari Mesh",
+    "rarity": "Covert",
+    "paint_index": "72"
   },
   {
     "id": "skin-34275636",
@@ -1467,7 +1675,9 @@
     "price": 230.38,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Boreal Forest"
+    "item_name": "★ Talon Knife | Boreal Forest",
+    "rarity": "Covert",
+    "paint_index": "77"
   },
   {
     "id": "skin-34275636",
@@ -1481,7 +1691,9 @@
     "price": 201.45,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Boreal Forest"
+    "item_name": "★ Talon Knife | Boreal Forest",
+    "rarity": "Covert",
+    "paint_index": "77"
   },
   {
     "id": "skin-34275636",
@@ -1495,7 +1707,9 @@
     "price": 383.97,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Boreal Forest"
+    "item_name": "★ Talon Knife | Boreal Forest",
+    "rarity": "Covert",
+    "paint_index": "77"
   },
   {
     "id": "skin-34275636",
@@ -1509,7 +1723,9 @@
     "price": 252.8,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Boreal Forest"
+    "item_name": "★ Talon Knife | Boreal Forest",
+    "rarity": "Covert",
+    "paint_index": "77"
   },
   {
     "id": "skin-34275636",
@@ -1523,7 +1739,9 @@
     "price": 206.79,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Boreal Forest"
+    "item_name": "★ Talon Knife | Boreal Forest",
+    "rarity": "Covert",
+    "paint_index": "77"
   },
   {
     "id": "skin-34275636",
@@ -1537,7 +1755,9 @@
     "price": 212.48,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Boreal Forest"
+    "item_name": "★ Talon Knife | Boreal Forest",
+    "rarity": "Covert",
+    "paint_index": "77"
   },
   {
     "id": "skin-34275636",
@@ -1551,7 +1771,9 @@
     "price": 575.95,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Boreal Forest"
+    "item_name": "★ Talon Knife | Boreal Forest",
+    "rarity": "Covert",
+    "paint_index": "77"
   },
   {
     "id": "skin-34275636",
@@ -1565,7 +1787,9 @@
     "price": 294.76,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Boreal Forest"
+    "item_name": "★ Talon Knife | Boreal Forest",
+    "rarity": "Covert",
+    "paint_index": "77"
   },
   {
     "id": "skin-34275636",
@@ -1579,7 +1803,9 @@
     "price": 231.48,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Boreal Forest"
+    "item_name": "★ Talon Knife | Boreal Forest",
+    "rarity": "Covert",
+    "paint_index": "77"
   },
   {
     "id": "skin-34275636",
@@ -1593,7 +1819,9 @@
     "price": 242.03,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Boreal Forest"
+    "item_name": "★ Talon Knife | Boreal Forest",
+    "rarity": "Covert",
+    "paint_index": "77"
   },
   {
     "id": "skin-34278760",
@@ -1607,7 +1835,9 @@
     "price": 355.17,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Damascus Steel"
+    "item_name": "★ Talon Knife | Damascus Steel",
+    "rarity": "Covert",
+    "paint_index": "858"
   },
   {
     "id": "skin-34278760",
@@ -1621,7 +1851,9 @@
     "price": 353.8,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Damascus Steel"
+    "item_name": "★ Talon Knife | Damascus Steel",
+    "rarity": "Covert",
+    "paint_index": "858"
   },
   {
     "id": "skin-34278760",
@@ -1635,7 +1867,9 @@
     "price": 358.87,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Damascus Steel"
+    "item_name": "★ Talon Knife | Damascus Steel",
+    "rarity": "Covert",
+    "paint_index": "858"
   },
   {
     "id": "skin-34278760",
@@ -1649,7 +1883,9 @@
     "price": 379.51,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Damascus Steel"
+    "item_name": "★ Talon Knife | Damascus Steel",
+    "rarity": "Covert",
+    "paint_index": "858"
   },
   {
     "id": "skin-34278760",
@@ -1663,7 +1899,9 @@
     "price": 452.53,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Damascus Steel"
+    "item_name": "★ Talon Knife | Damascus Steel",
+    "rarity": "Covert",
+    "paint_index": "858"
   },
   {
     "id": "skin-34278760",
@@ -1677,7 +1915,9 @@
     "price": 320.2,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Damascus Steel"
+    "item_name": "★ Talon Knife | Damascus Steel",
+    "rarity": "Covert",
+    "paint_index": "858"
   },
   {
     "id": "skin-34278760",
@@ -1691,7 +1931,9 @@
     "price": 356.54,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Damascus Steel"
+    "item_name": "★ Talon Knife | Damascus Steel",
+    "rarity": "Covert",
+    "paint_index": "858"
   },
   {
     "id": "skin-34278760",
@@ -1705,7 +1947,9 @@
     "price": 396.1,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Damascus Steel"
+    "item_name": "★ Talon Knife | Damascus Steel",
+    "rarity": "Covert",
+    "paint_index": "858"
   },
   {
     "id": "skin-34278760",
@@ -1719,7 +1963,9 @@
     "price": 313.34,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Damascus Steel"
+    "item_name": "★ Talon Knife | Damascus Steel",
+    "rarity": "Covert",
+    "paint_index": "858"
   },
   {
     "id": "skin-34278760",
@@ -1733,7 +1979,9 @@
     "price": 365.68,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Damascus Steel"
+    "item_name": "★ Talon Knife | Damascus Steel",
+    "rarity": "Covert",
+    "paint_index": "858"
   },
   {
     "id": "skin-34278748",
@@ -1747,7 +1995,9 @@
     "price": 850.07,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Doppler"
+    "item_name": "★ Talon Knife | Doppler",
+    "rarity": "Covert",
+    "paint_index": "855"
   },
   {
     "id": "skin-34278748",
@@ -1761,7 +2011,9 @@
     "price": 891.35,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Doppler"
+    "item_name": "★ Talon Knife | Doppler",
+    "rarity": "Covert",
+    "paint_index": "855"
   },
   {
     "id": "skin-34278748",
@@ -1775,7 +2027,9 @@
     "price": 918.71,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Doppler"
+    "item_name": "★ Talon Knife | Doppler",
+    "rarity": "Covert",
+    "paint_index": "855"
   },
   {
     "id": "skin-34278748",
@@ -1789,7 +2043,9 @@
     "price": 891.21,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Doppler"
+    "item_name": "★ Talon Knife | Doppler",
+    "rarity": "Covert",
+    "paint_index": "855"
   },
   {
     "id": "skin-34278752",
@@ -1803,7 +2059,9 @@
     "price": 822.65,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Marble Fade"
+    "item_name": "★ Talon Knife | Marble Fade",
+    "rarity": "Covert",
+    "paint_index": "856"
   },
   {
     "id": "skin-34278752",
@@ -1817,7 +2075,9 @@
     "price": 802.22,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Marble Fade"
+    "item_name": "★ Talon Knife | Marble Fade",
+    "rarity": "Covert",
+    "paint_index": "856"
   },
   {
     "id": "skin-34278752",
@@ -1831,7 +2091,9 @@
     "price": 715.69,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Marble Fade"
+    "item_name": "★ Talon Knife | Marble Fade",
+    "rarity": "Covert",
+    "paint_index": "856"
   },
   {
     "id": "skin-34278752",
@@ -1845,7 +2107,9 @@
     "price": 751.41,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Marble Fade"
+    "item_name": "★ Talon Knife | Marble Fade",
+    "rarity": "Covert",
+    "paint_index": "856"
   },
   {
     "id": "skin-34276984",
@@ -1859,7 +2123,9 @@
     "price": 258.83,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Rust Coat"
+    "item_name": "★ Talon Knife | Rust Coat",
+    "rarity": "Covert",
+    "paint_index": "414"
   },
   {
     "id": "skin-34276984",
@@ -1873,7 +2139,9 @@
     "price": 301.69,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Rust Coat"
+    "item_name": "★ Talon Knife | Rust Coat",
+    "rarity": "Covert",
+    "paint_index": "414"
   },
   {
     "id": "skin-34276984",
@@ -1887,7 +2155,9 @@
     "price": 294.28,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Rust Coat"
+    "item_name": "★ Talon Knife | Rust Coat",
+    "rarity": "Covert",
+    "paint_index": "414"
   },
   {
     "id": "skin-34276984",
@@ -1901,7 +2171,9 @@
     "price": 246.83,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Rust Coat"
+    "item_name": "★ Talon Knife | Rust Coat",
+    "rarity": "Covert",
+    "paint_index": "414"
   },
   {
     "id": "skin-34275376",
@@ -1915,7 +2187,9 @@
     "price": 6787.98,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Crimson Web"
+    "item_name": "★ Talon Knife | Crimson Web",
+    "rarity": "Covert",
+    "paint_index": "12"
   },
   {
     "id": "skin-34275376",
@@ -1929,7 +2203,9 @@
     "price": 372.99,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Crimson Web"
+    "item_name": "★ Talon Knife | Crimson Web",
+    "rarity": "Covert",
+    "paint_index": "12"
   },
   {
     "id": "skin-34275376",
@@ -1943,7 +2219,9 @@
     "price": 397.54,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Crimson Web"
+    "item_name": "★ Talon Knife | Crimson Web",
+    "rarity": "Covert",
+    "paint_index": "12"
   },
   {
     "id": "skin-34275376",
@@ -1957,7 +2235,9 @@
     "price": 329.05,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Crimson Web"
+    "item_name": "★ Talon Knife | Crimson Web",
+    "rarity": "Covert",
+    "paint_index": "12"
   },
   {
     "id": "skin-34275376",
@@ -1971,7 +2251,9 @@
     "price": 692.51,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Crimson Web"
+    "item_name": "★ Talon Knife | Crimson Web",
+    "rarity": "Covert",
+    "paint_index": "12"
   },
   {
     "id": "skin-34275376",
@@ -1985,7 +2267,9 @@
     "price": 626.69,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Crimson Web"
+    "item_name": "★ Talon Knife | Crimson Web",
+    "rarity": "Covert",
+    "paint_index": "12"
   },
   {
     "id": "skin-34275376",
@@ -1999,7 +2283,9 @@
     "price": 3071.73,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Crimson Web"
+    "item_name": "★ Talon Knife | Crimson Web",
+    "rarity": "Covert",
+    "paint_index": "12"
   },
   {
     "id": "skin-34275376",
@@ -2013,7 +2299,9 @@
     "price": 397.61,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Crimson Web"
+    "item_name": "★ Talon Knife | Crimson Web",
+    "rarity": "Covert",
+    "paint_index": "12"
   },
   {
     "id": "skin-34275376",
@@ -2027,7 +2315,9 @@
     "price": 351.88,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Crimson Web"
+    "item_name": "★ Talon Knife | Crimson Web",
+    "rarity": "Covert",
+    "paint_index": "12"
   },
   {
     "id": "skin-34275376",
@@ -2041,6 +2331,8 @@
     "price": 304.64,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Talon Knife | Crimson Web"
+    "item_name": "★ Talon Knife | Crimson Web",
+    "rarity": "Covert",
+    "paint_index": "12"
   }
 ]

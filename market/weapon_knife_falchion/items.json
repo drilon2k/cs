@@ -11,7 +11,9 @@
     "price": 233.12,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Case Hardened"
+    "item_name": "★ Falchion Knife | Case Hardened",
+    "rarity": "Covert",
+    "paint_index": "44"
   },
   {
     "id": "skin-33554608",
@@ -25,7 +27,9 @@
     "price": 198.57,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Case Hardened"
+    "item_name": "★ Falchion Knife | Case Hardened",
+    "rarity": "Covert",
+    "paint_index": "44"
   },
   {
     "id": "skin-33554608",
@@ -39,7 +43,9 @@
     "price": 776.98,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Case Hardened"
+    "item_name": "★ Falchion Knife | Case Hardened",
+    "rarity": "Covert",
+    "paint_index": "44"
   },
   {
     "id": "skin-33554608",
@@ -53,7 +59,9 @@
     "price": 150.84,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Case Hardened"
+    "item_name": "★ Falchion Knife | Case Hardened",
+    "rarity": "Covert",
+    "paint_index": "44"
   },
   {
     "id": "skin-33554608",
@@ -67,7 +75,9 @@
     "price": 219.41,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Case Hardened"
+    "item_name": "★ Falchion Knife | Case Hardened",
+    "rarity": "Covert",
+    "paint_index": "44"
   },
   {
     "id": "skin-33554608",
@@ -81,7 +91,9 @@
     "price": 143.03,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Case Hardened"
+    "item_name": "★ Falchion Knife | Case Hardened",
+    "rarity": "Covert",
+    "paint_index": "44"
   },
   {
     "id": "skin-33554608",
@@ -95,7 +107,9 @@
     "price": 198.84,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Case Hardened"
+    "item_name": "★ Falchion Knife | Case Hardened",
+    "rarity": "Covert",
+    "paint_index": "44"
   },
   {
     "id": "skin-33554608",
@@ -109,7 +123,9 @@
     "price": 329.11,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Case Hardened"
+    "item_name": "★ Falchion Knife | Case Hardened",
+    "rarity": "Covert",
+    "paint_index": "44"
   },
   {
     "id": "skin-33554608",
@@ -123,7 +139,9 @@
     "price": 167.16,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Case Hardened"
+    "item_name": "★ Falchion Knife | Case Hardened",
+    "rarity": "Covert",
+    "paint_index": "44"
   },
   {
     "id": "skin-33554608",
@@ -137,7 +155,9 @@
     "price": 205.56,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Case Hardened"
+    "item_name": "★ Falchion Knife | Case Hardened",
+    "rarity": "Covert",
+    "paint_index": "44"
   },
   {
     "id": "skin-33555132",
@@ -151,7 +171,9 @@
     "price": 141.11,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Scorched"
+    "item_name": "★ Falchion Knife | Scorched",
+    "rarity": "Covert",
+    "paint_index": "175"
   },
   {
     "id": "skin-33555132",
@@ -165,7 +187,9 @@
     "price": 82.69,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Scorched"
+    "item_name": "★ Falchion Knife | Scorched",
+    "rarity": "Covert",
+    "paint_index": "175"
   },
   {
     "id": "skin-33555132",
@@ -179,7 +203,9 @@
     "price": 94.48,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Scorched"
+    "item_name": "★ Falchion Knife | Scorched",
+    "rarity": "Covert",
+    "paint_index": "175"
   },
   {
     "id": "skin-33555132",
@@ -193,7 +219,9 @@
     "price": 0,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Scorched"
+    "item_name": "★ Falchion Knife | Scorched",
+    "rarity": "Covert",
+    "paint_index": "175"
   },
   {
     "id": "skin-33555132",
@@ -207,7 +235,9 @@
     "price": 0,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Scorched"
+    "item_name": "★ Falchion Knife | Scorched",
+    "rarity": "Covert",
+    "paint_index": "175"
   },
   {
     "id": "skin-33555132",
@@ -221,7 +251,9 @@
     "price": 119.03,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Scorched"
+    "item_name": "★ Falchion Knife | Scorched",
+    "rarity": "Covert",
+    "paint_index": "175"
   },
   {
     "id": "skin-33555132",
@@ -235,7 +267,9 @@
     "price": 95.85,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Scorched"
+    "item_name": "★ Falchion Knife | Scorched",
+    "rarity": "Covert",
+    "paint_index": "175"
   },
   {
     "id": "skin-33555132",
@@ -249,7 +283,9 @@
     "price": 99.21,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Scorched"
+    "item_name": "★ Falchion Knife | Scorched",
+    "rarity": "Covert",
+    "paint_index": "175"
   },
   {
     "id": "skin-33555132",
@@ -263,7 +299,9 @@
     "price": 84.47,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Scorched"
+    "item_name": "★ Falchion Knife | Scorched",
+    "rarity": "Covert",
+    "paint_index": "175"
   },
   {
     "id": "skin-33555132",
@@ -277,7 +315,9 @@
     "price": 82,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Scorched"
+    "item_name": "★ Falchion Knife | Scorched",
+    "rarity": "Covert",
+    "paint_index": "175"
   },
   {
     "id": "skin-33558856",
@@ -291,7 +331,9 @@
     "price": 260.48,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Lore"
+    "item_name": "★ Falchion Knife | Lore",
+    "rarity": "Covert",
+    "paint_index": "1106"
   },
   {
     "id": "skin-33558856",
@@ -305,7 +347,9 @@
     "price": 156.33,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Lore"
+    "item_name": "★ Falchion Knife | Lore",
+    "rarity": "Covert",
+    "paint_index": "1106"
   },
   {
     "id": "skin-33558856",
@@ -319,7 +363,9 @@
     "price": 198.84,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Lore"
+    "item_name": "★ Falchion Knife | Lore",
+    "rarity": "Covert",
+    "paint_index": "1106"
   },
   {
     "id": "skin-33558856",
@@ -333,7 +379,9 @@
     "price": 196.1,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Lore"
+    "item_name": "★ Falchion Knife | Lore",
+    "rarity": "Covert",
+    "paint_index": "1106"
   },
   {
     "id": "skin-33558856",
@@ -347,7 +395,9 @@
     "price": 242.04,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Lore"
+    "item_name": "★ Falchion Knife | Lore",
+    "rarity": "Covert",
+    "paint_index": "1106"
   },
   {
     "id": "skin-33558856",
@@ -361,7 +411,9 @@
     "price": 164.56,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Lore"
+    "item_name": "★ Falchion Knife | Lore",
+    "rarity": "Covert",
+    "paint_index": "1106"
   },
   {
     "id": "skin-33558856",
@@ -375,7 +427,9 @@
     "price": 198.84,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Lore"
+    "item_name": "★ Falchion Knife | Lore",
+    "rarity": "Covert",
+    "paint_index": "1106"
   },
   {
     "id": "skin-33558856",
@@ -389,7 +443,9 @@
     "price": 158.8,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Lore"
+    "item_name": "★ Falchion Knife | Lore",
+    "rarity": "Covert",
+    "paint_index": "1106"
   },
   {
     "id": "skin-33558856",
@@ -403,7 +459,9 @@
     "price": 130.12,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Lore"
+    "item_name": "★ Falchion Knife | Lore",
+    "rarity": "Covert",
+    "paint_index": "1106"
   },
   {
     "id": "skin-33558856",
@@ -417,7 +475,9 @@
     "price": 178.27,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Lore"
+    "item_name": "★ Falchion Knife | Lore",
+    "rarity": "Covert",
+    "paint_index": "1106"
   },
   {
     "id": "skin-33554604",
@@ -431,7 +491,9 @@
     "price": 106.26,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Stained"
+    "item_name": "★ Falchion Knife | Stained",
+    "rarity": "Covert",
+    "paint_index": "43"
   },
   {
     "id": "skin-33554604",
@@ -445,7 +507,9 @@
     "price": 95.51,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Stained"
+    "item_name": "★ Falchion Knife | Stained",
+    "rarity": "Covert",
+    "paint_index": "43"
   },
   {
     "id": "skin-33554604",
@@ -459,7 +523,9 @@
     "price": 119.3,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Stained"
+    "item_name": "★ Falchion Knife | Stained",
+    "rarity": "Covert",
+    "paint_index": "43"
   },
   {
     "id": "skin-33554604",
@@ -473,7 +539,9 @@
     "price": 113.13,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Stained"
+    "item_name": "★ Falchion Knife | Stained",
+    "rarity": "Covert",
+    "paint_index": "43"
   },
   {
     "id": "skin-33554604",
@@ -487,7 +555,9 @@
     "price": 116.56,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Stained"
+    "item_name": "★ Falchion Knife | Stained",
+    "rarity": "Covert",
+    "paint_index": "43"
   },
   {
     "id": "skin-33554604",
@@ -501,7 +571,9 @@
     "price": 111.07,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Stained"
+    "item_name": "★ Falchion Knife | Stained",
+    "rarity": "Covert",
+    "paint_index": "43"
   },
   {
     "id": "skin-33554604",
@@ -515,7 +587,9 @@
     "price": 212.55,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Stained"
+    "item_name": "★ Falchion Knife | Stained",
+    "rarity": "Covert",
+    "paint_index": "43"
   },
   {
     "id": "skin-33554604",
@@ -529,7 +603,9 @@
     "price": 0,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Stained"
+    "item_name": "★ Falchion Knife | Stained",
+    "rarity": "Covert",
+    "paint_index": "43"
   },
   {
     "id": "skin-33554604",
@@ -543,7 +619,9 @@
     "price": 98.46,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Stained"
+    "item_name": "★ Falchion Knife | Stained",
+    "rarity": "Covert",
+    "paint_index": "43"
   },
   {
     "id": "skin-33554604",
@@ -557,7 +635,9 @@
     "price": 143.23,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Stained"
+    "item_name": "★ Falchion Knife | Stained",
+    "rarity": "Covert",
+    "paint_index": "43"
   },
   {
     "id": "skin-33554592",
@@ -571,7 +651,9 @@
     "price": 89.96,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Night"
+    "item_name": "★ Falchion Knife | Night",
+    "rarity": "Covert",
+    "paint_index": "40"
   },
   {
     "id": "skin-33554592",
@@ -585,7 +667,9 @@
     "price": 95.59,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Night"
+    "item_name": "★ Falchion Knife | Night",
+    "rarity": "Covert",
+    "paint_index": "40"
   },
   {
     "id": "skin-33554592",
@@ -599,7 +683,9 @@
     "price": 95.22,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Night"
+    "item_name": "★ Falchion Knife | Night",
+    "rarity": "Covert",
+    "paint_index": "40"
   },
   {
     "id": "skin-33554592",
@@ -613,7 +699,9 @@
     "price": 125.81,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Night"
+    "item_name": "★ Falchion Knife | Night",
+    "rarity": "Covert",
+    "paint_index": "40"
   },
   {
     "id": "skin-33554592",
@@ -627,7 +715,9 @@
     "price": 116.56,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Night"
+    "item_name": "★ Falchion Knife | Night",
+    "rarity": "Covert",
+    "paint_index": "40"
   },
   {
     "id": "skin-33554592",
@@ -641,7 +731,9 @@
     "price": 126.97,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Night"
+    "item_name": "★ Falchion Knife | Night",
+    "rarity": "Covert",
+    "paint_index": "40"
   },
   {
     "id": "skin-33554592",
@@ -655,7 +747,9 @@
     "price": 157.7,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Night"
+    "item_name": "★ Falchion Knife | Night",
+    "rarity": "Covert",
+    "paint_index": "40"
   },
   {
     "id": "skin-33554592",
@@ -669,7 +763,9 @@
     "price": 0,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Night"
+    "item_name": "★ Falchion Knife | Night",
+    "rarity": "Covert",
+    "paint_index": "40"
   },
   {
     "id": "skin-33554592",
@@ -683,7 +779,9 @@
     "price": 102.71,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Night"
+    "item_name": "★ Falchion Knife | Night",
+    "rarity": "Covert",
+    "paint_index": "40"
   },
   {
     "id": "skin-33554592",
@@ -697,7 +795,9 @@
     "price": 342.83,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Night"
+    "item_name": "★ Falchion Knife | Night",
+    "rarity": "Covert",
+    "paint_index": "40"
   },
   {
     "id": "skin-33558876",
@@ -711,7 +811,9 @@
     "price": 135.49,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Black Laminate"
+    "item_name": "★ Falchion Knife | Black Laminate",
+    "rarity": "Covert",
+    "paint_index": "1111"
   },
   {
     "id": "skin-33558876",
@@ -725,7 +827,9 @@
     "price": 113.53,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Black Laminate"
+    "item_name": "★ Falchion Knife | Black Laminate",
+    "rarity": "Covert",
+    "paint_index": "1111"
   },
   {
     "id": "skin-33558876",
@@ -739,7 +843,9 @@
     "price": 164.42,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Black Laminate"
+    "item_name": "★ Falchion Knife | Black Laminate",
+    "rarity": "Covert",
+    "paint_index": "1111"
   },
   {
     "id": "skin-33558876",
@@ -753,7 +859,9 @@
     "price": 99.42,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Black Laminate"
+    "item_name": "★ Falchion Knife | Black Laminate",
+    "rarity": "Covert",
+    "paint_index": "1111"
   },
   {
     "id": "skin-33558876",
@@ -767,7 +875,9 @@
     "price": 91.19,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Black Laminate"
+    "item_name": "★ Falchion Knife | Black Laminate",
+    "rarity": "Covert",
+    "paint_index": "1111"
   },
   {
     "id": "skin-33558876",
@@ -781,7 +891,9 @@
     "price": 116.56,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Black Laminate"
+    "item_name": "★ Falchion Knife | Black Laminate",
+    "rarity": "Covert",
+    "paint_index": "1111"
   },
   {
     "id": "skin-33558876",
@@ -795,7 +907,9 @@
     "price": 103.53,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Black Laminate"
+    "item_name": "★ Falchion Knife | Black Laminate",
+    "rarity": "Covert",
+    "paint_index": "1111"
   },
   {
     "id": "skin-33558876",
@@ -809,7 +923,9 @@
     "price": 204.19,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Black Laminate"
+    "item_name": "★ Falchion Knife | Black Laminate",
+    "rarity": "Covert",
+    "paint_index": "1111"
   },
   {
     "id": "skin-33558876",
@@ -823,7 +939,9 @@
     "price": 91.12,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Black Laminate"
+    "item_name": "★ Falchion Knife | Black Laminate",
+    "rarity": "Covert",
+    "paint_index": "1111"
   },
   {
     "id": "skin-33558876",
@@ -837,7 +955,9 @@
     "price": 105.59,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Black Laminate"
+    "item_name": "★ Falchion Knife | Black Laminate",
+    "rarity": "Covert",
+    "paint_index": "1111"
   },
   {
     "id": "skin-33554740",
@@ -851,7 +971,9 @@
     "price": 100.64,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Boreal Forest"
+    "item_name": "★ Falchion Knife | Boreal Forest",
+    "rarity": "Covert",
+    "paint_index": "77"
   },
   {
     "id": "skin-33554740",
@@ -865,7 +987,9 @@
     "price": 205.7,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Boreal Forest"
+    "item_name": "★ Falchion Knife | Boreal Forest",
+    "rarity": "Covert",
+    "paint_index": "77"
   },
   {
     "id": "skin-33554740",
@@ -879,7 +1003,9 @@
     "price": 89,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Boreal Forest"
+    "item_name": "★ Falchion Knife | Boreal Forest",
+    "rarity": "Covert",
+    "paint_index": "77"
   },
   {
     "id": "skin-33554740",
@@ -893,7 +1019,9 @@
     "price": 0,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Boreal Forest"
+    "item_name": "★ Falchion Knife | Boreal Forest",
+    "rarity": "Covert",
+    "paint_index": "77"
   },
   {
     "id": "skin-33554740",
@@ -907,7 +1035,9 @@
     "price": 80.91,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Boreal Forest"
+    "item_name": "★ Falchion Knife | Boreal Forest",
+    "rarity": "Covert",
+    "paint_index": "77"
   },
   {
     "id": "skin-33554740",
@@ -921,7 +1051,9 @@
     "price": 106.55,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Boreal Forest"
+    "item_name": "★ Falchion Knife | Boreal Forest",
+    "rarity": "Covert",
+    "paint_index": "77"
   },
   {
     "id": "skin-33554740",
@@ -935,7 +1067,9 @@
     "price": 164.56,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Boreal Forest"
+    "item_name": "★ Falchion Knife | Boreal Forest",
+    "rarity": "Covert",
+    "paint_index": "77"
   },
   {
     "id": "skin-33554740",
@@ -949,7 +1083,9 @@
     "price": 88.45,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Boreal Forest"
+    "item_name": "★ Falchion Knife | Boreal Forest",
+    "rarity": "Covert",
+    "paint_index": "77"
   },
   {
     "id": "skin-33554740",
@@ -963,7 +1099,9 @@
     "price": 99.76,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Boreal Forest"
+    "item_name": "★ Falchion Knife | Boreal Forest",
+    "rarity": "Covert",
+    "paint_index": "77"
   },
   {
     "id": "skin-33554740",
@@ -977,7 +1115,9 @@
     "price": 95.99,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Boreal Forest"
+    "item_name": "★ Falchion Knife | Boreal Forest",
+    "rarity": "Covert",
+    "paint_index": "77"
   },
   {
     "id": "skin-33555004",
@@ -991,7 +1131,9 @@
     "price": 91.19,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Urban Masked"
+    "item_name": "★ Falchion Knife | Urban Masked",
+    "rarity": "Covert",
+    "paint_index": "143"
   },
   {
     "id": "skin-33555004",
@@ -1005,7 +1147,9 @@
     "price": 0,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Urban Masked"
+    "item_name": "★ Falchion Knife | Urban Masked",
+    "rarity": "Covert",
+    "paint_index": "143"
   },
   {
     "id": "skin-33555004",
@@ -1019,7 +1163,9 @@
     "price": 89.14,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Urban Masked"
+    "item_name": "★ Falchion Knife | Urban Masked",
+    "rarity": "Covert",
+    "paint_index": "143"
   },
   {
     "id": "skin-33555004",
@@ -1033,7 +1179,9 @@
     "price": 87.76,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Urban Masked"
+    "item_name": "★ Falchion Knife | Urban Masked",
+    "rarity": "Covert",
+    "paint_index": "143"
   },
   {
     "id": "skin-33555004",
@@ -1047,7 +1195,9 @@
     "price": 164.56,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Urban Masked"
+    "item_name": "★ Falchion Knife | Urban Masked",
+    "rarity": "Covert",
+    "paint_index": "143"
   },
   {
     "id": "skin-33555004",
@@ -1061,7 +1211,9 @@
     "price": 116.56,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Urban Masked"
+    "item_name": "★ Falchion Knife | Urban Masked",
+    "rarity": "Covert",
+    "paint_index": "143"
   },
   {
     "id": "skin-33555004",
@@ -1075,7 +1227,9 @@
     "price": 93.25,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Urban Masked"
+    "item_name": "★ Falchion Knife | Urban Masked",
+    "rarity": "Covert",
+    "paint_index": "143"
   },
   {
     "id": "skin-33555004",
@@ -1089,7 +1243,9 @@
     "price": 85.71,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Urban Masked"
+    "item_name": "★ Falchion Knife | Urban Masked",
+    "rarity": "Covert",
+    "paint_index": "143"
   },
   {
     "id": "skin-33555004",
@@ -1103,7 +1259,9 @@
     "price": 0,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Urban Masked"
+    "item_name": "★ Falchion Knife | Urban Masked",
+    "rarity": "Covert",
+    "paint_index": "143"
   },
   {
     "id": "skin-33555004",
@@ -1117,7 +1275,9 @@
     "price": 101.19,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Urban Masked"
+    "item_name": "★ Falchion Knife | Urban Masked",
+    "rarity": "Covert",
+    "paint_index": "143"
   },
   {
     "id": "skin-33556756",
@@ -1131,7 +1291,9 @@
     "price": 219.41,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Freehand"
+    "item_name": "★ Falchion Knife | Freehand",
+    "rarity": "Covert",
+    "paint_index": "581"
   },
   {
     "id": "skin-33556756",
@@ -1145,7 +1307,9 @@
     "price": 124.38,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Freehand"
+    "item_name": "★ Falchion Knife | Freehand",
+    "rarity": "Covert",
+    "paint_index": "581"
   },
   {
     "id": "skin-33556756",
@@ -1159,7 +1323,9 @@
     "price": 150.83,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Freehand"
+    "item_name": "★ Falchion Knife | Freehand",
+    "rarity": "Covert",
+    "paint_index": "581"
   },
   {
     "id": "skin-33556756",
@@ -1173,7 +1339,9 @@
     "price": 138.5,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Freehand"
+    "item_name": "★ Falchion Knife | Freehand",
+    "rarity": "Covert",
+    "paint_index": "581"
   },
   {
     "id": "skin-33556756",
@@ -1187,7 +1355,9 @@
     "price": 116.56,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Freehand"
+    "item_name": "★ Falchion Knife | Freehand",
+    "rarity": "Covert",
+    "paint_index": "581"
   },
   {
     "id": "skin-33556756",
@@ -1201,7 +1371,9 @@
     "price": 145.36,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Freehand"
+    "item_name": "★ Falchion Knife | Freehand",
+    "rarity": "Covert",
+    "paint_index": "581"
   },
   {
     "id": "skin-33556756",
@@ -1215,7 +1387,9 @@
     "price": 127.53,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Freehand"
+    "item_name": "★ Falchion Knife | Freehand",
+    "rarity": "Covert",
+    "paint_index": "581"
   },
   {
     "id": "skin-33556756",
@@ -1229,7 +1403,9 @@
     "price": 178.27,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Freehand"
+    "item_name": "★ Falchion Knife | Freehand",
+    "rarity": "Covert",
+    "paint_index": "581"
   },
   {
     "id": "skin-33556756",
@@ -1243,7 +1419,9 @@
     "price": 122.73,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Freehand"
+    "item_name": "★ Falchion Knife | Freehand",
+    "rarity": "Covert",
+    "paint_index": "581"
   },
   {
     "id": "skin-33556756",
@@ -1257,7 +1435,9 @@
     "price": 123.42,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Freehand"
+    "item_name": "★ Falchion Knife | Freehand",
+    "rarity": "Covert",
+    "paint_index": "581"
   },
   {
     "id": "skin-33556116",
@@ -1271,7 +1451,9 @@
     "price": 342.62,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Doppler"
+    "item_name": "★ Falchion Knife | Doppler",
+    "rarity": "Covert",
+    "paint_index": "421"
   },
   {
     "id": "skin-33556116",
@@ -1285,7 +1467,9 @@
     "price": 0,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Doppler"
+    "item_name": "★ Falchion Knife | Doppler",
+    "rarity": "Covert",
+    "paint_index": "421"
   },
   {
     "id": "skin-33556116",
@@ -1299,7 +1483,9 @@
     "price": 404.33,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Doppler"
+    "item_name": "★ Falchion Knife | Doppler",
+    "rarity": "Covert",
+    "paint_index": "421"
   },
   {
     "id": "skin-33556116",
@@ -1313,7 +1499,9 @@
     "price": 369.98,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Doppler"
+    "item_name": "★ Falchion Knife | Doppler",
+    "rarity": "Covert",
+    "paint_index": "421"
   },
   {
     "id": "skin-33558896",
@@ -1327,7 +1515,9 @@
     "price": 154.96,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Autotronic"
+    "item_name": "★ Falchion Knife | Autotronic",
+    "rarity": "Covert",
+    "paint_index": "1116"
   },
   {
     "id": "skin-33558896",
@@ -1341,7 +1531,9 @@
     "price": 163.19,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Autotronic"
+    "item_name": "★ Falchion Knife | Autotronic",
+    "rarity": "Covert",
+    "paint_index": "1116"
   },
   {
     "id": "skin-33558896",
@@ -1355,7 +1547,9 @@
     "price": 245.88,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Autotronic"
+    "item_name": "★ Falchion Knife | Autotronic",
+    "rarity": "Covert",
+    "paint_index": "1116"
   },
   {
     "id": "skin-33558896",
@@ -1369,7 +1563,9 @@
     "price": 404.54,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Autotronic"
+    "item_name": "★ Falchion Knife | Autotronic",
+    "rarity": "Covert",
+    "paint_index": "1116"
   },
   {
     "id": "skin-33558896",
@@ -1383,7 +1579,9 @@
     "price": 196.92,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Autotronic"
+    "item_name": "★ Falchion Knife | Autotronic",
+    "rarity": "Covert",
+    "paint_index": "1116"
   },
   {
     "id": "skin-33558896",
@@ -1397,7 +1595,9 @@
     "price": 136.86,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Autotronic"
+    "item_name": "★ Falchion Knife | Autotronic",
+    "rarity": "Covert",
+    "paint_index": "1116"
   },
   {
     "id": "skin-33558896",
@@ -1411,7 +1611,9 @@
     "price": 194.63,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Autotronic"
+    "item_name": "★ Falchion Knife | Autotronic",
+    "rarity": "Covert",
+    "paint_index": "1116"
   },
   {
     "id": "skin-33558896",
@@ -1425,7 +1627,9 @@
     "price": 280.98,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Autotronic"
+    "item_name": "★ Falchion Knife | Autotronic",
+    "rarity": "Covert",
+    "paint_index": "1116"
   },
   {
     "id": "skin-33558896",
@@ -1439,7 +1643,9 @@
     "price": 147.42,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Autotronic"
+    "item_name": "★ Falchion Knife | Autotronic",
+    "rarity": "Covert",
+    "paint_index": "1116"
   },
   {
     "id": "skin-33558896",
@@ -1453,7 +1659,9 @@
     "price": 158.8,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Autotronic"
+    "item_name": "★ Falchion Knife | Autotronic",
+    "rarity": "Covert",
+    "paint_index": "1116"
   },
   {
     "id": "skin-33554720",
@@ -1467,7 +1675,9 @@
     "price": 128.22,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Safari Mesh"
+    "item_name": "★ Falchion Knife | Safari Mesh",
+    "rarity": "Covert",
+    "paint_index": "72"
   },
   {
     "id": "skin-33554720",
@@ -1481,7 +1691,9 @@
     "price": 81.39,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Safari Mesh"
+    "item_name": "★ Falchion Knife | Safari Mesh",
+    "rarity": "Covert",
+    "paint_index": "72"
   },
   {
     "id": "skin-33554720",
@@ -1495,7 +1707,9 @@
     "price": 86.39,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Safari Mesh"
+    "item_name": "★ Falchion Knife | Safari Mesh",
+    "rarity": "Covert",
+    "paint_index": "72"
   },
   {
     "id": "skin-33554720",
@@ -1509,7 +1723,9 @@
     "price": 82.21,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Safari Mesh"
+    "item_name": "★ Falchion Knife | Safari Mesh",
+    "rarity": "Covert",
+    "paint_index": "72"
   },
   {
     "id": "skin-33554720",
@@ -1523,7 +1739,9 @@
     "price": 102.64,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Safari Mesh"
+    "item_name": "★ Falchion Knife | Safari Mesh",
+    "rarity": "Covert",
+    "paint_index": "72"
   },
   {
     "id": "skin-33554720",
@@ -1537,7 +1755,9 @@
     "price": 87.75,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Safari Mesh"
+    "item_name": "★ Falchion Knife | Safari Mesh",
+    "rarity": "Covert",
+    "paint_index": "72"
   },
   {
     "id": "skin-33554720",
@@ -1551,7 +1771,9 @@
     "price": 80.67,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Safari Mesh"
+    "item_name": "★ Falchion Knife | Safari Mesh",
+    "rarity": "Covert",
+    "paint_index": "72"
   },
   {
     "id": "skin-33554720",
@@ -1565,7 +1787,9 @@
     "price": 101.48,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Safari Mesh"
+    "item_name": "★ Falchion Knife | Safari Mesh",
+    "rarity": "Covert",
+    "paint_index": "72"
   },
   {
     "id": "skin-33554720",
@@ -1579,7 +1803,9 @@
     "price": 615.22,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Safari Mesh"
+    "item_name": "★ Falchion Knife | Safari Mesh",
+    "rarity": "Covert",
+    "paint_index": "72"
   },
   {
     "id": "skin-33554720",
@@ -1593,7 +1819,9 @@
     "price": 0,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Safari Mesh"
+    "item_name": "★ Falchion Knife | Safari Mesh",
+    "rarity": "Covert",
+    "paint_index": "72"
   },
   {
     "id": "skin-33556916",
@@ -1607,7 +1835,9 @@
     "price": 98.39,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Ultraviolet"
+    "item_name": "★ Falchion Knife | Ultraviolet",
+    "rarity": "Covert",
+    "paint_index": "621"
   },
   {
     "id": "skin-33556916",
@@ -1621,7 +1851,9 @@
     "price": 0,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Ultraviolet"
+    "item_name": "★ Falchion Knife | Ultraviolet",
+    "rarity": "Covert",
+    "paint_index": "621"
   },
   {
     "id": "skin-33556916",
@@ -1635,7 +1867,9 @@
     "price": 126.16,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Ultraviolet"
+    "item_name": "★ Falchion Knife | Ultraviolet",
+    "rarity": "Covert",
+    "paint_index": "621"
   },
   {
     "id": "skin-33556916",
@@ -1649,7 +1883,9 @@
     "price": 143.99,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Ultraviolet"
+    "item_name": "★ Falchion Knife | Ultraviolet",
+    "rarity": "Covert",
+    "paint_index": "621"
   },
   {
     "id": "skin-33556916",
@@ -1663,7 +1899,9 @@
     "price": 257.67,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Ultraviolet"
+    "item_name": "★ Falchion Knife | Ultraviolet",
+    "rarity": "Covert",
+    "paint_index": "621"
   },
   {
     "id": "skin-33556916",
@@ -1677,7 +1915,9 @@
     "price": 100.96,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Ultraviolet"
+    "item_name": "★ Falchion Knife | Ultraviolet",
+    "rarity": "Covert",
+    "paint_index": "621"
   },
   {
     "id": "skin-33556916",
@@ -1691,7 +1931,9 @@
     "price": 92.46,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Ultraviolet"
+    "item_name": "★ Falchion Knife | Ultraviolet",
+    "rarity": "Covert",
+    "paint_index": "621"
   },
   {
     "id": "skin-33556916",
@@ -1705,7 +1947,9 @@
     "price": 105.04,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Ultraviolet"
+    "item_name": "★ Falchion Knife | Ultraviolet",
+    "rarity": "Covert",
+    "paint_index": "621"
   },
   {
     "id": "skin-33556916",
@@ -1719,7 +1963,9 @@
     "price": 136.86,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Ultraviolet"
+    "item_name": "★ Falchion Knife | Ultraviolet",
+    "rarity": "Covert",
+    "paint_index": "621"
   },
   {
     "id": "skin-33556916",
@@ -1733,7 +1979,9 @@
     "price": 109.57,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Ultraviolet"
+    "item_name": "★ Falchion Knife | Ultraviolet",
+    "rarity": "Covert",
+    "paint_index": "621"
   },
   {
     "id": "skin-33556076",
@@ -1747,7 +1995,9 @@
     "price": 127.53,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Damascus Steel"
+    "item_name": "★ Falchion Knife | Damascus Steel",
+    "rarity": "Covert",
+    "paint_index": "411"
   },
   {
     "id": "skin-33556076",
@@ -1761,7 +2011,9 @@
     "price": 178.13,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Damascus Steel"
+    "item_name": "★ Falchion Knife | Damascus Steel",
+    "rarity": "Covert",
+    "paint_index": "411"
   },
   {
     "id": "skin-33556076",
@@ -1775,7 +2027,9 @@
     "price": 145.29,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Damascus Steel"
+    "item_name": "★ Falchion Knife | Damascus Steel",
+    "rarity": "Covert",
+    "paint_index": "411"
   },
   {
     "id": "skin-33556076",
@@ -1789,7 +2043,9 @@
     "price": 167.57,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Damascus Steel"
+    "item_name": "★ Falchion Knife | Damascus Steel",
+    "rarity": "Covert",
+    "paint_index": "411"
   },
   {
     "id": "skin-33556076",
@@ -1803,7 +2059,9 @@
     "price": 152.21,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Damascus Steel"
+    "item_name": "★ Falchion Knife | Damascus Steel",
+    "rarity": "Covert",
+    "paint_index": "411"
   },
   {
     "id": "skin-33556076",
@@ -1817,7 +2075,9 @@
     "price": 150.71,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Damascus Steel"
+    "item_name": "★ Falchion Knife | Damascus Steel",
+    "rarity": "Covert",
+    "paint_index": "411"
   },
   {
     "id": "skin-33556076",
@@ -1831,7 +2091,9 @@
     "price": 129.93,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Damascus Steel"
+    "item_name": "★ Falchion Knife | Damascus Steel",
+    "rarity": "Covert",
+    "paint_index": "411"
   },
   {
     "id": "skin-33556076",
@@ -1845,7 +2107,9 @@
     "price": 175.53,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Damascus Steel"
+    "item_name": "★ Falchion Knife | Damascus Steel",
+    "rarity": "Covert",
+    "paint_index": "411"
   },
   {
     "id": "skin-33556076",
@@ -1859,7 +2123,9 @@
     "price": 191.98,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Damascus Steel"
+    "item_name": "★ Falchion Knife | Damascus Steel",
+    "rarity": "Covert",
+    "paint_index": "411"
   },
   {
     "id": "skin-33556076",
@@ -1873,7 +2139,9 @@
     "price": 127.53,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Damascus Steel"
+    "item_name": "★ Falchion Knife | Damascus Steel",
+    "rarity": "Covert",
+    "paint_index": "411"
   },
   {
     "id": "skin-33556088",
@@ -1887,7 +2155,9 @@
     "price": 98.43,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Rust Coat"
+    "item_name": "★ Falchion Knife | Rust Coat",
+    "rarity": "Covert",
+    "paint_index": "414"
   },
   {
     "id": "skin-33556088",
@@ -1901,7 +2171,9 @@
     "price": 82.28,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Rust Coat"
+    "item_name": "★ Falchion Knife | Rust Coat",
+    "rarity": "Covert",
+    "paint_index": "414"
   },
   {
     "id": "skin-33556088",
@@ -1915,7 +2187,9 @@
     "price": 125.06,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Rust Coat"
+    "item_name": "★ Falchion Knife | Rust Coat",
+    "rarity": "Covert",
+    "paint_index": "414"
   },
   {
     "id": "skin-33556088",
@@ -1929,7 +2203,9 @@
     "price": 92.49,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Rust Coat"
+    "item_name": "★ Falchion Knife | Rust Coat",
+    "rarity": "Covert",
+    "paint_index": "414"
   },
   {
     "id": "skin-33556068",
@@ -1943,7 +2219,9 @@
     "price": 232.99,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Tiger Tooth"
+    "item_name": "★ Falchion Knife | Tiger Tooth",
+    "rarity": "Covert",
+    "paint_index": "409"
   },
   {
     "id": "skin-33556068",
@@ -1957,7 +2235,9 @@
     "price": 277.42,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Tiger Tooth"
+    "item_name": "★ Falchion Knife | Tiger Tooth",
+    "rarity": "Covert",
+    "paint_index": "409"
   },
   {
     "id": "skin-33556068",
@@ -1971,7 +2251,9 @@
     "price": 216.24,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Tiger Tooth"
+    "item_name": "★ Falchion Knife | Tiger Tooth",
+    "rarity": "Covert",
+    "paint_index": "409"
   },
   {
     "id": "skin-33556068",
@@ -1985,7 +2267,9 @@
     "price": 243.12,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Tiger Tooth"
+    "item_name": "★ Falchion Knife | Tiger Tooth",
+    "rarity": "Covert",
+    "paint_index": "409"
   },
   {
     "id": "skin-33554668",
@@ -1999,7 +2283,9 @@
     "price": 202.34,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Slaughter"
+    "item_name": "★ Falchion Knife | Slaughter",
+    "rarity": "Covert",
+    "paint_index": "59"
   },
   {
     "id": "skin-33554668",
@@ -2013,7 +2299,9 @@
     "price": 211.18,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Slaughter"
+    "item_name": "★ Falchion Knife | Slaughter",
+    "rarity": "Covert",
+    "paint_index": "59"
   },
   {
     "id": "skin-33554668",
@@ -2027,7 +2315,9 @@
     "price": 267.41,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Slaughter"
+    "item_name": "★ Falchion Knife | Slaughter",
+    "rarity": "Covert",
+    "paint_index": "59"
   },
   {
     "id": "skin-33554668",
@@ -2041,7 +2331,9 @@
     "price": 228.46,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Slaughter"
+    "item_name": "★ Falchion Knife | Slaughter",
+    "rarity": "Covert",
+    "paint_index": "59"
   },
   {
     "id": "skin-33554668",
@@ -2055,7 +2347,9 @@
     "price": 219.41,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Slaughter"
+    "item_name": "★ Falchion Knife | Slaughter",
+    "rarity": "Covert",
+    "paint_index": "59"
   },
   {
     "id": "skin-33554668",
@@ -2069,7 +2363,9 @@
     "price": 255.06,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Slaughter"
+    "item_name": "★ Falchion Knife | Slaughter",
+    "rarity": "Covert",
+    "paint_index": "59"
   },
   {
     "id": "skin-33556748",
@@ -2083,7 +2379,9 @@
     "price": 105.59,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Bright Water"
+    "item_name": "★ Falchion Knife | Bright Water",
+    "rarity": "Covert",
+    "paint_index": "579"
   },
   {
     "id": "skin-33556748",
@@ -2097,7 +2395,9 @@
     "price": 114.64,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Bright Water"
+    "item_name": "★ Falchion Knife | Bright Water",
+    "rarity": "Covert",
+    "paint_index": "579"
   },
   {
     "id": "skin-33556748",
@@ -2111,7 +2411,9 @@
     "price": 102.71,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Bright Water"
+    "item_name": "★ Falchion Knife | Bright Water",
+    "rarity": "Covert",
+    "paint_index": "579"
   },
   {
     "id": "skin-33556748",
@@ -2125,7 +2427,9 @@
     "price": 103.05,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Bright Water"
+    "item_name": "★ Falchion Knife | Bright Water",
+    "rarity": "Covert",
+    "paint_index": "579"
   },
   {
     "id": "skin-33556748",
@@ -2139,7 +2443,9 @@
     "price": 98.73,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Bright Water"
+    "item_name": "★ Falchion Knife | Bright Water",
+    "rarity": "Covert",
+    "paint_index": "579"
   },
   {
     "id": "skin-33556748",
@@ -2153,7 +2459,9 @@
     "price": 117.66,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Bright Water"
+    "item_name": "★ Falchion Knife | Bright Water",
+    "rarity": "Covert",
+    "paint_index": "579"
   },
   {
     "id": "skin-33556748",
@@ -2167,7 +2475,9 @@
     "price": 139.87,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Bright Water"
+    "item_name": "★ Falchion Knife | Bright Water",
+    "rarity": "Covert",
+    "paint_index": "579"
   },
   {
     "id": "skin-33556748",
@@ -2181,7 +2491,9 @@
     "price": 99.97,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Bright Water"
+    "item_name": "★ Falchion Knife | Bright Water",
+    "rarity": "Covert",
+    "paint_index": "579"
   },
   {
     "id": "skin-33556748",
@@ -2195,7 +2507,9 @@
     "price": 125.82,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Bright Water"
+    "item_name": "★ Falchion Knife | Bright Water",
+    "rarity": "Covert",
+    "paint_index": "579"
   },
   {
     "id": "skin-33556748",
@@ -2209,7 +2523,9 @@
     "price": 109.29,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Bright Water"
+    "item_name": "★ Falchion Knife | Bright Water",
+    "rarity": "Covert",
+    "paint_index": "579"
   },
   {
     "id": "skin-33554600",
@@ -2223,7 +2539,9 @@
     "price": 178.27,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Blue Steel"
+    "item_name": "★ Falchion Knife | Blue Steel",
+    "rarity": "Covert",
+    "paint_index": "42"
   },
   {
     "id": "skin-33554600",
@@ -2237,7 +2555,9 @@
     "price": 120.68,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Blue Steel"
+    "item_name": "★ Falchion Knife | Blue Steel",
+    "rarity": "Covert",
+    "paint_index": "42"
   },
   {
     "id": "skin-33554600",
@@ -2251,7 +2571,9 @@
     "price": 119.99,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Blue Steel"
+    "item_name": "★ Falchion Knife | Blue Steel",
+    "rarity": "Covert",
+    "paint_index": "42"
   },
   {
     "id": "skin-33554600",
@@ -2265,7 +2587,9 @@
     "price": 129.15,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Blue Steel"
+    "item_name": "★ Falchion Knife | Blue Steel",
+    "rarity": "Covert",
+    "paint_index": "42"
   },
   {
     "id": "skin-33554600",
@@ -2279,7 +2603,9 @@
     "price": 164.42,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Blue Steel"
+    "item_name": "★ Falchion Knife | Blue Steel",
+    "rarity": "Covert",
+    "paint_index": "42"
   },
   {
     "id": "skin-33554600",
@@ -2293,7 +2619,9 @@
     "price": 149.47,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Blue Steel"
+    "item_name": "★ Falchion Knife | Blue Steel",
+    "rarity": "Covert",
+    "paint_index": "42"
   },
   {
     "id": "skin-33554600",
@@ -2307,7 +2635,9 @@
     "price": 182.76,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Blue Steel"
+    "item_name": "★ Falchion Knife | Blue Steel",
+    "rarity": "Covert",
+    "paint_index": "42"
   },
   {
     "id": "skin-33554600",
@@ -2321,7 +2651,9 @@
     "price": 0,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Blue Steel"
+    "item_name": "★ Falchion Knife | Blue Steel",
+    "rarity": "Covert",
+    "paint_index": "42"
   },
   {
     "id": "skin-33554600",
@@ -2335,7 +2667,9 @@
     "price": 143.99,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Blue Steel"
+    "item_name": "★ Falchion Knife | Blue Steel",
+    "rarity": "Covert",
+    "paint_index": "42"
   },
   {
     "id": "skin-33554600",
@@ -2349,7 +2683,9 @@
     "price": 135.76,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Blue Steel"
+    "item_name": "★ Falchion Knife | Blue Steel",
+    "rarity": "Covert",
+    "paint_index": "42"
   },
   {
     "id": "skin-33554584",
@@ -2363,7 +2699,9 @@
     "price": 356.54,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Fade"
+    "item_name": "★ Falchion Knife | Fade",
+    "rarity": "Covert",
+    "paint_index": "38"
   },
   {
     "id": "skin-33554584",
@@ -2377,7 +2715,9 @@
     "price": 335.97,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Fade"
+    "item_name": "★ Falchion Knife | Fade",
+    "rarity": "Covert",
+    "paint_index": "38"
   },
   {
     "id": "skin-33554584",
@@ -2391,7 +2731,9 @@
     "price": 356.47,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Fade"
+    "item_name": "★ Falchion Knife | Fade",
+    "rarity": "Covert",
+    "paint_index": "38"
   },
   {
     "id": "skin-33554584",
@@ -2405,7 +2747,9 @@
     "price": 349.62,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Fade"
+    "item_name": "★ Falchion Knife | Fade",
+    "rarity": "Covert",
+    "paint_index": "38"
   },
   {
     "id": "skin-33556084",
@@ -2419,7 +2763,9 @@
     "price": 248.82,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Marble Fade"
+    "item_name": "★ Falchion Knife | Marble Fade",
+    "rarity": "Covert",
+    "paint_index": "413"
   },
   {
     "id": "skin-33556084",
@@ -2433,7 +2779,9 @@
     "price": 328.84,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Marble Fade"
+    "item_name": "★ Falchion Knife | Marble Fade",
+    "rarity": "Covert",
+    "paint_index": "413"
   },
   {
     "id": "skin-33556084",
@@ -2447,7 +2795,9 @@
     "price": 295.64,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Marble Fade"
+    "item_name": "★ Falchion Knife | Marble Fade",
+    "rarity": "Covert",
+    "paint_index": "413"
   },
   {
     "id": "skin-33556084",
@@ -2461,7 +2811,9 @@
     "price": 329.51,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Marble Fade"
+    "item_name": "★ Falchion Knife | Marble Fade",
+    "rarity": "Covert",
+    "paint_index": "413"
   },
   {
     "id": "skin-33556720",
@@ -2475,7 +2827,9 @@
     "price": 1508.44,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Gamma Doppler"
+    "item_name": "★ Falchion Knife | Gamma Doppler",
+    "rarity": "Covert",
+    "paint_index": "572"
   },
   {
     "id": "skin-33556720",
@@ -2489,7 +2843,9 @@
     "price": 369.98,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Gamma Doppler"
+    "item_name": "★ Falchion Knife | Gamma Doppler",
+    "rarity": "Covert",
+    "paint_index": "572"
   },
   {
     "id": "skin-33556720",
@@ -2503,7 +2859,9 @@
     "price": 400.29,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Gamma Doppler"
+    "item_name": "★ Falchion Knife | Gamma Doppler",
+    "rarity": "Covert",
+    "paint_index": "572"
   },
   {
     "id": "skin-33556720",
@@ -2517,7 +2875,9 @@
     "price": 390.55,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Gamma Doppler"
+    "item_name": "★ Falchion Knife | Gamma Doppler",
+    "rarity": "Covert",
+    "paint_index": "572"
   },
   {
     "id": "skin-33554480",
@@ -2531,7 +2891,9 @@
     "price": 198.84,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Crimson Web"
+    "item_name": "★ Falchion Knife | Crimson Web",
+    "rarity": "Covert",
+    "paint_index": "12"
   },
   {
     "id": "skin-33554480",
@@ -2545,7 +2907,9 @@
     "price": 185.12,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Crimson Web"
+    "item_name": "★ Falchion Knife | Crimson Web",
+    "rarity": "Covert",
+    "paint_index": "12"
   },
   {
     "id": "skin-33554480",
@@ -2559,7 +2923,9 @@
     "price": 222.02,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Crimson Web"
+    "item_name": "★ Falchion Knife | Crimson Web",
+    "rarity": "Covert",
+    "paint_index": "12"
   },
   {
     "id": "skin-33554480",
@@ -2573,7 +2939,9 @@
     "price": 137.13,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Crimson Web"
+    "item_name": "★ Falchion Knife | Crimson Web",
+    "rarity": "Covert",
+    "paint_index": "12"
   },
   {
     "id": "skin-33554480",
@@ -2587,7 +2955,9 @@
     "price": 149.36,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Crimson Web"
+    "item_name": "★ Falchion Knife | Crimson Web",
+    "rarity": "Covert",
+    "paint_index": "12"
   },
   {
     "id": "skin-33554480",
@@ -2601,7 +2971,9 @@
     "price": 3291.14,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Crimson Web"
+    "item_name": "★ Falchion Knife | Crimson Web",
+    "rarity": "Covert",
+    "paint_index": "12"
   },
   {
     "id": "skin-33554480",
@@ -2615,7 +2987,9 @@
     "price": 821.13,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Crimson Web"
+    "item_name": "★ Falchion Knife | Crimson Web",
+    "rarity": "Covert",
+    "paint_index": "12"
   },
   {
     "id": "skin-33554480",
@@ -2629,7 +3003,9 @@
     "price": 133.28,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Crimson Web"
+    "item_name": "★ Falchion Knife | Crimson Web",
+    "rarity": "Covert",
+    "paint_index": "12"
   },
   {
     "id": "skin-33554480",
@@ -2643,7 +3019,9 @@
     "price": 234.15,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Crimson Web"
+    "item_name": "★ Falchion Knife | Crimson Web",
+    "rarity": "Covert",
+    "paint_index": "12"
   },
   {
     "id": "skin-33554480",
@@ -2657,7 +3035,9 @@
     "price": 149.47,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Crimson Web"
+    "item_name": "★ Falchion Knife | Crimson Web",
+    "rarity": "Covert",
+    "paint_index": "12"
   },
   {
     "id": "skin-33554452",
@@ -2671,7 +3051,9 @@
     "price": 191.98,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Forest DDPAT"
+    "item_name": "★ Falchion Knife | Forest DDPAT",
+    "rarity": "Covert",
+    "paint_index": "5"
   },
   {
     "id": "skin-33554452",
@@ -2685,7 +3067,9 @@
     "price": 83.65,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Forest DDPAT"
+    "item_name": "★ Falchion Knife | Forest DDPAT",
+    "rarity": "Covert",
+    "paint_index": "5"
   },
   {
     "id": "skin-33554452",
@@ -2699,7 +3083,9 @@
     "price": 0,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Forest DDPAT"
+    "item_name": "★ Falchion Knife | Forest DDPAT",
+    "rarity": "Covert",
+    "paint_index": "5"
   },
   {
     "id": "skin-33554452",
@@ -2713,7 +3099,9 @@
     "price": 82.14,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Forest DDPAT"
+    "item_name": "★ Falchion Knife | Forest DDPAT",
+    "rarity": "Covert",
+    "paint_index": "5"
   },
   {
     "id": "skin-33554452",
@@ -2727,7 +3115,9 @@
     "price": 94.62,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Forest DDPAT"
+    "item_name": "★ Falchion Knife | Forest DDPAT",
+    "rarity": "Covert",
+    "paint_index": "5"
   },
   {
     "id": "skin-33554452",
@@ -2741,7 +3131,9 @@
     "price": 99.42,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Forest DDPAT"
+    "item_name": "★ Falchion Knife | Forest DDPAT",
+    "rarity": "Covert",
+    "paint_index": "5"
   },
   {
     "id": "skin-33554452",
@@ -2755,7 +3147,9 @@
     "price": 102.16,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Forest DDPAT"
+    "item_name": "★ Falchion Knife | Forest DDPAT",
+    "rarity": "Covert",
+    "paint_index": "5"
   },
   {
     "id": "skin-33554452",
@@ -2769,7 +3163,9 @@
     "price": 123.42,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Forest DDPAT"
+    "item_name": "★ Falchion Knife | Forest DDPAT",
+    "rarity": "Covert",
+    "paint_index": "5"
   },
   {
     "id": "skin-33554452",
@@ -2783,7 +3179,9 @@
     "price": 102.73,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Forest DDPAT"
+    "item_name": "★ Falchion Knife | Forest DDPAT",
+    "rarity": "Covert",
+    "paint_index": "5"
   },
   {
     "id": "skin-33554452",
@@ -2797,6 +3195,8 @@
     "price": 82.55,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Falchion Knife | Forest DDPAT"
+    "item_name": "★ Falchion Knife | Forest DDPAT",
+    "rarity": "Covert",
+    "paint_index": "5"
   }
 ]

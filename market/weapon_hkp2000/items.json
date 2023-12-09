@@ -11,7 +11,9 @@
     "price": 0.23,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P2000 | Oceanic"
+    "item_name": "P2000 | Oceanic",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "550"
   },
   {
     "id": "skin-2099352",
@@ -25,7 +27,9 @@
     "price": 0.05,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Oceanic"
+    "item_name": "P2000 | Oceanic",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "550"
   },
   {
     "id": "skin-2099352",
@@ -39,7 +43,9 @@
     "price": 0.06,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Oceanic"
+    "item_name": "P2000 | Oceanic",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "550"
   },
   {
     "id": "skin-2099352",
@@ -53,7 +59,9 @@
     "price": 0.12,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P2000 | Oceanic"
+    "item_name": "P2000 | Oceanic",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "550"
   },
   {
     "id": "skin-2099352",
@@ -67,7 +75,9 @@
     "price": 0.19,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Oceanic"
+    "item_name": "P2000 | Oceanic",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "550"
   },
   {
     "id": "skin-2099352",
@@ -81,7 +91,9 @@
     "price": 0.11,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Oceanic"
+    "item_name": "P2000 | Oceanic",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "550"
   },
   {
     "id": "skin-2099352",
@@ -95,7 +107,9 @@
     "price": 0.41,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P2000 | Oceanic"
+    "item_name": "P2000 | Oceanic",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "550"
   },
   {
     "id": "skin-2099352",
@@ -109,7 +123,9 @@
     "price": 0.12,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Oceanic"
+    "item_name": "P2000 | Oceanic",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "550"
   },
   {
     "id": "skin-2099352",
@@ -123,7 +139,9 @@
     "price": 0.88,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P2000 | Oceanic"
+    "item_name": "P2000 | Oceanic",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "550"
   },
   {
     "id": "skin-2099352",
@@ -137,7 +155,9 @@
     "price": 0.15,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P2000 | Oceanic"
+    "item_name": "P2000 | Oceanic",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "550"
   },
   {
     "id": "skin-2098504",
@@ -151,7 +171,9 @@
     "price": 1.86,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Pulse"
+    "item_name": "P2000 | Pulse",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "338"
   },
   {
     "id": "skin-2098504",
@@ -165,7 +187,9 @@
     "price": 2.27,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Pulse"
+    "item_name": "P2000 | Pulse",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "338"
   },
   {
     "id": "skin-2098504",
@@ -179,7 +203,9 @@
     "price": 1.5,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P2000 | Pulse"
+    "item_name": "P2000 | Pulse",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "338"
   },
   {
     "id": "skin-2098504",
@@ -193,7 +219,9 @@
     "price": 2.05,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Pulse"
+    "item_name": "P2000 | Pulse",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "338"
   },
   {
     "id": "skin-2098504",
@@ -207,7 +235,9 @@
     "price": 1.68,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Pulse"
+    "item_name": "P2000 | Pulse",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "338"
   },
   {
     "id": "skin-2098504",
@@ -221,7 +251,9 @@
     "price": 1.53,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P2000 | Pulse"
+    "item_name": "P2000 | Pulse",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "338"
   },
   {
     "id": "skin-2098504",
@@ -235,7 +267,9 @@
     "price": 2.62,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P2000 | Pulse"
+    "item_name": "P2000 | Pulse",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "338"
   },
   {
     "id": "skin-2098504",
@@ -249,7 +283,9 @@
     "price": 1.87,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Pulse"
+    "item_name": "P2000 | Pulse",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "338"
   },
   {
     "id": "skin-2098504",
@@ -263,7 +299,9 @@
     "price": 1.25,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P2000 | Pulse"
+    "item_name": "P2000 | Pulse",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "338"
   },
   {
     "id": "skin-2098504",
@@ -277,7 +315,9 @@
     "price": 1.16,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P2000 | Pulse"
+    "item_name": "P2000 | Pulse",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "338"
   },
   {
     "id": "skin-2097996",
@@ -291,7 +331,9 @@
     "price": 111.07,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Ocean Foam"
+    "item_name": "P2000 | Ocean Foam",
+    "rarity": "Classified",
+    "paint_index": "211"
   },
   {
     "id": "skin-2097996",
@@ -305,7 +347,9 @@
     "price": 113.82,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Ocean Foam"
+    "item_name": "P2000 | Ocean Foam",
+    "rarity": "Classified",
+    "paint_index": "211"
   },
   {
     "id": "skin-2097996",
@@ -319,7 +363,9 @@
     "price": 329.05,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P2000 | Ocean Foam"
+    "item_name": "P2000 | Ocean Foam",
+    "rarity": "Classified",
+    "paint_index": "211"
   },
   {
     "id": "skin-2097996",
@@ -333,7 +379,9 @@
     "price": 298.81,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P2000 | Ocean Foam"
+    "item_name": "P2000 | Ocean Foam",
+    "rarity": "Classified",
+    "paint_index": "211"
   },
   {
     "id": "skin-2099092",
@@ -347,7 +395,9 @@
     "price": 0.45,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Handgun"
+    "item_name": "P2000 | Handgun",
+    "rarity": "Restricted",
+    "paint_index": "485"
   },
   {
     "id": "skin-2099092",
@@ -361,7 +411,9 @@
     "price": 3.7,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P2000 | Handgun"
+    "item_name": "P2000 | Handgun",
+    "rarity": "Restricted",
+    "paint_index": "485"
   },
   {
     "id": "skin-2099092",
@@ -375,7 +427,9 @@
     "price": 14.4,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P2000 | Handgun"
+    "item_name": "P2000 | Handgun",
+    "rarity": "Restricted",
+    "paint_index": "485"
   },
   {
     "id": "skin-2099092",
@@ -389,7 +443,9 @@
     "price": 0.31,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Handgun"
+    "item_name": "P2000 | Handgun",
+    "rarity": "Restricted",
+    "paint_index": "485"
   },
   {
     "id": "skin-2099092",
@@ -403,7 +459,9 @@
     "price": 1.08,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P2000 | Handgun"
+    "item_name": "P2000 | Handgun",
+    "rarity": "Restricted",
+    "paint_index": "485"
   },
   {
     "id": "skin-2099092",
@@ -417,7 +475,9 @@
     "price": 1.73,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P2000 | Handgun"
+    "item_name": "P2000 | Handgun",
+    "rarity": "Restricted",
+    "paint_index": "485"
   },
   {
     "id": "skin-2099092",
@@ -431,7 +491,9 @@
     "price": 3.83,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Handgun"
+    "item_name": "P2000 | Handgun",
+    "rarity": "Restricted",
+    "paint_index": "485"
   },
   {
     "id": "skin-2099092",
@@ -445,7 +507,9 @@
     "price": 1.2,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Handgun"
+    "item_name": "P2000 | Handgun",
+    "rarity": "Restricted",
+    "paint_index": "485"
   },
   {
     "id": "skin-2099092",
@@ -459,7 +523,9 @@
     "price": 0.54,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Handgun"
+    "item_name": "P2000 | Handgun",
+    "rarity": "Restricted",
+    "paint_index": "485"
   },
   {
     "id": "skin-2099092",
@@ -473,7 +539,9 @@
     "price": 1.09,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P2000 | Handgun"
+    "item_name": "P2000 | Handgun",
+    "rarity": "Restricted",
+    "paint_index": "485"
   },
   {
     "id": "skin-2098252",
@@ -487,7 +555,9 @@
     "price": 1.15,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Red FragCam"
+    "item_name": "P2000 | Red FragCam",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "275"
   },
   {
     "id": "skin-2098252",
@@ -501,7 +571,9 @@
     "price": 0.96,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Red FragCam"
+    "item_name": "P2000 | Red FragCam",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "275"
   },
   {
     "id": "skin-2098252",
@@ -515,7 +587,9 @@
     "price": 4.38,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P2000 | Red FragCam"
+    "item_name": "P2000 | Red FragCam",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "275"
   },
   {
     "id": "skin-2098252",
@@ -529,7 +603,9 @@
     "price": 2.41,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P2000 | Red FragCam"
+    "item_name": "P2000 | Red FragCam",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "275"
   },
   {
     "id": "skin-2098252",
@@ -543,7 +619,9 @@
     "price": 1.99,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Red FragCam"
+    "item_name": "P2000 | Red FragCam",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "275"
   },
   {
     "id": "skin-2098252",
@@ -557,7 +635,9 @@
     "price": 1.37,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Red FragCam"
+    "item_name": "P2000 | Red FragCam",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "275"
   },
   {
     "id": "skin-2098252",
@@ -571,7 +651,9 @@
     "price": 2.55,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P2000 | Red FragCam"
+    "item_name": "P2000 | Red FragCam",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "275"
   },
   {
     "id": "skin-2098252",
@@ -585,7 +667,9 @@
     "price": 1.31,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Red FragCam"
+    "item_name": "P2000 | Red FragCam",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "275"
   },
   {
     "id": "skin-2098252",
@@ -599,7 +683,9 @@
     "price": 1.81,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P2000 | Red FragCam"
+    "item_name": "P2000 | Red FragCam",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "275"
   },
   {
     "id": "skin-2098252",
@@ -613,7 +699,9 @@
     "price": 3.86,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P2000 | Red FragCam"
+    "item_name": "P2000 | Red FragCam",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "275"
   },
   {
     "id": "skin-2097236",
@@ -627,7 +715,9 @@
     "price": 0.3,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Granite Marbleized"
+    "item_name": "P2000 | Granite Marbleized",
+    "rarity": "Industrial Grade",
+    "paint_index": "21"
   },
   {
     "id": "skin-2097236",
@@ -641,7 +731,9 @@
     "price": 0.05,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Granite Marbleized"
+    "item_name": "P2000 | Granite Marbleized",
+    "rarity": "Industrial Grade",
+    "paint_index": "21"
   },
   {
     "id": "skin-2097236",
@@ -655,7 +747,9 @@
     "price": 0.05,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Granite Marbleized"
+    "item_name": "P2000 | Granite Marbleized",
+    "rarity": "Industrial Grade",
+    "paint_index": "21"
   },
   {
     "id": "skin-2097236",
@@ -669,7 +763,9 @@
     "price": 0.07,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Granite Marbleized"
+    "item_name": "P2000 | Granite Marbleized",
+    "rarity": "Industrial Grade",
+    "paint_index": "21"
   },
   {
     "id": "skin-2097236",
@@ -683,7 +779,9 @@
     "price": 0.04,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Granite Marbleized"
+    "item_name": "P2000 | Granite Marbleized",
+    "rarity": "Industrial Grade",
+    "paint_index": "21"
   },
   {
     "id": "skin-2099820",
@@ -697,7 +795,9 @@
     "price": 9.79,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Woodsman"
+    "item_name": "P2000 | Woodsman",
+    "rarity": "Restricted",
+    "paint_index": "667"
   },
   {
     "id": "skin-2099820",
@@ -711,7 +811,9 @@
     "price": 11.33,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P2000 | Woodsman"
+    "item_name": "P2000 | Woodsman",
+    "rarity": "Restricted",
+    "paint_index": "667"
   },
   {
     "id": "skin-2099820",
@@ -725,7 +827,9 @@
     "price": 4.93,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Woodsman"
+    "item_name": "P2000 | Woodsman",
+    "rarity": "Restricted",
+    "paint_index": "667"
   },
   {
     "id": "skin-2099820",
@@ -739,7 +843,9 @@
     "price": 17.14,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P2000 | Woodsman"
+    "item_name": "P2000 | Woodsman",
+    "rarity": "Restricted",
+    "paint_index": "667"
   },
   {
     "id": "skin-2099820",
@@ -753,7 +859,9 @@
     "price": 5.27,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Woodsman"
+    "item_name": "P2000 | Woodsman",
+    "rarity": "Restricted",
+    "paint_index": "667"
   },
   {
     "id": "skin-2099820",
@@ -767,7 +875,9 @@
     "price": 6.87,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Woodsman"
+    "item_name": "P2000 | Woodsman",
+    "rarity": "Restricted",
+    "paint_index": "667"
   },
   {
     "id": "skin-2099820",
@@ -781,7 +891,9 @@
     "price": 15.22,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P2000 | Woodsman"
+    "item_name": "P2000 | Woodsman",
+    "rarity": "Restricted",
+    "paint_index": "667"
   },
   {
     "id": "skin-2099820",
@@ -795,7 +907,9 @@
     "price": 16.41,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P2000 | Woodsman"
+    "item_name": "P2000 | Woodsman",
+    "rarity": "Restricted",
+    "paint_index": "667"
   },
   {
     "id": "skin-2099820",
@@ -809,7 +923,9 @@
     "price": 0,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P2000 | Woodsman"
+    "item_name": "P2000 | Woodsman",
+    "rarity": "Restricted",
+    "paint_index": "667"
   },
   {
     "id": "skin-2099820",
@@ -823,7 +939,9 @@
     "price": 6.58,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Woodsman"
+    "item_name": "P2000 | Woodsman",
+    "rarity": "Restricted",
+    "paint_index": "667"
   },
   {
     "id": "skin-2097532",
@@ -837,7 +955,9 @@
     "price": 1.08,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Grassland"
+    "item_name": "P2000 | Grassland",
+    "rarity": "Industrial Grade",
+    "paint_index": "95"
   },
   {
     "id": "skin-2097532",
@@ -851,7 +971,9 @@
     "price": 10.05,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Grassland"
+    "item_name": "P2000 | Grassland",
+    "rarity": "Industrial Grade",
+    "paint_index": "95"
   },
   {
     "id": "skin-2097532",
@@ -865,7 +987,9 @@
     "price": 1.45,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Grassland"
+    "item_name": "P2000 | Grassland",
+    "rarity": "Industrial Grade",
+    "paint_index": "95"
   },
   {
     "id": "skin-2097532",
@@ -879,7 +1003,9 @@
     "price": 1.23,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Grassland"
+    "item_name": "P2000 | Grassland",
+    "rarity": "Industrial Grade",
+    "paint_index": "95"
   },
   {
     "id": "skin-2097532",
@@ -893,7 +1019,9 @@
     "price": 1.63,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Grassland"
+    "item_name": "P2000 | Grassland",
+    "rarity": "Industrial Grade",
+    "paint_index": "95"
   },
   {
     "id": "skin-2101228",
@@ -907,7 +1035,9 @@
     "price": 3.44,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Panther Camo"
+    "item_name": "P2000 | Panther Camo",
+    "rarity": "Industrial Grade",
+    "paint_index": "1019"
   },
   {
     "id": "skin-2101228",
@@ -921,7 +1051,9 @@
     "price": 2.3,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Panther Camo"
+    "item_name": "P2000 | Panther Camo",
+    "rarity": "Industrial Grade",
+    "paint_index": "1019"
   },
   {
     "id": "skin-2101228",
@@ -935,7 +1067,9 @@
     "price": 2.18,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Panther Camo"
+    "item_name": "P2000 | Panther Camo",
+    "rarity": "Industrial Grade",
+    "paint_index": "1019"
   },
   {
     "id": "skin-2101228",
@@ -949,7 +1083,9 @@
     "price": 2.58,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Panther Camo"
+    "item_name": "P2000 | Panther Camo",
+    "rarity": "Industrial Grade",
+    "paint_index": "1019"
   },
   {
     "id": "skin-2101228",
@@ -963,7 +1099,9 @@
     "price": 2.04,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Panther Camo"
+    "item_name": "P2000 | Panther Camo",
+    "rarity": "Industrial Grade",
+    "paint_index": "1019"
   },
   {
     "id": "skin-2098924",
@@ -977,7 +1115,9 @@
     "price": 12.27,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Pathfinder"
+    "item_name": "P2000 | Pathfinder",
+    "rarity": "Industrial Grade",
+    "paint_index": "443"
   },
   {
     "id": "skin-2098924",
@@ -991,7 +1131,9 @@
     "price": 11.86,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Pathfinder"
+    "item_name": "P2000 | Pathfinder",
+    "rarity": "Industrial Grade",
+    "paint_index": "443"
   },
   {
     "id": "skin-2098924",
@@ -1005,7 +1147,9 @@
     "price": 10.74,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Pathfinder"
+    "item_name": "P2000 | Pathfinder",
+    "rarity": "Industrial Grade",
+    "paint_index": "443"
   },
   {
     "id": "skin-2100956",
@@ -1019,7 +1163,9 @@
     "price": 0.64,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P2000 | Acid Etched"
+    "item_name": "P2000 | Acid Etched",
+    "rarity": "Restricted",
+    "paint_index": "951"
   },
   {
     "id": "skin-2100956",
@@ -1033,7 +1179,9 @@
     "price": 0.65,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P2000 | Acid Etched"
+    "item_name": "P2000 | Acid Etched",
+    "rarity": "Restricted",
+    "paint_index": "951"
   },
   {
     "id": "skin-2100956",
@@ -1047,7 +1195,9 @@
     "price": 0.82,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P2000 | Acid Etched"
+    "item_name": "P2000 | Acid Etched",
+    "rarity": "Restricted",
+    "paint_index": "951"
   },
   {
     "id": "skin-2100956",
@@ -1061,7 +1211,9 @@
     "price": 6.79,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P2000 | Acid Etched"
+    "item_name": "P2000 | Acid Etched",
+    "rarity": "Restricted",
+    "paint_index": "951"
   },
   {
     "id": "skin-2100956",
@@ -1075,7 +1227,9 @@
     "price": 0.26,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Acid Etched"
+    "item_name": "P2000 | Acid Etched",
+    "rarity": "Restricted",
+    "paint_index": "951"
   },
   {
     "id": "skin-2100956",
@@ -1089,7 +1243,9 @@
     "price": 1.87,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Acid Etched"
+    "item_name": "P2000 | Acid Etched",
+    "rarity": "Restricted",
+    "paint_index": "951"
   },
   {
     "id": "skin-2100956",
@@ -1103,7 +1259,9 @@
     "price": 0.29,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Acid Etched"
+    "item_name": "P2000 | Acid Etched",
+    "rarity": "Restricted",
+    "paint_index": "951"
   },
   {
     "id": "skin-2100956",
@@ -1117,7 +1275,9 @@
     "price": 1.98,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P2000 | Acid Etched"
+    "item_name": "P2000 | Acid Etched",
+    "rarity": "Restricted",
+    "paint_index": "951"
   },
   {
     "id": "skin-2100956",
@@ -1131,7 +1291,9 @@
     "price": 0.67,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Acid Etched"
+    "item_name": "P2000 | Acid Etched",
+    "rarity": "Restricted",
+    "paint_index": "951"
   },
   {
     "id": "skin-2100956",
@@ -1145,7 +1307,9 @@
     "price": 0.25,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Acid Etched"
+    "item_name": "P2000 | Acid Etched",
+    "rarity": "Restricted",
+    "paint_index": "951"
   },
   {
     "id": "skin-2098460",
@@ -1159,7 +1323,9 @@
     "price": 79.83,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Chainmail"
+    "item_name": "P2000 | Chainmail",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "327"
   },
   {
     "id": "skin-2098460",
@@ -1173,7 +1339,9 @@
     "price": 78.1,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Chainmail"
+    "item_name": "P2000 | Chainmail",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "327"
   },
   {
     "id": "skin-2098460",
@@ -1187,7 +1355,9 @@
     "price": 75.97,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Chainmail"
+    "item_name": "P2000 | Chainmail",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "327"
   },
   {
     "id": "skin-2102048",
@@ -1201,7 +1371,9 @@
     "price": 3.14,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P2000 | Wicked Sick"
+    "item_name": "P2000 | Wicked Sick",
+    "rarity": "Classified",
+    "paint_index": "1224"
   },
   {
     "id": "skin-2102048",
@@ -1215,7 +1387,9 @@
     "price": 1.55,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Wicked Sick"
+    "item_name": "P2000 | Wicked Sick",
+    "rarity": "Classified",
+    "paint_index": "1224"
   },
   {
     "id": "skin-2102048",
@@ -1229,7 +1403,9 @@
     "price": 32.43,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P2000 | Wicked Sick"
+    "item_name": "P2000 | Wicked Sick",
+    "rarity": "Classified",
+    "paint_index": "1224"
   },
   {
     "id": "skin-2102048",
@@ -1243,7 +1419,9 @@
     "price": 13.37,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Wicked Sick"
+    "item_name": "P2000 | Wicked Sick",
+    "rarity": "Classified",
+    "paint_index": "1224"
   },
   {
     "id": "skin-2102048",
@@ -1257,7 +1435,9 @@
     "price": 1.67,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Wicked Sick"
+    "item_name": "P2000 | Wicked Sick",
+    "rarity": "Classified",
+    "paint_index": "1224"
   },
   {
     "id": "skin-2102048",
@@ -1271,7 +1451,9 @@
     "price": 2.03,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Wicked Sick"
+    "item_name": "P2000 | Wicked Sick",
+    "rarity": "Classified",
+    "paint_index": "1224"
   },
   {
     "id": "skin-2102048",
@@ -1285,7 +1467,9 @@
     "price": 2.65,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P2000 | Wicked Sick"
+    "item_name": "P2000 | Wicked Sick",
+    "rarity": "Classified",
+    "paint_index": "1224"
   },
   {
     "id": "skin-2102048",
@@ -1299,7 +1483,9 @@
     "price": 4.19,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P2000 | Wicked Sick"
+    "item_name": "P2000 | Wicked Sick",
+    "rarity": "Classified",
+    "paint_index": "1224"
   },
   {
     "id": "skin-2102048",
@@ -1313,7 +1499,9 @@
     "price": 11.24,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P2000 | Wicked Sick"
+    "item_name": "P2000 | Wicked Sick",
+    "rarity": "Classified",
+    "paint_index": "1224"
   },
   {
     "id": "skin-2102048",
@@ -1327,7 +1515,9 @@
     "price": 4.77,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Wicked Sick"
+    "item_name": "P2000 | Wicked Sick",
+    "rarity": "Classified",
+    "paint_index": "1224"
   },
   {
     "id": "skin-2101372",
@@ -1341,7 +1531,9 @@
     "price": 5.02,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Space Race"
+    "item_name": "P2000 | Space Race",
+    "rarity": "Restricted",
+    "paint_index": "1055"
   },
   {
     "id": "skin-2101372",
@@ -1355,7 +1547,9 @@
     "price": 2.54,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Space Race"
+    "item_name": "P2000 | Space Race",
+    "rarity": "Restricted",
+    "paint_index": "1055"
   },
   {
     "id": "skin-2101372",
@@ -1369,7 +1563,9 @@
     "price": 2.71,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Space Race"
+    "item_name": "P2000 | Space Race",
+    "rarity": "Restricted",
+    "paint_index": "1055"
   },
   {
     "id": "skin-2101372",
@@ -1383,7 +1579,9 @@
     "price": 3.36,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Space Race"
+    "item_name": "P2000 | Space Race",
+    "rarity": "Restricted",
+    "paint_index": "1055"
   },
   {
     "id": "skin-2101372",
@@ -1397,7 +1595,9 @@
     "price": 2.83,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Space Race"
+    "item_name": "P2000 | Space Race",
+    "rarity": "Restricted",
+    "paint_index": "1055"
   },
   {
     "id": "skin-2098708",
@@ -1411,7 +1611,9 @@
     "price": 78.03,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P2000 | Fire Elemental"
+    "item_name": "P2000 | Fire Elemental",
+    "rarity": "Covert",
+    "paint_index": "389"
   },
   {
     "id": "skin-2098708",
@@ -1425,7 +1627,9 @@
     "price": 24.82,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Fire Elemental"
+    "item_name": "P2000 | Fire Elemental",
+    "rarity": "Covert",
+    "paint_index": "389"
   },
   {
     "id": "skin-2098708",
@@ -1439,7 +1643,9 @@
     "price": 41.14,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P2000 | Fire Elemental"
+    "item_name": "P2000 | Fire Elemental",
+    "rarity": "Covert",
+    "paint_index": "389"
   },
   {
     "id": "skin-2098708",
@@ -1453,7 +1659,9 @@
     "price": 10.67,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Fire Elemental"
+    "item_name": "P2000 | Fire Elemental",
+    "rarity": "Covert",
+    "paint_index": "389"
   },
   {
     "id": "skin-2098708",
@@ -1467,7 +1675,9 @@
     "price": 9.58,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Fire Elemental"
+    "item_name": "P2000 | Fire Elemental",
+    "rarity": "Covert",
+    "paint_index": "389"
   },
   {
     "id": "skin-2098708",
@@ -1481,7 +1691,9 @@
     "price": 13.98,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Fire Elemental"
+    "item_name": "P2000 | Fire Elemental",
+    "rarity": "Covert",
+    "paint_index": "389"
   },
   {
     "id": "skin-2098708",
@@ -1495,7 +1707,9 @@
     "price": 12.3,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Fire Elemental"
+    "item_name": "P2000 | Fire Elemental",
+    "rarity": "Covert",
+    "paint_index": "389"
   },
   {
     "id": "skin-2098708",
@@ -1509,7 +1723,9 @@
     "price": 189.58,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P2000 | Fire Elemental"
+    "item_name": "P2000 | Fire Elemental",
+    "rarity": "Covert",
+    "paint_index": "389"
   },
   {
     "id": "skin-2098708",
@@ -1523,7 +1739,9 @@
     "price": 43.05,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P2000 | Fire Elemental"
+    "item_name": "P2000 | Fire Elemental",
+    "rarity": "Covert",
+    "paint_index": "389"
   },
   {
     "id": "skin-2098708",
@@ -1537,7 +1755,9 @@
     "price": 122.13,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P2000 | Fire Elemental"
+    "item_name": "P2000 | Fire Elemental",
+    "rarity": "Covert",
+    "paint_index": "389"
   },
   {
     "id": "skin-2100728",
@@ -1551,7 +1771,9 @@
     "price": 7.18,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P2000 | Obsidian"
+    "item_name": "P2000 | Obsidian",
+    "rarity": "Restricted",
+    "paint_index": "894"
   },
   {
     "id": "skin-2100728",
@@ -1565,7 +1787,9 @@
     "price": 7.58,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Obsidian"
+    "item_name": "P2000 | Obsidian",
+    "rarity": "Restricted",
+    "paint_index": "894"
   },
   {
     "id": "skin-2100728",
@@ -1579,7 +1803,9 @@
     "price": 1.16,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Obsidian"
+    "item_name": "P2000 | Obsidian",
+    "rarity": "Restricted",
+    "paint_index": "894"
   },
   {
     "id": "skin-2100728",
@@ -1593,7 +1819,9 @@
     "price": 1.06,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Obsidian"
+    "item_name": "P2000 | Obsidian",
+    "rarity": "Restricted",
+    "paint_index": "894"
   },
   {
     "id": "skin-2100728",
@@ -1607,7 +1835,9 @@
     "price": 19.88,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P2000 | Obsidian"
+    "item_name": "P2000 | Obsidian",
+    "rarity": "Restricted",
+    "paint_index": "894"
   },
   {
     "id": "skin-2100728",
@@ -1621,7 +1851,9 @@
     "price": 2.84,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P2000 | Obsidian"
+    "item_name": "P2000 | Obsidian",
+    "rarity": "Restricted",
+    "paint_index": "894"
   },
   {
     "id": "skin-2100728",
@@ -1635,7 +1867,9 @@
     "price": 2.26,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P2000 | Obsidian"
+    "item_name": "P2000 | Obsidian",
+    "rarity": "Restricted",
+    "paint_index": "894"
   },
   {
     "id": "skin-2100728",
@@ -1649,7 +1883,9 @@
     "price": 2.86,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Obsidian"
+    "item_name": "P2000 | Obsidian",
+    "rarity": "Restricted",
+    "paint_index": "894"
   },
   {
     "id": "skin-2100728",
@@ -1663,7 +1899,9 @@
     "price": 2.31,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P2000 | Obsidian"
+    "item_name": "P2000 | Obsidian",
+    "rarity": "Restricted",
+    "paint_index": "894"
   },
   {
     "id": "skin-2100728",
@@ -1677,7 +1915,9 @@
     "price": 1.06,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Obsidian"
+    "item_name": "P2000 | Obsidian",
+    "rarity": "Restricted",
+    "paint_index": "894"
   },
   {
     "id": "skin-2099516",
@@ -1691,7 +1931,9 @@
     "price": 10.79,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P2000 | Imperial Dragon"
+    "item_name": "P2000 | Imperial Dragon",
+    "rarity": "Classified",
+    "paint_index": "591"
   },
   {
     "id": "skin-2099516",
@@ -1705,7 +1947,9 @@
     "price": 5.69,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P2000 | Imperial Dragon"
+    "item_name": "P2000 | Imperial Dragon",
+    "rarity": "Classified",
+    "paint_index": "591"
   },
   {
     "id": "skin-2099516",
@@ -1719,7 +1963,9 @@
     "price": 2.3,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Imperial Dragon"
+    "item_name": "P2000 | Imperial Dragon",
+    "rarity": "Classified",
+    "paint_index": "591"
   },
   {
     "id": "skin-2099516",
@@ -1733,7 +1979,9 @@
     "price": 3.79,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Imperial Dragon"
+    "item_name": "P2000 | Imperial Dragon",
+    "rarity": "Classified",
+    "paint_index": "591"
   },
   {
     "id": "skin-2099516",
@@ -1747,7 +1995,9 @@
     "price": 3.06,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Imperial Dragon"
+    "item_name": "P2000 | Imperial Dragon",
+    "rarity": "Classified",
+    "paint_index": "591"
   },
   {
     "id": "skin-2099516",
@@ -1761,7 +2011,9 @@
     "price": 3.02,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Imperial Dragon"
+    "item_name": "P2000 | Imperial Dragon",
+    "rarity": "Classified",
+    "paint_index": "591"
   },
   {
     "id": "skin-2099516",
@@ -1775,7 +2027,9 @@
     "price": 8.58,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P2000 | Imperial Dragon"
+    "item_name": "P2000 | Imperial Dragon",
+    "rarity": "Classified",
+    "paint_index": "591"
   },
   {
     "id": "skin-2099516",
@@ -1789,7 +2043,9 @@
     "price": 25.3,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P2000 | Imperial Dragon"
+    "item_name": "P2000 | Imperial Dragon",
+    "rarity": "Classified",
+    "paint_index": "591"
   },
   {
     "id": "skin-2099516",
@@ -1803,7 +2059,9 @@
     "price": 9.59,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P2000 | Imperial Dragon"
+    "item_name": "P2000 | Imperial Dragon",
+    "rarity": "Classified",
+    "paint_index": "591"
   },
   {
     "id": "skin-2099516",
@@ -1817,7 +2075,9 @@
     "price": 7.13,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Imperial Dragon"
+    "item_name": "P2000 | Imperial Dragon",
+    "rarity": "Classified",
+    "paint_index": "591"
   },
   {
     "id": "skin-2099952",
@@ -1831,7 +2091,9 @@
     "price": 0.07,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P2000 | Urban Hazard"
+    "item_name": "P2000 | Urban Hazard",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "700"
   },
   {
     "id": "skin-2099952",
@@ -1845,7 +2107,9 @@
     "price": 0.04,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Urban Hazard"
+    "item_name": "P2000 | Urban Hazard",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "700"
   },
   {
     "id": "skin-2099952",
@@ -1859,7 +2123,9 @@
     "price": 0.04,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Urban Hazard"
+    "item_name": "P2000 | Urban Hazard",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "700"
   },
   {
     "id": "skin-2099952",
@@ -1873,7 +2139,9 @@
     "price": 0.09,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P2000 | Urban Hazard"
+    "item_name": "P2000 | Urban Hazard",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "700"
   },
   {
     "id": "skin-2099952",
@@ -1887,7 +2155,9 @@
     "price": 0.2,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Urban Hazard"
+    "item_name": "P2000 | Urban Hazard",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "700"
   },
   {
     "id": "skin-2099952",
@@ -1901,7 +2171,9 @@
     "price": 0.22,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P2000 | Urban Hazard"
+    "item_name": "P2000 | Urban Hazard",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "700"
   },
   {
     "id": "skin-2099952",
@@ -1915,7 +2187,9 @@
     "price": 0.1,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P2000 | Urban Hazard"
+    "item_name": "P2000 | Urban Hazard",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "700"
   },
   {
     "id": "skin-2099952",
@@ -1929,7 +2203,9 @@
     "price": 0.05,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Urban Hazard"
+    "item_name": "P2000 | Urban Hazard",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "700"
   },
   {
     "id": "skin-2099952",
@@ -1943,7 +2219,9 @@
     "price": 0.08,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Urban Hazard"
+    "item_name": "P2000 | Urban Hazard",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "700"
   },
   {
     "id": "skin-2099952",
@@ -1957,7 +2235,9 @@
     "price": 0.93,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P2000 | Urban Hazard"
+    "item_name": "P2000 | Urban Hazard",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "700"
   },
   {
     "id": "skin-2097888",
@@ -1971,7 +2251,9 @@
     "price": 13.64,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P2000 | Corticera"
+    "item_name": "P2000 | Corticera",
+    "rarity": "Classified",
+    "paint_index": "184"
   },
   {
     "id": "skin-2097888",
@@ -1985,7 +2267,9 @@
     "price": 15.29,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P2000 | Corticera"
+    "item_name": "P2000 | Corticera",
+    "rarity": "Classified",
+    "paint_index": "184"
   },
   {
     "id": "skin-2097888",
@@ -1999,7 +2283,9 @@
     "price": 52.11,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P2000 | Corticera"
+    "item_name": "P2000 | Corticera",
+    "rarity": "Classified",
+    "paint_index": "184"
   },
   {
     "id": "skin-2097888",
@@ -2013,7 +2299,9 @@
     "price": 5.21,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Corticera"
+    "item_name": "P2000 | Corticera",
+    "rarity": "Classified",
+    "paint_index": "184"
   },
   {
     "id": "skin-2097888",
@@ -2027,7 +2315,9 @@
     "price": 5.62,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Corticera"
+    "item_name": "P2000 | Corticera",
+    "rarity": "Classified",
+    "paint_index": "184"
   },
   {
     "id": "skin-2097888",
@@ -2041,7 +2331,9 @@
     "price": 13.43,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Corticera"
+    "item_name": "P2000 | Corticera",
+    "rarity": "Classified",
+    "paint_index": "184"
   },
   {
     "id": "skin-2097568",
@@ -2055,7 +2347,9 @@
     "price": 6.06,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Grassland Leaves"
+    "item_name": "P2000 | Grassland Leaves",
+    "rarity": "Industrial Grade",
+    "paint_index": "104"
   },
   {
     "id": "skin-2097568",
@@ -2069,7 +2363,9 @@
     "price": 18.27,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Grassland Leaves"
+    "item_name": "P2000 | Grassland Leaves",
+    "rarity": "Industrial Grade",
+    "paint_index": "104"
   },
   {
     "id": "skin-2097568",
@@ -2083,7 +2379,9 @@
     "price": 5.01,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Grassland Leaves"
+    "item_name": "P2000 | Grassland Leaves",
+    "rarity": "Industrial Grade",
+    "paint_index": "104"
   },
   {
     "id": "skin-2097568",
@@ -2097,7 +2395,9 @@
     "price": 6.36,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Grassland Leaves"
+    "item_name": "P2000 | Grassland Leaves",
+    "rarity": "Industrial Grade",
+    "paint_index": "104"
   },
   {
     "id": "skin-2097568",
@@ -2111,7 +2411,9 @@
     "price": 82.28,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Grassland Leaves"
+    "item_name": "P2000 | Grassland Leaves",
+    "rarity": "Industrial Grade",
+    "paint_index": "104"
   },
   {
     "id": "skin-2097280",
@@ -2125,7 +2427,9 @@
     "price": 31.33,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Silver"
+    "item_name": "P2000 | Silver",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "32"
   },
   {
     "id": "skin-2097280",
@@ -2139,7 +2443,9 @@
     "price": 46.44,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Silver"
+    "item_name": "P2000 | Silver",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "32"
   },
   {
     "id": "skin-2098580",
@@ -2153,7 +2459,9 @@
     "price": 0.14,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P2000 | Ivory"
+    "item_name": "P2000 | Ivory",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "357"
   },
   {
     "id": "skin-2098580",
@@ -2167,7 +2475,9 @@
     "price": 0.06,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Ivory"
+    "item_name": "P2000 | Ivory",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "357"
   },
   {
     "id": "skin-2098580",
@@ -2181,7 +2491,9 @@
     "price": 0.06,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Ivory"
+    "item_name": "P2000 | Ivory",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "357"
   },
   {
     "id": "skin-2098580",
@@ -2195,7 +2507,9 @@
     "price": 0.63,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Ivory"
+    "item_name": "P2000 | Ivory",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "357"
   },
   {
     "id": "skin-2098580",
@@ -2209,7 +2523,9 @@
     "price": 2.56,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P2000 | Ivory"
+    "item_name": "P2000 | Ivory",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "357"
   },
   {
     "id": "skin-2098580",
@@ -2223,7 +2539,9 @@
     "price": 0.11,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Ivory"
+    "item_name": "P2000 | Ivory",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "357"
   },
   {
     "id": "skin-2098580",
@@ -2237,7 +2555,9 @@
     "price": 0.15,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P2000 | Ivory"
+    "item_name": "P2000 | Ivory",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "357"
   },
   {
     "id": "skin-2098580",
@@ -2251,7 +2571,9 @@
     "price": 0.2,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P2000 | Ivory"
+    "item_name": "P2000 | Ivory",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "357"
   },
   {
     "id": "skin-2098580",
@@ -2265,7 +2587,9 @@
     "price": 0.44,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P2000 | Ivory"
+    "item_name": "P2000 | Ivory",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "357"
   },
   {
     "id": "skin-2098580",
@@ -2279,7 +2603,9 @@
     "price": 0.05,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Ivory"
+    "item_name": "P2000 | Ivory",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "357"
   },
   {
     "id": "skin-2097436",
@@ -2293,7 +2619,9 @@
     "price": 11,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Scorpion"
+    "item_name": "P2000 | Scorpion",
+    "rarity": "Restricted",
+    "paint_index": "71"
   },
   {
     "id": "skin-2097436",
@@ -2307,7 +2635,9 @@
     "price": 5.55,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Scorpion"
+    "item_name": "P2000 | Scorpion",
+    "rarity": "Restricted",
+    "paint_index": "71"
   },
   {
     "id": "skin-2101704",
@@ -2321,7 +2651,9 @@
     "price": 0.16,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P2000 | Lifted Spirits"
+    "item_name": "P2000 | Lifted Spirits",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1138"
   },
   {
     "id": "skin-2101704",
@@ -2335,7 +2667,9 @@
     "price": 0.12,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P2000 | Lifted Spirits"
+    "item_name": "P2000 | Lifted Spirits",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1138"
   },
   {
     "id": "skin-2101704",
@@ -2349,7 +2683,9 @@
     "price": 0.29,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P2000 | Lifted Spirits"
+    "item_name": "P2000 | Lifted Spirits",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1138"
   },
   {
     "id": "skin-2101704",
@@ -2363,7 +2699,9 @@
     "price": 0.78,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P2000 | Lifted Spirits"
+    "item_name": "P2000 | Lifted Spirits",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1138"
   },
   {
     "id": "skin-2101704",
@@ -2377,7 +2715,9 @@
     "price": 0.17,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Lifted Spirits"
+    "item_name": "P2000 | Lifted Spirits",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1138"
   },
   {
     "id": "skin-2101704",
@@ -2391,7 +2731,9 @@
     "price": 0.08,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Lifted Spirits"
+    "item_name": "P2000 | Lifted Spirits",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1138"
   },
   {
     "id": "skin-2101704",
@@ -2405,7 +2747,9 @@
     "price": 0.1,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P2000 | Lifted Spirits"
+    "item_name": "P2000 | Lifted Spirits",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1138"
   },
   {
     "id": "skin-2101704",
@@ -2419,7 +2763,9 @@
     "price": 0.05,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Lifted Spirits"
+    "item_name": "P2000 | Lifted Spirits",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1138"
   },
   {
     "id": "skin-2101704",
@@ -2433,7 +2779,9 @@
     "price": 0.04,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Lifted Spirits"
+    "item_name": "P2000 | Lifted Spirits",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1138"
   },
   {
     "id": "skin-2101704",
@@ -2447,7 +2795,9 @@
     "price": 0.05,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Lifted Spirits"
+    "item_name": "P2000 | Lifted Spirits",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1138"
   },
   {
     "id": "skin-2099692",
@@ -2461,7 +2811,9 @@
     "price": 0.88,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Turf"
+    "item_name": "P2000 | Turf",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "635"
   },
   {
     "id": "skin-2099692",
@@ -2475,7 +2827,9 @@
     "price": 0.07,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Turf"
+    "item_name": "P2000 | Turf",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "635"
   },
   {
     "id": "skin-2099692",
@@ -2489,7 +2843,9 @@
     "price": 0.27,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P2000 | Turf"
+    "item_name": "P2000 | Turf",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "635"
   },
   {
     "id": "skin-2099692",
@@ -2503,7 +2859,9 @@
     "price": 0.17,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P2000 | Turf"
+    "item_name": "P2000 | Turf",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "635"
   },
   {
     "id": "skin-2099692",
@@ -2517,7 +2875,9 @@
     "price": 0.18,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P2000 | Turf"
+    "item_name": "P2000 | Turf",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "635"
   },
   {
     "id": "skin-2099692",
@@ -2531,7 +2891,9 @@
     "price": 0.09,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Turf"
+    "item_name": "P2000 | Turf",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "635"
   },
   {
     "id": "skin-2099692",
@@ -2545,7 +2907,9 @@
     "price": 0.16,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Turf"
+    "item_name": "P2000 | Turf",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "635"
   },
   {
     "id": "skin-2099692",
@@ -2559,7 +2923,9 @@
     "price": 0.68,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P2000 | Turf"
+    "item_name": "P2000 | Turf",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "635"
   },
   {
     "id": "skin-2099692",
@@ -2573,7 +2939,9 @@
     "price": 3.55,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P2000 | Turf"
+    "item_name": "P2000 | Turf",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "635"
   },
   {
     "id": "skin-2099692",
@@ -2587,7 +2955,9 @@
     "price": 0.08,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Turf"
+    "item_name": "P2000 | Turf",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "635"
   },
   {
     "id": "skin-2099212",
@@ -2601,7 +2971,9 @@
     "price": 0.52,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P2000 | Imperial"
+    "item_name": "P2000 | Imperial",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "515"
   },
   {
     "id": "skin-2099212",
@@ -2615,7 +2987,9 @@
     "price": 0.81,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P2000 | Imperial"
+    "item_name": "P2000 | Imperial",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "515"
   },
   {
     "id": "skin-2099212",
@@ -2629,7 +3003,9 @@
     "price": 0.26,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Imperial"
+    "item_name": "P2000 | Imperial",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "515"
   },
   {
     "id": "skin-2099212",
@@ -2643,7 +3019,9 @@
     "price": 0.15,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Imperial"
+    "item_name": "P2000 | Imperial",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "515"
   },
   {
     "id": "skin-2099212",
@@ -2657,7 +3035,9 @@
     "price": 1.19,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P2000 | Imperial"
+    "item_name": "P2000 | Imperial",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "515"
   },
   {
     "id": "skin-2099212",
@@ -2671,7 +3051,9 @@
     "price": 0.19,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Imperial"
+    "item_name": "P2000 | Imperial",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "515"
   },
   {
     "id": "skin-2100992",
@@ -2685,7 +3067,9 @@
     "price": 1.07,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P2000 | Gnarled"
+    "item_name": "P2000 | Gnarled",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "960"
   },
   {
     "id": "skin-2100992",
@@ -2699,7 +3083,9 @@
     "price": 0.2,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P2000 | Gnarled"
+    "item_name": "P2000 | Gnarled",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "960"
   },
   {
     "id": "skin-2100992",
@@ -2713,7 +3099,9 @@
     "price": 0.2,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Gnarled"
+    "item_name": "P2000 | Gnarled",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "960"
   },
   {
     "id": "skin-2100992",
@@ -2727,7 +3115,9 @@
     "price": 0.08,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P2000 | Gnarled"
+    "item_name": "P2000 | Gnarled",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "960"
   },
   {
     "id": "skin-2100992",
@@ -2741,7 +3131,9 @@
     "price": 0.08,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Gnarled"
+    "item_name": "P2000 | Gnarled",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "960"
   },
   {
     "id": "skin-2100992",
@@ -2755,7 +3147,9 @@
     "price": 0.08,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P2000 | Gnarled"
+    "item_name": "P2000 | Gnarled",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "960"
   },
   {
     "id": "skin-2100992",
@@ -2769,7 +3163,9 @@
     "price": 0.03,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Gnarled"
+    "item_name": "P2000 | Gnarled",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "960"
   },
   {
     "id": "skin-2100992",
@@ -2783,7 +3179,9 @@
     "price": 0.04,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Gnarled"
+    "item_name": "P2000 | Gnarled",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "960"
   },
   {
     "id": "skin-2100992",
@@ -2797,7 +3195,9 @@
     "price": 0.11,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "P2000 | Gnarled"
+    "item_name": "P2000 | Gnarled",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "960"
   },
   {
     "id": "skin-2100992",
@@ -2811,7 +3211,9 @@
     "price": 0.04,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Gnarled"
+    "item_name": "P2000 | Gnarled",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "960"
   },
   {
     "id": "skin-2098136",
@@ -2825,7 +3227,9 @@
     "price": 8.68,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Amber Fade"
+    "item_name": "P2000 | Amber Fade",
+    "rarity": "Restricted",
+    "paint_index": "246"
   },
   {
     "id": "skin-2098136",
@@ -2839,7 +3243,9 @@
     "price": 4.69,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Amber Fade"
+    "item_name": "P2000 | Amber Fade",
+    "rarity": "Restricted",
+    "paint_index": "246"
   },
   {
     "id": "skin-2098136",
@@ -2853,7 +3259,9 @@
     "price": 3.27,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Amber Fade"
+    "item_name": "P2000 | Amber Fade",
+    "rarity": "Restricted",
+    "paint_index": "246"
   },
   {
     "id": "skin-2098136",
@@ -2867,7 +3275,9 @@
     "price": 3.94,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Amber Fade"
+    "item_name": "P2000 | Amber Fade",
+    "rarity": "Restricted",
+    "paint_index": "246"
   },
   {
     "id": "skin-2098536",
@@ -2881,7 +3291,9 @@
     "price": 6.55,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Coach Class"
+    "item_name": "P2000 | Coach Class",
+    "rarity": "Industrial Grade",
+    "paint_index": "346"
   },
   {
     "id": "skin-2098536",
@@ -2895,7 +3307,9 @@
     "price": 6.86,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Coach Class"
+    "item_name": "P2000 | Coach Class",
+    "rarity": "Industrial Grade",
+    "paint_index": "346"
   },
   {
     "id": "skin-2098536",
@@ -2909,7 +3323,9 @@
     "price": 5.58,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Coach Class"
+    "item_name": "P2000 | Coach Class",
+    "rarity": "Industrial Grade",
+    "paint_index": "346"
   },
   {
     "id": "skin-2098536",
@@ -2923,7 +3339,9 @@
     "price": 14.33,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Coach Class"
+    "item_name": "P2000 | Coach Class",
+    "rarity": "Industrial Grade",
+    "paint_index": "346"
   },
   {
     "id": "skin-2098536",
@@ -2937,7 +3355,9 @@
     "price": 6.4,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Coach Class"
+    "item_name": "P2000 | Coach Class",
+    "rarity": "Industrial Grade",
+    "paint_index": "346"
   },
   {
     "id": "skin-2101140",
@@ -2951,7 +3371,9 @@
     "price": 13.6,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Dispatch"
+    "item_name": "P2000 | Dispatch",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "997"
   },
   {
     "id": "skin-2101140",
@@ -2965,7 +3387,9 @@
     "price": 14.33,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Dispatch"
+    "item_name": "P2000 | Dispatch",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "997"
   },
   {
     "id": "skin-2101140",
@@ -2979,7 +3403,9 @@
     "price": 13.02,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Dispatch"
+    "item_name": "P2000 | Dispatch",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "997"
   },
   {
     "id": "skin-2101140",
@@ -2993,7 +3419,9 @@
     "price": 13.16,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Dispatch"
+    "item_name": "P2000 | Dispatch",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "997"
   },
   {
     "id": "skin-2101140",
@@ -3007,6 +3435,8 @@
     "price": 13.71,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "P2000 | Dispatch"
+    "item_name": "P2000 | Dispatch",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "997"
   }
 ]

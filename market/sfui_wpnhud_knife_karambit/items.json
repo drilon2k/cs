@@ -11,7 +11,9 @@
     "price": 840.95,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Karambit"
+    "item_name": "★ Karambit",
+    "rarity": "Covert",
+    "paint_index": null
   },
   {
     "id": "skin-vanilla-weapon_knife_karambit",
@@ -25,6 +27,8 @@
     "price": 820.34,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Karambit"
+    "item_name": "★ Karambit",
+    "rarity": "Covert",
+    "paint_index": null
   }
 ]

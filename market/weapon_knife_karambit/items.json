@@ -11,7 +11,9 @@
     "price": 0,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Karambit | Scorched"
+    "item_name": "★ Karambit | Scorched",
+    "rarity": "Covert",
+    "paint_index": "175"
   },
   {
     "id": "skin-33227452",
@@ -25,7 +27,9 @@
     "price": 383.97,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Karambit | Scorched"
+    "item_name": "★ Karambit | Scorched",
+    "rarity": "Covert",
+    "paint_index": "175"
   },
   {
     "id": "skin-33227452",
@@ -39,7 +43,9 @@
     "price": 644.52,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Karambit | Scorched"
+    "item_name": "★ Karambit | Scorched",
+    "rarity": "Covert",
+    "paint_index": "175"
   },
   {
     "id": "skin-33227452",
@@ -53,7 +59,9 @@
     "price": 356.54,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Karambit | Scorched"
+    "item_name": "★ Karambit | Scorched",
+    "rarity": "Covert",
+    "paint_index": "175"
   },
   {
     "id": "skin-33227452",
@@ -67,7 +75,9 @@
     "price": 397.68,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Karambit | Scorched"
+    "item_name": "★ Karambit | Scorched",
+    "rarity": "Covert",
+    "paint_index": "175"
   },
   {
     "id": "skin-33227452",
@@ -81,7 +91,9 @@
     "price": 355.17,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Karambit | Scorched"
+    "item_name": "★ Karambit | Scorched",
+    "rarity": "Covert",
+    "paint_index": "175"
   },
   {
     "id": "skin-33227452",
@@ -95,7 +107,9 @@
     "price": 379.85,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Karambit | Scorched"
+    "item_name": "★ Karambit | Scorched",
+    "rarity": "Covert",
+    "paint_index": "175"
   },
   {
     "id": "skin-33227452",
@@ -109,7 +123,9 @@
     "price": 353.11,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Karambit | Scorched"
+    "item_name": "★ Karambit | Scorched",
+    "rarity": "Covert",
+    "paint_index": "175"
   },
   {
     "id": "skin-33227452",
@@ -123,7 +139,9 @@
     "price": 459.25,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Karambit | Scorched"
+    "item_name": "★ Karambit | Scorched",
+    "rarity": "Covert",
+    "paint_index": "175"
   },
   {
     "id": "skin-33227452",
@@ -137,7 +155,9 @@
     "price": 359.97,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Karambit | Scorched"
+    "item_name": "★ Karambit | Scorched",
+    "rarity": "Covert",
+    "paint_index": "175"
   },
   {
     "id": "skin-33228392",
@@ -151,7 +171,9 @@
     "price": 558.12,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Karambit | Damascus Steel"
+    "item_name": "★ Karambit | Damascus Steel",
+    "rarity": "Covert",
+    "paint_index": "410"
   },
   {
     "id": "skin-33228392",
@@ -165,7 +187,9 @@
     "price": 588.98,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Karambit | Damascus Steel"
+    "item_name": "★ Karambit | Damascus Steel",
+    "rarity": "Covert",
+    "paint_index": "410"
   },
   {
     "id": "skin-33228392",
@@ -179,7 +203,9 @@
     "price": 800.84,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Karambit | Damascus Steel"
+    "item_name": "★ Karambit | Damascus Steel",
+    "rarity": "Covert",
+    "paint_index": "410"
   },
   {
     "id": "skin-33228392",
@@ -193,7 +219,9 @@
     "price": 575.54,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Karambit | Damascus Steel"
+    "item_name": "★ Karambit | Damascus Steel",
+    "rarity": "Covert",
+    "paint_index": "410"
   },
   {
     "id": "skin-33228392",
@@ -207,7 +235,9 @@
     "price": 658.23,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Karambit | Damascus Steel"
+    "item_name": "★ Karambit | Damascus Steel",
+    "rarity": "Covert",
+    "paint_index": "410"
   },
   {
     "id": "skin-33228392",
@@ -221,7 +251,9 @@
     "price": 552.64,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Karambit | Damascus Steel"
+    "item_name": "★ Karambit | Damascus Steel",
+    "rarity": "Covert",
+    "paint_index": "410"
   },
   {
     "id": "skin-33228392",
@@ -235,7 +267,9 @@
     "price": 560.87,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Karambit | Damascus Steel"
+    "item_name": "★ Karambit | Damascus Steel",
+    "rarity": "Covert",
+    "paint_index": "410"
   },
   {
     "id": "skin-33228392",
@@ -249,7 +283,9 @@
     "price": 644.52,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Karambit | Damascus Steel"
+    "item_name": "★ Karambit | Damascus Steel",
+    "rarity": "Covert",
+    "paint_index": "410"
   },
   {
     "id": "skin-33228392",
@@ -263,7 +299,9 @@
     "price": 514.93,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Karambit | Damascus Steel"
+    "item_name": "★ Karambit | Damascus Steel",
+    "rarity": "Covert",
+    "paint_index": "410"
   },
   {
     "id": "skin-33228392",
@@ -277,7 +315,9 @@
     "price": 711.44,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Karambit | Damascus Steel"
+    "item_name": "★ Karambit | Damascus Steel",
+    "rarity": "Covert",
+    "paint_index": "410"
   },
   {
     "id": "skin-33228996",
@@ -291,7 +331,9 @@
     "price": 1124.47,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Karambit | Lore"
+    "item_name": "★ Karambit | Lore",
+    "rarity": "Covert",
+    "paint_index": "561"
   },
   {
     "id": "skin-33228996",
@@ -305,7 +347,9 @@
     "price": 1843.04,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Karambit | Lore"
+    "item_name": "★ Karambit | Lore",
+    "rarity": "Covert",
+    "paint_index": "561"
   },
   {
     "id": "skin-33228996",
@@ -319,7 +363,9 @@
     "price": 667.69,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Karambit | Lore"
+    "item_name": "★ Karambit | Lore",
+    "rarity": "Covert",
+    "paint_index": "561"
   },
   {
     "id": "skin-33228996",
@@ -333,7 +379,9 @@
     "price": 603.24,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Karambit | Lore"
+    "item_name": "★ Karambit | Lore",
+    "rarity": "Covert",
+    "paint_index": "561"
   },
   {
     "id": "skin-33228996",
@@ -347,7 +395,9 @@
     "price": 2104.82,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Karambit | Lore"
+    "item_name": "★ Karambit | Lore",
+    "rarity": "Covert",
+    "paint_index": "561"
   },
   {
     "id": "skin-33228996",
@@ -361,7 +411,9 @@
     "price": 1121.73,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Karambit | Lore"
+    "item_name": "★ Karambit | Lore",
+    "rarity": "Covert",
+    "paint_index": "561"
   },
   {
     "id": "skin-33228996",
@@ -375,7 +427,9 @@
     "price": 761.08,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Karambit | Lore"
+    "item_name": "★ Karambit | Lore",
+    "rarity": "Covert",
+    "paint_index": "561"
   },
   {
     "id": "skin-33228996",
@@ -389,7 +443,9 @@
     "price": 670.3,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Karambit | Lore"
+    "item_name": "★ Karambit | Lore",
+    "rarity": "Covert",
+    "paint_index": "561"
   },
   {
     "id": "skin-33228996",
@@ -403,7 +459,9 @@
     "price": 530.7,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Karambit | Lore"
+    "item_name": "★ Karambit | Lore",
+    "rarity": "Covert",
+    "paint_index": "561"
   },
   {
     "id": "skin-33228996",
@@ -417,7 +475,9 @@
     "price": 603.38,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Karambit | Lore"
+    "item_name": "★ Karambit | Lore",
+    "rarity": "Covert",
+    "paint_index": "561"
   },
   {
     "id": "skin-33226920",
@@ -431,7 +491,9 @@
     "price": 644.52,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Karambit | Blue Steel"
+    "item_name": "★ Karambit | Blue Steel",
+    "rarity": "Covert",
+    "paint_index": "42"
   },
   {
     "id": "skin-33226920",
@@ -445,7 +507,9 @@
     "price": 562.24,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Karambit | Blue Steel"
+    "item_name": "★ Karambit | Blue Steel",
+    "rarity": "Covert",
+    "paint_index": "42"
   },
   {
     "id": "skin-33226920",
@@ -459,7 +523,9 @@
     "price": 534.81,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Karambit | Blue Steel"
+    "item_name": "★ Karambit | Blue Steel",
+    "rarity": "Covert",
+    "paint_index": "42"
   },
   {
     "id": "skin-33226920",
@@ -473,7 +539,9 @@
     "price": 578.42,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Karambit | Blue Steel"
+    "item_name": "★ Karambit | Blue Steel",
+    "rarity": "Covert",
+    "paint_index": "42"
   },
   {
     "id": "skin-33226920",
@@ -487,7 +555,9 @@
     "price": 532.75,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Karambit | Blue Steel"
+    "item_name": "★ Karambit | Blue Steel",
+    "rarity": "Covert",
+    "paint_index": "42"
   },
   {
     "id": "skin-33226920",
@@ -501,7 +571,9 @@
     "price": 533.85,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Karambit | Blue Steel"
+    "item_name": "★ Karambit | Blue Steel",
+    "rarity": "Covert",
+    "paint_index": "42"
   },
   {
     "id": "skin-33226920",
@@ -515,7 +587,9 @@
     "price": 987.34,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Karambit | Blue Steel"
+    "item_name": "★ Karambit | Blue Steel",
+    "rarity": "Covert",
+    "paint_index": "42"
   },
   {
     "id": "skin-33226920",
@@ -529,7 +603,9 @@
     "price": 959.92,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Karambit | Blue Steel"
+    "item_name": "★ Karambit | Blue Steel",
+    "rarity": "Covert",
+    "paint_index": "42"
   },
   {
     "id": "skin-33226920",
@@ -543,7 +619,9 @@
     "price": 711.71,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Karambit | Blue Steel"
+    "item_name": "★ Karambit | Blue Steel",
+    "rarity": "Covert",
+    "paint_index": "42"
   },
   {
     "id": "skin-33226920",
@@ -557,7 +635,9 @@
     "price": 568.27,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Karambit | Blue Steel"
+    "item_name": "★ Karambit | Blue Steel",
+    "rarity": "Covert",
+    "paint_index": "42"
   },
   {
     "id": "skin-33229080",
@@ -571,7 +651,9 @@
     "price": 596.52,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Karambit | Freehand"
+    "item_name": "★ Karambit | Freehand",
+    "rarity": "Covert",
+    "paint_index": "582"
   },
   {
     "id": "skin-33229080",
@@ -585,7 +667,9 @@
     "price": 473.03,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Karambit | Freehand"
+    "item_name": "★ Karambit | Freehand",
+    "rarity": "Covert",
+    "paint_index": "582"
   },
   {
     "id": "skin-33229080",
@@ -599,7 +683,9 @@
     "price": 500.53,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Karambit | Freehand"
+    "item_name": "★ Karambit | Freehand",
+    "rarity": "Covert",
+    "paint_index": "582"
   },
   {
     "id": "skin-33229080",
@@ -613,7 +699,9 @@
     "price": 468.99,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Karambit | Freehand"
+    "item_name": "★ Karambit | Freehand",
+    "rarity": "Covert",
+    "paint_index": "582"
   },
   {
     "id": "skin-33229080",
@@ -627,7 +715,9 @@
     "price": 466.11,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Karambit | Freehand"
+    "item_name": "★ Karambit | Freehand",
+    "rarity": "Covert",
+    "paint_index": "582"
   },
   {
     "id": "skin-33229080",
@@ -641,7 +731,9 @@
     "price": 466.11,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Karambit | Freehand"
+    "item_name": "★ Karambit | Freehand",
+    "rarity": "Covert",
+    "paint_index": "582"
   },
   {
     "id": "skin-33229080",
@@ -655,7 +747,9 @@
     "price": 596.52,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Karambit | Freehand"
+    "item_name": "★ Karambit | Freehand",
+    "rarity": "Covert",
+    "paint_index": "582"
   },
   {
     "id": "skin-33229080",
@@ -669,7 +763,9 @@
     "price": 531.31,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Karambit | Freehand"
+    "item_name": "★ Karambit | Freehand",
+    "rarity": "Covert",
+    "paint_index": "582"
   },
   {
     "id": "skin-33229080",
@@ -683,7 +779,9 @@
     "price": 482.15,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Karambit | Freehand"
+    "item_name": "★ Karambit | Freehand",
+    "rarity": "Covert",
+    "paint_index": "582"
   },
   {
     "id": "skin-33229080",
@@ -697,7 +795,9 @@
     "price": 644.38,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Karambit | Freehand"
+    "item_name": "★ Karambit | Freehand",
+    "rarity": "Covert",
+    "paint_index": "582"
   },
   {
     "id": "skin-33227060",
@@ -711,7 +811,9 @@
     "price": 363.4,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Karambit | Boreal Forest"
+    "item_name": "★ Karambit | Boreal Forest",
+    "rarity": "Covert",
+    "paint_index": "77"
   },
   {
     "id": "skin-33227060",
@@ -725,7 +827,9 @@
     "price": 0,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Karambit | Boreal Forest"
+    "item_name": "★ Karambit | Boreal Forest",
+    "rarity": "Covert",
+    "paint_index": "77"
   },
   {
     "id": "skin-33227060",
@@ -739,7 +843,9 @@
     "price": 367.44,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Karambit | Boreal Forest"
+    "item_name": "★ Karambit | Boreal Forest",
+    "rarity": "Covert",
+    "paint_index": "77"
   },
   {
     "id": "skin-33227060",
@@ -753,7 +859,9 @@
     "price": 359.97,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Karambit | Boreal Forest"
+    "item_name": "★ Karambit | Boreal Forest",
+    "rarity": "Covert",
+    "paint_index": "77"
   },
   {
     "id": "skin-33227060",
@@ -767,7 +875,9 @@
     "price": 441.01,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Karambit | Boreal Forest"
+    "item_name": "★ Karambit | Boreal Forest",
+    "rarity": "Covert",
+    "paint_index": "77"
   },
   {
     "id": "skin-33227060",
@@ -781,7 +891,9 @@
     "price": 377.11,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Karambit | Boreal Forest"
+    "item_name": "★ Karambit | Boreal Forest",
+    "rarity": "Covert",
+    "paint_index": "77"
   },
   {
     "id": "skin-33227060",
@@ -795,7 +907,9 @@
     "price": 1218.94,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Karambit | Boreal Forest"
+    "item_name": "★ Karambit | Boreal Forest",
+    "rarity": "Covert",
+    "paint_index": "77"
   },
   {
     "id": "skin-33227060",
@@ -809,7 +923,9 @@
     "price": 356.4,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Karambit | Boreal Forest"
+    "item_name": "★ Karambit | Boreal Forest",
+    "rarity": "Covert",
+    "paint_index": "77"
   },
   {
     "id": "skin-33227060",
@@ -823,7 +939,9 @@
     "price": 493.67,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Karambit | Boreal Forest"
+    "item_name": "★ Karambit | Boreal Forest",
+    "rarity": "Covert",
+    "paint_index": "77"
   },
   {
     "id": "skin-33227060",
@@ -837,7 +955,9 @@
     "price": 355.85,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Karambit | Boreal Forest"
+    "item_name": "★ Karambit | Boreal Forest",
+    "rarity": "Covert",
+    "paint_index": "77"
   },
   {
     "id": "skin-33228388",
@@ -851,7 +971,9 @@
     "price": 822.79,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Karambit | Tiger Tooth"
+    "item_name": "★ Karambit | Tiger Tooth",
+    "rarity": "Covert",
+    "paint_index": "409"
   },
   {
     "id": "skin-33228388",
@@ -865,7 +987,9 @@
     "price": 850.07,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Karambit | Tiger Tooth"
+    "item_name": "★ Karambit | Tiger Tooth",
+    "rarity": "Covert",
+    "paint_index": "409"
   },
   {
     "id": "skin-33228388",
@@ -879,7 +1003,9 @@
     "price": 987.21,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Karambit | Tiger Tooth"
+    "item_name": "★ Karambit | Tiger Tooth",
+    "rarity": "Covert",
+    "paint_index": "409"
   },
   {
     "id": "skin-33228388",
@@ -893,7 +1019,9 @@
     "price": 944.83,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Karambit | Tiger Tooth"
+    "item_name": "★ Karambit | Tiger Tooth",
+    "rarity": "Covert",
+    "paint_index": "409"
   },
   {
     "id": "skin-33226912",
@@ -907,7 +1035,9 @@
     "price": 452.26,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Karambit | Night"
+    "item_name": "★ Karambit | Night",
+    "rarity": "Covert",
+    "paint_index": "40"
   },
   {
     "id": "skin-33226912",
@@ -921,7 +1051,9 @@
     "price": 410.43,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Karambit | Night"
+    "item_name": "★ Karambit | Night",
+    "rarity": "Covert",
+    "paint_index": "40"
   },
   {
     "id": "skin-33226912",
@@ -935,7 +1067,9 @@
     "price": 562.1,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Karambit | Night"
+    "item_name": "★ Karambit | Night",
+    "rarity": "Covert",
+    "paint_index": "40"
   },
   {
     "id": "skin-33226912",
@@ -949,7 +1083,9 @@
     "price": 430.32,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Karambit | Night"
+    "item_name": "★ Karambit | Night",
+    "rarity": "Covert",
+    "paint_index": "40"
   },
   {
     "id": "skin-33226912",
@@ -963,7 +1099,9 @@
     "price": 1282.17,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Karambit | Night"
+    "item_name": "★ Karambit | Night",
+    "rarity": "Covert",
+    "paint_index": "40"
   },
   {
     "id": "skin-33226912",
@@ -977,7 +1115,9 @@
     "price": 405.91,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Karambit | Night"
+    "item_name": "★ Karambit | Night",
+    "rarity": "Covert",
+    "paint_index": "40"
   },
   {
     "id": "skin-33226912",
@@ -991,7 +1131,9 @@
     "price": 573.21,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Karambit | Night"
+    "item_name": "★ Karambit | Night",
+    "rarity": "Covert",
+    "paint_index": "40"
   },
   {
     "id": "skin-33226912",
@@ -1005,7 +1147,9 @@
     "price": 465.83,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Karambit | Night"
+    "item_name": "★ Karambit | Night",
+    "rarity": "Covert",
+    "paint_index": "40"
   },
   {
     "id": "skin-33226912",
@@ -1019,7 +1163,9 @@
     "price": 466.18,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Karambit | Night"
+    "item_name": "★ Karambit | Night",
+    "rarity": "Covert",
+    "paint_index": "40"
   },
   {
     "id": "skin-33226912",
@@ -1033,7 +1179,9 @@
     "price": 0,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Karambit | Night"
+    "item_name": "★ Karambit | Night",
+    "rarity": "Covert",
+    "paint_index": "40"
   },
   {
     "id": "skin-33226928",
@@ -1047,7 +1195,9 @@
     "price": 870.23,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Karambit | Case Hardened"
+    "item_name": "★ Karambit | Case Hardened",
+    "rarity": "Covert",
+    "paint_index": "44"
   },
   {
     "id": "skin-33226928",
@@ -1061,7 +1211,9 @@
     "price": 1439.6,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Karambit | Case Hardened"
+    "item_name": "★ Karambit | Case Hardened",
+    "rarity": "Covert",
+    "paint_index": "44"
   },
   {
     "id": "skin-33226928",
@@ -1075,7 +1227,9 @@
     "price": 583.77,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Karambit | Case Hardened"
+    "item_name": "★ Karambit | Case Hardened",
+    "rarity": "Covert",
+    "paint_index": "44"
   },
   {
     "id": "skin-33226928",
@@ -1089,7 +1243,9 @@
     "price": 987.21,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Karambit | Case Hardened"
+    "item_name": "★ Karambit | Case Hardened",
+    "rarity": "Covert",
+    "paint_index": "44"
   },
   {
     "id": "skin-33226928",
@@ -1103,7 +1259,9 @@
     "price": 5028.04,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Karambit | Case Hardened"
+    "item_name": "★ Karambit | Case Hardened",
+    "rarity": "Covert",
+    "paint_index": "44"
   },
   {
     "id": "skin-33226928",
@@ -1117,7 +1275,9 @@
     "price": 658.16,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Karambit | Case Hardened"
+    "item_name": "★ Karambit | Case Hardened",
+    "rarity": "Covert",
+    "paint_index": "44"
   },
   {
     "id": "skin-33226928",
@@ -1131,7 +1291,9 @@
     "price": 793.37,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Karambit | Case Hardened"
+    "item_name": "★ Karambit | Case Hardened",
+    "rarity": "Covert",
+    "paint_index": "44"
   },
   {
     "id": "skin-33226928",
@@ -1145,7 +1307,9 @@
     "price": 615.03,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Karambit | Case Hardened"
+    "item_name": "★ Karambit | Case Hardened",
+    "rarity": "Covert",
+    "paint_index": "44"
   },
   {
     "id": "skin-33226928",
@@ -1159,7 +1323,9 @@
     "price": 651.37,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Karambit | Case Hardened"
+    "item_name": "★ Karambit | Case Hardened",
+    "rarity": "Covert",
+    "paint_index": "44"
   },
   {
     "id": "skin-33226928",
@@ -1173,7 +1339,9 @@
     "price": 806.33,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Karambit | Case Hardened"
+    "item_name": "★ Karambit | Case Hardened",
+    "rarity": "Covert",
+    "paint_index": "44"
   },
   {
     "id": "skin-33227324",
@@ -1187,7 +1355,9 @@
     "price": 349.62,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Karambit | Urban Masked"
+    "item_name": "★ Karambit | Urban Masked",
+    "rarity": "Covert",
+    "paint_index": "143"
   },
   {
     "id": "skin-33227324",
@@ -1201,7 +1371,9 @@
     "price": 514.24,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Karambit | Urban Masked"
+    "item_name": "★ Karambit | Urban Masked",
+    "rarity": "Covert",
+    "paint_index": "143"
   },
   {
     "id": "skin-33227324",
@@ -1215,7 +1387,9 @@
     "price": 410.02,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Karambit | Urban Masked"
+    "item_name": "★ Karambit | Urban Masked",
+    "rarity": "Covert",
+    "paint_index": "143"
   },
   {
     "id": "skin-33227324",
@@ -1229,7 +1403,9 @@
     "price": 383.97,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Karambit | Urban Masked"
+    "item_name": "★ Karambit | Urban Masked",
+    "rarity": "Covert",
+    "paint_index": "143"
   },
   {
     "id": "skin-33227324",
@@ -1243,7 +1419,9 @@
     "price": 0,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Karambit | Urban Masked"
+    "item_name": "★ Karambit | Urban Masked",
+    "rarity": "Covert",
+    "paint_index": "143"
   },
   {
     "id": "skin-33227324",
@@ -1257,7 +1435,9 @@
     "price": 370.24,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Karambit | Urban Masked"
+    "item_name": "★ Karambit | Urban Masked",
+    "rarity": "Covert",
+    "paint_index": "143"
   },
   {
     "id": "skin-33227324",
@@ -1271,7 +1451,9 @@
     "price": 431.8,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Karambit | Urban Masked"
+    "item_name": "★ Karambit | Urban Masked",
+    "rarity": "Covert",
+    "paint_index": "143"
   },
   {
     "id": "skin-33227324",
@@ -1285,7 +1467,9 @@
     "price": 411.32,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Karambit | Urban Masked"
+    "item_name": "★ Karambit | Urban Masked",
+    "rarity": "Covert",
+    "paint_index": "143"
   },
   {
     "id": "skin-33227324",
@@ -1299,7 +1483,9 @@
     "price": 382.6,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Karambit | Urban Masked"
+    "item_name": "★ Karambit | Urban Masked",
+    "rarity": "Covert",
+    "paint_index": "143"
   },
   {
     "id": "skin-33227324",
@@ -1313,7 +1499,9 @@
     "price": 822.79,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Karambit | Urban Masked"
+    "item_name": "★ Karambit | Urban Masked",
+    "rarity": "Covert",
+    "paint_index": "143"
   },
   {
     "id": "skin-33226772",
@@ -1327,7 +1515,9 @@
     "price": 354.48,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Karambit | Forest DDPAT"
+    "item_name": "★ Karambit | Forest DDPAT",
+    "rarity": "Covert",
+    "paint_index": "5"
   },
   {
     "id": "skin-33226772",
@@ -1341,7 +1531,9 @@
     "price": 479.96,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Karambit | Forest DDPAT"
+    "item_name": "★ Karambit | Forest DDPAT",
+    "rarity": "Covert",
+    "paint_index": "5"
   },
   {
     "id": "skin-33226772",
@@ -1355,7 +1547,9 @@
     "price": 356.54,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Karambit | Forest DDPAT"
+    "item_name": "★ Karambit | Forest DDPAT",
+    "rarity": "Covert",
+    "paint_index": "5"
   },
   {
     "id": "skin-33226772",
@@ -1369,7 +1563,9 @@
     "price": 353.8,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Karambit | Forest DDPAT"
+    "item_name": "★ Karambit | Forest DDPAT",
+    "rarity": "Covert",
+    "paint_index": "5"
   },
   {
     "id": "skin-33226772",
@@ -1383,7 +1579,9 @@
     "price": 0,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Karambit | Forest DDPAT"
+    "item_name": "★ Karambit | Forest DDPAT",
+    "rarity": "Covert",
+    "paint_index": "5"
   },
   {
     "id": "skin-33226772",
@@ -1397,7 +1595,9 @@
     "price": 368.61,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Karambit | Forest DDPAT"
+    "item_name": "★ Karambit | Forest DDPAT",
+    "rarity": "Covert",
+    "paint_index": "5"
   },
   {
     "id": "skin-33226772",
@@ -1411,7 +1611,9 @@
     "price": 629.16,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Karambit | Forest DDPAT"
+    "item_name": "★ Karambit | Forest DDPAT",
+    "rarity": "Covert",
+    "paint_index": "5"
   },
   {
     "id": "skin-33226772",
@@ -1425,7 +1627,9 @@
     "price": 397.68,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Karambit | Forest DDPAT"
+    "item_name": "★ Karambit | Forest DDPAT",
+    "rarity": "Covert",
+    "paint_index": "5"
   },
   {
     "id": "skin-33226772",
@@ -1439,7 +1643,9 @@
     "price": 379.85,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Karambit | Forest DDPAT"
+    "item_name": "★ Karambit | Forest DDPAT",
+    "rarity": "Covert",
+    "paint_index": "5"
   },
   {
     "id": "skin-33226772",
@@ -1453,7 +1659,9 @@
     "price": 368.59,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Karambit | Forest DDPAT"
+    "item_name": "★ Karambit | Forest DDPAT",
+    "rarity": "Covert",
+    "paint_index": "5"
   },
   {
     "id": "skin-33229016",
@@ -1467,7 +1675,9 @@
     "price": 671.8,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Karambit | Black Laminate"
+    "item_name": "★ Karambit | Black Laminate",
+    "rarity": "Covert",
+    "paint_index": "566"
   },
   {
     "id": "skin-33229016",
@@ -1481,7 +1691,9 @@
     "price": 571.49,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Karambit | Black Laminate"
+    "item_name": "★ Karambit | Black Laminate",
+    "rarity": "Covert",
+    "paint_index": "566"
   },
   {
     "id": "skin-33229016",
@@ -1495,7 +1707,9 @@
     "price": 679.48,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Karambit | Black Laminate"
+    "item_name": "★ Karambit | Black Laminate",
+    "rarity": "Covert",
+    "paint_index": "566"
   },
   {
     "id": "skin-33229016",
@@ -1509,7 +1723,9 @@
     "price": 570.46,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Karambit | Black Laminate"
+    "item_name": "★ Karambit | Black Laminate",
+    "rarity": "Covert",
+    "paint_index": "566"
   },
   {
     "id": "skin-33229016",
@@ -1523,7 +1739,9 @@
     "price": 665.09,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Karambit | Black Laminate"
+    "item_name": "★ Karambit | Black Laminate",
+    "rarity": "Covert",
+    "paint_index": "566"
   },
   {
     "id": "skin-33229016",
@@ -1537,7 +1755,9 @@
     "price": 665.02,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Karambit | Black Laminate"
+    "item_name": "★ Karambit | Black Laminate",
+    "rarity": "Covert",
+    "paint_index": "566"
   },
   {
     "id": "skin-33229016",
@@ -1551,7 +1771,9 @@
     "price": 1061.39,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Karambit | Black Laminate"
+    "item_name": "★ Karambit | Black Laminate",
+    "rarity": "Covert",
+    "paint_index": "566"
   },
   {
     "id": "skin-33229016",
@@ -1565,7 +1787,9 @@
     "price": 1051.25,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Karambit | Black Laminate"
+    "item_name": "★ Karambit | Black Laminate",
+    "rarity": "Covert",
+    "paint_index": "566"
   },
   {
     "id": "skin-33229016",
@@ -1579,7 +1803,9 @@
     "price": 619.83,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Karambit | Black Laminate"
+    "item_name": "★ Karambit | Black Laminate",
+    "rarity": "Covert",
+    "paint_index": "566"
   },
   {
     "id": "skin-33229016",
@@ -1593,7 +1819,9 @@
     "price": 635.6,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Karambit | Black Laminate"
+    "item_name": "★ Karambit | Black Laminate",
+    "rarity": "Covert",
+    "paint_index": "566"
   },
   {
     "id": "skin-33229056",
@@ -1607,7 +1835,9 @@
     "price": 781.58,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Karambit | Autotronic"
+    "item_name": "★ Karambit | Autotronic",
+    "rarity": "Covert",
+    "paint_index": "576"
   },
   {
     "id": "skin-33229056",
@@ -1621,7 +1851,9 @@
     "price": 1670.25,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Karambit | Autotronic"
+    "item_name": "★ Karambit | Autotronic",
+    "rarity": "Covert",
+    "paint_index": "576"
   },
   {
     "id": "skin-33229056",
@@ -1635,7 +1867,9 @@
     "price": 644.38,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Karambit | Autotronic"
+    "item_name": "★ Karambit | Autotronic",
+    "rarity": "Covert",
+    "paint_index": "576"
   },
   {
     "id": "skin-33229056",
@@ -1649,7 +1883,9 @@
     "price": 795.36,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Karambit | Autotronic"
+    "item_name": "★ Karambit | Autotronic",
+    "rarity": "Covert",
+    "paint_index": "576"
   },
   {
     "id": "skin-33229056",
@@ -1663,7 +1899,9 @@
     "price": 767.93,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Karambit | Autotronic"
+    "item_name": "★ Karambit | Autotronic",
+    "rarity": "Covert",
+    "paint_index": "576"
   },
   {
     "id": "skin-33229056",
@@ -1677,7 +1915,9 @@
     "price": 1020.46,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Karambit | Autotronic"
+    "item_name": "★ Karambit | Autotronic",
+    "rarity": "Covert",
+    "paint_index": "576"
   },
   {
     "id": "skin-33229056",
@@ -1691,7 +1931,9 @@
     "price": 713.01,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Karambit | Autotronic"
+    "item_name": "★ Karambit | Autotronic",
+    "rarity": "Covert",
+    "paint_index": "576"
   },
   {
     "id": "skin-33229056",
@@ -1705,7 +1947,9 @@
     "price": 999.41,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Karambit | Autotronic"
+    "item_name": "★ Karambit | Autotronic",
+    "rarity": "Covert",
+    "paint_index": "576"
   },
   {
     "id": "skin-33229056",
@@ -1719,7 +1963,9 @@
     "price": 1988.26,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Karambit | Autotronic"
+    "item_name": "★ Karambit | Autotronic",
+    "rarity": "Covert",
+    "paint_index": "576"
   },
   {
     "id": "skin-33229056",
@@ -1733,7 +1979,9 @@
     "price": 808.94,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Karambit | Autotronic"
+    "item_name": "★ Karambit | Autotronic",
+    "rarity": "Covert",
+    "paint_index": "576"
   },
   {
     "id": "skin-33229040",
@@ -1747,7 +1995,9 @@
     "price": 1533.12,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Karambit | Gamma Doppler"
+    "item_name": "★ Karambit | Gamma Doppler",
+    "rarity": "Covert",
+    "paint_index": "572"
   },
   {
     "id": "skin-33229040",
@@ -1761,7 +2011,9 @@
     "price": 2178.74,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Karambit | Gamma Doppler"
+    "item_name": "★ Karambit | Gamma Doppler",
+    "rarity": "Covert",
+    "paint_index": "572"
   },
   {
     "id": "skin-33229040",
@@ -1775,7 +2027,9 @@
     "price": 1508.3,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Karambit | Gamma Doppler"
+    "item_name": "★ Karambit | Gamma Doppler",
+    "rarity": "Covert",
+    "paint_index": "572"
   },
   {
     "id": "skin-33229040",
@@ -1789,7 +2043,9 @@
     "price": 1494.73,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Karambit | Gamma Doppler"
+    "item_name": "★ Karambit | Gamma Doppler",
+    "rarity": "Covert",
+    "paint_index": "572"
   },
   {
     "id": "skin-33226800",
@@ -1803,7 +2059,9 @@
     "price": 520.41,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Karambit | Crimson Web"
+    "item_name": "★ Karambit | Crimson Web",
+    "rarity": "Covert",
+    "paint_index": "12"
   },
   {
     "id": "skin-33226800",
@@ -1817,7 +2075,9 @@
     "price": 692.44,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Karambit | Crimson Web"
+    "item_name": "★ Karambit | Crimson Web",
+    "rarity": "Covert",
+    "paint_index": "12"
   },
   {
     "id": "skin-33226800",
@@ -1831,7 +2091,9 @@
     "price": 601.32,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Karambit | Crimson Web"
+    "item_name": "★ Karambit | Crimson Web",
+    "rarity": "Covert",
+    "paint_index": "12"
   },
   {
     "id": "skin-33226800",
@@ -1845,7 +2107,9 @@
     "price": 712.94,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Karambit | Crimson Web"
+    "item_name": "★ Karambit | Crimson Web",
+    "rarity": "Covert",
+    "paint_index": "12"
   },
   {
     "id": "skin-33226800",
@@ -1859,7 +2123,9 @@
     "price": 1179.19,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Karambit | Crimson Web"
+    "item_name": "★ Karambit | Crimson Web",
+    "rarity": "Covert",
+    "paint_index": "12"
   },
   {
     "id": "skin-33226800",
@@ -1873,7 +2139,9 @@
     "price": 1110.76,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Karambit | Crimson Web"
+    "item_name": "★ Karambit | Crimson Web",
+    "rarity": "Covert",
+    "paint_index": "12"
   },
   {
     "id": "skin-33226800",
@@ -1887,7 +2155,9 @@
     "price": 667.83,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Karambit | Crimson Web"
+    "item_name": "★ Karambit | Crimson Web",
+    "rarity": "Covert",
+    "paint_index": "12"
   },
   {
     "id": "skin-33226800",
@@ -1901,7 +2171,9 @@
     "price": 548.52,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Karambit | Crimson Web"
+    "item_name": "★ Karambit | Crimson Web",
+    "rarity": "Covert",
+    "paint_index": "12"
   },
   {
     "id": "skin-33226800",
@@ -1915,7 +2187,9 @@
     "price": 5332.75,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Karambit | Crimson Web"
+    "item_name": "★ Karambit | Crimson Web",
+    "rarity": "Covert",
+    "paint_index": "12"
   },
   {
     "id": "skin-33226800",
@@ -1929,7 +2203,9 @@
     "price": 25902.39,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Karambit | Crimson Web"
+    "item_name": "★ Karambit | Crimson Web",
+    "rarity": "Covert",
+    "paint_index": "12"
   },
   {
     "id": "skin-33226924",
@@ -1943,7 +2219,9 @@
     "price": 459.32,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Karambit | Stained"
+    "item_name": "★ Karambit | Stained",
+    "rarity": "Covert",
+    "paint_index": "43"
   },
   {
     "id": "skin-33226924",
@@ -1957,7 +2235,9 @@
     "price": 507.38,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Karambit | Stained"
+    "item_name": "★ Karambit | Stained",
+    "rarity": "Covert",
+    "paint_index": "43"
   },
   {
     "id": "skin-33226924",
@@ -1971,7 +2251,9 @@
     "price": 521.1,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Karambit | Stained"
+    "item_name": "★ Karambit | Stained",
+    "rarity": "Covert",
+    "paint_index": "43"
   },
   {
     "id": "skin-33226924",
@@ -1985,7 +2267,9 @@
     "price": 603.24,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Karambit | Stained"
+    "item_name": "★ Karambit | Stained",
+    "rarity": "Covert",
+    "paint_index": "43"
   },
   {
     "id": "skin-33226924",
@@ -1999,7 +2283,9 @@
     "price": 452.46,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Karambit | Stained"
+    "item_name": "★ Karambit | Stained",
+    "rarity": "Covert",
+    "paint_index": "43"
   },
   {
     "id": "skin-33226924",
@@ -2013,7 +2299,9 @@
     "price": 754.08,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Karambit | Stained"
+    "item_name": "★ Karambit | Stained",
+    "rarity": "Covert",
+    "paint_index": "43"
   },
   {
     "id": "skin-33226924",
@@ -2027,7 +2315,9 @@
     "price": 548.52,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Karambit | Stained"
+    "item_name": "★ Karambit | Stained",
+    "rarity": "Covert",
+    "paint_index": "43"
   },
   {
     "id": "skin-33226924",
@@ -2041,7 +2331,9 @@
     "price": 836.5,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Karambit | Stained"
+    "item_name": "★ Karambit | Stained",
+    "rarity": "Covert",
+    "paint_index": "43"
   },
   {
     "id": "skin-33226924",
@@ -2055,7 +2347,9 @@
     "price": 527.47,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Karambit | Stained"
+    "item_name": "★ Karambit | Stained",
+    "rarity": "Covert",
+    "paint_index": "43"
   },
   {
     "id": "skin-33226924",
@@ -2069,7 +2363,9 @@
     "price": 598.71,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Karambit | Stained"
+    "item_name": "★ Karambit | Stained",
+    "rarity": "Covert",
+    "paint_index": "43"
   },
   {
     "id": "skin-33227040",
@@ -2083,7 +2379,9 @@
     "price": 390.82,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Karambit | Safari Mesh"
+    "item_name": "★ Karambit | Safari Mesh",
+    "rarity": "Covert",
+    "paint_index": "72"
   },
   {
     "id": "skin-33227040",
@@ -2097,7 +2395,9 @@
     "price": 615.31,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Karambit | Safari Mesh"
+    "item_name": "★ Karambit | Safari Mesh",
+    "rarity": "Covert",
+    "paint_index": "72"
   },
   {
     "id": "skin-33227040",
@@ -2111,7 +2411,9 @@
     "price": 0,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Karambit | Safari Mesh"
+    "item_name": "★ Karambit | Safari Mesh",
+    "rarity": "Covert",
+    "paint_index": "72"
   },
   {
     "id": "skin-33227040",
@@ -2125,7 +2427,9 @@
     "price": 366.83,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Karambit | Safari Mesh"
+    "item_name": "★ Karambit | Safari Mesh",
+    "rarity": "Covert",
+    "paint_index": "72"
   },
   {
     "id": "skin-33227040",
@@ -2139,7 +2443,9 @@
     "price": 390.62,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Karambit | Safari Mesh"
+    "item_name": "★ Karambit | Safari Mesh",
+    "rarity": "Covert",
+    "paint_index": "72"
   },
   {
     "id": "skin-33227040",
@@ -2153,7 +2459,9 @@
     "price": 356.47,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Karambit | Safari Mesh"
+    "item_name": "★ Karambit | Safari Mesh",
+    "rarity": "Covert",
+    "paint_index": "72"
   },
   {
     "id": "skin-33227040",
@@ -2167,7 +2475,9 @@
     "price": 411.39,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Karambit | Safari Mesh"
+    "item_name": "★ Karambit | Safari Mesh",
+    "rarity": "Covert",
+    "paint_index": "72"
   },
   {
     "id": "skin-33227040",
@@ -2181,7 +2491,9 @@
     "price": 348.11,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Karambit | Safari Mesh"
+    "item_name": "★ Karambit | Safari Mesh",
+    "rarity": "Covert",
+    "paint_index": "72"
   },
   {
     "id": "skin-33227040",
@@ -2195,7 +2507,9 @@
     "price": 356.33,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Karambit | Safari Mesh"
+    "item_name": "★ Karambit | Safari Mesh",
+    "rarity": "Covert",
+    "paint_index": "72"
   },
   {
     "id": "skin-33227040",
@@ -2209,7 +2523,9 @@
     "price": 390.82,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Karambit | Safari Mesh"
+    "item_name": "★ Karambit | Safari Mesh",
+    "rarity": "Covert",
+    "paint_index": "72"
   },
   {
     "id": "skin-33227144",
@@ -2223,7 +2539,9 @@
     "price": 479.82,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Karambit | Ultraviolet"
+    "item_name": "★ Karambit | Ultraviolet",
+    "rarity": "Covert",
+    "paint_index": "98"
   },
   {
     "id": "skin-33227144",
@@ -2237,7 +2555,9 @@
     "price": 437.17,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Karambit | Ultraviolet"
+    "item_name": "★ Karambit | Ultraviolet",
+    "rarity": "Covert",
+    "paint_index": "98"
   },
   {
     "id": "skin-33227144",
@@ -2251,7 +2571,9 @@
     "price": 466.25,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Karambit | Ultraviolet"
+    "item_name": "★ Karambit | Ultraviolet",
+    "rarity": "Covert",
+    "paint_index": "98"
   },
   {
     "id": "skin-33227144",
@@ -2265,7 +2587,9 @@
     "price": 1316.32,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Karambit | Ultraviolet"
+    "item_name": "★ Karambit | Ultraviolet",
+    "rarity": "Covert",
+    "paint_index": "98"
   },
   {
     "id": "skin-33227144",
@@ -2279,7 +2603,9 @@
     "price": 451.98,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Karambit | Ultraviolet"
+    "item_name": "★ Karambit | Ultraviolet",
+    "rarity": "Covert",
+    "paint_index": "98"
   },
   {
     "id": "skin-33227144",
@@ -2293,7 +2619,9 @@
     "price": 411.39,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Karambit | Ultraviolet"
+    "item_name": "★ Karambit | Ultraviolet",
+    "rarity": "Covert",
+    "paint_index": "98"
   },
   {
     "id": "skin-33227144",
@@ -2307,7 +2635,9 @@
     "price": 630.67,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Karambit | Ultraviolet"
+    "item_name": "★ Karambit | Ultraviolet",
+    "rarity": "Covert",
+    "paint_index": "98"
   },
   {
     "id": "skin-33227144",
@@ -2321,7 +2651,9 @@
     "price": 0,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Karambit | Ultraviolet"
+    "item_name": "★ Karambit | Ultraviolet",
+    "rarity": "Covert",
+    "paint_index": "98"
   },
   {
     "id": "skin-33227144",
@@ -2335,7 +2667,9 @@
     "price": 629.43,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Karambit | Ultraviolet"
+    "item_name": "★ Karambit | Ultraviolet",
+    "rarity": "Covert",
+    "paint_index": "98"
   },
   {
     "id": "skin-33227144",
@@ -2349,7 +2683,9 @@
     "price": 418.25,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Karambit | Ultraviolet"
+    "item_name": "★ Karambit | Ultraviolet",
+    "rarity": "Covert",
+    "paint_index": "98"
   },
   {
     "id": "skin-33228408",
@@ -2363,7 +2699,9 @@
     "price": 383.97,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Karambit | Rust Coat"
+    "item_name": "★ Karambit | Rust Coat",
+    "rarity": "Covert",
+    "paint_index": "414"
   },
   {
     "id": "skin-33228408",
@@ -2377,7 +2715,9 @@
     "price": 405.91,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Karambit | Rust Coat"
+    "item_name": "★ Karambit | Rust Coat",
+    "rarity": "Covert",
+    "paint_index": "414"
   },
   {
     "id": "skin-33228408",
@@ -2391,7 +2731,9 @@
     "price": 562.24,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Karambit | Rust Coat"
+    "item_name": "★ Karambit | Rust Coat",
+    "rarity": "Covert",
+    "paint_index": "414"
   },
   {
     "id": "skin-33228408",
@@ -2405,7 +2747,9 @@
     "price": 452.53,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Karambit | Rust Coat"
+    "item_name": "★ Karambit | Rust Coat",
+    "rarity": "Covert",
+    "paint_index": "414"
   },
   {
     "id": "skin-33229064",
@@ -2419,7 +2763,9 @@
     "price": 644.38,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Karambit | Bright Water"
+    "item_name": "★ Karambit | Bright Water",
+    "rarity": "Covert",
+    "paint_index": "578"
   },
   {
     "id": "skin-33229064",
@@ -2433,7 +2779,9 @@
     "price": 473.1,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Karambit | Bright Water"
+    "item_name": "★ Karambit | Bright Water",
+    "rarity": "Covert",
+    "paint_index": "578"
   },
   {
     "id": "skin-33229064",
@@ -2447,7 +2795,9 @@
     "price": 409.88,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Karambit | Bright Water"
+    "item_name": "★ Karambit | Bright Water",
+    "rarity": "Covert",
+    "paint_index": "578"
   },
   {
     "id": "skin-33229064",
@@ -2461,7 +2811,9 @@
     "price": 471.59,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Karambit | Bright Water"
+    "item_name": "★ Karambit | Bright Water",
+    "rarity": "Covert",
+    "paint_index": "578"
   },
   {
     "id": "skin-33229064",
@@ -2475,7 +2827,9 @@
     "price": 492.3,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Karambit | Bright Water"
+    "item_name": "★ Karambit | Bright Water",
+    "rarity": "Covert",
+    "paint_index": "578"
   },
   {
     "id": "skin-33229064",
@@ -2489,7 +2843,9 @@
     "price": 566.2,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Karambit | Bright Water"
+    "item_name": "★ Karambit | Bright Water",
+    "rarity": "Covert",
+    "paint_index": "578"
   },
   {
     "id": "skin-33229064",
@@ -2503,7 +2859,9 @@
     "price": 434.02,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Karambit | Bright Water"
+    "item_name": "★ Karambit | Bright Water",
+    "rarity": "Covert",
+    "paint_index": "578"
   },
   {
     "id": "skin-33229064",
@@ -2517,7 +2875,9 @@
     "price": 596.38,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Karambit | Bright Water"
+    "item_name": "★ Karambit | Bright Water",
+    "rarity": "Covert",
+    "paint_index": "578"
   },
   {
     "id": "skin-33229064",
@@ -2531,7 +2891,9 @@
     "price": 445.68,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Karambit | Bright Water"
+    "item_name": "★ Karambit | Bright Water",
+    "rarity": "Covert",
+    "paint_index": "578"
   },
   {
     "id": "skin-33229064",
@@ -2545,7 +2907,9 @@
     "price": 534.13,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Karambit | Bright Water"
+    "item_name": "★ Karambit | Bright Water",
+    "rarity": "Covert",
+    "paint_index": "578"
   },
   {
     "id": "skin-33226988",
@@ -2559,7 +2923,9 @@
     "price": 726.79,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Karambit | Slaughter"
+    "item_name": "★ Karambit | Slaughter",
+    "rarity": "Covert",
+    "paint_index": "59"
   },
   {
     "id": "skin-33226988",
@@ -2573,7 +2939,9 @@
     "price": 1049.05,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Karambit | Slaughter"
+    "item_name": "★ Karambit | Slaughter",
+    "rarity": "Covert",
+    "paint_index": "59"
   },
   {
     "id": "skin-33226988",
@@ -2587,7 +2955,9 @@
     "price": 754.15,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Karambit | Slaughter"
+    "item_name": "★ Karambit | Slaughter",
+    "rarity": "Covert",
+    "paint_index": "59"
   },
   {
     "id": "skin-33226988",
@@ -2601,7 +2971,9 @@
     "price": 1124.47,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Karambit | Slaughter"
+    "item_name": "★ Karambit | Slaughter",
+    "rarity": "Covert",
+    "paint_index": "59"
   },
   {
     "id": "skin-33226988",
@@ -2615,7 +2987,9 @@
     "price": 813.19,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Karambit | Slaughter"
+    "item_name": "★ Karambit | Slaughter",
+    "rarity": "Covert",
+    "paint_index": "59"
   },
   {
     "id": "skin-33226988",
@@ -2629,7 +3003,9 @@
     "price": 822.79,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Karambit | Slaughter"
+    "item_name": "★ Karambit | Slaughter",
+    "rarity": "Covert",
+    "paint_index": "59"
   },
   {
     "id": "skin-33228436",
@@ -2643,7 +3019,9 @@
     "price": 1076.48,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Karambit | Doppler"
+    "item_name": "★ Karambit | Doppler",
+    "rarity": "Covert",
+    "paint_index": "421"
   },
   {
     "id": "skin-33228436",
@@ -2657,7 +3035,9 @@
     "price": 1087.31,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Karambit | Doppler"
+    "item_name": "★ Karambit | Doppler",
+    "rarity": "Covert",
+    "paint_index": "421"
   },
   {
     "id": "skin-33228436",
@@ -2671,7 +3051,9 @@
     "price": 1097.05,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Karambit | Doppler"
+    "item_name": "★ Karambit | Doppler",
+    "rarity": "Covert",
+    "paint_index": "421"
   },
   {
     "id": "skin-33228436",
@@ -2685,7 +3067,9 @@
     "price": 1062.7,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Karambit | Doppler"
+    "item_name": "★ Karambit | Doppler",
+    "rarity": "Covert",
+    "paint_index": "421"
   },
   {
     "id": "skin-33228404",
@@ -2699,7 +3083,9 @@
     "price": 1196.19,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Karambit | Marble Fade"
+    "item_name": "★ Karambit | Marble Fade",
+    "rarity": "Covert",
+    "paint_index": "413"
   },
   {
     "id": "skin-33228404",
@@ -2713,7 +3099,9 @@
     "price": 1570.15,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Karambit | Marble Fade"
+    "item_name": "★ Karambit | Marble Fade",
+    "rarity": "Covert",
+    "paint_index": "413"
   },
   {
     "id": "skin-33228404",
@@ -2727,7 +3115,9 @@
     "price": 1179.33,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Karambit | Marble Fade"
+    "item_name": "★ Karambit | Marble Fade",
+    "rarity": "Covert",
+    "paint_index": "413"
   },
   {
     "id": "skin-33228404",
@@ -2741,7 +3131,9 @@
     "price": 1199.9,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Karambit | Marble Fade"
+    "item_name": "★ Karambit | Marble Fade",
+    "rarity": "Covert",
+    "paint_index": "413"
   },
   {
     "id": "skin-33226904",
@@ -2755,7 +3147,9 @@
     "price": 2139.24,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Karambit | Fade"
+    "item_name": "★ Karambit | Fade",
+    "rarity": "Covert",
+    "paint_index": "38"
   },
   {
     "id": "skin-33226904",
@@ -2769,7 +3163,9 @@
     "price": 2056.9,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Karambit | Fade"
+    "item_name": "★ Karambit | Fade",
+    "rarity": "Covert",
+    "paint_index": "38"
   },
   {
     "id": "skin-33226904",
@@ -2783,7 +3179,9 @@
     "price": 2056.96,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Karambit | Fade"
+    "item_name": "★ Karambit | Fade",
+    "rarity": "Covert",
+    "paint_index": "38"
   },
   {
     "id": "skin-33226904",
@@ -2797,6 +3195,8 @@
     "price": 2674.05,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Karambit | Fade"
+    "item_name": "★ Karambit | Fade",
+    "rarity": "Covert",
+    "paint_index": "38"
   }
 ]

@@ -11,7 +11,9 @@
     "price": 0.82,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Cyrex"
+    "item_name": "USP-S | Cyrex",
+    "rarity": "Restricted",
+    "paint_index": "637"
   },
   {
     "id": "skin-4000244",
@@ -25,7 +27,9 @@
     "price": 0.88,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Cyrex"
+    "item_name": "USP-S | Cyrex",
+    "rarity": "Restricted",
+    "paint_index": "637"
   },
   {
     "id": "skin-4000244",
@@ -39,7 +43,9 @@
     "price": 1.36,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Cyrex"
+    "item_name": "USP-S | Cyrex",
+    "rarity": "Restricted",
+    "paint_index": "637"
   },
   {
     "id": "skin-4000244",
@@ -53,7 +59,9 @@
     "price": 10.68,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "USP-S | Cyrex"
+    "item_name": "USP-S | Cyrex",
+    "rarity": "Restricted",
+    "paint_index": "637"
   },
   {
     "id": "skin-4000244",
@@ -67,7 +75,9 @@
     "price": 2.62,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "USP-S | Cyrex"
+    "item_name": "USP-S | Cyrex",
+    "rarity": "Restricted",
+    "paint_index": "637"
   },
   {
     "id": "skin-4000244",
@@ -81,7 +91,9 @@
     "price": 2.75,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "USP-S | Cyrex"
+    "item_name": "USP-S | Cyrex",
+    "rarity": "Restricted",
+    "paint_index": "637"
   },
   {
     "id": "skin-4000244",
@@ -95,7 +107,9 @@
     "price": 4.84,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "USP-S | Cyrex"
+    "item_name": "USP-S | Cyrex",
+    "rarity": "Restricted",
+    "paint_index": "637"
   },
   {
     "id": "skin-4000244",
@@ -109,7 +123,9 @@
     "price": 5.17,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "USP-S | Cyrex"
+    "item_name": "USP-S | Cyrex",
+    "rarity": "Restricted",
+    "paint_index": "637"
   },
   {
     "id": "skin-4000244",
@@ -123,7 +139,9 @@
     "price": 1.24,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Cyrex"
+    "item_name": "USP-S | Cyrex",
+    "rarity": "Restricted",
+    "paint_index": "637"
   },
   {
     "id": "skin-4000244",
@@ -137,7 +155,9 @@
     "price": 2.52,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Cyrex"
+    "item_name": "USP-S | Cyrex",
+    "rarity": "Restricted",
+    "paint_index": "637"
   },
   {
     "id": "skin-4002104",
@@ -151,7 +171,9 @@
     "price": 0.63,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Black Lotus"
+    "item_name": "USP-S | Black Lotus",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1102"
   },
   {
     "id": "skin-4002104",
@@ -165,7 +187,9 @@
     "price": 4.73,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "USP-S | Black Lotus"
+    "item_name": "USP-S | Black Lotus",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1102"
   },
   {
     "id": "skin-4002104",
@@ -179,7 +203,9 @@
     "price": 1.95,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "USP-S | Black Lotus"
+    "item_name": "USP-S | Black Lotus",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1102"
   },
   {
     "id": "skin-4002104",
@@ -193,7 +219,9 @@
     "price": 2.06,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "USP-S | Black Lotus"
+    "item_name": "USP-S | Black Lotus",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1102"
   },
   {
     "id": "skin-4002104",
@@ -207,7 +235,9 @@
     "price": 4.5,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Black Lotus"
+    "item_name": "USP-S | Black Lotus",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1102"
   },
   {
     "id": "skin-4002104",
@@ -221,7 +251,9 @@
     "price": 26.04,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "USP-S | Black Lotus"
+    "item_name": "USP-S | Black Lotus",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1102"
   },
   {
     "id": "skin-4002104",
@@ -235,7 +267,9 @@
     "price": 2.1,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "USP-S | Black Lotus"
+    "item_name": "USP-S | Black Lotus",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1102"
   },
   {
     "id": "skin-4002104",
@@ -249,7 +283,9 @@
     "price": 0.53,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Black Lotus"
+    "item_name": "USP-S | Black Lotus",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1102"
   },
   {
     "id": "skin-4002104",
@@ -263,7 +299,9 @@
     "price": 0.54,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Black Lotus"
+    "item_name": "USP-S | Black Lotus",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1102"
   },
   {
     "id": "skin-4002104",
@@ -277,7 +315,9 @@
     "price": 1.19,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Black Lotus"
+    "item_name": "USP-S | Black Lotus",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1102"
   },
   {
     "id": "skin-3999152",
@@ -291,7 +331,9 @@
     "price": 27.15,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Business Class"
+    "item_name": "USP-S | Business Class",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "364"
   },
   {
     "id": "skin-3999152",
@@ -305,7 +347,9 @@
     "price": 27.43,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Business Class"
+    "item_name": "USP-S | Business Class",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "364"
   },
   {
     "id": "skin-3999152",
@@ -319,7 +363,9 @@
     "price": 41.69,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Business Class"
+    "item_name": "USP-S | Business Class",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "364"
   },
   {
     "id": "skin-3999152",
@@ -333,7 +379,9 @@
     "price": 28.8,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Business Class"
+    "item_name": "USP-S | Business Class",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "364"
   },
   {
     "id": "skin-3999152",
@@ -347,7 +395,9 @@
     "price": 24.27,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Business Class"
+    "item_name": "USP-S | Business Class",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "364"
   },
   {
     "id": "skin-4002240",
@@ -361,7 +411,9 @@
     "price": 7.53,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "USP-S | Ticket to Hell"
+    "item_name": "USP-S | Ticket to Hell",
+    "rarity": "Restricted",
+    "paint_index": "1136"
   },
   {
     "id": "skin-4002240",
@@ -375,7 +427,9 @@
     "price": 2.69,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "USP-S | Ticket to Hell"
+    "item_name": "USP-S | Ticket to Hell",
+    "rarity": "Restricted",
+    "paint_index": "1136"
   },
   {
     "id": "skin-4002240",
@@ -389,7 +443,9 @@
     "price": 1.45,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Ticket to Hell"
+    "item_name": "USP-S | Ticket to Hell",
+    "rarity": "Restricted",
+    "paint_index": "1136"
   },
   {
     "id": "skin-4002240",
@@ -403,7 +459,9 @@
     "price": 1.19,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "USP-S | Ticket to Hell"
+    "item_name": "USP-S | Ticket to Hell",
+    "rarity": "Restricted",
+    "paint_index": "1136"
   },
   {
     "id": "skin-4002240",
@@ -417,7 +475,9 @@
     "price": 0.65,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Ticket to Hell"
+    "item_name": "USP-S | Ticket to Hell",
+    "rarity": "Restricted",
+    "paint_index": "1136"
   },
   {
     "id": "skin-4002240",
@@ -431,7 +491,9 @@
     "price": 0.29,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Ticket to Hell"
+    "item_name": "USP-S | Ticket to Hell",
+    "rarity": "Restricted",
+    "paint_index": "1136"
   },
   {
     "id": "skin-4002240",
@@ -445,7 +507,9 @@
     "price": 0.91,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "USP-S | Ticket to Hell"
+    "item_name": "USP-S | Ticket to Hell",
+    "rarity": "Restricted",
+    "paint_index": "1136"
   },
   {
     "id": "skin-4002240",
@@ -459,7 +523,9 @@
     "price": 1.93,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "USP-S | Ticket to Hell"
+    "item_name": "USP-S | Ticket to Hell",
+    "rarity": "Restricted",
+    "paint_index": "1136"
   },
   {
     "id": "skin-4002240",
@@ -473,7 +539,9 @@
     "price": 0.44,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Ticket to Hell"
+    "item_name": "USP-S | Ticket to Hell",
+    "rarity": "Restricted",
+    "paint_index": "1136"
   },
   {
     "id": "skin-4002240",
@@ -487,7 +555,9 @@
     "price": 0.18,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Ticket to Hell"
+    "item_name": "USP-S | Ticket to Hell",
+    "rarity": "Restricted",
+    "paint_index": "1136"
   },
   {
     "id": "skin-3998428",
@@ -501,7 +571,9 @@
     "price": 35.11,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "USP-S | Overgrowth"
+    "item_name": "USP-S | Overgrowth",
+    "rarity": "Restricted",
+    "paint_index": "183"
   },
   {
     "id": "skin-3998428",
@@ -515,7 +587,9 @@
     "price": 35.86,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "USP-S | Overgrowth"
+    "item_name": "USP-S | Overgrowth",
+    "rarity": "Restricted",
+    "paint_index": "183"
   },
   {
     "id": "skin-3998428",
@@ -529,7 +603,9 @@
     "price": 20.5,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Overgrowth"
+    "item_name": "USP-S | Overgrowth",
+    "rarity": "Restricted",
+    "paint_index": "183"
   },
   {
     "id": "skin-3998428",
@@ -543,7 +619,9 @@
     "price": 17.76,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Overgrowth"
+    "item_name": "USP-S | Overgrowth",
+    "rarity": "Restricted",
+    "paint_index": "183"
   },
   {
     "id": "skin-3998428",
@@ -557,7 +635,9 @@
     "price": 46.56,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "USP-S | Overgrowth"
+    "item_name": "USP-S | Overgrowth",
+    "rarity": "Restricted",
+    "paint_index": "183"
   },
   {
     "id": "skin-3998428",
@@ -571,7 +651,9 @@
     "price": 33.6,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "USP-S | Overgrowth"
+    "item_name": "USP-S | Overgrowth",
+    "rarity": "Restricted",
+    "paint_index": "183"
   },
   {
     "id": "skin-3998428",
@@ -585,7 +667,9 @@
     "price": 18.44,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Overgrowth"
+    "item_name": "USP-S | Overgrowth",
+    "rarity": "Restricted",
+    "paint_index": "183"
   },
   {
     "id": "skin-3998428",
@@ -599,7 +683,9 @@
     "price": 71.03,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Overgrowth"
+    "item_name": "USP-S | Overgrowth",
+    "rarity": "Restricted",
+    "paint_index": "183"
   },
   {
     "id": "skin-3998428",
@@ -613,7 +699,9 @@
     "price": 219.41,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "USP-S | Overgrowth"
+    "item_name": "USP-S | Overgrowth",
+    "rarity": "Restricted",
+    "paint_index": "183"
   },
   {
     "id": "skin-3998428",
@@ -627,7 +715,9 @@
     "price": 17.54,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Overgrowth"
+    "item_name": "USP-S | Overgrowth",
+    "rarity": "Restricted",
+    "paint_index": "183"
   },
   {
     "id": "skin-4000964",
@@ -641,7 +731,9 @@
     "price": 2.02,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "USP-S | Flashback"
+    "item_name": "USP-S | Flashback",
+    "rarity": "Restricted",
+    "paint_index": "817"
   },
   {
     "id": "skin-4000964",
@@ -655,7 +747,9 @@
     "price": 0.44,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Flashback"
+    "item_name": "USP-S | Flashback",
+    "rarity": "Restricted",
+    "paint_index": "817"
   },
   {
     "id": "skin-4000964",
@@ -669,7 +763,9 @@
     "price": 1.04,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "USP-S | Flashback"
+    "item_name": "USP-S | Flashback",
+    "rarity": "Restricted",
+    "paint_index": "817"
   },
   {
     "id": "skin-4000964",
@@ -683,7 +779,9 @@
     "price": 0.51,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Flashback"
+    "item_name": "USP-S | Flashback",
+    "rarity": "Restricted",
+    "paint_index": "817"
   },
   {
     "id": "skin-4000964",
@@ -697,7 +795,9 @@
     "price": 1.52,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "USP-S | Flashback"
+    "item_name": "USP-S | Flashback",
+    "rarity": "Restricted",
+    "paint_index": "817"
   },
   {
     "id": "skin-4000964",
@@ -711,7 +811,9 @@
     "price": 2.66,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "USP-S | Flashback"
+    "item_name": "USP-S | Flashback",
+    "rarity": "Restricted",
+    "paint_index": "817"
   },
   {
     "id": "skin-4000964",
@@ -725,7 +827,9 @@
     "price": 0.89,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Flashback"
+    "item_name": "USP-S | Flashback",
+    "rarity": "Restricted",
+    "paint_index": "817"
   },
   {
     "id": "skin-4000964",
@@ -739,7 +843,9 @@
     "price": 0.42,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Flashback"
+    "item_name": "USP-S | Flashback",
+    "rarity": "Restricted",
+    "paint_index": "817"
   },
   {
     "id": "skin-4000964",
@@ -753,7 +859,9 @@
     "price": 2.03,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "USP-S | Flashback"
+    "item_name": "USP-S | Flashback",
+    "rarity": "Restricted",
+    "paint_index": "817"
   },
   {
     "id": "skin-4000964",
@@ -767,7 +875,9 @@
     "price": 0.37,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Flashback"
+    "item_name": "USP-S | Flashback",
+    "rarity": "Restricted",
+    "paint_index": "817"
   },
   {
     "id": "skin-4001660",
@@ -781,7 +891,9 @@
     "price": 30.57,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Monster Mashup"
+    "item_name": "USP-S | Monster Mashup",
+    "rarity": "Classified",
+    "paint_index": "991"
   },
   {
     "id": "skin-4001660",
@@ -795,7 +907,9 @@
     "price": 18.65,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Monster Mashup"
+    "item_name": "USP-S | Monster Mashup",
+    "rarity": "Classified",
+    "paint_index": "991"
   },
   {
     "id": "skin-4001660",
@@ -809,7 +923,9 @@
     "price": 70.35,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "USP-S | Monster Mashup"
+    "item_name": "USP-S | Monster Mashup",
+    "rarity": "Classified",
+    "paint_index": "991"
   },
   {
     "id": "skin-4001660",
@@ -823,7 +939,9 @@
     "price": 11.31,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Monster Mashup"
+    "item_name": "USP-S | Monster Mashup",
+    "rarity": "Classified",
+    "paint_index": "991"
   },
   {
     "id": "skin-4001660",
@@ -837,7 +955,9 @@
     "price": 12.32,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Monster Mashup"
+    "item_name": "USP-S | Monster Mashup",
+    "rarity": "Classified",
+    "paint_index": "991"
   },
   {
     "id": "skin-4001660",
@@ -851,7 +971,9 @@
     "price": 17.89,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "USP-S | Monster Mashup"
+    "item_name": "USP-S | Monster Mashup",
+    "rarity": "Classified",
+    "paint_index": "991"
   },
   {
     "id": "skin-4001660",
@@ -865,7 +987,9 @@
     "price": 12.29,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Monster Mashup"
+    "item_name": "USP-S | Monster Mashup",
+    "rarity": "Classified",
+    "paint_index": "991"
   },
   {
     "id": "skin-4001660",
@@ -879,7 +1003,9 @@
     "price": 38.93,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "USP-S | Monster Mashup"
+    "item_name": "USP-S | Monster Mashup",
+    "rarity": "Classified",
+    "paint_index": "991"
   },
   {
     "id": "skin-4001660",
@@ -893,7 +1019,9 @@
     "price": 19.97,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "USP-S | Monster Mashup"
+    "item_name": "USP-S | Monster Mashup",
+    "rarity": "Classified",
+    "paint_index": "991"
   },
   {
     "id": "skin-4001660",
@@ -907,7 +1035,9 @@
     "price": 18.16,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "USP-S | Monster Mashup"
+    "item_name": "USP-S | Monster Mashup",
+    "rarity": "Classified",
+    "paint_index": "991"
   },
   {
     "id": "skin-3999856",
@@ -921,7 +1051,9 @@
     "price": 1.36,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "USP-S | Lead Conduit"
+    "item_name": "USP-S | Lead Conduit",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "540"
   },
   {
     "id": "skin-3999856",
@@ -935,7 +1067,9 @@
     "price": 1.51,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "USP-S | Lead Conduit"
+    "item_name": "USP-S | Lead Conduit",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "540"
   },
   {
     "id": "skin-3999856",
@@ -949,7 +1083,9 @@
     "price": 0.38,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Lead Conduit"
+    "item_name": "USP-S | Lead Conduit",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "540"
   },
   {
     "id": "skin-3999856",
@@ -963,7 +1099,9 @@
     "price": 0.58,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Lead Conduit"
+    "item_name": "USP-S | Lead Conduit",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "540"
   },
   {
     "id": "skin-3999856",
@@ -977,7 +1115,9 @@
     "price": 0.4,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Lead Conduit"
+    "item_name": "USP-S | Lead Conduit",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "540"
   },
   {
     "id": "skin-3999856",
@@ -991,7 +1131,9 @@
     "price": 2.33,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "USP-S | Lead Conduit"
+    "item_name": "USP-S | Lead Conduit",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "540"
   },
   {
     "id": "skin-3999856",
@@ -1005,7 +1147,9 @@
     "price": 12.33,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "USP-S | Lead Conduit"
+    "item_name": "USP-S | Lead Conduit",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "540"
   },
   {
     "id": "skin-3999856",
@@ -1019,7 +1163,9 @@
     "price": 0.48,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Lead Conduit"
+    "item_name": "USP-S | Lead Conduit",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "540"
   },
   {
     "id": "skin-3999856",
@@ -1033,7 +1179,9 @@
     "price": 1.34,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "USP-S | Lead Conduit"
+    "item_name": "USP-S | Lead Conduit",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "540"
   },
   {
     "id": "skin-3999856",
@@ -1047,7 +1195,9 @@
     "price": 2.22,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Lead Conduit"
+    "item_name": "USP-S | Lead Conduit",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "540"
   },
   {
     "id": "skin-4000880",
@@ -1061,7 +1211,9 @@
     "price": 0.45,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Check Engine"
+    "item_name": "USP-S | Check Engine",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "796"
   },
   {
     "id": "skin-4000880",
@@ -1075,7 +1227,9 @@
     "price": 0.63,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Check Engine"
+    "item_name": "USP-S | Check Engine",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "796"
   },
   {
     "id": "skin-4000880",
@@ -1089,7 +1243,9 @@
     "price": 0.58,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Check Engine"
+    "item_name": "USP-S | Check Engine",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "796"
   },
   {
     "id": "skin-4000880",
@@ -1103,7 +1259,9 @@
     "price": 1.3,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Check Engine"
+    "item_name": "USP-S | Check Engine",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "796"
   },
   {
     "id": "skin-4000880",
@@ -1117,7 +1275,9 @@
     "price": 0.82,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Check Engine"
+    "item_name": "USP-S | Check Engine",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "796"
   },
   {
     "id": "skin-3999712",
@@ -1131,7 +1291,9 @@
     "price": 56.29,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Kill Confirmed"
+    "item_name": "USP-S | Kill Confirmed",
+    "rarity": "Covert",
+    "paint_index": "504"
   },
   {
     "id": "skin-3999712",
@@ -1145,7 +1307,9 @@
     "price": 32.91,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Kill Confirmed"
+    "item_name": "USP-S | Kill Confirmed",
+    "rarity": "Covert",
+    "paint_index": "504"
   },
   {
     "id": "skin-3999712",
@@ -1159,7 +1323,9 @@
     "price": 30.72,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Kill Confirmed"
+    "item_name": "USP-S | Kill Confirmed",
+    "rarity": "Covert",
+    "paint_index": "504"
   },
   {
     "id": "skin-3999712",
@@ -1173,7 +1339,9 @@
     "price": 127.53,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Kill Confirmed"
+    "item_name": "USP-S | Kill Confirmed",
+    "rarity": "Covert",
+    "paint_index": "504"
   },
   {
     "id": "skin-3999712",
@@ -1187,7 +1355,9 @@
     "price": 106.55,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "USP-S | Kill Confirmed"
+    "item_name": "USP-S | Kill Confirmed",
+    "rarity": "Covert",
+    "paint_index": "504"
   },
   {
     "id": "skin-3999712",
@@ -1201,7 +1371,9 @@
     "price": 438.75,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "USP-S | Kill Confirmed"
+    "item_name": "USP-S | Kill Confirmed",
+    "rarity": "Covert",
+    "paint_index": "504"
   },
   {
     "id": "skin-3999712",
@@ -1215,7 +1387,9 @@
     "price": 74.05,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "USP-S | Kill Confirmed"
+    "item_name": "USP-S | Kill Confirmed",
+    "rarity": "Covert",
+    "paint_index": "504"
   },
   {
     "id": "skin-3999712",
@@ -1229,7 +1403,9 @@
     "price": 179.36,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "USP-S | Kill Confirmed"
+    "item_name": "USP-S | Kill Confirmed",
+    "rarity": "Covert",
+    "paint_index": "504"
   },
   {
     "id": "skin-3999712",
@@ -1243,7 +1419,9 @@
     "price": 29.88,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Kill Confirmed"
+    "item_name": "USP-S | Kill Confirmed",
+    "rarity": "Covert",
+    "paint_index": "504"
   },
   {
     "id": "skin-3999712",
@@ -1257,7 +1435,9 @@
     "price": 85.02,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "USP-S | Kill Confirmed"
+    "item_name": "USP-S | Kill Confirmed",
+    "rarity": "Covert",
+    "paint_index": "504"
   },
   {
     "id": "skin-4001804",
@@ -1271,7 +1451,9 @@
     "price": 158.32,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Target Acquired"
+    "item_name": "USP-S | Target Acquired",
+    "rarity": "Classified",
+    "paint_index": "1027"
   },
   {
     "id": "skin-4001804",
@@ -1285,7 +1467,9 @@
     "price": 128.9,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Target Acquired"
+    "item_name": "USP-S | Target Acquired",
+    "rarity": "Classified",
+    "paint_index": "1027"
   },
   {
     "id": "skin-4001804",
@@ -1299,7 +1483,9 @@
     "price": 162.91,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Target Acquired"
+    "item_name": "USP-S | Target Acquired",
+    "rarity": "Classified",
+    "paint_index": "1027"
   },
   {
     "id": "skin-4001804",
@@ -1313,7 +1499,9 @@
     "price": 132.74,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Target Acquired"
+    "item_name": "USP-S | Target Acquired",
+    "rarity": "Classified",
+    "paint_index": "1027"
   },
   {
     "id": "skin-4001804",
@@ -1327,7 +1515,9 @@
     "price": 127.05,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Target Acquired"
+    "item_name": "USP-S | Target Acquired",
+    "rarity": "Classified",
+    "paint_index": "1027"
   },
   {
     "id": "skin-4001856",
@@ -1341,7 +1531,9 @@
     "price": 40.92,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | The Traitor"
+    "item_name": "USP-S | The Traitor",
+    "rarity": "Covert",
+    "paint_index": "1040"
   },
   {
     "id": "skin-4001856",
@@ -1355,7 +1547,9 @@
     "price": 24.34,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "USP-S | The Traitor"
+    "item_name": "USP-S | The Traitor",
+    "rarity": "Covert",
+    "paint_index": "1040"
   },
   {
     "id": "skin-4001856",
@@ -1369,7 +1563,9 @@
     "price": 13.55,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | The Traitor"
+    "item_name": "USP-S | The Traitor",
+    "rarity": "Covert",
+    "paint_index": "1040"
   },
   {
     "id": "skin-4001856",
@@ -1383,7 +1579,9 @@
     "price": 148.65,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "USP-S | The Traitor"
+    "item_name": "USP-S | The Traitor",
+    "rarity": "Covert",
+    "paint_index": "1040"
   },
   {
     "id": "skin-4001856",
@@ -1397,7 +1595,9 @@
     "price": 8.24,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | The Traitor"
+    "item_name": "USP-S | The Traitor",
+    "rarity": "Covert",
+    "paint_index": "1040"
   },
   {
     "id": "skin-4001856",
@@ -1411,7 +1611,9 @@
     "price": 19.02,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "USP-S | The Traitor"
+    "item_name": "USP-S | The Traitor",
+    "rarity": "Covert",
+    "paint_index": "1040"
   },
   {
     "id": "skin-4001856",
@@ -1425,7 +1627,9 @@
     "price": 42.85,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "USP-S | The Traitor"
+    "item_name": "USP-S | The Traitor",
+    "rarity": "Covert",
+    "paint_index": "1040"
   },
   {
     "id": "skin-4001856",
@@ -1439,7 +1643,9 @@
     "price": 6.65,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | The Traitor"
+    "item_name": "USP-S | The Traitor",
+    "rarity": "Covert",
+    "paint_index": "1040"
   },
   {
     "id": "skin-4001856",
@@ -1453,7 +1659,9 @@
     "price": 19.61,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "USP-S | The Traitor"
+    "item_name": "USP-S | The Traitor",
+    "rarity": "Covert",
+    "paint_index": "1040"
   },
   {
     "id": "skin-4001856",
@@ -1467,7 +1675,9 @@
     "price": 6.66,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | The Traitor"
+    "item_name": "USP-S | The Traitor",
+    "rarity": "Covert",
+    "paint_index": "1040"
   },
   {
     "id": "skin-3999024",
@@ -1481,7 +1691,9 @@
     "price": 8.88,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Royal Blue"
+    "item_name": "USP-S | Royal Blue",
+    "rarity": "Industrial Grade",
+    "paint_index": "332"
   },
   {
     "id": "skin-3999024",
@@ -1495,7 +1707,9 @@
     "price": 8.81,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Royal Blue"
+    "item_name": "USP-S | Royal Blue",
+    "rarity": "Industrial Grade",
+    "paint_index": "332"
   },
   {
     "id": "skin-3999024",
@@ -1509,7 +1723,9 @@
     "price": 9.04,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Royal Blue"
+    "item_name": "USP-S | Royal Blue",
+    "rarity": "Industrial Grade",
+    "paint_index": "332"
   },
   {
     "id": "skin-3999024",
@@ -1523,7 +1739,9 @@
     "price": 9,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Royal Blue"
+    "item_name": "USP-S | Royal Blue",
+    "rarity": "Industrial Grade",
+    "paint_index": "332"
   },
   {
     "id": "skin-3999024",
@@ -1537,7 +1755,9 @@
     "price": 48.12,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Royal Blue"
+    "item_name": "USP-S | Royal Blue",
+    "rarity": "Industrial Grade",
+    "paint_index": "332"
   },
   {
     "id": "skin-3998948",
@@ -1551,7 +1771,9 @@
     "price": 82,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "USP-S | Orion"
+    "item_name": "USP-S | Orion",
+    "rarity": "Classified",
+    "paint_index": "313"
   },
   {
     "id": "skin-3998948",
@@ -1565,7 +1787,9 @@
     "price": 38.53,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Orion"
+    "item_name": "USP-S | Orion",
+    "rarity": "Classified",
+    "paint_index": "313"
   },
   {
     "id": "skin-3998948",
@@ -1579,7 +1803,9 @@
     "price": 100.79,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "USP-S | Orion"
+    "item_name": "USP-S | Orion",
+    "rarity": "Classified",
+    "paint_index": "313"
   },
   {
     "id": "skin-3998948",
@@ -1593,7 +1819,9 @@
     "price": 100.46,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "USP-S | Orion"
+    "item_name": "USP-S | Orion",
+    "rarity": "Classified",
+    "paint_index": "313"
   },
   {
     "id": "skin-3998948",
@@ -1607,7 +1835,9 @@
     "price": 43.95,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Orion"
+    "item_name": "USP-S | Orion",
+    "rarity": "Classified",
+    "paint_index": "313"
   },
   {
     "id": "skin-3998948",
@@ -1621,7 +1851,9 @@
     "price": 79.47,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "USP-S | Orion"
+    "item_name": "USP-S | Orion",
+    "rarity": "Classified",
+    "paint_index": "313"
   },
   {
     "id": "skin-3998948",
@@ -1635,7 +1867,9 @@
     "price": 38.4,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Orion"
+    "item_name": "USP-S | Orion",
+    "rarity": "Classified",
+    "paint_index": "313"
   },
   {
     "id": "skin-3998948",
@@ -1649,7 +1883,9 @@
     "price": 75.42,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Orion"
+    "item_name": "USP-S | Orion",
+    "rarity": "Classified",
+    "paint_index": "313"
   },
   {
     "id": "skin-3998948",
@@ -1663,7 +1899,9 @@
     "price": 548.52,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "USP-S | Orion"
+    "item_name": "USP-S | Orion",
+    "rarity": "Classified",
+    "paint_index": "313"
   },
   {
     "id": "skin-3998948",
@@ -1677,7 +1915,9 @@
     "price": 49.16,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Orion"
+    "item_name": "USP-S | Orion",
+    "rarity": "Classified",
+    "paint_index": "313"
   },
   {
     "id": "skin-3999652",
@@ -1691,7 +1931,9 @@
     "price": 1.49,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Torque"
+    "item_name": "USP-S | Torque",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "489"
   },
   {
     "id": "skin-3999652",
@@ -1705,7 +1947,9 @@
     "price": 0.82,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Torque"
+    "item_name": "USP-S | Torque",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "489"
   },
   {
     "id": "skin-3999652",
@@ -1719,7 +1963,9 @@
     "price": 2.43,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "USP-S | Torque"
+    "item_name": "USP-S | Torque",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "489"
   },
   {
     "id": "skin-3999652",
@@ -1733,7 +1979,9 @@
     "price": 1.47,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "USP-S | Torque"
+    "item_name": "USP-S | Torque",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "489"
   },
   {
     "id": "skin-3999652",
@@ -1747,7 +1995,9 @@
     "price": 1.14,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Torque"
+    "item_name": "USP-S | Torque",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "489"
   },
   {
     "id": "skin-3999652",
@@ -1761,7 +2011,9 @@
     "price": 2.31,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "USP-S | Torque"
+    "item_name": "USP-S | Torque",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "489"
   },
   {
     "id": "skin-3999652",
@@ -1775,7 +2027,9 @@
     "price": 2.44,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "USP-S | Torque"
+    "item_name": "USP-S | Torque",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "489"
   },
   {
     "id": "skin-3999652",
@@ -1789,7 +2043,9 @@
     "price": 0.59,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Torque"
+    "item_name": "USP-S | Torque",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "489"
   },
   {
     "id": "skin-3999652",
@@ -1803,7 +2059,9 @@
     "price": 0.48,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Torque"
+    "item_name": "USP-S | Torque",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "489"
   },
   {
     "id": "skin-3999652",
@@ -1817,7 +2075,9 @@
     "price": 3.29,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "USP-S | Torque"
+    "item_name": "USP-S | Torque",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "489"
   },
   {
     "id": "skin-4002708",
@@ -1831,7 +2091,9 @@
     "price": 0.63,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Desert Tactical"
+    "item_name": "USP-S | Desert Tactical",
+    "rarity": "Industrial Grade",
+    "paint_index": "1253"
   },
   {
     "id": "skin-4002708",
@@ -1845,7 +2107,9 @@
     "price": 0.24,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Desert Tactical"
+    "item_name": "USP-S | Desert Tactical",
+    "rarity": "Industrial Grade",
+    "paint_index": "1253"
   },
   {
     "id": "skin-4002708",
@@ -1859,7 +2123,9 @@
     "price": 0.12,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Desert Tactical"
+    "item_name": "USP-S | Desert Tactical",
+    "rarity": "Industrial Grade",
+    "paint_index": "1253"
   },
   {
     "id": "skin-4002708",
@@ -1873,7 +2139,9 @@
     "price": 0.12,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Desert Tactical"
+    "item_name": "USP-S | Desert Tactical",
+    "rarity": "Industrial Grade",
+    "paint_index": "1253"
   },
   {
     "id": "skin-4002708",
@@ -1887,7 +2155,9 @@
     "price": 0.14,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Desert Tactical"
+    "item_name": "USP-S | Desert Tactical",
+    "rarity": "Industrial Grade",
+    "paint_index": "1253"
   },
   {
     "id": "skin-4000516",
@@ -1901,7 +2171,9 @@
     "price": 25.37,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "USP-S | Cortex"
+    "item_name": "USP-S | Cortex",
+    "rarity": "Classified",
+    "paint_index": "705"
   },
   {
     "id": "skin-4000516",
@@ -1915,7 +2187,9 @@
     "price": 2.76,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Cortex"
+    "item_name": "USP-S | Cortex",
+    "rarity": "Classified",
+    "paint_index": "705"
   },
   {
     "id": "skin-4000516",
@@ -1929,7 +2203,9 @@
     "price": 3.96,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "USP-S | Cortex"
+    "item_name": "USP-S | Cortex",
+    "rarity": "Classified",
+    "paint_index": "705"
   },
   {
     "id": "skin-4000516",
@@ -1943,7 +2219,9 @@
     "price": 1.34,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Cortex"
+    "item_name": "USP-S | Cortex",
+    "rarity": "Classified",
+    "paint_index": "705"
   },
   {
     "id": "skin-4000516",
@@ -1957,7 +2235,9 @@
     "price": 7.94,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "USP-S | Cortex"
+    "item_name": "USP-S | Cortex",
+    "rarity": "Classified",
+    "paint_index": "705"
   },
   {
     "id": "skin-4000516",
@@ -1971,7 +2251,9 @@
     "price": 1.55,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Cortex"
+    "item_name": "USP-S | Cortex",
+    "rarity": "Classified",
+    "paint_index": "705"
   },
   {
     "id": "skin-4000516",
@@ -1985,7 +2267,9 @@
     "price": 3.37,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "USP-S | Cortex"
+    "item_name": "USP-S | Cortex",
+    "rarity": "Classified",
+    "paint_index": "705"
   },
   {
     "id": "skin-4000516",
@@ -1999,7 +2283,9 @@
     "price": 3.3,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "USP-S | Cortex"
+    "item_name": "USP-S | Cortex",
+    "rarity": "Classified",
+    "paint_index": "705"
   },
   {
     "id": "skin-4000516",
@@ -2013,7 +2299,9 @@
     "price": 8.1,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Cortex"
+    "item_name": "USP-S | Cortex",
+    "rarity": "Classified",
+    "paint_index": "705"
   },
   {
     "id": "skin-4000516",
@@ -2027,7 +2315,9 @@
     "price": 1.19,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Cortex"
+    "item_name": "USP-S | Cortex",
+    "rarity": "Classified",
+    "paint_index": "705"
   },
   {
     "id": "skin-3997796",
@@ -2041,7 +2331,9 @@
     "price": 0.93,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Forest Leaves"
+    "item_name": "USP-S | Forest Leaves",
+    "rarity": "Industrial Grade",
+    "paint_index": "25"
   },
   {
     "id": "skin-3997796",
@@ -2055,7 +2347,9 @@
     "price": 0.07,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Forest Leaves"
+    "item_name": "USP-S | Forest Leaves",
+    "rarity": "Industrial Grade",
+    "paint_index": "25"
   },
   {
     "id": "skin-3997796",
@@ -2069,7 +2363,9 @@
     "price": 0.1,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Forest Leaves"
+    "item_name": "USP-S | Forest Leaves",
+    "rarity": "Industrial Grade",
+    "paint_index": "25"
   },
   {
     "id": "skin-3997796",
@@ -2083,7 +2379,9 @@
     "price": 0.06,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Forest Leaves"
+    "item_name": "USP-S | Forest Leaves",
+    "rarity": "Industrial Grade",
+    "paint_index": "25"
   },
   {
     "id": "skin-3997796",
@@ -2097,7 +2395,9 @@
     "price": 0.06,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Forest Leaves"
+    "item_name": "USP-S | Forest Leaves",
+    "rarity": "Industrial Grade",
+    "paint_index": "25"
   },
   {
     "id": "skin-3999512",
@@ -2111,7 +2411,9 @@
     "price": 6.31,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Para Green"
+    "item_name": "USP-S | Para Green",
+    "rarity": "Industrial Grade",
+    "paint_index": "454"
   },
   {
     "id": "skin-3999512",
@@ -2125,7 +2427,9 @@
     "price": 11.23,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Para Green"
+    "item_name": "USP-S | Para Green",
+    "rarity": "Industrial Grade",
+    "paint_index": "454"
   },
   {
     "id": "skin-3999512",
@@ -2139,7 +2443,9 @@
     "price": 5.59,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Para Green"
+    "item_name": "USP-S | Para Green",
+    "rarity": "Industrial Grade",
+    "paint_index": "454"
   },
   {
     "id": "skin-3999512",
@@ -2153,7 +2459,9 @@
     "price": 5.52,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Para Green"
+    "item_name": "USP-S | Para Green",
+    "rarity": "Industrial Grade",
+    "paint_index": "454"
   },
   {
     "id": "skin-3999512",
@@ -2167,7 +2475,9 @@
     "price": 5.95,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Para Green"
+    "item_name": "USP-S | Para Green",
+    "rarity": "Industrial Grade",
+    "paint_index": "454"
   },
   {
     "id": "skin-4000308",
@@ -2181,7 +2491,9 @@
     "price": 27.9,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Neo-Noir"
+    "item_name": "USP-S | Neo-Noir",
+    "rarity": "Covert",
+    "paint_index": "653"
   },
   {
     "id": "skin-4000308",
@@ -2195,7 +2507,9 @@
     "price": 31.47,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "USP-S | Neo-Noir"
+    "item_name": "USP-S | Neo-Noir",
+    "rarity": "Covert",
+    "paint_index": "653"
   },
   {
     "id": "skin-4000308",
@@ -2209,7 +2523,9 @@
     "price": 16.32,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Neo-Noir"
+    "item_name": "USP-S | Neo-Noir",
+    "rarity": "Covert",
+    "paint_index": "653"
   },
   {
     "id": "skin-4000308",
@@ -2223,7 +2539,9 @@
     "price": 32.91,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "USP-S | Neo-Noir"
+    "item_name": "USP-S | Neo-Noir",
+    "rarity": "Covert",
+    "paint_index": "653"
   },
   {
     "id": "skin-4000308",
@@ -2237,7 +2555,9 @@
     "price": 9.5,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Neo-Noir"
+    "item_name": "USP-S | Neo-Noir",
+    "rarity": "Covert",
+    "paint_index": "653"
   },
   {
     "id": "skin-4000308",
@@ -2251,7 +2571,9 @@
     "price": 16.39,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Neo-Noir"
+    "item_name": "USP-S | Neo-Noir",
+    "rarity": "Covert",
+    "paint_index": "653"
   },
   {
     "id": "skin-4000308",
@@ -2265,7 +2587,9 @@
     "price": 54.44,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "USP-S | Neo-Noir"
+    "item_name": "USP-S | Neo-Noir",
+    "rarity": "Covert",
+    "paint_index": "653"
   },
   {
     "id": "skin-4000308",
@@ -2279,7 +2603,9 @@
     "price": 102.5,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "USP-S | Neo-Noir"
+    "item_name": "USP-S | Neo-Noir",
+    "rarity": "Covert",
+    "paint_index": "653"
   },
   {
     "id": "skin-4000308",
@@ -2293,7 +2619,9 @@
     "price": 10.97,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Neo-Noir"
+    "item_name": "USP-S | Neo-Noir",
+    "rarity": "Covert",
+    "paint_index": "653"
   },
   {
     "id": "skin-4000308",
@@ -2307,7 +2635,9 @@
     "price": 38.88,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "USP-S | Neo-Noir"
+    "item_name": "USP-S | Neo-Noir",
+    "rarity": "Covert",
+    "paint_index": "653"
   },
   {
     "id": "skin-3999052",
@@ -2321,7 +2651,9 @@
     "price": 65.21,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "USP-S | Caiman"
+    "item_name": "USP-S | Caiman",
+    "rarity": "Classified",
+    "paint_index": "339"
   },
   {
     "id": "skin-3999052",
@@ -2335,7 +2667,9 @@
     "price": 49.67,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "USP-S | Caiman"
+    "item_name": "USP-S | Caiman",
+    "rarity": "Classified",
+    "paint_index": "339"
   },
   {
     "id": "skin-3999052",
@@ -2349,7 +2683,9 @@
     "price": 28.58,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Caiman"
+    "item_name": "USP-S | Caiman",
+    "rarity": "Classified",
+    "paint_index": "339"
   },
   {
     "id": "skin-3999052",
@@ -2363,7 +2699,9 @@
     "price": 84.75,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "USP-S | Caiman"
+    "item_name": "USP-S | Caiman",
+    "rarity": "Classified",
+    "paint_index": "339"
   },
   {
     "id": "skin-3999052",
@@ -2377,7 +2715,9 @@
     "price": 67.6,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "USP-S | Caiman"
+    "item_name": "USP-S | Caiman",
+    "rarity": "Classified",
+    "paint_index": "339"
   },
   {
     "id": "skin-3999052",
@@ -2391,7 +2731,9 @@
     "price": 46.35,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Caiman"
+    "item_name": "USP-S | Caiman",
+    "rarity": "Classified",
+    "paint_index": "339"
   },
   {
     "id": "skin-3999052",
@@ -2405,7 +2747,9 @@
     "price": 411.32,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Caiman"
+    "item_name": "USP-S | Caiman",
+    "rarity": "Classified",
+    "paint_index": "339"
   },
   {
     "id": "skin-3999052",
@@ -2419,7 +2763,9 @@
     "price": 34.76,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Caiman"
+    "item_name": "USP-S | Caiman",
+    "rarity": "Classified",
+    "paint_index": "339"
   },
   {
     "id": "skin-4000968",
@@ -2433,7 +2779,9 @@
     "price": 11.45,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Purple DDPAT"
+    "item_name": "USP-S | Purple DDPAT",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "818"
   },
   {
     "id": "skin-4000968",
@@ -2447,7 +2795,9 @@
     "price": 10.46,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Purple DDPAT"
+    "item_name": "USP-S | Purple DDPAT",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "818"
   },
   {
     "id": "skin-4000968",
@@ -2461,7 +2811,9 @@
     "price": 11.74,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Purple DDPAT"
+    "item_name": "USP-S | Purple DDPAT",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "818"
   },
   {
     "id": "skin-4000968",
@@ -2475,7 +2827,9 @@
     "price": 9.87,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Purple DDPAT"
+    "item_name": "USP-S | Purple DDPAT",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "818"
   },
   {
     "id": "skin-4000968",
@@ -2489,7 +2843,9 @@
     "price": 9.87,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Purple DDPAT"
+    "item_name": "USP-S | Purple DDPAT",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "818"
   },
   {
     "id": "skin-4002264",
@@ -2503,7 +2859,9 @@
     "price": 95.72,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "USP-S | Printstream"
+    "item_name": "USP-S | Printstream",
+    "rarity": "Covert",
+    "paint_index": "1142"
   },
   {
     "id": "skin-4002264",
@@ -2517,7 +2875,9 @@
     "price": 27.43,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Printstream"
+    "item_name": "USP-S | Printstream",
+    "rarity": "Covert",
+    "paint_index": "1142"
   },
   {
     "id": "skin-4002264",
@@ -2531,7 +2891,9 @@
     "price": 44.7,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "USP-S | Printstream"
+    "item_name": "USP-S | Printstream",
+    "rarity": "Covert",
+    "paint_index": "1142"
   },
   {
     "id": "skin-4002264",
@@ -2545,7 +2907,9 @@
     "price": 52.8,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "USP-S | Printstream"
+    "item_name": "USP-S | Printstream",
+    "rarity": "Covert",
+    "paint_index": "1142"
   },
   {
     "id": "skin-4002264",
@@ -2559,7 +2923,9 @@
     "price": 84.88,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Printstream"
+    "item_name": "USP-S | Printstream",
+    "rarity": "Covert",
+    "paint_index": "1142"
   },
   {
     "id": "skin-4002264",
@@ -2573,7 +2939,9 @@
     "price": 56.29,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "USP-S | Printstream"
+    "item_name": "USP-S | Printstream",
+    "rarity": "Covert",
+    "paint_index": "1142"
   },
   {
     "id": "skin-4002264",
@@ -2587,7 +2955,9 @@
     "price": 44.59,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Printstream"
+    "item_name": "USP-S | Printstream",
+    "rarity": "Covert",
+    "paint_index": "1142"
   },
   {
     "id": "skin-4002264",
@@ -2601,7 +2971,9 @@
     "price": 20.08,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Printstream"
+    "item_name": "USP-S | Printstream",
+    "rarity": "Covert",
+    "paint_index": "1142"
   },
   {
     "id": "skin-4002264",
@@ -2615,7 +2987,9 @@
     "price": 237.92,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "USP-S | Printstream"
+    "item_name": "USP-S | Printstream",
+    "rarity": "Covert",
+    "paint_index": "1142"
   },
   {
     "id": "skin-4002264",
@@ -2629,7 +3003,9 @@
     "price": 25.83,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Printstream"
+    "item_name": "USP-S | Printstream",
+    "rarity": "Covert",
+    "paint_index": "1142"
   },
   {
     "id": "skin-3998968",
@@ -2643,7 +3019,9 @@
     "price": 24.62,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Road Rash"
+    "item_name": "USP-S | Road Rash",
+    "rarity": "Restricted",
+    "paint_index": "318"
   },
   {
     "id": "skin-3998968",
@@ -2657,7 +3035,9 @@
     "price": 35.79,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Road Rash"
+    "item_name": "USP-S | Road Rash",
+    "rarity": "Restricted",
+    "paint_index": "318"
   },
   {
     "id": "skin-3998968",
@@ -2671,7 +3051,9 @@
     "price": 19.68,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Road Rash"
+    "item_name": "USP-S | Road Rash",
+    "rarity": "Restricted",
+    "paint_index": "318"
   },
   {
     "id": "skin-3998968",
@@ -2685,7 +3067,9 @@
     "price": 48.96,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Road Rash"
+    "item_name": "USP-S | Road Rash",
+    "rarity": "Restricted",
+    "paint_index": "318"
   },
   {
     "id": "skin-3998968",
@@ -2699,7 +3083,9 @@
     "price": 19.75,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Road Rash"
+    "item_name": "USP-S | Road Rash",
+    "rarity": "Restricted",
+    "paint_index": "318"
   },
   {
     "id": "skin-3998856",
@@ -2713,7 +3099,9 @@
     "price": 1.89,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Guardian"
+    "item_name": "USP-S | Guardian",
+    "rarity": "Restricted",
+    "paint_index": "290"
   },
   {
     "id": "skin-3998856",
@@ -2727,7 +3115,9 @@
     "price": 2.3,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Guardian"
+    "item_name": "USP-S | Guardian",
+    "rarity": "Restricted",
+    "paint_index": "290"
   },
   {
     "id": "skin-3998856",
@@ -2741,7 +3131,9 @@
     "price": 3,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "USP-S | Guardian"
+    "item_name": "USP-S | Guardian",
+    "rarity": "Restricted",
+    "paint_index": "290"
   },
   {
     "id": "skin-3998856",
@@ -2755,7 +3147,9 @@
     "price": 3.29,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Guardian"
+    "item_name": "USP-S | Guardian",
+    "rarity": "Restricted",
+    "paint_index": "290"
   },
   {
     "id": "skin-3998856",
@@ -2769,7 +3163,9 @@
     "price": 8.5,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "USP-S | Guardian"
+    "item_name": "USP-S | Guardian",
+    "rarity": "Restricted",
+    "paint_index": "290"
   },
   {
     "id": "skin-3998856",
@@ -2783,7 +3179,9 @@
     "price": 5.7,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "USP-S | Guardian"
+    "item_name": "USP-S | Guardian",
+    "rarity": "Restricted",
+    "paint_index": "290"
   },
   {
     "id": "skin-3998804",
@@ -2797,7 +3195,9 @@
     "price": 2.51,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Stainless"
+    "item_name": "USP-S | Stainless",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "277"
   },
   {
     "id": "skin-3998804",
@@ -2811,7 +3211,9 @@
     "price": 2.69,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Stainless"
+    "item_name": "USP-S | Stainless",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "277"
   },
   {
     "id": "skin-3998804",
@@ -2825,7 +3227,9 @@
     "price": 5.67,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Stainless"
+    "item_name": "USP-S | Stainless",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "277"
   },
   {
     "id": "skin-3998804",
@@ -2839,7 +3243,9 @@
     "price": 16.25,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Stainless"
+    "item_name": "USP-S | Stainless",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "277"
   },
   {
     "id": "skin-3998804",
@@ -2853,7 +3259,9 @@
     "price": 9.31,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "USP-S | Stainless"
+    "item_name": "USP-S | Stainless",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "277"
   },
   {
     "id": "skin-3998804",
@@ -2867,7 +3275,9 @@
     "price": 14.81,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "USP-S | Stainless"
+    "item_name": "USP-S | Stainless",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "277"
   },
   {
     "id": "skin-3998804",
@@ -2881,7 +3291,9 @@
     "price": 20.57,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "USP-S | Stainless"
+    "item_name": "USP-S | Stainless",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "277"
   },
   {
     "id": "skin-3998804",
@@ -2895,7 +3307,9 @@
     "price": 6.72,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Stainless"
+    "item_name": "USP-S | Stainless",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "277"
   },
   {
     "id": "skin-3998804",
@@ -2909,7 +3323,9 @@
     "price": 61.64,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "USP-S | Stainless"
+    "item_name": "USP-S | Stainless",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "277"
   },
   {
     "id": "skin-3998804",
@@ -2923,7 +3339,9 @@
     "price": 9.87,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "USP-S | Stainless"
+    "item_name": "USP-S | Stainless",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "277"
   },
   {
     "id": "skin-3999468",
@@ -2937,7 +3355,9 @@
     "price": 18.12,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Pathfinder"
+    "item_name": "USP-S | Pathfinder",
+    "rarity": "Industrial Grade",
+    "paint_index": "443"
   },
   {
     "id": "skin-3999468",
@@ -2951,7 +3371,9 @@
     "price": 17.69,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Pathfinder"
+    "item_name": "USP-S | Pathfinder",
+    "rarity": "Industrial Grade",
+    "paint_index": "443"
   },
   {
     "id": "skin-3999468",
@@ -2965,7 +3387,9 @@
     "price": 17.41,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Pathfinder"
+    "item_name": "USP-S | Pathfinder",
+    "rarity": "Industrial Grade",
+    "paint_index": "443"
   },
   {
     "id": "skin-3998640",
@@ -2979,7 +3403,9 @@
     "price": 0.26,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Night Ops"
+    "item_name": "USP-S | Night Ops",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "236"
   },
   {
     "id": "skin-3998640",
@@ -2993,7 +3419,9 @@
     "price": 0.25,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Night Ops"
+    "item_name": "USP-S | Night Ops",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "236"
   },
   {
     "id": "skin-3998640",
@@ -3007,7 +3435,9 @@
     "price": 0.23,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Night Ops"
+    "item_name": "USP-S | Night Ops",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "236"
   },
   {
     "id": "skin-3998640",
@@ -3021,7 +3451,9 @@
     "price": 0.55,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Night Ops"
+    "item_name": "USP-S | Night Ops",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "236"
   },
   {
     "id": "skin-3998640",
@@ -3035,7 +3467,9 @@
     "price": 0.37,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Night Ops"
+    "item_name": "USP-S | Night Ops",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "236"
   },
   {
     "id": "skin-3997936",
@@ -3049,7 +3483,9 @@
     "price": 95.31,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "USP-S | Dark Water"
+    "item_name": "USP-S | Dark Water",
+    "rarity": "Restricted",
+    "paint_index": "60"
   },
   {
     "id": "skin-3997936",
@@ -3063,7 +3499,9 @@
     "price": 54.71,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Dark Water"
+    "item_name": "USP-S | Dark Water",
+    "rarity": "Restricted",
+    "paint_index": "60"
   },
   {
     "id": "skin-3997936",
@@ -3077,7 +3515,9 @@
     "price": 96.06,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "USP-S | Dark Water"
+    "item_name": "USP-S | Dark Water",
+    "rarity": "Restricted",
+    "paint_index": "60"
   },
   {
     "id": "skin-3997936",
@@ -3091,7 +3531,9 @@
     "price": 51.68,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Dark Water"
+    "item_name": "USP-S | Dark Water",
+    "rarity": "Restricted",
+    "paint_index": "60"
   },
   {
     "id": "skin-4000324",
@@ -3105,7 +3547,9 @@
     "price": 10.15,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "USP-S | Blueprint"
+    "item_name": "USP-S | Blueprint",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "657"
   },
   {
     "id": "skin-4000324",
@@ -3119,7 +3563,9 @@
     "price": 124.38,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "USP-S | Blueprint"
+    "item_name": "USP-S | Blueprint",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "657"
   },
   {
     "id": "skin-4000324",
@@ -3133,7 +3579,9 @@
     "price": 27.29,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "USP-S | Blueprint"
+    "item_name": "USP-S | Blueprint",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "657"
   },
   {
     "id": "skin-4000324",
@@ -3147,7 +3595,9 @@
     "price": 3.59,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Blueprint"
+    "item_name": "USP-S | Blueprint",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "657"
   },
   {
     "id": "skin-4000324",
@@ -3161,7 +3611,9 @@
     "price": 29.48,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Blueprint"
+    "item_name": "USP-S | Blueprint",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "657"
   },
   {
     "id": "skin-4000324",
@@ -3175,7 +3627,9 @@
     "price": 6.7,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Blueprint"
+    "item_name": "USP-S | Blueprint",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "657"
   },
   {
     "id": "skin-4000324",
@@ -3189,7 +3643,9 @@
     "price": 14.67,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "USP-S | Blueprint"
+    "item_name": "USP-S | Blueprint",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "657"
   },
   {
     "id": "skin-4000324",
@@ -3203,7 +3659,9 @@
     "price": 7.97,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Blueprint"
+    "item_name": "USP-S | Blueprint",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "657"
   },
   {
     "id": "skin-4000324",
@@ -3217,7 +3675,9 @@
     "price": 9.84,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "USP-S | Blueprint"
+    "item_name": "USP-S | Blueprint",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "657"
   },
   {
     "id": "skin-4000324",
@@ -3231,7 +3691,9 @@
     "price": 3.11,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Blueprint"
+    "item_name": "USP-S | Blueprint",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "657"
   },
   {
     "id": "skin-3998580",
@@ -3245,7 +3707,9 @@
     "price": 53.07,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Serum"
+    "item_name": "USP-S | Serum",
+    "rarity": "Classified",
+    "paint_index": "221"
   },
   {
     "id": "skin-3998580",
@@ -3259,7 +3723,9 @@
     "price": 60.05,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "USP-S | Serum"
+    "item_name": "USP-S | Serum",
+    "rarity": "Classified",
+    "paint_index": "221"
   },
   {
     "id": "skin-3998580",
@@ -3273,7 +3739,9 @@
     "price": 38.41,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Serum"
+    "item_name": "USP-S | Serum",
+    "rarity": "Classified",
+    "paint_index": "221"
   },
   {
     "id": "skin-3998580",
@@ -3287,7 +3755,9 @@
     "price": 38.68,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "USP-S | Serum"
+    "item_name": "USP-S | Serum",
+    "rarity": "Classified",
+    "paint_index": "221"
   },
   {
     "id": "skin-3998580",
@@ -3301,7 +3771,9 @@
     "price": 36,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Serum"
+    "item_name": "USP-S | Serum",
+    "rarity": "Classified",
+    "paint_index": "221"
   },
   {
     "id": "skin-3998580",
@@ -3315,7 +3787,9 @@
     "price": 42.29,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "USP-S | Serum"
+    "item_name": "USP-S | Serum",
+    "rarity": "Classified",
+    "paint_index": "221"
   },
   {
     "id": "skin-3998564",
@@ -3329,7 +3803,9 @@
     "price": 1.6,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Blood Tiger"
+    "item_name": "USP-S | Blood Tiger",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "217"
   },
   {
     "id": "skin-3998564",
@@ -3343,7 +3819,9 @@
     "price": 2.46,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "USP-S | Blood Tiger"
+    "item_name": "USP-S | Blood Tiger",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "217"
   },
   {
     "id": "skin-3998564",
@@ -3357,7 +3835,9 @@
     "price": 8.46,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "USP-S | Blood Tiger"
+    "item_name": "USP-S | Blood Tiger",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "217"
   },
   {
     "id": "skin-3998564",
@@ -3371,7 +3851,9 @@
     "price": 3.53,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Blood Tiger"
+    "item_name": "USP-S | Blood Tiger",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "217"
   },
   {
     "id": "skin-3998564",
@@ -3385,7 +3867,9 @@
     "price": 1.65,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Blood Tiger"
+    "item_name": "USP-S | Blood Tiger",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "217"
   },
   {
     "id": "skin-3998564",
@@ -3399,7 +3883,9 @@
     "price": 2.46,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "USP-S | Blood Tiger"
+    "item_name": "USP-S | Blood Tiger",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "217"
   },
   {
     "id": "skin-4001820",
@@ -3413,7 +3899,9 @@
     "price": 37.84,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Ancient Visions"
+    "item_name": "USP-S | Ancient Visions",
+    "rarity": "Restricted",
+    "paint_index": "1031"
   },
   {
     "id": "skin-4001820",
@@ -3427,7 +3915,9 @@
     "price": 37.71,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Ancient Visions"
+    "item_name": "USP-S | Ancient Visions",
+    "rarity": "Restricted",
+    "paint_index": "1031"
   },
   {
     "id": "skin-4001820",
@@ -3441,7 +3931,9 @@
     "price": 38.4,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Ancient Visions"
+    "item_name": "USP-S | Ancient Visions",
+    "rarity": "Restricted",
+    "paint_index": "1031"
   },
   {
     "id": "skin-4001820",
@@ -3455,7 +3947,9 @@
     "price": 36.47,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Ancient Visions"
+    "item_name": "USP-S | Ancient Visions",
+    "rarity": "Restricted",
+    "paint_index": "1031"
   },
   {
     "id": "skin-4001956",
@@ -3469,7 +3963,9 @@
     "price": 15.08,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Whiteout"
+    "item_name": "USP-S | Whiteout",
+    "rarity": "Classified",
+    "paint_index": "1065"
   },
   {
     "id": "skin-4001956",
@@ -3483,7 +3979,9 @@
     "price": 17.19,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Whiteout"
+    "item_name": "USP-S | Whiteout",
+    "rarity": "Classified",
+    "paint_index": "1065"
   },
   {
     "id": "skin-4001956",
@@ -3497,7 +3995,9 @@
     "price": 152.08,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Whiteout"
+    "item_name": "USP-S | Whiteout",
+    "rarity": "Classified",
+    "paint_index": "1065"
   },
   {
     "id": "skin-4001956",
@@ -3511,7 +4011,9 @@
     "price": 25.92,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Whiteout"
+    "item_name": "USP-S | Whiteout",
+    "rarity": "Classified",
+    "paint_index": "1065"
   },
   {
     "id": "skin-4001956",
@@ -3525,7 +4027,9 @@
     "price": 18.29,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Whiteout"
+    "item_name": "USP-S | Whiteout",
+    "rarity": "Classified",
+    "paint_index": "1065"
   },
   {
     "id": "skin-4001384",
@@ -3539,7 +4043,9 @@
     "price": 65.61,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Orange Anolis"
+    "item_name": "USP-S | Orange Anolis",
+    "rarity": "Restricted",
+    "paint_index": "922"
   },
   {
     "id": "skin-4001384",
@@ -3553,7 +4059,9 @@
     "price": 65.41,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Orange Anolis"
+    "item_name": "USP-S | Orange Anolis",
+    "rarity": "Restricted",
+    "paint_index": "922"
   },
   {
     "id": "skin-4001384",
@@ -3567,6 +4075,8 @@
     "price": 67.19,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "USP-S | Orange Anolis"
+    "item_name": "USP-S | Orange Anolis",
+    "rarity": "Restricted",
+    "paint_index": "922"
   }
 ]

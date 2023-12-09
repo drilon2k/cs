@@ -11,7 +11,9 @@
     "price": 0.11,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Sawed-Off | Spirit Board"
+    "item_name": "Sawed-Off | Spirit Board",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1140"
   },
   {
     "id": "skin-1905104",
@@ -25,7 +27,9 @@
     "price": 0.16,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Spirit Board"
+    "item_name": "Sawed-Off | Spirit Board",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1140"
   },
   {
     "id": "skin-1905104",
@@ -39,7 +43,9 @@
     "price": 0.26,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Sawed-Off | Spirit Board"
+    "item_name": "Sawed-Off | Spirit Board",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1140"
   },
   {
     "id": "skin-1905104",
@@ -53,7 +59,9 @@
     "price": 0.05,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Spirit Board"
+    "item_name": "Sawed-Off | Spirit Board",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1140"
   },
   {
     "id": "skin-1905104",
@@ -67,7 +75,9 @@
     "price": 0.09,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Spirit Board"
+    "item_name": "Sawed-Off | Spirit Board",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1140"
   },
   {
     "id": "skin-1905104",
@@ -81,7 +91,9 @@
     "price": 0.74,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Sawed-Off | Spirit Board"
+    "item_name": "Sawed-Off | Spirit Board",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1140"
   },
   {
     "id": "skin-1905104",
@@ -95,7 +107,9 @@
     "price": 0.19,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Sawed-Off | Spirit Board"
+    "item_name": "Sawed-Off | Spirit Board",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1140"
   },
   {
     "id": "skin-1905104",
@@ -109,7 +123,9 @@
     "price": 0.05,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Spirit Board"
+    "item_name": "Sawed-Off | Spirit Board",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1140"
   },
   {
     "id": "skin-1905104",
@@ -123,7 +139,9 @@
     "price": 0.1,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Sawed-Off | Spirit Board"
+    "item_name": "Sawed-Off | Spirit Board",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1140"
   },
   {
     "id": "skin-1905104",
@@ -137,7 +155,9 @@
     "price": 0.04,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Spirit Board"
+    "item_name": "Sawed-Off | Spirit Board",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1140"
   },
   {
     "id": "skin-1902104",
@@ -151,7 +171,9 @@
     "price": 1.22,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Sawed-Off | Highwayman"
+    "item_name": "Sawed-Off | Highwayman",
+    "rarity": "Restricted",
+    "paint_index": "390"
   },
   {
     "id": "skin-1902104",
@@ -165,7 +187,9 @@
     "price": 3.27,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Sawed-Off | Highwayman"
+    "item_name": "Sawed-Off | Highwayman",
+    "rarity": "Restricted",
+    "paint_index": "390"
   },
   {
     "id": "skin-1902104",
@@ -179,7 +203,9 @@
     "price": 0.45,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Highwayman"
+    "item_name": "Sawed-Off | Highwayman",
+    "rarity": "Restricted",
+    "paint_index": "390"
   },
   {
     "id": "skin-1902104",
@@ -193,7 +219,9 @@
     "price": 0.98,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Sawed-Off | Highwayman"
+    "item_name": "Sawed-Off | Highwayman",
+    "rarity": "Restricted",
+    "paint_index": "390"
   },
   {
     "id": "skin-1902104",
@@ -207,7 +235,9 @@
     "price": 6.65,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Sawed-Off | Highwayman"
+    "item_name": "Sawed-Off | Highwayman",
+    "rarity": "Restricted",
+    "paint_index": "390"
   },
   {
     "id": "skin-1902104",
@@ -221,7 +251,9 @@
     "price": 0.41,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Highwayman"
+    "item_name": "Sawed-Off | Highwayman",
+    "rarity": "Restricted",
+    "paint_index": "390"
   },
   {
     "id": "skin-1902104",
@@ -235,7 +267,9 @@
     "price": 0.81,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Highwayman"
+    "item_name": "Sawed-Off | Highwayman",
+    "rarity": "Restricted",
+    "paint_index": "390"
   },
   {
     "id": "skin-1902104",
@@ -249,7 +283,9 @@
     "price": 1.65,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Highwayman"
+    "item_name": "Sawed-Off | Highwayman",
+    "rarity": "Restricted",
+    "paint_index": "390"
   },
   {
     "id": "skin-1902104",
@@ -263,7 +299,9 @@
     "price": 1.26,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Sawed-Off | Highwayman"
+    "item_name": "Sawed-Off | Highwayman",
+    "rarity": "Restricted",
+    "paint_index": "390"
   },
   {
     "id": "skin-1902104",
@@ -277,7 +315,9 @@
     "price": 0.49,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Highwayman"
+    "item_name": "Sawed-Off | Highwayman",
+    "rarity": "Restricted",
+    "paint_index": "390"
   },
   {
     "id": "skin-1904356",
@@ -291,7 +331,9 @@
     "price": 3.36,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Sawed-Off | Apocalypto"
+    "item_name": "Sawed-Off | Apocalypto",
+    "rarity": "Restricted",
+    "paint_index": "953"
   },
   {
     "id": "skin-1904356",
@@ -305,7 +347,9 @@
     "price": 0.25,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Apocalypto"
+    "item_name": "Sawed-Off | Apocalypto",
+    "rarity": "Restricted",
+    "paint_index": "953"
   },
   {
     "id": "skin-1904356",
@@ -319,7 +363,9 @@
     "price": 0.62,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Sawed-Off | Apocalypto"
+    "item_name": "Sawed-Off | Apocalypto",
+    "rarity": "Restricted",
+    "paint_index": "953"
   },
   {
     "id": "skin-1904356",
@@ -333,7 +379,9 @@
     "price": 0.21,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Apocalypto"
+    "item_name": "Sawed-Off | Apocalypto",
+    "rarity": "Restricted",
+    "paint_index": "953"
   },
   {
     "id": "skin-1904356",
@@ -347,7 +395,9 @@
     "price": 1.16,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Apocalypto"
+    "item_name": "Sawed-Off | Apocalypto",
+    "rarity": "Restricted",
+    "paint_index": "953"
   },
   {
     "id": "skin-1904356",
@@ -361,7 +411,9 @@
     "price": 0.44,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Apocalypto"
+    "item_name": "Sawed-Off | Apocalypto",
+    "rarity": "Restricted",
+    "paint_index": "953"
   },
   {
     "id": "skin-1904356",
@@ -375,7 +427,9 @@
     "price": 0.66,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Sawed-Off | Apocalypto"
+    "item_name": "Sawed-Off | Apocalypto",
+    "rarity": "Restricted",
+    "paint_index": "953"
   },
   {
     "id": "skin-1904356",
@@ -389,7 +443,9 @@
     "price": 0.23,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Apocalypto"
+    "item_name": "Sawed-Off | Apocalypto",
+    "rarity": "Restricted",
+    "paint_index": "953"
   },
   {
     "id": "skin-1904356",
@@ -403,7 +459,9 @@
     "price": 1.26,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Sawed-Off | Apocalypto"
+    "item_name": "Sawed-Off | Apocalypto",
+    "rarity": "Restricted",
+    "paint_index": "953"
   },
   {
     "id": "skin-1904356",
@@ -417,7 +475,9 @@
     "price": 0.58,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Sawed-Off | Apocalypto"
+    "item_name": "Sawed-Off | Apocalypto",
+    "rarity": "Restricted",
+    "paint_index": "953"
   },
   {
     "id": "skin-1903096",
@@ -431,7 +491,9 @@
     "price": 2.44,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Wasteland Princess"
+    "item_name": "Sawed-Off | Wasteland Princess",
+    "rarity": "Classified",
+    "paint_index": "638"
   },
   {
     "id": "skin-1903096",
@@ -445,7 +507,9 @@
     "price": 3.26,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Sawed-Off | Wasteland Princess"
+    "item_name": "Sawed-Off | Wasteland Princess",
+    "rarity": "Classified",
+    "paint_index": "638"
   },
   {
     "id": "skin-1903096",
@@ -459,7 +523,9 @@
     "price": 13.43,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Sawed-Off | Wasteland Princess"
+    "item_name": "Sawed-Off | Wasteland Princess",
+    "rarity": "Classified",
+    "paint_index": "638"
   },
   {
     "id": "skin-1903096",
@@ -473,7 +539,9 @@
     "price": 5.98,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Sawed-Off | Wasteland Princess"
+    "item_name": "Sawed-Off | Wasteland Princess",
+    "rarity": "Classified",
+    "paint_index": "638"
   },
   {
     "id": "skin-1903096",
@@ -487,7 +555,9 @@
     "price": 1.26,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Wasteland Princess"
+    "item_name": "Sawed-Off | Wasteland Princess",
+    "rarity": "Classified",
+    "paint_index": "638"
   },
   {
     "id": "skin-1903096",
@@ -501,7 +571,9 @@
     "price": 3.4,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Sawed-Off | Wasteland Princess"
+    "item_name": "Sawed-Off | Wasteland Princess",
+    "rarity": "Classified",
+    "paint_index": "638"
   },
   {
     "id": "skin-1903096",
@@ -515,7 +587,9 @@
     "price": 1.49,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Wasteland Princess"
+    "item_name": "Sawed-Off | Wasteland Princess",
+    "rarity": "Classified",
+    "paint_index": "638"
   },
   {
     "id": "skin-1903096",
@@ -529,7 +603,9 @@
     "price": 5.35,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Wasteland Princess"
+    "item_name": "Sawed-Off | Wasteland Princess",
+    "rarity": "Classified",
+    "paint_index": "638"
   },
   {
     "id": "skin-1903096",
@@ -543,7 +619,9 @@
     "price": 1.27,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Wasteland Princess"
+    "item_name": "Sawed-Off | Wasteland Princess",
+    "rarity": "Classified",
+    "paint_index": "638"
   },
   {
     "id": "skin-1903096",
@@ -557,7 +635,9 @@
     "price": 2.93,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Sawed-Off | Wasteland Princess"
+    "item_name": "Sawed-Off | Wasteland Princess",
+    "rarity": "Classified",
+    "paint_index": "638"
   },
   {
     "id": "skin-1902164",
@@ -571,7 +651,9 @@
     "price": 3.05,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Sawed-Off | Serenity"
+    "item_name": "Sawed-Off | Serenity",
+    "rarity": "Restricted",
+    "paint_index": "405"
   },
   {
     "id": "skin-1902164",
@@ -585,7 +667,9 @@
     "price": 0.82,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Serenity"
+    "item_name": "Sawed-Off | Serenity",
+    "rarity": "Restricted",
+    "paint_index": "405"
   },
   {
     "id": "skin-1902164",
@@ -599,7 +683,9 @@
     "price": 1.92,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Serenity"
+    "item_name": "Sawed-Off | Serenity",
+    "rarity": "Restricted",
+    "paint_index": "405"
   },
   {
     "id": "skin-1902164",
@@ -613,7 +699,9 @@
     "price": 6.45,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Sawed-Off | Serenity"
+    "item_name": "Sawed-Off | Serenity",
+    "rarity": "Restricted",
+    "paint_index": "405"
   },
   {
     "id": "skin-1902164",
@@ -627,7 +715,9 @@
     "price": 2.59,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Sawed-Off | Serenity"
+    "item_name": "Sawed-Off | Serenity",
+    "rarity": "Restricted",
+    "paint_index": "405"
   },
   {
     "id": "skin-1902164",
@@ -641,7 +731,9 @@
     "price": 2.88,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Sawed-Off | Serenity"
+    "item_name": "Sawed-Off | Serenity",
+    "rarity": "Restricted",
+    "paint_index": "405"
   },
   {
     "id": "skin-1902164",
@@ -655,7 +747,9 @@
     "price": 0.97,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Serenity"
+    "item_name": "Sawed-Off | Serenity",
+    "rarity": "Restricted",
+    "paint_index": "405"
   },
   {
     "id": "skin-1902164",
@@ -669,7 +763,9 @@
     "price": 1.07,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Serenity"
+    "item_name": "Sawed-Off | Serenity",
+    "rarity": "Restricted",
+    "paint_index": "405"
   },
   {
     "id": "skin-1902164",
@@ -683,7 +779,9 @@
     "price": 3.72,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Sawed-Off | Serenity"
+    "item_name": "Sawed-Off | Serenity",
+    "rarity": "Restricted",
+    "paint_index": "405"
   },
   {
     "id": "skin-1902164",
@@ -697,7 +795,9 @@
     "price": 1.52,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Serenity"
+    "item_name": "Sawed-Off | Serenity",
+    "rarity": "Restricted",
+    "paint_index": "405"
   },
   {
     "id": "skin-1900876",
@@ -711,7 +811,9 @@
     "price": 16.25,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Sawed-Off | Orange DDPAT"
+    "item_name": "Sawed-Off | Orange DDPAT",
+    "rarity": "Restricted",
+    "paint_index": "83"
   },
   {
     "id": "skin-1900876",
@@ -725,7 +827,9 @@
     "price": 15.92,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Orange DDPAT"
+    "item_name": "Sawed-Off | Orange DDPAT",
+    "rarity": "Restricted",
+    "paint_index": "83"
   },
   {
     "id": "skin-1900876",
@@ -739,7 +843,9 @@
     "price": 21.94,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Sawed-Off | Orange DDPAT"
+    "item_name": "Sawed-Off | Orange DDPAT",
+    "rarity": "Restricted",
+    "paint_index": "83"
   },
   {
     "id": "skin-1900876",
@@ -753,7 +859,9 @@
     "price": 183.07,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Sawed-Off | Orange DDPAT"
+    "item_name": "Sawed-Off | Orange DDPAT",
+    "rarity": "Restricted",
+    "paint_index": "83"
   },
   {
     "id": "skin-1900876",
@@ -767,7 +875,9 @@
     "price": 21.6,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Sawed-Off | Orange DDPAT"
+    "item_name": "Sawed-Off | Orange DDPAT",
+    "rarity": "Restricted",
+    "paint_index": "83"
   },
   {
     "id": "skin-1900876",
@@ -781,7 +891,9 @@
     "price": 10.63,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Orange DDPAT"
+    "item_name": "Sawed-Off | Orange DDPAT",
+    "rarity": "Restricted",
+    "paint_index": "83"
   },
   {
     "id": "skin-1900876",
@@ -795,7 +907,9 @@
     "price": 10.81,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Orange DDPAT"
+    "item_name": "Sawed-Off | Orange DDPAT",
+    "rarity": "Restricted",
+    "paint_index": "83"
   },
   {
     "id": "skin-1900876",
@@ -809,7 +923,9 @@
     "price": 40.61,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Orange DDPAT"
+    "item_name": "Sawed-Off | Orange DDPAT",
+    "rarity": "Restricted",
+    "paint_index": "83"
   },
   {
     "id": "skin-1900876",
@@ -823,7 +939,9 @@
     "price": 17.83,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Sawed-Off | Orange DDPAT"
+    "item_name": "Sawed-Off | Orange DDPAT",
+    "rarity": "Restricted",
+    "paint_index": "83"
   },
   {
     "id": "skin-1900876",
@@ -837,7 +955,9 @@
     "price": 10.83,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Orange DDPAT"
+    "item_name": "Sawed-Off | Orange DDPAT",
+    "rarity": "Restricted",
+    "paint_index": "83"
   },
   {
     "id": "skin-1903164",
@@ -851,7 +971,9 @@
     "price": 0.62,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Sawed-Off | Zander"
+    "item_name": "Sawed-Off | Zander",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "655"
   },
   {
     "id": "skin-1903164",
@@ -865,7 +987,9 @@
     "price": 0.25,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Sawed-Off | Zander"
+    "item_name": "Sawed-Off | Zander",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "655"
   },
   {
     "id": "skin-1903164",
@@ -879,7 +1003,9 @@
     "price": 0.19,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Sawed-Off | Zander"
+    "item_name": "Sawed-Off | Zander",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "655"
   },
   {
     "id": "skin-1903164",
@@ -893,7 +1019,9 @@
     "price": 0.12,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Zander"
+    "item_name": "Sawed-Off | Zander",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "655"
   },
   {
     "id": "skin-1903164",
@@ -907,7 +1035,9 @@
     "price": 0.16,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Zander"
+    "item_name": "Sawed-Off | Zander",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "655"
   },
   {
     "id": "skin-1903164",
@@ -921,7 +1051,9 @@
     "price": 0.95,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Sawed-Off | Zander"
+    "item_name": "Sawed-Off | Zander",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "655"
   },
   {
     "id": "skin-1903164",
@@ -935,7 +1067,9 @@
     "price": 0.13,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Zander"
+    "item_name": "Sawed-Off | Zander",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "655"
   },
   {
     "id": "skin-1903164",
@@ -949,7 +1083,9 @@
     "price": 0.36,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Zander"
+    "item_name": "Sawed-Off | Zander",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "655"
   },
   {
     "id": "skin-1903164",
@@ -963,7 +1099,9 @@
     "price": 0.2,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Sawed-Off | Zander"
+    "item_name": "Sawed-Off | Zander",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "655"
   },
   {
     "id": "skin-1903164",
@@ -977,7 +1115,9 @@
     "price": 0.19,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Zander"
+    "item_name": "Sawed-Off | Zander",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "655"
   },
   {
     "id": "skin-1901544",
@@ -991,7 +1131,9 @@
     "price": 0.38,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Full Stop"
+    "item_name": "Sawed-Off | Full Stop",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "250"
   },
   {
     "id": "skin-1901544",
@@ -1005,7 +1147,9 @@
     "price": 0.23,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Full Stop"
+    "item_name": "Sawed-Off | Full Stop",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "250"
   },
   {
     "id": "skin-1901544",
@@ -1019,7 +1163,9 @@
     "price": 0.23,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Full Stop"
+    "item_name": "Sawed-Off | Full Stop",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "250"
   },
   {
     "id": "skin-1901544",
@@ -1033,7 +1179,9 @@
     "price": 0.24,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Full Stop"
+    "item_name": "Sawed-Off | Full Stop",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "250"
   },
   {
     "id": "skin-1901544",
@@ -1047,7 +1195,9 @@
     "price": 0.64,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Full Stop"
+    "item_name": "Sawed-Off | Full Stop",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "250"
   },
   {
     "id": "skin-1901020",
@@ -1061,7 +1211,9 @@
     "price": 0.35,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Sage Spray"
+    "item_name": "Sawed-Off | Sage Spray",
+    "rarity": "Consumer Grade",
+    "paint_index": "119"
   },
   {
     "id": "skin-1901020",
@@ -1075,7 +1227,9 @@
     "price": 0.19,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Sage Spray"
+    "item_name": "Sawed-Off | Sage Spray",
+    "rarity": "Consumer Grade",
+    "paint_index": "119"
   },
   {
     "id": "skin-1901020",
@@ -1089,7 +1243,9 @@
     "price": 3.65,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Sage Spray"
+    "item_name": "Sawed-Off | Sage Spray",
+    "rarity": "Consumer Grade",
+    "paint_index": "119"
   },
   {
     "id": "skin-1901020",
@@ -1103,7 +1259,9 @@
     "price": 0.2,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Sage Spray"
+    "item_name": "Sawed-Off | Sage Spray",
+    "rarity": "Consumer Grade",
+    "paint_index": "119"
   },
   {
     "id": "skin-1901020",
@@ -1117,7 +1275,9 @@
     "price": 0.2,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Sage Spray"
+    "item_name": "Sawed-Off | Sage Spray",
+    "rarity": "Consumer Grade",
+    "paint_index": "119"
   },
   {
     "id": "skin-1902280",
@@ -1131,7 +1291,9 @@
     "price": 0.29,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Sawed-Off | Origami"
+    "item_name": "Sawed-Off | Origami",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "434"
   },
   {
     "id": "skin-1902280",
@@ -1145,7 +1307,9 @@
     "price": 0.06,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Origami"
+    "item_name": "Sawed-Off | Origami",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "434"
   },
   {
     "id": "skin-1902280",
@@ -1159,7 +1323,9 @@
     "price": 0.18,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Sawed-Off | Origami"
+    "item_name": "Sawed-Off | Origami",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "434"
   },
   {
     "id": "skin-1902280",
@@ -1173,7 +1339,9 @@
     "price": 0.11,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Origami"
+    "item_name": "Sawed-Off | Origami",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "434"
   },
   {
     "id": "skin-1902280",
@@ -1187,7 +1355,9 @@
     "price": 0.55,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Sawed-Off | Origami"
+    "item_name": "Sawed-Off | Origami",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "434"
   },
   {
     "id": "skin-1902280",
@@ -1201,7 +1371,9 @@
     "price": 0.11,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Origami"
+    "item_name": "Sawed-Off | Origami",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "434"
   },
   {
     "id": "skin-1902280",
@@ -1215,7 +1387,9 @@
     "price": 0.27,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Sawed-Off | Origami"
+    "item_name": "Sawed-Off | Origami",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "434"
   },
   {
     "id": "skin-1902280",
@@ -1229,7 +1403,9 @@
     "price": 0.19,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Sawed-Off | Origami"
+    "item_name": "Sawed-Off | Origami",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "434"
   },
   {
     "id": "skin-1902280",
@@ -1243,7 +1419,9 @@
     "price": 0.06,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Origami"
+    "item_name": "Sawed-Off | Origami",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "434"
   },
   {
     "id": "skin-1902280",
@@ -1257,7 +1435,9 @@
     "price": 0.16,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Origami"
+    "item_name": "Sawed-Off | Origami",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "434"
   },
   {
     "id": "skin-1904600",
@@ -1271,7 +1451,9 @@
     "price": 0.18,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Clay Ambush"
+    "item_name": "Sawed-Off | Clay Ambush",
+    "rarity": "Consumer Grade",
+    "paint_index": "1014"
   },
   {
     "id": "skin-1904600",
@@ -1285,7 +1467,9 @@
     "price": 0.19,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Clay Ambush"
+    "item_name": "Sawed-Off | Clay Ambush",
+    "rarity": "Consumer Grade",
+    "paint_index": "1014"
   },
   {
     "id": "skin-1904600",
@@ -1299,7 +1483,9 @@
     "price": 0.16,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Clay Ambush"
+    "item_name": "Sawed-Off | Clay Ambush",
+    "rarity": "Consumer Grade",
+    "paint_index": "1014"
   },
   {
     "id": "skin-1904600",
@@ -1313,7 +1499,9 @@
     "price": 0.27,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Clay Ambush"
+    "item_name": "Sawed-Off | Clay Ambush",
+    "rarity": "Consumer Grade",
+    "paint_index": "1014"
   },
   {
     "id": "skin-1904600",
@@ -1327,7 +1515,9 @@
     "price": 0.16,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Clay Ambush"
+    "item_name": "Sawed-Off | Clay Ambush",
+    "rarity": "Consumer Grade",
+    "paint_index": "1014"
   },
   {
     "id": "skin-1903236",
@@ -1341,7 +1531,9 @@
     "price": 0.04,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Morris"
+    "item_name": "Sawed-Off | Morris",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "673"
   },
   {
     "id": "skin-1903236",
@@ -1355,7 +1547,9 @@
     "price": 0.04,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Morris"
+    "item_name": "Sawed-Off | Morris",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "673"
   },
   {
     "id": "skin-1903236",
@@ -1369,7 +1563,9 @@
     "price": 0.09,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Morris"
+    "item_name": "Sawed-Off | Morris",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "673"
   },
   {
     "id": "skin-1903236",
@@ -1383,7 +1579,9 @@
     "price": 0.17,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Morris"
+    "item_name": "Sawed-Off | Morris",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "673"
   },
   {
     "id": "skin-1903236",
@@ -1397,7 +1595,9 @@
     "price": 0.09,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Sawed-Off | Morris"
+    "item_name": "Sawed-Off | Morris",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "673"
   },
   {
     "id": "skin-1903236",
@@ -1411,7 +1611,9 @@
     "price": 0.1,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Sawed-Off | Morris"
+    "item_name": "Sawed-Off | Morris",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "673"
   },
   {
     "id": "skin-1903236",
@@ -1425,7 +1627,9 @@
     "price": 0.8,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Sawed-Off | Morris"
+    "item_name": "Sawed-Off | Morris",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "673"
   },
   {
     "id": "skin-1903236",
@@ -1439,7 +1643,9 @@
     "price": 0.23,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Sawed-Off | Morris"
+    "item_name": "Sawed-Off | Morris",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "673"
   },
   {
     "id": "skin-1903236",
@@ -1453,7 +1659,9 @@
     "price": 0.05,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Morris"
+    "item_name": "Sawed-Off | Morris",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "673"
   },
   {
     "id": "skin-1903236",
@@ -1467,7 +1675,9 @@
     "price": 0.09,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Sawed-Off | Morris"
+    "item_name": "Sawed-Off | Morris",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "673"
   },
   {
     "id": "skin-1902752",
@@ -1481,7 +1691,9 @@
     "price": 0.06,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Fubar"
+    "item_name": "Sawed-Off | Fubar",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "552"
   },
   {
     "id": "skin-1902752",
@@ -1495,7 +1707,9 @@
     "price": 0.22,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Sawed-Off | Fubar"
+    "item_name": "Sawed-Off | Fubar",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "552"
   },
   {
     "id": "skin-1902752",
@@ -1509,7 +1723,9 @@
     "price": 0.08,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Sawed-Off | Fubar"
+    "item_name": "Sawed-Off | Fubar",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "552"
   },
   {
     "id": "skin-1902752",
@@ -1523,7 +1739,9 @@
     "price": 0.04,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Fubar"
+    "item_name": "Sawed-Off | Fubar",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "552"
   },
   {
     "id": "skin-1903800",
@@ -1537,7 +1755,9 @@
     "price": 0.09,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Black Sand"
+    "item_name": "Sawed-Off | Black Sand",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "814"
   },
   {
     "id": "skin-1903800",
@@ -1551,7 +1771,9 @@
     "price": 0.27,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Sawed-Off | Black Sand"
+    "item_name": "Sawed-Off | Black Sand",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "814"
   },
   {
     "id": "skin-1903800",
@@ -1565,7 +1787,9 @@
     "price": 0.05,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Black Sand"
+    "item_name": "Sawed-Off | Black Sand",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "814"
   },
   {
     "id": "skin-1903800",
@@ -1579,7 +1803,9 @@
     "price": 0.71,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Sawed-Off | Black Sand"
+    "item_name": "Sawed-Off | Black Sand",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "814"
   },
   {
     "id": "skin-1903800",
@@ -1593,7 +1819,9 @@
     "price": 0.09,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Sawed-Off | Black Sand"
+    "item_name": "Sawed-Off | Black Sand",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "814"
   },
   {
     "id": "skin-1903800",
@@ -1607,7 +1835,9 @@
     "price": 0.05,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Black Sand"
+    "item_name": "Sawed-Off | Black Sand",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "814"
   },
   {
     "id": "skin-1903800",
@@ -1621,7 +1851,9 @@
     "price": 0.06,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Black Sand"
+    "item_name": "Sawed-Off | Black Sand",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "814"
   },
   {
     "id": "skin-1903800",
@@ -1635,7 +1867,9 @@
     "price": 0.12,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Sawed-Off | Black Sand"
+    "item_name": "Sawed-Off | Black Sand",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "814"
   },
   {
     "id": "skin-1903800",
@@ -1649,7 +1883,9 @@
     "price": 0.17,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Black Sand"
+    "item_name": "Sawed-Off | Black Sand",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "814"
   },
   {
     "id": "skin-1903800",
@@ -1663,7 +1899,9 @@
     "price": 0.08,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Sawed-Off | Black Sand"
+    "item_name": "Sawed-Off | Black Sand",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "814"
   },
   {
     "id": "skin-1900564",
@@ -1677,7 +1915,9 @@
     "price": 0.01,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Forest DDPAT"
+    "item_name": "Sawed-Off | Forest DDPAT",
+    "rarity": "Consumer Grade",
+    "paint_index": "5"
   },
   {
     "id": "skin-1900564",
@@ -1691,7 +1931,9 @@
     "price": 0.02,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Forest DDPAT"
+    "item_name": "Sawed-Off | Forest DDPAT",
+    "rarity": "Consumer Grade",
+    "paint_index": "5"
   },
   {
     "id": "skin-1900564",
@@ -1705,7 +1947,9 @@
     "price": 0.01,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Forest DDPAT"
+    "item_name": "Sawed-Off | Forest DDPAT",
+    "rarity": "Consumer Grade",
+    "paint_index": "5"
   },
   {
     "id": "skin-1900564",
@@ -1719,7 +1963,9 @@
     "price": 0.01,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Forest DDPAT"
+    "item_name": "Sawed-Off | Forest DDPAT",
+    "rarity": "Consumer Grade",
+    "paint_index": "5"
   },
   {
     "id": "skin-1900564",
@@ -1733,7 +1979,9 @@
     "price": 0.07,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Forest DDPAT"
+    "item_name": "Sawed-Off | Forest DDPAT",
+    "rarity": "Consumer Grade",
+    "paint_index": "5"
   },
   {
     "id": "skin-1902612",
@@ -1747,7 +1995,9 @@
     "price": 0.07,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Yorick"
+    "item_name": "Sawed-Off | Yorick",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "517"
   },
   {
     "id": "skin-1902612",
@@ -1761,7 +2011,9 @@
     "price": 0.42,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Sawed-Off | Yorick"
+    "item_name": "Sawed-Off | Yorick",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "517"
   },
   {
     "id": "skin-1902612",
@@ -1775,7 +2027,9 @@
     "price": 0.12,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Yorick"
+    "item_name": "Sawed-Off | Yorick",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "517"
   },
   {
     "id": "skin-1902612",
@@ -1789,7 +2043,9 @@
     "price": 0.21,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Sawed-Off | Yorick"
+    "item_name": "Sawed-Off | Yorick",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "517"
   },
   {
     "id": "skin-1902612",
@@ -1803,7 +2059,9 @@
     "price": 0.04,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Yorick"
+    "item_name": "Sawed-Off | Yorick",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "517"
   },
   {
     "id": "skin-1902612",
@@ -1817,7 +2075,9 @@
     "price": 0.17,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Sawed-Off | Yorick"
+    "item_name": "Sawed-Off | Yorick",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "517"
   },
   {
     "id": "skin-1902612",
@@ -1831,7 +2091,9 @@
     "price": 0.12,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Sawed-Off | Yorick"
+    "item_name": "Sawed-Off | Yorick",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "517"
   },
   {
     "id": "skin-1902612",
@@ -1845,7 +2107,9 @@
     "price": 1.29,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Sawed-Off | Yorick"
+    "item_name": "Sawed-Off | Yorick",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "517"
   },
   {
     "id": "skin-1902612",
@@ -1859,7 +2123,9 @@
     "price": 0.05,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Yorick"
+    "item_name": "Sawed-Off | Yorick",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "517"
   },
   {
     "id": "skin-1902612",
@@ -1873,7 +2139,9 @@
     "price": 0.31,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Yorick"
+    "item_name": "Sawed-Off | Yorick",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "517"
   },
   {
     "id": "skin-1901924",
@@ -1887,7 +2155,9 @@
     "price": 32.09,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | First Class"
+    "item_name": "Sawed-Off | First Class",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "345"
   },
   {
     "id": "skin-1901924",
@@ -1901,7 +2171,9 @@
     "price": 821.77,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | First Class"
+    "item_name": "Sawed-Off | First Class",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "345"
   },
   {
     "id": "skin-1901924",
@@ -1915,7 +2187,9 @@
     "price": 30.96,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | First Class"
+    "item_name": "Sawed-Off | First Class",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "345"
   },
   {
     "id": "skin-1901924",
@@ -1929,7 +2203,9 @@
     "price": 82.32,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | First Class"
+    "item_name": "Sawed-Off | First Class",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "345"
   },
   {
     "id": "skin-1901924",
@@ -1943,7 +2219,9 @@
     "price": 32.77,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | First Class"
+    "item_name": "Sawed-Off | First Class",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "345"
   },
   {
     "id": "skin-1901568",
@@ -1957,7 +2235,9 @@
     "price": 8.16,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | The Kraken"
+    "item_name": "Sawed-Off | The Kraken",
+    "rarity": "Covert",
+    "paint_index": "256"
   },
   {
     "id": "skin-1901568",
@@ -1971,7 +2251,9 @@
     "price": 43.74,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Sawed-Off | The Kraken"
+    "item_name": "Sawed-Off | The Kraken",
+    "rarity": "Covert",
+    "paint_index": "256"
   },
   {
     "id": "skin-1901568",
@@ -1985,7 +2267,9 @@
     "price": 5.46,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | The Kraken"
+    "item_name": "Sawed-Off | The Kraken",
+    "rarity": "Covert",
+    "paint_index": "256"
   },
   {
     "id": "skin-1901568",
@@ -1999,7 +2283,9 @@
     "price": 3.27,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | The Kraken"
+    "item_name": "Sawed-Off | The Kraken",
+    "rarity": "Covert",
+    "paint_index": "256"
   },
   {
     "id": "skin-1901568",
@@ -2013,7 +2299,9 @@
     "price": 13.7,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Sawed-Off | The Kraken"
+    "item_name": "Sawed-Off | The Kraken",
+    "rarity": "Covert",
+    "paint_index": "256"
   },
   {
     "id": "skin-1901568",
@@ -2027,7 +2315,9 @@
     "price": 37.03,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Sawed-Off | The Kraken"
+    "item_name": "Sawed-Off | The Kraken",
+    "rarity": "Covert",
+    "paint_index": "256"
   },
   {
     "id": "skin-1901568",
@@ -2041,7 +2331,9 @@
     "price": 3.64,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | The Kraken"
+    "item_name": "Sawed-Off | The Kraken",
+    "rarity": "Covert",
+    "paint_index": "256"
   },
   {
     "id": "skin-1901568",
@@ -2055,7 +2347,9 @@
     "price": 18.82,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Sawed-Off | The Kraken"
+    "item_name": "Sawed-Off | The Kraken",
+    "rarity": "Covert",
+    "paint_index": "256"
   },
   {
     "id": "skin-1901836",
@@ -2069,7 +2363,9 @@
     "price": 9.87,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Rust Coat"
+    "item_name": "Sawed-Off | Rust Coat",
+    "rarity": "Industrial Grade",
+    "paint_index": "323"
   },
   {
     "id": "skin-1901836",
@@ -2083,7 +2379,9 @@
     "price": 13.03,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Rust Coat"
+    "item_name": "Sawed-Off | Rust Coat",
+    "rarity": "Industrial Grade",
+    "paint_index": "323"
   },
   {
     "id": "skin-1901836",
@@ -2097,7 +2395,9 @@
     "price": 10.14,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Rust Coat"
+    "item_name": "Sawed-Off | Rust Coat",
+    "rarity": "Industrial Grade",
+    "paint_index": "323"
   },
   {
     "id": "skin-1901836",
@@ -2111,7 +2411,9 @@
     "price": 9.88,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Rust Coat"
+    "item_name": "Sawed-Off | Rust Coat",
+    "rarity": "Industrial Grade",
+    "paint_index": "323"
   },
   {
     "id": "skin-1901836",
@@ -2125,7 +2427,9 @@
     "price": 9.84,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Rust Coat"
+    "item_name": "Sawed-Off | Rust Coat",
+    "rarity": "Industrial Grade",
+    "paint_index": "323"
   },
   {
     "id": "skin-1901228",
@@ -2139,7 +2443,9 @@
     "price": 1.11,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Irradiated Alert"
+    "item_name": "Sawed-Off | Irradiated Alert",
+    "rarity": "Consumer Grade",
+    "paint_index": "171"
   },
   {
     "id": "skin-1901228",
@@ -2153,7 +2459,9 @@
     "price": 1.16,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Irradiated Alert"
+    "item_name": "Sawed-Off | Irradiated Alert",
+    "rarity": "Consumer Grade",
+    "paint_index": "171"
   },
   {
     "id": "skin-1901228",
@@ -2167,7 +2475,9 @@
     "price": 9.44,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Irradiated Alert"
+    "item_name": "Sawed-Off | Irradiated Alert",
+    "rarity": "Consumer Grade",
+    "paint_index": "171"
   },
   {
     "id": "skin-1901228",
@@ -2181,7 +2491,9 @@
     "price": 1.96,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Irradiated Alert"
+    "item_name": "Sawed-Off | Irradiated Alert",
+    "rarity": "Consumer Grade",
+    "paint_index": "171"
   },
   {
     "id": "skin-1901228",
@@ -2195,7 +2507,9 @@
     "price": 1.06,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Irradiated Alert"
+    "item_name": "Sawed-Off | Irradiated Alert",
+    "rarity": "Consumer Grade",
+    "paint_index": "171"
   },
   {
     "id": "skin-1901528",
@@ -2209,7 +2523,9 @@
     "price": 0.29,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Amber Fade"
+    "item_name": "Sawed-Off | Amber Fade",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "246"
   },
   {
     "id": "skin-1901528",
@@ -2223,7 +2539,9 @@
     "price": 0.23,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Amber Fade"
+    "item_name": "Sawed-Off | Amber Fade",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "246"
   },
   {
     "id": "skin-1901528",
@@ -2237,7 +2555,9 @@
     "price": 0.38,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Amber Fade"
+    "item_name": "Sawed-Off | Amber Fade",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "246"
   },
   {
     "id": "skin-1901528",
@@ -2251,7 +2571,9 @@
     "price": 0.64,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Amber Fade"
+    "item_name": "Sawed-Off | Amber Fade",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "246"
   },
   {
     "id": "skin-1903732",
@@ -2265,7 +2587,9 @@
     "price": 0.8,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Brake Light"
+    "item_name": "Sawed-Off | Brake Light",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "797"
   },
   {
     "id": "skin-1903732",
@@ -2279,7 +2603,9 @@
     "price": 0.79,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Brake Light"
+    "item_name": "Sawed-Off | Brake Light",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "797"
   },
   {
     "id": "skin-1900664",
@@ -2293,7 +2619,9 @@
     "price": 0.05,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Snake Camo"
+    "item_name": "Sawed-Off | Snake Camo",
+    "rarity": "Industrial Grade",
+    "paint_index": "30"
   },
   {
     "id": "skin-1900664",
@@ -2307,7 +2635,9 @@
     "price": 0.05,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Snake Camo"
+    "item_name": "Sawed-Off | Snake Camo",
+    "rarity": "Industrial Grade",
+    "paint_index": "30"
   },
   {
     "id": "skin-1900664",
@@ -2321,7 +2651,9 @@
     "price": 0.16,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Snake Camo"
+    "item_name": "Sawed-Off | Snake Camo",
+    "rarity": "Industrial Grade",
+    "paint_index": "30"
   },
   {
     "id": "skin-1900664",
@@ -2335,7 +2667,9 @@
     "price": 0.05,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Snake Camo"
+    "item_name": "Sawed-Off | Snake Camo",
+    "rarity": "Industrial Grade",
+    "paint_index": "30"
   },
   {
     "id": "skin-1900664",
@@ -2349,7 +2683,9 @@
     "price": 0.3,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Snake Camo"
+    "item_name": "Sawed-Off | Snake Camo",
+    "rarity": "Industrial Grade",
+    "paint_index": "30"
   },
   {
     "id": "skin-1904064",
@@ -2363,7 +2699,9 @@
     "price": 0.4,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Parched"
+    "item_name": "Sawed-Off | Parched",
+    "rarity": "Consumer Grade",
+    "paint_index": "880"
   },
   {
     "id": "skin-1904064",
@@ -2377,7 +2715,9 @@
     "price": 0.41,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Parched"
+    "item_name": "Sawed-Off | Parched",
+    "rarity": "Consumer Grade",
+    "paint_index": "880"
   },
   {
     "id": "skin-1904064",
@@ -2391,7 +2731,9 @@
     "price": 0.41,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Parched"
+    "item_name": "Sawed-Off | Parched",
+    "rarity": "Consumer Grade",
+    "paint_index": "880"
   },
   {
     "id": "skin-1904064",
@@ -2405,7 +2747,9 @@
     "price": 0.41,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Parched"
+    "item_name": "Sawed-Off | Parched",
+    "rarity": "Consumer Grade",
+    "paint_index": "880"
   },
   {
     "id": "skin-1904064",
@@ -2419,7 +2763,9 @@
     "price": 0.4,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Parched"
+    "item_name": "Sawed-Off | Parched",
+    "rarity": "Consumer Grade",
+    "paint_index": "880"
   },
   {
     "id": "skin-1902928",
@@ -2433,7 +2779,9 @@
     "price": 0.67,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Limelight"
+    "item_name": "Sawed-Off | Limelight",
+    "rarity": "Restricted",
+    "paint_index": "596"
   },
   {
     "id": "skin-1902928",
@@ -2447,7 +2795,9 @@
     "price": 1.88,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Sawed-Off | Limelight"
+    "item_name": "Sawed-Off | Limelight",
+    "rarity": "Restricted",
+    "paint_index": "596"
   },
   {
     "id": "skin-1902928",
@@ -2461,7 +2811,9 @@
     "price": 0.27,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Limelight"
+    "item_name": "Sawed-Off | Limelight",
+    "rarity": "Restricted",
+    "paint_index": "596"
   },
   {
     "id": "skin-1902928",
@@ -2475,7 +2827,9 @@
     "price": 0.72,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Sawed-Off | Limelight"
+    "item_name": "Sawed-Off | Limelight",
+    "rarity": "Restricted",
+    "paint_index": "596"
   },
   {
     "id": "skin-1902928",
@@ -2489,7 +2843,9 @@
     "price": 0.77,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Sawed-Off | Limelight"
+    "item_name": "Sawed-Off | Limelight",
+    "rarity": "Restricted",
+    "paint_index": "596"
   },
   {
     "id": "skin-1902928",
@@ -2503,7 +2859,9 @@
     "price": 0.27,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Limelight"
+    "item_name": "Sawed-Off | Limelight",
+    "rarity": "Restricted",
+    "paint_index": "596"
   },
   {
     "id": "skin-1902928",
@@ -2517,7 +2875,9 @@
     "price": 4.87,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Sawed-Off | Limelight"
+    "item_name": "Sawed-Off | Limelight",
+    "rarity": "Restricted",
+    "paint_index": "596"
   },
   {
     "id": "skin-1902928",
@@ -2531,7 +2891,9 @@
     "price": 0.85,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Sawed-Off | Limelight"
+    "item_name": "Sawed-Off | Limelight",
+    "rarity": "Restricted",
+    "paint_index": "596"
   },
   {
     "id": "skin-1902928",
@@ -2545,7 +2907,9 @@
     "price": 1.57,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Limelight"
+    "item_name": "Sawed-Off | Limelight",
+    "rarity": "Restricted",
+    "paint_index": "596"
   },
   {
     "id": "skin-1902928",
@@ -2559,7 +2923,9 @@
     "price": 0.37,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Limelight"
+    "item_name": "Sawed-Off | Limelight",
+    "rarity": "Restricted",
+    "paint_index": "596"
   },
   {
     "id": "skin-1903424",
@@ -2573,7 +2939,9 @@
     "price": 9.04,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Devourer"
+    "item_name": "Sawed-Off | Devourer",
+    "rarity": "Classified",
+    "paint_index": "720"
   },
   {
     "id": "skin-1903424",
@@ -2587,7 +2955,9 @@
     "price": 2.07,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Devourer"
+    "item_name": "Sawed-Off | Devourer",
+    "rarity": "Classified",
+    "paint_index": "720"
   },
   {
     "id": "skin-1903424",
@@ -2601,7 +2971,9 @@
     "price": 4.65,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Sawed-Off | Devourer"
+    "item_name": "Sawed-Off | Devourer",
+    "rarity": "Classified",
+    "paint_index": "720"
   },
   {
     "id": "skin-1903424",
@@ -2615,7 +2987,9 @@
     "price": 24.68,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Sawed-Off | Devourer"
+    "item_name": "Sawed-Off | Devourer",
+    "rarity": "Classified",
+    "paint_index": "720"
   },
   {
     "id": "skin-1903424",
@@ -2629,7 +3003,9 @@
     "price": 5.68,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Sawed-Off | Devourer"
+    "item_name": "Sawed-Off | Devourer",
+    "rarity": "Classified",
+    "paint_index": "720"
   },
   {
     "id": "skin-1903424",
@@ -2643,7 +3019,9 @@
     "price": 4.76,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Devourer"
+    "item_name": "Sawed-Off | Devourer",
+    "rarity": "Classified",
+    "paint_index": "720"
   },
   {
     "id": "skin-1903424",
@@ -2657,7 +3035,9 @@
     "price": 2.77,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Devourer"
+    "item_name": "Sawed-Off | Devourer",
+    "rarity": "Classified",
+    "paint_index": "720"
   },
   {
     "id": "skin-1903424",
@@ -2671,7 +3051,9 @@
     "price": 10.83,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Sawed-Off | Devourer"
+    "item_name": "Sawed-Off | Devourer",
+    "rarity": "Classified",
+    "paint_index": "720"
   },
   {
     "id": "skin-1903424",
@@ -2685,7 +3067,9 @@
     "price": 3.09,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Devourer"
+    "item_name": "Sawed-Off | Devourer",
+    "rarity": "Classified",
+    "paint_index": "720"
   },
   {
     "id": "skin-1903424",
@@ -2699,7 +3083,9 @@
     "price": 6.64,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Sawed-Off | Devourer"
+    "item_name": "Sawed-Off | Devourer",
+    "rarity": "Classified",
+    "paint_index": "720"
   },
   {
     "id": "skin-1901360",
@@ -2713,7 +3099,9 @@
     "price": 2.61,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Mosaico"
+    "item_name": "Sawed-Off | Mosaico",
+    "rarity": "Industrial Grade",
+    "paint_index": "204"
   },
   {
     "id": "skin-1901360",
@@ -2727,7 +3115,9 @@
     "price": 3.5,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Mosaico"
+    "item_name": "Sawed-Off | Mosaico",
+    "rarity": "Industrial Grade",
+    "paint_index": "204"
   },
   {
     "id": "skin-1901360",
@@ -2741,7 +3131,9 @@
     "price": 4.41,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Mosaico"
+    "item_name": "Sawed-Off | Mosaico",
+    "rarity": "Industrial Grade",
+    "paint_index": "204"
   },
   {
     "id": "skin-1901360",
@@ -2755,7 +3147,9 @@
     "price": 89.04,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Mosaico"
+    "item_name": "Sawed-Off | Mosaico",
+    "rarity": "Industrial Grade",
+    "paint_index": "204"
   },
   {
     "id": "skin-1901360",
@@ -2769,7 +3163,9 @@
     "price": 31.26,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Mosaico"
+    "item_name": "Sawed-Off | Mosaico",
+    "rarity": "Industrial Grade",
+    "paint_index": "204"
   },
   {
     "id": "skin-1905164",
@@ -2783,7 +3179,9 @@
     "price": 8.36,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Kiss♥Love"
+    "item_name": "Sawed-Off | Kiss♥Love",
+    "rarity": "Classified",
+    "paint_index": "1155"
   },
   {
     "id": "skin-1905164",
@@ -2797,7 +3195,9 @@
     "price": 3.54,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Sawed-Off | Kiss♥Love"
+    "item_name": "Sawed-Off | Kiss♥Love",
+    "rarity": "Classified",
+    "paint_index": "1155"
   },
   {
     "id": "skin-1905164",
@@ -2811,7 +3211,9 @@
     "price": 8.17,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Sawed-Off | Kiss♥Love"
+    "item_name": "Sawed-Off | Kiss♥Love",
+    "rarity": "Classified",
+    "paint_index": "1155"
   },
   {
     "id": "skin-1905164",
@@ -2825,7 +3227,9 @@
     "price": 21.66,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Sawed-Off | Kiss♥Love"
+    "item_name": "Sawed-Off | Kiss♥Love",
+    "rarity": "Classified",
+    "paint_index": "1155"
   },
   {
     "id": "skin-1905164",
@@ -2839,7 +3243,9 @@
     "price": 3.78,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Sawed-Off | Kiss♥Love"
+    "item_name": "Sawed-Off | Kiss♥Love",
+    "rarity": "Classified",
+    "paint_index": "1155"
   },
   {
     "id": "skin-1905164",
@@ -2853,7 +3259,9 @@
     "price": 3.69,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Kiss♥Love"
+    "item_name": "Sawed-Off | Kiss♥Love",
+    "rarity": "Classified",
+    "paint_index": "1155"
   },
   {
     "id": "skin-1905164",
@@ -2867,7 +3275,9 @@
     "price": 2.06,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Kiss♥Love"
+    "item_name": "Sawed-Off | Kiss♥Love",
+    "rarity": "Classified",
+    "paint_index": "1155"
   },
   {
     "id": "skin-1905164",
@@ -2881,7 +3291,9 @@
     "price": 1.84,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Kiss♥Love"
+    "item_name": "Sawed-Off | Kiss♥Love",
+    "rarity": "Classified",
+    "paint_index": "1155"
   },
   {
     "id": "skin-1905164",
@@ -2895,7 +3307,9 @@
     "price": 3.09,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Sawed-Off | Kiss♥Love"
+    "item_name": "Sawed-Off | Kiss♥Love",
+    "rarity": "Classified",
+    "paint_index": "1155"
   },
   {
     "id": "skin-1905164",
@@ -2909,7 +3323,9 @@
     "price": 2,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Kiss♥Love"
+    "item_name": "Sawed-Off | Kiss♥Love",
+    "rarity": "Classified",
+    "paint_index": "1155"
   },
   {
     "id": "skin-1904024",
@@ -2923,7 +3339,9 @@
     "price": 1.91,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Jungle Thicket"
+    "item_name": "Sawed-Off | Jungle Thicket",
+    "rarity": "Consumer Grade",
+    "paint_index": "870"
   },
   {
     "id": "skin-1904024",
@@ -2937,7 +3355,9 @@
     "price": 2.17,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Jungle Thicket"
+    "item_name": "Sawed-Off | Jungle Thicket",
+    "rarity": "Consumer Grade",
+    "paint_index": "870"
   },
   {
     "id": "skin-1904024",
@@ -2951,7 +3371,9 @@
     "price": 1.81,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Jungle Thicket"
+    "item_name": "Sawed-Off | Jungle Thicket",
+    "rarity": "Consumer Grade",
+    "paint_index": "870"
   },
   {
     "id": "skin-1904024",
@@ -2965,7 +3387,9 @@
     "price": 1.91,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Jungle Thicket"
+    "item_name": "Sawed-Off | Jungle Thicket",
+    "rarity": "Consumer Grade",
+    "paint_index": "870"
   },
   {
     "id": "skin-1904024",
@@ -2979,7 +3403,9 @@
     "price": 1.93,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Jungle Thicket"
+    "item_name": "Sawed-Off | Jungle Thicket",
+    "rarity": "Consumer Grade",
+    "paint_index": "870"
   },
   {
     "id": "skin-1900708",
@@ -2993,7 +3419,9 @@
     "price": 79.06,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Copper"
+    "item_name": "Sawed-Off | Copper",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "41"
   },
   {
     "id": "skin-1900708",
@@ -3007,7 +3435,9 @@
     "price": 75.28,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Copper"
+    "item_name": "Sawed-Off | Copper",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "41"
   },
   {
     "id": "skin-1900708",
@@ -3021,7 +3451,9 @@
     "price": 97.23,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Copper"
+    "item_name": "Sawed-Off | Copper",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "41"
   },
   {
     "id": "skin-1900708",
@@ -3035,7 +3467,9 @@
     "price": 77.98,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Copper"
+    "item_name": "Sawed-Off | Copper",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "41"
   },
   {
     "id": "skin-1900708",
@@ -3049,7 +3483,9 @@
     "price": 86.8,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Copper"
+    "item_name": "Sawed-Off | Copper",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "41"
   },
   {
     "id": "skin-1902376",
@@ -3063,7 +3499,9 @@
     "price": 1.8,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Bamboo Shadow"
+    "item_name": "Sawed-Off | Bamboo Shadow",
+    "rarity": "Consumer Grade",
+    "paint_index": "458"
   },
   {
     "id": "skin-1902376",
@@ -3077,7 +3515,9 @@
     "price": 1.71,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Bamboo Shadow"
+    "item_name": "Sawed-Off | Bamboo Shadow",
+    "rarity": "Consumer Grade",
+    "paint_index": "458"
   },
   {
     "id": "skin-1902376",
@@ -3091,7 +3531,9 @@
     "price": 2.03,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Bamboo Shadow"
+    "item_name": "Sawed-Off | Bamboo Shadow",
+    "rarity": "Consumer Grade",
+    "paint_index": "458"
   },
   {
     "id": "skin-1902376",
@@ -3105,7 +3547,9 @@
     "price": 2.19,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Bamboo Shadow"
+    "item_name": "Sawed-Off | Bamboo Shadow",
+    "rarity": "Consumer Grade",
+    "paint_index": "458"
   },
   {
     "id": "skin-1902376",
@@ -3119,6 +3563,8 @@
     "price": 3.33,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Sawed-Off | Bamboo Shadow"
+    "item_name": "Sawed-Off | Bamboo Shadow",
+    "rarity": "Consumer Grade",
+    "paint_index": "458"
   }
 ]

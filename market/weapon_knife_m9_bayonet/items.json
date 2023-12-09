@@ -11,7 +11,9 @@
     "price": 1234.11,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Gamma Doppler"
+    "item_name": "★ M9 Bayonet | Gamma Doppler",
+    "rarity": "Covert",
+    "paint_index": "572"
   },
   {
     "id": "skin-33294576",
@@ -25,7 +27,9 @@
     "price": 1220.47,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Gamma Doppler"
+    "item_name": "★ M9 Bayonet | Gamma Doppler",
+    "rarity": "Covert",
+    "paint_index": "572"
   },
   {
     "id": "skin-33294576",
@@ -39,7 +43,9 @@
     "price": 1330.17,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Gamma Doppler"
+    "item_name": "★ M9 Bayonet | Gamma Doppler",
+    "rarity": "Covert",
+    "paint_index": "572"
   },
   {
     "id": "skin-33294576",
@@ -53,7 +59,9 @@
     "price": 1234.18,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Gamma Doppler"
+    "item_name": "★ M9 Bayonet | Gamma Doppler",
+    "rarity": "Covert",
+    "paint_index": "572"
   },
   {
     "id": "skin-33294556",
@@ -67,7 +75,9 @@
     "price": 543.04,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Black Laminate"
+    "item_name": "★ M9 Bayonet | Black Laminate",
+    "rarity": "Covert",
+    "paint_index": "567"
   },
   {
     "id": "skin-33294556",
@@ -81,7 +91,9 @@
     "price": 545.71,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Black Laminate"
+    "item_name": "★ M9 Bayonet | Black Laminate",
+    "rarity": "Covert",
+    "paint_index": "567"
   },
   {
     "id": "skin-33294556",
@@ -95,7 +107,9 @@
     "price": 589.59,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Black Laminate"
+    "item_name": "★ M9 Bayonet | Black Laminate",
+    "rarity": "Covert",
+    "paint_index": "567"
   },
   {
     "id": "skin-33294556",
@@ -109,7 +123,9 @@
     "price": 553.87,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Black Laminate"
+    "item_name": "★ M9 Bayonet | Black Laminate",
+    "rarity": "Covert",
+    "paint_index": "567"
   },
   {
     "id": "skin-33294556",
@@ -123,7 +139,9 @@
     "price": 884.43,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Black Laminate"
+    "item_name": "★ M9 Bayonet | Black Laminate",
+    "rarity": "Covert",
+    "paint_index": "567"
   },
   {
     "id": "skin-33294556",
@@ -137,7 +155,9 @@
     "price": 521.1,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Black Laminate"
+    "item_name": "★ M9 Bayonet | Black Laminate",
+    "rarity": "Covert",
+    "paint_index": "567"
   },
   {
     "id": "skin-33294556",
@@ -151,7 +171,9 @@
     "price": 589.66,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Black Laminate"
+    "item_name": "★ M9 Bayonet | Black Laminate",
+    "rarity": "Covert",
+    "paint_index": "567"
   },
   {
     "id": "skin-33294556",
@@ -165,7 +187,9 @@
     "price": 884.43,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Black Laminate"
+    "item_name": "★ M9 Bayonet | Black Laminate",
+    "rarity": "Covert",
+    "paint_index": "567"
   },
   {
     "id": "skin-33294556",
@@ -179,7 +203,9 @@
     "price": 611.4,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Black Laminate"
+    "item_name": "★ M9 Bayonet | Black Laminate",
+    "rarity": "Covert",
+    "paint_index": "567"
   },
   {
     "id": "skin-33294556",
@@ -193,7 +219,9 @@
     "price": 562.24,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Black Laminate"
+    "item_name": "★ M9 Bayonet | Black Laminate",
+    "rarity": "Covert",
+    "paint_index": "567"
   },
   {
     "id": "skin-33294604",
@@ -207,7 +235,9 @@
     "price": 404.4,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Bright Water"
+    "item_name": "★ M9 Bayonet | Bright Water",
+    "rarity": "Covert",
+    "paint_index": "579"
   },
   {
     "id": "skin-33294604",
@@ -221,7 +251,9 @@
     "price": 473.1,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Bright Water"
+    "item_name": "★ M9 Bayonet | Bright Water",
+    "rarity": "Covert",
+    "paint_index": "579"
   },
   {
     "id": "skin-33294604",
@@ -235,7 +267,9 @@
     "price": 390.75,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Bright Water"
+    "item_name": "★ M9 Bayonet | Bright Water",
+    "rarity": "Covert",
+    "paint_index": "579"
   },
   {
     "id": "skin-33294604",
@@ -249,7 +283,9 @@
     "price": 413.45,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Bright Water"
+    "item_name": "★ M9 Bayonet | Bright Water",
+    "rarity": "Covert",
+    "paint_index": "579"
   },
   {
     "id": "skin-33294604",
@@ -263,7 +299,9 @@
     "price": 507.38,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Bright Water"
+    "item_name": "★ M9 Bayonet | Bright Water",
+    "rarity": "Covert",
+    "paint_index": "579"
   },
   {
     "id": "skin-33294604",
@@ -277,7 +315,9 @@
     "price": 383.49,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Bright Water"
+    "item_name": "★ M9 Bayonet | Bright Water",
+    "rarity": "Covert",
+    "paint_index": "579"
   },
   {
     "id": "skin-33294604",
@@ -291,7 +331,9 @@
     "price": 358.6,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Bright Water"
+    "item_name": "★ M9 Bayonet | Bright Water",
+    "rarity": "Covert",
+    "paint_index": "579"
   },
   {
     "id": "skin-33294604",
@@ -305,7 +347,9 @@
     "price": 452.53,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Bright Water"
+    "item_name": "★ M9 Bayonet | Bright Water",
+    "rarity": "Covert",
+    "paint_index": "579"
   },
   {
     "id": "skin-33294604",
@@ -319,7 +363,9 @@
     "price": 373.68,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Bright Water"
+    "item_name": "★ M9 Bayonet | Bright Water",
+    "rarity": "Covert",
+    "paint_index": "579"
   },
   {
     "id": "skin-33294604",
@@ -333,7 +379,9 @@
     "price": 511.22,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Bright Water"
+    "item_name": "★ M9 Bayonet | Bright Water",
+    "rarity": "Covert",
+    "paint_index": "579"
   },
   {
     "id": "skin-33293932",
@@ -347,7 +395,9 @@
     "price": 479.96,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Damascus Steel"
+    "item_name": "★ M9 Bayonet | Damascus Steel",
+    "rarity": "Covert",
+    "paint_index": "411"
   },
   {
     "id": "skin-33293932",
@@ -361,7 +411,9 @@
     "price": 549.21,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Damascus Steel"
+    "item_name": "★ M9 Bayonet | Damascus Steel",
+    "rarity": "Covert",
+    "paint_index": "411"
   },
   {
     "id": "skin-33293932",
@@ -375,7 +427,9 @@
     "price": 541.67,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Damascus Steel"
+    "item_name": "★ M9 Bayonet | Damascus Steel",
+    "rarity": "Covert",
+    "paint_index": "411"
   },
   {
     "id": "skin-33293932",
@@ -389,7 +443,9 @@
     "price": 473.1,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Damascus Steel"
+    "item_name": "★ M9 Bayonet | Damascus Steel",
+    "rarity": "Covert",
+    "paint_index": "411"
   },
   {
     "id": "skin-33293932",
@@ -403,7 +459,9 @@
     "price": 421.94,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Damascus Steel"
+    "item_name": "★ M9 Bayonet | Damascus Steel",
+    "rarity": "Covert",
+    "paint_index": "411"
   },
   {
     "id": "skin-33293932",
@@ -417,7 +475,9 @@
     "price": 459.39,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Damascus Steel"
+    "item_name": "★ M9 Bayonet | Damascus Steel",
+    "rarity": "Covert",
+    "paint_index": "411"
   },
   {
     "id": "skin-33293932",
@@ -431,7 +491,9 @@
     "price": 457.06,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Damascus Steel"
+    "item_name": "★ M9 Bayonet | Damascus Steel",
+    "rarity": "Covert",
+    "paint_index": "411"
   },
   {
     "id": "skin-33293932",
@@ -445,7 +507,9 @@
     "price": 507.32,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Damascus Steel"
+    "item_name": "★ M9 Bayonet | Damascus Steel",
+    "rarity": "Covert",
+    "paint_index": "411"
   },
   {
     "id": "skin-33293932",
@@ -459,7 +523,9 @@
     "price": 437.45,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Damascus Steel"
+    "item_name": "★ M9 Bayonet | Damascus Steel",
+    "rarity": "Covert",
+    "paint_index": "411"
   },
   {
     "id": "skin-33293932",
@@ -473,7 +539,9 @@
     "price": 615.72,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Damascus Steel"
+    "item_name": "★ M9 Bayonet | Damascus Steel",
+    "rarity": "Covert",
+    "paint_index": "411"
   },
   {
     "id": "skin-33294596",
@@ -487,7 +555,9 @@
     "price": 918.78,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Autotronic"
+    "item_name": "★ M9 Bayonet | Autotronic",
+    "rarity": "Covert",
+    "paint_index": "577"
   },
   {
     "id": "skin-33294596",
@@ -501,7 +571,9 @@
     "price": 685.52,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Autotronic"
+    "item_name": "★ M9 Bayonet | Autotronic",
+    "rarity": "Covert",
+    "paint_index": "577"
   },
   {
     "id": "skin-33294596",
@@ -515,7 +587,9 @@
     "price": 767.93,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Autotronic"
+    "item_name": "★ M9 Bayonet | Autotronic",
+    "rarity": "Covert",
+    "paint_index": "577"
   },
   {
     "id": "skin-33294596",
@@ -529,7 +603,9 @@
     "price": 704.65,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Autotronic"
+    "item_name": "★ M9 Bayonet | Autotronic",
+    "rarity": "Covert",
+    "paint_index": "577"
   },
   {
     "id": "skin-33294596",
@@ -543,7 +619,9 @@
     "price": 917.41,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Autotronic"
+    "item_name": "★ M9 Bayonet | Autotronic",
+    "rarity": "Covert",
+    "paint_index": "577"
   },
   {
     "id": "skin-33294596",
@@ -557,7 +635,9 @@
     "price": 626.28,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Autotronic"
+    "item_name": "★ M9 Bayonet | Autotronic",
+    "rarity": "Covert",
+    "paint_index": "577"
   },
   {
     "id": "skin-33294596",
@@ -571,7 +651,9 @@
     "price": 1458.52,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Autotronic"
+    "item_name": "★ M9 Bayonet | Autotronic",
+    "rarity": "Covert",
+    "paint_index": "577"
   },
   {
     "id": "skin-33294596",
@@ -585,7 +667,9 @@
     "price": 704.85,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Autotronic"
+    "item_name": "★ M9 Bayonet | Autotronic",
+    "rarity": "Covert",
+    "paint_index": "577"
   },
   {
     "id": "skin-33294596",
@@ -599,7 +683,9 @@
     "price": 1919.83,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Autotronic"
+    "item_name": "★ M9 Bayonet | Autotronic",
+    "rarity": "Covert",
+    "paint_index": "577"
   },
   {
     "id": "skin-33294596",
@@ -613,7 +699,9 @@
     "price": 753.81,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Autotronic"
+    "item_name": "★ M9 Bayonet | Autotronic",
+    "rarity": "Covert",
+    "paint_index": "577"
   },
   {
     "id": "skin-33294612",
@@ -627,7 +715,9 @@
     "price": 409.34,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Freehand"
+    "item_name": "★ M9 Bayonet | Freehand",
+    "rarity": "Covert",
+    "paint_index": "581"
   },
   {
     "id": "skin-33294612",
@@ -641,7 +731,9 @@
     "price": 415.51,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Freehand"
+    "item_name": "★ M9 Bayonet | Freehand",
+    "rarity": "Covert",
+    "paint_index": "581"
   },
   {
     "id": "skin-33294612",
@@ -655,7 +747,9 @@
     "price": 356.4,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Freehand"
+    "item_name": "★ M9 Bayonet | Freehand",
+    "rarity": "Covert",
+    "paint_index": "581"
   },
   {
     "id": "skin-33294612",
@@ -669,7 +763,9 @@
     "price": 489.08,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Freehand"
+    "item_name": "★ M9 Bayonet | Freehand",
+    "rarity": "Covert",
+    "paint_index": "581"
   },
   {
     "id": "skin-33294612",
@@ -683,7 +779,9 @@
     "price": 370.12,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Freehand"
+    "item_name": "★ M9 Bayonet | Freehand",
+    "rarity": "Covert",
+    "paint_index": "581"
   },
   {
     "id": "skin-33294612",
@@ -697,7 +795,9 @@
     "price": 506.84,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Freehand"
+    "item_name": "★ M9 Bayonet | Freehand",
+    "rarity": "Covert",
+    "paint_index": "581"
   },
   {
     "id": "skin-33294612",
@@ -711,7 +811,9 @@
     "price": 466.11,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Freehand"
+    "item_name": "★ M9 Bayonet | Freehand",
+    "rarity": "Covert",
+    "paint_index": "581"
   },
   {
     "id": "skin-33294612",
@@ -725,7 +827,9 @@
     "price": 411.38,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Freehand"
+    "item_name": "★ M9 Bayonet | Freehand",
+    "rarity": "Covert",
+    "paint_index": "581"
   },
   {
     "id": "skin-33294612",
@@ -739,7 +843,9 @@
     "price": 502.52,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Freehand"
+    "item_name": "★ M9 Bayonet | Freehand",
+    "rarity": "Covert",
+    "paint_index": "581"
   },
   {
     "id": "skin-33294612",
@@ -753,7 +859,9 @@
     "price": 367.51,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Freehand"
+    "item_name": "★ M9 Bayonet | Freehand",
+    "rarity": "Covert",
+    "paint_index": "581"
   },
   {
     "id": "skin-33292308",
@@ -767,7 +875,9 @@
     "price": 0,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Forest DDPAT"
+    "item_name": "★ M9 Bayonet | Forest DDPAT",
+    "rarity": "Covert",
+    "paint_index": "5"
   },
   {
     "id": "skin-33292308",
@@ -781,7 +891,9 @@
     "price": 318.08,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Forest DDPAT"
+    "item_name": "★ M9 Bayonet | Forest DDPAT",
+    "rarity": "Covert",
+    "paint_index": "5"
   },
   {
     "id": "skin-33292308",
@@ -795,7 +907,9 @@
     "price": 320.89,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Forest DDPAT"
+    "item_name": "★ M9 Bayonet | Forest DDPAT",
+    "rarity": "Covert",
+    "paint_index": "5"
   },
   {
     "id": "skin-33292308",
@@ -809,7 +923,9 @@
     "price": 373,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Forest DDPAT"
+    "item_name": "★ M9 Bayonet | Forest DDPAT",
+    "rarity": "Covert",
+    "paint_index": "5"
   },
   {
     "id": "skin-33292308",
@@ -823,7 +939,9 @@
     "price": 323.63,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Forest DDPAT"
+    "item_name": "★ M9 Bayonet | Forest DDPAT",
+    "rarity": "Covert",
+    "paint_index": "5"
   },
   {
     "id": "skin-33292308",
@@ -837,7 +955,9 @@
     "price": 319.52,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Forest DDPAT"
+    "item_name": "★ M9 Bayonet | Forest DDPAT",
+    "rarity": "Covert",
+    "paint_index": "5"
   },
   {
     "id": "skin-33292308",
@@ -851,7 +971,9 @@
     "price": 335.08,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Forest DDPAT"
+    "item_name": "★ M9 Bayonet | Forest DDPAT",
+    "rarity": "Covert",
+    "paint_index": "5"
   },
   {
     "id": "skin-33292308",
@@ -865,7 +987,9 @@
     "price": 370.25,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Forest DDPAT"
+    "item_name": "★ M9 Bayonet | Forest DDPAT",
+    "rarity": "Covert",
+    "paint_index": "5"
   },
   {
     "id": "skin-33292308",
@@ -879,7 +1003,9 @@
     "price": 959.78,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Forest DDPAT"
+    "item_name": "★ M9 Bayonet | Forest DDPAT",
+    "rarity": "Covert",
+    "paint_index": "5"
   },
   {
     "id": "skin-33292308",
@@ -893,7 +1019,9 @@
     "price": 396.31,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Forest DDPAT"
+    "item_name": "★ M9 Bayonet | Forest DDPAT",
+    "rarity": "Covert",
+    "paint_index": "5"
   },
   {
     "id": "skin-33292336",
@@ -907,7 +1035,9 @@
     "price": 493.53,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Crimson Web"
+    "item_name": "★ M9 Bayonet | Crimson Web",
+    "rarity": "Covert",
+    "paint_index": "12"
   },
   {
     "id": "skin-33292336",
@@ -921,7 +1051,9 @@
     "price": 527.89,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Crimson Web"
+    "item_name": "★ M9 Bayonet | Crimson Web",
+    "rarity": "Covert",
+    "paint_index": "12"
   },
   {
     "id": "skin-33292336",
@@ -935,7 +1067,9 @@
     "price": 493.67,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Crimson Web"
+    "item_name": "★ M9 Bayonet | Crimson Web",
+    "rarity": "Covert",
+    "paint_index": "12"
   },
   {
     "id": "skin-33292336",
@@ -949,7 +1083,9 @@
     "price": 582.81,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Crimson Web"
+    "item_name": "★ M9 Bayonet | Crimson Web",
+    "rarity": "Covert",
+    "paint_index": "12"
   },
   {
     "id": "skin-33292336",
@@ -963,7 +1099,9 @@
     "price": 1330.17,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Crimson Web"
+    "item_name": "★ M9 Bayonet | Crimson Web",
+    "rarity": "Covert",
+    "paint_index": "12"
   },
   {
     "id": "skin-33292336",
@@ -977,7 +1115,9 @@
     "price": 27426.19,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Crimson Web"
+    "item_name": "★ M9 Bayonet | Crimson Web",
+    "rarity": "Covert",
+    "paint_index": "12"
   },
   {
     "id": "skin-33292336",
@@ -991,7 +1131,9 @@
     "price": 1206.68,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Crimson Web"
+    "item_name": "★ M9 Bayonet | Crimson Web",
+    "rarity": "Covert",
+    "paint_index": "12"
   },
   {
     "id": "skin-33292336",
@@ -1005,7 +1147,9 @@
     "price": 6170.89,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Crimson Web"
+    "item_name": "★ M9 Bayonet | Crimson Web",
+    "rarity": "Covert",
+    "paint_index": "12"
   },
   {
     "id": "skin-33292336",
@@ -1019,7 +1163,9 @@
     "price": 487.5,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Crimson Web"
+    "item_name": "★ M9 Bayonet | Crimson Web",
+    "rarity": "Covert",
+    "paint_index": "12"
   },
   {
     "id": "skin-33292336",
@@ -1033,7 +1179,9 @@
     "price": 459.39,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Crimson Web"
+    "item_name": "★ M9 Bayonet | Crimson Web",
+    "rarity": "Covert",
+    "paint_index": "12"
   },
   {
     "id": "skin-33292596",
@@ -1047,7 +1195,9 @@
     "price": 314.85,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Boreal Forest"
+    "item_name": "★ M9 Bayonet | Boreal Forest",
+    "rarity": "Covert",
+    "paint_index": "77"
   },
   {
     "id": "skin-33292596",
@@ -1061,7 +1211,9 @@
     "price": 359.69,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Boreal Forest"
+    "item_name": "★ M9 Bayonet | Boreal Forest",
+    "rarity": "Covert",
+    "paint_index": "77"
   },
   {
     "id": "skin-33292596",
@@ -1075,7 +1227,9 @@
     "price": 321.98,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Boreal Forest"
+    "item_name": "★ M9 Bayonet | Boreal Forest",
+    "rarity": "Covert",
+    "paint_index": "77"
   },
   {
     "id": "skin-33292596",
@@ -1089,7 +1243,9 @@
     "price": 0,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Boreal Forest"
+    "item_name": "★ M9 Bayonet | Boreal Forest",
+    "rarity": "Covert",
+    "paint_index": "77"
   },
   {
     "id": "skin-33292596",
@@ -1103,7 +1259,9 @@
     "price": 379.3,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Boreal Forest"
+    "item_name": "★ M9 Bayonet | Boreal Forest",
+    "rarity": "Covert",
+    "paint_index": "77"
   },
   {
     "id": "skin-33292596",
@@ -1117,7 +1275,9 @@
     "price": 319.52,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Boreal Forest"
+    "item_name": "★ M9 Bayonet | Boreal Forest",
+    "rarity": "Covert",
+    "paint_index": "77"
   },
   {
     "id": "skin-33292596",
@@ -1131,7 +1291,9 @@
     "price": 338.09,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Boreal Forest"
+    "item_name": "★ M9 Bayonet | Boreal Forest",
+    "rarity": "Covert",
+    "paint_index": "77"
   },
   {
     "id": "skin-33292596",
@@ -1145,7 +1307,9 @@
     "price": 539.97,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Boreal Forest"
+    "item_name": "★ M9 Bayonet | Boreal Forest",
+    "rarity": "Covert",
+    "paint_index": "77"
   },
   {
     "id": "skin-33292596",
@@ -1159,7 +1323,9 @@
     "price": 394.94,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Boreal Forest"
+    "item_name": "★ M9 Bayonet | Boreal Forest",
+    "rarity": "Covert",
+    "paint_index": "77"
   },
   {
     "id": "skin-33292596",
@@ -1173,7 +1339,9 @@
     "price": 411.26,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Boreal Forest"
+    "item_name": "★ M9 Bayonet | Boreal Forest",
+    "rarity": "Covert",
+    "paint_index": "77"
   },
   {
     "id": "skin-33292680",
@@ -1187,7 +1355,9 @@
     "price": 1211,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Ultraviolet"
+    "item_name": "★ M9 Bayonet | Ultraviolet",
+    "rarity": "Covert",
+    "paint_index": "98"
   },
   {
     "id": "skin-33292680",
@@ -1201,7 +1371,9 @@
     "price": 372.93,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Ultraviolet"
+    "item_name": "★ M9 Bayonet | Ultraviolet",
+    "rarity": "Covert",
+    "paint_index": "98"
   },
   {
     "id": "skin-33292680",
@@ -1215,7 +1387,9 @@
     "price": 356.54,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Ultraviolet"
+    "item_name": "★ M9 Bayonet | Ultraviolet",
+    "rarity": "Covert",
+    "paint_index": "98"
   },
   {
     "id": "skin-33292680",
@@ -1229,7 +1403,9 @@
     "price": 359.28,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Ultraviolet"
+    "item_name": "★ M9 Bayonet | Ultraviolet",
+    "rarity": "Covert",
+    "paint_index": "98"
   },
   {
     "id": "skin-33292680",
@@ -1243,7 +1419,9 @@
     "price": 397.27,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Ultraviolet"
+    "item_name": "★ M9 Bayonet | Ultraviolet",
+    "rarity": "Covert",
+    "paint_index": "98"
   },
   {
     "id": "skin-33292680",
@@ -1257,7 +1435,9 @@
     "price": 507.38,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Ultraviolet"
+    "item_name": "★ M9 Bayonet | Ultraviolet",
+    "rarity": "Covert",
+    "paint_index": "98"
   },
   {
     "id": "skin-33292680",
@@ -1271,7 +1451,9 @@
     "price": 397.54,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Ultraviolet"
+    "item_name": "★ M9 Bayonet | Ultraviolet",
+    "rarity": "Covert",
+    "paint_index": "98"
   },
   {
     "id": "skin-33292680",
@@ -1285,7 +1467,9 @@
     "price": 356.54,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Ultraviolet"
+    "item_name": "★ M9 Bayonet | Ultraviolet",
+    "rarity": "Covert",
+    "paint_index": "98"
   },
   {
     "id": "skin-33292680",
@@ -1299,7 +1483,9 @@
     "price": 562.24,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Ultraviolet"
+    "item_name": "★ M9 Bayonet | Ultraviolet",
+    "rarity": "Covert",
+    "paint_index": "98"
   },
   {
     "id": "skin-33292680",
@@ -1313,7 +1499,9 @@
     "price": 0,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Ultraviolet"
+    "item_name": "★ M9 Bayonet | Ultraviolet",
+    "rarity": "Covert",
+    "paint_index": "98"
   },
   {
     "id": "skin-33292860",
@@ -1327,7 +1515,9 @@
     "price": 358.6,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Urban Masked"
+    "item_name": "★ M9 Bayonet | Urban Masked",
+    "rarity": "Covert",
+    "paint_index": "143"
   },
   {
     "id": "skin-33292860",
@@ -1341,7 +1531,9 @@
     "price": 315.4,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Urban Masked"
+    "item_name": "★ M9 Bayonet | Urban Masked",
+    "rarity": "Covert",
+    "paint_index": "143"
   },
   {
     "id": "skin-33292860",
@@ -1355,7 +1547,9 @@
     "price": 342.76,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Urban Masked"
+    "item_name": "★ M9 Bayonet | Urban Masked",
+    "rarity": "Covert",
+    "paint_index": "143"
   },
   {
     "id": "skin-33292860",
@@ -1369,7 +1563,9 @@
     "price": 321.57,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Urban Masked"
+    "item_name": "★ M9 Bayonet | Urban Masked",
+    "rarity": "Covert",
+    "paint_index": "143"
   },
   {
     "id": "skin-33292860",
@@ -1383,7 +1579,9 @@
     "price": 332.54,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Urban Masked"
+    "item_name": "★ M9 Bayonet | Urban Masked",
+    "rarity": "Covert",
+    "paint_index": "143"
   },
   {
     "id": "skin-33292860",
@@ -1397,7 +1595,9 @@
     "price": 356.4,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Urban Masked"
+    "item_name": "★ M9 Bayonet | Urban Masked",
+    "rarity": "Covert",
+    "paint_index": "143"
   },
   {
     "id": "skin-33292860",
@@ -1411,7 +1611,9 @@
     "price": 671.94,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Urban Masked"
+    "item_name": "★ M9 Bayonet | Urban Masked",
+    "rarity": "Covert",
+    "paint_index": "143"
   },
   {
     "id": "skin-33292860",
@@ -1425,7 +1627,9 @@
     "price": 356.54,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Urban Masked"
+    "item_name": "★ M9 Bayonet | Urban Masked",
+    "rarity": "Covert",
+    "paint_index": "143"
   },
   {
     "id": "skin-33292860",
@@ -1439,7 +1643,9 @@
     "price": 0,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Urban Masked"
+    "item_name": "★ M9 Bayonet | Urban Masked",
+    "rarity": "Covert",
+    "paint_index": "143"
   },
   {
     "id": "skin-33292860",
@@ -1453,7 +1659,9 @@
     "price": 383.96,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Urban Masked"
+    "item_name": "★ M9 Bayonet | Urban Masked",
+    "rarity": "Covert",
+    "paint_index": "143"
   },
   {
     "id": "skin-33292456",
@@ -1467,7 +1675,9 @@
     "price": 534.81,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Blue Steel"
+    "item_name": "★ M9 Bayonet | Blue Steel",
+    "rarity": "Covert",
+    "paint_index": "42"
   },
   {
     "id": "skin-33292456",
@@ -1481,7 +1691,9 @@
     "price": 492.03,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Blue Steel"
+    "item_name": "★ M9 Bayonet | Blue Steel",
+    "rarity": "Covert",
+    "paint_index": "42"
   },
   {
     "id": "skin-33292456",
@@ -1495,7 +1707,9 @@
     "price": 733.79,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Blue Steel"
+    "item_name": "★ M9 Bayonet | Blue Steel",
+    "rarity": "Covert",
+    "paint_index": "42"
   },
   {
     "id": "skin-33292456",
@@ -1509,7 +1723,9 @@
     "price": 451.98,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Blue Steel"
+    "item_name": "★ M9 Bayonet | Blue Steel",
+    "rarity": "Covert",
+    "paint_index": "42"
   },
   {
     "id": "skin-33292456",
@@ -1523,7 +1739,9 @@
     "price": 460.42,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Blue Steel"
+    "item_name": "★ M9 Bayonet | Blue Steel",
+    "rarity": "Covert",
+    "paint_index": "42"
   },
   {
     "id": "skin-33292456",
@@ -1537,7 +1755,9 @@
     "price": 514.93,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Blue Steel"
+    "item_name": "★ M9 Bayonet | Blue Steel",
+    "rarity": "Covert",
+    "paint_index": "42"
   },
   {
     "id": "skin-33292456",
@@ -1551,7 +1771,9 @@
     "price": 452.53,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Blue Steel"
+    "item_name": "★ M9 Bayonet | Blue Steel",
+    "rarity": "Covert",
+    "paint_index": "42"
   },
   {
     "id": "skin-33292456",
@@ -1565,7 +1787,9 @@
     "price": 455.14,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Blue Steel"
+    "item_name": "★ M9 Bayonet | Blue Steel",
+    "rarity": "Covert",
+    "paint_index": "42"
   },
   {
     "id": "skin-33292456",
@@ -1579,7 +1803,9 @@
     "price": 690.99,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Blue Steel"
+    "item_name": "★ M9 Bayonet | Blue Steel",
+    "rarity": "Covert",
+    "paint_index": "42"
   },
   {
     "id": "skin-33292456",
@@ -1593,7 +1819,9 @@
     "price": 490.79,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Blue Steel"
+    "item_name": "★ M9 Bayonet | Blue Steel",
+    "rarity": "Covert",
+    "paint_index": "42"
   },
   {
     "id": "skin-33292524",
@@ -1607,7 +1835,9 @@
     "price": 685.52,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Slaughter"
+    "item_name": "★ M9 Bayonet | Slaughter",
+    "rarity": "Covert",
+    "paint_index": "59"
   },
   {
     "id": "skin-33292524",
@@ -1621,7 +1851,9 @@
     "price": 891.35,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Slaughter"
+    "item_name": "★ M9 Bayonet | Slaughter",
+    "rarity": "Covert",
+    "paint_index": "59"
   },
   {
     "id": "skin-33292524",
@@ -1635,7 +1867,9 @@
     "price": 987.34,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Slaughter"
+    "item_name": "★ M9 Bayonet | Slaughter",
+    "rarity": "Covert",
+    "paint_index": "59"
   },
   {
     "id": "skin-33292524",
@@ -1649,7 +1883,9 @@
     "price": 658.91,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Slaughter"
+    "item_name": "★ M9 Bayonet | Slaughter",
+    "rarity": "Covert",
+    "paint_index": "59"
   },
   {
     "id": "skin-33292524",
@@ -1663,7 +1899,9 @@
     "price": 738.79,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Slaughter"
+    "item_name": "★ M9 Bayonet | Slaughter",
+    "rarity": "Covert",
+    "paint_index": "59"
   },
   {
     "id": "skin-33292524",
@@ -1677,7 +1915,9 @@
     "price": 747.3,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Slaughter"
+    "item_name": "★ M9 Bayonet | Slaughter",
+    "rarity": "Covert",
+    "paint_index": "59"
   },
   {
     "id": "skin-33294536",
@@ -1691,7 +1931,9 @@
     "price": 802.22,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Lore"
+    "item_name": "★ M9 Bayonet | Lore",
+    "rarity": "Covert",
+    "paint_index": "562"
   },
   {
     "id": "skin-33294536",
@@ -1705,7 +1947,9 @@
     "price": 589.66,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Lore"
+    "item_name": "★ M9 Bayonet | Lore",
+    "rarity": "Covert",
+    "paint_index": "562"
   },
   {
     "id": "skin-33294536",
@@ -1719,7 +1963,9 @@
     "price": 2440.79,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Lore"
+    "item_name": "★ M9 Bayonet | Lore",
+    "rarity": "Covert",
+    "paint_index": "562"
   },
   {
     "id": "skin-33294536",
@@ -1733,7 +1979,9 @@
     "price": 466.11,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Lore"
+    "item_name": "★ M9 Bayonet | Lore",
+    "rarity": "Covert",
+    "paint_index": "562"
   },
   {
     "id": "skin-33294536",
@@ -1747,7 +1995,9 @@
     "price": 1508.3,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Lore"
+    "item_name": "★ M9 Bayonet | Lore",
+    "rarity": "Covert",
+    "paint_index": "562"
   },
   {
     "id": "skin-33294536",
@@ -1761,7 +2011,9 @@
     "price": 760.87,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Lore"
+    "item_name": "★ M9 Bayonet | Lore",
+    "rarity": "Covert",
+    "paint_index": "562"
   },
   {
     "id": "skin-33294536",
@@ -1775,7 +2027,9 @@
     "price": 2262.66,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Lore"
+    "item_name": "★ M9 Bayonet | Lore",
+    "rarity": "Covert",
+    "paint_index": "562"
   },
   {
     "id": "skin-33294536",
@@ -1789,7 +2043,9 @@
     "price": 795.36,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Lore"
+    "item_name": "★ M9 Bayonet | Lore",
+    "rarity": "Covert",
+    "paint_index": "562"
   },
   {
     "id": "skin-33294536",
@@ -1803,7 +2059,9 @@
     "price": 1577.01,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Lore"
+    "item_name": "★ M9 Bayonet | Lore",
+    "rarity": "Covert",
+    "paint_index": "562"
   },
   {
     "id": "skin-33294536",
@@ -1817,7 +2075,9 @@
     "price": 479.82,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Lore"
+    "item_name": "★ M9 Bayonet | Lore",
+    "rarity": "Covert",
+    "paint_index": "562"
   },
   {
     "id": "skin-33292576",
@@ -1831,7 +2091,9 @@
     "price": 329.11,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Safari Mesh"
+    "item_name": "★ M9 Bayonet | Safari Mesh",
+    "rarity": "Covert",
+    "paint_index": "72"
   },
   {
     "id": "skin-33292576",
@@ -1845,7 +2107,9 @@
     "price": 333.23,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Safari Mesh"
+    "item_name": "★ M9 Bayonet | Safari Mesh",
+    "rarity": "Covert",
+    "paint_index": "72"
   },
   {
     "id": "skin-33292576",
@@ -1859,7 +2123,9 @@
     "price": 328.81,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Safari Mesh"
+    "item_name": "★ M9 Bayonet | Safari Mesh",
+    "rarity": "Covert",
+    "paint_index": "72"
   },
   {
     "id": "skin-33292576",
@@ -1873,7 +2139,9 @@
     "price": 2056.96,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Safari Mesh"
+    "item_name": "★ M9 Bayonet | Safari Mesh",
+    "rarity": "Covert",
+    "paint_index": "72"
   },
   {
     "id": "skin-33292576",
@@ -1887,7 +2155,9 @@
     "price": 326.37,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Safari Mesh"
+    "item_name": "★ M9 Bayonet | Safari Mesh",
+    "rarity": "Covert",
+    "paint_index": "72"
   },
   {
     "id": "skin-33292576",
@@ -1901,7 +2171,9 @@
     "price": 0,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Safari Mesh"
+    "item_name": "★ M9 Bayonet | Safari Mesh",
+    "rarity": "Covert",
+    "paint_index": "72"
   },
   {
     "id": "skin-33292576",
@@ -1915,7 +2187,9 @@
     "price": 318.08,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Safari Mesh"
+    "item_name": "★ M9 Bayonet | Safari Mesh",
+    "rarity": "Covert",
+    "paint_index": "72"
   },
   {
     "id": "skin-33292576",
@@ -1929,7 +2203,9 @@
     "price": 301.83,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Safari Mesh"
+    "item_name": "★ M9 Bayonet | Safari Mesh",
+    "rarity": "Covert",
+    "paint_index": "72"
   },
   {
     "id": "skin-33292576",
@@ -1943,7 +2219,9 @@
     "price": 312.59,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Safari Mesh"
+    "item_name": "★ M9 Bayonet | Safari Mesh",
+    "rarity": "Covert",
+    "paint_index": "72"
   },
   {
     "id": "skin-33292576",
@@ -1957,7 +2235,9 @@
     "price": 397.34,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Safari Mesh"
+    "item_name": "★ M9 Bayonet | Safari Mesh",
+    "rarity": "Covert",
+    "paint_index": "72"
   },
   {
     "id": "skin-33293924",
@@ -1971,7 +2251,9 @@
     "price": 809.07,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Tiger Tooth"
+    "item_name": "★ M9 Bayonet | Tiger Tooth",
+    "rarity": "Covert",
+    "paint_index": "409"
   },
   {
     "id": "skin-33293924",
@@ -1985,7 +2267,9 @@
     "price": 772.05,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Tiger Tooth"
+    "item_name": "★ M9 Bayonet | Tiger Tooth",
+    "rarity": "Covert",
+    "paint_index": "409"
   },
   {
     "id": "skin-33293924",
@@ -1999,7 +2283,9 @@
     "price": 891.35,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Tiger Tooth"
+    "item_name": "★ M9 Bayonet | Tiger Tooth",
+    "rarity": "Covert",
+    "paint_index": "409"
   },
   {
     "id": "skin-33293924",
@@ -2013,7 +2299,9 @@
     "price": 843.29,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Tiger Tooth"
+    "item_name": "★ M9 Bayonet | Tiger Tooth",
+    "rarity": "Covert",
+    "paint_index": "409"
   },
   {
     "id": "skin-33293972",
@@ -2027,7 +2315,9 @@
     "price": 959.78,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Doppler"
+    "item_name": "★ M9 Bayonet | Doppler",
+    "rarity": "Covert",
+    "paint_index": "421"
   },
   {
     "id": "skin-33293972",
@@ -2041,7 +2331,9 @@
     "price": 939.35,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Doppler"
+    "item_name": "★ M9 Bayonet | Doppler",
+    "rarity": "Covert",
+    "paint_index": "421"
   },
   {
     "id": "skin-33293972",
@@ -2055,7 +2347,9 @@
     "price": 911.78,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Doppler"
+    "item_name": "★ M9 Bayonet | Doppler",
+    "rarity": "Covert",
+    "paint_index": "421"
   },
   {
     "id": "skin-33293972",
@@ -2069,7 +2363,9 @@
     "price": 903.35,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Doppler"
+    "item_name": "★ M9 Bayonet | Doppler",
+    "rarity": "Covert",
+    "paint_index": "421"
   },
   {
     "id": "skin-33292448",
@@ -2083,7 +2379,9 @@
     "price": 0,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Night"
+    "item_name": "★ M9 Bayonet | Night",
+    "rarity": "Covert",
+    "paint_index": "40"
   },
   {
     "id": "skin-33292448",
@@ -2097,7 +2395,9 @@
     "price": 504.98,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Night"
+    "item_name": "★ M9 Bayonet | Night",
+    "rarity": "Covert",
+    "paint_index": "40"
   },
   {
     "id": "skin-33292448",
@@ -2111,7 +2411,9 @@
     "price": 366,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Night"
+    "item_name": "★ M9 Bayonet | Night",
+    "rarity": "Covert",
+    "paint_index": "40"
   },
   {
     "id": "skin-33292448",
@@ -2125,7 +2427,9 @@
     "price": 346.94,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Night"
+    "item_name": "★ M9 Bayonet | Night",
+    "rarity": "Covert",
+    "paint_index": "40"
   },
   {
     "id": "skin-33292448",
@@ -2139,7 +2443,9 @@
     "price": 334.6,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Night"
+    "item_name": "★ M9 Bayonet | Night",
+    "rarity": "Covert",
+    "paint_index": "40"
   },
   {
     "id": "skin-33292448",
@@ -2153,7 +2459,9 @@
     "price": 345.98,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Night"
+    "item_name": "★ M9 Bayonet | Night",
+    "rarity": "Covert",
+    "paint_index": "40"
   },
   {
     "id": "skin-33292448",
@@ -2167,7 +2475,9 @@
     "price": 466.01,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Night"
+    "item_name": "★ M9 Bayonet | Night",
+    "rarity": "Covert",
+    "paint_index": "40"
   },
   {
     "id": "skin-33292448",
@@ -2181,7 +2491,9 @@
     "price": 1042.2,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Night"
+    "item_name": "★ M9 Bayonet | Night",
+    "rarity": "Covert",
+    "paint_index": "40"
   },
   {
     "id": "skin-33292448",
@@ -2195,7 +2507,9 @@
     "price": 362.03,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Night"
+    "item_name": "★ M9 Bayonet | Night",
+    "rarity": "Covert",
+    "paint_index": "40"
   },
   {
     "id": "skin-33292448",
@@ -2209,7 +2523,9 @@
     "price": 376.42,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Night"
+    "item_name": "★ M9 Bayonet | Night",
+    "rarity": "Covert",
+    "paint_index": "40"
   },
   {
     "id": "skin-33292464",
@@ -2223,7 +2539,9 @@
     "price": 665.09,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Case Hardened"
+    "item_name": "★ M9 Bayonet | Case Hardened",
+    "rarity": "Covert",
+    "paint_index": "44"
   },
   {
     "id": "skin-33292464",
@@ -2237,7 +2555,9 @@
     "price": 548.52,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Case Hardened"
+    "item_name": "★ M9 Bayonet | Case Hardened",
+    "rarity": "Covert",
+    "paint_index": "44"
   },
   {
     "id": "skin-33292464",
@@ -2251,7 +2571,9 @@
     "price": 2056.96,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Case Hardened"
+    "item_name": "★ M9 Bayonet | Case Hardened",
+    "rarity": "Covert",
+    "paint_index": "44"
   },
   {
     "id": "skin-33292464",
@@ -2265,7 +2587,9 @@
     "price": 479.96,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Case Hardened"
+    "item_name": "★ M9 Bayonet | Case Hardened",
+    "rarity": "Covert",
+    "paint_index": "44"
   },
   {
     "id": "skin-33292464",
@@ -2279,7 +2603,9 @@
     "price": 452.53,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Case Hardened"
+    "item_name": "★ M9 Bayonet | Case Hardened",
+    "rarity": "Covert",
+    "paint_index": "44"
   },
   {
     "id": "skin-33292464",
@@ -2293,7 +2619,9 @@
     "price": 555.31,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Case Hardened"
+    "item_name": "★ M9 Bayonet | Case Hardened",
+    "rarity": "Covert",
+    "paint_index": "44"
   },
   {
     "id": "skin-33292464",
@@ -2307,7 +2635,9 @@
     "price": 981.86,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Case Hardened"
+    "item_name": "★ M9 Bayonet | Case Hardened",
+    "rarity": "Covert",
+    "paint_index": "44"
   },
   {
     "id": "skin-33292464",
@@ -2321,7 +2651,9 @@
     "price": 548.39,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Case Hardened"
+    "item_name": "★ M9 Bayonet | Case Hardened",
+    "rarity": "Covert",
+    "paint_index": "44"
   },
   {
     "id": "skin-33292464",
@@ -2335,7 +2667,9 @@
     "price": 637.66,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Case Hardened"
+    "item_name": "★ M9 Bayonet | Case Hardened",
+    "rarity": "Covert",
+    "paint_index": "44"
   },
   {
     "id": "skin-33292464",
@@ -2349,7 +2683,9 @@
     "price": 466.11,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Case Hardened"
+    "item_name": "★ M9 Bayonet | Case Hardened",
+    "rarity": "Covert",
+    "paint_index": "44"
   },
   {
     "id": "skin-33292988",
@@ -2363,7 +2699,9 @@
     "price": 315.4,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Scorched"
+    "item_name": "★ M9 Bayonet | Scorched",
+    "rarity": "Covert",
+    "paint_index": "175"
   },
   {
     "id": "skin-33292988",
@@ -2377,7 +2715,9 @@
     "price": 457.06,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Scorched"
+    "item_name": "★ M9 Bayonet | Scorched",
+    "rarity": "Covert",
+    "paint_index": "175"
   },
   {
     "id": "skin-33292988",
@@ -2391,7 +2731,9 @@
     "price": 329.11,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Scorched"
+    "item_name": "★ M9 Bayonet | Scorched",
+    "rarity": "Covert",
+    "paint_index": "175"
   },
   {
     "id": "skin-33292988",
@@ -2405,7 +2747,9 @@
     "price": 394.8,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Scorched"
+    "item_name": "★ M9 Bayonet | Scorched",
+    "rarity": "Covert",
+    "paint_index": "175"
   },
   {
     "id": "skin-33292988",
@@ -2419,7 +2763,9 @@
     "price": 320.89,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Scorched"
+    "item_name": "★ M9 Bayonet | Scorched",
+    "rarity": "Covert",
+    "paint_index": "175"
   },
   {
     "id": "skin-33292988",
@@ -2433,7 +2779,9 @@
     "price": 331.31,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Scorched"
+    "item_name": "★ M9 Bayonet | Scorched",
+    "rarity": "Covert",
+    "paint_index": "175"
   },
   {
     "id": "skin-33292988",
@@ -2447,7 +2795,9 @@
     "price": 315.8,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Scorched"
+    "item_name": "★ M9 Bayonet | Scorched",
+    "rarity": "Covert",
+    "paint_index": "175"
   },
   {
     "id": "skin-33292988",
@@ -2461,7 +2811,9 @@
     "price": 0,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Scorched"
+    "item_name": "★ M9 Bayonet | Scorched",
+    "rarity": "Covert",
+    "paint_index": "175"
   },
   {
     "id": "skin-33292988",
@@ -2475,7 +2827,9 @@
     "price": 332.27,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Scorched"
+    "item_name": "★ M9 Bayonet | Scorched",
+    "rarity": "Covert",
+    "paint_index": "175"
   },
   {
     "id": "skin-33292988",
@@ -2489,7 +2843,9 @@
     "price": 383.83,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Scorched"
+    "item_name": "★ M9 Bayonet | Scorched",
+    "rarity": "Covert",
+    "paint_index": "175"
   },
   {
     "id": "skin-33292460",
@@ -2503,7 +2859,9 @@
     "price": 420.99,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Stained"
+    "item_name": "★ M9 Bayonet | Stained",
+    "rarity": "Covert",
+    "paint_index": "43"
   },
   {
     "id": "skin-33292460",
@@ -2517,7 +2875,9 @@
     "price": 389.38,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Stained"
+    "item_name": "★ M9 Bayonet | Stained",
+    "rarity": "Covert",
+    "paint_index": "43"
   },
   {
     "id": "skin-33292460",
@@ -2531,7 +2891,9 @@
     "price": 396.31,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Stained"
+    "item_name": "★ M9 Bayonet | Stained",
+    "rarity": "Covert",
+    "paint_index": "43"
   },
   {
     "id": "skin-33292460",
@@ -2545,7 +2907,9 @@
     "price": 404.54,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Stained"
+    "item_name": "★ M9 Bayonet | Stained",
+    "rarity": "Covert",
+    "paint_index": "43"
   },
   {
     "id": "skin-33292460",
@@ -2559,7 +2923,9 @@
     "price": 452.46,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Stained"
+    "item_name": "★ M9 Bayonet | Stained",
+    "rarity": "Covert",
+    "paint_index": "43"
   },
   {
     "id": "skin-33292460",
@@ -2573,7 +2939,9 @@
     "price": 520.41,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Stained"
+    "item_name": "★ M9 Bayonet | Stained",
+    "rarity": "Covert",
+    "paint_index": "43"
   },
   {
     "id": "skin-33292460",
@@ -2587,7 +2955,9 @@
     "price": 658.23,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Stained"
+    "item_name": "★ M9 Bayonet | Stained",
+    "rarity": "Covert",
+    "paint_index": "43"
   },
   {
     "id": "skin-33292460",
@@ -2601,7 +2971,9 @@
     "price": 630.73,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Stained"
+    "item_name": "★ M9 Bayonet | Stained",
+    "rarity": "Covert",
+    "paint_index": "43"
   },
   {
     "id": "skin-33292460",
@@ -2615,7 +2987,9 @@
     "price": 411.39,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Stained"
+    "item_name": "★ M9 Bayonet | Stained",
+    "rarity": "Covert",
+    "paint_index": "43"
   },
   {
     "id": "skin-33292460",
@@ -2629,7 +3003,9 @@
     "price": 477.22,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Stained"
+    "item_name": "★ M9 Bayonet | Stained",
+    "rarity": "Covert",
+    "paint_index": "43"
   },
   {
     "id": "skin-33293944",
@@ -2643,7 +3019,9 @@
     "price": 390.75,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Rust Coat"
+    "item_name": "★ M9 Bayonet | Rust Coat",
+    "rarity": "Covert",
+    "paint_index": "414"
   },
   {
     "id": "skin-33293944",
@@ -2657,7 +3035,9 @@
     "price": 396.03,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Rust Coat"
+    "item_name": "★ M9 Bayonet | Rust Coat",
+    "rarity": "Covert",
+    "paint_index": "414"
   },
   {
     "id": "skin-33293944",
@@ -2671,7 +3051,9 @@
     "price": 356.54,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Rust Coat"
+    "item_name": "★ M9 Bayonet | Rust Coat",
+    "rarity": "Covert",
+    "paint_index": "414"
   },
   {
     "id": "skin-33293944",
@@ -2685,7 +3067,9 @@
     "price": 340.02,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Rust Coat"
+    "item_name": "★ M9 Bayonet | Rust Coat",
+    "rarity": "Covert",
+    "paint_index": "414"
   },
   {
     "id": "skin-33293940",
@@ -2699,7 +3083,9 @@
     "price": 1192.97,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Marble Fade"
+    "item_name": "★ M9 Bayonet | Marble Fade",
+    "rarity": "Covert",
+    "paint_index": "413"
   },
   {
     "id": "skin-33293940",
@@ -2713,7 +3099,9 @@
     "price": 1160.88,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Marble Fade"
+    "item_name": "★ M9 Bayonet | Marble Fade",
+    "rarity": "Covert",
+    "paint_index": "413"
   },
   {
     "id": "skin-33293940",
@@ -2727,7 +3115,9 @@
     "price": 1165.61,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Marble Fade"
+    "item_name": "★ M9 Bayonet | Marble Fade",
+    "rarity": "Covert",
+    "paint_index": "413"
   },
   {
     "id": "skin-33293940",
@@ -2741,7 +3131,9 @@
     "price": 1083.33,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Marble Fade"
+    "item_name": "★ M9 Bayonet | Marble Fade",
+    "rarity": "Covert",
+    "paint_index": "413"
   },
   {
     "id": "skin-33292440",
@@ -2755,7 +3147,9 @@
     "price": 1439.05,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Fade"
+    "item_name": "★ M9 Bayonet | Fade",
+    "rarity": "Covert",
+    "paint_index": "38"
   },
   {
     "id": "skin-33292440",
@@ -2769,7 +3163,9 @@
     "price": 1453.59,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Fade"
+    "item_name": "★ M9 Bayonet | Fade",
+    "rarity": "Covert",
+    "paint_index": "38"
   },
   {
     "id": "skin-33292440",
@@ -2783,7 +3179,9 @@
     "price": 1481.01,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Fade"
+    "item_name": "★ M9 Bayonet | Fade",
+    "rarity": "Covert",
+    "paint_index": "38"
   },
   {
     "id": "skin-33292440",
@@ -2797,6 +3195,8 @@
     "price": 1508.44,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ M9 Bayonet | Fade"
+    "item_name": "★ M9 Bayonet | Fade",
+    "rarity": "Covert",
+    "paint_index": "38"
   }
 ]

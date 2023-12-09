@@ -11,7 +11,9 @@
     "price": 0.33,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Glock-18 | Oxide Blaze"
+    "item_name": "Glock-18 | Oxide Blaze",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "808"
   },
   {
     "id": "skin-265376",
@@ -25,7 +27,9 @@
     "price": 0.07,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Oxide Blaze"
+    "item_name": "Glock-18 | Oxide Blaze",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "808"
   },
   {
     "id": "skin-265376",
@@ -39,7 +43,9 @@
     "price": 0.06,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Oxide Blaze"
+    "item_name": "Glock-18 | Oxide Blaze",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "808"
   },
   {
     "id": "skin-265376",
@@ -53,7 +59,9 @@
     "price": 0.29,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Glock-18 | Oxide Blaze"
+    "item_name": "Glock-18 | Oxide Blaze",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "808"
   },
   {
     "id": "skin-265376",
@@ -67,7 +75,9 @@
     "price": 0.27,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Oxide Blaze"
+    "item_name": "Glock-18 | Oxide Blaze",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "808"
   },
   {
     "id": "skin-265376",
@@ -81,7 +91,9 @@
     "price": 0.05,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Oxide Blaze"
+    "item_name": "Glock-18 | Oxide Blaze",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "808"
   },
   {
     "id": "skin-265376",
@@ -95,7 +107,9 @@
     "price": 0.1,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Oxide Blaze"
+    "item_name": "Glock-18 | Oxide Blaze",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "808"
   },
   {
     "id": "skin-265376",
@@ -109,7 +123,9 @@
     "price": 1.41,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Glock-18 | Oxide Blaze"
+    "item_name": "Glock-18 | Oxide Blaze",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "808"
   },
   {
     "id": "skin-265376",
@@ -123,7 +139,9 @@
     "price": 0.11,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Glock-18 | Oxide Blaze"
+    "item_name": "Glock-18 | Oxide Blaze",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "808"
   },
   {
     "id": "skin-265376",
@@ -137,7 +155,9 @@
     "price": 0.13,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Glock-18 | Oxide Blaze"
+    "item_name": "Glock-18 | Oxide Blaze",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "808"
   },
   {
     "id": "skin-263556",
@@ -151,7 +171,9 @@
     "price": 42.99,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Glock-18 | Water Elemental"
+    "item_name": "Glock-18 | Water Elemental",
+    "rarity": "Classified",
+    "paint_index": "353"
   },
   {
     "id": "skin-263556",
@@ -165,7 +187,9 @@
     "price": 21.53,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Glock-18 | Water Elemental"
+    "item_name": "Glock-18 | Water Elemental",
+    "rarity": "Classified",
+    "paint_index": "353"
   },
   {
     "id": "skin-263556",
@@ -179,7 +203,9 @@
     "price": 5.07,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Water Elemental"
+    "item_name": "Glock-18 | Water Elemental",
+    "rarity": "Classified",
+    "paint_index": "353"
   },
   {
     "id": "skin-263556",
@@ -193,7 +219,9 @@
     "price": 9.4,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Glock-18 | Water Elemental"
+    "item_name": "Glock-18 | Water Elemental",
+    "rarity": "Classified",
+    "paint_index": "353"
   },
   {
     "id": "skin-263556",
@@ -207,7 +235,9 @@
     "price": 11.52,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Glock-18 | Water Elemental"
+    "item_name": "Glock-18 | Water Elemental",
+    "rarity": "Classified",
+    "paint_index": "353"
   },
   {
     "id": "skin-263556",
@@ -221,7 +251,9 @@
     "price": 9,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Water Elemental"
+    "item_name": "Glock-18 | Water Elemental",
+    "rarity": "Classified",
+    "paint_index": "353"
   },
   {
     "id": "skin-263556",
@@ -235,7 +267,9 @@
     "price": 5.05,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Water Elemental"
+    "item_name": "Glock-18 | Water Elemental",
+    "rarity": "Classified",
+    "paint_index": "353"
   },
   {
     "id": "skin-263556",
@@ -249,7 +283,9 @@
     "price": 3.02,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Water Elemental"
+    "item_name": "Glock-18 | Water Elemental",
+    "rarity": "Classified",
+    "paint_index": "353"
   },
   {
     "id": "skin-263556",
@@ -263,7 +299,9 @@
     "price": 16.73,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Glock-18 | Water Elemental"
+    "item_name": "Glock-18 | Water Elemental",
+    "rarity": "Classified",
+    "paint_index": "353"
   },
   {
     "id": "skin-263556",
@@ -277,7 +315,9 @@
     "price": 3.07,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Water Elemental"
+    "item_name": "Glock-18 | Water Elemental",
+    "rarity": "Classified",
+    "paint_index": "353"
   },
   {
     "id": "skin-262152",
@@ -291,7 +331,9 @@
     "price": 7.09,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Groundwater"
+    "item_name": "Glock-18 | Groundwater",
+    "rarity": "Industrial Grade",
+    "paint_index": "2"
   },
   {
     "id": "skin-262152",
@@ -305,7 +347,9 @@
     "price": 5.08,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Groundwater"
+    "item_name": "Glock-18 | Groundwater",
+    "rarity": "Industrial Grade",
+    "paint_index": "2"
   },
   {
     "id": "skin-262152",
@@ -319,7 +363,9 @@
     "price": 5.4,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Groundwater"
+    "item_name": "Glock-18 | Groundwater",
+    "rarity": "Industrial Grade",
+    "paint_index": "2"
   },
   {
     "id": "skin-262152",
@@ -333,7 +379,9 @@
     "price": 50.05,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Groundwater"
+    "item_name": "Glock-18 | Groundwater",
+    "rarity": "Industrial Grade",
+    "paint_index": "2"
   },
   {
     "id": "skin-262152",
@@ -347,7 +395,9 @@
     "price": 7.85,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Groundwater"
+    "item_name": "Glock-18 | Groundwater",
+    "rarity": "Industrial Grade",
+    "paint_index": "2"
   },
   {
     "id": "skin-264060",
@@ -361,7 +411,9 @@
     "price": 0.19,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Bunsen Burner"
+    "item_name": "Glock-18 | Bunsen Burner",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "479"
   },
   {
     "id": "skin-264060",
@@ -375,7 +427,9 @@
     "price": 1.23,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Glock-18 | Bunsen Burner"
+    "item_name": "Glock-18 | Bunsen Burner",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "479"
   },
   {
     "id": "skin-264060",
@@ -389,7 +443,9 @@
     "price": 1.54,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Glock-18 | Bunsen Burner"
+    "item_name": "Glock-18 | Bunsen Burner",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "479"
   },
   {
     "id": "skin-264060",
@@ -403,7 +459,9 @@
     "price": 0.17,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Bunsen Burner"
+    "item_name": "Glock-18 | Bunsen Burner",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "479"
   },
   {
     "id": "skin-264060",
@@ -417,7 +475,9 @@
     "price": 1.16,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Bunsen Burner"
+    "item_name": "Glock-18 | Bunsen Burner",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "479"
   },
   {
     "id": "skin-264060",
@@ -431,7 +491,9 @@
     "price": 0.25,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Bunsen Burner"
+    "item_name": "Glock-18 | Bunsen Burner",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "479"
   },
   {
     "id": "skin-264060",
@@ -445,7 +507,9 @@
     "price": 5.09,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Glock-18 | Bunsen Burner"
+    "item_name": "Glock-18 | Bunsen Burner",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "479"
   },
   {
     "id": "skin-264060",
@@ -459,7 +523,9 @@
     "price": 0.29,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Bunsen Burner"
+    "item_name": "Glock-18 | Bunsen Burner",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "479"
   },
   {
     "id": "skin-264060",
@@ -473,7 +539,9 @@
     "price": 0.67,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Glock-18 | Bunsen Burner"
+    "item_name": "Glock-18 | Bunsen Burner",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "479"
   },
   {
     "id": "skin-264060",
@@ -487,7 +555,9 @@
     "price": 0.84,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Glock-18 | Bunsen Burner"
+    "item_name": "Glock-18 | Bunsen Burner",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "479"
   },
   {
     "id": "skin-263256",
@@ -501,7 +571,9 @@
     "price": 4.38,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Glock-18 | Blue Fissure"
+    "item_name": "Glock-18 | Blue Fissure",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "278"
   },
   {
     "id": "skin-263256",
@@ -515,7 +587,9 @@
     "price": 2.17,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Glock-18 | Blue Fissure"
+    "item_name": "Glock-18 | Blue Fissure",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "278"
   },
   {
     "id": "skin-263256",
@@ -529,7 +603,9 @@
     "price": 5.49,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Glock-18 | Blue Fissure"
+    "item_name": "Glock-18 | Blue Fissure",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "278"
   },
   {
     "id": "skin-263256",
@@ -543,7 +619,9 @@
     "price": 1.29,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Blue Fissure"
+    "item_name": "Glock-18 | Blue Fissure",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "278"
   },
   {
     "id": "skin-263256",
@@ -557,7 +635,9 @@
     "price": 12.87,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Blue Fissure"
+    "item_name": "Glock-18 | Blue Fissure",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "278"
   },
   {
     "id": "skin-263256",
@@ -571,7 +651,9 @@
     "price": 2.64,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Glock-18 | Blue Fissure"
+    "item_name": "Glock-18 | Blue Fissure",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "278"
   },
   {
     "id": "skin-263256",
@@ -585,7 +667,9 @@
     "price": 1.15,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Blue Fissure"
+    "item_name": "Glock-18 | Blue Fissure",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "278"
   },
   {
     "id": "skin-263256",
@@ -599,7 +683,9 @@
     "price": 80.78,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Glock-18 | Blue Fissure"
+    "item_name": "Glock-18 | Blue Fissure",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "278"
   },
   {
     "id": "skin-263256",
@@ -613,7 +699,9 @@
     "price": 1.55,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Blue Fissure"
+    "item_name": "Glock-18 | Blue Fissure",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "278"
   },
   {
     "id": "skin-263256",
@@ -627,7 +715,9 @@
     "price": 1.14,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Blue Fissure"
+    "item_name": "Glock-18 | Blue Fissure",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "278"
   },
   {
     "id": "skin-263316",
@@ -641,7 +731,9 @@
     "price": 0.06,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Death Rattle"
+    "item_name": "Glock-18 | Death Rattle",
+    "rarity": "Industrial Grade",
+    "paint_index": "293"
   },
   {
     "id": "skin-263316",
@@ -655,7 +747,9 @@
     "price": 0.09,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Death Rattle"
+    "item_name": "Glock-18 | Death Rattle",
+    "rarity": "Industrial Grade",
+    "paint_index": "293"
   },
   {
     "id": "skin-263316",
@@ -669,7 +763,9 @@
     "price": 0.08,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Death Rattle"
+    "item_name": "Glock-18 | Death Rattle",
+    "rarity": "Industrial Grade",
+    "paint_index": "293"
   },
   {
     "id": "skin-263316",
@@ -683,7 +779,9 @@
     "price": 0.06,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Death Rattle"
+    "item_name": "Glock-18 | Death Rattle",
+    "rarity": "Industrial Grade",
+    "paint_index": "293"
   },
   {
     "id": "skin-264996",
@@ -697,7 +795,9 @@
     "price": 0.13,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Warhawk"
+    "item_name": "Glock-18 | Warhawk",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "713"
   },
   {
     "id": "skin-264996",
@@ -711,7 +811,9 @@
     "price": 0.22,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Glock-18 | Warhawk"
+    "item_name": "Glock-18 | Warhawk",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "713"
   },
   {
     "id": "skin-264996",
@@ -725,7 +827,9 @@
     "price": 0.14,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Warhawk"
+    "item_name": "Glock-18 | Warhawk",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "713"
   },
   {
     "id": "skin-264996",
@@ -739,7 +843,9 @@
     "price": 0.57,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Warhawk"
+    "item_name": "Glock-18 | Warhawk",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "713"
   },
   {
     "id": "skin-264996",
@@ -753,7 +859,9 @@
     "price": 0.22,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Glock-18 | Warhawk"
+    "item_name": "Glock-18 | Warhawk",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "713"
   },
   {
     "id": "skin-264996",
@@ -767,7 +875,9 @@
     "price": 3.76,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Glock-18 | Warhawk"
+    "item_name": "Glock-18 | Warhawk",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "713"
   },
   {
     "id": "skin-264996",
@@ -781,7 +891,9 @@
     "price": 0.58,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Glock-18 | Warhawk"
+    "item_name": "Glock-18 | Warhawk",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "713"
   },
   {
     "id": "skin-264996",
@@ -795,7 +907,9 @@
     "price": 0.19,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Warhawk"
+    "item_name": "Glock-18 | Warhawk",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "713"
   },
   {
     "id": "skin-264996",
@@ -809,7 +923,9 @@
     "price": 0.25,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Glock-18 | Warhawk"
+    "item_name": "Glock-18 | Warhawk",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "713"
   },
   {
     "id": "skin-264996",
@@ -823,7 +939,9 @@
     "price": 0.12,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Warhawk"
+    "item_name": "Glock-18 | Warhawk",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "713"
   },
   {
     "id": "skin-265300",
@@ -837,7 +955,9 @@
     "price": 3.78,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Nuclear Garden"
+    "item_name": "Glock-18 | Nuclear Garden",
+    "rarity": "Restricted",
+    "paint_index": "789"
   },
   {
     "id": "skin-265300",
@@ -851,7 +971,9 @@
     "price": 2.35,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Nuclear Garden"
+    "item_name": "Glock-18 | Nuclear Garden",
+    "rarity": "Restricted",
+    "paint_index": "789"
   },
   {
     "id": "skin-265300",
@@ -865,7 +987,9 @@
     "price": 4.21,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Nuclear Garden"
+    "item_name": "Glock-18 | Nuclear Garden",
+    "rarity": "Restricted",
+    "paint_index": "789"
   },
   {
     "id": "skin-265300",
@@ -879,7 +1003,9 @@
     "price": 2.22,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Nuclear Garden"
+    "item_name": "Glock-18 | Nuclear Garden",
+    "rarity": "Restricted",
+    "paint_index": "789"
   },
   {
     "id": "skin-265300",
@@ -893,7 +1019,9 @@
     "price": 8.46,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Nuclear Garden"
+    "item_name": "Glock-18 | Nuclear Garden",
+    "rarity": "Restricted",
+    "paint_index": "789"
   },
   {
     "id": "skin-264272",
@@ -907,7 +1035,9 @@
     "price": 2.47,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Glock-18 | Royal Legion"
+    "item_name": "Glock-18 | Royal Legion",
+    "rarity": "Restricted",
+    "paint_index": "532"
   },
   {
     "id": "skin-264272",
@@ -921,7 +1051,9 @@
     "price": 1.61,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Royal Legion"
+    "item_name": "Glock-18 | Royal Legion",
+    "rarity": "Restricted",
+    "paint_index": "532"
   },
   {
     "id": "skin-264272",
@@ -935,7 +1067,9 @@
     "price": 2.74,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Glock-18 | Royal Legion"
+    "item_name": "Glock-18 | Royal Legion",
+    "rarity": "Restricted",
+    "paint_index": "532"
   },
   {
     "id": "skin-264272",
@@ -949,7 +1083,9 @@
     "price": 5.17,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Royal Legion"
+    "item_name": "Glock-18 | Royal Legion",
+    "rarity": "Restricted",
+    "paint_index": "532"
   },
   {
     "id": "skin-264272",
@@ -963,7 +1099,9 @@
     "price": 2.73,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Glock-18 | Royal Legion"
+    "item_name": "Glock-18 | Royal Legion",
+    "rarity": "Restricted",
+    "paint_index": "532"
   },
   {
     "id": "skin-264272",
@@ -977,7 +1115,9 @@
     "price": 5.33,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Glock-18 | Royal Legion"
+    "item_name": "Glock-18 | Royal Legion",
+    "rarity": "Restricted",
+    "paint_index": "532"
   },
   {
     "id": "skin-264272",
@@ -991,7 +1131,9 @@
     "price": 23.59,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Glock-18 | Royal Legion"
+    "item_name": "Glock-18 | Royal Legion",
+    "rarity": "Restricted",
+    "paint_index": "532"
   },
   {
     "id": "skin-264272",
@@ -1005,7 +1147,9 @@
     "price": 2.12,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Royal Legion"
+    "item_name": "Glock-18 | Royal Legion",
+    "rarity": "Restricted",
+    "paint_index": "532"
   },
   {
     "id": "skin-264272",
@@ -1019,7 +1163,9 @@
     "price": 1.59,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Royal Legion"
+    "item_name": "Glock-18 | Royal Legion",
+    "rarity": "Restricted",
+    "paint_index": "532"
   },
   {
     "id": "skin-264272",
@@ -1033,7 +1179,9 @@
     "price": 1.56,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Royal Legion"
+    "item_name": "Glock-18 | Royal Legion",
+    "rarity": "Restricted",
+    "paint_index": "532"
   },
   {
     "id": "skin-265816",
@@ -1047,7 +1195,9 @@
     "price": 0.14,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Sacrifice"
+    "item_name": "Glock-18 | Sacrifice",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "918"
   },
   {
     "id": "skin-265816",
@@ -1061,7 +1211,9 @@
     "price": 5.3,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Glock-18 | Sacrifice"
+    "item_name": "Glock-18 | Sacrifice",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "918"
   },
   {
     "id": "skin-265816",
@@ -1075,7 +1227,9 @@
     "price": 0.27,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Glock-18 | Sacrifice"
+    "item_name": "Glock-18 | Sacrifice",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "918"
   },
   {
     "id": "skin-265816",
@@ -1089,7 +1243,9 @@
     "price": 0.88,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Sacrifice"
+    "item_name": "Glock-18 | Sacrifice",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "918"
   },
   {
     "id": "skin-265816",
@@ -1103,7 +1259,9 @@
     "price": 0.09,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Sacrifice"
+    "item_name": "Glock-18 | Sacrifice",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "918"
   },
   {
     "id": "skin-265816",
@@ -1117,7 +1275,9 @@
     "price": 0.96,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Glock-18 | Sacrifice"
+    "item_name": "Glock-18 | Sacrifice",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "918"
   },
   {
     "id": "skin-265816",
@@ -1131,7 +1291,9 @@
     "price": 0.19,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Sacrifice"
+    "item_name": "Glock-18 | Sacrifice",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "918"
   },
   {
     "id": "skin-265816",
@@ -1145,7 +1307,9 @@
     "price": 0.08,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Sacrifice"
+    "item_name": "Glock-18 | Sacrifice",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "918"
   },
   {
     "id": "skin-265816",
@@ -1159,7 +1323,9 @@
     "price": 0.28,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Glock-18 | Sacrifice"
+    "item_name": "Glock-18 | Sacrifice",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "918"
   },
   {
     "id": "skin-265816",
@@ -1173,7 +1339,9 @@
     "price": 0.45,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Glock-18 | Sacrifice"
+    "item_name": "Glock-18 | Sacrifice",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "918"
   },
   {
     "id": "skin-263668",
@@ -1187,7 +1355,9 @@
     "price": 5.87,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Glock-18 | Grinder"
+    "item_name": "Glock-18 | Grinder",
+    "rarity": "Restricted",
+    "paint_index": "381"
   },
   {
     "id": "skin-263668",
@@ -1201,7 +1371,9 @@
     "price": 1.28,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Grinder"
+    "item_name": "Glock-18 | Grinder",
+    "rarity": "Restricted",
+    "paint_index": "381"
   },
   {
     "id": "skin-263668",
@@ -1215,7 +1387,9 @@
     "price": 1.15,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Grinder"
+    "item_name": "Glock-18 | Grinder",
+    "rarity": "Restricted",
+    "paint_index": "381"
   },
   {
     "id": "skin-263668",
@@ -1229,7 +1403,9 @@
     "price": 4.93,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Glock-18 | Grinder"
+    "item_name": "Glock-18 | Grinder",
+    "rarity": "Restricted",
+    "paint_index": "381"
   },
   {
     "id": "skin-263668",
@@ -1243,7 +1419,9 @@
     "price": 1.55,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Grinder"
+    "item_name": "Glock-18 | Grinder",
+    "rarity": "Restricted",
+    "paint_index": "381"
   },
   {
     "id": "skin-263668",
@@ -1257,7 +1435,9 @@
     "price": 4.66,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Glock-18 | Grinder"
+    "item_name": "Glock-18 | Grinder",
+    "rarity": "Restricted",
+    "paint_index": "381"
   },
   {
     "id": "skin-264920",
@@ -1271,7 +1451,9 @@
     "price": 1.09,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Glock-18 | Moonrise"
+    "item_name": "Glock-18 | Moonrise",
+    "rarity": "Restricted",
+    "paint_index": "694"
   },
   {
     "id": "skin-264920",
@@ -1285,7 +1467,9 @@
     "price": 0.52,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Moonrise"
+    "item_name": "Glock-18 | Moonrise",
+    "rarity": "Restricted",
+    "paint_index": "694"
   },
   {
     "id": "skin-264920",
@@ -1299,7 +1483,9 @@
     "price": 0.28,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Moonrise"
+    "item_name": "Glock-18 | Moonrise",
+    "rarity": "Restricted",
+    "paint_index": "694"
   },
   {
     "id": "skin-264920",
@@ -1313,7 +1499,9 @@
     "price": 0.25,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Moonrise"
+    "item_name": "Glock-18 | Moonrise",
+    "rarity": "Restricted",
+    "paint_index": "694"
   },
   {
     "id": "skin-264920",
@@ -1327,7 +1515,9 @@
     "price": 0.59,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Glock-18 | Moonrise"
+    "item_name": "Glock-18 | Moonrise",
+    "rarity": "Restricted",
+    "paint_index": "694"
   },
   {
     "id": "skin-264920",
@@ -1341,7 +1531,9 @@
     "price": 3.55,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Glock-18 | Moonrise"
+    "item_name": "Glock-18 | Moonrise",
+    "rarity": "Restricted",
+    "paint_index": "694"
   },
   {
     "id": "skin-264920",
@@ -1355,7 +1547,9 @@
     "price": 0.53,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Glock-18 | Moonrise"
+    "item_name": "Glock-18 | Moonrise",
+    "rarity": "Restricted",
+    "paint_index": "694"
   },
   {
     "id": "skin-264920",
@@ -1369,7 +1563,9 @@
     "price": 0.23,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Moonrise"
+    "item_name": "Glock-18 | Moonrise",
+    "rarity": "Restricted",
+    "paint_index": "694"
   },
   {
     "id": "skin-264920",
@@ -1383,7 +1579,9 @@
     "price": 1.07,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Moonrise"
+    "item_name": "Glock-18 | Moonrise",
+    "rarity": "Restricted",
+    "paint_index": "694"
   },
   {
     "id": "skin-264920",
@@ -1397,7 +1595,9 @@
     "price": 1.52,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Glock-18 | Moonrise"
+    "item_name": "Glock-18 | Moonrise",
+    "rarity": "Restricted",
+    "paint_index": "694"
   },
   {
     "id": "skin-267104",
@@ -1411,7 +1611,9 @@
     "price": 10.53,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Ramese's Reach"
+    "item_name": "Glock-18 | Ramese's Reach",
+    "rarity": "Restricted",
+    "paint_index": "1240"
   },
   {
     "id": "skin-267104",
@@ -1425,7 +1627,9 @@
     "price": 14.4,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Ramese's Reach"
+    "item_name": "Glock-18 | Ramese's Reach",
+    "rarity": "Restricted",
+    "paint_index": "1240"
   },
   {
     "id": "skin-267104",
@@ -1439,7 +1643,9 @@
     "price": 5.21,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Ramese's Reach"
+    "item_name": "Glock-18 | Ramese's Reach",
+    "rarity": "Restricted",
+    "paint_index": "1240"
   },
   {
     "id": "skin-267104",
@@ -1453,7 +1659,9 @@
     "price": 5.61,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Ramese's Reach"
+    "item_name": "Glock-18 | Ramese's Reach",
+    "rarity": "Restricted",
+    "paint_index": "1240"
   },
   {
     "id": "skin-267104",
@@ -1467,7 +1675,9 @@
     "price": 6.83,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Ramese's Reach"
+    "item_name": "Glock-18 | Ramese's Reach",
+    "rarity": "Restricted",
+    "paint_index": "1240"
   },
   {
     "id": "skin-264572",
@@ -1481,7 +1691,9 @@
     "price": 0.44,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Weasel"
+    "item_name": "Glock-18 | Weasel",
+    "rarity": "Restricted",
+    "paint_index": "607"
   },
   {
     "id": "skin-264572",
@@ -1495,7 +1707,9 @@
     "price": 0.23,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Weasel"
+    "item_name": "Glock-18 | Weasel",
+    "rarity": "Restricted",
+    "paint_index": "607"
   },
   {
     "id": "skin-264572",
@@ -1509,7 +1723,9 @@
     "price": 0.22,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Weasel"
+    "item_name": "Glock-18 | Weasel",
+    "rarity": "Restricted",
+    "paint_index": "607"
   },
   {
     "id": "skin-264572",
@@ -1523,7 +1739,9 @@
     "price": 1.67,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Weasel"
+    "item_name": "Glock-18 | Weasel",
+    "rarity": "Restricted",
+    "paint_index": "607"
   },
   {
     "id": "skin-264572",
@@ -1537,7 +1755,9 @@
     "price": 2.13,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Glock-18 | Weasel"
+    "item_name": "Glock-18 | Weasel",
+    "rarity": "Restricted",
+    "paint_index": "607"
   },
   {
     "id": "skin-264572",
@@ -1551,7 +1771,9 @@
     "price": 10.39,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Glock-18 | Weasel"
+    "item_name": "Glock-18 | Weasel",
+    "rarity": "Restricted",
+    "paint_index": "607"
   },
   {
     "id": "skin-264572",
@@ -1565,7 +1787,9 @@
     "price": 0.2,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Weasel"
+    "item_name": "Glock-18 | Weasel",
+    "rarity": "Restricted",
+    "paint_index": "607"
   },
   {
     "id": "skin-264572",
@@ -1579,7 +1803,9 @@
     "price": 0.65,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Glock-18 | Weasel"
+    "item_name": "Glock-18 | Weasel",
+    "rarity": "Restricted",
+    "paint_index": "607"
   },
   {
     "id": "skin-264572",
@@ -1593,7 +1819,9 @@
     "price": 0.59,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Glock-18 | Weasel"
+    "item_name": "Glock-18 | Weasel",
+    "rarity": "Restricted",
+    "paint_index": "607"
   },
   {
     "id": "skin-264572",
@@ -1607,7 +1835,9 @@
     "price": 0.81,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Glock-18 | Weasel"
+    "item_name": "Glock-18 | Weasel",
+    "rarity": "Restricted",
+    "paint_index": "607"
   },
   {
     "id": "skin-265972",
@@ -1621,7 +1851,9 @@
     "price": 35.59,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Bullet Queen"
+    "item_name": "Glock-18 | Bullet Queen",
+    "rarity": "Covert",
+    "paint_index": "957"
   },
   {
     "id": "skin-265972",
@@ -1635,7 +1867,9 @@
     "price": 12.89,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Glock-18 | Bullet Queen"
+    "item_name": "Glock-18 | Bullet Queen",
+    "rarity": "Covert",
+    "paint_index": "957"
   },
   {
     "id": "skin-265972",
@@ -1649,7 +1883,9 @@
     "price": 17.76,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Glock-18 | Bullet Queen"
+    "item_name": "Glock-18 | Bullet Queen",
+    "rarity": "Covert",
+    "paint_index": "957"
   },
   {
     "id": "skin-265972",
@@ -1663,7 +1899,9 @@
     "price": 3.27,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Bullet Queen"
+    "item_name": "Glock-18 | Bullet Queen",
+    "rarity": "Covert",
+    "paint_index": "957"
   },
   {
     "id": "skin-265972",
@@ -1677,7 +1915,9 @@
     "price": 3.78,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Bullet Queen"
+    "item_name": "Glock-18 | Bullet Queen",
+    "rarity": "Covert",
+    "paint_index": "957"
   },
   {
     "id": "skin-265972",
@@ -1691,7 +1931,9 @@
     "price": 41.46,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Glock-18 | Bullet Queen"
+    "item_name": "Glock-18 | Bullet Queen",
+    "rarity": "Covert",
+    "paint_index": "957"
   },
   {
     "id": "skin-265972",
@@ -1705,7 +1947,9 @@
     "price": 11.82,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Glock-18 | Bullet Queen"
+    "item_name": "Glock-18 | Bullet Queen",
+    "rarity": "Covert",
+    "paint_index": "957"
   },
   {
     "id": "skin-265972",
@@ -1719,7 +1963,9 @@
     "price": 4.66,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Bullet Queen"
+    "item_name": "Glock-18 | Bullet Queen",
+    "rarity": "Covert",
+    "paint_index": "957"
   },
   {
     "id": "skin-265972",
@@ -1733,7 +1979,9 @@
     "price": 143.44,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Glock-18 | Bullet Queen"
+    "item_name": "Glock-18 | Bullet Queen",
+    "rarity": "Covert",
+    "paint_index": "957"
   },
   {
     "id": "skin-265972",
@@ -1747,7 +1995,9 @@
     "price": 10.11,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Bullet Queen"
+    "item_name": "Glock-18 | Bullet Queen",
+    "rarity": "Covert",
+    "paint_index": "957"
   },
   {
     "id": "skin-263612",
@@ -1761,7 +2011,9 @@
     "price": 9.86,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Reactor"
+    "item_name": "Glock-18 | Reactor",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "367"
   },
   {
     "id": "skin-263612",
@@ -1775,7 +2027,9 @@
     "price": 4.22,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Reactor"
+    "item_name": "Glock-18 | Reactor",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "367"
   },
   {
     "id": "skin-263612",
@@ -1789,7 +2043,9 @@
     "price": 6.38,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Reactor"
+    "item_name": "Glock-18 | Reactor",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "367"
   },
   {
     "id": "skin-263612",
@@ -1803,7 +2059,9 @@
     "price": 4.25,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Reactor"
+    "item_name": "Glock-18 | Reactor",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "367"
   },
   {
     "id": "skin-263612",
@@ -1817,7 +2075,9 @@
     "price": 4.6,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Reactor"
+    "item_name": "Glock-18 | Reactor",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "367"
   },
   {
     "id": "skin-262304",
@@ -1831,7 +2091,9 @@
     "price": 23.94,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Night"
+    "item_name": "Glock-18 | Night",
+    "rarity": "Industrial Grade",
+    "paint_index": "40"
   },
   {
     "id": "skin-262304",
@@ -1845,7 +2107,9 @@
     "price": 1.17,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Night"
+    "item_name": "Glock-18 | Night",
+    "rarity": "Industrial Grade",
+    "paint_index": "40"
   },
   {
     "id": "skin-262304",
@@ -1859,7 +2123,9 @@
     "price": 1.13,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Night"
+    "item_name": "Glock-18 | Night",
+    "rarity": "Industrial Grade",
+    "paint_index": "40"
   },
   {
     "id": "skin-262304",
@@ -1873,7 +2139,9 @@
     "price": 2,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Night"
+    "item_name": "Glock-18 | Night",
+    "rarity": "Industrial Grade",
+    "paint_index": "40"
   },
   {
     "id": "skin-262304",
@@ -1887,7 +2155,9 @@
     "price": 1.24,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Night"
+    "item_name": "Glock-18 | Night",
+    "rarity": "Industrial Grade",
+    "paint_index": "40"
   },
   {
     "id": "skin-264636",
@@ -1901,7 +2171,9 @@
     "price": 0.79,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Glock-18 | Ironwork"
+    "item_name": "Glock-18 | Ironwork",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "623"
   },
   {
     "id": "skin-264636",
@@ -1915,7 +2187,9 @@
     "price": 0.22,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Glock-18 | Ironwork"
+    "item_name": "Glock-18 | Ironwork",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "623"
   },
   {
     "id": "skin-264636",
@@ -1929,7 +2203,9 @@
     "price": 0.07,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Ironwork"
+    "item_name": "Glock-18 | Ironwork",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "623"
   },
   {
     "id": "skin-264636",
@@ -1943,7 +2219,9 @@
     "price": 0.13,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Ironwork"
+    "item_name": "Glock-18 | Ironwork",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "623"
   },
   {
     "id": "skin-264636",
@@ -1957,7 +2235,9 @@
     "price": 0.08,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Ironwork"
+    "item_name": "Glock-18 | Ironwork",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "623"
   },
   {
     "id": "skin-264636",
@@ -1971,7 +2251,9 @@
     "price": 0.29,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Glock-18 | Ironwork"
+    "item_name": "Glock-18 | Ironwork",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "623"
   },
   {
     "id": "skin-264636",
@@ -1985,7 +2267,9 @@
     "price": 0.24,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Glock-18 | Ironwork"
+    "item_name": "Glock-18 | Ironwork",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "623"
   },
   {
     "id": "skin-264636",
@@ -1999,7 +2283,9 @@
     "price": 0.07,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Ironwork"
+    "item_name": "Glock-18 | Ironwork",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "623"
   },
   {
     "id": "skin-264636",
@@ -2013,7 +2299,9 @@
     "price": 5.75,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Glock-18 | Ironwork"
+    "item_name": "Glock-18 | Ironwork",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "623"
   },
   {
     "id": "skin-264636",
@@ -2027,7 +2315,9 @@
     "price": 1.07,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Ironwork"
+    "item_name": "Glock-18 | Ironwork",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "623"
   },
   {
     "id": "skin-264124",
@@ -2041,7 +2331,9 @@
     "price": 0.12,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Wraiths"
+    "item_name": "Glock-18 | Wraiths",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "495"
   },
   {
     "id": "skin-264124",
@@ -2055,7 +2347,9 @@
     "price": 1.42,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Glock-18 | Wraiths"
+    "item_name": "Glock-18 | Wraiths",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "495"
   },
   {
     "id": "skin-264124",
@@ -2069,7 +2363,9 @@
     "price": 3.54,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Glock-18 | Wraiths"
+    "item_name": "Glock-18 | Wraiths",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "495"
   },
   {
     "id": "skin-264124",
@@ -2083,7 +2379,9 @@
     "price": 0.25,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Wraiths"
+    "item_name": "Glock-18 | Wraiths",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "495"
   },
   {
     "id": "skin-264124",
@@ -2097,7 +2395,9 @@
     "price": 0.3,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Wraiths"
+    "item_name": "Glock-18 | Wraiths",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "495"
   },
   {
     "id": "skin-264124",
@@ -2111,7 +2411,9 @@
     "price": 0.26,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Glock-18 | Wraiths"
+    "item_name": "Glock-18 | Wraiths",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "495"
   },
   {
     "id": "skin-264124",
@@ -2125,7 +2427,9 @@
     "price": 0.12,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Wraiths"
+    "item_name": "Glock-18 | Wraiths",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "495"
   },
   {
     "id": "skin-264124",
@@ -2139,7 +2443,9 @@
     "price": 0.29,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Glock-18 | Wraiths"
+    "item_name": "Glock-18 | Wraiths",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "495"
   },
   {
     "id": "skin-264124",
@@ -2153,7 +2459,9 @@
     "price": 0.62,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Wraiths"
+    "item_name": "Glock-18 | Wraiths",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "495"
   },
   {
     "id": "skin-264124",
@@ -2167,7 +2475,9 @@
     "price": 0.8,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Glock-18 | Wraiths"
+    "item_name": "Glock-18 | Wraiths",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "495"
   },
   {
     "id": "skin-266300",
@@ -2181,7 +2491,9 @@
     "price": 2.73,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Glock-18 | Clear Polymer"
+    "item_name": "Glock-18 | Clear Polymer",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1039"
   },
   {
     "id": "skin-266300",
@@ -2195,7 +2507,9 @@
     "price": 0.05,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Clear Polymer"
+    "item_name": "Glock-18 | Clear Polymer",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1039"
   },
   {
     "id": "skin-266300",
@@ -2209,7 +2523,9 @@
     "price": 0.49,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Glock-18 | Clear Polymer"
+    "item_name": "Glock-18 | Clear Polymer",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1039"
   },
   {
     "id": "skin-266300",
@@ -2223,7 +2539,9 @@
     "price": 0.38,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Clear Polymer"
+    "item_name": "Glock-18 | Clear Polymer",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1039"
   },
   {
     "id": "skin-266300",
@@ -2237,7 +2555,9 @@
     "price": 0.16,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Glock-18 | Clear Polymer"
+    "item_name": "Glock-18 | Clear Polymer",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1039"
   },
   {
     "id": "skin-266300",
@@ -2251,7 +2571,9 @@
     "price": 0.12,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Clear Polymer"
+    "item_name": "Glock-18 | Clear Polymer",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1039"
   },
   {
     "id": "skin-266300",
@@ -2265,7 +2587,9 @@
     "price": 0.06,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Clear Polymer"
+    "item_name": "Glock-18 | Clear Polymer",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1039"
   },
   {
     "id": "skin-266300",
@@ -2279,7 +2603,9 @@
     "price": 0.07,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Clear Polymer"
+    "item_name": "Glock-18 | Clear Polymer",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1039"
   },
   {
     "id": "skin-266300",
@@ -2293,7 +2619,9 @@
     "price": 0.19,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Glock-18 | Clear Polymer"
+    "item_name": "Glock-18 | Clear Polymer",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1039"
   },
   {
     "id": "skin-266300",
@@ -2307,7 +2635,9 @@
     "price": 0.17,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Glock-18 | Clear Polymer"
+    "item_name": "Glock-18 | Clear Polymer",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1039"
   },
   {
     "id": "skin-263740",
@@ -2321,7 +2651,9 @@
     "price": 1.55,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Glock-18 | Catacombs"
+    "item_name": "Glock-18 | Catacombs",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "399"
   },
   {
     "id": "skin-263740",
@@ -2335,7 +2667,9 @@
     "price": 0.19,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Catacombs"
+    "item_name": "Glock-18 | Catacombs",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "399"
   },
   {
     "id": "skin-263740",
@@ -2349,7 +2683,9 @@
     "price": 0.2,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Catacombs"
+    "item_name": "Glock-18 | Catacombs",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "399"
   },
   {
     "id": "skin-263740",
@@ -2363,7 +2699,9 @@
     "price": 1.35,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Glock-18 | Catacombs"
+    "item_name": "Glock-18 | Catacombs",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "399"
   },
   {
     "id": "skin-263740",
@@ -2377,7 +2715,9 @@
     "price": 0.35,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Catacombs"
+    "item_name": "Glock-18 | Catacombs",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "399"
   },
   {
     "id": "skin-263740",
@@ -2391,7 +2731,9 @@
     "price": 0.88,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Glock-18 | Catacombs"
+    "item_name": "Glock-18 | Catacombs",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "399"
   },
   {
     "id": "skin-263740",
@@ -2405,7 +2747,9 @@
     "price": 1.1,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Glock-18 | Catacombs"
+    "item_name": "Glock-18 | Catacombs",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "399"
   },
   {
     "id": "skin-263740",
@@ -2419,7 +2763,9 @@
     "price": 0.61,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Glock-18 | Catacombs"
+    "item_name": "Glock-18 | Catacombs",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "399"
   },
   {
     "id": "skin-263740",
@@ -2433,7 +2779,9 @@
     "price": 0.76,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Catacombs"
+    "item_name": "Glock-18 | Catacombs",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "399"
   },
   {
     "id": "skin-263740",
@@ -2447,7 +2795,9 @@
     "price": 0.12,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Catacombs"
+    "item_name": "Glock-18 | Catacombs",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "399"
   },
   {
     "id": "skin-265996",
@@ -2461,7 +2811,9 @@
     "price": 3.54,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Glock-18 | Vogue"
+    "item_name": "Glock-18 | Vogue",
+    "rarity": "Classified",
+    "paint_index": "963"
   },
   {
     "id": "skin-265996",
@@ -2475,7 +2827,9 @@
     "price": 2.24,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Vogue"
+    "item_name": "Glock-18 | Vogue",
+    "rarity": "Classified",
+    "paint_index": "963"
   },
   {
     "id": "skin-265996",
@@ -2489,7 +2843,9 @@
     "price": 8.16,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Glock-18 | Vogue"
+    "item_name": "Glock-18 | Vogue",
+    "rarity": "Classified",
+    "paint_index": "963"
   },
   {
     "id": "skin-265996",
@@ -2503,7 +2859,9 @@
     "price": 5.21,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Glock-18 | Vogue"
+    "item_name": "Glock-18 | Vogue",
+    "rarity": "Classified",
+    "paint_index": "963"
   },
   {
     "id": "skin-265996",
@@ -2517,7 +2875,9 @@
     "price": 2.11,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Vogue"
+    "item_name": "Glock-18 | Vogue",
+    "rarity": "Classified",
+    "paint_index": "963"
   },
   {
     "id": "skin-265996",
@@ -2531,7 +2891,9 @@
     "price": 6.71,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Vogue"
+    "item_name": "Glock-18 | Vogue",
+    "rarity": "Classified",
+    "paint_index": "963"
   },
   {
     "id": "skin-265996",
@@ -2545,7 +2907,9 @@
     "price": 3.76,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Glock-18 | Vogue"
+    "item_name": "Glock-18 | Vogue",
+    "rarity": "Classified",
+    "paint_index": "963"
   },
   {
     "id": "skin-265996",
@@ -2559,7 +2923,9 @@
     "price": 3.44,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Vogue"
+    "item_name": "Glock-18 | Vogue",
+    "rarity": "Classified",
+    "paint_index": "963"
   },
   {
     "id": "skin-265996",
@@ -2573,7 +2939,9 @@
     "price": 16.18,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Glock-18 | Vogue"
+    "item_name": "Glock-18 | Vogue",
+    "rarity": "Classified",
+    "paint_index": "963"
   },
   {
     "id": "skin-265996",
@@ -2587,7 +2955,9 @@
     "price": 2.11,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Vogue"
+    "item_name": "Glock-18 | Vogue",
+    "rarity": "Classified",
+    "paint_index": "963"
   },
   {
     "id": "skin-262976",
@@ -2601,7 +2971,9 @@
     "price": 11.57,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Sand Dune"
+    "item_name": "Glock-18 | Sand Dune",
+    "rarity": "Industrial Grade",
+    "paint_index": "208"
   },
   {
     "id": "skin-262976",
@@ -2615,7 +2987,9 @@
     "price": 82.21,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Sand Dune"
+    "item_name": "Glock-18 | Sand Dune",
+    "rarity": "Industrial Grade",
+    "paint_index": "208"
   },
   {
     "id": "skin-262976",
@@ -2629,7 +3003,9 @@
     "price": 4.44,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Sand Dune"
+    "item_name": "Glock-18 | Sand Dune",
+    "rarity": "Industrial Grade",
+    "paint_index": "208"
   },
   {
     "id": "skin-262976",
@@ -2643,7 +3019,9 @@
     "price": 3.12,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Sand Dune"
+    "item_name": "Glock-18 | Sand Dune",
+    "rarity": "Industrial Grade",
+    "paint_index": "208"
   },
   {
     "id": "skin-262976",
@@ -2657,7 +3035,9 @@
     "price": 3.26,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Sand Dune"
+    "item_name": "Glock-18 | Sand Dune",
+    "rarity": "Industrial Grade",
+    "paint_index": "208"
   },
   {
     "id": "skin-266096",
@@ -2671,7 +3051,9 @@
     "price": 5.68,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Neo-Noir"
+    "item_name": "Glock-18 | Neo-Noir",
+    "rarity": "Covert",
+    "paint_index": "988"
   },
   {
     "id": "skin-266096",
@@ -2685,7 +3067,9 @@
     "price": 43.74,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Neo-Noir"
+    "item_name": "Glock-18 | Neo-Noir",
+    "rarity": "Covert",
+    "paint_index": "988"
   },
   {
     "id": "skin-266096",
@@ -2699,7 +3083,9 @@
     "price": 16.77,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Glock-18 | Neo-Noir"
+    "item_name": "Glock-18 | Neo-Noir",
+    "rarity": "Covert",
+    "paint_index": "988"
   },
   {
     "id": "skin-266096",
@@ -2713,7 +3099,9 @@
     "price": 26.12,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Glock-18 | Neo-Noir"
+    "item_name": "Glock-18 | Neo-Noir",
+    "rarity": "Covert",
+    "paint_index": "988"
   },
   {
     "id": "skin-266096",
@@ -2727,7 +3115,9 @@
     "price": 63.63,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Glock-18 | Neo-Noir"
+    "item_name": "Glock-18 | Neo-Noir",
+    "rarity": "Covert",
+    "paint_index": "988"
   },
   {
     "id": "skin-266096",
@@ -2741,7 +3131,9 @@
     "price": 16.59,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Neo-Noir"
+    "item_name": "Glock-18 | Neo-Noir",
+    "rarity": "Covert",
+    "paint_index": "988"
   },
   {
     "id": "skin-266096",
@@ -2755,7 +3147,9 @@
     "price": 187.87,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Glock-18 | Neo-Noir"
+    "item_name": "Glock-18 | Neo-Noir",
+    "rarity": "Covert",
+    "paint_index": "988"
   },
   {
     "id": "skin-266096",
@@ -2769,7 +3163,9 @@
     "price": 6.13,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Neo-Noir"
+    "item_name": "Glock-18 | Neo-Noir",
+    "rarity": "Covert",
+    "paint_index": "988"
   },
   {
     "id": "skin-266096",
@@ -2783,7 +3179,9 @@
     "price": 7.54,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Neo-Noir"
+    "item_name": "Glock-18 | Neo-Noir",
+    "rarity": "Covert",
+    "paint_index": "988"
   },
   {
     "id": "skin-266096",
@@ -2797,7 +3195,9 @@
     "price": 19.94,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Glock-18 | Neo-Noir"
+    "item_name": "Glock-18 | Neo-Noir",
+    "rarity": "Covert",
+    "paint_index": "988"
   },
   {
     "id": "skin-262480",
@@ -2811,7 +3211,9 @@
     "price": 41.23,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Pink DDPAT"
+    "item_name": "Glock-18 | Pink DDPAT",
+    "rarity": "Restricted",
+    "paint_index": "84"
   },
   {
     "id": "skin-262480",
@@ -2825,7 +3227,9 @@
     "price": 43.98,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Pink DDPAT"
+    "item_name": "Glock-18 | Pink DDPAT",
+    "rarity": "Restricted",
+    "paint_index": "84"
   },
   {
     "id": "skin-262480",
@@ -2839,7 +3243,9 @@
     "price": 60.6,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Pink DDPAT"
+    "item_name": "Glock-18 | Pink DDPAT",
+    "rarity": "Restricted",
+    "paint_index": "84"
   },
   {
     "id": "skin-262480",
@@ -2853,7 +3259,9 @@
     "price": 41.71,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Pink DDPAT"
+    "item_name": "Glock-18 | Pink DDPAT",
+    "rarity": "Restricted",
+    "paint_index": "84"
   },
   {
     "id": "skin-262480",
@@ -2867,7 +3275,9 @@
     "price": 45.96,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Pink DDPAT"
+    "item_name": "Glock-18 | Pink DDPAT",
+    "rarity": "Restricted",
+    "paint_index": "84"
   },
   {
     "id": "skin-264864",
@@ -2881,7 +3291,9 @@
     "price": 0.21,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Glock-18 | Off World"
+    "item_name": "Glock-18 | Off World",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "680"
   },
   {
     "id": "skin-264864",
@@ -2895,7 +3307,9 @@
     "price": 0.06,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Off World"
+    "item_name": "Glock-18 | Off World",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "680"
   },
   {
     "id": "skin-264864",
@@ -2909,7 +3323,9 @@
     "price": 0.12,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Off World"
+    "item_name": "Glock-18 | Off World",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "680"
   },
   {
     "id": "skin-264864",
@@ -2923,7 +3339,9 @@
     "price": 3.37,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Glock-18 | Off World"
+    "item_name": "Glock-18 | Off World",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "680"
   },
   {
     "id": "skin-264864",
@@ -2937,7 +3355,9 @@
     "price": 0.07,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Off World"
+    "item_name": "Glock-18 | Off World",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "680"
   },
   {
     "id": "skin-264864",
@@ -2951,7 +3371,9 @@
     "price": 0.19,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Glock-18 | Off World"
+    "item_name": "Glock-18 | Off World",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "680"
   },
   {
     "id": "skin-264864",
@@ -2965,7 +3387,9 @@
     "price": 0.52,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Off World"
+    "item_name": "Glock-18 | Off World",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "680"
   },
   {
     "id": "skin-264864",
@@ -2979,7 +3403,9 @@
     "price": 0.21,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Glock-18 | Off World"
+    "item_name": "Glock-18 | Off World",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "680"
   },
   {
     "id": "skin-264864",
@@ -2993,7 +3419,9 @@
     "price": 0.47,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Glock-18 | Off World"
+    "item_name": "Glock-18 | Off World",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "680"
   },
   {
     "id": "skin-264864",
@@ -3007,7 +3435,9 @@
     "price": 0.06,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Off World"
+    "item_name": "Glock-18 | Off World",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "680"
   },
   {
     "id": "skin-267052",
@@ -3021,7 +3451,9 @@
     "price": 5.58,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Glock-18 | Umbral Rabbit"
+    "item_name": "Glock-18 | Umbral Rabbit",
+    "rarity": "Restricted",
+    "paint_index": "1227"
   },
   {
     "id": "skin-267052",
@@ -3035,7 +3467,9 @@
     "price": 1.4,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Glock-18 | Umbral Rabbit"
+    "item_name": "Glock-18 | Umbral Rabbit",
+    "rarity": "Restricted",
+    "paint_index": "1227"
   },
   {
     "id": "skin-267052",
@@ -3049,7 +3483,9 @@
     "price": 0.32,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Umbral Rabbit"
+    "item_name": "Glock-18 | Umbral Rabbit",
+    "rarity": "Restricted",
+    "paint_index": "1227"
   },
   {
     "id": "skin-267052",
@@ -3063,7 +3499,9 @@
     "price": 2.74,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Glock-18 | Umbral Rabbit"
+    "item_name": "Glock-18 | Umbral Rabbit",
+    "rarity": "Restricted",
+    "paint_index": "1227"
   },
   {
     "id": "skin-267052",
@@ -3077,7 +3515,9 @@
     "price": 0.93,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Glock-18 | Umbral Rabbit"
+    "item_name": "Glock-18 | Umbral Rabbit",
+    "rarity": "Restricted",
+    "paint_index": "1227"
   },
   {
     "id": "skin-267052",
@@ -3091,7 +3531,9 @@
     "price": 0.81,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Umbral Rabbit"
+    "item_name": "Glock-18 | Umbral Rabbit",
+    "rarity": "Restricted",
+    "paint_index": "1227"
   },
   {
     "id": "skin-267052",
@@ -3105,7 +3547,9 @@
     "price": 0.36,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Umbral Rabbit"
+    "item_name": "Glock-18 | Umbral Rabbit",
+    "rarity": "Restricted",
+    "paint_index": "1227"
   },
   {
     "id": "skin-267052",
@@ -3119,7 +3563,9 @@
     "price": 0.25,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Umbral Rabbit"
+    "item_name": "Glock-18 | Umbral Rabbit",
+    "rarity": "Restricted",
+    "paint_index": "1227"
   },
   {
     "id": "skin-267052",
@@ -3133,7 +3579,9 @@
     "price": 1.47,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Umbral Rabbit"
+    "item_name": "Glock-18 | Umbral Rabbit",
+    "rarity": "Restricted",
+    "paint_index": "1227"
   },
   {
     "id": "skin-267052",
@@ -3147,7 +3595,9 @@
     "price": 0.7,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Glock-18 | Umbral Rabbit"
+    "item_name": "Glock-18 | Umbral Rabbit",
+    "rarity": "Restricted",
+    "paint_index": "1227"
   },
   {
     "id": "skin-266208",
@@ -3161,7 +3611,9 @@
     "price": 29.21,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Franklin"
+    "item_name": "Glock-18 | Franklin",
+    "rarity": "Restricted",
+    "paint_index": "1016"
   },
   {
     "id": "skin-266208",
@@ -3175,7 +3627,9 @@
     "price": 27.01,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Franklin"
+    "item_name": "Glock-18 | Franklin",
+    "rarity": "Restricted",
+    "paint_index": "1016"
   },
   {
     "id": "skin-266208",
@@ -3189,7 +3643,9 @@
     "price": 28.8,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Franklin"
+    "item_name": "Glock-18 | Franklin",
+    "rarity": "Restricted",
+    "paint_index": "1016"
   },
   {
     "id": "skin-266208",
@@ -3203,7 +3659,9 @@
     "price": 37.36,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Franklin"
+    "item_name": "Glock-18 | Franklin",
+    "rarity": "Restricted",
+    "paint_index": "1016"
   },
   {
     "id": "skin-266776",
@@ -3217,7 +3675,9 @@
     "price": 0.1,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Glock-18 | Winterized"
+    "item_name": "Glock-18 | Winterized",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1158"
   },
   {
     "id": "skin-266776",
@@ -3231,7 +3691,9 @@
     "price": 0.04,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Winterized"
+    "item_name": "Glock-18 | Winterized",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1158"
   },
   {
     "id": "skin-266776",
@@ -3245,7 +3707,9 @@
     "price": 2.11,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Glock-18 | Winterized"
+    "item_name": "Glock-18 | Winterized",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1158"
   },
   {
     "id": "skin-266776",
@@ -3259,7 +3723,9 @@
     "price": 0.04,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Winterized"
+    "item_name": "Glock-18 | Winterized",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1158"
   },
   {
     "id": "skin-266776",
@@ -3273,7 +3739,9 @@
     "price": 0.09,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Winterized"
+    "item_name": "Glock-18 | Winterized",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1158"
   },
   {
     "id": "skin-266776",
@@ -3287,7 +3755,9 @@
     "price": 0.09,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Glock-18 | Winterized"
+    "item_name": "Glock-18 | Winterized",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1158"
   },
   {
     "id": "skin-266776",
@@ -3301,7 +3771,9 @@
     "price": 0.12,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Glock-18 | Winterized"
+    "item_name": "Glock-18 | Winterized",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1158"
   },
   {
     "id": "skin-266776",
@@ -3315,7 +3787,9 @@
     "price": 0.29,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Glock-18 | Winterized"
+    "item_name": "Glock-18 | Winterized",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1158"
   },
   {
     "id": "skin-266776",
@@ -3329,7 +3803,9 @@
     "price": 0.04,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Winterized"
+    "item_name": "Glock-18 | Winterized",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1158"
   },
   {
     "id": "skin-266776",
@@ -3343,7 +3819,9 @@
     "price": 0.24,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Winterized"
+    "item_name": "Glock-18 | Winterized",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1158"
   },
   {
     "id": "skin-266544",
@@ -3357,7 +3835,9 @@
     "price": 4.66,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Snack Attack"
+    "item_name": "Glock-18 | Snack Attack",
+    "rarity": "Classified",
+    "paint_index": "1100"
   },
   {
     "id": "skin-266544",
@@ -3371,7 +3851,9 @@
     "price": 69.81,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Glock-18 | Snack Attack"
+    "item_name": "Glock-18 | Snack Attack",
+    "rarity": "Classified",
+    "paint_index": "1100"
   },
   {
     "id": "skin-266544",
@@ -3385,7 +3867,9 @@
     "price": 9.39,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Glock-18 | Snack Attack"
+    "item_name": "Glock-18 | Snack Attack",
+    "rarity": "Classified",
+    "paint_index": "1100"
   },
   {
     "id": "skin-266544",
@@ -3399,7 +3883,9 @@
     "price": 2.08,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Snack Attack"
+    "item_name": "Glock-18 | Snack Attack",
+    "rarity": "Classified",
+    "paint_index": "1100"
   },
   {
     "id": "skin-266544",
@@ -3413,7 +3899,9 @@
     "price": 14.88,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Snack Attack"
+    "item_name": "Glock-18 | Snack Attack",
+    "rarity": "Classified",
+    "paint_index": "1100"
   },
   {
     "id": "skin-266544",
@@ -3427,7 +3915,9 @@
     "price": 2.47,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Snack Attack"
+    "item_name": "Glock-18 | Snack Attack",
+    "rarity": "Classified",
+    "paint_index": "1100"
   },
   {
     "id": "skin-266544",
@@ -3441,7 +3931,9 @@
     "price": 8.91,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Glock-18 | Snack Attack"
+    "item_name": "Glock-18 | Snack Attack",
+    "rarity": "Classified",
+    "paint_index": "1100"
   },
   {
     "id": "skin-266544",
@@ -3455,7 +3947,9 @@
     "price": 9.19,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Glock-18 | Snack Attack"
+    "item_name": "Glock-18 | Snack Attack",
+    "rarity": "Classified",
+    "paint_index": "1100"
   },
   {
     "id": "skin-266544",
@@ -3469,7 +3963,9 @@
     "price": 2.15,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Snack Attack"
+    "item_name": "Glock-18 | Snack Attack",
+    "rarity": "Classified",
+    "paint_index": "1100"
   },
   {
     "id": "skin-266544",
@@ -3483,7 +3979,9 @@
     "price": 18.79,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Glock-18 | Snack Attack"
+    "item_name": "Glock-18 | Snack Attack",
+    "rarity": "Classified",
+    "paint_index": "1100"
   },
   {
     "id": "skin-265072",
@@ -3497,7 +3995,9 @@
     "price": 215.98,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Synth Leaf"
+    "item_name": "Glock-18 | Synth Leaf",
+    "rarity": "Restricted",
+    "paint_index": "732"
   },
   {
     "id": "skin-265072",
@@ -3511,7 +4011,9 @@
     "price": 1371.17,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Synth Leaf"
+    "item_name": "Glock-18 | Synth Leaf",
+    "rarity": "Restricted",
+    "paint_index": "732"
   },
   {
     "id": "skin-265072",
@@ -3525,7 +4027,9 @@
     "price": 219.27,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Synth Leaf"
+    "item_name": "Glock-18 | Synth Leaf",
+    "rarity": "Restricted",
+    "paint_index": "732"
   },
   {
     "id": "skin-265072",
@@ -3539,7 +4043,9 @@
     "price": 232.99,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Synth Leaf"
+    "item_name": "Glock-18 | Synth Leaf",
+    "rarity": "Restricted",
+    "paint_index": "732"
   },
   {
     "id": "skin-265072",
@@ -3553,7 +4059,9 @@
     "price": 204.17,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Synth Leaf"
+    "item_name": "Glock-18 | Synth Leaf",
+    "rarity": "Restricted",
+    "paint_index": "732"
   },
   {
     "id": "skin-265340",
@@ -3567,7 +4075,9 @@
     "price": 0.29,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | High Beam"
+    "item_name": "Glock-18 | High Beam",
+    "rarity": "Industrial Grade",
+    "paint_index": "799"
   },
   {
     "id": "skin-265340",
@@ -3581,7 +4091,9 @@
     "price": 0.14,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | High Beam"
+    "item_name": "Glock-18 | High Beam",
+    "rarity": "Industrial Grade",
+    "paint_index": "799"
   },
   {
     "id": "skin-262336",
@@ -3595,7 +4107,9 @@
     "price": 63.99,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Dragon Tattoo"
+    "item_name": "Glock-18 | Dragon Tattoo",
+    "rarity": "Restricted",
+    "paint_index": "48"
   },
   {
     "id": "skin-262336",
@@ -3609,7 +4123,9 @@
     "price": 175.39,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Glock-18 | Dragon Tattoo"
+    "item_name": "Glock-18 | Dragon Tattoo",
+    "rarity": "Restricted",
+    "paint_index": "48"
   },
   {
     "id": "skin-262336",
@@ -3623,7 +4139,9 @@
     "price": 193.77,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Glock-18 | Dragon Tattoo"
+    "item_name": "Glock-18 | Dragon Tattoo",
+    "rarity": "Restricted",
+    "paint_index": "48"
   },
   {
     "id": "skin-262336",
@@ -3637,7 +4155,9 @@
     "price": 58.28,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Dragon Tattoo"
+    "item_name": "Glock-18 | Dragon Tattoo",
+    "rarity": "Restricted",
+    "paint_index": "48"
   },
   {
     "id": "skin-266460",
@@ -3651,7 +4171,9 @@
     "price": 2.14,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Red Tire"
+    "item_name": "Glock-18 | Red Tire",
+    "rarity": "Industrial Grade",
+    "paint_index": "1079"
   },
   {
     "id": "skin-266460",
@@ -3665,7 +4187,9 @@
     "price": 3.36,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Red Tire"
+    "item_name": "Glock-18 | Red Tire",
+    "rarity": "Industrial Grade",
+    "paint_index": "1079"
   },
   {
     "id": "skin-266460",
@@ -3679,7 +4203,9 @@
     "price": 2.12,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Red Tire"
+    "item_name": "Glock-18 | Red Tire",
+    "rarity": "Industrial Grade",
+    "paint_index": "1079"
   },
   {
     "id": "skin-266460",
@@ -3693,7 +4219,9 @@
     "price": 2.04,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Red Tire"
+    "item_name": "Glock-18 | Red Tire",
+    "rarity": "Industrial Grade",
+    "paint_index": "1079"
   },
   {
     "id": "skin-266460",
@@ -3707,7 +4235,9 @@
     "price": 2.18,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Red Tire"
+    "item_name": "Glock-18 | Red Tire",
+    "rarity": "Industrial Grade",
+    "paint_index": "1079"
   },
   {
     "id": "skin-264488",
@@ -3721,7 +4251,9 @@
     "price": 2.96,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Wasteland Rebel"
+    "item_name": "Glock-18 | Wasteland Rebel",
+    "rarity": "Covert",
+    "paint_index": "586"
   },
   {
     "id": "skin-264488",
@@ -3735,7 +4267,9 @@
     "price": 16.3,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Glock-18 | Wasteland Rebel"
+    "item_name": "Glock-18 | Wasteland Rebel",
+    "rarity": "Covert",
+    "paint_index": "586"
   },
   {
     "id": "skin-264488",
@@ -3749,7 +4283,9 @@
     "price": 12.37,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Glock-18 | Wasteland Rebel"
+    "item_name": "Glock-18 | Wasteland Rebel",
+    "rarity": "Covert",
+    "paint_index": "586"
   },
   {
     "id": "skin-264488",
@@ -3763,7 +4299,9 @@
     "price": 3.44,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Wasteland Rebel"
+    "item_name": "Glock-18 | Wasteland Rebel",
+    "rarity": "Covert",
+    "paint_index": "586"
   },
   {
     "id": "skin-264488",
@@ -3777,7 +4315,9 @@
     "price": 15.45,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Glock-18 | Wasteland Rebel"
+    "item_name": "Glock-18 | Wasteland Rebel",
+    "rarity": "Covert",
+    "paint_index": "586"
   },
   {
     "id": "skin-264488",
@@ -3791,7 +4331,9 @@
     "price": 27.84,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Glock-18 | Wasteland Rebel"
+    "item_name": "Glock-18 | Wasteland Rebel",
+    "rarity": "Covert",
+    "paint_index": "586"
   },
   {
     "id": "skin-264488",
@@ -3805,7 +4347,9 @@
     "price": 16.76,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Glock-18 | Wasteland Rebel"
+    "item_name": "Glock-18 | Wasteland Rebel",
+    "rarity": "Covert",
+    "paint_index": "586"
   },
   {
     "id": "skin-264488",
@@ -3819,7 +4363,9 @@
     "price": 5.29,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Wasteland Rebel"
+    "item_name": "Glock-18 | Wasteland Rebel",
+    "rarity": "Covert",
+    "paint_index": "586"
   },
   {
     "id": "skin-264488",
@@ -3833,7 +4379,9 @@
     "price": 3.08,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Wasteland Rebel"
+    "item_name": "Glock-18 | Wasteland Rebel",
+    "rarity": "Covert",
+    "paint_index": "586"
   },
   {
     "id": "skin-264488",
@@ -3847,7 +4395,9 @@
     "price": 5.27,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Wasteland Rebel"
+    "item_name": "Glock-18 | Wasteland Rebel",
+    "rarity": "Covert",
+    "paint_index": "586"
   },
   {
     "id": "skin-266636",
@@ -3861,7 +4411,9 @@
     "price": 33.53,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Gamma Doppler"
+    "item_name": "Glock-18 | Gamma Doppler",
+    "rarity": "Covert",
+    "paint_index": "1123"
   },
   {
     "id": "skin-266636",
@@ -3875,7 +4427,9 @@
     "price": 32.22,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Gamma Doppler"
+    "item_name": "Glock-18 | Gamma Doppler",
+    "rarity": "Covert",
+    "paint_index": "1123"
   },
   {
     "id": "skin-266636",
@@ -3889,7 +4443,9 @@
     "price": 37.03,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Gamma Doppler"
+    "item_name": "Glock-18 | Gamma Doppler",
+    "rarity": "Covert",
+    "paint_index": "1123"
   },
   {
     "id": "skin-266636",
@@ -3903,7 +4459,9 @@
     "price": 30.85,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Gamma Doppler"
+    "item_name": "Glock-18 | Gamma Doppler",
+    "rarity": "Covert",
+    "paint_index": "1123"
   },
   {
     "id": "skin-266636",
@@ -3917,7 +4475,9 @@
     "price": 45.46,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Gamma Doppler"
+    "item_name": "Glock-18 | Gamma Doppler",
+    "rarity": "Covert",
+    "paint_index": "1123"
   },
   {
     "id": "skin-263064",
@@ -3931,7 +4491,9 @@
     "price": 7.42,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Glock-18 | Steel Disruption"
+    "item_name": "Glock-18 | Steel Disruption",
+    "rarity": "Restricted",
+    "paint_index": "230"
   },
   {
     "id": "skin-263064",
@@ -3945,7 +4507,9 @@
     "price": 6.85,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Glock-18 | Steel Disruption"
+    "item_name": "Glock-18 | Steel Disruption",
+    "rarity": "Restricted",
+    "paint_index": "230"
   },
   {
     "id": "skin-263064",
@@ -3959,7 +4523,9 @@
     "price": 11.09,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Glock-18 | Steel Disruption"
+    "item_name": "Glock-18 | Steel Disruption",
+    "rarity": "Restricted",
+    "paint_index": "230"
   },
   {
     "id": "skin-263064",
@@ -3973,7 +4539,9 @@
     "price": 3.15,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Steel Disruption"
+    "item_name": "Glock-18 | Steel Disruption",
+    "rarity": "Restricted",
+    "paint_index": "230"
   },
   {
     "id": "skin-263064",
@@ -3987,7 +4555,9 @@
     "price": 2.66,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Steel Disruption"
+    "item_name": "Glock-18 | Steel Disruption",
+    "rarity": "Restricted",
+    "paint_index": "230"
   },
   {
     "id": "skin-263064",
@@ -4001,7 +4571,9 @@
     "price": 2.71,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Steel Disruption"
+    "item_name": "Glock-18 | Steel Disruption",
+    "rarity": "Restricted",
+    "paint_index": "230"
   },
   {
     "id": "skin-262156",
@@ -4015,7 +4587,9 @@
     "price": 0.38,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Candy Apple"
+    "item_name": "Glock-18 | Candy Apple",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "3"
   },
   {
     "id": "skin-262156",
@@ -4029,7 +4603,9 @@
     "price": 0.42,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Candy Apple"
+    "item_name": "Glock-18 | Candy Apple",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "3"
   },
   {
     "id": "skin-262156",
@@ -4043,7 +4619,9 @@
     "price": 0.84,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Candy Apple"
+    "item_name": "Glock-18 | Candy Apple",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "3"
   },
   {
     "id": "skin-262296",
@@ -4057,7 +4635,9 @@
     "price": 1439.67,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Fade"
+    "item_name": "Glock-18 | Fade",
+    "rarity": "Restricted",
+    "paint_index": "38"
   },
   {
     "id": "skin-262296",
@@ -4071,7 +4651,9 @@
     "price": 1277.99,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Fade"
+    "item_name": "Glock-18 | Fade",
+    "rarity": "Restricted",
+    "paint_index": "38"
   },
   {
     "id": "skin-263892",
@@ -4085,7 +4667,9 @@
     "price": 135.62,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Twilight Galaxy"
+    "item_name": "Glock-18 | Twilight Galaxy",
+    "rarity": "Classified",
+    "paint_index": "437"
   },
   {
     "id": "skin-263892",
@@ -4099,7 +4683,9 @@
     "price": 157.01,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Twilight Galaxy"
+    "item_name": "Glock-18 | Twilight Galaxy",
+    "rarity": "Classified",
+    "paint_index": "437"
   },
   {
     "id": "skin-263892",
@@ -4113,7 +4699,9 @@
     "price": 139.12,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Twilight Galaxy"
+    "item_name": "Glock-18 | Twilight Galaxy",
+    "rarity": "Classified",
+    "paint_index": "437"
   },
   {
     "id": "skin-262780",
@@ -4127,7 +4715,9 @@
     "price": 27.43,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Brass"
+    "item_name": "Glock-18 | Brass",
+    "rarity": "Restricted",
+    "paint_index": "159"
   },
   {
     "id": "skin-262780",
@@ -4141,7 +4731,9 @@
     "price": 17.07,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Brass"
+    "item_name": "Glock-18 | Brass",
+    "rarity": "Restricted",
+    "paint_index": "159"
   },
   {
     "id": "skin-262780",
@@ -4155,7 +4747,9 @@
     "price": 15.08,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Brass"
+    "item_name": "Glock-18 | Brass",
+    "rarity": "Restricted",
+    "paint_index": "159"
   },
   {
     "id": "skin-262780",
@@ -4169,7 +4763,9 @@
     "price": 13.71,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Brass"
+    "item_name": "Glock-18 | Brass",
+    "rarity": "Restricted",
+    "paint_index": "159"
   },
   {
     "id": "skin-262780",
@@ -4183,6 +4779,8 @@
     "price": 67.85,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Glock-18 | Brass"
+    "item_name": "Glock-18 | Brass",
+    "rarity": "Restricted",
+    "paint_index": "159"
   }
 ]

@@ -11,7 +11,9 @@
     "price": 0.4,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "SSG 08 | Necropos"
+    "item_name": "SSG 08 | Necropos",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "538"
   },
   {
     "id": "skin-2623592",
@@ -25,7 +27,9 @@
     "price": 0.43,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Necropos"
+    "item_name": "SSG 08 | Necropos",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "538"
   },
   {
     "id": "skin-2623592",
@@ -39,7 +43,9 @@
     "price": 0.89,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "SSG 08 | Necropos"
+    "item_name": "SSG 08 | Necropos",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "538"
   },
   {
     "id": "skin-2623592",
@@ -53,7 +59,9 @@
     "price": 0.38,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "SSG 08 | Necropos"
+    "item_name": "SSG 08 | Necropos",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "538"
   },
   {
     "id": "skin-2623592",
@@ -67,7 +75,9 @@
     "price": 0.45,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Necropos"
+    "item_name": "SSG 08 | Necropos",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "538"
   },
   {
     "id": "skin-2623592",
@@ -81,7 +91,9 @@
     "price": 0.5,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "SSG 08 | Necropos"
+    "item_name": "SSG 08 | Necropos",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "538"
   },
   {
     "id": "skin-2623592",
@@ -95,7 +107,9 @@
     "price": 0.41,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Necropos"
+    "item_name": "SSG 08 | Necropos",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "538"
   },
   {
     "id": "skin-2623592",
@@ -109,7 +123,9 @@
     "price": 0.91,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Necropos"
+    "item_name": "SSG 08 | Necropos",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "538"
   },
   {
     "id": "skin-2623592",
@@ -123,7 +139,9 @@
     "price": 5.13,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "SSG 08 | Necropos"
+    "item_name": "SSG 08 | Necropos",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "538"
   },
   {
     "id": "skin-2623592",
@@ -137,7 +155,9 @@
     "price": 0.34,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Necropos"
+    "item_name": "SSG 08 | Necropos",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "538"
   },
   {
     "id": "skin-2622028",
@@ -151,7 +171,9 @@
     "price": 0.35,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Jungle Dashed"
+    "item_name": "SSG 08 | Jungle Dashed",
+    "rarity": "Consumer Grade",
+    "paint_index": "147"
   },
   {
     "id": "skin-2622028",
@@ -165,7 +187,9 @@
     "price": 0.39,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Jungle Dashed"
+    "item_name": "SSG 08 | Jungle Dashed",
+    "rarity": "Consumer Grade",
+    "paint_index": "147"
   },
   {
     "id": "skin-2622028",
@@ -179,7 +203,9 @@
     "price": 0.33,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Jungle Dashed"
+    "item_name": "SSG 08 | Jungle Dashed",
+    "rarity": "Consumer Grade",
+    "paint_index": "147"
   },
   {
     "id": "skin-2622028",
@@ -193,7 +219,9 @@
     "price": 1.83,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Jungle Dashed"
+    "item_name": "SSG 08 | Jungle Dashed",
+    "rarity": "Consumer Grade",
+    "paint_index": "147"
   },
   {
     "id": "skin-2622028",
@@ -207,7 +235,9 @@
     "price": 0.35,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Jungle Dashed"
+    "item_name": "SSG 08 | Jungle Dashed",
+    "rarity": "Consumer Grade",
+    "paint_index": "147"
   },
   {
     "id": "skin-2621544",
@@ -221,7 +251,9 @@
     "price": 1.07,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Lichen Dashed"
+    "item_name": "SSG 08 | Lichen Dashed",
+    "rarity": "Consumer Grade",
+    "paint_index": "26"
   },
   {
     "id": "skin-2621544",
@@ -235,7 +267,9 @@
     "price": 1.07,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Lichen Dashed"
+    "item_name": "SSG 08 | Lichen Dashed",
+    "rarity": "Consumer Grade",
+    "paint_index": "26"
   },
   {
     "id": "skin-2621544",
@@ -249,7 +283,9 @@
     "price": 2.94,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Lichen Dashed"
+    "item_name": "SSG 08 | Lichen Dashed",
+    "rarity": "Consumer Grade",
+    "paint_index": "26"
   },
   {
     "id": "skin-2621544",
@@ -263,7 +299,9 @@
     "price": 13.83,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Lichen Dashed"
+    "item_name": "SSG 08 | Lichen Dashed",
+    "rarity": "Consumer Grade",
+    "paint_index": "26"
   },
   {
     "id": "skin-2621544",
@@ -277,7 +315,9 @@
     "price": 1.03,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Lichen Dashed"
+    "item_name": "SSG 08 | Lichen Dashed",
+    "rarity": "Consumer Grade",
+    "paint_index": "26"
   },
   {
     "id": "skin-2624120",
@@ -291,7 +331,9 @@
     "price": 18.35,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "SSG 08 | Death's Head"
+    "item_name": "SSG 08 | Death's Head",
+    "rarity": "Restricted",
+    "paint_index": "670"
   },
   {
     "id": "skin-2624120",
@@ -305,7 +347,9 @@
     "price": 13.15,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "SSG 08 | Death's Head"
+    "item_name": "SSG 08 | Death's Head",
+    "rarity": "Restricted",
+    "paint_index": "670"
   },
   {
     "id": "skin-2624120",
@@ -319,7 +363,9 @@
     "price": 6.41,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Death's Head"
+    "item_name": "SSG 08 | Death's Head",
+    "rarity": "Restricted",
+    "paint_index": "670"
   },
   {
     "id": "skin-2624120",
@@ -333,7 +379,9 @@
     "price": 13.58,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "SSG 08 | Death's Head"
+    "item_name": "SSG 08 | Death's Head",
+    "rarity": "Restricted",
+    "paint_index": "670"
   },
   {
     "id": "skin-2624120",
@@ -347,7 +395,9 @@
     "price": 6.11,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Death's Head"
+    "item_name": "SSG 08 | Death's Head",
+    "rarity": "Restricted",
+    "paint_index": "670"
   },
   {
     "id": "skin-2624120",
@@ -361,7 +411,9 @@
     "price": 15.77,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "SSG 08 | Death's Head"
+    "item_name": "SSG 08 | Death's Head",
+    "rarity": "Restricted",
+    "paint_index": "670"
   },
   {
     "id": "skin-2624120",
@@ -375,7 +427,9 @@
     "price": 7.88,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Death's Head"
+    "item_name": "SSG 08 | Death's Head",
+    "rarity": "Restricted",
+    "paint_index": "670"
   },
   {
     "id": "skin-2624120",
@@ -389,7 +443,9 @@
     "price": 9.6,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "SSG 08 | Death's Head"
+    "item_name": "SSG 08 | Death's Head",
+    "rarity": "Restricted",
+    "paint_index": "670"
   },
   {
     "id": "skin-2624120",
@@ -403,7 +459,9 @@
     "price": 6.29,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Death's Head"
+    "item_name": "SSG 08 | Death's Head",
+    "rarity": "Restricted",
+    "paint_index": "670"
   },
   {
     "id": "skin-2624120",
@@ -417,7 +475,9 @@
     "price": 6.08,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Death's Head"
+    "item_name": "SSG 08 | Death's Head",
+    "rarity": "Restricted",
+    "paint_index": "670"
   },
   {
     "id": "skin-2624912",
@@ -431,7 +491,9 @@
     "price": 0,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Sea Calico"
+    "item_name": "SSG 08 | Sea Calico",
+    "rarity": "Restricted",
+    "paint_index": "868"
   },
   {
     "id": "skin-2624912",
@@ -445,7 +507,9 @@
     "price": 1029,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Sea Calico"
+    "item_name": "SSG 08 | Sea Calico",
+    "rarity": "Restricted",
+    "paint_index": "868"
   },
   {
     "id": "skin-2624912",
@@ -459,7 +523,9 @@
     "price": 233.12,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Sea Calico"
+    "item_name": "SSG 08 | Sea Calico",
+    "rarity": "Restricted",
+    "paint_index": "868"
   },
   {
     "id": "skin-2624912",
@@ -473,7 +539,9 @@
     "price": 226.27,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Sea Calico"
+    "item_name": "SSG 08 | Sea Calico",
+    "rarity": "Restricted",
+    "paint_index": "868"
   },
   {
     "id": "skin-2624912",
@@ -487,7 +555,9 @@
     "price": 228.6,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Sea Calico"
+    "item_name": "SSG 08 | Sea Calico",
+    "rarity": "Restricted",
+    "paint_index": "868"
   },
   {
     "id": "skin-2625264",
@@ -501,7 +571,9 @@
     "price": 2.19,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "SSG 08 | Fever Dream"
+    "item_name": "SSG 08 | Fever Dream",
+    "rarity": "Restricted",
+    "paint_index": "956"
   },
   {
     "id": "skin-2625264",
@@ -515,7 +587,9 @@
     "price": 1.32,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Fever Dream"
+    "item_name": "SSG 08 | Fever Dream",
+    "rarity": "Restricted",
+    "paint_index": "956"
   },
   {
     "id": "skin-2625264",
@@ -529,7 +603,9 @@
     "price": 0.26,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Fever Dream"
+    "item_name": "SSG 08 | Fever Dream",
+    "rarity": "Restricted",
+    "paint_index": "956"
   },
   {
     "id": "skin-2625264",
@@ -543,7 +619,9 @@
     "price": 0.97,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "SSG 08 | Fever Dream"
+    "item_name": "SSG 08 | Fever Dream",
+    "rarity": "Restricted",
+    "paint_index": "956"
   },
   {
     "id": "skin-2625264",
@@ -557,7 +635,9 @@
     "price": 0.83,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "SSG 08 | Fever Dream"
+    "item_name": "SSG 08 | Fever Dream",
+    "rarity": "Restricted",
+    "paint_index": "956"
   },
   {
     "id": "skin-2625264",
@@ -571,7 +651,9 @@
     "price": 5.4,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "SSG 08 | Fever Dream"
+    "item_name": "SSG 08 | Fever Dream",
+    "rarity": "Restricted",
+    "paint_index": "956"
   },
   {
     "id": "skin-2625264",
@@ -585,7 +667,9 @@
     "price": 0.64,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Fever Dream"
+    "item_name": "SSG 08 | Fever Dream",
+    "rarity": "Restricted",
+    "paint_index": "956"
   },
   {
     "id": "skin-2625264",
@@ -599,7 +683,9 @@
     "price": 2.48,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "SSG 08 | Fever Dream"
+    "item_name": "SSG 08 | Fever Dream",
+    "rarity": "Restricted",
+    "paint_index": "956"
   },
   {
     "id": "skin-2625264",
@@ -613,7 +699,9 @@
     "price": 0.56,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Fever Dream"
+    "item_name": "SSG 08 | Fever Dream",
+    "rarity": "Restricted",
+    "paint_index": "956"
   },
   {
     "id": "skin-2625264",
@@ -627,7 +715,9 @@
     "price": 0.3,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Fever Dream"
+    "item_name": "SSG 08 | Fever Dream",
+    "rarity": "Restricted",
+    "paint_index": "956"
   },
   {
     "id": "skin-2625308",
@@ -641,7 +731,9 @@
     "price": 0.13,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "SSG 08 | Mainframe 001"
+    "item_name": "SSG 08 | Mainframe 001",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "967"
   },
   {
     "id": "skin-2625308",
@@ -655,7 +747,9 @@
     "price": 0.04,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Mainframe 001"
+    "item_name": "SSG 08 | Mainframe 001",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "967"
   },
   {
     "id": "skin-2625308",
@@ -669,7 +763,9 @@
     "price": 0.27,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "SSG 08 | Mainframe 001"
+    "item_name": "SSG 08 | Mainframe 001",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "967"
   },
   {
     "id": "skin-2625308",
@@ -683,7 +779,9 @@
     "price": 0.27,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Mainframe 001"
+    "item_name": "SSG 08 | Mainframe 001",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "967"
   },
   {
     "id": "skin-2625308",
@@ -697,7 +795,9 @@
     "price": 0.08,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "SSG 08 | Mainframe 001"
+    "item_name": "SSG 08 | Mainframe 001",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "967"
   },
   {
     "id": "skin-2625308",
@@ -711,7 +811,9 @@
     "price": 0.04,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Mainframe 001"
+    "item_name": "SSG 08 | Mainframe 001",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "967"
   },
   {
     "id": "skin-2625308",
@@ -725,7 +827,9 @@
     "price": 0.04,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Mainframe 001"
+    "item_name": "SSG 08 | Mainframe 001",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "967"
   },
   {
     "id": "skin-2625308",
@@ -739,7 +843,9 @@
     "price": 0.08,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Mainframe 001"
+    "item_name": "SSG 08 | Mainframe 001",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "967"
   },
   {
     "id": "skin-2625308",
@@ -753,7 +859,9 @@
     "price": 1.41,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "SSG 08 | Mainframe 001"
+    "item_name": "SSG 08 | Mainframe 001",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "967"
   },
   {
     "id": "skin-2625308",
@@ -767,7 +875,9 @@
     "price": 0.08,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "SSG 08 | Mainframe 001"
+    "item_name": "SSG 08 | Mainframe 001",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "967"
   },
   {
     "id": "skin-2622656",
@@ -781,7 +891,9 @@
     "price": 1.26,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "SSG 08 | Slashed"
+    "item_name": "SSG 08 | Slashed",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "304"
   },
   {
     "id": "skin-2622656",
@@ -795,7 +907,9 @@
     "price": 0,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "SSG 08 | Slashed"
+    "item_name": "SSG 08 | Slashed",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "304"
   },
   {
     "id": "skin-2622656",
@@ -809,7 +923,9 @@
     "price": 1.73,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Slashed"
+    "item_name": "SSG 08 | Slashed",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "304"
   },
   {
     "id": "skin-2622656",
@@ -823,7 +939,9 @@
     "price": 1.33,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "SSG 08 | Slashed"
+    "item_name": "SSG 08 | Slashed",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "304"
   },
   {
     "id": "skin-2622656",
@@ -837,7 +955,9 @@
     "price": 0,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Slashed"
+    "item_name": "SSG 08 | Slashed",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "304"
   },
   {
     "id": "skin-2622656",
@@ -851,7 +971,9 @@
     "price": 1.21,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "SSG 08 | Slashed"
+    "item_name": "SSG 08 | Slashed",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "304"
   },
   {
     "id": "skin-2622656",
@@ -865,7 +987,9 @@
     "price": 1.66,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Slashed"
+    "item_name": "SSG 08 | Slashed",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "304"
   },
   {
     "id": "skin-2622656",
@@ -879,7 +1003,9 @@
     "price": 1.9,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Slashed"
+    "item_name": "SSG 08 | Slashed",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "304"
   },
   {
     "id": "skin-2623452",
@@ -893,7 +1019,9 @@
     "price": 5.41,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Big Iron"
+    "item_name": "SSG 08 | Big Iron",
+    "rarity": "Classified",
+    "paint_index": "503"
   },
   {
     "id": "skin-2623452",
@@ -907,7 +1035,9 @@
     "price": 12.6,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "SSG 08 | Big Iron"
+    "item_name": "SSG 08 | Big Iron",
+    "rarity": "Classified",
+    "paint_index": "503"
   },
   {
     "id": "skin-2623452",
@@ -921,7 +1051,9 @@
     "price": 4.98,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Big Iron"
+    "item_name": "SSG 08 | Big Iron",
+    "rarity": "Classified",
+    "paint_index": "503"
   },
   {
     "id": "skin-2623452",
@@ -935,7 +1067,9 @@
     "price": 12.89,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "SSG 08 | Big Iron"
+    "item_name": "SSG 08 | Big Iron",
+    "rarity": "Classified",
+    "paint_index": "503"
   },
   {
     "id": "skin-2623452",
@@ -949,7 +1083,9 @@
     "price": 50.05,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "SSG 08 | Big Iron"
+    "item_name": "SSG 08 | Big Iron",
+    "rarity": "Classified",
+    "paint_index": "503"
   },
   {
     "id": "skin-2623452",
@@ -963,7 +1099,9 @@
     "price": 8.19,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Big Iron"
+    "item_name": "SSG 08 | Big Iron",
+    "rarity": "Classified",
+    "paint_index": "503"
   },
   {
     "id": "skin-2623452",
@@ -977,7 +1115,9 @@
     "price": 16.46,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Big Iron"
+    "item_name": "SSG 08 | Big Iron",
+    "rarity": "Classified",
+    "paint_index": "503"
   },
   {
     "id": "skin-2623452",
@@ -991,7 +1131,9 @@
     "price": 4.77,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Big Iron"
+    "item_name": "SSG 08 | Big Iron",
+    "rarity": "Classified",
+    "paint_index": "503"
   },
   {
     "id": "skin-2623452",
@@ -1005,7 +1147,9 @@
     "price": 12.41,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "SSG 08 | Big Iron"
+    "item_name": "SSG 08 | Big Iron",
+    "rarity": "Classified",
+    "paint_index": "503"
   },
   {
     "id": "skin-2623452",
@@ -1019,7 +1163,9 @@
     "price": 27.43,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "SSG 08 | Big Iron"
+    "item_name": "SSG 08 | Big Iron",
+    "rarity": "Classified",
+    "paint_index": "503"
   },
   {
     "id": "skin-2623936",
@@ -1033,7 +1179,9 @@
     "price": 30.85,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "SSG 08 | Dragonfire"
+    "item_name": "SSG 08 | Dragonfire",
+    "rarity": "Covert",
+    "paint_index": "624"
   },
   {
     "id": "skin-2623936",
@@ -1047,7 +1195,9 @@
     "price": 8.33,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Dragonfire"
+    "item_name": "SSG 08 | Dragonfire",
+    "rarity": "Covert",
+    "paint_index": "624"
   },
   {
     "id": "skin-2623936",
@@ -1061,7 +1211,9 @@
     "price": 8.06,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Dragonfire"
+    "item_name": "SSG 08 | Dragonfire",
+    "rarity": "Covert",
+    "paint_index": "624"
   },
   {
     "id": "skin-2623936",
@@ -1075,7 +1227,9 @@
     "price": 33.1,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "SSG 08 | Dragonfire"
+    "item_name": "SSG 08 | Dragonfire",
+    "rarity": "Covert",
+    "paint_index": "624"
   },
   {
     "id": "skin-2623936",
@@ -1089,7 +1243,9 @@
     "price": 14.4,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Dragonfire"
+    "item_name": "SSG 08 | Dragonfire",
+    "rarity": "Covert",
+    "paint_index": "624"
   },
   {
     "id": "skin-2623936",
@@ -1103,7 +1259,9 @@
     "price": 9.73,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Dragonfire"
+    "item_name": "SSG 08 | Dragonfire",
+    "rarity": "Covert",
+    "paint_index": "624"
   },
   {
     "id": "skin-2623936",
@@ -1117,7 +1275,9 @@
     "price": 30.85,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "SSG 08 | Dragonfire"
+    "item_name": "SSG 08 | Dragonfire",
+    "rarity": "Covert",
+    "paint_index": "624"
   },
   {
     "id": "skin-2623936",
@@ -1131,7 +1291,9 @@
     "price": 9.57,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Dragonfire"
+    "item_name": "SSG 08 | Dragonfire",
+    "rarity": "Covert",
+    "paint_index": "624"
   },
   {
     "id": "skin-2623936",
@@ -1145,7 +1307,9 @@
     "price": 62.81,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "SSG 08 | Dragonfire"
+    "item_name": "SSG 08 | Dragonfire",
+    "rarity": "Covert",
+    "paint_index": "624"
   },
   {
     "id": "skin-2623936",
@@ -1159,7 +1323,9 @@
     "price": 38.11,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "SSG 08 | Dragonfire"
+    "item_name": "SSG 08 | Dragonfire",
+    "rarity": "Covert",
+    "paint_index": "624"
   },
   {
     "id": "skin-2623656",
@@ -1173,7 +1339,9 @@
     "price": 3.25,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "SSG 08 | Ghost Crusader"
+    "item_name": "SSG 08 | Ghost Crusader",
+    "rarity": "Restricted",
+    "paint_index": "554"
   },
   {
     "id": "skin-2623656",
@@ -1187,7 +1355,9 @@
     "price": 10.08,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "SSG 08 | Ghost Crusader"
+    "item_name": "SSG 08 | Ghost Crusader",
+    "rarity": "Restricted",
+    "paint_index": "554"
   },
   {
     "id": "skin-2623656",
@@ -1201,7 +1371,9 @@
     "price": 0.22,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Ghost Crusader"
+    "item_name": "SSG 08 | Ghost Crusader",
+    "rarity": "Restricted",
+    "paint_index": "554"
   },
   {
     "id": "skin-2623656",
@@ -1215,7 +1387,9 @@
     "price": 0.37,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Ghost Crusader"
+    "item_name": "SSG 08 | Ghost Crusader",
+    "rarity": "Restricted",
+    "paint_index": "554"
   },
   {
     "id": "skin-2623656",
@@ -1229,7 +1403,9 @@
     "price": 1.22,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "SSG 08 | Ghost Crusader"
+    "item_name": "SSG 08 | Ghost Crusader",
+    "rarity": "Restricted",
+    "paint_index": "554"
   },
   {
     "id": "skin-2623656",
@@ -1243,7 +1419,9 @@
     "price": 2.3,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Ghost Crusader"
+    "item_name": "SSG 08 | Ghost Crusader",
+    "rarity": "Restricted",
+    "paint_index": "554"
   },
   {
     "id": "skin-2623656",
@@ -1257,7 +1435,9 @@
     "price": 0.95,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "SSG 08 | Ghost Crusader"
+    "item_name": "SSG 08 | Ghost Crusader",
+    "rarity": "Restricted",
+    "paint_index": "554"
   },
   {
     "id": "skin-2623656",
@@ -1271,7 +1451,9 @@
     "price": 0.21,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Ghost Crusader"
+    "item_name": "SSG 08 | Ghost Crusader",
+    "rarity": "Restricted",
+    "paint_index": "554"
   },
   {
     "id": "skin-2623656",
@@ -1285,7 +1467,9 @@
     "price": 0.82,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Ghost Crusader"
+    "item_name": "SSG 08 | Ghost Crusader",
+    "rarity": "Restricted",
+    "paint_index": "554"
   },
   {
     "id": "skin-2623656",
@@ -1299,7 +1483,9 @@
     "price": 0.93,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "SSG 08 | Ghost Crusader"
+    "item_name": "SSG 08 | Ghost Crusader",
+    "rarity": "Restricted",
+    "paint_index": "554"
   },
   {
     "id": "skin-2622452",
@@ -1313,7 +1499,9 @@
     "price": 1.08,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Acid Fade"
+    "item_name": "SSG 08 | Acid Fade",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "253"
   },
   {
     "id": "skin-2622884",
@@ -1327,7 +1515,9 @@
     "price": 0.17,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Abyss"
+    "item_name": "SSG 08 | Abyss",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "361"
   },
   {
     "id": "skin-2622884",
@@ -1341,7 +1531,9 @@
     "price": 0.37,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "SSG 08 | Abyss"
+    "item_name": "SSG 08 | Abyss",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "361"
   },
   {
     "id": "skin-2622884",
@@ -1355,7 +1547,9 @@
     "price": 1.56,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "SSG 08 | Abyss"
+    "item_name": "SSG 08 | Abyss",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "361"
   },
   {
     "id": "skin-2622884",
@@ -1369,7 +1563,9 @@
     "price": 9.42,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "SSG 08 | Abyss"
+    "item_name": "SSG 08 | Abyss",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "361"
   },
   {
     "id": "skin-2622884",
@@ -1383,7 +1579,9 @@
     "price": 0.13,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Abyss"
+    "item_name": "SSG 08 | Abyss",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "361"
   },
   {
     "id": "skin-2622884",
@@ -1397,7 +1595,9 @@
     "price": 0.48,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Abyss"
+    "item_name": "SSG 08 | Abyss",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "361"
   },
   {
     "id": "skin-2622884",
@@ -1411,7 +1611,9 @@
     "price": 0.11,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Abyss"
+    "item_name": "SSG 08 | Abyss",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "361"
   },
   {
     "id": "skin-2622884",
@@ -1425,7 +1627,9 @@
     "price": 2.65,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Abyss"
+    "item_name": "SSG 08 | Abyss",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "361"
   },
   {
     "id": "skin-2622884",
@@ -1439,7 +1643,9 @@
     "price": 0.57,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "SSG 08 | Abyss"
+    "item_name": "SSG 08 | Abyss",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "361"
   },
   {
     "id": "skin-2622884",
@@ -1453,7 +1659,9 @@
     "price": 0.37,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "SSG 08 | Abyss"
+    "item_name": "SSG 08 | Abyss",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "361"
   },
   {
     "id": "skin-2626444",
@@ -1467,7 +1675,9 @@
     "price": 0.12,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Azure Glyph"
+    "item_name": "SSG 08 | Azure Glyph",
+    "rarity": "Industrial Grade",
+    "paint_index": "1251"
   },
   {
     "id": "skin-2626444",
@@ -1481,7 +1691,9 @@
     "price": 0.24,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Azure Glyph"
+    "item_name": "SSG 08 | Azure Glyph",
+    "rarity": "Industrial Grade",
+    "paint_index": "1251"
   },
   {
     "id": "skin-2626444",
@@ -1495,7 +1707,9 @@
     "price": 0.55,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Azure Glyph"
+    "item_name": "SSG 08 | Azure Glyph",
+    "rarity": "Industrial Grade",
+    "paint_index": "1251"
   },
   {
     "id": "skin-2626444",
@@ -1509,7 +1723,9 @@
     "price": 0.12,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Azure Glyph"
+    "item_name": "SSG 08 | Azure Glyph",
+    "rarity": "Industrial Grade",
+    "paint_index": "1251"
   },
   {
     "id": "skin-2626444",
@@ -1523,7 +1739,9 @@
     "price": 0.13,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Azure Glyph"
+    "item_name": "SSG 08 | Azure Glyph",
+    "rarity": "Industrial Grade",
+    "paint_index": "1251"
   },
   {
     "id": "skin-2624444",
@@ -1537,7 +1755,9 @@
     "price": 0.44,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Hand Brake"
+    "item_name": "SSG 08 | Hand Brake",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "751"
   },
   {
     "id": "skin-2624444",
@@ -1551,7 +1771,9 @@
     "price": 0.44,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Hand Brake"
+    "item_name": "SSG 08 | Hand Brake",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "751"
   },
   {
     "id": "skin-2624444",
@@ -1565,7 +1787,9 @@
     "price": 0.53,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Hand Brake"
+    "item_name": "SSG 08 | Hand Brake",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "751"
   },
   {
     "id": "skin-2624444",
@@ -1579,7 +1803,9 @@
     "price": 1.16,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Hand Brake"
+    "item_name": "SSG 08 | Hand Brake",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "751"
   },
   {
     "id": "skin-2624444",
@@ -1593,7 +1819,9 @@
     "price": 0.68,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Hand Brake"
+    "item_name": "SSG 08 | Hand Brake",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "751"
   },
   {
     "id": "skin-2624488",
@@ -1607,7 +1835,9 @@
     "price": 2.93,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Red Stone"
+    "item_name": "SSG 08 | Red Stone",
+    "rarity": "Consumer Grade",
+    "paint_index": "762"
   },
   {
     "id": "skin-2624488",
@@ -1621,7 +1851,9 @@
     "price": 7.82,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Red Stone"
+    "item_name": "SSG 08 | Red Stone",
+    "rarity": "Consumer Grade",
+    "paint_index": "762"
   },
   {
     "id": "skin-2624488",
@@ -1635,7 +1867,9 @@
     "price": 2.96,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Red Stone"
+    "item_name": "SSG 08 | Red Stone",
+    "rarity": "Consumer Grade",
+    "paint_index": "762"
   },
   {
     "id": "skin-2624488",
@@ -1649,7 +1883,9 @@
     "price": 2.93,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Red Stone"
+    "item_name": "SSG 08 | Red Stone",
+    "rarity": "Consumer Grade",
+    "paint_index": "762"
   },
   {
     "id": "skin-2624488",
@@ -1663,7 +1899,9 @@
     "price": 2.73,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Red Stone"
+    "item_name": "SSG 08 | Red Stone",
+    "rarity": "Consumer Grade",
+    "paint_index": "762"
   },
   {
     "id": "skin-2625180",
@@ -1677,7 +1915,9 @@
     "price": 0.21,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Prey"
+    "item_name": "SSG 08 | Prey",
+    "rarity": "Consumer Grade",
+    "paint_index": "935"
   },
   {
     "id": "skin-2625180",
@@ -1691,7 +1931,9 @@
     "price": 0.21,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Prey"
+    "item_name": "SSG 08 | Prey",
+    "rarity": "Consumer Grade",
+    "paint_index": "935"
   },
   {
     "id": "skin-2625180",
@@ -1705,7 +1947,9 @@
     "price": 0.22,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Prey"
+    "item_name": "SSG 08 | Prey",
+    "rarity": "Consumer Grade",
+    "paint_index": "935"
   },
   {
     "id": "skin-2625180",
@@ -1719,7 +1963,9 @@
     "price": 0.21,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Prey"
+    "item_name": "SSG 08 | Prey",
+    "rarity": "Consumer Grade",
+    "paint_index": "935"
   },
   {
     "id": "skin-2625180",
@@ -1733,7 +1979,9 @@
     "price": 0.21,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Prey"
+    "item_name": "SSG 08 | Prey",
+    "rarity": "Consumer Grade",
+    "paint_index": "935"
   },
   {
     "id": "skin-2625396",
@@ -1747,7 +1995,9 @@
     "price": 1.79,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Parallax"
+    "item_name": "SSG 08 | Parallax",
+    "rarity": "Restricted",
+    "paint_index": "989"
   },
   {
     "id": "skin-2625396",
@@ -1761,7 +2011,9 @@
     "price": 4.84,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "SSG 08 | Parallax"
+    "item_name": "SSG 08 | Parallax",
+    "rarity": "Restricted",
+    "paint_index": "989"
   },
   {
     "id": "skin-2625396",
@@ -1775,7 +2027,9 @@
     "price": 2.31,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "SSG 08 | Parallax"
+    "item_name": "SSG 08 | Parallax",
+    "rarity": "Restricted",
+    "paint_index": "989"
   },
   {
     "id": "skin-2625396",
@@ -1789,7 +2043,9 @@
     "price": 15.5,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "SSG 08 | Parallax"
+    "item_name": "SSG 08 | Parallax",
+    "rarity": "Restricted",
+    "paint_index": "989"
   },
   {
     "id": "skin-2625396",
@@ -1803,7 +2059,9 @@
     "price": 1.69,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Parallax"
+    "item_name": "SSG 08 | Parallax",
+    "rarity": "Restricted",
+    "paint_index": "989"
   },
   {
     "id": "skin-2625396",
@@ -1817,7 +2075,9 @@
     "price": 1.95,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "SSG 08 | Parallax"
+    "item_name": "SSG 08 | Parallax",
+    "rarity": "Restricted",
+    "paint_index": "989"
   },
   {
     "id": "skin-2625396",
@@ -1831,7 +2091,9 @@
     "price": 4.56,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Parallax"
+    "item_name": "SSG 08 | Parallax",
+    "rarity": "Restricted",
+    "paint_index": "989"
   },
   {
     "id": "skin-2625396",
@@ -1845,7 +2107,9 @@
     "price": 1.37,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Parallax"
+    "item_name": "SSG 08 | Parallax",
+    "rarity": "Restricted",
+    "paint_index": "989"
   },
   {
     "id": "skin-2625396",
@@ -1859,7 +2123,9 @@
     "price": 1.9,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "SSG 08 | Parallax"
+    "item_name": "SSG 08 | Parallax",
+    "rarity": "Restricted",
+    "paint_index": "989"
   },
   {
     "id": "skin-2625396",
@@ -1873,7 +2139,9 @@
     "price": 2.65,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Parallax"
+    "item_name": "SSG 08 | Parallax",
+    "rarity": "Restricted",
+    "paint_index": "989"
   },
   {
     "id": "skin-2625680",
@@ -1887,7 +2155,9 @@
     "price": 0.83,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Spring Twilly"
+    "item_name": "SSG 08 | Spring Twilly",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1060"
   },
   {
     "id": "skin-2625680",
@@ -1901,7 +2171,9 @@
     "price": 0.64,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Spring Twilly"
+    "item_name": "SSG 08 | Spring Twilly",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1060"
   },
   {
     "id": "skin-2625680",
@@ -1915,7 +2187,9 @@
     "price": 0.96,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Spring Twilly"
+    "item_name": "SSG 08 | Spring Twilly",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1060"
   },
   {
     "id": "skin-2625680",
@@ -1929,7 +2203,9 @@
     "price": 0.78,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Spring Twilly"
+    "item_name": "SSG 08 | Spring Twilly",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1060"
   },
   {
     "id": "skin-2625680",
@@ -1943,7 +2219,9 @@
     "price": 0.74,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Spring Twilly"
+    "item_name": "SSG 08 | Spring Twilly",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1060"
   },
   {
     "id": "skin-2625844",
@@ -1957,7 +2235,9 @@
     "price": 4.26,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Turbo Peek"
+    "item_name": "SSG 08 | Turbo Peek",
+    "rarity": "Classified",
+    "paint_index": "1101"
   },
   {
     "id": "skin-2625844",
@@ -1971,7 +2251,9 @@
     "price": 10.63,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "SSG 08 | Turbo Peek"
+    "item_name": "SSG 08 | Turbo Peek",
+    "rarity": "Classified",
+    "paint_index": "1101"
   },
   {
     "id": "skin-2625844",
@@ -1985,7 +2267,9 @@
     "price": 12.33,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Turbo Peek"
+    "item_name": "SSG 08 | Turbo Peek",
+    "rarity": "Classified",
+    "paint_index": "1101"
   },
   {
     "id": "skin-2625844",
@@ -1999,7 +2283,9 @@
     "price": 3.7,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Turbo Peek"
+    "item_name": "SSG 08 | Turbo Peek",
+    "rarity": "Classified",
+    "paint_index": "1101"
   },
   {
     "id": "skin-2625844",
@@ -2013,7 +2299,9 @@
     "price": 37.5,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "SSG 08 | Turbo Peek"
+    "item_name": "SSG 08 | Turbo Peek",
+    "rarity": "Classified",
+    "paint_index": "1101"
   },
   {
     "id": "skin-2625844",
@@ -2027,7 +2315,9 @@
     "price": 5.42,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Turbo Peek"
+    "item_name": "SSG 08 | Turbo Peek",
+    "rarity": "Classified",
+    "paint_index": "1101"
   },
   {
     "id": "skin-2625844",
@@ -2041,7 +2331,9 @@
     "price": 19.47,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "SSG 08 | Turbo Peek"
+    "item_name": "SSG 08 | Turbo Peek",
+    "rarity": "Classified",
+    "paint_index": "1101"
   },
   {
     "id": "skin-2625844",
@@ -2055,7 +2347,9 @@
     "price": 3.96,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Turbo Peek"
+    "item_name": "SSG 08 | Turbo Peek",
+    "rarity": "Classified",
+    "paint_index": "1101"
   },
   {
     "id": "skin-2625844",
@@ -2069,7 +2363,9 @@
     "price": 8.53,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "SSG 08 | Turbo Peek"
+    "item_name": "SSG 08 | Turbo Peek",
+    "rarity": "Classified",
+    "paint_index": "1101"
   },
   {
     "id": "skin-2625844",
@@ -2083,7 +2379,9 @@
     "price": 7.97,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "SSG 08 | Turbo Peek"
+    "item_name": "SSG 08 | Turbo Peek",
+    "rarity": "Classified",
+    "paint_index": "1101"
   },
   {
     "id": "skin-2622328",
@@ -2097,7 +2395,9 @@
     "price": 51.42,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Blood in the Water"
+    "item_name": "SSG 08 | Blood in the Water",
+    "rarity": "Covert",
+    "paint_index": "222"
   },
   {
     "id": "skin-2622328",
@@ -2111,7 +2411,9 @@
     "price": 167.85,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "SSG 08 | Blood in the Water"
+    "item_name": "SSG 08 | Blood in the Water",
+    "rarity": "Covert",
+    "paint_index": "222"
   },
   {
     "id": "skin-2622328",
@@ -2125,7 +2427,9 @@
     "price": 36.83,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Blood in the Water"
+    "item_name": "SSG 08 | Blood in the Water",
+    "rarity": "Covert",
+    "paint_index": "222"
   },
   {
     "id": "skin-2622328",
@@ -2139,7 +2443,9 @@
     "price": 322.26,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "SSG 08 | Blood in the Water"
+    "item_name": "SSG 08 | Blood in the Water",
+    "rarity": "Covert",
+    "paint_index": "222"
   },
   {
     "id": "skin-2622328",
@@ -2153,7 +2459,9 @@
     "price": 139.74,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "SSG 08 | Blood in the Water"
+    "item_name": "SSG 08 | Blood in the Water",
+    "rarity": "Covert",
+    "paint_index": "222"
   },
   {
     "id": "skin-2622328",
@@ -2167,7 +2475,9 @@
     "price": 31.61,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Blood in the Water"
+    "item_name": "SSG 08 | Blood in the Water",
+    "rarity": "Covert",
+    "paint_index": "222"
   },
   {
     "id": "skin-2621680",
@@ -2181,7 +2491,9 @@
     "price": 1.56,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "SSG 08 | Dark Water"
+    "item_name": "SSG 08 | Dark Water",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "60"
   },
   {
     "id": "skin-2621680",
@@ -2195,7 +2507,9 @@
     "price": 2.19,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "SSG 08 | Dark Water"
+    "item_name": "SSG 08 | Dark Water",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "60"
   },
   {
     "id": "skin-2621680",
@@ -2209,7 +2523,9 @@
     "price": 1.23,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Dark Water"
+    "item_name": "SSG 08 | Dark Water",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "60"
   },
   {
     "id": "skin-2621680",
@@ -2223,7 +2539,9 @@
     "price": 1.41,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Dark Water"
+    "item_name": "SSG 08 | Dark Water",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "60"
   },
   {
     "id": "skin-2622240",
@@ -2237,7 +2555,9 @@
     "price": 4.53,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Mayan Dreams"
+    "item_name": "SSG 08 | Mayan Dreams",
+    "rarity": "Industrial Grade",
+    "paint_index": "200"
   },
   {
     "id": "skin-2622240",
@@ -2251,7 +2571,9 @@
     "price": 27.29,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Mayan Dreams"
+    "item_name": "SSG 08 | Mayan Dreams",
+    "rarity": "Industrial Grade",
+    "paint_index": "200"
   },
   {
     "id": "skin-2622240",
@@ -2265,7 +2587,9 @@
     "price": 4.05,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Mayan Dreams"
+    "item_name": "SSG 08 | Mayan Dreams",
+    "rarity": "Industrial Grade",
+    "paint_index": "200"
   },
   {
     "id": "skin-2622240",
@@ -2279,7 +2603,9 @@
     "price": 3.68,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Mayan Dreams"
+    "item_name": "SSG 08 | Mayan Dreams",
+    "rarity": "Industrial Grade",
+    "paint_index": "200"
   },
   {
     "id": "skin-2622240",
@@ -2293,7 +2619,9 @@
     "price": 2.63,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Mayan Dreams"
+    "item_name": "SSG 08 | Mayan Dreams",
+    "rarity": "Industrial Grade",
+    "paint_index": "200"
   },
   {
     "id": "skin-2625648",
@@ -2307,7 +2635,9 @@
     "price": 431.76,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Death Strike"
+    "item_name": "SSG 08 | Death Strike",
+    "rarity": "Classified",
+    "paint_index": "1052"
   },
   {
     "id": "skin-2625648",
@@ -2321,7 +2651,9 @@
     "price": 411.19,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Death Strike"
+    "item_name": "SSG 08 | Death Strike",
+    "rarity": "Classified",
+    "paint_index": "1052"
   },
   {
     "id": "skin-2625648",
@@ -2335,7 +2667,9 @@
     "price": 308.48,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Death Strike"
+    "item_name": "SSG 08 | Death Strike",
+    "rarity": "Classified",
+    "paint_index": "1052"
   },
   {
     "id": "skin-2625648",
@@ -2349,7 +2683,9 @@
     "price": 370.05,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Death Strike"
+    "item_name": "SSG 08 | Death Strike",
+    "rarity": "Classified",
+    "paint_index": "1052"
   },
   {
     "id": "skin-2625648",
@@ -2363,7 +2699,9 @@
     "price": 383.97,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Death Strike"
+    "item_name": "SSG 08 | Death Strike",
+    "rarity": "Classified",
+    "paint_index": "1052"
   },
   {
     "id": "skin-2625424",
@@ -2377,7 +2715,9 @@
     "price": 15.76,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Threat Detected"
+    "item_name": "SSG 08 | Threat Detected",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "996"
   },
   {
     "id": "skin-2625424",
@@ -2391,7 +2731,9 @@
     "price": 16.31,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Threat Detected"
+    "item_name": "SSG 08 | Threat Detected",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "996"
   },
   {
     "id": "skin-2625424",
@@ -2405,7 +2747,9 @@
     "price": 13.11,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Threat Detected"
+    "item_name": "SSG 08 | Threat Detected",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "996"
   },
   {
     "id": "skin-2625424",
@@ -2419,7 +2763,9 @@
     "price": 12.98,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Threat Detected"
+    "item_name": "SSG 08 | Threat Detected",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "996"
   },
   {
     "id": "skin-2625424",
@@ -2433,7 +2779,9 @@
     "price": 13.7,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Threat Detected"
+    "item_name": "SSG 08 | Threat Detected",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "996"
   },
   {
     "id": "skin-2625036",
@@ -2447,7 +2795,9 @@
     "price": 13.51,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "SSG 08 | Bloodshot"
+    "item_name": "SSG 08 | Bloodshot",
+    "rarity": "Classified",
+    "paint_index": "899"
   },
   {
     "id": "skin-2625036",
@@ -2461,7 +2811,9 @@
     "price": 6.02,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Bloodshot"
+    "item_name": "SSG 08 | Bloodshot",
+    "rarity": "Classified",
+    "paint_index": "899"
   },
   {
     "id": "skin-2625036",
@@ -2475,7 +2827,9 @@
     "price": 36.75,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Bloodshot"
+    "item_name": "SSG 08 | Bloodshot",
+    "rarity": "Classified",
+    "paint_index": "899"
   },
   {
     "id": "skin-2625036",
@@ -2489,7 +2843,9 @@
     "price": 6.68,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Bloodshot"
+    "item_name": "SSG 08 | Bloodshot",
+    "rarity": "Classified",
+    "paint_index": "899"
   },
   {
     "id": "skin-2625036",
@@ -2503,7 +2859,9 @@
     "price": 156.72,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "SSG 08 | Bloodshot"
+    "item_name": "SSG 08 | Bloodshot",
+    "rarity": "Classified",
+    "paint_index": "899"
   },
   {
     "id": "skin-2625036",
@@ -2517,7 +2875,9 @@
     "price": 14.66,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "SSG 08 | Bloodshot"
+    "item_name": "SSG 08 | Bloodshot",
+    "rarity": "Classified",
+    "paint_index": "899"
   },
   {
     "id": "skin-2625036",
@@ -2531,7 +2891,9 @@
     "price": 5.57,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Bloodshot"
+    "item_name": "SSG 08 | Bloodshot",
+    "rarity": "Classified",
+    "paint_index": "899"
   },
   {
     "id": "skin-2625036",
@@ -2545,7 +2907,9 @@
     "price": 13.16,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "SSG 08 | Bloodshot"
+    "item_name": "SSG 08 | Bloodshot",
+    "rarity": "Classified",
+    "paint_index": "899"
   },
   {
     "id": "skin-2621720",
@@ -2559,7 +2923,9 @@
     "price": 2.05,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Carbon Fiber"
+    "item_name": "SSG 08 | Carbon Fiber",
+    "rarity": "Industrial Grade",
+    "paint_index": "70"
   },
   {
     "id": "skin-2621720",
@@ -2573,7 +2939,9 @@
     "price": 1.83,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Carbon Fiber"
+    "item_name": "SSG 08 | Carbon Fiber",
+    "rarity": "Industrial Grade",
+    "paint_index": "70"
   },
   {
     "id": "skin-2622372",
@@ -2587,7 +2955,9 @@
     "price": 41,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Tropical Storm"
+    "item_name": "SSG 08 | Tropical Storm",
+    "rarity": "Industrial Grade",
+    "paint_index": "233"
   },
   {
     "id": "skin-2622372",
@@ -2601,7 +2971,9 @@
     "price": 5.28,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Tropical Storm"
+    "item_name": "SSG 08 | Tropical Storm",
+    "rarity": "Industrial Grade",
+    "paint_index": "233"
   },
   {
     "id": "skin-2622372",
@@ -2615,7 +2987,9 @@
     "price": 28.66,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Tropical Storm"
+    "item_name": "SSG 08 | Tropical Storm",
+    "rarity": "Industrial Grade",
+    "paint_index": "233"
   },
   {
     "id": "skin-2622372",
@@ -2629,7 +3003,9 @@
     "price": 6.63,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Tropical Storm"
+    "item_name": "SSG 08 | Tropical Storm",
+    "rarity": "Industrial Grade",
+    "paint_index": "233"
   },
   {
     "id": "skin-2622372",
@@ -2643,7 +3019,9 @@
     "price": 6.07,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Tropical Storm"
+    "item_name": "SSG 08 | Tropical Storm",
+    "rarity": "Industrial Grade",
+    "paint_index": "233"
   },
   {
     "id": "skin-2621836",
@@ -2657,7 +3035,9 @@
     "price": 1.67,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Sand Dune"
+    "item_name": "SSG 08 | Sand Dune",
+    "rarity": "Consumer Grade",
+    "paint_index": "99"
   },
   {
     "id": "skin-2621836",
@@ -2671,7 +3051,9 @@
     "price": 6.23,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Sand Dune"
+    "item_name": "SSG 08 | Sand Dune",
+    "rarity": "Consumer Grade",
+    "paint_index": "99"
   },
   {
     "id": "skin-2621836",
@@ -2685,7 +3067,9 @@
     "price": 4.64,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Sand Dune"
+    "item_name": "SSG 08 | Sand Dune",
+    "rarity": "Consumer Grade",
+    "paint_index": "99"
   },
   {
     "id": "skin-2621836",
@@ -2699,7 +3083,9 @@
     "price": 2.6,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Sand Dune"
+    "item_name": "SSG 08 | Sand Dune",
+    "rarity": "Consumer Grade",
+    "paint_index": "99"
   },
   {
     "id": "skin-2621836",
@@ -2713,7 +3099,9 @@
     "price": 67.04,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Sand Dune"
+    "item_name": "SSG 08 | Sand Dune",
+    "rarity": "Consumer Grade",
+    "paint_index": "99"
   },
   {
     "id": "skin-2622716",
@@ -2727,7 +3115,9 @@
     "price": 12.62,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Detour"
+    "item_name": "SSG 08 | Detour",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "319"
   },
   {
     "id": "skin-2622716",
@@ -2741,7 +3131,9 @@
     "price": 7.53,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Detour"
+    "item_name": "SSG 08 | Detour",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "319"
   },
   {
     "id": "skin-2622716",
@@ -2755,7 +3147,9 @@
     "price": 7.28,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Detour"
+    "item_name": "SSG 08 | Detour",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "319"
   },
   {
     "id": "skin-2622716",
@@ -2769,7 +3163,9 @@
     "price": 6.92,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Detour"
+    "item_name": "SSG 08 | Detour",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "319"
   },
   {
     "id": "skin-2624412",
@@ -2783,7 +3179,9 @@
     "price": 20.16,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Orange Filigree"
+    "item_name": "SSG 08 | Orange Filigree",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "743"
   },
   {
     "id": "skin-2624412",
@@ -2797,7 +3195,9 @@
     "price": 19.6,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Orange Filigree"
+    "item_name": "SSG 08 | Orange Filigree",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "743"
   },
   {
     "id": "skin-2624412",
@@ -2811,7 +3211,9 @@
     "price": 22.18,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Orange Filigree"
+    "item_name": "SSG 08 | Orange Filigree",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "743"
   },
   {
     "id": "skin-2624412",
@@ -2825,7 +3227,9 @@
     "price": 20.09,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Orange Filigree"
+    "item_name": "SSG 08 | Orange Filigree",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "743"
   },
   {
     "id": "skin-2624412",
@@ -2839,7 +3243,9 @@
     "price": 20.54,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Orange Filigree"
+    "item_name": "SSG 08 | Orange Filigree",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "743"
   },
   {
     "id": "skin-2621824",
@@ -2853,7 +3259,9 @@
     "price": 0.01,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Blue Spruce"
+    "item_name": "SSG 08 | Blue Spruce",
+    "rarity": "Consumer Grade",
+    "paint_index": "96"
   },
   {
     "id": "skin-2621824",
@@ -2867,7 +3275,9 @@
     "price": 0.19,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Blue Spruce"
+    "item_name": "SSG 08 | Blue Spruce",
+    "rarity": "Consumer Grade",
+    "paint_index": "96"
   },
   {
     "id": "skin-2621824",
@@ -2881,7 +3291,9 @@
     "price": 0.01,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Blue Spruce"
+    "item_name": "SSG 08 | Blue Spruce",
+    "rarity": "Consumer Grade",
+    "paint_index": "96"
   },
   {
     "id": "skin-2621824",
@@ -2895,7 +3307,9 @@
     "price": 0.01,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Blue Spruce"
+    "item_name": "SSG 08 | Blue Spruce",
+    "rarity": "Consumer Grade",
+    "paint_index": "96"
   },
   {
     "id": "skin-2621824",
@@ -2909,6 +3323,8 @@
     "price": 0.01,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "SSG 08 | Blue Spruce"
+    "item_name": "SSG 08 | Blue Spruce",
+    "rarity": "Consumer Grade",
+    "paint_index": "96"
   }
 ]

@@ -11,7 +11,9 @@
     "price": 230.38,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Classic Knife | Forest DDPAT"
+    "item_name": "★ Classic Knife | Forest DDPAT",
+    "rarity": "Covert",
+    "paint_index": "5"
   },
   {
     "id": "skin-32964628",
@@ -25,7 +27,9 @@
     "price": 104.22,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Classic Knife | Forest DDPAT"
+    "item_name": "★ Classic Knife | Forest DDPAT",
+    "rarity": "Covert",
+    "paint_index": "5"
   },
   {
     "id": "skin-32964628",
@@ -39,7 +43,9 @@
     "price": 94.62,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Classic Knife | Forest DDPAT"
+    "item_name": "★ Classic Knife | Forest DDPAT",
+    "rarity": "Covert",
+    "paint_index": "5"
   },
   {
     "id": "skin-32964628",
@@ -53,7 +59,9 @@
     "price": 159.83,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Classic Knife | Forest DDPAT"
+    "item_name": "★ Classic Knife | Forest DDPAT",
+    "rarity": "Covert",
+    "paint_index": "5"
   },
   {
     "id": "skin-32964628",
@@ -67,7 +75,9 @@
     "price": 138.91,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Classic Knife | Forest DDPAT"
+    "item_name": "★ Classic Knife | Forest DDPAT",
+    "rarity": "Covert",
+    "paint_index": "5"
   },
   {
     "id": "skin-32964628",
@@ -81,7 +91,9 @@
     "price": 104.22,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Classic Knife | Forest DDPAT"
+    "item_name": "★ Classic Knife | Forest DDPAT",
+    "rarity": "Covert",
+    "paint_index": "5"
   },
   {
     "id": "skin-32964628",
@@ -95,7 +107,9 @@
     "price": 95.92,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Classic Knife | Forest DDPAT"
+    "item_name": "★ Classic Knife | Forest DDPAT",
+    "rarity": "Covert",
+    "paint_index": "5"
   },
   {
     "id": "skin-32964628",
@@ -109,7 +123,9 @@
     "price": 111.08,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Classic Knife | Forest DDPAT"
+    "item_name": "★ Classic Knife | Forest DDPAT",
+    "rarity": "Covert",
+    "paint_index": "5"
   },
   {
     "id": "skin-32964628",
@@ -123,7 +139,9 @@
     "price": 95.98,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Classic Knife | Forest DDPAT"
+    "item_name": "★ Classic Knife | Forest DDPAT",
+    "rarity": "Covert",
+    "paint_index": "5"
   },
   {
     "id": "skin-32964628",
@@ -137,7 +155,9 @@
     "price": 411.26,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Classic Knife | Forest DDPAT"
+    "item_name": "★ Classic Knife | Forest DDPAT",
+    "rarity": "Covert",
+    "paint_index": "5"
   },
   {
     "id": "skin-32964656",
@@ -151,7 +171,9 @@
     "price": 245.12,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Classic Knife | Crimson Web"
+    "item_name": "★ Classic Knife | Crimson Web",
+    "rarity": "Covert",
+    "paint_index": "12"
   },
   {
     "id": "skin-32964656",
@@ -165,7 +187,9 @@
     "price": 230.31,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Classic Knife | Crimson Web"
+    "item_name": "★ Classic Knife | Crimson Web",
+    "rarity": "Covert",
+    "paint_index": "12"
   },
   {
     "id": "skin-32964656",
@@ -179,7 +203,9 @@
     "price": 1349.23,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Classic Knife | Crimson Web"
+    "item_name": "★ Classic Knife | Crimson Web",
+    "rarity": "Covert",
+    "paint_index": "12"
   },
   {
     "id": "skin-32964656",
@@ -193,7 +219,9 @@
     "price": 0,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Classic Knife | Crimson Web"
+    "item_name": "★ Classic Knife | Crimson Web",
+    "rarity": "Covert",
+    "paint_index": "12"
   },
   {
     "id": "skin-32964656",
@@ -207,7 +235,9 @@
     "price": 364.77,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Classic Knife | Crimson Web"
+    "item_name": "★ Classic Knife | Crimson Web",
+    "rarity": "Covert",
+    "paint_index": "12"
   },
   {
     "id": "skin-32964656",
@@ -221,7 +251,9 @@
     "price": 322.26,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Classic Knife | Crimson Web"
+    "item_name": "★ Classic Knife | Crimson Web",
+    "rarity": "Covert",
+    "paint_index": "12"
   },
   {
     "id": "skin-32964656",
@@ -235,7 +267,9 @@
     "price": 233.12,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Classic Knife | Crimson Web"
+    "item_name": "★ Classic Knife | Crimson Web",
+    "rarity": "Covert",
+    "paint_index": "12"
   },
   {
     "id": "skin-32964656",
@@ -249,7 +283,9 @@
     "price": 253.13,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Classic Knife | Crimson Web"
+    "item_name": "★ Classic Knife | Crimson Web",
+    "rarity": "Covert",
+    "paint_index": "12"
   },
   {
     "id": "skin-32964656",
@@ -263,7 +299,9 @@
     "price": 370.25,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Classic Knife | Crimson Web"
+    "item_name": "★ Classic Knife | Crimson Web",
+    "rarity": "Covert",
+    "paint_index": "12"
   },
   {
     "id": "skin-32964656",
@@ -277,7 +315,9 @@
     "price": 548.52,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Classic Knife | Crimson Web"
+    "item_name": "★ Classic Knife | Crimson Web",
+    "rarity": "Covert",
+    "paint_index": "12"
   },
   {
     "id": "skin-32965308",
@@ -291,7 +331,9 @@
     "price": 120.61,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Classic Knife | Scorched"
+    "item_name": "★ Classic Knife | Scorched",
+    "rarity": "Covert",
+    "paint_index": "175"
   },
   {
     "id": "skin-32965308",
@@ -305,7 +347,9 @@
     "price": 137.06,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Classic Knife | Scorched"
+    "item_name": "★ Classic Knife | Scorched",
+    "rarity": "Covert",
+    "paint_index": "175"
   },
   {
     "id": "skin-32965308",
@@ -319,7 +363,9 @@
     "price": 99.28,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Classic Knife | Scorched"
+    "item_name": "★ Classic Knife | Scorched",
+    "rarity": "Covert",
+    "paint_index": "175"
   },
   {
     "id": "skin-32965308",
@@ -333,7 +379,9 @@
     "price": 124.79,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Classic Knife | Scorched"
+    "item_name": "★ Classic Knife | Scorched",
+    "rarity": "Covert",
+    "paint_index": "175"
   },
   {
     "id": "skin-32965308",
@@ -347,7 +395,9 @@
     "price": 135.76,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Classic Knife | Scorched"
+    "item_name": "★ Classic Knife | Scorched",
+    "rarity": "Covert",
+    "paint_index": "175"
   },
   {
     "id": "skin-32965308",
@@ -361,7 +411,9 @@
     "price": 342.83,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Classic Knife | Scorched"
+    "item_name": "★ Classic Knife | Scorched",
+    "rarity": "Covert",
+    "paint_index": "175"
   },
   {
     "id": "skin-32965308",
@@ -375,7 +427,9 @@
     "price": 111.69,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Classic Knife | Scorched"
+    "item_name": "★ Classic Knife | Scorched",
+    "rarity": "Covert",
+    "paint_index": "175"
   },
   {
     "id": "skin-32965308",
@@ -389,7 +443,9 @@
     "price": 96.61,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Classic Knife | Scorched"
+    "item_name": "★ Classic Knife | Scorched",
+    "rarity": "Covert",
+    "paint_index": "175"
   },
   {
     "id": "skin-32965308",
@@ -403,7 +459,9 @@
     "price": 133.7,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Classic Knife | Scorched"
+    "item_name": "★ Classic Knife | Scorched",
+    "rarity": "Covert",
+    "paint_index": "175"
   },
   {
     "id": "skin-32965308",
@@ -417,7 +475,9 @@
     "price": 27422.8,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Classic Knife | Scorched"
+    "item_name": "★ Classic Knife | Scorched",
+    "rarity": "Covert",
+    "paint_index": "175"
   },
   {
     "id": "skin-32964776",
@@ -431,7 +491,9 @@
     "price": 169.36,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Classic Knife | Blue Steel"
+    "item_name": "★ Classic Knife | Blue Steel",
+    "rarity": "Covert",
+    "paint_index": "42"
   },
   {
     "id": "skin-32964776",
@@ -445,7 +507,9 @@
     "price": 185.06,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Classic Knife | Blue Steel"
+    "item_name": "★ Classic Knife | Blue Steel",
+    "rarity": "Covert",
+    "paint_index": "42"
   },
   {
     "id": "skin-32964776",
@@ -459,7 +523,9 @@
     "price": 2056.83,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Classic Knife | Blue Steel"
+    "item_name": "★ Classic Knife | Blue Steel",
+    "rarity": "Covert",
+    "paint_index": "42"
   },
   {
     "id": "skin-32964776",
@@ -473,7 +539,9 @@
     "price": 204.33,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Classic Knife | Blue Steel"
+    "item_name": "★ Classic Knife | Blue Steel",
+    "rarity": "Covert",
+    "paint_index": "42"
   },
   {
     "id": "skin-32964776",
@@ -487,7 +555,9 @@
     "price": 156.33,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Classic Knife | Blue Steel"
+    "item_name": "★ Classic Knife | Blue Steel",
+    "rarity": "Covert",
+    "paint_index": "42"
   },
   {
     "id": "skin-32964776",
@@ -501,7 +571,9 @@
     "price": 151.8,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Classic Knife | Blue Steel"
+    "item_name": "★ Classic Knife | Blue Steel",
+    "rarity": "Covert",
+    "paint_index": "42"
   },
   {
     "id": "skin-32964776",
@@ -515,7 +587,9 @@
     "price": 136.99,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Classic Knife | Blue Steel"
+    "item_name": "★ Classic Knife | Blue Steel",
+    "rarity": "Covert",
+    "paint_index": "42"
   },
   {
     "id": "skin-32964776",
@@ -529,7 +603,9 @@
     "price": 138.09,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Classic Knife | Blue Steel"
+    "item_name": "★ Classic Knife | Blue Steel",
+    "rarity": "Covert",
+    "paint_index": "42"
   },
   {
     "id": "skin-32964776",
@@ -543,7 +619,9 @@
     "price": 191.85,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Classic Knife | Blue Steel"
+    "item_name": "★ Classic Knife | Blue Steel",
+    "rarity": "Covert",
+    "paint_index": "42"
   },
   {
     "id": "skin-32964776",
@@ -557,7 +635,9 @@
     "price": 241.69,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Classic Knife | Blue Steel"
+    "item_name": "★ Classic Knife | Blue Steel",
+    "rarity": "Covert",
+    "paint_index": "42"
   },
   {
     "id": "skin-32964780",
@@ -571,7 +651,9 @@
     "price": 119.17,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Classic Knife | Stained"
+    "item_name": "★ Classic Knife | Stained",
+    "rarity": "Covert",
+    "paint_index": "43"
   },
   {
     "id": "skin-32964780",
@@ -585,7 +667,9 @@
     "price": 162.77,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Classic Knife | Stained"
+    "item_name": "★ Classic Knife | Stained",
+    "rarity": "Covert",
+    "paint_index": "43"
   },
   {
     "id": "skin-32964780",
@@ -599,7 +683,9 @@
     "price": 175.46,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Classic Knife | Stained"
+    "item_name": "★ Classic Knife | Stained",
+    "rarity": "Covert",
+    "paint_index": "43"
   },
   {
     "id": "skin-32964780",
@@ -613,7 +699,9 @@
     "price": 121.7,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Classic Knife | Stained"
+    "item_name": "★ Classic Knife | Stained",
+    "rarity": "Covert",
+    "paint_index": "43"
   },
   {
     "id": "skin-32964780",
@@ -627,7 +715,9 @@
     "price": 301.69,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Classic Knife | Stained"
+    "item_name": "★ Classic Knife | Stained",
+    "rarity": "Covert",
+    "paint_index": "43"
   },
   {
     "id": "skin-32964780",
@@ -641,7 +731,9 @@
     "price": 145.22,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Classic Knife | Stained"
+    "item_name": "★ Classic Knife | Stained",
+    "rarity": "Covert",
+    "paint_index": "43"
   },
   {
     "id": "skin-32964780",
@@ -655,7 +747,9 @@
     "price": 138.5,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Classic Knife | Stained"
+    "item_name": "★ Classic Knife | Stained",
+    "rarity": "Covert",
+    "paint_index": "43"
   },
   {
     "id": "skin-32964780",
@@ -669,7 +763,9 @@
     "price": 150.84,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Classic Knife | Stained"
+    "item_name": "★ Classic Knife | Stained",
+    "rarity": "Covert",
+    "paint_index": "43"
   },
   {
     "id": "skin-32964780",
@@ -683,7 +779,9 @@
     "price": 164.28,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Classic Knife | Stained"
+    "item_name": "★ Classic Knife | Stained",
+    "rarity": "Covert",
+    "paint_index": "43"
   },
   {
     "id": "skin-32964780",
@@ -697,7 +795,9 @@
     "price": 216.67,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Classic Knife | Stained"
+    "item_name": "★ Classic Knife | Stained",
+    "rarity": "Covert",
+    "paint_index": "43"
   },
   {
     "id": "skin-32964896",
@@ -711,7 +811,9 @@
     "price": 92.84,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Classic Knife | Safari Mesh"
+    "item_name": "★ Classic Knife | Safari Mesh",
+    "rarity": "Covert",
+    "paint_index": "72"
   },
   {
     "id": "skin-32964896",
@@ -725,7 +827,9 @@
     "price": 113.82,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Classic Knife | Safari Mesh"
+    "item_name": "★ Classic Knife | Safari Mesh",
+    "rarity": "Covert",
+    "paint_index": "72"
   },
   {
     "id": "skin-32964896",
@@ -739,7 +843,9 @@
     "price": 109.7,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Classic Knife | Safari Mesh"
+    "item_name": "★ Classic Knife | Safari Mesh",
+    "rarity": "Covert",
+    "paint_index": "72"
   },
   {
     "id": "skin-32964896",
@@ -753,7 +859,9 @@
     "price": 96.68,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Classic Knife | Safari Mesh"
+    "item_name": "★ Classic Knife | Safari Mesh",
+    "rarity": "Covert",
+    "paint_index": "72"
   },
   {
     "id": "skin-32964896",
@@ -767,7 +875,9 @@
     "price": 108.92,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Classic Knife | Safari Mesh"
+    "item_name": "★ Classic Knife | Safari Mesh",
+    "rarity": "Covert",
+    "paint_index": "72"
   },
   {
     "id": "skin-32964896",
@@ -781,7 +891,9 @@
     "price": 98.12,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Classic Knife | Safari Mesh"
+    "item_name": "★ Classic Knife | Safari Mesh",
+    "rarity": "Covert",
+    "paint_index": "72"
   },
   {
     "id": "skin-32964896",
@@ -795,7 +907,9 @@
     "price": 198.84,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Classic Knife | Safari Mesh"
+    "item_name": "★ Classic Knife | Safari Mesh",
+    "rarity": "Covert",
+    "paint_index": "72"
   },
   {
     "id": "skin-32964896",
@@ -809,7 +923,9 @@
     "price": 0,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Classic Knife | Safari Mesh"
+    "item_name": "★ Classic Knife | Safari Mesh",
+    "rarity": "Covert",
+    "paint_index": "72"
   },
   {
     "id": "skin-32964896",
@@ -823,7 +939,9 @@
     "price": 97.5,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Classic Knife | Safari Mesh"
+    "item_name": "★ Classic Knife | Safari Mesh",
+    "rarity": "Covert",
+    "paint_index": "72"
   },
   {
     "id": "skin-32964896",
@@ -837,7 +955,9 @@
     "price": 90.23,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Classic Knife | Safari Mesh"
+    "item_name": "★ Classic Knife | Safari Mesh",
+    "rarity": "Covert",
+    "paint_index": "72"
   },
   {
     "id": "skin-32964916",
@@ -851,7 +971,9 @@
     "price": 117.93,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Classic Knife | Boreal Forest"
+    "item_name": "★ Classic Knife | Boreal Forest",
+    "rarity": "Covert",
+    "paint_index": "77"
   },
   {
     "id": "skin-32964916",
@@ -865,7 +987,9 @@
     "price": 95.99,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Classic Knife | Boreal Forest"
+    "item_name": "★ Classic Knife | Boreal Forest",
+    "rarity": "Covert",
+    "paint_index": "77"
   },
   {
     "id": "skin-32964916",
@@ -879,7 +1003,9 @@
     "price": 97.29,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Classic Knife | Boreal Forest"
+    "item_name": "★ Classic Knife | Boreal Forest",
+    "rarity": "Covert",
+    "paint_index": "77"
   },
   {
     "id": "skin-32964916",
@@ -893,7 +1019,9 @@
     "price": 272.62,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Classic Knife | Boreal Forest"
+    "item_name": "★ Classic Knife | Boreal Forest",
+    "rarity": "Covert",
+    "paint_index": "77"
   },
   {
     "id": "skin-32964916",
@@ -907,7 +1035,9 @@
     "price": 106.89,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Classic Knife | Boreal Forest"
+    "item_name": "★ Classic Knife | Boreal Forest",
+    "rarity": "Covert",
+    "paint_index": "77"
   },
   {
     "id": "skin-32964916",
@@ -921,7 +1051,9 @@
     "price": 124.89,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Classic Knife | Boreal Forest"
+    "item_name": "★ Classic Knife | Boreal Forest",
+    "rarity": "Covert",
+    "paint_index": "77"
   },
   {
     "id": "skin-32964916",
@@ -935,7 +1067,9 @@
     "price": 0,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Classic Knife | Boreal Forest"
+    "item_name": "★ Classic Knife | Boreal Forest",
+    "rarity": "Covert",
+    "paint_index": "77"
   },
   {
     "id": "skin-32964916",
@@ -949,7 +1083,9 @@
     "price": 108.33,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Classic Knife | Boreal Forest"
+    "item_name": "★ Classic Knife | Boreal Forest",
+    "rarity": "Covert",
+    "paint_index": "77"
   },
   {
     "id": "skin-32964916",
@@ -963,7 +1099,9 @@
     "price": 106.35,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Classic Knife | Boreal Forest"
+    "item_name": "★ Classic Knife | Boreal Forest",
+    "rarity": "Covert",
+    "paint_index": "77"
   },
   {
     "id": "skin-32964916",
@@ -977,7 +1115,9 @@
     "price": 95.92,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Classic Knife | Boreal Forest"
+    "item_name": "★ Classic Knife | Boreal Forest",
+    "rarity": "Covert",
+    "paint_index": "77"
   },
   {
     "id": "skin-32964784",
@@ -991,7 +1131,9 @@
     "price": 201.51,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Classic Knife | Case Hardened"
+    "item_name": "★ Classic Knife | Case Hardened",
+    "rarity": "Covert",
+    "paint_index": "44"
   },
   {
     "id": "skin-32964784",
@@ -1005,7 +1147,9 @@
     "price": 274.19,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Classic Knife | Case Hardened"
+    "item_name": "★ Classic Knife | Case Hardened",
+    "rarity": "Covert",
+    "paint_index": "44"
   },
   {
     "id": "skin-32964784",
@@ -1019,7 +1163,9 @@
     "price": 589.66,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Classic Knife | Case Hardened"
+    "item_name": "★ Classic Knife | Case Hardened",
+    "rarity": "Covert",
+    "paint_index": "44"
   },
   {
     "id": "skin-32964784",
@@ -1033,7 +1179,9 @@
     "price": 190.47,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Classic Knife | Case Hardened"
+    "item_name": "★ Classic Knife | Case Hardened",
+    "rarity": "Covert",
+    "paint_index": "44"
   },
   {
     "id": "skin-32964784",
@@ -1047,7 +1195,9 @@
     "price": 226.94,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Classic Knife | Case Hardened"
+    "item_name": "★ Classic Knife | Case Hardened",
+    "rarity": "Covert",
+    "paint_index": "44"
   },
   {
     "id": "skin-32964784",
@@ -1061,7 +1211,9 @@
     "price": 379.5,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Classic Knife | Case Hardened"
+    "item_name": "★ Classic Knife | Case Hardened",
+    "rarity": "Covert",
+    "paint_index": "44"
   },
   {
     "id": "skin-32964784",
@@ -1075,7 +1227,9 @@
     "price": 172.85,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Classic Knife | Case Hardened"
+    "item_name": "★ Classic Knife | Case Hardened",
+    "rarity": "Covert",
+    "paint_index": "44"
   },
   {
     "id": "skin-32964784",
@@ -1089,7 +1243,9 @@
     "price": 241.35,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Classic Knife | Case Hardened"
+    "item_name": "★ Classic Knife | Case Hardened",
+    "rarity": "Covert",
+    "paint_index": "44"
   },
   {
     "id": "skin-32964784",
@@ -1103,7 +1259,9 @@
     "price": 231.48,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Classic Knife | Case Hardened"
+    "item_name": "★ Classic Knife | Case Hardened",
+    "rarity": "Covert",
+    "paint_index": "44"
   },
   {
     "id": "skin-32964784",
@@ -1117,7 +1275,9 @@
     "price": 178.27,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Classic Knife | Case Hardened"
+    "item_name": "★ Classic Knife | Case Hardened",
+    "rarity": "Covert",
+    "paint_index": "44"
   },
   {
     "id": "skin-32965180",
@@ -1131,7 +1291,9 @@
     "price": 214.82,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Classic Knife | Urban Masked"
+    "item_name": "★ Classic Knife | Urban Masked",
+    "rarity": "Covert",
+    "paint_index": "143"
   },
   {
     "id": "skin-32965180",
@@ -1145,7 +1307,9 @@
     "price": 111.08,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Classic Knife | Urban Masked"
+    "item_name": "★ Classic Knife | Urban Masked",
+    "rarity": "Covert",
+    "paint_index": "143"
   },
   {
     "id": "skin-32965180",
@@ -1159,7 +1323,9 @@
     "price": 106.89,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Classic Knife | Urban Masked"
+    "item_name": "★ Classic Knife | Urban Masked",
+    "rarity": "Covert",
+    "paint_index": "143"
   },
   {
     "id": "skin-32965180",
@@ -1173,7 +1339,9 @@
     "price": 98.05,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Classic Knife | Urban Masked"
+    "item_name": "★ Classic Knife | Urban Masked",
+    "rarity": "Covert",
+    "paint_index": "143"
   },
   {
     "id": "skin-32965180",
@@ -1187,7 +1355,9 @@
     "price": 121.88,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Classic Knife | Urban Masked"
+    "item_name": "★ Classic Knife | Urban Masked",
+    "rarity": "Covert",
+    "paint_index": "143"
   },
   {
     "id": "skin-32965180",
@@ -1201,7 +1371,9 @@
     "price": 107.65,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Classic Knife | Urban Masked"
+    "item_name": "★ Classic Knife | Urban Masked",
+    "rarity": "Covert",
+    "paint_index": "143"
   },
   {
     "id": "skin-32965180",
@@ -1215,7 +1387,9 @@
     "price": 108.33,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Classic Knife | Urban Masked"
+    "item_name": "★ Classic Knife | Urban Masked",
+    "rarity": "Covert",
+    "paint_index": "143"
   },
   {
     "id": "skin-32965180",
@@ -1229,7 +1403,9 @@
     "price": 105.52,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Classic Knife | Urban Masked"
+    "item_name": "★ Classic Knife | Urban Masked",
+    "rarity": "Covert",
+    "paint_index": "143"
   },
   {
     "id": "skin-32965180",
@@ -1243,7 +1419,9 @@
     "price": 0,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Classic Knife | Urban Masked"
+    "item_name": "★ Classic Knife | Urban Masked",
+    "rarity": "Covert",
+    "paint_index": "143"
   },
   {
     "id": "skin-32965180",
@@ -1257,7 +1435,9 @@
     "price": 97.71,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Classic Knife | Urban Masked"
+    "item_name": "★ Classic Knife | Urban Masked",
+    "rarity": "Covert",
+    "paint_index": "143"
   },
   {
     "id": "skin-32967548",
@@ -1271,7 +1451,9 @@
     "price": 123.4,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Classic Knife | Night Stripe"
+    "item_name": "★ Classic Knife | Night Stripe",
+    "rarity": "Covert",
+    "paint_index": "735"
   },
   {
     "id": "skin-32967548",
@@ -1285,7 +1467,9 @@
     "price": 301.69,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Classic Knife | Night Stripe"
+    "item_name": "★ Classic Knife | Night Stripe",
+    "rarity": "Covert",
+    "paint_index": "735"
   },
   {
     "id": "skin-32967548",
@@ -1299,7 +1483,9 @@
     "price": 136.78,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Classic Knife | Night Stripe"
+    "item_name": "★ Classic Knife | Night Stripe",
+    "rarity": "Covert",
+    "paint_index": "735"
   },
   {
     "id": "skin-32967548",
@@ -1313,7 +1499,9 @@
     "price": 0,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Classic Knife | Night Stripe"
+    "item_name": "★ Classic Knife | Night Stripe",
+    "rarity": "Covert",
+    "paint_index": "735"
   },
   {
     "id": "skin-32967548",
@@ -1327,7 +1515,9 @@
     "price": 162.77,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Classic Knife | Night Stripe"
+    "item_name": "★ Classic Knife | Night Stripe",
+    "rarity": "Covert",
+    "paint_index": "735"
   },
   {
     "id": "skin-32967548",
@@ -1341,7 +1531,9 @@
     "price": 115.05,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Classic Knife | Night Stripe"
+    "item_name": "★ Classic Knife | Night Stripe",
+    "rarity": "Covert",
+    "paint_index": "735"
   },
   {
     "id": "skin-32967548",
@@ -1355,7 +1547,9 @@
     "price": 153.02,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Classic Knife | Night Stripe"
+    "item_name": "★ Classic Knife | Night Stripe",
+    "rarity": "Covert",
+    "paint_index": "735"
   },
   {
     "id": "skin-32967548",
@@ -1369,7 +1563,9 @@
     "price": 164.49,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Classic Knife | Night Stripe"
+    "item_name": "★ Classic Knife | Night Stripe",
+    "rarity": "Covert",
+    "paint_index": "735"
   },
   {
     "id": "skin-32967548",
@@ -1383,7 +1579,9 @@
     "price": 177.38,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Classic Knife | Night Stripe"
+    "item_name": "★ Classic Knife | Night Stripe",
+    "rarity": "Covert",
+    "paint_index": "735"
   },
   {
     "id": "skin-32967548",
@@ -1397,7 +1595,9 @@
     "price": 146.59,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Classic Knife | Night Stripe"
+    "item_name": "★ Classic Knife | Night Stripe",
+    "rarity": "Covert",
+    "paint_index": "735"
   },
   {
     "id": "skin-32964844",
@@ -1411,7 +1611,9 @@
     "price": 270.01,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Classic Knife | Slaughter"
+    "item_name": "★ Classic Knife | Slaughter",
+    "rarity": "Covert",
+    "paint_index": "59"
   },
   {
     "id": "skin-32964844",
@@ -1425,7 +1627,9 @@
     "price": 283.31,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Classic Knife | Slaughter"
+    "item_name": "★ Classic Knife | Slaughter",
+    "rarity": "Covert",
+    "paint_index": "59"
   },
   {
     "id": "skin-32964844",
@@ -1439,7 +1643,9 @@
     "price": 351.06,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Classic Knife | Slaughter"
+    "item_name": "★ Classic Knife | Slaughter",
+    "rarity": "Covert",
+    "paint_index": "59"
   },
   {
     "id": "skin-32964844",
@@ -1453,7 +1659,9 @@
     "price": 421.74,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Classic Knife | Slaughter"
+    "item_name": "★ Classic Knife | Slaughter",
+    "rarity": "Covert",
+    "paint_index": "59"
   },
   {
     "id": "skin-32964844",
@@ -1467,7 +1675,9 @@
     "price": 290.72,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Classic Knife | Slaughter"
+    "item_name": "★ Classic Knife | Slaughter",
+    "rarity": "Covert",
+    "paint_index": "59"
   },
   {
     "id": "skin-32964844",
@@ -1481,7 +1691,9 @@
     "price": 326.3,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Classic Knife | Slaughter"
+    "item_name": "★ Classic Knife | Slaughter",
+    "rarity": "Covert",
+    "paint_index": "59"
   },
   {
     "id": "skin-32964760",
@@ -1495,7 +1707,9 @@
     "price": 754.22,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Classic Knife | Fade"
+    "item_name": "★ Classic Knife | Fade",
+    "rarity": "Covert",
+    "paint_index": "38"
   },
   {
     "id": "skin-32964760",
@@ -1509,7 +1723,9 @@
     "price": 545.78,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Classic Knife | Fade"
+    "item_name": "★ Classic Knife | Fade",
+    "rarity": "Covert",
+    "paint_index": "38"
   },
   {
     "id": "skin-32964760",
@@ -1523,7 +1739,9 @@
     "price": 562.1,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Classic Knife | Fade"
+    "item_name": "★ Classic Knife | Fade",
+    "rarity": "Covert",
+    "paint_index": "38"
   },
   {
     "id": "skin-32964760",
@@ -1537,6 +1755,8 @@
     "price": 562.24,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Classic Knife | Fade"
+    "item_name": "★ Classic Knife | Fade",
+    "rarity": "Covert",
+    "paint_index": "38"
   }
 ]

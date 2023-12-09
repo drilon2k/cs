@@ -11,7 +11,9 @@
     "price": 21.94,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Moss Quartz"
+    "item_name": "M4A1-S | Moss Quartz",
+    "rarity": "Industrial Grade",
+    "paint_index": "862"
   },
   {
     "id": "skin-3935608",
@@ -25,7 +27,9 @@
     "price": 17.46,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Moss Quartz"
+    "item_name": "M4A1-S | Moss Quartz",
+    "rarity": "Industrial Grade",
+    "paint_index": "862"
   },
   {
     "id": "skin-3935608",
@@ -39,7 +43,9 @@
     "price": 29.25,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Moss Quartz"
+    "item_name": "M4A1-S | Moss Quartz",
+    "rarity": "Industrial Grade",
+    "paint_index": "862"
   },
   {
     "id": "skin-3935608",
@@ -53,7 +59,9 @@
     "price": 18.74,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Moss Quartz"
+    "item_name": "M4A1-S | Moss Quartz",
+    "rarity": "Industrial Grade",
+    "paint_index": "862"
   },
   {
     "id": "skin-3935608",
@@ -67,7 +75,9 @@
     "price": 18.51,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Moss Quartz"
+    "item_name": "M4A1-S | Moss Quartz",
+    "rarity": "Industrial Grade",
+    "paint_index": "862"
   },
   {
     "id": "skin-3934812",
@@ -81,7 +91,9 @@
     "price": 12.67,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M4A1-S | Briefing"
+    "item_name": "M4A1-S | Briefing",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "663"
   },
   {
     "id": "skin-3934812",
@@ -95,7 +107,9 @@
     "price": 9.17,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Briefing"
+    "item_name": "M4A1-S | Briefing",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "663"
   },
   {
     "id": "skin-3934812",
@@ -109,7 +123,9 @@
     "price": 3.9,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Briefing"
+    "item_name": "M4A1-S | Briefing",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "663"
   },
   {
     "id": "skin-3934812",
@@ -123,7 +139,9 @@
     "price": 9.6,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M4A1-S | Briefing"
+    "item_name": "M4A1-S | Briefing",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "663"
   },
   {
     "id": "skin-3934812",
@@ -137,7 +155,9 @@
     "price": 2.47,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Briefing"
+    "item_name": "M4A1-S | Briefing",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "663"
   },
   {
     "id": "skin-3934812",
@@ -151,7 +171,9 @@
     "price": 2.64,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Briefing"
+    "item_name": "M4A1-S | Briefing",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "663"
   },
   {
     "id": "skin-3934812",
@@ -165,7 +187,9 @@
     "price": 7.84,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M4A1-S | Briefing"
+    "item_name": "M4A1-S | Briefing",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "663"
   },
   {
     "id": "skin-3934812",
@@ -179,7 +203,9 @@
     "price": 6.65,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M4A1-S | Briefing"
+    "item_name": "M4A1-S | Briefing",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "663"
   },
   {
     "id": "skin-3934812",
@@ -193,7 +219,9 @@
     "price": 5.5,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Briefing"
+    "item_name": "M4A1-S | Briefing",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "663"
   },
   {
     "id": "skin-3934812",
@@ -207,7 +235,9 @@
     "price": 37.03,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M4A1-S | Briefing"
+    "item_name": "M4A1-S | Briefing",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "663"
   },
   {
     "id": "skin-3934736",
@@ -221,7 +251,9 @@
     "price": 29.07,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Decimator"
+    "item_name": "M4A1-S | Decimator",
+    "rarity": "Classified",
+    "paint_index": "644"
   },
   {
     "id": "skin-3934736",
@@ -235,7 +267,9 @@
     "price": 9.78,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Decimator"
+    "item_name": "M4A1-S | Decimator",
+    "rarity": "Classified",
+    "paint_index": "644"
   },
   {
     "id": "skin-3934736",
@@ -249,7 +283,9 @@
     "price": 21.46,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M4A1-S | Decimator"
+    "item_name": "M4A1-S | Decimator",
+    "rarity": "Classified",
+    "paint_index": "644"
   },
   {
     "id": "skin-3934736",
@@ -263,7 +299,9 @@
     "price": 14.44,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Decimator"
+    "item_name": "M4A1-S | Decimator",
+    "rarity": "Classified",
+    "paint_index": "644"
   },
   {
     "id": "skin-3934736",
@@ -277,7 +315,9 @@
     "price": 28.52,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M4A1-S | Decimator"
+    "item_name": "M4A1-S | Decimator",
+    "rarity": "Classified",
+    "paint_index": "644"
   },
   {
     "id": "skin-3934736",
@@ -291,7 +331,9 @@
     "price": 78.06,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M4A1-S | Decimator"
+    "item_name": "M4A1-S | Decimator",
+    "rarity": "Classified",
+    "paint_index": "644"
   },
   {
     "id": "skin-3934736",
@@ -305,7 +347,9 @@
     "price": 8.77,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Decimator"
+    "item_name": "M4A1-S | Decimator",
+    "rarity": "Classified",
+    "paint_index": "644"
   },
   {
     "id": "skin-3934736",
@@ -319,7 +363,9 @@
     "price": 11.07,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Decimator"
+    "item_name": "M4A1-S | Decimator",
+    "rarity": "Classified",
+    "paint_index": "644"
   },
   {
     "id": "skin-3934736",
@@ -333,7 +379,9 @@
     "price": 20.83,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M4A1-S | Decimator"
+    "item_name": "M4A1-S | Decimator",
+    "rarity": "Classified",
+    "paint_index": "644"
   },
   {
     "id": "skin-3934736",
@@ -347,7 +395,9 @@
     "price": 37.56,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M4A1-S | Decimator"
+    "item_name": "M4A1-S | Decimator",
+    "rarity": "Classified",
+    "paint_index": "644"
   },
   {
     "id": "skin-3937052",
@@ -361,7 +411,9 @@
     "price": 2.26,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M4A1-S | Emphorosaur-S"
+    "item_name": "M4A1-S | Emphorosaur-S",
+    "rarity": "Restricted",
+    "paint_index": "1223"
   },
   {
     "id": "skin-3937052",
@@ -375,7 +427,9 @@
     "price": 2.13,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M4A1-S | Emphorosaur-S"
+    "item_name": "M4A1-S | Emphorosaur-S",
+    "rarity": "Restricted",
+    "paint_index": "1223"
   },
   {
     "id": "skin-3937052",
@@ -389,7 +443,9 @@
     "price": 4.21,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M4A1-S | Emphorosaur-S"
+    "item_name": "M4A1-S | Emphorosaur-S",
+    "rarity": "Restricted",
+    "paint_index": "1223"
   },
   {
     "id": "skin-3937052",
@@ -403,7 +459,9 @@
     "price": 1.03,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Emphorosaur-S"
+    "item_name": "M4A1-S | Emphorosaur-S",
+    "rarity": "Restricted",
+    "paint_index": "1223"
   },
   {
     "id": "skin-3937052",
@@ -417,7 +475,9 @@
     "price": 3.51,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M4A1-S | Emphorosaur-S"
+    "item_name": "M4A1-S | Emphorosaur-S",
+    "rarity": "Restricted",
+    "paint_index": "1223"
   },
   {
     "id": "skin-3937052",
@@ -431,7 +491,9 @@
     "price": 2.74,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Emphorosaur-S"
+    "item_name": "M4A1-S | Emphorosaur-S",
+    "rarity": "Restricted",
+    "paint_index": "1223"
   },
   {
     "id": "skin-3937052",
@@ -445,7 +507,9 @@
     "price": 0.54,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Emphorosaur-S"
+    "item_name": "M4A1-S | Emphorosaur-S",
+    "rarity": "Restricted",
+    "paint_index": "1223"
   },
   {
     "id": "skin-3937052",
@@ -459,7 +523,9 @@
     "price": 11.78,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M4A1-S | Emphorosaur-S"
+    "item_name": "M4A1-S | Emphorosaur-S",
+    "rarity": "Restricted",
+    "paint_index": "1223"
   },
   {
     "id": "skin-3937052",
@@ -473,7 +539,9 @@
     "price": 0.64,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Emphorosaur-S"
+    "item_name": "M4A1-S | Emphorosaur-S",
+    "rarity": "Restricted",
+    "paint_index": "1223"
   },
   {
     "id": "skin-3937052",
@@ -487,7 +555,9 @@
     "price": 1.35,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Emphorosaur-S"
+    "item_name": "M4A1-S | Emphorosaur-S",
+    "rarity": "Restricted",
+    "paint_index": "1223"
   },
   {
     "id": "skin-3935944",
@@ -501,7 +571,9 @@
     "price": 72.47,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Player Two"
+    "item_name": "M4A1-S | Player Two",
+    "rarity": "Covert",
+    "paint_index": "946"
   },
   {
     "id": "skin-3935944",
@@ -515,7 +587,9 @@
     "price": 19.88,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Player Two"
+    "item_name": "M4A1-S | Player Two",
+    "rarity": "Covert",
+    "paint_index": "946"
   },
   {
     "id": "skin-3935944",
@@ -529,7 +603,9 @@
     "price": 31.05,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M4A1-S | Player Two"
+    "item_name": "M4A1-S | Player Two",
+    "rarity": "Covert",
+    "paint_index": "946"
   },
   {
     "id": "skin-3935944",
@@ -543,7 +619,9 @@
     "price": 35.11,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Player Two"
+    "item_name": "M4A1-S | Player Two",
+    "rarity": "Covert",
+    "paint_index": "946"
   },
   {
     "id": "skin-3935944",
@@ -557,7 +635,9 @@
     "price": 10.07,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Player Two"
+    "item_name": "M4A1-S | Player Two",
+    "rarity": "Covert",
+    "paint_index": "946"
   },
   {
     "id": "skin-3935944",
@@ -571,7 +651,9 @@
     "price": 52.52,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M4A1-S | Player Two"
+    "item_name": "M4A1-S | Player Two",
+    "rarity": "Covert",
+    "paint_index": "946"
   },
   {
     "id": "skin-3935944",
@@ -585,7 +667,9 @@
     "price": 36.75,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M4A1-S | Player Two"
+    "item_name": "M4A1-S | Player Two",
+    "rarity": "Covert",
+    "paint_index": "946"
   },
   {
     "id": "skin-3935944",
@@ -599,7 +683,9 @@
     "price": 15.29,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Player Two"
+    "item_name": "M4A1-S | Player Two",
+    "rarity": "Covert",
+    "paint_index": "946"
   },
   {
     "id": "skin-3935944",
@@ -613,7 +699,9 @@
     "price": 78.1,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M4A1-S | Player Two"
+    "item_name": "M4A1-S | Player Two",
+    "rarity": "Covert",
+    "paint_index": "946"
   },
   {
     "id": "skin-3935944",
@@ -627,7 +715,9 @@
     "price": 188.95,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M4A1-S | Player Two"
+    "item_name": "M4A1-S | Player Two",
+    "rarity": "Covert",
+    "paint_index": "946"
   },
   {
     "id": "skin-3933364",
@@ -641,7 +731,9 @@
     "price": 124.65,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M4A1-S | Atomic Alloy"
+    "item_name": "M4A1-S | Atomic Alloy",
+    "rarity": "Classified",
+    "paint_index": "301"
   },
   {
     "id": "skin-3933364",
@@ -655,7 +747,9 @@
     "price": 28.51,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Atomic Alloy"
+    "item_name": "M4A1-S | Atomic Alloy",
+    "rarity": "Classified",
+    "paint_index": "301"
   },
   {
     "id": "skin-3933364",
@@ -669,7 +763,9 @@
     "price": 33.8,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M4A1-S | Atomic Alloy"
+    "item_name": "M4A1-S | Atomic Alloy",
+    "rarity": "Classified",
+    "paint_index": "301"
   },
   {
     "id": "skin-3933364",
@@ -683,7 +779,9 @@
     "price": 27.9,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Atomic Alloy"
+    "item_name": "M4A1-S | Atomic Alloy",
+    "rarity": "Classified",
+    "paint_index": "301"
   },
   {
     "id": "skin-3933364",
@@ -697,7 +795,9 @@
     "price": 63.08,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M4A1-S | Atomic Alloy"
+    "item_name": "M4A1-S | Atomic Alloy",
+    "rarity": "Classified",
+    "paint_index": "301"
   },
   {
     "id": "skin-3933364",
@@ -711,7 +811,9 @@
     "price": 33.87,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Atomic Alloy"
+    "item_name": "M4A1-S | Atomic Alloy",
+    "rarity": "Classified",
+    "paint_index": "301"
   },
   {
     "id": "skin-3933364",
@@ -725,7 +827,9 @@
     "price": 60.2,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Atomic Alloy"
+    "item_name": "M4A1-S | Atomic Alloy",
+    "rarity": "Classified",
+    "paint_index": "301"
   },
   {
     "id": "skin-3933364",
@@ -739,7 +843,9 @@
     "price": 38.78,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M4A1-S | Atomic Alloy"
+    "item_name": "M4A1-S | Atomic Alloy",
+    "rarity": "Classified",
+    "paint_index": "301"
   },
   {
     "id": "skin-3933364",
@@ -753,7 +859,9 @@
     "price": 26.71,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Atomic Alloy"
+    "item_name": "M4A1-S | Atomic Alloy",
+    "rarity": "Classified",
+    "paint_index": "301"
   },
   {
     "id": "skin-3933364",
@@ -767,7 +875,9 @@
     "price": 37.68,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M4A1-S | Atomic Alloy"
+    "item_name": "M4A1-S | Atomic Alloy",
+    "rarity": "Classified",
+    "paint_index": "301"
   },
   {
     "id": "skin-3934884",
@@ -781,7 +891,9 @@
     "price": 3.4,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Leaded Glass"
+    "item_name": "M4A1-S | Leaded Glass",
+    "rarity": "Classified",
+    "paint_index": "681"
   },
   {
     "id": "skin-3934884",
@@ -795,7 +907,9 @@
     "price": 27.6,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M4A1-S | Leaded Glass"
+    "item_name": "M4A1-S | Leaded Glass",
+    "rarity": "Classified",
+    "paint_index": "681"
   },
   {
     "id": "skin-3934884",
@@ -809,7 +923,9 @@
     "price": 8.78,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M4A1-S | Leaded Glass"
+    "item_name": "M4A1-S | Leaded Glass",
+    "rarity": "Classified",
+    "paint_index": "681"
   },
   {
     "id": "skin-3934884",
@@ -823,7 +939,9 @@
     "price": 4.79,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Leaded Glass"
+    "item_name": "M4A1-S | Leaded Glass",
+    "rarity": "Classified",
+    "paint_index": "681"
   },
   {
     "id": "skin-3934884",
@@ -837,7 +955,9 @@
     "price": 3.11,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Leaded Glass"
+    "item_name": "M4A1-S | Leaded Glass",
+    "rarity": "Classified",
+    "paint_index": "681"
   },
   {
     "id": "skin-3934884",
@@ -851,7 +971,9 @@
     "price": 13.49,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M4A1-S | Leaded Glass"
+    "item_name": "M4A1-S | Leaded Glass",
+    "rarity": "Classified",
+    "paint_index": "681"
   },
   {
     "id": "skin-3934884",
@@ -865,7 +987,9 @@
     "price": 8.57,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M4A1-S | Leaded Glass"
+    "item_name": "M4A1-S | Leaded Glass",
+    "rarity": "Classified",
+    "paint_index": "681"
   },
   {
     "id": "skin-3934884",
@@ -879,7 +1003,9 @@
     "price": 8.84,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Leaded Glass"
+    "item_name": "M4A1-S | Leaded Glass",
+    "rarity": "Classified",
+    "paint_index": "681"
   },
   {
     "id": "skin-3934884",
@@ -893,7 +1019,9 @@
     "price": 12.33,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M4A1-S | Leaded Glass"
+    "item_name": "M4A1-S | Leaded Glass",
+    "rarity": "Classified",
+    "paint_index": "681"
   },
   {
     "id": "skin-3934884",
@@ -907,7 +1035,9 @@
     "price": 4.51,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Leaded Glass"
+    "item_name": "M4A1-S | Leaded Glass",
+    "rarity": "Classified",
+    "paint_index": "681"
   },
   {
     "id": "skin-3933176",
@@ -921,7 +1051,9 @@
     "price": 0.68,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Nitro"
+    "item_name": "M4A1-S | Nitro",
+    "rarity": "Restricted",
+    "paint_index": "254"
   },
   {
     "id": "skin-3933176",
@@ -935,7 +1067,9 @@
     "price": 6.09,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Nitro"
+    "item_name": "M4A1-S | Nitro",
+    "rarity": "Restricted",
+    "paint_index": "254"
   },
   {
     "id": "skin-3933176",
@@ -949,7 +1083,9 @@
     "price": 2.3,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Nitro"
+    "item_name": "M4A1-S | Nitro",
+    "rarity": "Restricted",
+    "paint_index": "254"
   },
   {
     "id": "skin-3933176",
@@ -963,7 +1099,9 @@
     "price": 0.9,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Nitro"
+    "item_name": "M4A1-S | Nitro",
+    "rarity": "Restricted",
+    "paint_index": "254"
   },
   {
     "id": "skin-3933176",
@@ -977,7 +1115,9 @@
     "price": 0.84,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Nitro"
+    "item_name": "M4A1-S | Nitro",
+    "rarity": "Restricted",
+    "paint_index": "254"
   },
   {
     "id": "skin-3933100",
@@ -991,7 +1131,9 @@
     "price": 1.23,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | VariCamo"
+    "item_name": "M4A1-S | VariCamo",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "235"
   },
   {
     "id": "skin-3933100",
@@ -1005,7 +1147,9 @@
     "price": 0.43,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | VariCamo"
+    "item_name": "M4A1-S | VariCamo",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "235"
   },
   {
     "id": "skin-3933100",
@@ -1019,7 +1163,9 @@
     "price": 0.6,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | VariCamo"
+    "item_name": "M4A1-S | VariCamo",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "235"
   },
   {
     "id": "skin-3933100",
@@ -1033,7 +1179,9 @@
     "price": 0.94,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | VariCamo"
+    "item_name": "M4A1-S | VariCamo",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "235"
   },
   {
     "id": "skin-3933100",
@@ -1047,7 +1195,9 @@
     "price": 0.48,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | VariCamo"
+    "item_name": "M4A1-S | VariCamo",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "235"
   },
   {
     "id": "skin-3935328",
@@ -1061,7 +1211,9 @@
     "price": 60.89,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Control Panel"
+    "item_name": "M4A1-S | Control Panel",
+    "rarity": "Classified",
+    "paint_index": "792"
   },
   {
     "id": "skin-3935328",
@@ -1075,7 +1227,9 @@
     "price": 8.51,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Control Panel"
+    "item_name": "M4A1-S | Control Panel",
+    "rarity": "Classified",
+    "paint_index": "792"
   },
   {
     "id": "skin-3935328",
@@ -1089,7 +1243,9 @@
     "price": 6.93,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Control Panel"
+    "item_name": "M4A1-S | Control Panel",
+    "rarity": "Classified",
+    "paint_index": "792"
   },
   {
     "id": "skin-3935328",
@@ -1103,7 +1259,9 @@
     "price": 6.31,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Control Panel"
+    "item_name": "M4A1-S | Control Panel",
+    "rarity": "Classified",
+    "paint_index": "792"
   },
   {
     "id": "skin-3935328",
@@ -1117,7 +1275,9 @@
     "price": 15.36,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Control Panel"
+    "item_name": "M4A1-S | Control Panel",
+    "rarity": "Classified",
+    "paint_index": "792"
   },
   {
     "id": "skin-3936680",
@@ -1131,7 +1291,9 @@
     "price": 2.25,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M4A1-S | Night Terror"
+    "item_name": "M4A1-S | Night Terror",
+    "rarity": "Restricted",
+    "paint_index": "1130"
   },
   {
     "id": "skin-3936680",
@@ -1145,7 +1307,9 @@
     "price": 0.68,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Night Terror"
+    "item_name": "M4A1-S | Night Terror",
+    "rarity": "Restricted",
+    "paint_index": "1130"
   },
   {
     "id": "skin-3936680",
@@ -1159,7 +1323,9 @@
     "price": 1.14,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Night Terror"
+    "item_name": "M4A1-S | Night Terror",
+    "rarity": "Restricted",
+    "paint_index": "1130"
   },
   {
     "id": "skin-3936680",
@@ -1173,7 +1339,9 @@
     "price": 1.88,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Night Terror"
+    "item_name": "M4A1-S | Night Terror",
+    "rarity": "Restricted",
+    "paint_index": "1130"
   },
   {
     "id": "skin-3936680",
@@ -1187,7 +1355,9 @@
     "price": 4.35,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M4A1-S | Night Terror"
+    "item_name": "M4A1-S | Night Terror",
+    "rarity": "Restricted",
+    "paint_index": "1130"
   },
   {
     "id": "skin-3936680",
@@ -1201,7 +1371,9 @@
     "price": 7.09,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M4A1-S | Night Terror"
+    "item_name": "M4A1-S | Night Terror",
+    "rarity": "Restricted",
+    "paint_index": "1130"
   },
   {
     "id": "skin-3936680",
@@ -1215,7 +1387,9 @@
     "price": 6.17,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M4A1-S | Night Terror"
+    "item_name": "M4A1-S | Night Terror",
+    "rarity": "Restricted",
+    "paint_index": "1130"
   },
   {
     "id": "skin-3936680",
@@ -1229,7 +1403,9 @@
     "price": 0.48,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Night Terror"
+    "item_name": "M4A1-S | Night Terror",
+    "rarity": "Restricted",
+    "paint_index": "1130"
   },
   {
     "id": "skin-3936680",
@@ -1243,7 +1419,9 @@
     "price": 1.36,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Night Terror"
+    "item_name": "M4A1-S | Night Terror",
+    "rarity": "Restricted",
+    "paint_index": "1130"
   },
   {
     "id": "skin-3936680",
@@ -1257,7 +1435,9 @@
     "price": 3.24,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M4A1-S | Night Terror"
+    "item_name": "M4A1-S | Night Terror",
+    "rarity": "Restricted",
+    "paint_index": "1130"
   },
   {
     "id": "skin-3936096",
@@ -1271,7 +1451,9 @@
     "price": 81.39,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Printstream"
+    "item_name": "M4A1-S | Printstream",
+    "rarity": "Covert",
+    "paint_index": "984"
   },
   {
     "id": "skin-3936096",
@@ -1285,7 +1467,9 @@
     "price": 198.77,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M4A1-S | Printstream"
+    "item_name": "M4A1-S | Printstream",
+    "rarity": "Covert",
+    "paint_index": "984"
   },
   {
     "id": "skin-3936096",
@@ -1299,7 +1483,9 @@
     "price": 104.63,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Printstream"
+    "item_name": "M4A1-S | Printstream",
+    "rarity": "Covert",
+    "paint_index": "984"
   },
   {
     "id": "skin-3936096",
@@ -1313,7 +1499,9 @@
     "price": 309.85,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Printstream"
+    "item_name": "M4A1-S | Printstream",
+    "rarity": "Covert",
+    "paint_index": "984"
   },
   {
     "id": "skin-3936096",
@@ -1327,7 +1515,9 @@
     "price": 222.08,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M4A1-S | Printstream"
+    "item_name": "M4A1-S | Printstream",
+    "rarity": "Covert",
+    "paint_index": "984"
   },
   {
     "id": "skin-3936096",
@@ -1341,7 +1531,9 @@
     "price": 107.99,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Printstream"
+    "item_name": "M4A1-S | Printstream",
+    "rarity": "Covert",
+    "paint_index": "984"
   },
   {
     "id": "skin-3936096",
@@ -1355,7 +1547,9 @@
     "price": 166.89,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Printstream"
+    "item_name": "M4A1-S | Printstream",
+    "rarity": "Covert",
+    "paint_index": "984"
   },
   {
     "id": "skin-3936096",
@@ -1369,7 +1563,9 @@
     "price": 726.79,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M4A1-S | Printstream"
+    "item_name": "M4A1-S | Printstream",
+    "rarity": "Covert",
+    "paint_index": "984"
   },
   {
     "id": "skin-3936096",
@@ -1383,7 +1579,9 @@
     "price": 147.14,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M4A1-S | Printstream"
+    "item_name": "M4A1-S | Printstream",
+    "rarity": "Covert",
+    "paint_index": "984"
   },
   {
     "id": "skin-3936096",
@@ -1397,7 +1595,9 @@
     "price": 342.55,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M4A1-S | Printstream"
+    "item_name": "M4A1-S | Printstream",
+    "rarity": "Covert",
+    "paint_index": "984"
   },
   {
     "id": "skin-3933880",
@@ -1411,7 +1611,9 @@
     "price": 12.33,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Hyper Beast"
+    "item_name": "M4A1-S | Hyper Beast",
+    "rarity": "Covert",
+    "paint_index": "430"
   },
   {
     "id": "skin-3933880",
@@ -1425,7 +1627,9 @@
     "price": 121.22,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M4A1-S | Hyper Beast"
+    "item_name": "M4A1-S | Hyper Beast",
+    "rarity": "Covert",
+    "paint_index": "430"
   },
   {
     "id": "skin-3933880",
@@ -1439,7 +1643,9 @@
     "price": 123.06,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Hyper Beast"
+    "item_name": "M4A1-S | Hyper Beast",
+    "rarity": "Covert",
+    "paint_index": "430"
   },
   {
     "id": "skin-3933880",
@@ -1453,7 +1659,9 @@
     "price": 37.03,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Hyper Beast"
+    "item_name": "M4A1-S | Hyper Beast",
+    "rarity": "Covert",
+    "paint_index": "430"
   },
   {
     "id": "skin-3933880",
@@ -1467,7 +1675,9 @@
     "price": 11.08,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Hyper Beast"
+    "item_name": "M4A1-S | Hyper Beast",
+    "rarity": "Covert",
+    "paint_index": "430"
   },
   {
     "id": "skin-3933880",
@@ -1481,7 +1691,9 @@
     "price": 30.99,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M4A1-S | Hyper Beast"
+    "item_name": "M4A1-S | Hyper Beast",
+    "rarity": "Covert",
+    "paint_index": "430"
   },
   {
     "id": "skin-3933880",
@@ -1495,7 +1707,9 @@
     "price": 34.97,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M4A1-S | Hyper Beast"
+    "item_name": "M4A1-S | Hyper Beast",
+    "rarity": "Covert",
+    "paint_index": "430"
   },
   {
     "id": "skin-3933880",
@@ -1509,7 +1723,9 @@
     "price": 56.41,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M4A1-S | Hyper Beast"
+    "item_name": "M4A1-S | Hyper Beast",
+    "rarity": "Covert",
+    "paint_index": "430"
   },
   {
     "id": "skin-3933880",
@@ -1523,7 +1739,9 @@
     "price": 16.92,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Hyper Beast"
+    "item_name": "M4A1-S | Hyper Beast",
+    "rarity": "Covert",
+    "paint_index": "430"
   },
   {
     "id": "skin-3933880",
@@ -1537,7 +1755,9 @@
     "price": 373,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M4A1-S | Hyper Beast"
+    "item_name": "M4A1-S | Hyper Beast",
+    "rarity": "Covert",
+    "paint_index": "430"
   },
   {
     "id": "skin-3933188",
@@ -1551,7 +1771,9 @@
     "price": 47.93,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M4A1-S | Guardian"
+    "item_name": "M4A1-S | Guardian",
+    "rarity": "Classified",
+    "paint_index": "257"
   },
   {
     "id": "skin-3933188",
@@ -1565,7 +1787,9 @@
     "price": 45.59,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M4A1-S | Guardian"
+    "item_name": "M4A1-S | Guardian",
+    "rarity": "Classified",
+    "paint_index": "257"
   },
   {
     "id": "skin-3933188",
@@ -1579,7 +1803,9 @@
     "price": 17.83,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Guardian"
+    "item_name": "M4A1-S | Guardian",
+    "rarity": "Classified",
+    "paint_index": "257"
   },
   {
     "id": "skin-3933188",
@@ -1593,7 +1819,9 @@
     "price": 59.83,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M4A1-S | Guardian"
+    "item_name": "M4A1-S | Guardian",
+    "rarity": "Classified",
+    "paint_index": "257"
   },
   {
     "id": "skin-3933188",
@@ -1607,7 +1835,9 @@
     "price": 14.7,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Guardian"
+    "item_name": "M4A1-S | Guardian",
+    "rarity": "Classified",
+    "paint_index": "257"
   },
   {
     "id": "skin-3933188",
@@ -1621,7 +1851,9 @@
     "price": 85.02,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M4A1-S | Guardian"
+    "item_name": "M4A1-S | Guardian",
+    "rarity": "Classified",
+    "paint_index": "257"
   },
   {
     "id": "skin-3933188",
@@ -1635,7 +1867,9 @@
     "price": 47.31,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M4A1-S | Guardian"
+    "item_name": "M4A1-S | Guardian",
+    "rarity": "Classified",
+    "paint_index": "257"
   },
   {
     "id": "skin-3933188",
@@ -1649,7 +1883,9 @@
     "price": 23.24,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Guardian"
+    "item_name": "M4A1-S | Guardian",
+    "rarity": "Classified",
+    "paint_index": "257"
   },
   {
     "id": "skin-3933188",
@@ -1663,7 +1899,9 @@
     "price": 17.14,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Guardian"
+    "item_name": "M4A1-S | Guardian",
+    "rarity": "Classified",
+    "paint_index": "257"
   },
   {
     "id": "skin-3933188",
@@ -1677,7 +1915,9 @@
     "price": 17.67,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Guardian"
+    "item_name": "M4A1-S | Guardian",
+    "rarity": "Classified",
+    "paint_index": "257"
   },
   {
     "id": "skin-3933692",
@@ -1691,7 +1931,9 @@
     "price": 9.16,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Basilisk"
+    "item_name": "M4A1-S | Basilisk",
+    "rarity": "Restricted",
+    "paint_index": "383"
   },
   {
     "id": "skin-3933692",
@@ -1705,7 +1947,9 @@
     "price": 35.79,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M4A1-S | Basilisk"
+    "item_name": "M4A1-S | Basilisk",
+    "rarity": "Restricted",
+    "paint_index": "383"
   },
   {
     "id": "skin-3933692",
@@ -1719,7 +1963,9 @@
     "price": 8.14,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Basilisk"
+    "item_name": "M4A1-S | Basilisk",
+    "rarity": "Restricted",
+    "paint_index": "383"
   },
   {
     "id": "skin-3933692",
@@ -1733,7 +1979,9 @@
     "price": 17.83,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M4A1-S | Basilisk"
+    "item_name": "M4A1-S | Basilisk",
+    "rarity": "Restricted",
+    "paint_index": "383"
   },
   {
     "id": "skin-3933692",
@@ -1747,7 +1995,9 @@
     "price": 20.57,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M4A1-S | Basilisk"
+    "item_name": "M4A1-S | Basilisk",
+    "rarity": "Restricted",
+    "paint_index": "383"
   },
   {
     "id": "skin-3933692",
@@ -1761,7 +2011,9 @@
     "price": 16.32,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M4A1-S | Basilisk"
+    "item_name": "M4A1-S | Basilisk",
+    "rarity": "Restricted",
+    "paint_index": "383"
   },
   {
     "id": "skin-3933692",
@@ -1775,7 +2027,9 @@
     "price": 4.23,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Basilisk"
+    "item_name": "M4A1-S | Basilisk",
+    "rarity": "Restricted",
+    "paint_index": "383"
   },
   {
     "id": "skin-3933692",
@@ -1789,7 +2043,9 @@
     "price": 4.11,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Basilisk"
+    "item_name": "M4A1-S | Basilisk",
+    "rarity": "Restricted",
+    "paint_index": "383"
   },
   {
     "id": "skin-3933692",
@@ -1803,7 +2059,9 @@
     "price": 15.32,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M4A1-S | Basilisk"
+    "item_name": "M4A1-S | Basilisk",
+    "rarity": "Restricted",
+    "paint_index": "383"
   },
   {
     "id": "skin-3933692",
@@ -1817,7 +2075,9 @@
     "price": 4.94,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Basilisk"
+    "item_name": "M4A1-S | Basilisk",
+    "rarity": "Restricted",
+    "paint_index": "383"
   },
   {
     "id": "skin-3933940",
@@ -1831,7 +2091,9 @@
     "price": 569.02,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Hot Rod"
+    "item_name": "M4A1-S | Hot Rod",
+    "rarity": "Classified",
+    "paint_index": "445"
   },
   {
     "id": "skin-3933940",
@@ -1845,7 +2107,9 @@
     "price": 582.81,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Hot Rod"
+    "item_name": "M4A1-S | Hot Rod",
+    "rarity": "Classified",
+    "paint_index": "445"
   },
   {
     "id": "skin-3934352",
@@ -1859,7 +2123,9 @@
     "price": 250.81,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M4A1-S | Chantico's Fire"
+    "item_name": "M4A1-S | Chantico's Fire",
+    "rarity": "Covert",
+    "paint_index": "548"
   },
   {
     "id": "skin-3934352",
@@ -1873,7 +2139,9 @@
     "price": 17.69,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Chantico's Fire"
+    "item_name": "M4A1-S | Chantico's Fire",
+    "rarity": "Covert",
+    "paint_index": "548"
   },
   {
     "id": "skin-3934352",
@@ -1887,7 +2155,9 @@
     "price": 86.12,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M4A1-S | Chantico's Fire"
+    "item_name": "M4A1-S | Chantico's Fire",
+    "rarity": "Covert",
+    "paint_index": "548"
   },
   {
     "id": "skin-3934352",
@@ -1901,7 +2171,9 @@
     "price": 34.69,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Chantico's Fire"
+    "item_name": "M4A1-S | Chantico's Fire",
+    "rarity": "Covert",
+    "paint_index": "548"
   },
   {
     "id": "skin-3934352",
@@ -1915,7 +2187,9 @@
     "price": 10.8,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Chantico's Fire"
+    "item_name": "M4A1-S | Chantico's Fire",
+    "rarity": "Covert",
+    "paint_index": "548"
   },
   {
     "id": "skin-3934352",
@@ -1929,7 +2203,9 @@
     "price": 34.14,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M4A1-S | Chantico's Fire"
+    "item_name": "M4A1-S | Chantico's Fire",
+    "rarity": "Covert",
+    "paint_index": "548"
   },
   {
     "id": "skin-3934352",
@@ -1943,7 +2219,9 @@
     "price": 44.36,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M4A1-S | Chantico's Fire"
+    "item_name": "M4A1-S | Chantico's Fire",
+    "rarity": "Covert",
+    "paint_index": "548"
   },
   {
     "id": "skin-3934352",
@@ -1957,7 +2235,9 @@
     "price": 32.84,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M4A1-S | Chantico's Fire"
+    "item_name": "M4A1-S | Chantico's Fire",
+    "rarity": "Covert",
+    "paint_index": "548"
   },
   {
     "id": "skin-3934352",
@@ -1971,7 +2251,9 @@
     "price": 89.07,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Chantico's Fire"
+    "item_name": "M4A1-S | Chantico's Fire",
+    "rarity": "Covert",
+    "paint_index": "548"
   },
   {
     "id": "skin-3934352",
@@ -1985,7 +2267,9 @@
     "price": 13.16,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Chantico's Fire"
+    "item_name": "M4A1-S | Chantico's Fire",
+    "rarity": "Covert",
+    "paint_index": "548"
   },
   {
     "id": "skin-3934684",
@@ -1999,7 +2283,9 @@
     "price": 0.75,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Flashback"
+    "item_name": "M4A1-S | Flashback",
+    "rarity": "Restricted",
+    "paint_index": "631"
   },
   {
     "id": "skin-3934684",
@@ -2013,7 +2299,9 @@
     "price": 12.98,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M4A1-S | Flashback"
+    "item_name": "M4A1-S | Flashback",
+    "rarity": "Restricted",
+    "paint_index": "631"
   },
   {
     "id": "skin-3934684",
@@ -2027,7 +2315,9 @@
     "price": 2.77,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M4A1-S | Flashback"
+    "item_name": "M4A1-S | Flashback",
+    "rarity": "Restricted",
+    "paint_index": "631"
   },
   {
     "id": "skin-3934684",
@@ -2041,7 +2331,9 @@
     "price": 0.41,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Flashback"
+    "item_name": "M4A1-S | Flashback",
+    "rarity": "Restricted",
+    "paint_index": "631"
   },
   {
     "id": "skin-3934684",
@@ -2055,7 +2347,9 @@
     "price": 2.74,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M4A1-S | Flashback"
+    "item_name": "M4A1-S | Flashback",
+    "rarity": "Restricted",
+    "paint_index": "631"
   },
   {
     "id": "skin-3934684",
@@ -2069,7 +2363,9 @@
     "price": 5.01,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M4A1-S | Flashback"
+    "item_name": "M4A1-S | Flashback",
+    "rarity": "Restricted",
+    "paint_index": "631"
   },
   {
     "id": "skin-3934684",
@@ -2083,7 +2379,9 @@
     "price": 2.66,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M4A1-S | Flashback"
+    "item_name": "M4A1-S | Flashback",
+    "rarity": "Restricted",
+    "paint_index": "631"
   },
   {
     "id": "skin-3934684",
@@ -2097,7 +2395,9 @@
     "price": 2.42,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Flashback"
+    "item_name": "M4A1-S | Flashback",
+    "rarity": "Restricted",
+    "paint_index": "631"
   },
   {
     "id": "skin-3934684",
@@ -2111,7 +2411,9 @@
     "price": 0.42,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Flashback"
+    "item_name": "M4A1-S | Flashback",
+    "rarity": "Restricted",
+    "paint_index": "631"
   },
   {
     "id": "skin-3934684",
@@ -2125,7 +2427,9 @@
     "price": 0.41,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Flashback"
+    "item_name": "M4A1-S | Flashback",
+    "rarity": "Restricted",
+    "paint_index": "631"
   },
   {
     "id": "skin-3933028",
@@ -2139,7 +2443,9 @@
     "price": 4.08,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Blood Tiger"
+    "item_name": "M4A1-S | Blood Tiger",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "217"
   },
   {
     "id": "skin-3933028",
@@ -2153,7 +2459,9 @@
     "price": 4.14,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Blood Tiger"
+    "item_name": "M4A1-S | Blood Tiger",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "217"
   },
   {
     "id": "skin-3933028",
@@ -2167,7 +2475,9 @@
     "price": 10.83,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M4A1-S | Blood Tiger"
+    "item_name": "M4A1-S | Blood Tiger",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "217"
   },
   {
     "id": "skin-3933028",
@@ -2181,7 +2491,9 @@
     "price": 13.55,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M4A1-S | Blood Tiger"
+    "item_name": "M4A1-S | Blood Tiger",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "217"
   },
   {
     "id": "skin-3933028",
@@ -2195,7 +2507,9 @@
     "price": 9.24,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M4A1-S | Blood Tiger"
+    "item_name": "M4A1-S | Blood Tiger",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "217"
   },
   {
     "id": "skin-3933028",
@@ -2209,7 +2523,9 @@
     "price": 4.61,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Blood Tiger"
+    "item_name": "M4A1-S | Blood Tiger",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "217"
   },
   {
     "id": "skin-3933600",
@@ -2223,7 +2539,9 @@
     "price": 13.37,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Cyrex"
+    "item_name": "M4A1-S | Cyrex",
+    "rarity": "Covert",
+    "paint_index": "360"
   },
   {
     "id": "skin-3933600",
@@ -2237,7 +2555,9 @@
     "price": 18.44,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Cyrex"
+    "item_name": "M4A1-S | Cyrex",
+    "rarity": "Covert",
+    "paint_index": "360"
   },
   {
     "id": "skin-3933600",
@@ -2251,7 +2571,9 @@
     "price": 13.43,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Cyrex"
+    "item_name": "M4A1-S | Cyrex",
+    "rarity": "Covert",
+    "paint_index": "360"
   },
   {
     "id": "skin-3933600",
@@ -2265,7 +2587,9 @@
     "price": 37.16,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M4A1-S | Cyrex"
+    "item_name": "M4A1-S | Cyrex",
+    "rarity": "Covert",
+    "paint_index": "360"
   },
   {
     "id": "skin-3933600",
@@ -2279,7 +2603,9 @@
     "price": 26.26,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Cyrex"
+    "item_name": "M4A1-S | Cyrex",
+    "rarity": "Covert",
+    "paint_index": "360"
   },
   {
     "id": "skin-3933600",
@@ -2293,7 +2619,9 @@
     "price": 39.57,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M4A1-S | Cyrex"
+    "item_name": "M4A1-S | Cyrex",
+    "rarity": "Covert",
+    "paint_index": "360"
   },
   {
     "id": "skin-3933600",
@@ -2307,7 +2635,9 @@
     "price": 12.95,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Cyrex"
+    "item_name": "M4A1-S | Cyrex",
+    "rarity": "Covert",
+    "paint_index": "360"
   },
   {
     "id": "skin-3933600",
@@ -2321,7 +2651,9 @@
     "price": 70.68,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M4A1-S | Cyrex"
+    "item_name": "M4A1-S | Cyrex",
+    "rarity": "Covert",
+    "paint_index": "360"
   },
   {
     "id": "skin-3933600",
@@ -2335,7 +2667,9 @@
     "price": 57.44,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M4A1-S | Cyrex"
+    "item_name": "M4A1-S | Cyrex",
+    "rarity": "Covert",
+    "paint_index": "360"
   },
   {
     "id": "skin-3933600",
@@ -2349,7 +2683,9 @@
     "price": 102.71,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M4A1-S | Cyrex"
+    "item_name": "M4A1-S | Cyrex",
+    "rarity": "Covert",
+    "paint_index": "360"
   },
   {
     "id": "skin-3936452",
@@ -2363,7 +2699,9 @@
     "price": 670.3,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Imminent Danger"
+    "item_name": "M4A1-S | Imminent Danger",
+    "rarity": "Covert",
+    "paint_index": "1073"
   },
   {
     "id": "skin-3936452",
@@ -2377,7 +2715,9 @@
     "price": 1028.48,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Imminent Danger"
+    "item_name": "M4A1-S | Imminent Danger",
+    "rarity": "Covert",
+    "paint_index": "1073"
   },
   {
     "id": "skin-3936452",
@@ -2391,7 +2731,9 @@
     "price": 1570.08,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Imminent Danger"
+    "item_name": "M4A1-S | Imminent Danger",
+    "rarity": "Covert",
+    "paint_index": "1073"
   },
   {
     "id": "skin-3936452",
@@ -2405,7 +2747,9 @@
     "price": 521.1,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Imminent Danger"
+    "item_name": "M4A1-S | Imminent Danger",
+    "rarity": "Covert",
+    "paint_index": "1073"
   },
   {
     "id": "skin-3936452",
@@ -2419,7 +2763,9 @@
     "price": 752.51,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Imminent Danger"
+    "item_name": "M4A1-S | Imminent Danger",
+    "rarity": "Covert",
+    "paint_index": "1073"
   },
   {
     "id": "skin-3932468",
@@ -2433,7 +2779,9 @@
     "price": 0.05,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Boreal Forest"
+    "item_name": "M4A1-S | Boreal Forest",
+    "rarity": "Industrial Grade",
+    "paint_index": "77"
   },
   {
     "id": "skin-3932468",
@@ -2447,7 +2795,9 @@
     "price": 0.22,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Boreal Forest"
+    "item_name": "M4A1-S | Boreal Forest",
+    "rarity": "Industrial Grade",
+    "paint_index": "77"
   },
   {
     "id": "skin-3932468",
@@ -2461,7 +2811,9 @@
     "price": 2.44,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Boreal Forest"
+    "item_name": "M4A1-S | Boreal Forest",
+    "rarity": "Industrial Grade",
+    "paint_index": "77"
   },
   {
     "id": "skin-3932468",
@@ -2475,7 +2827,9 @@
     "price": 0.07,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Boreal Forest"
+    "item_name": "M4A1-S | Boreal Forest",
+    "rarity": "Industrial Grade",
+    "paint_index": "77"
   },
   {
     "id": "skin-3932468",
@@ -2489,7 +2843,9 @@
     "price": 0.05,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Boreal Forest"
+    "item_name": "M4A1-S | Boreal Forest",
+    "rarity": "Industrial Grade",
+    "paint_index": "77"
   },
   {
     "id": "skin-3934148",
@@ -2503,7 +2859,9 @@
     "price": 40.45,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Golden Coil"
+    "item_name": "M4A1-S | Golden Coil",
+    "rarity": "Covert",
+    "paint_index": "497"
   },
   {
     "id": "skin-3934148",
@@ -2517,7 +2875,9 @@
     "price": 24.68,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Golden Coil"
+    "item_name": "M4A1-S | Golden Coil",
+    "rarity": "Covert",
+    "paint_index": "497"
   },
   {
     "id": "skin-3934148",
@@ -2531,7 +2891,9 @@
     "price": 76.09,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M4A1-S | Golden Coil"
+    "item_name": "M4A1-S | Golden Coil",
+    "rarity": "Covert",
+    "paint_index": "497"
   },
   {
     "id": "skin-3934148",
@@ -2545,7 +2907,9 @@
     "price": 169.22,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M4A1-S | Golden Coil"
+    "item_name": "M4A1-S | Golden Coil",
+    "rarity": "Covert",
+    "paint_index": "497"
   },
   {
     "id": "skin-3934148",
@@ -2559,7 +2923,9 @@
     "price": 127.94,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Golden Coil"
+    "item_name": "M4A1-S | Golden Coil",
+    "rarity": "Covert",
+    "paint_index": "497"
   },
   {
     "id": "skin-3934148",
@@ -2573,7 +2939,9 @@
     "price": 64.38,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Golden Coil"
+    "item_name": "M4A1-S | Golden Coil",
+    "rarity": "Covert",
+    "paint_index": "497"
   },
   {
     "id": "skin-3934148",
@@ -2587,7 +2955,9 @@
     "price": 93.93,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M4A1-S | Golden Coil"
+    "item_name": "M4A1-S | Golden Coil",
+    "rarity": "Covert",
+    "paint_index": "497"
   },
   {
     "id": "skin-3934148",
@@ -2601,7 +2971,9 @@
     "price": 64.37,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M4A1-S | Golden Coil"
+    "item_name": "M4A1-S | Golden Coil",
+    "rarity": "Covert",
+    "paint_index": "497"
   },
   {
     "id": "skin-3934148",
@@ -2615,7 +2987,9 @@
     "price": 382.53,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M4A1-S | Golden Coil"
+    "item_name": "M4A1-S | Golden Coil",
+    "rarity": "Covert",
+    "paint_index": "497"
   },
   {
     "id": "skin-3934148",
@@ -2629,7 +3003,9 @@
     "price": 31.4,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Golden Coil"
+    "item_name": "M4A1-S | Golden Coil",
+    "rarity": "Covert",
+    "paint_index": "497"
   },
   {
     "id": "skin-3934508",
@@ -2643,7 +3019,9 @@
     "price": 148.03,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M4A1-S | Mecha Industries"
+    "item_name": "M4A1-S | Mecha Industries",
+    "rarity": "Covert",
+    "paint_index": "587"
   },
   {
     "id": "skin-3934508",
@@ -2657,7 +3035,9 @@
     "price": 51.01,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M4A1-S | Mecha Industries"
+    "item_name": "M4A1-S | Mecha Industries",
+    "rarity": "Covert",
+    "paint_index": "587"
   },
   {
     "id": "skin-3934508",
@@ -2671,7 +3051,9 @@
     "price": 84.34,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M4A1-S | Mecha Industries"
+    "item_name": "M4A1-S | Mecha Industries",
+    "rarity": "Covert",
+    "paint_index": "587"
   },
   {
     "id": "skin-3934508",
@@ -2685,7 +3067,9 @@
     "price": 27.49,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Mecha Industries"
+    "item_name": "M4A1-S | Mecha Industries",
+    "rarity": "Covert",
+    "paint_index": "587"
   },
   {
     "id": "skin-3934508",
@@ -2699,7 +3083,9 @@
     "price": 61.57,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M4A1-S | Mecha Industries"
+    "item_name": "M4A1-S | Mecha Industries",
+    "rarity": "Covert",
+    "paint_index": "587"
   },
   {
     "id": "skin-3934508",
@@ -2713,7 +3099,9 @@
     "price": 31.54,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Mecha Industries"
+    "item_name": "M4A1-S | Mecha Industries",
+    "rarity": "Covert",
+    "paint_index": "587"
   },
   {
     "id": "skin-3934508",
@@ -2727,7 +3115,9 @@
     "price": 20.64,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Mecha Industries"
+    "item_name": "M4A1-S | Mecha Industries",
+    "rarity": "Covert",
+    "paint_index": "587"
   },
   {
     "id": "skin-3934508",
@@ -2741,7 +3131,9 @@
     "price": 56.22,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Mecha Industries"
+    "item_name": "M4A1-S | Mecha Industries",
+    "rarity": "Covert",
+    "paint_index": "587"
   },
   {
     "id": "skin-3934508",
@@ -2755,7 +3147,9 @@
     "price": 38.03,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M4A1-S | Mecha Industries"
+    "item_name": "M4A1-S | Mecha Industries",
+    "rarity": "Covert",
+    "paint_index": "587"
   },
   {
     "id": "skin-3934508",
@@ -2769,7 +3163,9 @@
     "price": 15.77,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Mecha Industries"
+    "item_name": "M4A1-S | Mecha Industries",
+    "rarity": "Covert",
+    "paint_index": "587"
   },
   {
     "id": "skin-3937132",
@@ -2783,7 +3179,9 @@
     "price": 0.24,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Mud-Spec"
+    "item_name": "M4A1-S | Mud-Spec",
+    "rarity": "Industrial Grade",
+    "paint_index": "1243"
   },
   {
     "id": "skin-3937132",
@@ -2797,7 +3195,9 @@
     "price": 0.28,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Mud-Spec"
+    "item_name": "M4A1-S | Mud-Spec",
+    "rarity": "Industrial Grade",
+    "paint_index": "1243"
   },
   {
     "id": "skin-3937132",
@@ -2811,7 +3211,9 @@
     "price": 0.26,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Mud-Spec"
+    "item_name": "M4A1-S | Mud-Spec",
+    "rarity": "Industrial Grade",
+    "paint_index": "1243"
   },
   {
     "id": "skin-3937132",
@@ -2825,7 +3227,9 @@
     "price": 0.82,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Mud-Spec"
+    "item_name": "M4A1-S | Mud-Spec",
+    "rarity": "Industrial Grade",
+    "paint_index": "1243"
   },
   {
     "id": "skin-3937132",
@@ -2839,7 +3243,9 @@
     "price": 0.13,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Mud-Spec"
+    "item_name": "M4A1-S | Mud-Spec",
+    "rarity": "Industrial Grade",
+    "paint_index": "1243"
   },
   {
     "id": "skin-3932400",
@@ -2853,7 +3259,9 @@
     "price": 52.31,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Dark Water"
+    "item_name": "M4A1-S | Dark Water",
+    "rarity": "Restricted",
+    "paint_index": "60"
   },
   {
     "id": "skin-3932400",
@@ -2867,7 +3275,9 @@
     "price": 92.97,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M4A1-S | Dark Water"
+    "item_name": "M4A1-S | Dark Water",
+    "rarity": "Restricted",
+    "paint_index": "60"
   },
   {
     "id": "skin-3932400",
@@ -2881,7 +3291,9 @@
     "price": 54.51,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Dark Water"
+    "item_name": "M4A1-S | Dark Water",
+    "rarity": "Restricted",
+    "paint_index": "60"
   },
   {
     "id": "skin-3932400",
@@ -2895,7 +3307,9 @@
     "price": 94.96,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M4A1-S | Dark Water"
+    "item_name": "M4A1-S | Dark Water",
+    "rarity": "Restricted",
+    "paint_index": "60"
   },
   {
     "id": "skin-3933444",
@@ -2909,7 +3323,9 @@
     "price": 66.82,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Master Piece"
+    "item_name": "M4A1-S | Master Piece",
+    "rarity": "Classified",
+    "paint_index": "321"
   },
   {
     "id": "skin-3933444",
@@ -2923,7 +3339,9 @@
     "price": 196.03,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Master Piece"
+    "item_name": "M4A1-S | Master Piece",
+    "rarity": "Classified",
+    "paint_index": "321"
   },
   {
     "id": "skin-3933444",
@@ -2937,7 +3355,9 @@
     "price": 81.52,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Master Piece"
+    "item_name": "M4A1-S | Master Piece",
+    "rarity": "Classified",
+    "paint_index": "321"
   },
   {
     "id": "skin-3933444",
@@ -2951,7 +3371,9 @@
     "price": 118.76,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Master Piece"
+    "item_name": "M4A1-S | Master Piece",
+    "rarity": "Classified",
+    "paint_index": "321"
   },
   {
     "id": "skin-3933444",
@@ -2965,7 +3387,9 @@
     "price": 396.03,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Master Piece"
+    "item_name": "M4A1-S | Master Piece",
+    "rarity": "Classified",
+    "paint_index": "321"
   },
   {
     "id": "skin-3933920",
@@ -2979,7 +3403,9 @@
     "price": 390.82,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Icarus Fell"
+    "item_name": "M4A1-S | Icarus Fell",
+    "rarity": "Restricted",
+    "paint_index": "440"
   },
   {
     "id": "skin-3933920",
@@ -2993,7 +3419,9 @@
     "price": 350.1,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Icarus Fell"
+    "item_name": "M4A1-S | Icarus Fell",
+    "rarity": "Restricted",
+    "paint_index": "440"
   },
   {
     "id": "skin-3935016",
@@ -3007,7 +3435,9 @@
     "price": 5.16,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Nightmare"
+    "item_name": "M4A1-S | Nightmare",
+    "rarity": "Classified",
+    "paint_index": "714"
   },
   {
     "id": "skin-3935016",
@@ -3021,7 +3451,9 @@
     "price": 14.88,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Nightmare"
+    "item_name": "M4A1-S | Nightmare",
+    "rarity": "Classified",
+    "paint_index": "714"
   },
   {
     "id": "skin-3935016",
@@ -3035,7 +3467,9 @@
     "price": 43.88,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M4A1-S | Nightmare"
+    "item_name": "M4A1-S | Nightmare",
+    "rarity": "Classified",
+    "paint_index": "714"
   },
   {
     "id": "skin-3935016",
@@ -3049,7 +3483,9 @@
     "price": 7.13,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Nightmare"
+    "item_name": "M4A1-S | Nightmare",
+    "rarity": "Classified",
+    "paint_index": "714"
   },
   {
     "id": "skin-3935016",
@@ -3063,7 +3499,9 @@
     "price": 96.68,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M4A1-S | Nightmare"
+    "item_name": "M4A1-S | Nightmare",
+    "rarity": "Classified",
+    "paint_index": "714"
   },
   {
     "id": "skin-3935016",
@@ -3077,7 +3515,9 @@
     "price": 32.84,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Nightmare"
+    "item_name": "M4A1-S | Nightmare",
+    "rarity": "Classified",
+    "paint_index": "714"
   },
   {
     "id": "skin-3935016",
@@ -3091,7 +3531,9 @@
     "price": 17.62,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M4A1-S | Nightmare"
+    "item_name": "M4A1-S | Nightmare",
+    "rarity": "Classified",
+    "paint_index": "714"
   },
   {
     "id": "skin-3935016",
@@ -3105,7 +3547,9 @@
     "price": 18.2,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M4A1-S | Nightmare"
+    "item_name": "M4A1-S | Nightmare",
+    "rarity": "Classified",
+    "paint_index": "714"
   },
   {
     "id": "skin-3935016",
@@ -3119,7 +3563,9 @@
     "price": 19.47,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M4A1-S | Nightmare"
+    "item_name": "M4A1-S | Nightmare",
+    "rarity": "Classified",
+    "paint_index": "714"
   },
   {
     "id": "skin-3935016",
@@ -3133,7 +3579,9 @@
     "price": 5.45,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Nightmare"
+    "item_name": "M4A1-S | Nightmare",
+    "rarity": "Classified",
+    "paint_index": "714"
   },
   {
     "id": "skin-3936164",
@@ -3147,7 +3595,9 @@
     "price": 582.67,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Welcome to the Jungle"
+    "item_name": "M4A1-S | Welcome to the Jungle",
+    "rarity": "Covert",
+    "paint_index": "1001"
   },
   {
     "id": "skin-3936164",
@@ -3161,7 +3611,9 @@
     "price": 913.15,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Welcome to the Jungle"
+    "item_name": "M4A1-S | Welcome to the Jungle",
+    "rarity": "Covert",
+    "paint_index": "1001"
   },
   {
     "id": "skin-3936164",
@@ -3175,7 +3627,9 @@
     "price": 1823.29,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Welcome to the Jungle"
+    "item_name": "M4A1-S | Welcome to the Jungle",
+    "rarity": "Covert",
+    "paint_index": "1001"
   },
   {
     "id": "skin-3936164",
@@ -3189,7 +3643,9 @@
     "price": 1411.08,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Welcome to the Jungle"
+    "item_name": "M4A1-S | Welcome to the Jungle",
+    "rarity": "Covert",
+    "paint_index": "1001"
   },
   {
     "id": "skin-3936164",
@@ -3203,7 +3659,9 @@
     "price": 500.46,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Welcome to the Jungle"
+    "item_name": "M4A1-S | Welcome to the Jungle",
+    "rarity": "Covert",
+    "paint_index": "1001"
   },
   {
     "id": "skin-3936396",
@@ -3217,7 +3675,9 @@
     "price": 0.71,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Fizzy POP"
+    "item_name": "M4A1-S | Fizzy POP",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1059"
   },
   {
     "id": "skin-3936396",
@@ -3231,7 +3691,9 @@
     "price": 0.82,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Fizzy POP"
+    "item_name": "M4A1-S | Fizzy POP",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1059"
   },
   {
     "id": "skin-3936396",
@@ -3245,7 +3707,9 @@
     "price": 0.96,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Fizzy POP"
+    "item_name": "M4A1-S | Fizzy POP",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1059"
   },
   {
     "id": "skin-3936396",
@@ -3259,7 +3723,9 @@
     "price": 0.75,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Fizzy POP"
+    "item_name": "M4A1-S | Fizzy POP",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1059"
   },
   {
     "id": "skin-3936396",
@@ -3273,7 +3739,9 @@
     "price": 1.74,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Fizzy POP"
+    "item_name": "M4A1-S | Fizzy POP",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1059"
   },
   {
     "id": "skin-3936228",
@@ -3287,7 +3755,9 @@
     "price": 452.33,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Blue Phosphor"
+    "item_name": "M4A1-S | Blue Phosphor",
+    "rarity": "Classified",
+    "paint_index": "1017"
   },
   {
     "id": "skin-3936228",
@@ -3301,7 +3771,9 @@
     "price": 518.35,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Blue Phosphor"
+    "item_name": "M4A1-S | Blue Phosphor",
+    "rarity": "Classified",
+    "paint_index": "1017"
   },
   {
     "id": "skin-3932916",
@@ -3315,7 +3787,9 @@
     "price": 49.3,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M4A1-S | Bright Water"
+    "item_name": "M4A1-S | Bright Water",
+    "rarity": "Restricted",
+    "paint_index": "189"
   },
   {
     "id": "skin-3932916",
@@ -3329,7 +3803,9 @@
     "price": 47.64,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "M4A1-S | Bright Water"
+    "item_name": "M4A1-S | Bright Water",
+    "rarity": "Restricted",
+    "paint_index": "189"
   },
   {
     "id": "skin-3932916",
@@ -3343,7 +3819,9 @@
     "price": 19.81,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Bright Water"
+    "item_name": "M4A1-S | Bright Water",
+    "rarity": "Restricted",
+    "paint_index": "189"
   },
   {
     "id": "skin-3932916",
@@ -3357,7 +3835,9 @@
     "price": 20.14,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Bright Water"
+    "item_name": "M4A1-S | Bright Water",
+    "rarity": "Restricted",
+    "paint_index": "189"
   },
   {
     "id": "skin-3933464",
@@ -3371,7 +3851,9 @@
     "price": 2525.27,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Knight"
+    "item_name": "M4A1-S | Knight",
+    "rarity": "Classified",
+    "paint_index": "326"
   },
   {
     "id": "skin-3933464",
@@ -3385,6 +3867,8 @@
     "price": 0,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "M4A1-S | Knight"
+    "item_name": "M4A1-S | Knight",
+    "rarity": "Classified",
+    "paint_index": "326"
   }
 ]

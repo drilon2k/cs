@@ -11,7 +11,9 @@
     "price": 41.41,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Jaguar"
+    "item_name": "AK-47 | Jaguar",
+    "rarity": "Covert",
+    "paint_index": "316"
   },
   {
     "id": "skin-460016",
@@ -25,7 +27,9 @@
     "price": 179.22,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Jaguar"
+    "item_name": "AK-47 | Jaguar",
+    "rarity": "Covert",
+    "paint_index": "316"
   },
   {
     "id": "skin-460016",
@@ -39,7 +43,9 @@
     "price": 449.38,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Jaguar"
+    "item_name": "AK-47 | Jaguar",
+    "rarity": "Covert",
+    "paint_index": "316"
   },
   {
     "id": "skin-460016",
@@ -53,7 +59,9 @@
     "price": 25.99,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Jaguar"
+    "item_name": "AK-47 | Jaguar",
+    "rarity": "Covert",
+    "paint_index": "316"
   },
   {
     "id": "skin-460016",
@@ -67,7 +75,9 @@
     "price": 80.63,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Jaguar"
+    "item_name": "AK-47 | Jaguar",
+    "rarity": "Covert",
+    "paint_index": "316"
   },
   {
     "id": "skin-460016",
@@ -81,7 +91,9 @@
     "price": 134.39,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Jaguar"
+    "item_name": "AK-47 | Jaguar",
+    "rarity": "Covert",
+    "paint_index": "316"
   },
   {
     "id": "skin-460016",
@@ -95,7 +107,9 @@
     "price": 24.55,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Jaguar"
+    "item_name": "AK-47 | Jaguar",
+    "rarity": "Covert",
+    "paint_index": "316"
   },
   {
     "id": "skin-460016",
@@ -109,7 +123,9 @@
     "price": 25.03,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Jaguar"
+    "item_name": "AK-47 | Jaguar",
+    "rarity": "Covert",
+    "paint_index": "316"
   },
   {
     "id": "skin-460016",
@@ -123,7 +139,9 @@
     "price": 71.15,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Jaguar"
+    "item_name": "AK-47 | Jaguar",
+    "rarity": "Covert",
+    "paint_index": "316"
   },
   {
     "id": "skin-460016",
@@ -137,7 +155,9 @@
     "price": 88.83,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Jaguar"
+    "item_name": "AK-47 | Jaguar",
+    "rarity": "Covert",
+    "paint_index": "316"
   },
   {
     "id": "skin-461580",
@@ -151,7 +171,9 @@
     "price": 56.94,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Neon Rider"
+    "item_name": "AK-47 | Neon Rider",
+    "rarity": "Covert",
+    "paint_index": "707"
   },
   {
     "id": "skin-461580",
@@ -165,7 +187,9 @@
     "price": 102.43,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Neon Rider"
+    "item_name": "AK-47 | Neon Rider",
+    "rarity": "Covert",
+    "paint_index": "707"
   },
   {
     "id": "skin-461580",
@@ -179,7 +203,9 @@
     "price": 46.97,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Neon Rider"
+    "item_name": "AK-47 | Neon Rider",
+    "rarity": "Covert",
+    "paint_index": "707"
   },
   {
     "id": "skin-461580",
@@ -193,7 +219,9 @@
     "price": 38.94,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Neon Rider"
+    "item_name": "AK-47 | Neon Rider",
+    "rarity": "Covert",
+    "paint_index": "707"
   },
   {
     "id": "skin-461580",
@@ -207,7 +235,9 @@
     "price": 17.53,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Neon Rider"
+    "item_name": "AK-47 | Neon Rider",
+    "rarity": "Covert",
+    "paint_index": "707"
   },
   {
     "id": "skin-461580",
@@ -221,7 +251,9 @@
     "price": 112.79,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Neon Rider"
+    "item_name": "AK-47 | Neon Rider",
+    "rarity": "Covert",
+    "paint_index": "707"
   },
   {
     "id": "skin-461580",
@@ -235,7 +267,9 @@
     "price": 23.98,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Neon Rider"
+    "item_name": "AK-47 | Neon Rider",
+    "rarity": "Covert",
+    "paint_index": "707"
   },
   {
     "id": "skin-461580",
@@ -249,7 +283,9 @@
     "price": 29.13,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Neon Rider"
+    "item_name": "AK-47 | Neon Rider",
+    "rarity": "Covert",
+    "paint_index": "707"
   },
   {
     "id": "skin-461580",
@@ -263,7 +299,9 @@
     "price": 80.43,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Neon Rider"
+    "item_name": "AK-47 | Neon Rider",
+    "rarity": "Covert",
+    "paint_index": "707"
   },
   {
     "id": "skin-461580",
@@ -277,7 +315,9 @@
     "price": 285.23,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Neon Rider"
+    "item_name": "AK-47 | Neon Rider",
+    "rarity": "Covert",
+    "paint_index": "707"
   },
   {
     "id": "skin-461956",
@@ -291,7 +331,9 @@
     "price": 20.23,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Asiimov"
+    "item_name": "AK-47 | Asiimov",
+    "rarity": "Covert",
+    "paint_index": "801"
   },
   {
     "id": "skin-461956",
@@ -305,7 +347,9 @@
     "price": 42.99,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Asiimov"
+    "item_name": "AK-47 | Asiimov",
+    "rarity": "Covert",
+    "paint_index": "801"
   },
   {
     "id": "skin-461956",
@@ -319,7 +363,9 @@
     "price": 20.57,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Asiimov"
+    "item_name": "AK-47 | Asiimov",
+    "rarity": "Covert",
+    "paint_index": "801"
   },
   {
     "id": "skin-461956",
@@ -333,7 +379,9 @@
     "price": 37.7,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Asiimov"
+    "item_name": "AK-47 | Asiimov",
+    "rarity": "Covert",
+    "paint_index": "801"
   },
   {
     "id": "skin-461956",
@@ -347,7 +395,9 @@
     "price": 84.68,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Asiimov"
+    "item_name": "AK-47 | Asiimov",
+    "rarity": "Covert",
+    "paint_index": "801"
   },
   {
     "id": "skin-461956",
@@ -361,7 +411,9 @@
     "price": 63.55,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Asiimov"
+    "item_name": "AK-47 | Asiimov",
+    "rarity": "Covert",
+    "paint_index": "801"
   },
   {
     "id": "skin-461956",
@@ -375,7 +427,9 @@
     "price": 452.53,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Asiimov"
+    "item_name": "AK-47 | Asiimov",
+    "rarity": "Covert",
+    "paint_index": "801"
   },
   {
     "id": "skin-461956",
@@ -389,7 +443,9 @@
     "price": 35.04,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Asiimov"
+    "item_name": "AK-47 | Asiimov",
+    "rarity": "Covert",
+    "paint_index": "801"
   },
   {
     "id": "skin-461956",
@@ -403,7 +459,9 @@
     "price": 154.68,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Asiimov"
+    "item_name": "AK-47 | Asiimov",
+    "rarity": "Covert",
+    "paint_index": "801"
   },
   {
     "id": "skin-461956",
@@ -417,7 +475,9 @@
     "price": 15.35,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Asiimov"
+    "item_name": "AK-47 | Asiimov",
+    "rarity": "Covert",
+    "paint_index": "801"
   },
   {
     "id": "skin-461152",
@@ -431,7 +491,9 @@
     "price": 16.46,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Neon Revolution"
+    "item_name": "AK-47 | Neon Revolution",
+    "rarity": "Covert",
+    "paint_index": "600"
   },
   {
     "id": "skin-461152",
@@ -445,7 +507,9 @@
     "price": 32.64,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Neon Revolution"
+    "item_name": "AK-47 | Neon Revolution",
+    "rarity": "Covert",
+    "paint_index": "600"
   },
   {
     "id": "skin-461152",
@@ -459,7 +523,9 @@
     "price": 53.48,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Neon Revolution"
+    "item_name": "AK-47 | Neon Revolution",
+    "rarity": "Covert",
+    "paint_index": "600"
   },
   {
     "id": "skin-461152",
@@ -473,7 +539,9 @@
     "price": 32.21,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Neon Revolution"
+    "item_name": "AK-47 | Neon Revolution",
+    "rarity": "Covert",
+    "paint_index": "600"
   },
   {
     "id": "skin-461152",
@@ -487,7 +555,9 @@
     "price": 10.79,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Neon Revolution"
+    "item_name": "AK-47 | Neon Revolution",
+    "rarity": "Covert",
+    "paint_index": "600"
   },
   {
     "id": "skin-461152",
@@ -501,7 +571,9 @@
     "price": 133.91,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Neon Revolution"
+    "item_name": "AK-47 | Neon Revolution",
+    "rarity": "Covert",
+    "paint_index": "600"
   },
   {
     "id": "skin-461152",
@@ -515,7 +587,9 @@
     "price": 49.44,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Neon Revolution"
+    "item_name": "AK-47 | Neon Revolution",
+    "rarity": "Covert",
+    "paint_index": "600"
   },
   {
     "id": "skin-461152",
@@ -529,7 +603,9 @@
     "price": 10.41,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Neon Revolution"
+    "item_name": "AK-47 | Neon Revolution",
+    "rarity": "Covert",
+    "paint_index": "600"
   },
   {
     "id": "skin-461152",
@@ -543,7 +619,9 @@
     "price": 18.92,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Neon Revolution"
+    "item_name": "AK-47 | Neon Revolution",
+    "rarity": "Covert",
+    "paint_index": "600"
   },
   {
     "id": "skin-461152",
@@ -557,7 +635,9 @@
     "price": 45.6,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Neon Revolution"
+    "item_name": "AK-47 | Neon Revolution",
+    "rarity": "Covert",
+    "paint_index": "600"
   },
   {
     "id": "skin-462516",
@@ -571,7 +651,9 @@
     "price": 14.5,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Phantom Disruptor"
+    "item_name": "AK-47 | Phantom Disruptor",
+    "rarity": "Classified",
+    "paint_index": "941"
   },
   {
     "id": "skin-462516",
@@ -585,7 +667,9 @@
     "price": 13.55,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Phantom Disruptor"
+    "item_name": "AK-47 | Phantom Disruptor",
+    "rarity": "Classified",
+    "paint_index": "941"
   },
   {
     "id": "skin-462516",
@@ -599,7 +683,9 @@
     "price": 10.34,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Phantom Disruptor"
+    "item_name": "AK-47 | Phantom Disruptor",
+    "rarity": "Classified",
+    "paint_index": "941"
   },
   {
     "id": "skin-462516",
@@ -613,7 +699,9 @@
     "price": 4.55,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Phantom Disruptor"
+    "item_name": "AK-47 | Phantom Disruptor",
+    "rarity": "Classified",
+    "paint_index": "941"
   },
   {
     "id": "skin-462516",
@@ -627,7 +715,9 @@
     "price": 8.15,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Phantom Disruptor"
+    "item_name": "AK-47 | Phantom Disruptor",
+    "rarity": "Classified",
+    "paint_index": "941"
   },
   {
     "id": "skin-462516",
@@ -641,7 +731,9 @@
     "price": 3.04,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Phantom Disruptor"
+    "item_name": "AK-47 | Phantom Disruptor",
+    "rarity": "Classified",
+    "paint_index": "941"
   },
   {
     "id": "skin-462516",
@@ -655,7 +747,9 @@
     "price": 3.32,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Phantom Disruptor"
+    "item_name": "AK-47 | Phantom Disruptor",
+    "rarity": "Classified",
+    "paint_index": "941"
   },
   {
     "id": "skin-462516",
@@ -669,7 +763,9 @@
     "price": 8.78,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Phantom Disruptor"
+    "item_name": "AK-47 | Phantom Disruptor",
+    "rarity": "Classified",
+    "paint_index": "941"
   },
   {
     "id": "skin-462516",
@@ -683,7 +779,9 @@
     "price": 4.05,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Phantom Disruptor"
+    "item_name": "AK-47 | Phantom Disruptor",
+    "rarity": "Classified",
+    "paint_index": "941"
   },
   {
     "id": "skin-462516",
@@ -697,7 +795,9 @@
     "price": 32.83,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Phantom Disruptor"
+    "item_name": "AK-47 | Phantom Disruptor",
+    "rarity": "Classified",
+    "paint_index": "941"
   },
   {
     "id": "skin-463100",
@@ -711,7 +811,9 @@
     "price": 38.19,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Leet Museo"
+    "item_name": "AK-47 | Leet Museo",
+    "rarity": "Covert",
+    "paint_index": "1087"
   },
   {
     "id": "skin-463100",
@@ -725,7 +827,9 @@
     "price": 12.59,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Leet Museo"
+    "item_name": "AK-47 | Leet Museo",
+    "rarity": "Covert",
+    "paint_index": "1087"
   },
   {
     "id": "skin-463100",
@@ -739,7 +843,9 @@
     "price": 52.45,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Leet Museo"
+    "item_name": "AK-47 | Leet Museo",
+    "rarity": "Covert",
+    "paint_index": "1087"
   },
   {
     "id": "skin-463100",
@@ -753,7 +859,9 @@
     "price": 40.78,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Leet Museo"
+    "item_name": "AK-47 | Leet Museo",
+    "rarity": "Covert",
+    "paint_index": "1087"
   },
   {
     "id": "skin-463100",
@@ -767,7 +875,9 @@
     "price": 19.47,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Leet Museo"
+    "item_name": "AK-47 | Leet Museo",
+    "rarity": "Covert",
+    "paint_index": "1087"
   },
   {
     "id": "skin-463100",
@@ -781,7 +891,9 @@
     "price": 13.5,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Leet Museo"
+    "item_name": "AK-47 | Leet Museo",
+    "rarity": "Covert",
+    "paint_index": "1087"
   },
   {
     "id": "skin-463100",
@@ -795,7 +907,9 @@
     "price": 134.39,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Leet Museo"
+    "item_name": "AK-47 | Leet Museo",
+    "rarity": "Covert",
+    "paint_index": "1087"
   },
   {
     "id": "skin-463100",
@@ -809,7 +923,9 @@
     "price": 15.1,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Leet Museo"
+    "item_name": "AK-47 | Leet Museo",
+    "rarity": "Covert",
+    "paint_index": "1087"
   },
   {
     "id": "skin-463100",
@@ -823,7 +939,9 @@
     "price": 65.2,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Leet Museo"
+    "item_name": "AK-47 | Leet Museo",
+    "rarity": "Covert",
+    "paint_index": "1087"
   },
   {
     "id": "skin-463100",
@@ -837,7 +955,9 @@
     "price": 40.87,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Leet Museo"
+    "item_name": "AK-47 | Leet Museo",
+    "rarity": "Covert",
+    "paint_index": "1087"
   },
   {
     "id": "skin-460328",
@@ -851,7 +971,9 @@
     "price": 6.17,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Cartel"
+    "item_name": "AK-47 | Cartel",
+    "rarity": "Classified",
+    "paint_index": "394"
   },
   {
     "id": "skin-460328",
@@ -865,7 +987,9 @@
     "price": 27.22,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Cartel"
+    "item_name": "AK-47 | Cartel",
+    "rarity": "Classified",
+    "paint_index": "394"
   },
   {
     "id": "skin-460328",
@@ -879,7 +1003,9 @@
     "price": 8.75,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Cartel"
+    "item_name": "AK-47 | Cartel",
+    "rarity": "Classified",
+    "paint_index": "394"
   },
   {
     "id": "skin-460328",
@@ -893,7 +1019,9 @@
     "price": 19.85,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Cartel"
+    "item_name": "AK-47 | Cartel",
+    "rarity": "Classified",
+    "paint_index": "394"
   },
   {
     "id": "skin-460328",
@@ -907,7 +1035,9 @@
     "price": 54.17,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Cartel"
+    "item_name": "AK-47 | Cartel",
+    "rarity": "Classified",
+    "paint_index": "394"
   },
   {
     "id": "skin-460328",
@@ -921,7 +1051,9 @@
     "price": 7.95,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Cartel"
+    "item_name": "AK-47 | Cartel",
+    "rarity": "Classified",
+    "paint_index": "394"
   },
   {
     "id": "skin-460328",
@@ -935,7 +1067,9 @@
     "price": 19.27,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Cartel"
+    "item_name": "AK-47 | Cartel",
+    "rarity": "Classified",
+    "paint_index": "394"
   },
   {
     "id": "skin-460328",
@@ -949,7 +1083,9 @@
     "price": 25.51,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Cartel"
+    "item_name": "AK-47 | Cartel",
+    "rarity": "Classified",
+    "paint_index": "394"
   },
   {
     "id": "skin-460328",
@@ -963,7 +1099,9 @@
     "price": 17.83,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Cartel"
+    "item_name": "AK-47 | Cartel",
+    "rarity": "Classified",
+    "paint_index": "394"
   },
   {
     "id": "skin-460328",
@@ -977,7 +1115,9 @@
     "price": 6.1,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Cartel"
+    "item_name": "AK-47 | Cartel",
+    "rarity": "Classified",
+    "paint_index": "394"
   },
   {
     "id": "skin-463636",
@@ -991,7 +1131,9 @@
     "price": 15.08,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Head Shot"
+    "item_name": "AK-47 | Head Shot",
+    "rarity": "Covert",
+    "paint_index": "1221"
   },
   {
     "id": "skin-463636",
@@ -1005,7 +1147,9 @@
     "price": 37.5,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Head Shot"
+    "item_name": "AK-47 | Head Shot",
+    "rarity": "Covert",
+    "paint_index": "1221"
   },
   {
     "id": "skin-463636",
@@ -1019,7 +1163,9 @@
     "price": 7.61,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Head Shot"
+    "item_name": "AK-47 | Head Shot",
+    "rarity": "Covert",
+    "paint_index": "1221"
   },
   {
     "id": "skin-463636",
@@ -1033,7 +1179,9 @@
     "price": 9.85,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Head Shot"
+    "item_name": "AK-47 | Head Shot",
+    "rarity": "Covert",
+    "paint_index": "1221"
   },
   {
     "id": "skin-463636",
@@ -1047,7 +1195,9 @@
     "price": 68.02,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Head Shot"
+    "item_name": "AK-47 | Head Shot",
+    "rarity": "Covert",
+    "paint_index": "1221"
   },
   {
     "id": "skin-463636",
@@ -1061,7 +1211,9 @@
     "price": 76.04,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Head Shot"
+    "item_name": "AK-47 | Head Shot",
+    "rarity": "Covert",
+    "paint_index": "1221"
   },
   {
     "id": "skin-463636",
@@ -1075,7 +1227,9 @@
     "price": 25.23,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Head Shot"
+    "item_name": "AK-47 | Head Shot",
+    "rarity": "Covert",
+    "paint_index": "1221"
   },
   {
     "id": "skin-463636",
@@ -1089,7 +1243,9 @@
     "price": 24.41,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Head Shot"
+    "item_name": "AK-47 | Head Shot",
+    "rarity": "Covert",
+    "paint_index": "1221"
   },
   {
     "id": "skin-463636",
@@ -1103,7 +1259,9 @@
     "price": 29.48,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Head Shot"
+    "item_name": "AK-47 | Head Shot",
+    "rarity": "Covert",
+    "paint_index": "1221"
   },
   {
     "id": "skin-463636",
@@ -1117,7 +1275,9 @@
     "price": 205.7,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Head Shot"
+    "item_name": "AK-47 | Head Shot",
+    "rarity": "Covert",
+    "paint_index": "1221"
   },
   {
     "id": "skin-460272",
@@ -1131,7 +1291,9 @@
     "price": 70.07,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Wasteland Rebel"
+    "item_name": "AK-47 | Wasteland Rebel",
+    "rarity": "Covert",
+    "paint_index": "380"
   },
   {
     "id": "skin-460272",
@@ -1145,7 +1307,9 @@
     "price": 167.3,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Wasteland Rebel"
+    "item_name": "AK-47 | Wasteland Rebel",
+    "rarity": "Covert",
+    "paint_index": "380"
   },
   {
     "id": "skin-460272",
@@ -1159,7 +1323,9 @@
     "price": 18.51,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Wasteland Rebel"
+    "item_name": "AK-47 | Wasteland Rebel",
+    "rarity": "Covert",
+    "paint_index": "380"
   },
   {
     "id": "skin-460272",
@@ -1173,7 +1339,9 @@
     "price": 72.68,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Wasteland Rebel"
+    "item_name": "AK-47 | Wasteland Rebel",
+    "rarity": "Covert",
+    "paint_index": "380"
   },
   {
     "id": "skin-460272",
@@ -1187,7 +1355,9 @@
     "price": 29.48,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Wasteland Rebel"
+    "item_name": "AK-47 | Wasteland Rebel",
+    "rarity": "Covert",
+    "paint_index": "380"
   },
   {
     "id": "skin-460272",
@@ -1201,7 +1371,9 @@
     "price": 34.01,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Wasteland Rebel"
+    "item_name": "AK-47 | Wasteland Rebel",
+    "rarity": "Covert",
+    "paint_index": "380"
   },
   {
     "id": "skin-460272",
@@ -1215,7 +1387,9 @@
     "price": 126.43,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Wasteland Rebel"
+    "item_name": "AK-47 | Wasteland Rebel",
+    "rarity": "Covert",
+    "paint_index": "380"
   },
   {
     "id": "skin-460272",
@@ -1229,7 +1403,9 @@
     "price": 19.61,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Wasteland Rebel"
+    "item_name": "AK-47 | Wasteland Rebel",
+    "rarity": "Covert",
+    "paint_index": "380"
   },
   {
     "id": "skin-460272",
@@ -1243,7 +1419,9 @@
     "price": 98.73,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Wasteland Rebel"
+    "item_name": "AK-47 | Wasteland Rebel",
+    "rarity": "Covert",
+    "paint_index": "380"
   },
   {
     "id": "skin-460272",
@@ -1257,7 +1435,9 @@
     "price": 987.34,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Wasteland Rebel"
+    "item_name": "AK-47 | Wasteland Rebel",
+    "rarity": "Covert",
+    "paint_index": "380"
   },
   {
     "id": "skin-462824",
@@ -1271,7 +1451,9 @@
     "price": 203.77,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Panthera onca"
+    "item_name": "AK-47 | Panthera onca",
+    "rarity": "Classified",
+    "paint_index": "1018"
   },
   {
     "id": "skin-462824",
@@ -1285,7 +1467,9 @@
     "price": 124.79,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Panthera onca"
+    "item_name": "AK-47 | Panthera onca",
+    "rarity": "Classified",
+    "paint_index": "1018"
   },
   {
     "id": "skin-462824",
@@ -1299,7 +1483,9 @@
     "price": 175.39,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Panthera onca"
+    "item_name": "AK-47 | Panthera onca",
+    "rarity": "Classified",
+    "paint_index": "1018"
   },
   {
     "id": "skin-462824",
@@ -1313,7 +1499,9 @@
     "price": 253.69,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Panthera onca"
+    "item_name": "AK-47 | Panthera onca",
+    "rarity": "Classified",
+    "paint_index": "1018"
   },
   {
     "id": "skin-462824",
@@ -1327,7 +1515,9 @@
     "price": 114.92,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Panthera onca"
+    "item_name": "AK-47 | Panthera onca",
+    "rarity": "Classified",
+    "paint_index": "1018"
   },
   {
     "id": "skin-459432",
@@ -1341,7 +1531,9 @@
     "price": 11.24,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Predator"
+    "item_name": "AK-47 | Predator",
+    "rarity": "Industrial Grade",
+    "paint_index": "170"
   },
   {
     "id": "skin-459432",
@@ -1355,7 +1547,9 @@
     "price": 11.55,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Predator"
+    "item_name": "AK-47 | Predator",
+    "rarity": "Industrial Grade",
+    "paint_index": "170"
   },
   {
     "id": "skin-459432",
@@ -1369,7 +1563,9 @@
     "price": 10.52,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Predator"
+    "item_name": "AK-47 | Predator",
+    "rarity": "Industrial Grade",
+    "paint_index": "170"
   },
   {
     "id": "skin-459432",
@@ -1383,7 +1579,9 @@
     "price": 11.85,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Predator"
+    "item_name": "AK-47 | Predator",
+    "rarity": "Industrial Grade",
+    "paint_index": "170"
   },
   {
     "id": "skin-459432",
@@ -1397,7 +1595,9 @@
     "price": 49.04,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Predator"
+    "item_name": "AK-47 | Predator",
+    "rarity": "Industrial Grade",
+    "paint_index": "170"
   },
   {
     "id": "skin-461376",
@@ -1411,7 +1611,9 @@
     "price": 9.57,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Orbit Mk01"
+    "item_name": "AK-47 | Orbit Mk01",
+    "rarity": "Restricted",
+    "paint_index": "656"
   },
   {
     "id": "skin-461376",
@@ -1425,7 +1627,9 @@
     "price": 9.69,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Orbit Mk01"
+    "item_name": "AK-47 | Orbit Mk01",
+    "rarity": "Restricted",
+    "paint_index": "656"
   },
   {
     "id": "skin-461376",
@@ -1439,7 +1643,9 @@
     "price": 26.05,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Orbit Mk01"
+    "item_name": "AK-47 | Orbit Mk01",
+    "rarity": "Restricted",
+    "paint_index": "656"
   },
   {
     "id": "skin-461376",
@@ -1453,7 +1659,9 @@
     "price": 8.08,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Orbit Mk01"
+    "item_name": "AK-47 | Orbit Mk01",
+    "rarity": "Restricted",
+    "paint_index": "656"
   },
   {
     "id": "skin-461376",
@@ -1467,7 +1675,9 @@
     "price": 35.17,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Orbit Mk01"
+    "item_name": "AK-47 | Orbit Mk01",
+    "rarity": "Restricted",
+    "paint_index": "656"
   },
   {
     "id": "skin-461376",
@@ -1481,7 +1691,9 @@
     "price": 29.34,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Orbit Mk01"
+    "item_name": "AK-47 | Orbit Mk01",
+    "rarity": "Restricted",
+    "paint_index": "656"
   },
   {
     "id": "skin-461376",
@@ -1495,7 +1707,9 @@
     "price": 9.87,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Orbit Mk01"
+    "item_name": "AK-47 | Orbit Mk01",
+    "rarity": "Restricted",
+    "paint_index": "656"
   },
   {
     "id": "skin-461376",
@@ -1509,7 +1723,9 @@
     "price": 54.58,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Orbit Mk01"
+    "item_name": "AK-47 | Orbit Mk01",
+    "rarity": "Restricted",
+    "paint_index": "656"
   },
   {
     "id": "skin-461376",
@@ -1523,7 +1739,9 @@
     "price": 23.31,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Orbit Mk01"
+    "item_name": "AK-47 | Orbit Mk01",
+    "rarity": "Restricted",
+    "paint_index": "656"
   },
   {
     "id": "skin-461376",
@@ -1537,7 +1755,9 @@
     "price": 14.77,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Orbit Mk01"
+    "item_name": "AK-47 | Orbit Mk01",
+    "rarity": "Restricted",
+    "paint_index": "656"
   },
   {
     "id": "skin-462292",
@@ -1551,7 +1771,9 @@
     "price": 7.73,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Rat Rod"
+    "item_name": "AK-47 | Rat Rod",
+    "rarity": "Restricted",
+    "paint_index": "885"
   },
   {
     "id": "skin-462292",
@@ -1565,7 +1787,9 @@
     "price": 13.5,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Rat Rod"
+    "item_name": "AK-47 | Rat Rod",
+    "rarity": "Restricted",
+    "paint_index": "885"
   },
   {
     "id": "skin-462292",
@@ -1579,7 +1803,9 @@
     "price": 2.82,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Rat Rod"
+    "item_name": "AK-47 | Rat Rod",
+    "rarity": "Restricted",
+    "paint_index": "885"
   },
   {
     "id": "skin-462292",
@@ -1593,7 +1819,9 @@
     "price": 2.71,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Rat Rod"
+    "item_name": "AK-47 | Rat Rod",
+    "rarity": "Restricted",
+    "paint_index": "885"
   },
   {
     "id": "skin-462292",
@@ -1607,7 +1835,9 @@
     "price": 3.7,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Rat Rod"
+    "item_name": "AK-47 | Rat Rod",
+    "rarity": "Restricted",
+    "paint_index": "885"
   },
   {
     "id": "skin-462292",
@@ -1621,7 +1851,9 @@
     "price": 7.79,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Rat Rod"
+    "item_name": "AK-47 | Rat Rod",
+    "rarity": "Restricted",
+    "paint_index": "885"
   },
   {
     "id": "skin-462292",
@@ -1635,7 +1867,9 @@
     "price": 33.41,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Rat Rod"
+    "item_name": "AK-47 | Rat Rod",
+    "rarity": "Restricted",
+    "paint_index": "885"
   },
   {
     "id": "skin-462292",
@@ -1649,7 +1883,9 @@
     "price": 8.36,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Rat Rod"
+    "item_name": "AK-47 | Rat Rod",
+    "rarity": "Restricted",
+    "paint_index": "885"
   },
   {
     "id": "skin-462292",
@@ -1663,7 +1899,9 @@
     "price": 2.65,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Rat Rod"
+    "item_name": "AK-47 | Rat Rod",
+    "rarity": "Restricted",
+    "paint_index": "885"
   },
   {
     "id": "skin-462292",
@@ -1677,7 +1915,9 @@
     "price": 7.7,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Rat Rod"
+    "item_name": "AK-47 | Rat Rod",
+    "rarity": "Restricted",
+    "paint_index": "885"
   },
   {
     "id": "skin-460648",
@@ -1691,7 +1931,9 @@
     "price": 22.01,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Aquamarine Revenge"
+    "item_name": "AK-47 | Aquamarine Revenge",
+    "rarity": "Covert",
+    "paint_index": "474"
   },
   {
     "id": "skin-460648",
@@ -1705,7 +1947,9 @@
     "price": 233.05,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Aquamarine Revenge"
+    "item_name": "AK-47 | Aquamarine Revenge",
+    "rarity": "Covert",
+    "paint_index": "474"
   },
   {
     "id": "skin-460648",
@@ -1719,7 +1963,9 @@
     "price": 14.52,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Aquamarine Revenge"
+    "item_name": "AK-47 | Aquamarine Revenge",
+    "rarity": "Covert",
+    "paint_index": "474"
   },
   {
     "id": "skin-460648",
@@ -1733,7 +1979,9 @@
     "price": 42.44,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Aquamarine Revenge"
+    "item_name": "AK-47 | Aquamarine Revenge",
+    "rarity": "Covert",
+    "paint_index": "474"
   },
   {
     "id": "skin-460648",
@@ -1747,7 +1995,9 @@
     "price": 75.83,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Aquamarine Revenge"
+    "item_name": "AK-47 | Aquamarine Revenge",
+    "rarity": "Covert",
+    "paint_index": "474"
   },
   {
     "id": "skin-460648",
@@ -1761,7 +2011,9 @@
     "price": 43.26,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Aquamarine Revenge"
+    "item_name": "AK-47 | Aquamarine Revenge",
+    "rarity": "Covert",
+    "paint_index": "474"
   },
   {
     "id": "skin-460648",
@@ -1775,7 +2027,9 @@
     "price": 116.56,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Aquamarine Revenge"
+    "item_name": "AK-47 | Aquamarine Revenge",
+    "rarity": "Covert",
+    "paint_index": "474"
   },
   {
     "id": "skin-460648",
@@ -1789,7 +2043,9 @@
     "price": 48.06,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Aquamarine Revenge"
+    "item_name": "AK-47 | Aquamarine Revenge",
+    "rarity": "Covert",
+    "paint_index": "474"
   },
   {
     "id": "skin-460648",
@@ -1803,7 +2059,9 @@
     "price": 14.54,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Aquamarine Revenge"
+    "item_name": "AK-47 | Aquamarine Revenge",
+    "rarity": "Covert",
+    "paint_index": "474"
   },
   {
     "id": "skin-460648",
@@ -1817,7 +2075,9 @@
     "price": 62.92,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Aquamarine Revenge"
+    "item_name": "AK-47 | Aquamarine Revenge",
+    "rarity": "Covert",
+    "paint_index": "474"
   },
   {
     "id": "skin-460440",
@@ -1831,7 +2091,9 @@
     "price": 18.65,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Elite Build"
+    "item_name": "AK-47 | Elite Build",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "422"
   },
   {
     "id": "skin-460440",
@@ -1845,7 +2107,9 @@
     "price": 0.81,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Elite Build"
+    "item_name": "AK-47 | Elite Build",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "422"
   },
   {
     "id": "skin-460440",
@@ -1859,7 +2123,9 @@
     "price": 3.83,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Elite Build"
+    "item_name": "AK-47 | Elite Build",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "422"
   },
   {
     "id": "skin-460440",
@@ -1873,7 +2139,9 @@
     "price": 2.04,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Elite Build"
+    "item_name": "AK-47 | Elite Build",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "422"
   },
   {
     "id": "skin-460440",
@@ -1887,7 +2155,9 @@
     "price": 0.58,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Elite Build"
+    "item_name": "AK-47 | Elite Build",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "422"
   },
   {
     "id": "skin-460440",
@@ -1901,7 +2171,9 @@
     "price": 0.57,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Elite Build"
+    "item_name": "AK-47 | Elite Build",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "422"
   },
   {
     "id": "skin-460440",
@@ -1915,7 +2187,9 @@
     "price": 3.26,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Elite Build"
+    "item_name": "AK-47 | Elite Build",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "422"
   },
   {
     "id": "skin-460440",
@@ -1929,7 +2203,9 @@
     "price": 5,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Elite Build"
+    "item_name": "AK-47 | Elite Build",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "422"
   },
   {
     "id": "skin-460440",
@@ -1943,7 +2219,9 @@
     "price": 2.19,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Elite Build"
+    "item_name": "AK-47 | Elite Build",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "422"
   },
   {
     "id": "skin-460440",
@@ -1957,7 +2235,9 @@
     "price": 1.3,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Elite Build"
+    "item_name": "AK-47 | Elite Build",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "422"
   },
   {
     "id": "skin-461648",
@@ -1971,7 +2251,9 @@
     "price": 9461.76,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Wild Lotus"
+    "item_name": "AK-47 | Wild Lotus",
+    "rarity": "Covert",
+    "paint_index": "724"
   },
   {
     "id": "skin-461648",
@@ -1985,7 +2267,9 @@
     "price": 5279.54,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Wild Lotus"
+    "item_name": "AK-47 | Wild Lotus",
+    "rarity": "Covert",
+    "paint_index": "724"
   },
   {
     "id": "skin-461648",
@@ -1999,7 +2283,9 @@
     "price": 7679.2,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Wild Lotus"
+    "item_name": "AK-47 | Wild Lotus",
+    "rarity": "Covert",
+    "paint_index": "724"
   },
   {
     "id": "skin-461648",
@@ -2013,7 +2299,9 @@
     "price": 3771.03,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Wild Lotus"
+    "item_name": "AK-47 | Wild Lotus",
+    "rarity": "Covert",
+    "paint_index": "724"
   },
   {
     "id": "skin-461648",
@@ -2027,7 +2315,9 @@
     "price": 2536.92,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Wild Lotus"
+    "item_name": "AK-47 | Wild Lotus",
+    "rarity": "Covert",
+    "paint_index": "724"
   },
   {
     "id": "skin-459440",
@@ -2041,7 +2331,9 @@
     "price": 26.67,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Black Laminate"
+    "item_name": "AK-47 | Black Laminate",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "172"
   },
   {
     "id": "skin-459440",
@@ -2055,7 +2347,9 @@
     "price": 28.25,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Black Laminate"
+    "item_name": "AK-47 | Black Laminate",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "172"
   },
   {
     "id": "skin-459440",
@@ -2069,7 +2363,9 @@
     "price": 25.3,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Black Laminate"
+    "item_name": "AK-47 | Black Laminate",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "172"
   },
   {
     "id": "skin-459440",
@@ -2083,7 +2379,9 @@
     "price": 25.19,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Black Laminate"
+    "item_name": "AK-47 | Black Laminate",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "172"
   },
   {
     "id": "skin-459440",
@@ -2097,7 +2395,9 @@
     "price": 135.21,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Black Laminate"
+    "item_name": "AK-47 | Black Laminate",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "172"
   },
   {
     "id": "skin-462768",
@@ -2111,7 +2411,9 @@
     "price": 221.25,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | X-Ray"
+    "item_name": "AK-47 | X-Ray",
+    "rarity": "Covert",
+    "paint_index": "1004"
   },
   {
     "id": "skin-462768",
@@ -2125,7 +2427,9 @@
     "price": 849.94,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | X-Ray"
+    "item_name": "AK-47 | X-Ray",
+    "rarity": "Covert",
+    "paint_index": "1004"
   },
   {
     "id": "skin-462768",
@@ -2139,7 +2443,9 @@
     "price": 1372.68,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | X-Ray"
+    "item_name": "AK-47 | X-Ray",
+    "rarity": "Covert",
+    "paint_index": "1004"
   },
   {
     "id": "skin-462768",
@@ -2153,7 +2459,9 @@
     "price": 562.24,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | X-Ray"
+    "item_name": "AK-47 | X-Ray",
+    "rarity": "Covert",
+    "paint_index": "1004"
   },
   {
     "id": "skin-462768",
@@ -2167,7 +2475,9 @@
     "price": 317.94,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | X-Ray"
+    "item_name": "AK-47 | X-Ray",
+    "rarity": "Covert",
+    "paint_index": "1004"
   },
   {
     "id": "skin-460712",
@@ -2181,7 +2491,9 @@
     "price": 18.66,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Frontside Misty"
+    "item_name": "AK-47 | Frontside Misty",
+    "rarity": "Classified",
+    "paint_index": "490"
   },
   {
     "id": "skin-460712",
@@ -2195,7 +2507,9 @@
     "price": 21.73,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Frontside Misty"
+    "item_name": "AK-47 | Frontside Misty",
+    "rarity": "Classified",
+    "paint_index": "490"
   },
   {
     "id": "skin-460712",
@@ -2209,7 +2523,9 @@
     "price": 9.05,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Frontside Misty"
+    "item_name": "AK-47 | Frontside Misty",
+    "rarity": "Classified",
+    "paint_index": "490"
   },
   {
     "id": "skin-460712",
@@ -2223,7 +2539,9 @@
     "price": 49.37,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Frontside Misty"
+    "item_name": "AK-47 | Frontside Misty",
+    "rarity": "Classified",
+    "paint_index": "490"
   },
   {
     "id": "skin-460712",
@@ -2237,7 +2555,9 @@
     "price": 24.2,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Frontside Misty"
+    "item_name": "AK-47 | Frontside Misty",
+    "rarity": "Classified",
+    "paint_index": "490"
   },
   {
     "id": "skin-460712",
@@ -2251,7 +2571,9 @@
     "price": 7.4,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Frontside Misty"
+    "item_name": "AK-47 | Frontside Misty",
+    "rarity": "Classified",
+    "paint_index": "490"
   },
   {
     "id": "skin-460712",
@@ -2265,7 +2587,9 @@
     "price": 44.84,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Frontside Misty"
+    "item_name": "AK-47 | Frontside Misty",
+    "rarity": "Classified",
+    "paint_index": "490"
   },
   {
     "id": "skin-460712",
@@ -2279,7 +2603,9 @@
     "price": 128.22,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Frontside Misty"
+    "item_name": "AK-47 | Frontside Misty",
+    "rarity": "Classified",
+    "paint_index": "490"
   },
   {
     "id": "skin-460712",
@@ -2293,7 +2619,9 @@
     "price": 9.3,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Frontside Misty"
+    "item_name": "AK-47 | Frontside Misty",
+    "rarity": "Classified",
+    "paint_index": "490"
   },
   {
     "id": "skin-460712",
@@ -2307,7 +2635,9 @@
     "price": 16.73,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Frontside Misty"
+    "item_name": "AK-47 | Frontside Misty",
+    "rarity": "Classified",
+    "paint_index": "490"
   },
   {
     "id": "skin-459656",
@@ -2321,7 +2651,9 @@
     "price": 19.6,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Blue Laminate"
+    "item_name": "AK-47 | Blue Laminate",
+    "rarity": "Restricted",
+    "paint_index": "226"
   },
   {
     "id": "skin-459656",
@@ -2335,7 +2667,9 @@
     "price": 6.97,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Blue Laminate"
+    "item_name": "AK-47 | Blue Laminate",
+    "rarity": "Restricted",
+    "paint_index": "226"
   },
   {
     "id": "skin-459656",
@@ -2349,7 +2683,9 @@
     "price": 29.21,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Blue Laminate"
+    "item_name": "AK-47 | Blue Laminate",
+    "rarity": "Restricted",
+    "paint_index": "226"
   },
   {
     "id": "skin-459656",
@@ -2363,7 +2699,9 @@
     "price": 17.6,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Blue Laminate"
+    "item_name": "AK-47 | Blue Laminate",
+    "rarity": "Restricted",
+    "paint_index": "226"
   },
   {
     "id": "skin-459656",
@@ -2377,7 +2715,9 @@
     "price": 9.92,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Blue Laminate"
+    "item_name": "AK-47 | Blue Laminate",
+    "rarity": "Restricted",
+    "paint_index": "226"
   },
   {
     "id": "skin-459656",
@@ -2391,7 +2731,9 @@
     "price": 34.28,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Blue Laminate"
+    "item_name": "AK-47 | Blue Laminate",
+    "rarity": "Restricted",
+    "paint_index": "226"
   },
   {
     "id": "skin-459656",
@@ -2405,7 +2747,9 @@
     "price": 9.32,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Blue Laminate"
+    "item_name": "AK-47 | Blue Laminate",
+    "rarity": "Restricted",
+    "paint_index": "226"
   },
   {
     "id": "skin-459656",
@@ -2419,7 +2763,9 @@
     "price": 7.56,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Blue Laminate"
+    "item_name": "AK-47 | Blue Laminate",
+    "rarity": "Restricted",
+    "paint_index": "226"
   },
   {
     "id": "skin-460112",
@@ -2433,7 +2779,9 @@
     "price": 205.68,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Jet Set"
+    "item_name": "AK-47 | Jet Set",
+    "rarity": "Classified",
+    "paint_index": "340"
   },
   {
     "id": "skin-460112",
@@ -2447,7 +2795,9 @@
     "price": 287.91,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Jet Set"
+    "item_name": "AK-47 | Jet Set",
+    "rarity": "Classified",
+    "paint_index": "340"
   },
   {
     "id": "skin-460112",
@@ -2461,7 +2811,9 @@
     "price": 913.97,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Jet Set"
+    "item_name": "AK-47 | Jet Set",
+    "rarity": "Classified",
+    "paint_index": "340"
   },
   {
     "id": "skin-460112",
@@ -2475,7 +2827,9 @@
     "price": 170.73,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Jet Set"
+    "item_name": "AK-47 | Jet Set",
+    "rarity": "Classified",
+    "paint_index": "340"
   },
   {
     "id": "skin-460112",
@@ -2489,7 +2843,9 @@
     "price": 178.13,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Jet Set"
+    "item_name": "AK-47 | Jet Set",
+    "rarity": "Classified",
+    "paint_index": "340"
   },
   {
     "id": "skin-458928",
@@ -2503,7 +2859,9 @@
     "price": 142.62,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Case Hardened"
+    "item_name": "AK-47 | Case Hardened",
+    "rarity": "Classified",
+    "paint_index": "44"
   },
   {
     "id": "skin-458928",
@@ -2517,7 +2875,9 @@
     "price": 316.5,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Case Hardened"
+    "item_name": "AK-47 | Case Hardened",
+    "rarity": "Classified",
+    "paint_index": "44"
   },
   {
     "id": "skin-458928",
@@ -2531,7 +2891,9 @@
     "price": 147.69,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Case Hardened"
+    "item_name": "AK-47 | Case Hardened",
+    "rarity": "Classified",
+    "paint_index": "44"
   },
   {
     "id": "skin-458928",
@@ -2545,7 +2907,9 @@
     "price": 344.95,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Case Hardened"
+    "item_name": "AK-47 | Case Hardened",
+    "rarity": "Classified",
+    "paint_index": "44"
   },
   {
     "id": "skin-458928",
@@ -2559,7 +2923,9 @@
     "price": 205.56,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Case Hardened"
+    "item_name": "AK-47 | Case Hardened",
+    "rarity": "Classified",
+    "paint_index": "44"
   },
   {
     "id": "skin-458928",
@@ -2573,7 +2939,9 @@
     "price": 438.54,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Case Hardened"
+    "item_name": "AK-47 | Case Hardened",
+    "rarity": "Classified",
+    "paint_index": "44"
   },
   {
     "id": "skin-458928",
@@ -2587,7 +2955,9 @@
     "price": 281.8,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Case Hardened"
+    "item_name": "AK-47 | Case Hardened",
+    "rarity": "Classified",
+    "paint_index": "44"
   },
   {
     "id": "skin-458928",
@@ -2601,7 +2971,9 @@
     "price": 708.54,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Case Hardened"
+    "item_name": "AK-47 | Case Hardened",
+    "rarity": "Classified",
+    "paint_index": "44"
   },
   {
     "id": "skin-458928",
@@ -2615,7 +2987,9 @@
     "price": 353.39,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Case Hardened"
+    "item_name": "AK-47 | Case Hardened",
+    "rarity": "Classified",
+    "paint_index": "44"
   },
   {
     "id": "skin-458928",
@@ -2629,7 +3003,9 @@
     "price": 168.67,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Case Hardened"
+    "item_name": "AK-47 | Case Hardened",
+    "rarity": "Classified",
+    "paint_index": "44"
   },
   {
     "id": "skin-462096",
@@ -2643,7 +3019,9 @@
     "price": 1.34,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Uncharted"
+    "item_name": "AK-47 | Uncharted",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "836"
   },
   {
     "id": "skin-462096",
@@ -2657,7 +3035,9 @@
     "price": 1.83,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Uncharted"
+    "item_name": "AK-47 | Uncharted",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "836"
   },
   {
     "id": "skin-462096",
@@ -2671,7 +3051,9 @@
     "price": 0.45,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Uncharted"
+    "item_name": "AK-47 | Uncharted",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "836"
   },
   {
     "id": "skin-462096",
@@ -2685,7 +3067,9 @@
     "price": 0.19,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Uncharted"
+    "item_name": "AK-47 | Uncharted",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "836"
   },
   {
     "id": "skin-462096",
@@ -2699,7 +3083,9 @@
     "price": 4.11,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Uncharted"
+    "item_name": "AK-47 | Uncharted",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "836"
   },
   {
     "id": "skin-462096",
@@ -2713,7 +3099,9 @@
     "price": 2.28,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Uncharted"
+    "item_name": "AK-47 | Uncharted",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "836"
   },
   {
     "id": "skin-462096",
@@ -2727,7 +3115,9 @@
     "price": 0.31,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Uncharted"
+    "item_name": "AK-47 | Uncharted",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "836"
   },
   {
     "id": "skin-462096",
@@ -2741,7 +3131,9 @@
     "price": 1.28,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Uncharted"
+    "item_name": "AK-47 | Uncharted",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "836"
   },
   {
     "id": "skin-462096",
@@ -2755,7 +3147,9 @@
     "price": 0.2,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Uncharted"
+    "item_name": "AK-47 | Uncharted",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "836"
   },
   {
     "id": "skin-462096",
@@ -2769,7 +3163,9 @@
     "price": 0.82,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Uncharted"
+    "item_name": "AK-47 | Uncharted",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "836"
   },
   {
     "id": "skin-463324",
@@ -2783,7 +3179,9 @@
     "price": 9.66,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Ice Coaled"
+    "item_name": "AK-47 | Ice Coaled",
+    "rarity": "Classified",
+    "paint_index": "1143"
   },
   {
     "id": "skin-463324",
@@ -2797,7 +3195,9 @@
     "price": 47.52,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Ice Coaled"
+    "item_name": "AK-47 | Ice Coaled",
+    "rarity": "Classified",
+    "paint_index": "1143"
   },
   {
     "id": "skin-463324",
@@ -2811,7 +3211,9 @@
     "price": 5.2,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Ice Coaled"
+    "item_name": "AK-47 | Ice Coaled",
+    "rarity": "Classified",
+    "paint_index": "1143"
   },
   {
     "id": "skin-463324",
@@ -2825,7 +3227,9 @@
     "price": 5.9,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Ice Coaled"
+    "item_name": "AK-47 | Ice Coaled",
+    "rarity": "Classified",
+    "paint_index": "1143"
   },
   {
     "id": "skin-463324",
@@ -2839,7 +3243,9 @@
     "price": 13.65,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Ice Coaled"
+    "item_name": "AK-47 | Ice Coaled",
+    "rarity": "Classified",
+    "paint_index": "1143"
   },
   {
     "id": "skin-463324",
@@ -2853,7 +3259,9 @@
     "price": 11.03,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Ice Coaled"
+    "item_name": "AK-47 | Ice Coaled",
+    "rarity": "Classified",
+    "paint_index": "1143"
   },
   {
     "id": "skin-463324",
@@ -2867,7 +3275,9 @@
     "price": 15.76,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Ice Coaled"
+    "item_name": "AK-47 | Ice Coaled",
+    "rarity": "Classified",
+    "paint_index": "1143"
   },
   {
     "id": "skin-463324",
@@ -2881,7 +3291,9 @@
     "price": 9.05,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Ice Coaled"
+    "item_name": "AK-47 | Ice Coaled",
+    "rarity": "Classified",
+    "paint_index": "1143"
   },
   {
     "id": "skin-463324",
@@ -2895,7 +3307,9 @@
     "price": 4.08,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Ice Coaled"
+    "item_name": "AK-47 | Ice Coaled",
+    "rarity": "Classified",
+    "paint_index": "1143"
   },
   {
     "id": "skin-463324",
@@ -2909,7 +3323,9 @@
     "price": 21.73,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Ice Coaled"
+    "item_name": "AK-47 | Ice Coaled",
+    "rarity": "Classified",
+    "paint_index": "1143"
   },
   {
     "id": "skin-461452",
@@ -2923,7 +3339,9 @@
     "price": 36.68,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | The Empress"
+    "item_name": "AK-47 | The Empress",
+    "rarity": "Covert",
+    "paint_index": "675"
   },
   {
     "id": "skin-461452",
@@ -2937,7 +3355,9 @@
     "price": 101.48,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | The Empress"
+    "item_name": "AK-47 | The Empress",
+    "rarity": "Covert",
+    "paint_index": "675"
   },
   {
     "id": "skin-461452",
@@ -2951,7 +3371,9 @@
     "price": 49.64,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | The Empress"
+    "item_name": "AK-47 | The Empress",
+    "rarity": "Covert",
+    "paint_index": "675"
   },
   {
     "id": "skin-461452",
@@ -2965,7 +3387,9 @@
     "price": 48.82,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | The Empress"
+    "item_name": "AK-47 | The Empress",
+    "rarity": "Covert",
+    "paint_index": "675"
   },
   {
     "id": "skin-461452",
@@ -2979,7 +3403,9 @@
     "price": 20.36,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | The Empress"
+    "item_name": "AK-47 | The Empress",
+    "rarity": "Covert",
+    "paint_index": "675"
   },
   {
     "id": "skin-461452",
@@ -2993,7 +3419,9 @@
     "price": 19.28,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | The Empress"
+    "item_name": "AK-47 | The Empress",
+    "rarity": "Covert",
+    "paint_index": "675"
   },
   {
     "id": "skin-461452",
@@ -3007,7 +3435,9 @@
     "price": 62.39,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | The Empress"
+    "item_name": "AK-47 | The Empress",
+    "rarity": "Covert",
+    "paint_index": "675"
   },
   {
     "id": "skin-461452",
@@ -3021,7 +3451,9 @@
     "price": 23.59,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | The Empress"
+    "item_name": "AK-47 | The Empress",
+    "rarity": "Covert",
+    "paint_index": "675"
   },
   {
     "id": "skin-461452",
@@ -3035,7 +3467,9 @@
     "price": 298.67,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | The Empress"
+    "item_name": "AK-47 | The Empress",
+    "rarity": "Covert",
+    "paint_index": "675"
   },
   {
     "id": "skin-461452",
@@ -3049,7 +3483,9 @@
     "price": 98.8,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | The Empress"
+    "item_name": "AK-47 | The Empress",
+    "rarity": "Covert",
+    "paint_index": "675"
   },
   {
     "id": "skin-459880",
@@ -3063,7 +3499,9 @@
     "price": 56.77,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Redline"
+    "item_name": "AK-47 | Redline",
+    "rarity": "Classified",
+    "paint_index": "282"
   },
   {
     "id": "skin-459880",
@@ -3077,7 +3515,9 @@
     "price": 9.79,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Redline"
+    "item_name": "AK-47 | Redline",
+    "rarity": "Classified",
+    "paint_index": "282"
   },
   {
     "id": "skin-459880",
@@ -3091,7 +3531,9 @@
     "price": 11.92,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Redline"
+    "item_name": "AK-47 | Redline",
+    "rarity": "Classified",
+    "paint_index": "282"
   },
   {
     "id": "skin-459880",
@@ -3105,7 +3547,9 @@
     "price": 31.95,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Redline"
+    "item_name": "AK-47 | Redline",
+    "rarity": "Classified",
+    "paint_index": "282"
   },
   {
     "id": "skin-459880",
@@ -3119,7 +3563,9 @@
     "price": 18.77,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Redline"
+    "item_name": "AK-47 | Redline",
+    "rarity": "Classified",
+    "paint_index": "282"
   },
   {
     "id": "skin-459880",
@@ -3133,7 +3579,9 @@
     "price": 152.28,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Redline"
+    "item_name": "AK-47 | Redline",
+    "rarity": "Classified",
+    "paint_index": "282"
   },
   {
     "id": "skin-459880",
@@ -3147,7 +3595,9 @@
     "price": 30.44,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Redline"
+    "item_name": "AK-47 | Redline",
+    "rarity": "Classified",
+    "paint_index": "282"
   },
   {
     "id": "skin-459880",
@@ -3161,7 +3611,9 @@
     "price": 9.37,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Redline"
+    "item_name": "AK-47 | Redline",
+    "rarity": "Classified",
+    "paint_index": "282"
   },
   {
     "id": "skin-459040",
@@ -3175,7 +3627,9 @@
     "price": 0.11,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Safari Mesh"
+    "item_name": "AK-47 | Safari Mesh",
+    "rarity": "Industrial Grade",
+    "paint_index": "72"
   },
   {
     "id": "skin-459040",
@@ -3189,7 +3643,9 @@
     "price": 0.27,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Safari Mesh"
+    "item_name": "AK-47 | Safari Mesh",
+    "rarity": "Industrial Grade",
+    "paint_index": "72"
   },
   {
     "id": "skin-459040",
@@ -3203,7 +3659,9 @@
     "price": 0.09,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Safari Mesh"
+    "item_name": "AK-47 | Safari Mesh",
+    "rarity": "Industrial Grade",
+    "paint_index": "72"
   },
   {
     "id": "skin-459040",
@@ -3217,7 +3675,9 @@
     "price": 0.1,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Safari Mesh"
+    "item_name": "AK-47 | Safari Mesh",
+    "rarity": "Industrial Grade",
+    "paint_index": "72"
   },
   {
     "id": "skin-459040",
@@ -3231,7 +3691,9 @@
     "price": 2.47,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Safari Mesh"
+    "item_name": "AK-47 | Safari Mesh",
+    "rarity": "Industrial Grade",
+    "paint_index": "72"
   },
   {
     "id": "skin-459472",
@@ -3245,7 +3707,9 @@
     "price": 781.58,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Fire Serpent"
+    "item_name": "AK-47 | Fire Serpent",
+    "rarity": "Covert",
+    "paint_index": "180"
   },
   {
     "id": "skin-459472",
@@ -3259,7 +3723,9 @@
     "price": 670.5,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Fire Serpent"
+    "item_name": "AK-47 | Fire Serpent",
+    "rarity": "Covert",
+    "paint_index": "180"
   },
   {
     "id": "skin-459472",
@@ -3273,7 +3739,9 @@
     "price": 683.87,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Fire Serpent"
+    "item_name": "AK-47 | Fire Serpent",
+    "rarity": "Covert",
+    "paint_index": "180"
   },
   {
     "id": "skin-459472",
@@ -3287,7 +3755,9 @@
     "price": 1340.25,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Fire Serpent"
+    "item_name": "AK-47 | Fire Serpent",
+    "rarity": "Covert",
+    "paint_index": "180"
   },
   {
     "id": "skin-459472",
@@ -3301,7 +3771,9 @@
     "price": 4797.94,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Fire Serpent"
+    "item_name": "AK-47 | Fire Serpent",
+    "rarity": "Covert",
+    "paint_index": "180"
   },
   {
     "id": "skin-459472",
@@ -3315,7 +3787,9 @@
     "price": 2523.21,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Fire Serpent"
+    "item_name": "AK-47 | Fire Serpent",
+    "rarity": "Covert",
+    "paint_index": "180"
   },
   {
     "id": "skin-459472",
@@ -3329,7 +3803,9 @@
     "price": 1988.33,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Fire Serpent"
+    "item_name": "AK-47 | Fire Serpent",
+    "rarity": "Covert",
+    "paint_index": "180"
   },
   {
     "id": "skin-459472",
@@ -3343,7 +3819,9 @@
     "price": 1641.39,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Fire Serpent"
+    "item_name": "AK-47 | Fire Serpent",
+    "rarity": "Covert",
+    "paint_index": "180"
   },
   {
     "id": "skin-459472",
@@ -3357,7 +3835,9 @@
     "price": 463.98,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Fire Serpent"
+    "item_name": "AK-47 | Fire Serpent",
+    "rarity": "Covert",
+    "paint_index": "180"
   },
   {
     "id": "skin-459472",
@@ -3371,7 +3851,9 @@
     "price": 932.28,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Fire Serpent"
+    "item_name": "AK-47 | Fire Serpent",
+    "rarity": "Covert",
+    "paint_index": "180"
   },
   {
     "id": "skin-458808",
@@ -3385,7 +3867,9 @@
     "price": 30.61,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Red Laminate"
+    "item_name": "AK-47 | Red Laminate",
+    "rarity": "Classified",
+    "paint_index": "14"
   },
   {
     "id": "skin-458808",
@@ -3399,7 +3883,9 @@
     "price": 30.03,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Red Laminate"
+    "item_name": "AK-47 | Red Laminate",
+    "rarity": "Classified",
+    "paint_index": "14"
   },
   {
     "id": "skin-458808",
@@ -3413,7 +3899,9 @@
     "price": 367.24,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Red Laminate"
+    "item_name": "AK-47 | Red Laminate",
+    "rarity": "Classified",
+    "paint_index": "14"
   },
   {
     "id": "skin-458808",
@@ -3427,7 +3915,9 @@
     "price": 100.04,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Red Laminate"
+    "item_name": "AK-47 | Red Laminate",
+    "rarity": "Classified",
+    "paint_index": "14"
   },
   {
     "id": "skin-458808",
@@ -3441,7 +3931,9 @@
     "price": 49.78,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Red Laminate"
+    "item_name": "AK-47 | Red Laminate",
+    "rarity": "Classified",
+    "paint_index": "14"
   },
   {
     "id": "skin-458808",
@@ -3455,7 +3947,9 @@
     "price": 34.83,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Red Laminate"
+    "item_name": "AK-47 | Red Laminate",
+    "rarity": "Classified",
+    "paint_index": "14"
   },
   {
     "id": "skin-458808",
@@ -3469,7 +3963,9 @@
     "price": 90.16,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Red Laminate"
+    "item_name": "AK-47 | Red Laminate",
+    "rarity": "Classified",
+    "paint_index": "14"
   },
   {
     "id": "skin-458808",
@@ -3483,7 +3979,9 @@
     "price": 218.59,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Red Laminate"
+    "item_name": "AK-47 | Red Laminate",
+    "rarity": "Classified",
+    "paint_index": "14"
   },
   {
     "id": "skin-458808",
@@ -3497,7 +3995,9 @@
     "price": 87.22,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Red Laminate"
+    "item_name": "AK-47 | Red Laminate",
+    "rarity": "Classified",
+    "paint_index": "14"
   },
   {
     "id": "skin-458808",
@@ -3511,7 +4011,9 @@
     "price": 959.85,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Red Laminate"
+    "item_name": "AK-47 | Red Laminate",
+    "rarity": "Classified",
+    "paint_index": "14"
   },
   {
     "id": "skin-460848",
@@ -3525,7 +4027,9 @@
     "price": 84.61,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Fuel Injector"
+    "item_name": "AK-47 | Fuel Injector",
+    "rarity": "Covert",
+    "paint_index": "524"
   },
   {
     "id": "skin-460848",
@@ -3539,7 +4043,9 @@
     "price": 356.54,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Fuel Injector"
+    "item_name": "AK-47 | Fuel Injector",
+    "rarity": "Covert",
+    "paint_index": "524"
   },
   {
     "id": "skin-460848",
@@ -3553,7 +4059,9 @@
     "price": 163.87,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Fuel Injector"
+    "item_name": "AK-47 | Fuel Injector",
+    "rarity": "Covert",
+    "paint_index": "524"
   },
   {
     "id": "skin-460848",
@@ -3567,7 +4075,9 @@
     "price": 70.9,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Fuel Injector"
+    "item_name": "AK-47 | Fuel Injector",
+    "rarity": "Covert",
+    "paint_index": "524"
   },
   {
     "id": "skin-460848",
@@ -3581,7 +4091,9 @@
     "price": 106.14,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Fuel Injector"
+    "item_name": "AK-47 | Fuel Injector",
+    "rarity": "Covert",
+    "paint_index": "524"
   },
   {
     "id": "skin-460848",
@@ -3595,7 +4107,9 @@
     "price": 795.29,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Fuel Injector"
+    "item_name": "AK-47 | Fuel Injector",
+    "rarity": "Covert",
+    "paint_index": "524"
   },
   {
     "id": "skin-460848",
@@ -3609,7 +4123,9 @@
     "price": 185.13,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Fuel Injector"
+    "item_name": "AK-47 | Fuel Injector",
+    "rarity": "Covert",
+    "paint_index": "524"
   },
   {
     "id": "skin-460848",
@@ -3623,7 +4139,9 @@
     "price": 143.3,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Fuel Injector"
+    "item_name": "AK-47 | Fuel Injector",
+    "rarity": "Covert",
+    "paint_index": "524"
   },
   {
     "id": "skin-460848",
@@ -3637,7 +4155,9 @@
     "price": 233.12,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Fuel Injector"
+    "item_name": "AK-47 | Fuel Injector",
+    "rarity": "Covert",
+    "paint_index": "524"
   },
   {
     "id": "skin-460848",
@@ -3651,7 +4171,9 @@
     "price": 315.06,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Fuel Injector"
+    "item_name": "AK-47 | Fuel Injector",
+    "rarity": "Covert",
+    "paint_index": "524"
   },
   {
     "id": "skin-459960",
@@ -3665,7 +4187,9 @@
     "price": 172.72,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Vulcan"
+    "item_name": "AK-47 | Vulcan",
+    "rarity": "Covert",
+    "paint_index": "302"
   },
   {
     "id": "skin-459960",
@@ -3679,7 +4203,9 @@
     "price": 582.67,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Vulcan"
+    "item_name": "AK-47 | Vulcan",
+    "rarity": "Covert",
+    "paint_index": "302"
   },
   {
     "id": "skin-459960",
@@ -3693,7 +4219,9 @@
     "price": 277.62,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Vulcan"
+    "item_name": "AK-47 | Vulcan",
+    "rarity": "Covert",
+    "paint_index": "302"
   },
   {
     "id": "skin-459960",
@@ -3707,7 +4235,9 @@
     "price": 64.71,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Vulcan"
+    "item_name": "AK-47 | Vulcan",
+    "rarity": "Covert",
+    "paint_index": "302"
   },
   {
     "id": "skin-459960",
@@ -3721,7 +4251,9 @@
     "price": 225.51,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Vulcan"
+    "item_name": "AK-47 | Vulcan",
+    "rarity": "Covert",
+    "paint_index": "302"
   },
   {
     "id": "skin-459960",
@@ -3735,7 +4267,9 @@
     "price": 350.23,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Vulcan"
+    "item_name": "AK-47 | Vulcan",
+    "rarity": "Covert",
+    "paint_index": "302"
   },
   {
     "id": "skin-459960",
@@ -3749,7 +4283,9 @@
     "price": 130.27,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Vulcan"
+    "item_name": "AK-47 | Vulcan",
+    "rarity": "Covert",
+    "paint_index": "302"
   },
   {
     "id": "skin-459960",
@@ -3763,7 +4299,9 @@
     "price": 1135.44,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Vulcan"
+    "item_name": "AK-47 | Vulcan",
+    "rarity": "Covert",
+    "paint_index": "302"
   },
   {
     "id": "skin-459960",
@@ -3777,7 +4315,9 @@
     "price": 115.46,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Vulcan"
+    "item_name": "AK-47 | Vulcan",
+    "rarity": "Covert",
+    "paint_index": "302"
   },
   {
     "id": "skin-459960",
@@ -3791,7 +4331,9 @@
     "price": 658.91,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Vulcan"
+    "item_name": "AK-47 | Vulcan",
+    "rarity": "Covert",
+    "paint_index": "302"
   },
   {
     "id": "skin-463316",
@@ -3805,7 +4347,9 @@
     "price": 17.42,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Nightwish"
+    "item_name": "AK-47 | Nightwish",
+    "rarity": "Covert",
+    "paint_index": "1141"
   },
   {
     "id": "skin-463316",
@@ -3819,7 +4363,9 @@
     "price": 7.57,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Nightwish"
+    "item_name": "AK-47 | Nightwish",
+    "rarity": "Covert",
+    "paint_index": "1141"
   },
   {
     "id": "skin-463316",
@@ -3833,7 +4379,9 @@
     "price": 190.13,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Nightwish"
+    "item_name": "AK-47 | Nightwish",
+    "rarity": "Covert",
+    "paint_index": "1141"
   },
   {
     "id": "skin-463316",
@@ -3847,7 +4395,9 @@
     "price": 14.11,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Nightwish"
+    "item_name": "AK-47 | Nightwish",
+    "rarity": "Covert",
+    "paint_index": "1141"
   },
   {
     "id": "skin-463316",
@@ -3861,7 +4411,9 @@
     "price": 9.57,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Nightwish"
+    "item_name": "AK-47 | Nightwish",
+    "rarity": "Covert",
+    "paint_index": "1141"
   },
   {
     "id": "skin-463316",
@@ -3875,7 +4427,9 @@
     "price": 20.91,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Nightwish"
+    "item_name": "AK-47 | Nightwish",
+    "rarity": "Covert",
+    "paint_index": "1141"
   },
   {
     "id": "skin-463316",
@@ -3889,7 +4443,9 @@
     "price": 24.2,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Nightwish"
+    "item_name": "AK-47 | Nightwish",
+    "rarity": "Covert",
+    "paint_index": "1141"
   },
   {
     "id": "skin-463316",
@@ -3903,7 +4459,9 @@
     "price": 55.88,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Nightwish"
+    "item_name": "AK-47 | Nightwish",
+    "rarity": "Covert",
+    "paint_index": "1141"
   },
   {
     "id": "skin-463316",
@@ -3917,7 +4475,9 @@
     "price": 69.11,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Nightwish"
+    "item_name": "AK-47 | Nightwish",
+    "rarity": "Covert",
+    "paint_index": "1141"
   },
   {
     "id": "skin-463316",
@@ -3931,7 +4491,9 @@
     "price": 4.85,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Nightwish"
+    "item_name": "AK-47 | Nightwish",
+    "rarity": "Covert",
+    "paint_index": "1141"
   },
   {
     "id": "skin-460776",
@@ -3945,7 +4507,9 @@
     "price": 6.76,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Point Disarray"
+    "item_name": "AK-47 | Point Disarray",
+    "rarity": "Classified",
+    "paint_index": "506"
   },
   {
     "id": "skin-460776",
@@ -3959,7 +4523,9 @@
     "price": 19.88,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Point Disarray"
+    "item_name": "AK-47 | Point Disarray",
+    "rarity": "Classified",
+    "paint_index": "506"
   },
   {
     "id": "skin-460776",
@@ -3973,7 +4539,9 @@
     "price": 6.53,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Point Disarray"
+    "item_name": "AK-47 | Point Disarray",
+    "rarity": "Classified",
+    "paint_index": "506"
   },
   {
     "id": "skin-460776",
@@ -3987,7 +4555,9 @@
     "price": 8.64,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Point Disarray"
+    "item_name": "AK-47 | Point Disarray",
+    "rarity": "Classified",
+    "paint_index": "506"
   },
   {
     "id": "skin-460776",
@@ -4001,7 +4571,9 @@
     "price": 12.26,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Point Disarray"
+    "item_name": "AK-47 | Point Disarray",
+    "rarity": "Classified",
+    "paint_index": "506"
   },
   {
     "id": "skin-460776",
@@ -4015,7 +4587,9 @@
     "price": 18.71,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Point Disarray"
+    "item_name": "AK-47 | Point Disarray",
+    "rarity": "Classified",
+    "paint_index": "506"
   },
   {
     "id": "skin-460776",
@@ -4029,7 +4603,9 @@
     "price": 31.54,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Point Disarray"
+    "item_name": "AK-47 | Point Disarray",
+    "rarity": "Classified",
+    "paint_index": "506"
   },
   {
     "id": "skin-460776",
@@ -4043,7 +4619,9 @@
     "price": 18.51,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Point Disarray"
+    "item_name": "AK-47 | Point Disarray",
+    "rarity": "Classified",
+    "paint_index": "506"
   },
   {
     "id": "skin-460776",
@@ -4057,7 +4635,9 @@
     "price": 75.42,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Point Disarray"
+    "item_name": "AK-47 | Point Disarray",
+    "rarity": "Classified",
+    "paint_index": "506"
   },
   {
     "id": "skin-460776",
@@ -4071,7 +4651,9 @@
     "price": 15.08,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Point Disarray"
+    "item_name": "AK-47 | Point Disarray",
+    "rarity": "Classified",
+    "paint_index": "506"
   },
   {
     "id": "skin-462588",
@@ -4085,7 +4667,9 @@
     "price": 17.66,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Legion of Anubis"
+    "item_name": "AK-47 | Legion of Anubis",
+    "rarity": "Covert",
+    "paint_index": "959"
   },
   {
     "id": "skin-462588",
@@ -4099,7 +4683,9 @@
     "price": 17.6,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Legion of Anubis"
+    "item_name": "AK-47 | Legion of Anubis",
+    "rarity": "Covert",
+    "paint_index": "959"
   },
   {
     "id": "skin-462588",
@@ -4113,7 +4699,9 @@
     "price": 22.97,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Legion of Anubis"
+    "item_name": "AK-47 | Legion of Anubis",
+    "rarity": "Covert",
+    "paint_index": "959"
   },
   {
     "id": "skin-462588",
@@ -4127,7 +4715,9 @@
     "price": 7.57,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Legion of Anubis"
+    "item_name": "AK-47 | Legion of Anubis",
+    "rarity": "Covert",
+    "paint_index": "959"
   },
   {
     "id": "skin-462588",
@@ -4141,7 +4731,9 @@
     "price": 8.83,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Legion of Anubis"
+    "item_name": "AK-47 | Legion of Anubis",
+    "rarity": "Covert",
+    "paint_index": "959"
   },
   {
     "id": "skin-462588",
@@ -4155,7 +4747,9 @@
     "price": 5.91,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Legion of Anubis"
+    "item_name": "AK-47 | Legion of Anubis",
+    "rarity": "Covert",
+    "paint_index": "959"
   },
   {
     "id": "skin-462588",
@@ -4169,7 +4763,9 @@
     "price": 29.41,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Legion of Anubis"
+    "item_name": "AK-47 | Legion of Anubis",
+    "rarity": "Covert",
+    "paint_index": "959"
   },
   {
     "id": "skin-462588",
@@ -4183,7 +4779,9 @@
     "price": 58.49,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Legion of Anubis"
+    "item_name": "AK-47 | Legion of Anubis",
+    "rarity": "Covert",
+    "paint_index": "959"
   },
   {
     "id": "skin-462588",
@@ -4197,7 +4795,9 @@
     "price": 16.18,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Legion of Anubis"
+    "item_name": "AK-47 | Legion of Anubis",
+    "rarity": "Covert",
+    "paint_index": "959"
   },
   {
     "id": "skin-462588",
@@ -4211,7 +4811,9 @@
     "price": 4.65,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Legion of Anubis"
+    "item_name": "AK-47 | Legion of Anubis",
+    "rarity": "Covert",
+    "paint_index": "959"
   },
   {
     "id": "skin-460576",
@@ -4225,7 +4827,9 @@
     "price": 622.57,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Hydroponic"
+    "item_name": "AK-47 | Hydroponic",
+    "rarity": "Classified",
+    "paint_index": "456"
   },
   {
     "id": "skin-460576",
@@ -4239,7 +4843,9 @@
     "price": 1295.82,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Hydroponic"
+    "item_name": "AK-47 | Hydroponic",
+    "rarity": "Classified",
+    "paint_index": "456"
   },
   {
     "id": "skin-460576",
@@ -4253,7 +4859,9 @@
     "price": 603.24,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Hydroponic"
+    "item_name": "AK-47 | Hydroponic",
+    "rarity": "Classified",
+    "paint_index": "456"
   },
   {
     "id": "skin-460576",
@@ -4267,7 +4875,9 @@
     "price": 418.25,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Hydroponic"
+    "item_name": "AK-47 | Hydroponic",
+    "rarity": "Classified",
+    "paint_index": "456"
   },
   {
     "id": "skin-460576",
@@ -4281,7 +4891,9 @@
     "price": 994.2,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Hydroponic"
+    "item_name": "AK-47 | Hydroponic",
+    "rarity": "Classified",
+    "paint_index": "456"
   },
   {
     "id": "skin-461732",
@@ -4295,7 +4907,9 @@
     "price": 4.05,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Baroque Purple"
+    "item_name": "AK-47 | Baroque Purple",
+    "rarity": "Industrial Grade",
+    "paint_index": "745"
   },
   {
     "id": "skin-461732",
@@ -4309,7 +4923,9 @@
     "price": 3.98,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Baroque Purple"
+    "item_name": "AK-47 | Baroque Purple",
+    "rarity": "Industrial Grade",
+    "paint_index": "745"
   },
   {
     "id": "skin-461732",
@@ -4323,7 +4939,9 @@
     "price": 11.05,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Baroque Purple"
+    "item_name": "AK-47 | Baroque Purple",
+    "rarity": "Industrial Grade",
+    "paint_index": "745"
   },
   {
     "id": "skin-461732",
@@ -4337,7 +4955,9 @@
     "price": 4.07,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Baroque Purple"
+    "item_name": "AK-47 | Baroque Purple",
+    "rarity": "Industrial Grade",
+    "paint_index": "745"
   },
   {
     "id": "skin-461732",
@@ -4351,7 +4971,9 @@
     "price": 4.22,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Baroque Purple"
+    "item_name": "AK-47 | Baroque Purple",
+    "rarity": "Industrial Grade",
+    "paint_index": "745"
   },
   {
     "id": "skin-459952",
@@ -4365,7 +4987,9 @@
     "price": 9.1,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Emerald Pinstripe"
+    "item_name": "AK-47 | Emerald Pinstripe",
+    "rarity": "Restricted",
+    "paint_index": "300"
   },
   {
     "id": "skin-459952",
@@ -4379,7 +5003,9 @@
     "price": 3.28,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Emerald Pinstripe"
+    "item_name": "AK-47 | Emerald Pinstripe",
+    "rarity": "Restricted",
+    "paint_index": "300"
   },
   {
     "id": "skin-459952",
@@ -4393,7 +5019,9 @@
     "price": 2.45,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Emerald Pinstripe"
+    "item_name": "AK-47 | Emerald Pinstripe",
+    "rarity": "Restricted",
+    "paint_index": "300"
   },
   {
     "id": "skin-459952",
@@ -4407,7 +5035,9 @@
     "price": 2.58,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Emerald Pinstripe"
+    "item_name": "AK-47 | Emerald Pinstripe",
+    "rarity": "Restricted",
+    "paint_index": "300"
   },
   {
     "id": "skin-459952",
@@ -4421,7 +5051,9 @@
     "price": 4.66,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Emerald Pinstripe"
+    "item_name": "AK-47 | Emerald Pinstripe",
+    "rarity": "Restricted",
+    "paint_index": "300"
   },
   {
     "id": "skin-461308",
@@ -4435,7 +5067,9 @@
     "price": 141.11,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Bloodsport"
+    "item_name": "AK-47 | Bloodsport",
+    "rarity": "Covert",
+    "paint_index": "639"
   },
   {
     "id": "skin-461308",
@@ -4449,7 +5083,9 @@
     "price": 92.68,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Bloodsport"
+    "item_name": "AK-47 | Bloodsport",
+    "rarity": "Covert",
+    "paint_index": "639"
   },
   {
     "id": "skin-461308",
@@ -4463,7 +5099,9 @@
     "price": 220.71,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Bloodsport"
+    "item_name": "AK-47 | Bloodsport",
+    "rarity": "Covert",
+    "paint_index": "639"
   },
   {
     "id": "skin-461308",
@@ -4477,7 +5115,9 @@
     "price": 65.47,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Bloodsport"
+    "item_name": "AK-47 | Bloodsport",
+    "rarity": "Covert",
+    "paint_index": "639"
   },
   {
     "id": "skin-461308",
@@ -4491,7 +5131,9 @@
     "price": 143.85,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Bloodsport"
+    "item_name": "AK-47 | Bloodsport",
+    "rarity": "Covert",
+    "paint_index": "639"
   },
   {
     "id": "skin-461308",
@@ -4505,7 +5147,9 @@
     "price": 175.53,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Bloodsport"
+    "item_name": "AK-47 | Bloodsport",
+    "rarity": "Covert",
+    "paint_index": "639"
   },
   {
     "id": "skin-461308",
@@ -4519,7 +5163,9 @@
     "price": 75.83,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Bloodsport"
+    "item_name": "AK-47 | Bloodsport",
+    "rarity": "Covert",
+    "paint_index": "639"
   },
   {
     "id": "skin-461308",
@@ -4533,7 +5179,9 @@
     "price": 66.37,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Bloodsport"
+    "item_name": "AK-47 | Bloodsport",
+    "rarity": "Covert",
+    "paint_index": "639"
   },
   {
     "id": "skin-460116",
@@ -4547,7 +5195,9 @@
     "price": 127.26,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | First Class"
+    "item_name": "AK-47 | First Class",
+    "rarity": "Restricted",
+    "paint_index": "341"
   },
   {
     "id": "skin-460116",
@@ -4561,7 +5211,9 @@
     "price": 48,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | First Class"
+    "item_name": "AK-47 | First Class",
+    "rarity": "Restricted",
+    "paint_index": "341"
   },
   {
     "id": "skin-460116",
@@ -4575,7 +5227,9 @@
     "price": 55.59,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | First Class"
+    "item_name": "AK-47 | First Class",
+    "rarity": "Restricted",
+    "paint_index": "341"
   },
   {
     "id": "skin-460116",
@@ -4589,7 +5243,9 @@
     "price": 83.65,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | First Class"
+    "item_name": "AK-47 | First Class",
+    "rarity": "Restricted",
+    "paint_index": "341"
   },
   {
     "id": "skin-460116",
@@ -4603,7 +5259,9 @@
     "price": 57.7,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | First Class"
+    "item_name": "AK-47 | First Class",
+    "rarity": "Restricted",
+    "paint_index": "341"
   },
   {
     "id": "skin-462892",
@@ -4617,7 +5275,9 @@
     "price": 6.31,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Slate"
+    "item_name": "AK-47 | Slate",
+    "rarity": "Restricted",
+    "paint_index": "1035"
   },
   {
     "id": "skin-462892",
@@ -4631,7 +5291,9 @@
     "price": 1.66,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Slate"
+    "item_name": "AK-47 | Slate",
+    "rarity": "Restricted",
+    "paint_index": "1035"
   },
   {
     "id": "skin-462892",
@@ -4645,7 +5307,9 @@
     "price": 2.66,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Slate"
+    "item_name": "AK-47 | Slate",
+    "rarity": "Restricted",
+    "paint_index": "1035"
   },
   {
     "id": "skin-462892",
@@ -4659,7 +5323,9 @@
     "price": 5.22,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Slate"
+    "item_name": "AK-47 | Slate",
+    "rarity": "Restricted",
+    "paint_index": "1035"
   },
   {
     "id": "skin-462892",
@@ -4673,7 +5339,9 @@
     "price": 1.37,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Slate"
+    "item_name": "AK-47 | Slate",
+    "rarity": "Restricted",
+    "paint_index": "1035"
   },
   {
     "id": "skin-462892",
@@ -4687,7 +5355,9 @@
     "price": 5.41,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Slate"
+    "item_name": "AK-47 | Slate",
+    "rarity": "Restricted",
+    "paint_index": "1035"
   },
   {
     "id": "skin-462892",
@@ -4701,7 +5371,9 @@
     "price": 5.76,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Slate"
+    "item_name": "AK-47 | Slate",
+    "rarity": "Restricted",
+    "paint_index": "1035"
   },
   {
     "id": "skin-462892",
@@ -4715,7 +5387,9 @@
     "price": 10.7,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Slate"
+    "item_name": "AK-47 | Slate",
+    "rarity": "Restricted",
+    "paint_index": "1035"
   },
   {
     "id": "skin-462892",
@@ -4729,7 +5403,9 @@
     "price": 1.37,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Slate"
+    "item_name": "AK-47 | Slate",
+    "rarity": "Restricted",
+    "paint_index": "1035"
   },
   {
     "id": "skin-462892",
@@ -4743,7 +5419,9 @@
     "price": 28.04,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "AK-47 | Slate"
+    "item_name": "AK-47 | Slate",
+    "rarity": "Restricted",
+    "paint_index": "1035"
   },
   {
     "id": "skin-461932",
@@ -4757,7 +5435,9 @@
     "price": 2.84,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Safety Net"
+    "item_name": "AK-47 | Safety Net",
+    "rarity": "Restricted",
+    "paint_index": "795"
   },
   {
     "id": "skin-461932",
@@ -4771,7 +5451,9 @@
     "price": 4.53,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Safety Net"
+    "item_name": "AK-47 | Safety Net",
+    "rarity": "Restricted",
+    "paint_index": "795"
   },
   {
     "id": "skin-461932",
@@ -4785,7 +5467,9 @@
     "price": 4.39,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Safety Net"
+    "item_name": "AK-47 | Safety Net",
+    "rarity": "Restricted",
+    "paint_index": "795"
   },
   {
     "id": "skin-461932",
@@ -4799,7 +5483,9 @@
     "price": 7.51,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Safety Net"
+    "item_name": "AK-47 | Safety Net",
+    "rarity": "Restricted",
+    "paint_index": "795"
   },
   {
     "id": "skin-461932",
@@ -4813,7 +5499,9 @@
     "price": 2.86,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Safety Net"
+    "item_name": "AK-47 | Safety Net",
+    "rarity": "Restricted",
+    "paint_index": "795"
   },
   {
     "id": "skin-463704",
@@ -4827,7 +5515,9 @@
     "price": 1.82,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Steel Delta"
+    "item_name": "AK-47 | Steel Delta",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1238"
   },
   {
     "id": "skin-463704",
@@ -4841,7 +5531,9 @@
     "price": 2.67,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Steel Delta"
+    "item_name": "AK-47 | Steel Delta",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1238"
   },
   {
     "id": "skin-463704",
@@ -4855,7 +5547,9 @@
     "price": 1.16,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Steel Delta"
+    "item_name": "AK-47 | Steel Delta",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1238"
   },
   {
     "id": "skin-463704",
@@ -4869,7 +5563,9 @@
     "price": 1.44,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Steel Delta"
+    "item_name": "AK-47 | Steel Delta",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1238"
   },
   {
     "id": "skin-463704",
@@ -4883,7 +5579,9 @@
     "price": 1.16,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Steel Delta"
+    "item_name": "AK-47 | Steel Delta",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1238"
   },
   {
     "id": "skin-462436",
@@ -4897,7 +5595,9 @@
     "price": 2948.25,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Gold Arabesque"
+    "item_name": "AK-47 | Gold Arabesque",
+    "rarity": "Covert",
+    "paint_index": "921"
   },
   {
     "id": "skin-462436",
@@ -4911,7 +5611,9 @@
     "price": 1508.3,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Gold Arabesque"
+    "item_name": "AK-47 | Gold Arabesque",
+    "rarity": "Covert",
+    "paint_index": "921"
   },
   {
     "id": "skin-462436",
@@ -4925,7 +5627,9 @@
     "price": 1755.28,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Gold Arabesque"
+    "item_name": "AK-47 | Gold Arabesque",
+    "rarity": "Covert",
+    "paint_index": "921"
   },
   {
     "id": "skin-462436",
@@ -4939,7 +5643,9 @@
     "price": 2212.74,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Gold Arabesque"
+    "item_name": "AK-47 | Gold Arabesque",
+    "rarity": "Covert",
+    "paint_index": "921"
   },
   {
     "id": "skin-462436",
@@ -4953,7 +5659,9 @@
     "price": 1685.34,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Gold Arabesque"
+    "item_name": "AK-47 | Gold Arabesque",
+    "rarity": "Covert",
+    "paint_index": "921"
   },
   {
     "id": "skin-463032",
@@ -4967,7 +5675,9 @@
     "price": 13.1,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Green Laminate"
+    "item_name": "AK-47 | Green Laminate",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1070"
   },
   {
     "id": "skin-463032",
@@ -4981,7 +5691,9 @@
     "price": 27.43,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Green Laminate"
+    "item_name": "AK-47 | Green Laminate",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1070"
   },
   {
     "id": "skin-463032",
@@ -4995,7 +5707,9 @@
     "price": 12.6,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Green Laminate"
+    "item_name": "AK-47 | Green Laminate",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1070"
   },
   {
     "id": "skin-463032",
@@ -5009,7 +5723,9 @@
     "price": 15.36,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Green Laminate"
+    "item_name": "AK-47 | Green Laminate",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1070"
   },
   {
     "id": "skin-459240",
@@ -5023,7 +5739,9 @@
     "price": 5.27,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Jungle Spray"
+    "item_name": "AK-47 | Jungle Spray",
+    "rarity": "Industrial Grade",
+    "paint_index": "122"
   },
   {
     "id": "skin-459240",
@@ -5037,7 +5755,9 @@
     "price": 115.19,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Jungle Spray"
+    "item_name": "AK-47 | Jungle Spray",
+    "rarity": "Industrial Grade",
+    "paint_index": "122"
   },
   {
     "id": "skin-459240",
@@ -5051,7 +5771,9 @@
     "price": 4.43,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Jungle Spray"
+    "item_name": "AK-47 | Jungle Spray",
+    "rarity": "Industrial Grade",
+    "paint_index": "122"
   },
   {
     "id": "skin-459240",
@@ -5065,7 +5787,9 @@
     "price": 10.92,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Jungle Spray"
+    "item_name": "AK-47 | Jungle Spray",
+    "rarity": "Industrial Grade",
+    "paint_index": "122"
   },
   {
     "id": "skin-459240",
@@ -5079,6 +5803,8 @@
     "price": 4.33,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "AK-47 | Jungle Spray"
+    "item_name": "AK-47 | Jungle Spray",
+    "rarity": "Industrial Grade",
+    "paint_index": "122"
   }
 ]

@@ -11,7 +11,9 @@
     "price": 99.97,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Paracord Knife | Urban Masked"
+    "item_name": "★ Paracord Knife | Urban Masked",
+    "rarity": "Covert",
+    "paint_index": "143"
   },
   {
     "id": "skin-33882684",
@@ -25,7 +27,9 @@
     "price": 78.16,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Paracord Knife | Urban Masked"
+    "item_name": "★ Paracord Knife | Urban Masked",
+    "rarity": "Covert",
+    "paint_index": "143"
   },
   {
     "id": "skin-33882684",
@@ -39,7 +43,9 @@
     "price": 74.05,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Paracord Knife | Urban Masked"
+    "item_name": "★ Paracord Knife | Urban Masked",
+    "rarity": "Covert",
+    "paint_index": "143"
   },
   {
     "id": "skin-33882684",
@@ -53,7 +59,9 @@
     "price": 99.76,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Paracord Knife | Urban Masked"
+    "item_name": "★ Paracord Knife | Urban Masked",
+    "rarity": "Covert",
+    "paint_index": "143"
   },
   {
     "id": "skin-33882684",
@@ -67,7 +75,9 @@
     "price": 0,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Paracord Knife | Urban Masked"
+    "item_name": "★ Paracord Knife | Urban Masked",
+    "rarity": "Covert",
+    "paint_index": "143"
   },
   {
     "id": "skin-33882684",
@@ -81,7 +91,9 @@
     "price": 118.48,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Paracord Knife | Urban Masked"
+    "item_name": "★ Paracord Knife | Urban Masked",
+    "rarity": "Covert",
+    "paint_index": "143"
   },
   {
     "id": "skin-33882684",
@@ -95,7 +107,9 @@
     "price": 101.13,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Paracord Knife | Urban Masked"
+    "item_name": "★ Paracord Knife | Urban Masked",
+    "rarity": "Covert",
+    "paint_index": "143"
   },
   {
     "id": "skin-33882684",
@@ -109,7 +123,9 @@
     "price": 244.09,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Paracord Knife | Urban Masked"
+    "item_name": "★ Paracord Knife | Urban Masked",
+    "rarity": "Covert",
+    "paint_index": "143"
   },
   {
     "id": "skin-33882684",
@@ -123,7 +139,9 @@
     "price": 94.35,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Paracord Knife | Urban Masked"
+    "item_name": "★ Paracord Knife | Urban Masked",
+    "rarity": "Covert",
+    "paint_index": "143"
   },
   {
     "id": "skin-33882684",
@@ -137,7 +155,9 @@
     "price": 78.03,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Paracord Knife | Urban Masked"
+    "item_name": "★ Paracord Knife | Urban Masked",
+    "rarity": "Covert",
+    "paint_index": "143"
   },
   {
     "id": "skin-33882812",
@@ -151,7 +171,9 @@
     "price": 91.26,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Paracord Knife | Scorched"
+    "item_name": "★ Paracord Knife | Scorched",
+    "rarity": "Covert",
+    "paint_index": "175"
   },
   {
     "id": "skin-33882812",
@@ -165,7 +187,9 @@
     "price": 76.66,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Paracord Knife | Scorched"
+    "item_name": "★ Paracord Knife | Scorched",
+    "rarity": "Covert",
+    "paint_index": "175"
   },
   {
     "id": "skin-33882812",
@@ -179,7 +203,9 @@
     "price": 171.28,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Paracord Knife | Scorched"
+    "item_name": "★ Paracord Knife | Scorched",
+    "rarity": "Covert",
+    "paint_index": "175"
   },
   {
     "id": "skin-33882812",
@@ -193,7 +219,9 @@
     "price": 92.97,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Paracord Knife | Scorched"
+    "item_name": "★ Paracord Knife | Scorched",
+    "rarity": "Covert",
+    "paint_index": "175"
   },
   {
     "id": "skin-33882812",
@@ -207,7 +235,9 @@
     "price": 116.56,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Paracord Knife | Scorched"
+    "item_name": "★ Paracord Knife | Scorched",
+    "rarity": "Covert",
+    "paint_index": "175"
   },
   {
     "id": "skin-33882812",
@@ -221,7 +251,9 @@
     "price": 466.25,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Paracord Knife | Scorched"
+    "item_name": "★ Paracord Knife | Scorched",
+    "rarity": "Covert",
+    "paint_index": "175"
   },
   {
     "id": "skin-33882812",
@@ -235,7 +267,9 @@
     "price": 90.27,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Paracord Knife | Scorched"
+    "item_name": "★ Paracord Knife | Scorched",
+    "rarity": "Covert",
+    "paint_index": "175"
   },
   {
     "id": "skin-33882812",
@@ -249,7 +283,9 @@
     "price": 112.58,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Paracord Knife | Scorched"
+    "item_name": "★ Paracord Knife | Scorched",
+    "rarity": "Covert",
+    "paint_index": "175"
   },
   {
     "id": "skin-33882812",
@@ -263,7 +299,9 @@
     "price": 77.48,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Paracord Knife | Scorched"
+    "item_name": "★ Paracord Knife | Scorched",
+    "rarity": "Covert",
+    "paint_index": "175"
   },
   {
     "id": "skin-33882812",
@@ -277,7 +315,9 @@
     "price": 75.42,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Paracord Knife | Scorched"
+    "item_name": "★ Paracord Knife | Scorched",
+    "rarity": "Covert",
+    "paint_index": "175"
   },
   {
     "id": "skin-33882348",
@@ -291,7 +331,9 @@
     "price": 267.41,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Paracord Knife | Slaughter"
+    "item_name": "★ Paracord Knife | Slaughter",
+    "rarity": "Covert",
+    "paint_index": "59"
   },
   {
     "id": "skin-33882348",
@@ -305,7 +347,9 @@
     "price": 301.23,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Paracord Knife | Slaughter"
+    "item_name": "★ Paracord Knife | Slaughter",
+    "rarity": "Covert",
+    "paint_index": "59"
   },
   {
     "id": "skin-33882348",
@@ -319,7 +363,9 @@
     "price": 244.78,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Paracord Knife | Slaughter"
+    "item_name": "★ Paracord Knife | Slaughter",
+    "rarity": "Covert",
+    "paint_index": "59"
   },
   {
     "id": "skin-33882348",
@@ -333,7 +379,9 @@
     "price": 342.35,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Paracord Knife | Slaughter"
+    "item_name": "★ Paracord Knife | Slaughter",
+    "rarity": "Covert",
+    "paint_index": "59"
   },
   {
     "id": "skin-33882348",
@@ -347,7 +395,9 @@
     "price": 242.86,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Paracord Knife | Slaughter"
+    "item_name": "★ Paracord Knife | Slaughter",
+    "rarity": "Covert",
+    "paint_index": "59"
   },
   {
     "id": "skin-33882348",
@@ -361,7 +411,9 @@
     "price": 286.6,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Paracord Knife | Slaughter"
+    "item_name": "★ Paracord Knife | Slaughter",
+    "rarity": "Covert",
+    "paint_index": "59"
   },
   {
     "id": "skin-33882264",
@@ -375,7 +427,9 @@
     "price": 423.67,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Paracord Knife | Fade"
+    "item_name": "★ Paracord Knife | Fade",
+    "rarity": "Covert",
+    "paint_index": "38"
   },
   {
     "id": "skin-33882264",
@@ -389,7 +443,9 @@
     "price": 754.22,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Paracord Knife | Fade"
+    "item_name": "★ Paracord Knife | Fade",
+    "rarity": "Covert",
+    "paint_index": "38"
   },
   {
     "id": "skin-33882264",
@@ -403,7 +459,9 @@
     "price": 464.6,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Paracord Knife | Fade"
+    "item_name": "★ Paracord Knife | Fade",
+    "rarity": "Covert",
+    "paint_index": "38"
   },
   {
     "id": "skin-33882264",
@@ -417,7 +475,9 @@
     "price": 475.39,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Paracord Knife | Fade"
+    "item_name": "★ Paracord Knife | Fade",
+    "rarity": "Covert",
+    "paint_index": "38"
   },
   {
     "id": "skin-33882288",
@@ -431,7 +491,9 @@
     "price": 219.34,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Paracord Knife | Case Hardened"
+    "item_name": "★ Paracord Knife | Case Hardened",
+    "rarity": "Covert",
+    "paint_index": "44"
   },
   {
     "id": "skin-33882288",
@@ -445,7 +507,9 @@
     "price": 322.19,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Paracord Knife | Case Hardened"
+    "item_name": "★ Paracord Knife | Case Hardened",
+    "rarity": "Covert",
+    "paint_index": "44"
   },
   {
     "id": "skin-33882288",
@@ -459,7 +523,9 @@
     "price": 167.49,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Paracord Knife | Case Hardened"
+    "item_name": "★ Paracord Knife | Case Hardened",
+    "rarity": "Covert",
+    "paint_index": "44"
   },
   {
     "id": "skin-33882288",
@@ -473,7 +539,9 @@
     "price": 185.06,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Paracord Knife | Case Hardened"
+    "item_name": "★ Paracord Knife | Case Hardened",
+    "rarity": "Covert",
+    "paint_index": "44"
   },
   {
     "id": "skin-33882288",
@@ -487,7 +555,9 @@
     "price": 562.24,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Paracord Knife | Case Hardened"
+    "item_name": "★ Paracord Knife | Case Hardened",
+    "rarity": "Covert",
+    "paint_index": "44"
   },
   {
     "id": "skin-33882288",
@@ -501,7 +571,9 @@
     "price": 223.52,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Paracord Knife | Case Hardened"
+    "item_name": "★ Paracord Knife | Case Hardened",
+    "rarity": "Covert",
+    "paint_index": "44"
   },
   {
     "id": "skin-33882288",
@@ -515,7 +587,9 @@
     "price": 176.76,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Paracord Knife | Case Hardened"
+    "item_name": "★ Paracord Knife | Case Hardened",
+    "rarity": "Covert",
+    "paint_index": "44"
   },
   {
     "id": "skin-33882288",
@@ -529,7 +603,9 @@
     "price": 246.77,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Paracord Knife | Case Hardened"
+    "item_name": "★ Paracord Knife | Case Hardened",
+    "rarity": "Covert",
+    "paint_index": "44"
   },
   {
     "id": "skin-33882288",
@@ -543,7 +619,9 @@
     "price": 186.34,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Paracord Knife | Case Hardened"
+    "item_name": "★ Paracord Knife | Case Hardened",
+    "rarity": "Covert",
+    "paint_index": "44"
   },
   {
     "id": "skin-33882288",
@@ -557,7 +635,9 @@
     "price": 157.7,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Paracord Knife | Case Hardened"
+    "item_name": "★ Paracord Knife | Case Hardened",
+    "rarity": "Covert",
+    "paint_index": "44"
   },
   {
     "id": "skin-33882420",
@@ -571,7 +651,9 @@
     "price": 82.31,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Paracord Knife | Boreal Forest"
+    "item_name": "★ Paracord Knife | Boreal Forest",
+    "rarity": "Covert",
+    "paint_index": "77"
   },
   {
     "id": "skin-33882420",
@@ -585,7 +667,9 @@
     "price": 78.71,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Paracord Knife | Boreal Forest"
+    "item_name": "★ Paracord Knife | Boreal Forest",
+    "rarity": "Covert",
+    "paint_index": "77"
   },
   {
     "id": "skin-33882420",
@@ -599,7 +683,9 @@
     "price": 83.65,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Paracord Knife | Boreal Forest"
+    "item_name": "★ Paracord Knife | Boreal Forest",
+    "rarity": "Covert",
+    "paint_index": "77"
   },
   {
     "id": "skin-33882420",
@@ -613,7 +699,9 @@
     "price": 91.26,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Paracord Knife | Boreal Forest"
+    "item_name": "★ Paracord Knife | Boreal Forest",
+    "rarity": "Covert",
+    "paint_index": "77"
   },
   {
     "id": "skin-33882420",
@@ -627,7 +715,9 @@
     "price": 105.59,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Paracord Knife | Boreal Forest"
+    "item_name": "★ Paracord Knife | Boreal Forest",
+    "rarity": "Covert",
+    "paint_index": "77"
   },
   {
     "id": "skin-33882420",
@@ -641,7 +731,9 @@
     "price": 91.6,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Paracord Knife | Boreal Forest"
+    "item_name": "★ Paracord Knife | Boreal Forest",
+    "rarity": "Covert",
+    "paint_index": "77"
   },
   {
     "id": "skin-33882420",
@@ -655,7 +747,9 @@
     "price": 259.06,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Paracord Knife | Boreal Forest"
+    "item_name": "★ Paracord Knife | Boreal Forest",
+    "rarity": "Covert",
+    "paint_index": "77"
   },
   {
     "id": "skin-33882420",
@@ -669,7 +763,9 @@
     "price": 294.69,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Paracord Knife | Boreal Forest"
+    "item_name": "★ Paracord Knife | Boreal Forest",
+    "rarity": "Covert",
+    "paint_index": "77"
   },
   {
     "id": "skin-33882420",
@@ -683,7 +779,9 @@
     "price": 113.13,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Paracord Knife | Boreal Forest"
+    "item_name": "★ Paracord Knife | Boreal Forest",
+    "rarity": "Covert",
+    "paint_index": "77"
   },
   {
     "id": "skin-33882420",
@@ -697,7 +795,9 @@
     "price": 105.22,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Paracord Knife | Boreal Forest"
+    "item_name": "★ Paracord Knife | Boreal Forest",
+    "rarity": "Covert",
+    "paint_index": "77"
   },
   {
     "id": "skin-33882400",
@@ -711,7 +811,9 @@
     "price": 96.27,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Paracord Knife | Safari Mesh"
+    "item_name": "★ Paracord Knife | Safari Mesh",
+    "rarity": "Covert",
+    "paint_index": "72"
   },
   {
     "id": "skin-33882400",
@@ -725,7 +827,9 @@
     "price": 75.83,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Paracord Knife | Safari Mesh"
+    "item_name": "★ Paracord Knife | Safari Mesh",
+    "rarity": "Covert",
+    "paint_index": "72"
   },
   {
     "id": "skin-33882400",
@@ -739,7 +843,9 @@
     "price": 83.65,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Paracord Knife | Safari Mesh"
+    "item_name": "★ Paracord Knife | Safari Mesh",
+    "rarity": "Covert",
+    "paint_index": "72"
   },
   {
     "id": "skin-33882400",
@@ -753,7 +859,9 @@
     "price": 80.75,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Paracord Knife | Safari Mesh"
+    "item_name": "★ Paracord Knife | Safari Mesh",
+    "rarity": "Covert",
+    "paint_index": "72"
   },
   {
     "id": "skin-33882400",
@@ -767,7 +875,9 @@
     "price": 75.42,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Paracord Knife | Safari Mesh"
+    "item_name": "★ Paracord Knife | Safari Mesh",
+    "rarity": "Covert",
+    "paint_index": "72"
   },
   {
     "id": "skin-33882400",
@@ -781,7 +891,9 @@
     "price": 157.84,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Paracord Knife | Safari Mesh"
+    "item_name": "★ Paracord Knife | Safari Mesh",
+    "rarity": "Covert",
+    "paint_index": "72"
   },
   {
     "id": "skin-33882400",
@@ -795,7 +907,9 @@
     "price": 102.85,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Paracord Knife | Safari Mesh"
+    "item_name": "★ Paracord Knife | Safari Mesh",
+    "rarity": "Covert",
+    "paint_index": "72"
   },
   {
     "id": "skin-33882400",
@@ -809,7 +923,9 @@
     "price": 80.15,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Paracord Knife | Safari Mesh"
+    "item_name": "★ Paracord Knife | Safari Mesh",
+    "rarity": "Covert",
+    "paint_index": "72"
   },
   {
     "id": "skin-33882400",
@@ -823,7 +939,9 @@
     "price": 101.48,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Paracord Knife | Safari Mesh"
+    "item_name": "★ Paracord Knife | Safari Mesh",
+    "rarity": "Covert",
+    "paint_index": "72"
   },
   {
     "id": "skin-33882400",
@@ -837,7 +955,9 @@
     "price": 425.11,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Paracord Knife | Safari Mesh"
+    "item_name": "★ Paracord Knife | Safari Mesh",
+    "rarity": "Covert",
+    "paint_index": "72"
   },
   {
     "id": "skin-33885052",
@@ -851,7 +971,9 @@
     "price": 109.7,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Paracord Knife | Night Stripe"
+    "item_name": "★ Paracord Knife | Night Stripe",
+    "rarity": "Covert",
+    "paint_index": "735"
   },
   {
     "id": "skin-33885052",
@@ -865,7 +987,9 @@
     "price": 150.36,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Paracord Knife | Night Stripe"
+    "item_name": "★ Paracord Knife | Night Stripe",
+    "rarity": "Covert",
+    "paint_index": "735"
   },
   {
     "id": "skin-33885052",
@@ -879,7 +1003,9 @@
     "price": 150.84,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Paracord Knife | Night Stripe"
+    "item_name": "★ Paracord Knife | Night Stripe",
+    "rarity": "Covert",
+    "paint_index": "735"
   },
   {
     "id": "skin-33885052",
@@ -893,7 +1019,9 @@
     "price": 98.1,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Paracord Knife | Night Stripe"
+    "item_name": "★ Paracord Knife | Night Stripe",
+    "rarity": "Covert",
+    "paint_index": "735"
   },
   {
     "id": "skin-33885052",
@@ -907,7 +1035,9 @@
     "price": 91.74,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Paracord Knife | Night Stripe"
+    "item_name": "★ Paracord Knife | Night Stripe",
+    "rarity": "Covert",
+    "paint_index": "735"
   },
   {
     "id": "skin-33885052",
@@ -921,7 +1051,9 @@
     "price": 113.13,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Paracord Knife | Night Stripe"
+    "item_name": "★ Paracord Knife | Night Stripe",
+    "rarity": "Covert",
+    "paint_index": "735"
   },
   {
     "id": "skin-33885052",
@@ -935,7 +1067,9 @@
     "price": 411.39,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Paracord Knife | Night Stripe"
+    "item_name": "★ Paracord Knife | Night Stripe",
+    "rarity": "Covert",
+    "paint_index": "735"
   },
   {
     "id": "skin-33885052",
@@ -949,7 +1083,9 @@
     "price": 12381.35,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Paracord Knife | Night Stripe"
+    "item_name": "★ Paracord Knife | Night Stripe",
+    "rarity": "Covert",
+    "paint_index": "735"
   },
   {
     "id": "skin-33885052",
@@ -963,7 +1099,9 @@
     "price": 89.41,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Paracord Knife | Night Stripe"
+    "item_name": "★ Paracord Knife | Night Stripe",
+    "rarity": "Covert",
+    "paint_index": "735"
   },
   {
     "id": "skin-33885052",
@@ -977,7 +1115,9 @@
     "price": 102.82,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Paracord Knife | Night Stripe"
+    "item_name": "★ Paracord Knife | Night Stripe",
+    "rarity": "Covert",
+    "paint_index": "735"
   },
   {
     "id": "skin-33882280",
@@ -991,7 +1131,9 @@
     "price": 115.19,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Paracord Knife | Blue Steel"
+    "item_name": "★ Paracord Knife | Blue Steel",
+    "rarity": "Covert",
+    "paint_index": "42"
   },
   {
     "id": "skin-33882280",
@@ -1005,7 +1147,9 @@
     "price": 115.88,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Paracord Knife | Blue Steel"
+    "item_name": "★ Paracord Knife | Blue Steel",
+    "rarity": "Covert",
+    "paint_index": "42"
   },
   {
     "id": "skin-33882280",
@@ -1019,7 +1163,9 @@
     "price": 156.32,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Paracord Knife | Blue Steel"
+    "item_name": "★ Paracord Knife | Blue Steel",
+    "rarity": "Covert",
+    "paint_index": "42"
   },
   {
     "id": "skin-33882280",
@@ -1033,7 +1179,9 @@
     "price": 123.35,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Paracord Knife | Blue Steel"
+    "item_name": "★ Paracord Knife | Blue Steel",
+    "rarity": "Covert",
+    "paint_index": "42"
   },
   {
     "id": "skin-33882280",
@@ -1047,7 +1195,9 @@
     "price": 138.23,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Paracord Knife | Blue Steel"
+    "item_name": "★ Paracord Knife | Blue Steel",
+    "rarity": "Covert",
+    "paint_index": "42"
   },
   {
     "id": "skin-33882280",
@@ -1061,7 +1211,9 @@
     "price": 123.13,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Paracord Knife | Blue Steel"
+    "item_name": "★ Paracord Knife | Blue Steel",
+    "rarity": "Covert",
+    "paint_index": "42"
   },
   {
     "id": "skin-33882280",
@@ -1075,7 +1227,9 @@
     "price": 143.99,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Paracord Knife | Blue Steel"
+    "item_name": "★ Paracord Knife | Blue Steel",
+    "rarity": "Covert",
+    "paint_index": "42"
   },
   {
     "id": "skin-33882280",
@@ -1089,7 +1243,9 @@
     "price": 176.9,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Paracord Knife | Blue Steel"
+    "item_name": "★ Paracord Knife | Blue Steel",
+    "rarity": "Covert",
+    "paint_index": "42"
   },
   {
     "id": "skin-33882280",
@@ -1103,7 +1259,9 @@
     "price": 286.44,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Paracord Knife | Blue Steel"
+    "item_name": "★ Paracord Knife | Blue Steel",
+    "rarity": "Covert",
+    "paint_index": "42"
   },
   {
     "id": "skin-33882280",
@@ -1117,7 +1275,9 @@
     "price": 212.35,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Paracord Knife | Blue Steel"
+    "item_name": "★ Paracord Knife | Blue Steel",
+    "rarity": "Covert",
+    "paint_index": "42"
   },
   {
     "id": "skin-33882132",
@@ -1131,7 +1291,9 @@
     "price": 89.48,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Paracord Knife | Forest DDPAT"
+    "item_name": "★ Paracord Knife | Forest DDPAT",
+    "rarity": "Covert",
+    "paint_index": "5"
   },
   {
     "id": "skin-33882132",
@@ -1145,7 +1307,9 @@
     "price": 102.71,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Paracord Knife | Forest DDPAT"
+    "item_name": "★ Paracord Knife | Forest DDPAT",
+    "rarity": "Covert",
+    "paint_index": "5"
   },
   {
     "id": "skin-33882132",
@@ -1159,7 +1323,9 @@
     "price": 0,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Paracord Knife | Forest DDPAT"
+    "item_name": "★ Paracord Knife | Forest DDPAT",
+    "rarity": "Covert",
+    "paint_index": "5"
   },
   {
     "id": "skin-33882132",
@@ -1173,7 +1339,9 @@
     "price": 85.64,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Paracord Knife | Forest DDPAT"
+    "item_name": "★ Paracord Knife | Forest DDPAT",
+    "rarity": "Covert",
+    "paint_index": "5"
   },
   {
     "id": "skin-33882132",
@@ -1187,7 +1355,9 @@
     "price": 77.9,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Paracord Knife | Forest DDPAT"
+    "item_name": "★ Paracord Knife | Forest DDPAT",
+    "rarity": "Covert",
+    "paint_index": "5"
   },
   {
     "id": "skin-33882132",
@@ -1201,7 +1371,9 @@
     "price": 79.12,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Paracord Knife | Forest DDPAT"
+    "item_name": "★ Paracord Knife | Forest DDPAT",
+    "rarity": "Covert",
+    "paint_index": "5"
   },
   {
     "id": "skin-33882132",
@@ -1215,7 +1387,9 @@
     "price": 88.24,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Paracord Knife | Forest DDPAT"
+    "item_name": "★ Paracord Knife | Forest DDPAT",
+    "rarity": "Covert",
+    "paint_index": "5"
   },
   {
     "id": "skin-33882132",
@@ -1229,7 +1403,9 @@
     "price": 164.28,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Paracord Knife | Forest DDPAT"
+    "item_name": "★ Paracord Knife | Forest DDPAT",
+    "rarity": "Covert",
+    "paint_index": "5"
   },
   {
     "id": "skin-33882132",
@@ -1243,7 +1419,9 @@
     "price": 76.66,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Paracord Knife | Forest DDPAT"
+    "item_name": "★ Paracord Knife | Forest DDPAT",
+    "rarity": "Covert",
+    "paint_index": "5"
   },
   {
     "id": "skin-33882132",
@@ -1257,7 +1435,9 @@
     "price": 115.88,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Paracord Knife | Forest DDPAT"
+    "item_name": "★ Paracord Knife | Forest DDPAT",
+    "rarity": "Covert",
+    "paint_index": "5"
   },
   {
     "id": "skin-33882284",
@@ -1271,7 +1451,9 @@
     "price": 136.93,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Paracord Knife | Stained"
+    "item_name": "★ Paracord Knife | Stained",
+    "rarity": "Covert",
+    "paint_index": "43"
   },
   {
     "id": "skin-33882284",
@@ -1285,7 +1467,9 @@
     "price": 123.42,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Paracord Knife | Stained"
+    "item_name": "★ Paracord Knife | Stained",
+    "rarity": "Covert",
+    "paint_index": "43"
   },
   {
     "id": "skin-33882284",
@@ -1299,7 +1483,9 @@
     "price": 115.85,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Paracord Knife | Stained"
+    "item_name": "★ Paracord Knife | Stained",
+    "rarity": "Covert",
+    "paint_index": "43"
   },
   {
     "id": "skin-33882284",
@@ -1313,7 +1499,9 @@
     "price": 130.27,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Paracord Knife | Stained"
+    "item_name": "★ Paracord Knife | Stained",
+    "rarity": "Covert",
+    "paint_index": "43"
   },
   {
     "id": "skin-33882284",
@@ -1327,7 +1515,9 @@
     "price": 1524.44,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Paracord Knife | Stained"
+    "item_name": "★ Paracord Knife | Stained",
+    "rarity": "Covert",
+    "paint_index": "43"
   },
   {
     "id": "skin-33882284",
@@ -1341,7 +1531,9 @@
     "price": 215.98,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Paracord Knife | Stained"
+    "item_name": "★ Paracord Knife | Stained",
+    "rarity": "Covert",
+    "paint_index": "43"
   },
   {
     "id": "skin-33882284",
@@ -1355,7 +1547,9 @@
     "price": 102.57,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Paracord Knife | Stained"
+    "item_name": "★ Paracord Knife | Stained",
+    "rarity": "Covert",
+    "paint_index": "43"
   },
   {
     "id": "skin-33882284",
@@ -1369,7 +1563,9 @@
     "price": 164.56,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Paracord Knife | Stained"
+    "item_name": "★ Paracord Knife | Stained",
+    "rarity": "Covert",
+    "paint_index": "43"
   },
   {
     "id": "skin-33882284",
@@ -1383,7 +1579,9 @@
     "price": 106.55,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Paracord Knife | Stained"
+    "item_name": "★ Paracord Knife | Stained",
+    "rarity": "Covert",
+    "paint_index": "43"
   },
   {
     "id": "skin-33882284",
@@ -1397,7 +1595,9 @@
     "price": 120.68,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Paracord Knife | Stained"
+    "item_name": "★ Paracord Knife | Stained",
+    "rarity": "Covert",
+    "paint_index": "43"
   },
   {
     "id": "skin-33882160",
@@ -1411,7 +1611,9 @@
     "price": 212.28,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Paracord Knife | Crimson Web"
+    "item_name": "★ Paracord Knife | Crimson Web",
+    "rarity": "Covert",
+    "paint_index": "12"
   },
   {
     "id": "skin-33882160",
@@ -1425,7 +1627,9 @@
     "price": 189.24,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Paracord Knife | Crimson Web"
+    "item_name": "★ Paracord Knife | Crimson Web",
+    "rarity": "Covert",
+    "paint_index": "12"
   },
   {
     "id": "skin-33882160",
@@ -1439,7 +1643,9 @@
     "price": 2194.1,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Paracord Knife | Crimson Web"
+    "item_name": "★ Paracord Knife | Crimson Web",
+    "rarity": "Covert",
+    "paint_index": "12"
   },
   {
     "id": "skin-33882160",
@@ -1453,7 +1659,9 @@
     "price": 191.85,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Paracord Knife | Crimson Web"
+    "item_name": "★ Paracord Knife | Crimson Web",
+    "rarity": "Covert",
+    "paint_index": "12"
   },
   {
     "id": "skin-33882160",
@@ -1467,7 +1675,9 @@
     "price": 152.9,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Paracord Knife | Crimson Web"
+    "item_name": "★ Paracord Knife | Crimson Web",
+    "rarity": "Covert",
+    "paint_index": "12"
   },
   {
     "id": "skin-33882160",
@@ -1481,7 +1691,9 @@
     "price": 189.91,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Paracord Knife | Crimson Web"
+    "item_name": "★ Paracord Knife | Crimson Web",
+    "rarity": "Covert",
+    "paint_index": "12"
   },
   {
     "id": "skin-33882160",
@@ -1495,7 +1707,9 @@
     "price": 316.7,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Paracord Knife | Crimson Web"
+    "item_name": "★ Paracord Knife | Crimson Web",
+    "rarity": "Covert",
+    "paint_index": "12"
   },
   {
     "id": "skin-33882160",
@@ -1509,7 +1723,9 @@
     "price": 377.25,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Paracord Knife | Crimson Web"
+    "item_name": "★ Paracord Knife | Crimson Web",
+    "rarity": "Covert",
+    "paint_index": "12"
   },
   {
     "id": "skin-33882160",
@@ -1523,7 +1739,9 @@
     "price": 219.34,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Paracord Knife | Crimson Web"
+    "item_name": "★ Paracord Knife | Crimson Web",
+    "rarity": "Covert",
+    "paint_index": "12"
   },
   {
     "id": "skin-33882160",
@@ -1537,6 +1755,8 @@
     "price": 20569.64,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Paracord Knife | Crimson Web"
+    "item_name": "★ Paracord Knife | Crimson Web",
+    "rarity": "Covert",
+    "paint_index": "12"
   }
 ]

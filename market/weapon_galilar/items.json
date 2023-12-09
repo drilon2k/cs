@@ -11,7 +11,9 @@
     "price": 75.42,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Aqua Terrace"
+    "item_name": "Galil AR | Aqua Terrace",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "460"
   },
   {
     "id": "skin-853808",
@@ -25,7 +27,9 @@
     "price": 79.88,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Aqua Terrace"
+    "item_name": "Galil AR | Aqua Terrace",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "460"
   },
   {
     "id": "skin-853808",
@@ -39,7 +43,9 @@
     "price": 90.51,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Aqua Terrace"
+    "item_name": "Galil AR | Aqua Terrace",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "460"
   },
   {
     "id": "skin-853808",
@@ -53,7 +59,9 @@
     "price": 80.04,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Aqua Terrace"
+    "item_name": "Galil AR | Aqua Terrace",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "460"
   },
   {
     "id": "skin-853808",
@@ -67,7 +75,9 @@
     "price": 102.85,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Aqua Terrace"
+    "item_name": "Galil AR | Aqua Terrace",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "460"
   },
   {
     "id": "skin-853484",
@@ -81,7 +91,9 @@
     "price": 12.73,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Cerberus"
+    "item_name": "Galil AR | Cerberus",
+    "rarity": "Restricted",
+    "paint_index": "379"
   },
   {
     "id": "skin-853484",
@@ -95,7 +107,9 @@
     "price": 53.21,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Cerberus"
+    "item_name": "Galil AR | Cerberus",
+    "rarity": "Restricted",
+    "paint_index": "379"
   },
   {
     "id": "skin-853484",
@@ -109,7 +123,9 @@
     "price": 30.1,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Cerberus"
+    "item_name": "Galil AR | Cerberus",
+    "rarity": "Restricted",
+    "paint_index": "379"
   },
   {
     "id": "skin-853484",
@@ -123,7 +139,9 @@
     "price": 8.91,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Cerberus"
+    "item_name": "Galil AR | Cerberus",
+    "rarity": "Restricted",
+    "paint_index": "379"
   },
   {
     "id": "skin-853484",
@@ -137,7 +155,9 @@
     "price": 13.57,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Cerberus"
+    "item_name": "Galil AR | Cerberus",
+    "rarity": "Restricted",
+    "paint_index": "379"
   },
   {
     "id": "skin-852736",
@@ -151,7 +171,9 @@
     "price": 4.42,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Galil AR | Shattered"
+    "item_name": "Galil AR | Shattered",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "192"
   },
   {
     "id": "skin-852736",
@@ -165,7 +187,9 @@
     "price": 5.29,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Galil AR | Shattered"
+    "item_name": "Galil AR | Shattered",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "192"
   },
   {
     "id": "skin-852736",
@@ -179,7 +203,9 @@
     "price": 6.86,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Galil AR | Shattered"
+    "item_name": "Galil AR | Shattered",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "192"
   },
   {
     "id": "skin-852736",
@@ -193,7 +219,9 @@
     "price": 4.6,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Shattered"
+    "item_name": "Galil AR | Shattered",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "192"
   },
   {
     "id": "skin-852736",
@@ -207,7 +235,9 @@
     "price": 5.07,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Galil AR | Shattered"
+    "item_name": "Galil AR | Shattered",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "192"
   },
   {
     "id": "skin-852736",
@@ -221,7 +251,9 @@
     "price": 5.05,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Shattered"
+    "item_name": "Galil AR | Shattered",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "192"
   },
   {
     "id": "skin-852736",
@@ -235,7 +267,9 @@
     "price": 5.14,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Shattered"
+    "item_name": "Galil AR | Shattered",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "192"
   },
   {
     "id": "skin-852736",
@@ -249,7 +283,9 @@
     "price": 67.19,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Galil AR | Shattered"
+    "item_name": "Galil AR | Shattered",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "192"
   },
   {
     "id": "skin-852736",
@@ -263,7 +299,9 @@
     "price": 13.7,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Shattered"
+    "item_name": "Galil AR | Shattered",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "192"
   },
   {
     "id": "skin-852736",
@@ -277,7 +315,9 @@
     "price": 5.06,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Shattered"
+    "item_name": "Galil AR | Shattered",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "192"
   },
   {
     "id": "skin-853024",
@@ -291,7 +331,9 @@
     "price": 3.41,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Galil AR | Sandstorm"
+    "item_name": "Galil AR | Sandstorm",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "264"
   },
   {
     "id": "skin-853024",
@@ -305,7 +347,9 @@
     "price": 2.21,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Sandstorm"
+    "item_name": "Galil AR | Sandstorm",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "264"
   },
   {
     "id": "skin-853024",
@@ -319,7 +363,9 @@
     "price": 1.12,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Galil AR | Sandstorm"
+    "item_name": "Galil AR | Sandstorm",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "264"
   },
   {
     "id": "skin-853024",
@@ -333,7 +379,9 @@
     "price": 0.7,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Sandstorm"
+    "item_name": "Galil AR | Sandstorm",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "264"
   },
   {
     "id": "skin-853024",
@@ -347,7 +395,9 @@
     "price": 1,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Sandstorm"
+    "item_name": "Galil AR | Sandstorm",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "264"
   },
   {
     "id": "skin-853024",
@@ -361,7 +411,9 @@
     "price": 0.81,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Sandstorm"
+    "item_name": "Galil AR | Sandstorm",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "264"
   },
   {
     "id": "skin-853024",
@@ -375,7 +427,9 @@
     "price": 1.19,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Galil AR | Sandstorm"
+    "item_name": "Galil AR | Sandstorm",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "264"
   },
   {
     "id": "skin-853024",
@@ -389,7 +443,9 @@
     "price": 1.87,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Galil AR | Sandstorm"
+    "item_name": "Galil AR | Sandstorm",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "264"
   },
   {
     "id": "skin-854556",
@@ -403,7 +459,9 @@
     "price": 6.28,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Galil AR | Crimson Tsunami"
+    "item_name": "Galil AR | Crimson Tsunami",
+    "rarity": "Restricted",
+    "paint_index": "647"
   },
   {
     "id": "skin-854556",
@@ -417,7 +475,9 @@
     "price": 0.97,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Crimson Tsunami"
+    "item_name": "Galil AR | Crimson Tsunami",
+    "rarity": "Restricted",
+    "paint_index": "647"
   },
   {
     "id": "skin-854556",
@@ -431,7 +491,9 @@
     "price": 1.98,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Galil AR | Crimson Tsunami"
+    "item_name": "Galil AR | Crimson Tsunami",
+    "rarity": "Restricted",
+    "paint_index": "647"
   },
   {
     "id": "skin-854556",
@@ -445,7 +507,9 @@
     "price": 1.8,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Galil AR | Crimson Tsunami"
+    "item_name": "Galil AR | Crimson Tsunami",
+    "rarity": "Restricted",
+    "paint_index": "647"
   },
   {
     "id": "skin-854556",
@@ -459,7 +523,9 @@
     "price": 2.11,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Crimson Tsunami"
+    "item_name": "Galil AR | Crimson Tsunami",
+    "rarity": "Restricted",
+    "paint_index": "647"
   },
   {
     "id": "skin-854556",
@@ -473,7 +539,9 @@
     "price": 3.43,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Galil AR | Crimson Tsunami"
+    "item_name": "Galil AR | Crimson Tsunami",
+    "rarity": "Restricted",
+    "paint_index": "647"
   },
   {
     "id": "skin-854556",
@@ -487,7 +555,9 @@
     "price": 1.23,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Crimson Tsunami"
+    "item_name": "Galil AR | Crimson Tsunami",
+    "rarity": "Restricted",
+    "paint_index": "647"
   },
   {
     "id": "skin-854556",
@@ -501,7 +571,9 @@
     "price": 2.17,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Galil AR | Crimson Tsunami"
+    "item_name": "Galil AR | Crimson Tsunami",
+    "rarity": "Restricted",
+    "paint_index": "647"
   },
   {
     "id": "skin-854556",
@@ -515,7 +587,9 @@
     "price": 0.97,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Crimson Tsunami"
+    "item_name": "Galil AR | Crimson Tsunami",
+    "rarity": "Restricted",
+    "paint_index": "647"
   },
   {
     "id": "skin-854556",
@@ -529,7 +603,9 @@
     "price": 1.35,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Crimson Tsunami"
+    "item_name": "Galil AR | Crimson Tsunami",
+    "rarity": "Restricted",
+    "paint_index": "647"
   },
   {
     "id": "skin-855892",
@@ -543,7 +619,9 @@
     "price": 0.41,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Vandal"
+    "item_name": "Galil AR | Vandal",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "981"
   },
   {
     "id": "skin-855892",
@@ -557,7 +635,9 @@
     "price": 0.9,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Galil AR | Vandal"
+    "item_name": "Galil AR | Vandal",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "981"
   },
   {
     "id": "skin-855892",
@@ -571,7 +651,9 @@
     "price": 0.41,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Galil AR | Vandal"
+    "item_name": "Galil AR | Vandal",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "981"
   },
   {
     "id": "skin-855892",
@@ -585,7 +667,9 @@
     "price": 0.27,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Vandal"
+    "item_name": "Galil AR | Vandal",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "981"
   },
   {
     "id": "skin-855892",
@@ -599,7 +683,9 @@
     "price": 0.32,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Galil AR | Vandal"
+    "item_name": "Galil AR | Vandal",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "981"
   },
   {
     "id": "skin-855892",
@@ -613,7 +699,9 @@
     "price": 0.46,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Vandal"
+    "item_name": "Galil AR | Vandal",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "981"
   },
   {
     "id": "skin-855892",
@@ -627,7 +715,9 @@
     "price": 3.96,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Galil AR | Vandal"
+    "item_name": "Galil AR | Vandal",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "981"
   },
   {
     "id": "skin-855892",
@@ -641,7 +731,9 @@
     "price": 0.32,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Galil AR | Vandal"
+    "item_name": "Galil AR | Vandal",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "981"
   },
   {
     "id": "skin-855892",
@@ -655,7 +747,9 @@
     "price": 0.27,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Vandal"
+    "item_name": "Galil AR | Vandal",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "981"
   },
   {
     "id": "skin-855892",
@@ -669,7 +763,9 @@
     "price": 0.95,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Vandal"
+    "item_name": "Galil AR | Vandal",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "981"
   },
   {
     "id": "skin-853880",
@@ -683,7 +779,9 @@
     "price": 0.26,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Rocket Pop"
+    "item_name": "Galil AR | Rocket Pop",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "478"
   },
   {
     "id": "skin-853880",
@@ -697,7 +795,9 @@
     "price": 0.65,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Rocket Pop"
+    "item_name": "Galil AR | Rocket Pop",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "478"
   },
   {
     "id": "skin-853880",
@@ -711,7 +811,9 @@
     "price": 0.35,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Rocket Pop"
+    "item_name": "Galil AR | Rocket Pop",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "478"
   },
   {
     "id": "skin-853880",
@@ -725,7 +827,9 @@
     "price": 4.25,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Rocket Pop"
+    "item_name": "Galil AR | Rocket Pop",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "478"
   },
   {
     "id": "skin-853880",
@@ -739,7 +843,9 @@
     "price": 0.57,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Galil AR | Rocket Pop"
+    "item_name": "Galil AR | Rocket Pop",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "478"
   },
   {
     "id": "skin-853880",
@@ -753,7 +859,9 @@
     "price": 2.67,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Galil AR | Rocket Pop"
+    "item_name": "Galil AR | Rocket Pop",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "478"
   },
   {
     "id": "skin-853880",
@@ -767,7 +875,9 @@
     "price": 13.61,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Galil AR | Rocket Pop"
+    "item_name": "Galil AR | Rocket Pop",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "478"
   },
   {
     "id": "skin-853880",
@@ -781,7 +891,9 @@
     "price": 0.68,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Galil AR | Rocket Pop"
+    "item_name": "Galil AR | Rocket Pop",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "478"
   },
   {
     "id": "skin-853880",
@@ -795,7 +907,9 @@
     "price": 1.47,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Rocket Pop"
+    "item_name": "Galil AR | Rocket Pop",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "478"
   },
   {
     "id": "skin-853880",
@@ -809,7 +923,9 @@
     "price": 1.11,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Galil AR | Rocket Pop"
+    "item_name": "Galil AR | Rocket Pop",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "478"
   },
   {
     "id": "skin-856096",
@@ -823,7 +939,9 @@
     "price": 9.31,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Dusk Ruins"
+    "item_name": "Galil AR | Dusk Ruins",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1032"
   },
   {
     "id": "skin-856096",
@@ -837,7 +955,9 @@
     "price": 9.87,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Dusk Ruins"
+    "item_name": "Galil AR | Dusk Ruins",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1032"
   },
   {
     "id": "skin-856096",
@@ -851,7 +971,9 @@
     "price": 10.32,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Dusk Ruins"
+    "item_name": "Galil AR | Dusk Ruins",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1032"
   },
   {
     "id": "skin-856096",
@@ -865,7 +987,9 @@
     "price": 8.86,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Dusk Ruins"
+    "item_name": "Galil AR | Dusk Ruins",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1032"
   },
   {
     "id": "skin-856096",
@@ -879,7 +1003,9 @@
     "price": 9.32,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Dusk Ruins"
+    "item_name": "Galil AR | Dusk Ruins",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1032"
   },
   {
     "id": "skin-854612",
@@ -893,7 +1019,9 @@
     "price": 38.26,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Sugar Rush"
+    "item_name": "Galil AR | Sugar Rush",
+    "rarity": "Classified",
+    "paint_index": "661"
   },
   {
     "id": "skin-854612",
@@ -907,7 +1035,9 @@
     "price": 38.26,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Sugar Rush"
+    "item_name": "Galil AR | Sugar Rush",
+    "rarity": "Classified",
+    "paint_index": "661"
   },
   {
     "id": "skin-854612",
@@ -921,7 +1051,9 @@
     "price": 35.11,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Sugar Rush"
+    "item_name": "Galil AR | Sugar Rush",
+    "rarity": "Classified",
+    "paint_index": "661"
   },
   {
     "id": "skin-854612",
@@ -935,7 +1067,9 @@
     "price": 117.66,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Galil AR | Sugar Rush"
+    "item_name": "Galil AR | Sugar Rush",
+    "rarity": "Classified",
+    "paint_index": "661"
   },
   {
     "id": "skin-854612",
@@ -949,7 +1083,9 @@
     "price": 53.35,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Galil AR | Sugar Rush"
+    "item_name": "Galil AR | Sugar Rush",
+    "rarity": "Classified",
+    "paint_index": "661"
   },
   {
     "id": "skin-854612",
@@ -963,7 +1099,9 @@
     "price": 35.49,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Sugar Rush"
+    "item_name": "Galil AR | Sugar Rush",
+    "rarity": "Classified",
+    "paint_index": "661"
   },
   {
     "id": "skin-854612",
@@ -977,7 +1115,9 @@
     "price": 84.82,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Galil AR | Sugar Rush"
+    "item_name": "Galil AR | Sugar Rush",
+    "rarity": "Classified",
+    "paint_index": "661"
   },
   {
     "id": "skin-854612",
@@ -991,7 +1131,9 @@
     "price": 394.95,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Galil AR | Sugar Rush"
+    "item_name": "Galil AR | Sugar Rush",
+    "rarity": "Classified",
+    "paint_index": "661"
   },
   {
     "id": "skin-854612",
@@ -1005,7 +1147,9 @@
     "price": 50.05,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Sugar Rush"
+    "item_name": "Galil AR | Sugar Rush",
+    "rarity": "Classified",
+    "paint_index": "661"
   },
   {
     "id": "skin-854612",
@@ -1019,7 +1163,9 @@
     "price": 62.19,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Galil AR | Sugar Rush"
+    "item_name": "Galil AR | Sugar Rush",
+    "rarity": "Classified",
+    "paint_index": "661"
   },
   {
     "id": "skin-852952",
@@ -1033,7 +1179,9 @@
     "price": 17.55,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Amber Fade"
+    "item_name": "Galil AR | Amber Fade",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "246"
   },
   {
     "id": "skin-852952",
@@ -1047,7 +1195,9 @@
     "price": 19.82,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Amber Fade"
+    "item_name": "Galil AR | Amber Fade",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "246"
   },
   {
     "id": "skin-852952",
@@ -1061,7 +1211,9 @@
     "price": 17.32,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Amber Fade"
+    "item_name": "Galil AR | Amber Fade",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "246"
   },
   {
     "id": "skin-852952",
@@ -1075,7 +1227,9 @@
     "price": 17.41,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Amber Fade"
+    "item_name": "Galil AR | Amber Fade",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "246"
   },
   {
     "id": "skin-853944",
@@ -1089,7 +1243,9 @@
     "price": 5.3,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Stone Cold"
+    "item_name": "Galil AR | Stone Cold",
+    "rarity": "Restricted",
+    "paint_index": "494"
   },
   {
     "id": "skin-853944",
@@ -1103,7 +1259,9 @@
     "price": 5.85,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Galil AR | Stone Cold"
+    "item_name": "Galil AR | Stone Cold",
+    "rarity": "Restricted",
+    "paint_index": "494"
   },
   {
     "id": "skin-853944",
@@ -1117,7 +1275,9 @@
     "price": 1.89,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Galil AR | Stone Cold"
+    "item_name": "Galil AR | Stone Cold",
+    "rarity": "Restricted",
+    "paint_index": "494"
   },
   {
     "id": "skin-853944",
@@ -1131,7 +1291,9 @@
     "price": 2.37,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Galil AR | Stone Cold"
+    "item_name": "Galil AR | Stone Cold",
+    "rarity": "Restricted",
+    "paint_index": "494"
   },
   {
     "id": "skin-853944",
@@ -1145,7 +1307,9 @@
     "price": 2.17,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Stone Cold"
+    "item_name": "Galil AR | Stone Cold",
+    "rarity": "Restricted",
+    "paint_index": "494"
   },
   {
     "id": "skin-853944",
@@ -1159,7 +1323,9 @@
     "price": 1.07,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Stone Cold"
+    "item_name": "Galil AR | Stone Cold",
+    "rarity": "Restricted",
+    "paint_index": "494"
   },
   {
     "id": "skin-853944",
@@ -1173,7 +1339,9 @@
     "price": 1.13,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Stone Cold"
+    "item_name": "Galil AR | Stone Cold",
+    "rarity": "Restricted",
+    "paint_index": "494"
   },
   {
     "id": "skin-853944",
@@ -1187,7 +1355,9 @@
     "price": 0.82,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Stone Cold"
+    "item_name": "Galil AR | Stone Cold",
+    "rarity": "Restricted",
+    "paint_index": "494"
   },
   {
     "id": "skin-853944",
@@ -1201,7 +1371,9 @@
     "price": 2.43,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Galil AR | Stone Cold"
+    "item_name": "Galil AR | Stone Cold",
+    "rarity": "Restricted",
+    "paint_index": "494"
   },
   {
     "id": "skin-853944",
@@ -1215,7 +1387,9 @@
     "price": 16.18,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Galil AR | Stone Cold"
+    "item_name": "Galil AR | Stone Cold",
+    "rarity": "Restricted",
+    "paint_index": "494"
   },
   {
     "id": "skin-852272",
@@ -1229,7 +1403,9 @@
     "price": 5.35,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Winter Forest"
+    "item_name": "Galil AR | Winter Forest",
+    "rarity": "Industrial Grade",
+    "paint_index": "76"
   },
   {
     "id": "skin-852272",
@@ -1243,7 +1419,9 @@
     "price": 13.68,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Winter Forest"
+    "item_name": "Galil AR | Winter Forest",
+    "rarity": "Industrial Grade",
+    "paint_index": "76"
   },
   {
     "id": "skin-852272",
@@ -1257,7 +1435,9 @@
     "price": 4.9,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Winter Forest"
+    "item_name": "Galil AR | Winter Forest",
+    "rarity": "Industrial Grade",
+    "paint_index": "76"
   },
   {
     "id": "skin-852272",
@@ -1271,7 +1451,9 @@
     "price": 4.35,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Winter Forest"
+    "item_name": "Galil AR | Winter Forest",
+    "rarity": "Industrial Grade",
+    "paint_index": "76"
   },
   {
     "id": "skin-852272",
@@ -1285,7 +1467,9 @@
     "price": 181.7,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Winter Forest"
+    "item_name": "Galil AR | Winter Forest",
+    "rarity": "Industrial Grade",
+    "paint_index": "76"
   },
   {
     "id": "skin-855128",
@@ -1299,7 +1483,9 @@
     "price": 0.06,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Cold Fusion"
+    "item_name": "Galil AR | Cold Fusion",
+    "rarity": "Industrial Grade",
+    "paint_index": "790"
   },
   {
     "id": "skin-855128",
@@ -1313,7 +1499,9 @@
     "price": 0.09,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Cold Fusion"
+    "item_name": "Galil AR | Cold Fusion",
+    "rarity": "Industrial Grade",
+    "paint_index": "790"
   },
   {
     "id": "skin-855128",
@@ -1327,7 +1515,9 @@
     "price": 0.27,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Cold Fusion"
+    "item_name": "Galil AR | Cold Fusion",
+    "rarity": "Industrial Grade",
+    "paint_index": "790"
   },
   {
     "id": "skin-855128",
@@ -1341,7 +1531,9 @@
     "price": 0.05,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Cold Fusion"
+    "item_name": "Galil AR | Cold Fusion",
+    "rarity": "Industrial Grade",
+    "paint_index": "790"
   },
   {
     "id": "skin-855128",
@@ -1355,7 +1547,9 @@
     "price": 0.04,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Cold Fusion"
+    "item_name": "Galil AR | Cold Fusion",
+    "rarity": "Industrial Grade",
+    "paint_index": "790"
   },
   {
     "id": "skin-855336",
@@ -1369,7 +1563,9 @@
     "price": 0.11,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Akoben"
+    "item_name": "Galil AR | Akoben",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "842"
   },
   {
     "id": "skin-855336",
@@ -1383,7 +1579,9 @@
     "price": 0.09,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Akoben"
+    "item_name": "Galil AR | Akoben",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "842"
   },
   {
     "id": "skin-855336",
@@ -1397,7 +1595,9 @@
     "price": 0.54,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Galil AR | Akoben"
+    "item_name": "Galil AR | Akoben",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "842"
   },
   {
     "id": "skin-855336",
@@ -1411,7 +1611,9 @@
     "price": 0.48,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Akoben"
+    "item_name": "Galil AR | Akoben",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "842"
   },
   {
     "id": "skin-855336",
@@ -1425,7 +1627,9 @@
     "price": 0.67,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Galil AR | Akoben"
+    "item_name": "Galil AR | Akoben",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "842"
   },
   {
     "id": "skin-855336",
@@ -1439,7 +1643,9 @@
     "price": 0.18,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Galil AR | Akoben"
+    "item_name": "Galil AR | Akoben",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "842"
   },
   {
     "id": "skin-855336",
@@ -1453,7 +1659,9 @@
     "price": 0.18,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Akoben"
+    "item_name": "Galil AR | Akoben",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "842"
   },
   {
     "id": "skin-855336",
@@ -1467,7 +1675,9 @@
     "price": 1.41,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Galil AR | Akoben"
+    "item_name": "Galil AR | Akoben",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "842"
   },
   {
     "id": "skin-855336",
@@ -1481,7 +1691,9 @@
     "price": 0.24,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Galil AR | Akoben"
+    "item_name": "Galil AR | Akoben",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "842"
   },
   {
     "id": "skin-855336",
@@ -1495,7 +1707,9 @@
     "price": 0.23,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Akoben"
+    "item_name": "Galil AR | Akoben",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "842"
   },
   {
     "id": "skin-852932",
@@ -1509,7 +1723,9 @@
     "price": 1.03,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Hunting Blind"
+    "item_name": "Galil AR | Hunting Blind",
+    "rarity": "Consumer Grade",
+    "paint_index": "241"
   },
   {
     "id": "skin-852932",
@@ -1523,7 +1739,9 @@
     "price": 2.46,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Hunting Blind"
+    "item_name": "Galil AR | Hunting Blind",
+    "rarity": "Consumer Grade",
+    "paint_index": "241"
   },
   {
     "id": "skin-852932",
@@ -1537,7 +1755,9 @@
     "price": 0.99,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Hunting Blind"
+    "item_name": "Galil AR | Hunting Blind",
+    "rarity": "Consumer Grade",
+    "paint_index": "241"
   },
   {
     "id": "skin-852932",
@@ -1551,7 +1771,9 @@
     "price": 1.32,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Hunting Blind"
+    "item_name": "Galil AR | Hunting Blind",
+    "rarity": "Consumer Grade",
+    "paint_index": "241"
   },
   {
     "id": "skin-852932",
@@ -1565,7 +1787,9 @@
     "price": 1.23,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Hunting Blind"
+    "item_name": "Galil AR | Hunting Blind",
+    "rarity": "Consumer Grade",
+    "paint_index": "241"
   },
   {
     "id": "skin-855856",
@@ -1579,7 +1803,9 @@
     "price": 0.54,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Connexion"
+    "item_name": "Galil AR | Connexion",
+    "rarity": "Restricted",
+    "paint_index": "972"
   },
   {
     "id": "skin-855856",
@@ -1593,7 +1819,9 @@
     "price": 0.3,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Connexion"
+    "item_name": "Galil AR | Connexion",
+    "rarity": "Restricted",
+    "paint_index": "972"
   },
   {
     "id": "skin-855856",
@@ -1607,7 +1835,9 @@
     "price": 2.69,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Galil AR | Connexion"
+    "item_name": "Galil AR | Connexion",
+    "rarity": "Restricted",
+    "paint_index": "972"
   },
   {
     "id": "skin-855856",
@@ -1621,7 +1851,9 @@
     "price": 0.66,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Galil AR | Connexion"
+    "item_name": "Galil AR | Connexion",
+    "rarity": "Restricted",
+    "paint_index": "972"
   },
   {
     "id": "skin-855856",
@@ -1635,7 +1867,9 @@
     "price": 0.24,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Connexion"
+    "item_name": "Galil AR | Connexion",
+    "rarity": "Restricted",
+    "paint_index": "972"
   },
   {
     "id": "skin-855856",
@@ -1649,7 +1883,9 @@
     "price": 0.55,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Galil AR | Connexion"
+    "item_name": "Galil AR | Connexion",
+    "rarity": "Restricted",
+    "paint_index": "972"
   },
   {
     "id": "skin-855856",
@@ -1663,7 +1899,9 @@
     "price": 0.26,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Connexion"
+    "item_name": "Galil AR | Connexion",
+    "rarity": "Restricted",
+    "paint_index": "972"
   },
   {
     "id": "skin-855856",
@@ -1677,7 +1915,9 @@
     "price": 0.48,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Galil AR | Connexion"
+    "item_name": "Galil AR | Connexion",
+    "rarity": "Restricted",
+    "paint_index": "972"
   },
   {
     "id": "skin-855856",
@@ -1691,7 +1931,9 @@
     "price": 1.23,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Galil AR | Connexion"
+    "item_name": "Galil AR | Connexion",
+    "rarity": "Restricted",
+    "paint_index": "972"
   },
   {
     "id": "skin-855856",
@@ -1705,7 +1947,9 @@
     "price": 0.99,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Connexion"
+    "item_name": "Galil AR | Connexion",
+    "rarity": "Restricted",
+    "paint_index": "972"
   },
   {
     "id": "skin-855196",
@@ -1719,7 +1963,9 @@
     "price": 0.29,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Signal"
+    "item_name": "Galil AR | Signal",
+    "rarity": "Restricted",
+    "paint_index": "807"
   },
   {
     "id": "skin-855196",
@@ -1733,7 +1979,9 @@
     "price": 1.97,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Galil AR | Signal"
+    "item_name": "Galil AR | Signal",
+    "rarity": "Restricted",
+    "paint_index": "807"
   },
   {
     "id": "skin-855196",
@@ -1747,7 +1995,9 @@
     "price": 1.24,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Galil AR | Signal"
+    "item_name": "Galil AR | Signal",
+    "rarity": "Restricted",
+    "paint_index": "807"
   },
   {
     "id": "skin-855196",
@@ -1761,7 +2011,9 @@
     "price": 1.37,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Galil AR | Signal"
+    "item_name": "Galil AR | Signal",
+    "rarity": "Restricted",
+    "paint_index": "807"
   },
   {
     "id": "skin-855196",
@@ -1775,7 +2027,9 @@
     "price": 2.74,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Galil AR | Signal"
+    "item_name": "Galil AR | Signal",
+    "rarity": "Restricted",
+    "paint_index": "807"
   },
   {
     "id": "skin-855196",
@@ -1789,7 +2043,9 @@
     "price": 0.37,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Signal"
+    "item_name": "Galil AR | Signal",
+    "rarity": "Restricted",
+    "paint_index": "807"
   },
   {
     "id": "skin-855196",
@@ -1803,7 +2059,9 @@
     "price": 0.31,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Signal"
+    "item_name": "Galil AR | Signal",
+    "rarity": "Restricted",
+    "paint_index": "807"
   },
   {
     "id": "skin-855196",
@@ -1817,7 +2075,9 @@
     "price": 0.81,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Galil AR | Signal"
+    "item_name": "Galil AR | Signal",
+    "rarity": "Restricted",
+    "paint_index": "807"
   },
   {
     "id": "skin-855196",
@@ -1831,7 +2091,9 @@
     "price": 0.54,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Signal"
+    "item_name": "Galil AR | Signal",
+    "rarity": "Restricted",
+    "paint_index": "807"
   },
   {
     "id": "skin-855196",
@@ -1845,7 +2107,9 @@
     "price": 0.93,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Signal"
+    "item_name": "Galil AR | Signal",
+    "rarity": "Restricted",
+    "paint_index": "807"
   },
   {
     "id": "skin-852916",
@@ -1859,7 +2123,9 @@
     "price": 10.3,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Urban Rubble"
+    "item_name": "Galil AR | Urban Rubble",
+    "rarity": "Industrial Grade",
+    "paint_index": "237"
   },
   {
     "id": "skin-852916",
@@ -1873,7 +2139,9 @@
     "price": 7.91,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Urban Rubble"
+    "item_name": "Galil AR | Urban Rubble",
+    "rarity": "Industrial Grade",
+    "paint_index": "237"
   },
   {
     "id": "skin-852916",
@@ -1887,7 +2155,9 @@
     "price": 10.62,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Urban Rubble"
+    "item_name": "Galil AR | Urban Rubble",
+    "rarity": "Industrial Grade",
+    "paint_index": "237"
   },
   {
     "id": "skin-852916",
@@ -1901,7 +2171,9 @@
     "price": 6.7,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Urban Rubble"
+    "item_name": "Galil AR | Urban Rubble",
+    "rarity": "Industrial Grade",
+    "paint_index": "237"
   },
   {
     "id": "skin-852916",
@@ -1915,7 +2187,9 @@
     "price": 5.96,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Urban Rubble"
+    "item_name": "Galil AR | Urban Rubble",
+    "rarity": "Industrial Grade",
+    "paint_index": "237"
   },
   {
     "id": "skin-854484",
@@ -1929,7 +2203,9 @@
     "price": 0.18,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Galil AR | Black Sand"
+    "item_name": "Galil AR | Black Sand",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "629"
   },
   {
     "id": "skin-854484",
@@ -1943,7 +2219,9 @@
     "price": 2.31,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Galil AR | Black Sand"
+    "item_name": "Galil AR | Black Sand",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "629"
   },
   {
     "id": "skin-854484",
@@ -1957,7 +2235,9 @@
     "price": 0.1,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Black Sand"
+    "item_name": "Galil AR | Black Sand",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "629"
   },
   {
     "id": "skin-854484",
@@ -1971,7 +2251,9 @@
     "price": 0.51,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Galil AR | Black Sand"
+    "item_name": "Galil AR | Black Sand",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "629"
   },
   {
     "id": "skin-854484",
@@ -1985,7 +2267,9 @@
     "price": 0.17,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Galil AR | Black Sand"
+    "item_name": "Galil AR | Black Sand",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "629"
   },
   {
     "id": "skin-854484",
@@ -1999,7 +2283,9 @@
     "price": 0.25,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Galil AR | Black Sand"
+    "item_name": "Galil AR | Black Sand",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "629"
   },
   {
     "id": "skin-854484",
@@ -2013,7 +2299,9 @@
     "price": 0.08,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Black Sand"
+    "item_name": "Galil AR | Black Sand",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "629"
   },
   {
     "id": "skin-854484",
@@ -2027,7 +2315,9 @@
     "price": 0.06,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Black Sand"
+    "item_name": "Galil AR | Black Sand",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "629"
   },
   {
     "id": "skin-854484",
@@ -2041,7 +2331,9 @@
     "price": 0.36,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Black Sand"
+    "item_name": "Galil AR | Black Sand",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "629"
   },
   {
     "id": "skin-854484",
@@ -2055,7 +2347,9 @@
     "price": 0.07,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Black Sand"
+    "item_name": "Galil AR | Black Sand",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "629"
   },
   {
     "id": "skin-853680",
@@ -2069,7 +2363,9 @@
     "price": 22.08,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Eco"
+    "item_name": "Galil AR | Eco",
+    "rarity": "Classified",
+    "paint_index": "428"
   },
   {
     "id": "skin-853680",
@@ -2083,7 +2379,9 @@
     "price": 1.69,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Eco"
+    "item_name": "Galil AR | Eco",
+    "rarity": "Classified",
+    "paint_index": "428"
   },
   {
     "id": "skin-853680",
@@ -2097,7 +2395,9 @@
     "price": 6.11,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Galil AR | Eco"
+    "item_name": "Galil AR | Eco",
+    "rarity": "Classified",
+    "paint_index": "428"
   },
   {
     "id": "skin-853680",
@@ -2111,7 +2411,9 @@
     "price": 55.4,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Galil AR | Eco"
+    "item_name": "Galil AR | Eco",
+    "rarity": "Classified",
+    "paint_index": "428"
   },
   {
     "id": "skin-853680",
@@ -2125,7 +2427,9 @@
     "price": 1.84,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Eco"
+    "item_name": "Galil AR | Eco",
+    "rarity": "Classified",
+    "paint_index": "428"
   },
   {
     "id": "skin-853680",
@@ -2139,7 +2443,9 @@
     "price": 4.29,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Galil AR | Eco"
+    "item_name": "Galil AR | Eco",
+    "rarity": "Classified",
+    "paint_index": "428"
   },
   {
     "id": "skin-853680",
@@ -2153,7 +2459,9 @@
     "price": 2.78,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Eco"
+    "item_name": "Galil AR | Eco",
+    "rarity": "Classified",
+    "paint_index": "428"
   },
   {
     "id": "skin-853680",
@@ -2167,7 +2475,9 @@
     "price": 4.24,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Galil AR | Eco"
+    "item_name": "Galil AR | Eco",
+    "rarity": "Classified",
+    "paint_index": "428"
   },
   {
     "id": "skin-856556",
@@ -2181,7 +2491,9 @@
     "price": 0.11,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Galil AR | Destroyer"
+    "item_name": "Galil AR | Destroyer",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1147"
   },
   {
     "id": "skin-856556",
@@ -2195,7 +2507,9 @@
     "price": 0.11,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Galil AR | Destroyer"
+    "item_name": "Galil AR | Destroyer",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1147"
   },
   {
     "id": "skin-856556",
@@ -2209,7 +2523,9 @@
     "price": 0.04,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Destroyer"
+    "item_name": "Galil AR | Destroyer",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1147"
   },
   {
     "id": "skin-856556",
@@ -2223,7 +2539,9 @@
     "price": 0.3,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Galil AR | Destroyer"
+    "item_name": "Galil AR | Destroyer",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1147"
   },
   {
     "id": "skin-856556",
@@ -2237,7 +2555,9 @@
     "price": 0.16,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Galil AR | Destroyer"
+    "item_name": "Galil AR | Destroyer",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1147"
   },
   {
     "id": "skin-856556",
@@ -2251,7 +2571,9 @@
     "price": 0.64,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Galil AR | Destroyer"
+    "item_name": "Galil AR | Destroyer",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1147"
   },
   {
     "id": "skin-856556",
@@ -2265,7 +2587,9 @@
     "price": 0.04,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Destroyer"
+    "item_name": "Galil AR | Destroyer",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1147"
   },
   {
     "id": "skin-856556",
@@ -2279,7 +2603,9 @@
     "price": 0.09,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Destroyer"
+    "item_name": "Galil AR | Destroyer",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1147"
   },
   {
     "id": "skin-856556",
@@ -2293,7 +2619,9 @@
     "price": 0.17,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Destroyer"
+    "item_name": "Galil AR | Destroyer",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1147"
   },
   {
     "id": "skin-856556",
@@ -2307,7 +2635,9 @@
     "price": 0.04,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Destroyer"
+    "item_name": "Galil AR | Destroyer",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1147"
   },
   {
     "id": "skin-853200",
@@ -2321,7 +2651,9 @@
     "price": 1.68,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Galil AR | Kami"
+    "item_name": "Galil AR | Kami",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "308"
   },
   {
     "id": "skin-853200",
@@ -2335,7 +2667,9 @@
     "price": 1.72,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Kami"
+    "item_name": "Galil AR | Kami",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "308"
   },
   {
     "id": "skin-853200",
@@ -2349,7 +2683,9 @@
     "price": 1.7,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Kami"
+    "item_name": "Galil AR | Kami",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "308"
   },
   {
     "id": "skin-853200",
@@ -2363,7 +2699,9 @@
     "price": 1.87,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Kami"
+    "item_name": "Galil AR | Kami",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "308"
   },
   {
     "id": "skin-853200",
@@ -2377,7 +2715,9 @@
     "price": 1.8,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Kami"
+    "item_name": "Galil AR | Kami",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "308"
   },
   {
     "id": "skin-853200",
@@ -2391,7 +2731,9 @@
     "price": 4.39,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Galil AR | Kami"
+    "item_name": "Galil AR | Kami",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "308"
   },
   {
     "id": "skin-853200",
@@ -2405,7 +2747,9 @@
     "price": 1.16,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Galil AR | Kami"
+    "item_name": "Galil AR | Kami",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "308"
   },
   {
     "id": "skin-853200",
@@ -2419,7 +2763,9 @@
     "price": 2.18,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Galil AR | Kami"
+    "item_name": "Galil AR | Kami",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "308"
   },
   {
     "id": "skin-853200",
@@ -2433,7 +2779,9 @@
     "price": 1.29,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Galil AR | Kami"
+    "item_name": "Galil AR | Kami",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "308"
   },
   {
     "id": "skin-853200",
@@ -2447,7 +2795,9 @@
     "price": 2.26,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Kami"
+    "item_name": "Galil AR | Kami",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "308"
   },
   {
     "id": "skin-854152",
@@ -2461,7 +2811,9 @@
     "price": 0.53,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Firefight"
+    "item_name": "Galil AR | Firefight",
+    "rarity": "Restricted",
+    "paint_index": "546"
   },
   {
     "id": "skin-854152",
@@ -2475,7 +2827,9 @@
     "price": 0.22,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Firefight"
+    "item_name": "Galil AR | Firefight",
+    "rarity": "Restricted",
+    "paint_index": "546"
   },
   {
     "id": "skin-854152",
@@ -2489,7 +2843,9 @@
     "price": 0.3,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Firefight"
+    "item_name": "Galil AR | Firefight",
+    "rarity": "Restricted",
+    "paint_index": "546"
   },
   {
     "id": "skin-854152",
@@ -2503,7 +2859,9 @@
     "price": 0.49,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Galil AR | Firefight"
+    "item_name": "Galil AR | Firefight",
+    "rarity": "Restricted",
+    "paint_index": "546"
   },
   {
     "id": "skin-854152",
@@ -2517,7 +2875,9 @@
     "price": 1.58,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Firefight"
+    "item_name": "Galil AR | Firefight",
+    "rarity": "Restricted",
+    "paint_index": "546"
   },
   {
     "id": "skin-854152",
@@ -2531,7 +2891,9 @@
     "price": 5.79,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Galil AR | Firefight"
+    "item_name": "Galil AR | Firefight",
+    "rarity": "Restricted",
+    "paint_index": "546"
   },
   {
     "id": "skin-854152",
@@ -2545,7 +2907,9 @@
     "price": 0.7,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Galil AR | Firefight"
+    "item_name": "Galil AR | Firefight",
+    "rarity": "Restricted",
+    "paint_index": "546"
   },
   {
     "id": "skin-854152",
@@ -2559,7 +2923,9 @@
     "price": 0.47,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Galil AR | Firefight"
+    "item_name": "Galil AR | Firefight",
+    "rarity": "Restricted",
+    "paint_index": "546"
   },
   {
     "id": "skin-854152",
@@ -2573,7 +2939,9 @@
     "price": 0.24,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Firefight"
+    "item_name": "Galil AR | Firefight",
+    "rarity": "Restricted",
+    "paint_index": "546"
   },
   {
     "id": "skin-854152",
@@ -2587,7 +2955,9 @@
     "price": 1.78,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Galil AR | Firefight"
+    "item_name": "Galil AR | Firefight",
+    "rarity": "Restricted",
+    "paint_index": "546"
   },
   {
     "id": "skin-856020",
@@ -2601,7 +2971,9 @@
     "price": 28.52,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Phoenix Blacklight"
+    "item_name": "Galil AR | Phoenix Blacklight",
+    "rarity": "Restricted",
+    "paint_index": "1013"
   },
   {
     "id": "skin-856020",
@@ -2615,7 +2987,9 @@
     "price": 27.43,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Phoenix Blacklight"
+    "item_name": "Galil AR | Phoenix Blacklight",
+    "rarity": "Restricted",
+    "paint_index": "1013"
   },
   {
     "id": "skin-856020",
@@ -2629,7 +3003,9 @@
     "price": 33.18,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Phoenix Blacklight"
+    "item_name": "Galil AR | Phoenix Blacklight",
+    "rarity": "Restricted",
+    "paint_index": "1013"
   },
   {
     "id": "skin-856020",
@@ -2643,7 +3019,9 @@
     "price": 26.74,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Phoenix Blacklight"
+    "item_name": "Galil AR | Phoenix Blacklight",
+    "rarity": "Restricted",
+    "paint_index": "1013"
   },
   {
     "id": "skin-856020",
@@ -2657,7 +3035,9 @@
     "price": 42.44,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Phoenix Blacklight"
+    "item_name": "Galil AR | Phoenix Blacklight",
+    "rarity": "Restricted",
+    "paint_index": "1013"
   },
   {
     "id": "skin-853156",
@@ -2671,7 +3051,9 @@
     "price": 0.43,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Tuxedo"
+    "item_name": "Galil AR | Tuxedo",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "297"
   },
   {
     "id": "skin-853156",
@@ -2685,7 +3067,9 @@
     "price": 0.45,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Tuxedo"
+    "item_name": "Galil AR | Tuxedo",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "297"
   },
   {
     "id": "skin-853156",
@@ -2699,7 +3083,9 @@
     "price": 0.37,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Tuxedo"
+    "item_name": "Galil AR | Tuxedo",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "297"
   },
   {
     "id": "skin-853156",
@@ -2713,7 +3099,9 @@
     "price": 1.47,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Tuxedo"
+    "item_name": "Galil AR | Tuxedo",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "297"
   },
   {
     "id": "skin-853156",
@@ -2727,7 +3115,9 @@
     "price": 0.87,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Tuxedo"
+    "item_name": "Galil AR | Tuxedo",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "297"
   },
   {
     "id": "skin-856252",
@@ -2741,7 +3131,9 @@
     "price": 39.63,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | CAUTION!"
+    "item_name": "Galil AR | CAUTION!",
+    "rarity": "Restricted",
+    "paint_index": "1071"
   },
   {
     "id": "skin-856252",
@@ -2755,7 +3147,9 @@
     "price": 40.01,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | CAUTION!"
+    "item_name": "Galil AR | CAUTION!",
+    "rarity": "Restricted",
+    "paint_index": "1071"
   },
   {
     "id": "skin-856252",
@@ -2769,7 +3163,9 @@
     "price": 39.77,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | CAUTION!"
+    "item_name": "Galil AR | CAUTION!",
+    "rarity": "Restricted",
+    "paint_index": "1071"
   },
   {
     "id": "skin-856252",
@@ -2783,7 +3179,9 @@
     "price": 40.93,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | CAUTION!"
+    "item_name": "Galil AR | CAUTION!",
+    "rarity": "Restricted",
+    "paint_index": "1071"
   },
   {
     "id": "skin-856252",
@@ -2797,7 +3195,9 @@
     "price": 31.54,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | CAUTION!"
+    "item_name": "Galil AR | CAUTION!",
+    "rarity": "Restricted",
+    "paint_index": "1071"
   },
   {
     "id": "skin-852832",
@@ -2811,7 +3211,9 @@
     "price": 2.76,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Blue Titanium"
+    "item_name": "Galil AR | Blue Titanium",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "216"
   },
   {
     "id": "skin-852832",
@@ -2825,7 +3227,9 @@
     "price": 6.45,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Galil AR | Blue Titanium"
+    "item_name": "Galil AR | Blue Titanium",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "216"
   },
   {
     "id": "skin-852372",
@@ -2839,7 +3243,9 @@
     "price": 2.85,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Tornado"
+    "item_name": "Galil AR | Tornado",
+    "rarity": "Consumer Grade",
+    "paint_index": "101"
   },
   {
     "id": "skin-852372",
@@ -2853,7 +3259,9 @@
     "price": 2.81,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Tornado"
+    "item_name": "Galil AR | Tornado",
+    "rarity": "Consumer Grade",
+    "paint_index": "101"
   },
   {
     "id": "skin-852372",
@@ -2867,7 +3275,9 @@
     "price": 2.88,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Tornado"
+    "item_name": "Galil AR | Tornado",
+    "rarity": "Consumer Grade",
+    "paint_index": "101"
   },
   {
     "id": "skin-852372",
@@ -2881,7 +3291,9 @@
     "price": 3.7,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Tornado"
+    "item_name": "Galil AR | Tornado",
+    "rarity": "Consumer Grade",
+    "paint_index": "101"
   },
   {
     "id": "skin-852372",
@@ -2895,7 +3307,9 @@
     "price": 3.18,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Tornado"
+    "item_name": "Galil AR | Tornado",
+    "rarity": "Consumer Grade",
+    "paint_index": "101"
   },
   {
     "id": "skin-853560",
@@ -2909,7 +3323,9 @@
     "price": 19.03,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Galil AR | Chatterbox"
+    "item_name": "Galil AR | Chatterbox",
+    "rarity": "Covert",
+    "paint_index": "398"
   },
   {
     "id": "skin-853560",
@@ -2923,7 +3339,9 @@
     "price": 5.32,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Chatterbox"
+    "item_name": "Galil AR | Chatterbox",
+    "rarity": "Covert",
+    "paint_index": "398"
   },
   {
     "id": "skin-853560",
@@ -2937,7 +3355,9 @@
     "price": 53.78,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Chatterbox"
+    "item_name": "Galil AR | Chatterbox",
+    "rarity": "Covert",
+    "paint_index": "398"
   },
   {
     "id": "skin-853560",
@@ -2951,7 +3371,9 @@
     "price": 339.26,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Galil AR | Chatterbox"
+    "item_name": "Galil AR | Chatterbox",
+    "rarity": "Covert",
+    "paint_index": "398"
   },
   {
     "id": "skin-853560",
@@ -2965,7 +3387,9 @@
     "price": 41.28,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Galil AR | Chatterbox"
+    "item_name": "Galil AR | Chatterbox",
+    "rarity": "Covert",
+    "paint_index": "398"
   },
   {
     "id": "skin-853560",
@@ -2979,7 +3403,9 @@
     "price": 9.38,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Chatterbox"
+    "item_name": "Galil AR | Chatterbox",
+    "rarity": "Covert",
+    "paint_index": "398"
   },
   {
     "id": "skin-856120",
@@ -2993,7 +3419,9 @@
     "price": 7.17,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Galil AR | Chromatic Aberration"
+    "item_name": "Galil AR | Chromatic Aberration",
+    "rarity": "Classified",
+    "paint_index": "1038"
   },
   {
     "id": "skin-856120",
@@ -3007,7 +3435,9 @@
     "price": 3.15,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Galil AR | Chromatic Aberration"
+    "item_name": "Galil AR | Chromatic Aberration",
+    "rarity": "Classified",
+    "paint_index": "1038"
   },
   {
     "id": "skin-856120",
@@ -3021,7 +3451,9 @@
     "price": 2.1,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Galil AR | Chromatic Aberration"
+    "item_name": "Galil AR | Chromatic Aberration",
+    "rarity": "Classified",
+    "paint_index": "1038"
   },
   {
     "id": "skin-856120",
@@ -3035,7 +3467,9 @@
     "price": 0.96,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Chromatic Aberration"
+    "item_name": "Galil AR | Chromatic Aberration",
+    "rarity": "Classified",
+    "paint_index": "1038"
   },
   {
     "id": "skin-856120",
@@ -3049,7 +3483,9 @@
     "price": 1.23,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Chromatic Aberration"
+    "item_name": "Galil AR | Chromatic Aberration",
+    "rarity": "Classified",
+    "paint_index": "1038"
   },
   {
     "id": "skin-856120",
@@ -3063,7 +3499,9 @@
     "price": 7.13,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Chromatic Aberration"
+    "item_name": "Galil AR | Chromatic Aberration",
+    "rarity": "Classified",
+    "paint_index": "1038"
   },
   {
     "id": "skin-856120",
@@ -3077,7 +3515,9 @@
     "price": 0.94,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Chromatic Aberration"
+    "item_name": "Galil AR | Chromatic Aberration",
+    "rarity": "Classified",
+    "paint_index": "1038"
   },
   {
     "id": "skin-856120",
@@ -3091,7 +3531,9 @@
     "price": 21.1,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Galil AR | Chromatic Aberration"
+    "item_name": "Galil AR | Chromatic Aberration",
+    "rarity": "Classified",
+    "paint_index": "1038"
   },
   {
     "id": "skin-856120",
@@ -3105,7 +3547,9 @@
     "price": 2.64,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Chromatic Aberration"
+    "item_name": "Galil AR | Chromatic Aberration",
+    "rarity": "Classified",
+    "paint_index": "1038"
   },
   {
     "id": "skin-856120",
@@ -3119,7 +3563,9 @@
     "price": 2.28,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Galil AR | Chromatic Aberration"
+    "item_name": "Galil AR | Chromatic Aberration",
+    "rarity": "Classified",
+    "paint_index": "1038"
   },
   {
     "id": "skin-852300",
@@ -3133,7 +3579,9 @@
     "price": 10.68,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Orange DDPAT"
+    "item_name": "Galil AR | Orange DDPAT",
+    "rarity": "Restricted",
+    "paint_index": "83"
   },
   {
     "id": "skin-852300",
@@ -3147,7 +3595,9 @@
     "price": 67.47,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Orange DDPAT"
+    "item_name": "Galil AR | Orange DDPAT",
+    "rarity": "Restricted",
+    "paint_index": "83"
   },
   {
     "id": "skin-852300",
@@ -3161,7 +3611,9 @@
     "price": 14.72,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Orange DDPAT"
+    "item_name": "Galil AR | Orange DDPAT",
+    "rarity": "Restricted",
+    "paint_index": "83"
   },
   {
     "id": "skin-852300",
@@ -3175,7 +3627,9 @@
     "price": 29.14,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Galil AR | Orange DDPAT"
+    "item_name": "Galil AR | Orange DDPAT",
+    "rarity": "Restricted",
+    "paint_index": "83"
   },
   {
     "id": "skin-852300",
@@ -3189,7 +3643,9 @@
     "price": 16.42,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Orange DDPAT"
+    "item_name": "Galil AR | Orange DDPAT",
+    "rarity": "Restricted",
+    "paint_index": "83"
   },
   {
     "id": "skin-852300",
@@ -3203,7 +3659,9 @@
     "price": 19.46,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Galil AR | Orange DDPAT"
+    "item_name": "Galil AR | Orange DDPAT",
+    "rarity": "Restricted",
+    "paint_index": "83"
   },
   {
     "id": "skin-852300",
@@ -3217,7 +3675,9 @@
     "price": 32.77,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Galil AR | Orange DDPAT"
+    "item_name": "Galil AR | Orange DDPAT",
+    "rarity": "Restricted",
+    "paint_index": "83"
   },
   {
     "id": "skin-852300",
@@ -3231,7 +3691,9 @@
     "price": 24.68,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Galil AR | Orange DDPAT"
+    "item_name": "Galil AR | Orange DDPAT",
+    "rarity": "Restricted",
+    "paint_index": "83"
   },
   {
     "id": "skin-852300",
@@ -3245,7 +3707,9 @@
     "price": 11.55,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Orange DDPAT"
+    "item_name": "Galil AR | Orange DDPAT",
+    "rarity": "Restricted",
+    "paint_index": "83"
   },
   {
     "id": "skin-852300",
@@ -3259,7 +3723,9 @@
     "price": 191.71,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "Galil AR | Orange DDPAT"
+    "item_name": "Galil AR | Orange DDPAT",
+    "rarity": "Restricted",
+    "paint_index": "83"
   },
   {
     "id": "skin-852444",
@@ -3273,7 +3739,9 @@
     "price": 0.01,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Sage Spray"
+    "item_name": "Galil AR | Sage Spray",
+    "rarity": "Consumer Grade",
+    "paint_index": "119"
   },
   {
     "id": "skin-852444",
@@ -3287,7 +3755,9 @@
     "price": 0.01,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Sage Spray"
+    "item_name": "Galil AR | Sage Spray",
+    "rarity": "Consumer Grade",
+    "paint_index": "119"
   },
   {
     "id": "skin-852444",
@@ -3301,7 +3771,9 @@
     "price": 0.19,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Sage Spray"
+    "item_name": "Galil AR | Sage Spray",
+    "rarity": "Consumer Grade",
+    "paint_index": "119"
   },
   {
     "id": "skin-852444",
@@ -3315,7 +3787,9 @@
     "price": 0.01,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Sage Spray"
+    "item_name": "Galil AR | Sage Spray",
+    "rarity": "Consumer Grade",
+    "paint_index": "119"
   },
   {
     "id": "skin-852444",
@@ -3329,7 +3803,9 @@
     "price": 0.01,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | Sage Spray"
+    "item_name": "Galil AR | Sage Spray",
+    "rarity": "Consumer Grade",
+    "paint_index": "119"
   },
   {
     "id": "skin-852908",
@@ -3343,7 +3819,9 @@
     "price": 0.06,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | VariCamo"
+    "item_name": "Galil AR | VariCamo",
+    "rarity": "Industrial Grade",
+    "paint_index": "235"
   },
   {
     "id": "skin-852908",
@@ -3357,7 +3835,9 @@
     "price": 0.06,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | VariCamo"
+    "item_name": "Galil AR | VariCamo",
+    "rarity": "Industrial Grade",
+    "paint_index": "235"
   },
   {
     "id": "skin-852908",
@@ -3371,7 +3851,9 @@
     "price": 0.06,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | VariCamo"
+    "item_name": "Galil AR | VariCamo",
+    "rarity": "Industrial Grade",
+    "paint_index": "235"
   },
   {
     "id": "skin-852908",
@@ -3385,7 +3867,9 @@
     "price": 0.09,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | VariCamo"
+    "item_name": "Galil AR | VariCamo",
+    "rarity": "Industrial Grade",
+    "paint_index": "235"
   },
   {
     "id": "skin-852908",
@@ -3399,6 +3883,8 @@
     "price": 0.12,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "Galil AR | VariCamo"
+    "item_name": "Galil AR | VariCamo",
+    "rarity": "Industrial Grade",
+    "paint_index": "235"
   }
 ]

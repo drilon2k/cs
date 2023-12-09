@@ -11,7 +11,9 @@
     "price": 313,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "★ Stiletto Knife"
+    "item_name": "★ Stiletto Knife",
+    "rarity": "Covert",
+    "paint_index": null
   },
   {
     "id": "skin-vanilla-weapon_knife_stiletto",
@@ -25,6 +27,8 @@
     "price": 289.48,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "★ Stiletto Knife"
+    "item_name": "★ Stiletto Knife",
+    "rarity": "Covert",
+    "paint_index": null
   }
 ]

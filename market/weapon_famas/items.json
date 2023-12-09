@@ -11,7 +11,9 @@
     "price": 5.66,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "FAMAS | Mecha Industries"
+    "item_name": "FAMAS | Mecha Industries",
+    "rarity": "Classified",
+    "paint_index": "626"
   },
   {
     "id": "skin-657864",
@@ -25,7 +27,9 @@
     "price": 5.61,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Mecha Industries"
+    "item_name": "FAMAS | Mecha Industries",
+    "rarity": "Classified",
+    "paint_index": "626"
   },
   {
     "id": "skin-657864",
@@ -39,7 +43,9 @@
     "price": 8.82,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "FAMAS | Mecha Industries"
+    "item_name": "FAMAS | Mecha Industries",
+    "rarity": "Classified",
+    "paint_index": "626"
   },
   {
     "id": "skin-657864",
@@ -53,7 +59,9 @@
     "price": 5.7,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "FAMAS | Mecha Industries"
+    "item_name": "FAMAS | Mecha Industries",
+    "rarity": "Classified",
+    "paint_index": "626"
   },
   {
     "id": "skin-657864",
@@ -67,7 +75,9 @@
     "price": 2.44,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Mecha Industries"
+    "item_name": "FAMAS | Mecha Industries",
+    "rarity": "Classified",
+    "paint_index": "626"
   },
   {
     "id": "skin-657864",
@@ -81,7 +91,9 @@
     "price": 2.46,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Mecha Industries"
+    "item_name": "FAMAS | Mecha Industries",
+    "rarity": "Classified",
+    "paint_index": "626"
   },
   {
     "id": "skin-657864",
@@ -95,7 +107,9 @@
     "price": 16.15,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "FAMAS | Mecha Industries"
+    "item_name": "FAMAS | Mecha Industries",
+    "rarity": "Classified",
+    "paint_index": "626"
   },
   {
     "id": "skin-657864",
@@ -109,7 +123,9 @@
     "price": 5.63,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "FAMAS | Mecha Industries"
+    "item_name": "FAMAS | Mecha Industries",
+    "rarity": "Classified",
+    "paint_index": "626"
   },
   {
     "id": "skin-657864",
@@ -123,7 +139,9 @@
     "price": 3.7,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Mecha Industries"
+    "item_name": "FAMAS | Mecha Industries",
+    "rarity": "Classified",
+    "paint_index": "626"
   },
   {
     "id": "skin-657864",
@@ -137,7 +155,9 @@
     "price": 2.38,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Mecha Industries"
+    "item_name": "FAMAS | Mecha Industries",
+    "rarity": "Classified",
+    "paint_index": "626"
   },
   {
     "id": "skin-655600",
@@ -151,7 +171,9 @@
     "price": 9.17,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Dark Water"
+    "item_name": "FAMAS | Dark Water",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "60"
   },
   {
     "id": "skin-655600",
@@ -165,7 +187,9 @@
     "price": 9.55,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Dark Water"
+    "item_name": "FAMAS | Dark Water",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "60"
   },
   {
     "id": "skin-659036",
@@ -179,7 +203,9 @@
     "price": 9.19,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Commemoration"
+    "item_name": "FAMAS | Commemoration",
+    "rarity": "Covert",
+    "paint_index": "919"
   },
   {
     "id": "skin-659036",
@@ -193,7 +219,9 @@
     "price": 22.49,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "FAMAS | Commemoration"
+    "item_name": "FAMAS | Commemoration",
+    "rarity": "Covert",
+    "paint_index": "919"
   },
   {
     "id": "skin-659036",
@@ -207,7 +235,9 @@
     "price": 28.73,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "FAMAS | Commemoration"
+    "item_name": "FAMAS | Commemoration",
+    "rarity": "Covert",
+    "paint_index": "919"
   },
   {
     "id": "skin-659036",
@@ -221,7 +251,9 @@
     "price": 61.23,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "FAMAS | Commemoration"
+    "item_name": "FAMAS | Commemoration",
+    "rarity": "Covert",
+    "paint_index": "919"
   },
   {
     "id": "skin-659036",
@@ -235,7 +267,9 @@
     "price": 9.79,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Commemoration"
+    "item_name": "FAMAS | Commemoration",
+    "rarity": "Covert",
+    "paint_index": "919"
   },
   {
     "id": "skin-659036",
@@ -249,7 +283,9 @@
     "price": 8.28,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Commemoration"
+    "item_name": "FAMAS | Commemoration",
+    "rarity": "Covert",
+    "paint_index": "919"
   },
   {
     "id": "skin-659036",
@@ -263,7 +299,9 @@
     "price": 31.81,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "FAMAS | Commemoration"
+    "item_name": "FAMAS | Commemoration",
+    "rarity": "Covert",
+    "paint_index": "919"
   },
   {
     "id": "skin-659036",
@@ -277,7 +315,9 @@
     "price": 15.98,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Commemoration"
+    "item_name": "FAMAS | Commemoration",
+    "rarity": "Covert",
+    "paint_index": "919"
   },
   {
     "id": "skin-659036",
@@ -291,7 +331,9 @@
     "price": 31.4,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "FAMAS | Commemoration"
+    "item_name": "FAMAS | Commemoration",
+    "rarity": "Covert",
+    "paint_index": "919"
   },
   {
     "id": "skin-659036",
@@ -305,7 +347,9 @@
     "price": 8.35,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Commemoration"
+    "item_name": "FAMAS | Commemoration",
+    "rarity": "Covert",
+    "paint_index": "919"
   },
   {
     "id": "skin-656232",
@@ -319,7 +363,9 @@
     "price": 4.39,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "FAMAS | Hexane"
+    "item_name": "FAMAS | Hexane",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "218"
   },
   {
     "id": "skin-656232",
@@ -333,7 +379,9 @@
     "price": 3.53,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Hexane"
+    "item_name": "FAMAS | Hexane",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "218"
   },
   {
     "id": "skin-656232",
@@ -347,7 +395,9 @@
     "price": 5.11,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "FAMAS | Hexane"
+    "item_name": "FAMAS | Hexane",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "218"
   },
   {
     "id": "skin-656232",
@@ -361,7 +411,9 @@
     "price": 5.56,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "FAMAS | Hexane"
+    "item_name": "FAMAS | Hexane",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "218"
   },
   {
     "id": "skin-656232",
@@ -375,7 +427,9 @@
     "price": 4.08,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Hexane"
+    "item_name": "FAMAS | Hexane",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "218"
   },
   {
     "id": "skin-656232",
@@ -389,7 +443,9 @@
     "price": 3.96,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Hexane"
+    "item_name": "FAMAS | Hexane",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "218"
   },
   {
     "id": "skin-656232",
@@ -403,7 +459,9 @@
     "price": 6.54,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "FAMAS | Hexane"
+    "item_name": "FAMAS | Hexane",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "218"
   },
   {
     "id": "skin-656232",
@@ -417,7 +475,9 @@
     "price": 3.94,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Hexane"
+    "item_name": "FAMAS | Hexane",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "218"
   },
   {
     "id": "skin-656072",
@@ -431,7 +491,9 @@
     "price": 2.78,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "FAMAS | Doomkitty"
+    "item_name": "FAMAS | Doomkitty",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "178"
   },
   {
     "id": "skin-656072",
@@ -445,7 +507,9 @@
     "price": 2.4,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Doomkitty"
+    "item_name": "FAMAS | Doomkitty",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "178"
   },
   {
     "id": "skin-656072",
@@ -459,7 +523,9 @@
     "price": 2.41,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Doomkitty"
+    "item_name": "FAMAS | Doomkitty",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "178"
   },
   {
     "id": "skin-656072",
@@ -473,7 +539,9 @@
     "price": 3.43,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "FAMAS | Doomkitty"
+    "item_name": "FAMAS | Doomkitty",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "178"
   },
   {
     "id": "skin-656136",
@@ -487,7 +555,9 @@
     "price": 43.2,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Spitfire"
+    "item_name": "FAMAS | Spitfire",
+    "rarity": "Restricted",
+    "paint_index": "194"
   },
   {
     "id": "skin-656136",
@@ -501,7 +571,9 @@
     "price": 54.3,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Spitfire"
+    "item_name": "FAMAS | Spitfire",
+    "rarity": "Restricted",
+    "paint_index": "194"
   },
   {
     "id": "skin-656136",
@@ -515,7 +587,9 @@
     "price": 9,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Spitfire"
+    "item_name": "FAMAS | Spitfire",
+    "rarity": "Restricted",
+    "paint_index": "194"
   },
   {
     "id": "skin-656136",
@@ -529,7 +603,9 @@
     "price": 14.73,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Spitfire"
+    "item_name": "FAMAS | Spitfire",
+    "rarity": "Restricted",
+    "paint_index": "194"
   },
   {
     "id": "skin-656136",
@@ -543,7 +619,9 @@
     "price": 226.27,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Spitfire"
+    "item_name": "FAMAS | Spitfire",
+    "rarity": "Restricted",
+    "paint_index": "194"
   },
   {
     "id": "skin-658252",
@@ -557,7 +635,9 @@
     "price": 5.48,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "FAMAS | Eye of Athena"
+    "item_name": "FAMAS | Eye of Athena",
+    "rarity": "Classified",
+    "paint_index": "723"
   },
   {
     "id": "skin-658252",
@@ -571,7 +651,9 @@
     "price": 10.66,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "FAMAS | Eye of Athena"
+    "item_name": "FAMAS | Eye of Athena",
+    "rarity": "Classified",
+    "paint_index": "723"
   },
   {
     "id": "skin-658252",
@@ -585,7 +667,9 @@
     "price": 28.1,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "FAMAS | Eye of Athena"
+    "item_name": "FAMAS | Eye of Athena",
+    "rarity": "Classified",
+    "paint_index": "723"
   },
   {
     "id": "skin-658252",
@@ -599,7 +683,9 @@
     "price": 3.25,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Eye of Athena"
+    "item_name": "FAMAS | Eye of Athena",
+    "rarity": "Classified",
+    "paint_index": "723"
   },
   {
     "id": "skin-658252",
@@ -613,7 +699,9 @@
     "price": 9.87,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Eye of Athena"
+    "item_name": "FAMAS | Eye of Athena",
+    "rarity": "Classified",
+    "paint_index": "723"
   },
   {
     "id": "skin-658252",
@@ -627,7 +715,9 @@
     "price": 4.31,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Eye of Athena"
+    "item_name": "FAMAS | Eye of Athena",
+    "rarity": "Classified",
+    "paint_index": "723"
   },
   {
     "id": "skin-658252",
@@ -641,7 +731,9 @@
     "price": 3.03,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Eye of Athena"
+    "item_name": "FAMAS | Eye of Athena",
+    "rarity": "Classified",
+    "paint_index": "723"
   },
   {
     "id": "skin-658252",
@@ -655,7 +747,9 @@
     "price": 4.6,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "FAMAS | Eye of Athena"
+    "item_name": "FAMAS | Eye of Athena",
+    "rarity": "Classified",
+    "paint_index": "723"
   },
   {
     "id": "skin-658252",
@@ -669,7 +763,9 @@
     "price": 3,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Eye of Athena"
+    "item_name": "FAMAS | Eye of Athena",
+    "rarity": "Classified",
+    "paint_index": "723"
   },
   {
     "id": "skin-658252",
@@ -683,7 +779,9 @@
     "price": 6.41,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "FAMAS | Eye of Athena"
+    "item_name": "FAMAS | Eye of Athena",
+    "rarity": "Classified",
+    "paint_index": "723"
   },
   {
     "id": "skin-660324",
@@ -697,7 +795,9 @@
     "price": 114.44,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Waters of Nephthys"
+    "item_name": "FAMAS | Waters of Nephthys",
+    "rarity": "Classified",
+    "paint_index": "1241"
   },
   {
     "id": "skin-660324",
@@ -711,7 +811,9 @@
     "price": 92.76,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Waters of Nephthys"
+    "item_name": "FAMAS | Waters of Nephthys",
+    "rarity": "Classified",
+    "paint_index": "1241"
   },
   {
     "id": "skin-660324",
@@ -725,7 +827,9 @@
     "price": 49.92,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Waters of Nephthys"
+    "item_name": "FAMAS | Waters of Nephthys",
+    "rarity": "Classified",
+    "paint_index": "1241"
   },
   {
     "id": "skin-660324",
@@ -739,7 +843,9 @@
     "price": 44.29,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Waters of Nephthys"
+    "item_name": "FAMAS | Waters of Nephthys",
+    "rarity": "Classified",
+    "paint_index": "1241"
   },
   {
     "id": "skin-660324",
@@ -753,7 +859,9 @@
     "price": 37.87,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Waters of Nephthys"
+    "item_name": "FAMAS | Waters of Nephthys",
+    "rarity": "Classified",
+    "paint_index": "1241"
   },
   {
     "id": "skin-658836",
@@ -767,7 +875,9 @@
     "price": 68.43,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Sundown"
+    "item_name": "FAMAS | Sundown",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "869"
   },
   {
     "id": "skin-658836",
@@ -781,7 +891,9 @@
     "price": 70.76,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Sundown"
+    "item_name": "FAMAS | Sundown",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "869"
   },
   {
     "id": "skin-658836",
@@ -795,7 +907,9 @@
     "price": 109.7,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Sundown"
+    "item_name": "FAMAS | Sundown",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "869"
   },
   {
     "id": "skin-658836",
@@ -809,7 +923,9 @@
     "price": 67.53,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Sundown"
+    "item_name": "FAMAS | Sundown",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "869"
   },
   {
     "id": "skin-658836",
@@ -823,7 +939,9 @@
     "price": 64.11,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Sundown"
+    "item_name": "FAMAS | Sundown",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "869"
   },
   {
     "id": "skin-656512",
@@ -837,7 +955,9 @@
     "price": 2.68,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "FAMAS | Sergeant"
+    "item_name": "FAMAS | Sergeant",
+    "rarity": "Restricted",
+    "paint_index": "288"
   },
   {
     "id": "skin-656512",
@@ -851,7 +971,9 @@
     "price": 3.53,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Sergeant"
+    "item_name": "FAMAS | Sergeant",
+    "rarity": "Restricted",
+    "paint_index": "288"
   },
   {
     "id": "skin-656512",
@@ -865,7 +987,9 @@
     "price": 8.88,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "FAMAS | Sergeant"
+    "item_name": "FAMAS | Sergeant",
+    "rarity": "Restricted",
+    "paint_index": "288"
   },
   {
     "id": "skin-656512",
@@ -879,7 +1003,9 @@
     "price": 2.18,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "FAMAS | Sergeant"
+    "item_name": "FAMAS | Sergeant",
+    "rarity": "Restricted",
+    "paint_index": "288"
   },
   {
     "id": "skin-656512",
@@ -893,7 +1019,9 @@
     "price": 1.6,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Sergeant"
+    "item_name": "FAMAS | Sergeant",
+    "rarity": "Restricted",
+    "paint_index": "288"
   },
   {
     "id": "skin-656512",
@@ -907,7 +1035,9 @@
     "price": 1.63,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Sergeant"
+    "item_name": "FAMAS | Sergeant",
+    "rarity": "Restricted",
+    "paint_index": "288"
   },
   {
     "id": "skin-656512",
@@ -921,7 +1051,9 @@
     "price": 2.43,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "FAMAS | Sergeant"
+    "item_name": "FAMAS | Sergeant",
+    "rarity": "Restricted",
+    "paint_index": "288"
   },
   {
     "id": "skin-656512",
@@ -935,7 +1067,9 @@
     "price": 1.32,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Sergeant"
+    "item_name": "FAMAS | Sergeant",
+    "rarity": "Restricted",
+    "paint_index": "288"
   },
   {
     "id": "skin-657268",
@@ -949,7 +1083,9 @@
     "price": 1.32,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Neural Net"
+    "item_name": "FAMAS | Neural Net",
+    "rarity": "Restricted",
+    "paint_index": "477"
   },
   {
     "id": "skin-657268",
@@ -963,7 +1099,9 @@
     "price": 2.01,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "FAMAS | Neural Net"
+    "item_name": "FAMAS | Neural Net",
+    "rarity": "Restricted",
+    "paint_index": "477"
   },
   {
     "id": "skin-657268",
@@ -977,7 +1115,9 @@
     "price": 0.49,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Neural Net"
+    "item_name": "FAMAS | Neural Net",
+    "rarity": "Restricted",
+    "paint_index": "477"
   },
   {
     "id": "skin-657268",
@@ -991,7 +1131,9 @@
     "price": 0.78,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Neural Net"
+    "item_name": "FAMAS | Neural Net",
+    "rarity": "Restricted",
+    "paint_index": "477"
   },
   {
     "id": "skin-657268",
@@ -1005,7 +1147,9 @@
     "price": 2.06,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "FAMAS | Neural Net"
+    "item_name": "FAMAS | Neural Net",
+    "rarity": "Restricted",
+    "paint_index": "477"
   },
   {
     "id": "skin-657268",
@@ -1019,7 +1163,9 @@
     "price": 0.57,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Neural Net"
+    "item_name": "FAMAS | Neural Net",
+    "rarity": "Restricted",
+    "paint_index": "477"
   },
   {
     "id": "skin-657268",
@@ -1033,7 +1179,9 @@
     "price": 1.07,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "FAMAS | Neural Net"
+    "item_name": "FAMAS | Neural Net",
+    "rarity": "Restricted",
+    "paint_index": "477"
   },
   {
     "id": "skin-657268",
@@ -1047,7 +1195,9 @@
     "price": 0.51,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Neural Net"
+    "item_name": "FAMAS | Neural Net",
+    "rarity": "Restricted",
+    "paint_index": "477"
   },
   {
     "id": "skin-657268",
@@ -1061,7 +1211,9 @@
     "price": 4.43,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "FAMAS | Neural Net"
+    "item_name": "FAMAS | Neural Net",
+    "rarity": "Restricted",
+    "paint_index": "477"
   },
   {
     "id": "skin-657268",
@@ -1075,7 +1227,9 @@
     "price": 1.19,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "FAMAS | Neural Net"
+    "item_name": "FAMAS | Neural Net",
+    "rarity": "Restricted",
+    "paint_index": "477"
   },
   {
     "id": "skin-658700",
@@ -1089,7 +1243,9 @@
     "price": 0.6,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "FAMAS | Crypsis"
+    "item_name": "FAMAS | Crypsis",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "835"
   },
   {
     "id": "skin-658700",
@@ -1103,7 +1259,9 @@
     "price": 0.07,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Crypsis"
+    "item_name": "FAMAS | Crypsis",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "835"
   },
   {
     "id": "skin-658700",
@@ -1117,7 +1275,9 @@
     "price": 0.09,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Crypsis"
+    "item_name": "FAMAS | Crypsis",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "835"
   },
   {
     "id": "skin-658700",
@@ -1131,7 +1291,9 @@
     "price": 0.37,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Crypsis"
+    "item_name": "FAMAS | Crypsis",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "835"
   },
   {
     "id": "skin-658700",
@@ -1145,7 +1307,9 @@
     "price": 0.23,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "FAMAS | Crypsis"
+    "item_name": "FAMAS | Crypsis",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "835"
   },
   {
     "id": "skin-658700",
@@ -1159,7 +1323,9 @@
     "price": 1.34,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "FAMAS | Crypsis"
+    "item_name": "FAMAS | Crypsis",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "835"
   },
   {
     "id": "skin-658700",
@@ -1173,7 +1339,9 @@
     "price": 0.09,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Crypsis"
+    "item_name": "FAMAS | Crypsis",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "835"
   },
   {
     "id": "skin-658700",
@@ -1187,7 +1355,9 @@
     "price": 0.19,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Crypsis"
+    "item_name": "FAMAS | Crypsis",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "835"
   },
   {
     "id": "skin-658700",
@@ -1201,7 +1371,9 @@
     "price": 0.21,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "FAMAS | Crypsis"
+    "item_name": "FAMAS | Crypsis",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "835"
   },
   {
     "id": "skin-658700",
@@ -1215,7 +1387,9 @@
     "price": 0.2,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "FAMAS | Crypsis"
+    "item_name": "FAMAS | Crypsis",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "835"
   },
   {
     "id": "skin-655976",
@@ -1229,7 +1403,9 @@
     "price": 18.97,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "FAMAS | Afterimage"
+    "item_name": "FAMAS | Afterimage",
+    "rarity": "Classified",
+    "paint_index": "154"
   },
   {
     "id": "skin-655976",
@@ -1243,7 +1419,9 @@
     "price": 23.51,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "FAMAS | Afterimage"
+    "item_name": "FAMAS | Afterimage",
+    "rarity": "Classified",
+    "paint_index": "154"
   },
   {
     "id": "skin-655976",
@@ -1257,7 +1435,9 @@
     "price": 51.35,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Afterimage"
+    "item_name": "FAMAS | Afterimage",
+    "rarity": "Classified",
+    "paint_index": "154"
   },
   {
     "id": "skin-655976",
@@ -1271,7 +1451,9 @@
     "price": 26.71,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Afterimage"
+    "item_name": "FAMAS | Afterimage",
+    "rarity": "Classified",
+    "paint_index": "154"
   },
   {
     "id": "skin-655976",
@@ -1285,7 +1467,9 @@
     "price": 37.66,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Afterimage"
+    "item_name": "FAMAS | Afterimage",
+    "rarity": "Classified",
+    "paint_index": "154"
   },
   {
     "id": "skin-655976",
@@ -1299,7 +1483,9 @@
     "price": 39.77,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "FAMAS | Afterimage"
+    "item_name": "FAMAS | Afterimage",
+    "rarity": "Classified",
+    "paint_index": "154"
   },
   {
     "id": "skin-655976",
@@ -1313,7 +1499,9 @@
     "price": 15.42,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "FAMAS | Afterimage"
+    "item_name": "FAMAS | Afterimage",
+    "rarity": "Classified",
+    "paint_index": "154"
   },
   {
     "id": "skin-655976",
@@ -1327,7 +1515,9 @@
     "price": 15.4,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Afterimage"
+    "item_name": "FAMAS | Afterimage",
+    "rarity": "Classified",
+    "paint_index": "154"
   },
   {
     "id": "skin-657476",
@@ -1341,7 +1531,9 @@
     "price": 2.7,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "FAMAS | Valence"
+    "item_name": "FAMAS | Valence",
+    "rarity": "Restricted",
+    "paint_index": "529"
   },
   {
     "id": "skin-657476",
@@ -1355,7 +1547,9 @@
     "price": 2.23,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Valence"
+    "item_name": "FAMAS | Valence",
+    "rarity": "Restricted",
+    "paint_index": "529"
   },
   {
     "id": "skin-657476",
@@ -1369,7 +1563,9 @@
     "price": 1.62,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Valence"
+    "item_name": "FAMAS | Valence",
+    "rarity": "Restricted",
+    "paint_index": "529"
   },
   {
     "id": "skin-657476",
@@ -1383,7 +1579,9 @@
     "price": 13.03,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "FAMAS | Valence"
+    "item_name": "FAMAS | Valence",
+    "rarity": "Restricted",
+    "paint_index": "529"
   },
   {
     "id": "skin-657476",
@@ -1397,7 +1595,9 @@
     "price": 1.76,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Valence"
+    "item_name": "FAMAS | Valence",
+    "rarity": "Restricted",
+    "paint_index": "529"
   },
   {
     "id": "skin-657476",
@@ -1411,7 +1611,9 @@
     "price": 5.35,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "FAMAS | Valence"
+    "item_name": "FAMAS | Valence",
+    "rarity": "Restricted",
+    "paint_index": "529"
   },
   {
     "id": "skin-657476",
@@ -1425,7 +1627,9 @@
     "price": 1.47,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Valence"
+    "item_name": "FAMAS | Valence",
+    "rarity": "Restricted",
+    "paint_index": "529"
   },
   {
     "id": "skin-657476",
@@ -1439,7 +1643,9 @@
     "price": 4.47,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "FAMAS | Valence"
+    "item_name": "FAMAS | Valence",
+    "rarity": "Restricted",
+    "paint_index": "529"
   },
   {
     "id": "skin-657476",
@@ -1453,7 +1659,9 @@
     "price": 2.72,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "FAMAS | Valence"
+    "item_name": "FAMAS | Valence",
+    "rarity": "Restricted",
+    "paint_index": "529"
   },
   {
     "id": "skin-657476",
@@ -1467,7 +1675,9 @@
     "price": 4.37,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Valence"
+    "item_name": "FAMAS | Valence",
+    "rarity": "Restricted",
+    "paint_index": "529"
   },
   {
     "id": "skin-659728",
@@ -1481,7 +1691,9 @@
     "price": 5.87,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "FAMAS | ZX Spectron"
+    "item_name": "FAMAS | ZX Spectron",
+    "rarity": "Restricted",
+    "paint_index": "1092"
   },
   {
     "id": "skin-659728",
@@ -1495,7 +1707,9 @@
     "price": 0.84,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | ZX Spectron"
+    "item_name": "FAMAS | ZX Spectron",
+    "rarity": "Restricted",
+    "paint_index": "1092"
   },
   {
     "id": "skin-659728",
@@ -1509,7 +1723,9 @@
     "price": 2.03,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "FAMAS | ZX Spectron"
+    "item_name": "FAMAS | ZX Spectron",
+    "rarity": "Restricted",
+    "paint_index": "1092"
   },
   {
     "id": "skin-659728",
@@ -1523,7 +1739,9 @@
     "price": 0.82,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | ZX Spectron"
+    "item_name": "FAMAS | ZX Spectron",
+    "rarity": "Restricted",
+    "paint_index": "1092"
   },
   {
     "id": "skin-659728",
@@ -1537,7 +1755,9 @@
     "price": 1.99,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | ZX Spectron"
+    "item_name": "FAMAS | ZX Spectron",
+    "rarity": "Restricted",
+    "paint_index": "1092"
   },
   {
     "id": "skin-659728",
@@ -1551,7 +1771,9 @@
     "price": 1.03,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | ZX Spectron"
+    "item_name": "FAMAS | ZX Spectron",
+    "rarity": "Restricted",
+    "paint_index": "1092"
   },
   {
     "id": "skin-659728",
@@ -1565,7 +1787,9 @@
     "price": 1.97,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "FAMAS | ZX Spectron"
+    "item_name": "FAMAS | ZX Spectron",
+    "rarity": "Restricted",
+    "paint_index": "1092"
   },
   {
     "id": "skin-659728",
@@ -1579,7 +1803,9 @@
     "price": 19.47,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "FAMAS | ZX Spectron"
+    "item_name": "FAMAS | ZX Spectron",
+    "rarity": "Restricted",
+    "paint_index": "1092"
   },
   {
     "id": "skin-659728",
@@ -1593,7 +1819,9 @@
     "price": 2.51,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "FAMAS | ZX Spectron"
+    "item_name": "FAMAS | ZX Spectron",
+    "rarity": "Restricted",
+    "paint_index": "1092"
   },
   {
     "id": "skin-659728",
@@ -1607,7 +1835,9 @@
     "price": 5.46,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | ZX Spectron"
+    "item_name": "FAMAS | ZX Spectron",
+    "rarity": "Restricted",
+    "paint_index": "1092"
   },
   {
     "id": "skin-658976",
@@ -1621,7 +1851,9 @@
     "price": 0.13,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "FAMAS | Decommissioned"
+    "item_name": "FAMAS | Decommissioned",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "904"
   },
   {
     "id": "skin-658976",
@@ -1635,7 +1867,9 @@
     "price": 0.16,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "FAMAS | Decommissioned"
+    "item_name": "FAMAS | Decommissioned",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "904"
   },
   {
     "id": "skin-658976",
@@ -1649,7 +1883,9 @@
     "price": 0.42,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "FAMAS | Decommissioned"
+    "item_name": "FAMAS | Decommissioned",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "904"
   },
   {
     "id": "skin-658976",
@@ -1663,7 +1899,9 @@
     "price": 0.37,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Decommissioned"
+    "item_name": "FAMAS | Decommissioned",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "904"
   },
   {
     "id": "skin-658976",
@@ -1677,7 +1915,9 @@
     "price": 0.11,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Decommissioned"
+    "item_name": "FAMAS | Decommissioned",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "904"
   },
   {
     "id": "skin-658976",
@@ -1691,7 +1931,9 @@
     "price": 0.13,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "FAMAS | Decommissioned"
+    "item_name": "FAMAS | Decommissioned",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "904"
   },
   {
     "id": "skin-658976",
@@ -1705,7 +1947,9 @@
     "price": 0.09,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Decommissioned"
+    "item_name": "FAMAS | Decommissioned",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "904"
   },
   {
     "id": "skin-658976",
@@ -1719,7 +1963,9 @@
     "price": 0.1,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Decommissioned"
+    "item_name": "FAMAS | Decommissioned",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "904"
   },
   {
     "id": "skin-658976",
@@ -1733,7 +1979,9 @@
     "price": 2.01,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "FAMAS | Decommissioned"
+    "item_name": "FAMAS | Decommissioned",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "904"
   },
   {
     "id": "skin-658976",
@@ -1747,7 +1995,9 @@
     "price": 0.12,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Decommissioned"
+    "item_name": "FAMAS | Decommissioned",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "904"
   },
   {
     "id": "skin-656336",
@@ -1761,7 +2011,9 @@
     "price": 0.41,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Teardown"
+    "item_name": "FAMAS | Teardown",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "244"
   },
   {
     "id": "skin-656336",
@@ -1775,7 +2027,9 @@
     "price": 0.29,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Teardown"
+    "item_name": "FAMAS | Teardown",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "244"
   },
   {
     "id": "skin-656336",
@@ -1789,7 +2043,9 @@
     "price": 0.65,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Teardown"
+    "item_name": "FAMAS | Teardown",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "244"
   },
   {
     "id": "skin-656336",
@@ -1803,7 +2059,9 @@
     "price": 0.27,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Teardown"
+    "item_name": "FAMAS | Teardown",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "244"
   },
   {
     "id": "skin-656336",
@@ -1817,7 +2075,9 @@
     "price": 0.25,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Teardown"
+    "item_name": "FAMAS | Teardown",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "244"
   },
   {
     "id": "skin-657996",
@@ -1831,7 +2091,9 @@
     "price": 1.88,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Macabre"
+    "item_name": "FAMAS | Macabre",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "659"
   },
   {
     "id": "skin-657996",
@@ -1845,7 +2107,9 @@
     "price": 5.13,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "FAMAS | Macabre"
+    "item_name": "FAMAS | Macabre",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "659"
   },
   {
     "id": "skin-657996",
@@ -1859,7 +2123,9 @@
     "price": 3.43,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "FAMAS | Macabre"
+    "item_name": "FAMAS | Macabre",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "659"
   },
   {
     "id": "skin-657996",
@@ -1873,7 +2139,9 @@
     "price": 2.2,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Macabre"
+    "item_name": "FAMAS | Macabre",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "659"
   },
   {
     "id": "skin-657996",
@@ -1887,7 +2155,9 @@
     "price": 3.33,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "FAMAS | Macabre"
+    "item_name": "FAMAS | Macabre",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "659"
   },
   {
     "id": "skin-657996",
@@ -1901,7 +2171,9 @@
     "price": 2.19,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Macabre"
+    "item_name": "FAMAS | Macabre",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "659"
   },
   {
     "id": "skin-657996",
@@ -1915,7 +2187,9 @@
     "price": 1.86,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Macabre"
+    "item_name": "FAMAS | Macabre",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "659"
   },
   {
     "id": "skin-657996",
@@ -1929,7 +2203,9 @@
     "price": 1.92,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Macabre"
+    "item_name": "FAMAS | Macabre",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "659"
   },
   {
     "id": "skin-657996",
@@ -1943,7 +2219,9 @@
     "price": 4.07,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "FAMAS | Macabre"
+    "item_name": "FAMAS | Macabre",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "659"
   },
   {
     "id": "skin-657996",
@@ -1957,7 +2235,9 @@
     "price": 2.7,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "FAMAS | Macabre"
+    "item_name": "FAMAS | Macabre",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "659"
   },
   {
     "id": "skin-659572",
@@ -1971,7 +2251,9 @@
     "price": 30.91,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Meltdown"
+    "item_name": "FAMAS | Meltdown",
+    "rarity": "Classified",
+    "paint_index": "1053"
   },
   {
     "id": "skin-659572",
@@ -1985,7 +2267,9 @@
     "price": 24.71,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Meltdown"
+    "item_name": "FAMAS | Meltdown",
+    "rarity": "Classified",
+    "paint_index": "1053"
   },
   {
     "id": "skin-659572",
@@ -1999,7 +2283,9 @@
     "price": 21.19,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Meltdown"
+    "item_name": "FAMAS | Meltdown",
+    "rarity": "Classified",
+    "paint_index": "1053"
   },
   {
     "id": "skin-659572",
@@ -2013,7 +2299,9 @@
     "price": 22.59,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Meltdown"
+    "item_name": "FAMAS | Meltdown",
+    "rarity": "Classified",
+    "paint_index": "1053"
   },
   {
     "id": "skin-657076",
@@ -2027,7 +2315,9 @@
     "price": 3.25,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Djinn"
+    "item_name": "FAMAS | Djinn",
+    "rarity": "Classified",
+    "paint_index": "429"
   },
   {
     "id": "skin-657076",
@@ -2041,7 +2331,9 @@
     "price": 9.53,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "FAMAS | Djinn"
+    "item_name": "FAMAS | Djinn",
+    "rarity": "Classified",
+    "paint_index": "429"
   },
   {
     "id": "skin-657076",
@@ -2055,7 +2347,9 @@
     "price": 4.51,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "FAMAS | Djinn"
+    "item_name": "FAMAS | Djinn",
+    "rarity": "Classified",
+    "paint_index": "429"
   },
   {
     "id": "skin-657076",
@@ -2069,7 +2363,9 @@
     "price": 8.94,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Djinn"
+    "item_name": "FAMAS | Djinn",
+    "rarity": "Classified",
+    "paint_index": "429"
   },
   {
     "id": "skin-657076",
@@ -2083,7 +2379,9 @@
     "price": 1.33,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Djinn"
+    "item_name": "FAMAS | Djinn",
+    "rarity": "Classified",
+    "paint_index": "429"
   },
   {
     "id": "skin-657076",
@@ -2097,7 +2395,9 @@
     "price": 3.85,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "FAMAS | Djinn"
+    "item_name": "FAMAS | Djinn",
+    "rarity": "Classified",
+    "paint_index": "429"
   },
   {
     "id": "skin-657076",
@@ -2111,7 +2411,9 @@
     "price": 26.05,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "FAMAS | Djinn"
+    "item_name": "FAMAS | Djinn",
+    "rarity": "Classified",
+    "paint_index": "429"
   },
   {
     "id": "skin-657076",
@@ -2125,7 +2427,9 @@
     "price": 3.15,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "FAMAS | Djinn"
+    "item_name": "FAMAS | Djinn",
+    "rarity": "Classified",
+    "paint_index": "429"
   },
   {
     "id": "skin-657076",
@@ -2139,7 +2443,9 @@
     "price": 1.38,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Djinn"
+    "item_name": "FAMAS | Djinn",
+    "rarity": "Classified",
+    "paint_index": "429"
   },
   {
     "id": "skin-657076",
@@ -2153,7 +2459,9 @@
     "price": 1.57,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Djinn"
+    "item_name": "FAMAS | Djinn",
+    "rarity": "Classified",
+    "paint_index": "429"
   },
   {
     "id": "skin-659944",
@@ -2167,7 +2475,9 @@
     "price": 0.09,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "FAMAS | Meow 36"
+    "item_name": "FAMAS | Meow 36",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1146"
   },
   {
     "id": "skin-659944",
@@ -2181,7 +2491,9 @@
     "price": 0.04,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Meow 36"
+    "item_name": "FAMAS | Meow 36",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1146"
   },
   {
     "id": "skin-659944",
@@ -2195,7 +2507,9 @@
     "price": 0.09,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "FAMAS | Meow 36"
+    "item_name": "FAMAS | Meow 36",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1146"
   },
   {
     "id": "skin-659944",
@@ -2209,7 +2523,9 @@
     "price": 1.23,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "FAMAS | Meow 36"
+    "item_name": "FAMAS | Meow 36",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1146"
   },
   {
     "id": "skin-659944",
@@ -2223,7 +2539,9 @@
     "price": 0.09,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Meow 36"
+    "item_name": "FAMAS | Meow 36",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1146"
   },
   {
     "id": "skin-659944",
@@ -2237,7 +2555,9 @@
     "price": 0.28,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Meow 36"
+    "item_name": "FAMAS | Meow 36",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1146"
   },
   {
     "id": "skin-659944",
@@ -2251,7 +2571,9 @@
     "price": 0.11,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "FAMAS | Meow 36"
+    "item_name": "FAMAS | Meow 36",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1146"
   },
   {
     "id": "skin-659944",
@@ -2265,7 +2587,9 @@
     "price": 0.34,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "FAMAS | Meow 36"
+    "item_name": "FAMAS | Meow 36",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1146"
   },
   {
     "id": "skin-659944",
@@ -2279,7 +2603,9 @@
     "price": 0.04,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Meow 36"
+    "item_name": "FAMAS | Meow 36",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1146"
   },
   {
     "id": "skin-659944",
@@ -2293,7 +2619,9 @@
     "price": 0.04,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Meow 36"
+    "item_name": "FAMAS | Meow 36",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1146"
   },
   {
     "id": "skin-659624",
@@ -2307,7 +2635,9 @@
     "price": 0.34,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Faulty Wiring"
+    "item_name": "FAMAS | Faulty Wiring",
+    "rarity": "Consumer Grade",
+    "paint_index": "1066"
   },
   {
     "id": "skin-659624",
@@ -2321,7 +2651,9 @@
     "price": 0.4,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Faulty Wiring"
+    "item_name": "FAMAS | Faulty Wiring",
+    "rarity": "Consumer Grade",
+    "paint_index": "1066"
   },
   {
     "id": "skin-659624",
@@ -2335,7 +2667,9 @@
     "price": 0.31,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Faulty Wiring"
+    "item_name": "FAMAS | Faulty Wiring",
+    "rarity": "Consumer Grade",
+    "paint_index": "1066"
   },
   {
     "id": "skin-659624",
@@ -2349,7 +2683,9 @@
     "price": 0.32,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Faulty Wiring"
+    "item_name": "FAMAS | Faulty Wiring",
+    "rarity": "Consumer Grade",
+    "paint_index": "1066"
   },
   {
     "id": "skin-659624",
@@ -2363,7 +2699,9 @@
     "price": 0.47,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Faulty Wiring"
+    "item_name": "FAMAS | Faulty Wiring",
+    "rarity": "Consumer Grade",
+    "paint_index": "1066"
   },
   {
     "id": "skin-655448",
@@ -2377,7 +2715,9 @@
     "price": 44.57,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Contrast Spray"
+    "item_name": "FAMAS | Contrast Spray",
+    "rarity": "Consumer Grade",
+    "paint_index": "22"
   },
   {
     "id": "skin-655448",
@@ -2391,7 +2731,9 @@
     "price": 2.25,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Contrast Spray"
+    "item_name": "FAMAS | Contrast Spray",
+    "rarity": "Consumer Grade",
+    "paint_index": "22"
   },
   {
     "id": "skin-655448",
@@ -2405,7 +2747,9 @@
     "price": 9.42,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Contrast Spray"
+    "item_name": "FAMAS | Contrast Spray",
+    "rarity": "Consumer Grade",
+    "paint_index": "22"
   },
   {
     "id": "skin-655448",
@@ -2419,7 +2763,9 @@
     "price": 4.36,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Contrast Spray"
+    "item_name": "FAMAS | Contrast Spray",
+    "rarity": "Consumer Grade",
+    "paint_index": "22"
   },
   {
     "id": "skin-655448",
@@ -2433,7 +2779,9 @@
     "price": 1.93,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Contrast Spray"
+    "item_name": "FAMAS | Contrast Spray",
+    "rarity": "Consumer Grade",
+    "paint_index": "22"
   },
   {
     "id": "skin-656844",
@@ -2447,7 +2795,9 @@
     "price": 6.91,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Styx"
+    "item_name": "FAMAS | Styx",
+    "rarity": "Restricted",
+    "paint_index": "371"
   },
   {
     "id": "skin-656844",
@@ -2461,7 +2811,9 @@
     "price": 3.15,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Styx"
+    "item_name": "FAMAS | Styx",
+    "rarity": "Restricted",
+    "paint_index": "371"
   },
   {
     "id": "skin-656844",
@@ -2475,7 +2827,9 @@
     "price": 3.54,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Styx"
+    "item_name": "FAMAS | Styx",
+    "rarity": "Restricted",
+    "paint_index": "371"
   },
   {
     "id": "skin-656844",
@@ -2489,7 +2843,9 @@
     "price": 2.66,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Styx"
+    "item_name": "FAMAS | Styx",
+    "rarity": "Restricted",
+    "paint_index": "371"
   },
   {
     "id": "skin-656844",
@@ -2503,7 +2859,9 @@
     "price": 3.97,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Styx"
+    "item_name": "FAMAS | Styx",
+    "rarity": "Restricted",
+    "paint_index": "371"
   },
   {
     "id": "skin-659868",
@@ -2517,7 +2875,9 @@
     "price": 1.08,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Rapid Eye Movement"
+    "item_name": "FAMAS | Rapid Eye Movement",
+    "rarity": "Classified",
+    "paint_index": "1127"
   },
   {
     "id": "skin-659868",
@@ -2531,7 +2891,9 @@
     "price": 4.79,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "FAMAS | Rapid Eye Movement"
+    "item_name": "FAMAS | Rapid Eye Movement",
+    "rarity": "Classified",
+    "paint_index": "1127"
   },
   {
     "id": "skin-659868",
@@ -2545,7 +2907,9 @@
     "price": 0.87,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Rapid Eye Movement"
+    "item_name": "FAMAS | Rapid Eye Movement",
+    "rarity": "Classified",
+    "paint_index": "1127"
   },
   {
     "id": "skin-659868",
@@ -2559,7 +2923,9 @@
     "price": 16.05,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "FAMAS | Rapid Eye Movement"
+    "item_name": "FAMAS | Rapid Eye Movement",
+    "rarity": "Classified",
+    "paint_index": "1127"
   },
   {
     "id": "skin-659868",
@@ -2573,7 +2939,9 @@
     "price": 2.26,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Rapid Eye Movement"
+    "item_name": "FAMAS | Rapid Eye Movement",
+    "rarity": "Classified",
+    "paint_index": "1127"
   },
   {
     "id": "skin-659868",
@@ -2587,7 +2955,9 @@
     "price": 6.43,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Rapid Eye Movement"
+    "item_name": "FAMAS | Rapid Eye Movement",
+    "rarity": "Classified",
+    "paint_index": "1127"
   },
   {
     "id": "skin-659868",
@@ -2601,7 +2971,9 @@
     "price": 2.1,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "FAMAS | Rapid Eye Movement"
+    "item_name": "FAMAS | Rapid Eye Movement",
+    "rarity": "Classified",
+    "paint_index": "1127"
   },
   {
     "id": "skin-659868",
@@ -2615,7 +2987,9 @@
     "price": 1.6,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "FAMAS | Rapid Eye Movement"
+    "item_name": "FAMAS | Rapid Eye Movement",
+    "rarity": "Classified",
+    "paint_index": "1127"
   },
   {
     "id": "skin-659868",
@@ -2629,7 +3003,9 @@
     "price": 1.78,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "FAMAS | Rapid Eye Movement"
+    "item_name": "FAMAS | Rapid Eye Movement",
+    "rarity": "Classified",
+    "paint_index": "1127"
   },
   {
     "id": "skin-659868",
@@ -2643,7 +3019,9 @@
     "price": 0.82,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Rapid Eye Movement"
+    "item_name": "FAMAS | Rapid Eye Movement",
+    "rarity": "Classified",
+    "paint_index": "1127"
   },
   {
     "id": "skin-658812",
@@ -2657,7 +3035,9 @@
     "price": 2.9,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Night Borre"
+    "item_name": "FAMAS | Night Borre",
+    "rarity": "Consumer Grade",
+    "paint_index": "863"
   },
   {
     "id": "skin-658812",
@@ -2671,7 +3051,9 @@
     "price": 2.56,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Night Borre"
+    "item_name": "FAMAS | Night Borre",
+    "rarity": "Consumer Grade",
+    "paint_index": "863"
   },
   {
     "id": "skin-658812",
@@ -2685,7 +3067,9 @@
     "price": 2.74,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Night Borre"
+    "item_name": "FAMAS | Night Borre",
+    "rarity": "Consumer Grade",
+    "paint_index": "863"
   },
   {
     "id": "skin-658812",
@@ -2699,7 +3083,9 @@
     "price": 3.2,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Night Borre"
+    "item_name": "FAMAS | Night Borre",
+    "rarity": "Consumer Grade",
+    "paint_index": "863"
   },
   {
     "id": "skin-658812",
@@ -2713,7 +3099,9 @@
     "price": 2.73,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Night Borre"
+    "item_name": "FAMAS | Night Borre",
+    "rarity": "Consumer Grade",
+    "paint_index": "863"
   },
   {
     "id": "skin-656400",
@@ -2727,7 +3115,9 @@
     "price": 4.83,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Pulse"
+    "item_name": "FAMAS | Pulse",
+    "rarity": "Restricted",
+    "paint_index": "260"
   },
   {
     "id": "skin-656400",
@@ -2741,7 +3131,9 @@
     "price": 7.95,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "FAMAS | Pulse"
+    "item_name": "FAMAS | Pulse",
+    "rarity": "Restricted",
+    "paint_index": "260"
   },
   {
     "id": "skin-656400",
@@ -2755,7 +3147,9 @@
     "price": 10.13,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "FAMAS | Pulse"
+    "item_name": "FAMAS | Pulse",
+    "rarity": "Restricted",
+    "paint_index": "260"
   },
   {
     "id": "skin-656400",
@@ -2769,7 +3163,9 @@
     "price": 11.65,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "FAMAS | Pulse"
+    "item_name": "FAMAS | Pulse",
+    "rarity": "Restricted",
+    "paint_index": "260"
   },
   {
     "id": "skin-656400",
@@ -2783,7 +3179,9 @@
     "price": 4.21,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Pulse"
+    "item_name": "FAMAS | Pulse",
+    "rarity": "Restricted",
+    "paint_index": "260"
   },
   {
     "id": "skin-656400",
@@ -2797,7 +3195,9 @@
     "price": 6.31,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Pulse"
+    "item_name": "FAMAS | Pulse",
+    "rarity": "Restricted",
+    "paint_index": "260"
   },
   {
     "id": "skin-656400",
@@ -2811,7 +3211,9 @@
     "price": 4.22,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Pulse"
+    "item_name": "FAMAS | Pulse",
+    "rarity": "Restricted",
+    "paint_index": "260"
   },
   {
     "id": "skin-656400",
@@ -2825,7 +3227,9 @@
     "price": 10.29,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "FAMAS | Pulse"
+    "item_name": "FAMAS | Pulse",
+    "rarity": "Restricted",
+    "paint_index": "260"
   },
   {
     "id": "skin-655728",
@@ -2839,7 +3243,9 @@
     "price": 0.07,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Cyanospatter"
+    "item_name": "FAMAS | Cyanospatter",
+    "rarity": "Industrial Grade",
+    "paint_index": "92"
   },
   {
     "id": "skin-655728",
@@ -2853,7 +3259,9 @@
     "price": 0.04,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Cyanospatter"
+    "item_name": "FAMAS | Cyanospatter",
+    "rarity": "Industrial Grade",
+    "paint_index": "92"
   },
   {
     "id": "skin-655728",
@@ -2867,7 +3275,9 @@
     "price": 0.74,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Cyanospatter"
+    "item_name": "FAMAS | Cyanospatter",
+    "rarity": "Industrial Grade",
+    "paint_index": "92"
   },
   {
     "id": "skin-655728",
@@ -2881,7 +3291,9 @@
     "price": 0.05,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Cyanospatter"
+    "item_name": "FAMAS | Cyanospatter",
+    "rarity": "Industrial Grade",
+    "paint_index": "92"
   },
   {
     "id": "skin-655728",
@@ -2895,7 +3307,9 @@
     "price": 0.04,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Cyanospatter"
+    "item_name": "FAMAS | Cyanospatter",
+    "rarity": "Industrial Grade",
+    "paint_index": "92"
   },
   {
     "id": "skin-655548",
@@ -2909,7 +3323,9 @@
     "price": 0.18,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Colony"
+    "item_name": "FAMAS | Colony",
+    "rarity": "Consumer Grade",
+    "paint_index": "47"
   },
   {
     "id": "skin-655548",
@@ -2923,7 +3339,9 @@
     "price": 0.01,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Colony"
+    "item_name": "FAMAS | Colony",
+    "rarity": "Consumer Grade",
+    "paint_index": "47"
   },
   {
     "id": "skin-655548",
@@ -2937,7 +3355,9 @@
     "price": 0.01,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Colony"
+    "item_name": "FAMAS | Colony",
+    "rarity": "Consumer Grade",
+    "paint_index": "47"
   },
   {
     "id": "skin-655548",
@@ -2951,7 +3371,9 @@
     "price": 0.01,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Colony"
+    "item_name": "FAMAS | Colony",
+    "rarity": "Consumer Grade",
+    "paint_index": "47"
   },
   {
     "id": "skin-655548",
@@ -2965,7 +3387,9 @@
     "price": 0.01,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Colony"
+    "item_name": "FAMAS | Colony",
+    "rarity": "Consumer Grade",
+    "paint_index": "47"
   },
   {
     "id": "skin-657776",
@@ -2979,7 +3403,9 @@
     "price": 5.57,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "FAMAS | Roll Cage"
+    "item_name": "FAMAS | Roll Cage",
+    "rarity": "Covert",
+    "paint_index": "604"
   },
   {
     "id": "skin-657776",
@@ -2993,7 +3419,9 @@
     "price": 1.71,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Roll Cage"
+    "item_name": "FAMAS | Roll Cage",
+    "rarity": "Covert",
+    "paint_index": "604"
   },
   {
     "id": "skin-657776",
@@ -3007,7 +3435,9 @@
     "price": 2.19,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Roll Cage"
+    "item_name": "FAMAS | Roll Cage",
+    "rarity": "Covert",
+    "paint_index": "604"
   },
   {
     "id": "skin-657776",
@@ -3021,7 +3451,9 @@
     "price": 3.52,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Roll Cage"
+    "item_name": "FAMAS | Roll Cage",
+    "rarity": "Covert",
+    "paint_index": "604"
   },
   {
     "id": "skin-657776",
@@ -3035,7 +3467,9 @@
     "price": 5.55,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "FAMAS | Roll Cage"
+    "item_name": "FAMAS | Roll Cage",
+    "rarity": "Covert",
+    "paint_index": "604"
   },
   {
     "id": "skin-657776",
@@ -3049,7 +3483,9 @@
     "price": 1.76,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Roll Cage"
+    "item_name": "FAMAS | Roll Cage",
+    "rarity": "Covert",
+    "paint_index": "604"
   },
   {
     "id": "skin-657776",
@@ -3063,7 +3499,9 @@
     "price": 51.49,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "FAMAS | Roll Cage"
+    "item_name": "FAMAS | Roll Cage",
+    "rarity": "Covert",
+    "paint_index": "604"
   },
   {
     "id": "skin-657776",
@@ -3077,7 +3515,9 @@
     "price": 12.16,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Roll Cage"
+    "item_name": "FAMAS | Roll Cage",
+    "rarity": "Covert",
+    "paint_index": "604"
   },
   {
     "id": "skin-657776",
@@ -3091,7 +3531,9 @@
     "price": 12.6,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "FAMAS | Roll Cage"
+    "item_name": "FAMAS | Roll Cage",
+    "rarity": "Covert",
+    "paint_index": "604"
   },
   {
     "id": "skin-657776",
@@ -3105,7 +3547,9 @@
     "price": 5.72,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "FAMAS | Roll Cage"
+    "item_name": "FAMAS | Roll Cage",
+    "rarity": "Covert",
+    "paint_index": "604"
   },
   {
     "id": "skin-656320",
@@ -3119,7 +3563,9 @@
     "price": 1.7,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | CaliCamo"
+    "item_name": "FAMAS | CaliCamo",
+    "rarity": "Industrial Grade",
+    "paint_index": "240"
   },
   {
     "id": "skin-656320",
@@ -3133,7 +3579,9 @@
     "price": 1.59,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | CaliCamo"
+    "item_name": "FAMAS | CaliCamo",
+    "rarity": "Industrial Grade",
+    "paint_index": "240"
   },
   {
     "id": "skin-656320",
@@ -3147,7 +3595,9 @@
     "price": 1.68,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | CaliCamo"
+    "item_name": "FAMAS | CaliCamo",
+    "rarity": "Industrial Grade",
+    "paint_index": "240"
   },
   {
     "id": "skin-656320",
@@ -3161,7 +3611,9 @@
     "price": 1.63,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | CaliCamo"
+    "item_name": "FAMAS | CaliCamo",
+    "rarity": "Industrial Grade",
+    "paint_index": "240"
   },
   {
     "id": "skin-656320",
@@ -3175,7 +3627,9 @@
     "price": 1.76,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | CaliCamo"
+    "item_name": "FAMAS | CaliCamo",
+    "rarity": "Industrial Grade",
+    "paint_index": "240"
   },
   {
     "id": "skin-657328",
@@ -3189,7 +3643,9 @@
     "price": 0.42,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Survivor Z"
+    "item_name": "FAMAS | Survivor Z",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "492"
   },
   {
     "id": "skin-657328",
@@ -3203,7 +3659,9 @@
     "price": 1.21,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "FAMAS | Survivor Z"
+    "item_name": "FAMAS | Survivor Z",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "492"
   },
   {
     "id": "skin-657328",
@@ -3217,7 +3675,9 @@
     "price": 0.12,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Survivor Z"
+    "item_name": "FAMAS | Survivor Z",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "492"
   },
   {
     "id": "skin-657328",
@@ -3231,7 +3691,9 @@
     "price": 0.39,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "FAMAS | Survivor Z"
+    "item_name": "FAMAS | Survivor Z",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "492"
   },
   {
     "id": "skin-657328",
@@ -3245,7 +3707,9 @@
     "price": 0.52,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "FAMAS | Survivor Z"
+    "item_name": "FAMAS | Survivor Z",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "492"
   },
   {
     "id": "skin-657328",
@@ -3259,7 +3723,9 @@
     "price": 0.8,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "FAMAS | Survivor Z"
+    "item_name": "FAMAS | Survivor Z",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "492"
   },
   {
     "id": "skin-657328",
@@ -3273,7 +3739,9 @@
     "price": 0.21,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Survivor Z"
+    "item_name": "FAMAS | Survivor Z",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "492"
   },
   {
     "id": "skin-657328",
@@ -3287,7 +3755,9 @@
     "price": 0.13,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Survivor Z"
+    "item_name": "FAMAS | Survivor Z",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "492"
   },
   {
     "id": "skin-657328",
@@ -3301,7 +3771,9 @@
     "price": 0.81,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "FAMAS | Survivor Z"
+    "item_name": "FAMAS | Survivor Z",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "492"
   },
   {
     "id": "skin-657328",
@@ -3315,7 +3787,9 @@
     "price": 0.24,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Survivor Z"
+    "item_name": "FAMAS | Survivor Z",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "492"
   },
   {
     "id": "skin-659356",
@@ -3329,7 +3803,9 @@
     "price": 68.57,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Prime Conspiracy"
+    "item_name": "FAMAS | Prime Conspiracy",
+    "rarity": "Restricted",
+    "paint_index": "999"
   },
   {
     "id": "skin-659356",
@@ -3343,7 +3819,9 @@
     "price": 54.17,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Prime Conspiracy"
+    "item_name": "FAMAS | Prime Conspiracy",
+    "rarity": "Restricted",
+    "paint_index": "999"
   },
   {
     "id": "skin-659356",
@@ -3357,7 +3835,9 @@
     "price": 55.74,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Prime Conspiracy"
+    "item_name": "FAMAS | Prime Conspiracy",
+    "rarity": "Restricted",
+    "paint_index": "999"
   },
   {
     "id": "skin-659356",
@@ -3371,7 +3851,9 @@
     "price": 50.05,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Prime Conspiracy"
+    "item_name": "FAMAS | Prime Conspiracy",
+    "rarity": "Restricted",
+    "paint_index": "999"
   },
   {
     "id": "skin-659356",
@@ -3385,6 +3867,8 @@
     "price": 75.22,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "FAMAS | Prime Conspiracy"
+    "item_name": "FAMAS | Prime Conspiracy",
+    "rarity": "Restricted",
+    "paint_index": "999"
   }
 ]

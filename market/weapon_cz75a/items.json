@@ -11,7 +11,9 @@
     "price": 35.65,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Victoria"
+    "item_name": "CZ75-Auto | Victoria",
+    "rarity": "Covert",
+    "paint_index": "270"
   },
   {
     "id": "skin-4129848",
@@ -25,7 +27,9 @@
     "price": 82.17,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Victoria"
+    "item_name": "CZ75-Auto | Victoria",
+    "rarity": "Covert",
+    "paint_index": "270"
   },
   {
     "id": "skin-4129848",
@@ -39,7 +43,9 @@
     "price": 6.31,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Victoria"
+    "item_name": "CZ75-Auto | Victoria",
+    "rarity": "Covert",
+    "paint_index": "270"
   },
   {
     "id": "skin-4129848",
@@ -53,7 +59,9 @@
     "price": 5.29,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Victoria"
+    "item_name": "CZ75-Auto | Victoria",
+    "rarity": "Covert",
+    "paint_index": "270"
   },
   {
     "id": "skin-4129848",
@@ -67,7 +75,9 @@
     "price": 38.27,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Victoria"
+    "item_name": "CZ75-Auto | Victoria",
+    "rarity": "Covert",
+    "paint_index": "270"
   },
   {
     "id": "skin-4129848",
@@ -81,7 +91,9 @@
     "price": 23.1,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Victoria"
+    "item_name": "CZ75-Auto | Victoria",
+    "rarity": "Covert",
+    "paint_index": "270"
   },
   {
     "id": "skin-4129848",
@@ -95,7 +107,9 @@
     "price": 28.13,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Victoria"
+    "item_name": "CZ75-Auto | Victoria",
+    "rarity": "Covert",
+    "paint_index": "270"
   },
   {
     "id": "skin-4129848",
@@ -109,7 +123,9 @@
     "price": 9.32,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Victoria"
+    "item_name": "CZ75-Auto | Victoria",
+    "rarity": "Covert",
+    "paint_index": "270"
   },
   {
     "id": "skin-4129848",
@@ -123,7 +139,9 @@
     "price": 6.11,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Victoria"
+    "item_name": "CZ75-Auto | Victoria",
+    "rarity": "Covert",
+    "paint_index": "270"
   },
   {
     "id": "skin-4129848",
@@ -137,7 +155,9 @@
     "price": 9.66,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Victoria"
+    "item_name": "CZ75-Auto | Victoria",
+    "rarity": "Covert",
+    "paint_index": "270"
   },
   {
     "id": "skin-4131340",
@@ -151,7 +171,9 @@
     "price": 5.48,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Xiangliu"
+    "item_name": "CZ75-Auto | Xiangliu",
+    "rarity": "Classified",
+    "paint_index": "643"
   },
   {
     "id": "skin-4131340",
@@ -165,7 +187,9 @@
     "price": 5.03,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Xiangliu"
+    "item_name": "CZ75-Auto | Xiangliu",
+    "rarity": "Classified",
+    "paint_index": "643"
   },
   {
     "id": "skin-4131340",
@@ -179,7 +203,9 @@
     "price": 6.73,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Xiangliu"
+    "item_name": "CZ75-Auto | Xiangliu",
+    "rarity": "Classified",
+    "paint_index": "643"
   },
   {
     "id": "skin-4131340",
@@ -193,7 +219,9 @@
     "price": 15.56,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Xiangliu"
+    "item_name": "CZ75-Auto | Xiangliu",
+    "rarity": "Classified",
+    "paint_index": "643"
   },
   {
     "id": "skin-4131340",
@@ -207,7 +235,9 @@
     "price": 5.31,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Xiangliu"
+    "item_name": "CZ75-Auto | Xiangliu",
+    "rarity": "Classified",
+    "paint_index": "643"
   },
   {
     "id": "skin-4131340",
@@ -221,7 +251,9 @@
     "price": 21.65,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Xiangliu"
+    "item_name": "CZ75-Auto | Xiangliu",
+    "rarity": "Classified",
+    "paint_index": "643"
   },
   {
     "id": "skin-4131340",
@@ -235,7 +267,9 @@
     "price": 13,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Xiangliu"
+    "item_name": "CZ75-Auto | Xiangliu",
+    "rarity": "Classified",
+    "paint_index": "643"
   },
   {
     "id": "skin-4131340",
@@ -249,7 +283,9 @@
     "price": 9.01,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Xiangliu"
+    "item_name": "CZ75-Auto | Xiangliu",
+    "rarity": "Classified",
+    "paint_index": "643"
   },
   {
     "id": "skin-4131340",
@@ -263,7 +299,9 @@
     "price": 12.81,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Xiangliu"
+    "item_name": "CZ75-Auto | Xiangliu",
+    "rarity": "Classified",
+    "paint_index": "643"
   },
   {
     "id": "skin-4131340",
@@ -277,7 +315,9 @@
     "price": 13.55,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Xiangliu"
+    "item_name": "CZ75-Auto | Xiangliu",
+    "rarity": "Classified",
+    "paint_index": "643"
   },
   {
     "id": "skin-4130940",
@@ -291,7 +331,9 @@
     "price": 0.26,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Red Astor"
+    "item_name": "CZ75-Auto | Red Astor",
+    "rarity": "Restricted",
+    "paint_index": "543"
   },
   {
     "id": "skin-4130940",
@@ -305,7 +347,9 @@
     "price": 0.25,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Red Astor"
+    "item_name": "CZ75-Auto | Red Astor",
+    "rarity": "Restricted",
+    "paint_index": "543"
   },
   {
     "id": "skin-4130940",
@@ -319,7 +363,9 @@
     "price": 1,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Red Astor"
+    "item_name": "CZ75-Auto | Red Astor",
+    "rarity": "Restricted",
+    "paint_index": "543"
   },
   {
     "id": "skin-4130940",
@@ -333,7 +379,9 @@
     "price": 0.46,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Red Astor"
+    "item_name": "CZ75-Auto | Red Astor",
+    "rarity": "Restricted",
+    "paint_index": "543"
   },
   {
     "id": "skin-4130940",
@@ -347,7 +395,9 @@
     "price": 0.59,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Red Astor"
+    "item_name": "CZ75-Auto | Red Astor",
+    "rarity": "Restricted",
+    "paint_index": "543"
   },
   {
     "id": "skin-4130940",
@@ -361,7 +411,9 @@
     "price": 0.37,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Red Astor"
+    "item_name": "CZ75-Auto | Red Astor",
+    "rarity": "Restricted",
+    "paint_index": "543"
   },
   {
     "id": "skin-4130940",
@@ -375,7 +427,9 @@
     "price": 1.32,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Red Astor"
+    "item_name": "CZ75-Auto | Red Astor",
+    "rarity": "Restricted",
+    "paint_index": "543"
   },
   {
     "id": "skin-4130940",
@@ -389,7 +443,9 @@
     "price": 3.42,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Red Astor"
+    "item_name": "CZ75-Auto | Red Astor",
+    "rarity": "Restricted",
+    "paint_index": "543"
   },
   {
     "id": "skin-4130940",
@@ -403,7 +459,9 @@
     "price": 0.5,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Red Astor"
+    "item_name": "CZ75-Auto | Red Astor",
+    "rarity": "Restricted",
+    "paint_index": "543"
   },
   {
     "id": "skin-4130940",
@@ -417,7 +475,9 @@
     "price": 0.27,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Red Astor"
+    "item_name": "CZ75-Auto | Red Astor",
+    "rarity": "Restricted",
+    "paint_index": "543"
   },
   {
     "id": "skin-4132912",
@@ -431,7 +491,9 @@
     "price": 0.16,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Circaetus"
+    "item_name": "CZ75-Auto | Circaetus",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1036"
   },
   {
     "id": "skin-4132912",
@@ -445,7 +507,9 @@
     "price": 1.31,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Circaetus"
+    "item_name": "CZ75-Auto | Circaetus",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1036"
   },
   {
     "id": "skin-4132912",
@@ -459,7 +523,9 @@
     "price": 0.11,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Circaetus"
+    "item_name": "CZ75-Auto | Circaetus",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1036"
   },
   {
     "id": "skin-4132912",
@@ -473,7 +539,9 @@
     "price": 0.3,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Circaetus"
+    "item_name": "CZ75-Auto | Circaetus",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1036"
   },
   {
     "id": "skin-4132912",
@@ -487,7 +555,9 @@
     "price": 0.06,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Circaetus"
+    "item_name": "CZ75-Auto | Circaetus",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1036"
   },
   {
     "id": "skin-4132912",
@@ -501,7 +571,9 @@
     "price": 0.06,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Circaetus"
+    "item_name": "CZ75-Auto | Circaetus",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1036"
   },
   {
     "id": "skin-4132912",
@@ -515,7 +587,9 @@
     "price": 0.19,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Circaetus"
+    "item_name": "CZ75-Auto | Circaetus",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1036"
   },
   {
     "id": "skin-4132912",
@@ -529,7 +603,9 @@
     "price": 0.05,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Circaetus"
+    "item_name": "CZ75-Auto | Circaetus",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1036"
   },
   {
     "id": "skin-4132912",
@@ -543,7 +619,9 @@
     "price": 0.42,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Circaetus"
+    "item_name": "CZ75-Auto | Circaetus",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1036"
   },
   {
     "id": "skin-4132912",
@@ -557,7 +635,9 @@
     "price": 0.22,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Circaetus"
+    "item_name": "CZ75-Auto | Circaetus",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1036"
   },
   {
     "id": "skin-4130508",
@@ -571,7 +651,9 @@
     "price": 0.25,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Pole Position"
+    "item_name": "CZ75-Auto | Pole Position",
+    "rarity": "Restricted",
+    "paint_index": "435"
   },
   {
     "id": "skin-4130508",
@@ -585,7 +667,9 @@
     "price": 1.41,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Pole Position"
+    "item_name": "CZ75-Auto | Pole Position",
+    "rarity": "Restricted",
+    "paint_index": "435"
   },
   {
     "id": "skin-4130508",
@@ -599,7 +683,9 @@
     "price": 4.07,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Pole Position"
+    "item_name": "CZ75-Auto | Pole Position",
+    "rarity": "Restricted",
+    "paint_index": "435"
   },
   {
     "id": "skin-4130508",
@@ -613,7 +699,9 @@
     "price": 0.54,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Pole Position"
+    "item_name": "CZ75-Auto | Pole Position",
+    "rarity": "Restricted",
+    "paint_index": "435"
   },
   {
     "id": "skin-4130508",
@@ -627,7 +715,9 @@
     "price": 0.25,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Pole Position"
+    "item_name": "CZ75-Auto | Pole Position",
+    "rarity": "Restricted",
+    "paint_index": "435"
   },
   {
     "id": "skin-4130508",
@@ -641,7 +731,9 @@
     "price": 0.29,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Pole Position"
+    "item_name": "CZ75-Auto | Pole Position",
+    "rarity": "Restricted",
+    "paint_index": "435"
   },
   {
     "id": "skin-4130508",
@@ -655,7 +747,9 @@
     "price": 0.41,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Pole Position"
+    "item_name": "CZ75-Auto | Pole Position",
+    "rarity": "Restricted",
+    "paint_index": "435"
   },
   {
     "id": "skin-4130508",
@@ -669,7 +763,9 @@
     "price": 1.3,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Pole Position"
+    "item_name": "CZ75-Auto | Pole Position",
+    "rarity": "Restricted",
+    "paint_index": "435"
   },
   {
     "id": "skin-4130508",
@@ -683,7 +779,9 @@
     "price": 0.81,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Pole Position"
+    "item_name": "CZ75-Auto | Pole Position",
+    "rarity": "Restricted",
+    "paint_index": "435"
   },
   {
     "id": "skin-4130508",
@@ -697,7 +795,9 @@
     "price": 0.55,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Pole Position"
+    "item_name": "CZ75-Auto | Pole Position",
+    "rarity": "Restricted",
+    "paint_index": "435"
   },
   {
     "id": "skin-4130672",
@@ -711,7 +811,9 @@
     "price": 17.28,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Yellow Jacket"
+    "item_name": "CZ75-Auto | Yellow Jacket",
+    "rarity": "Classified",
+    "paint_index": "476"
   },
   {
     "id": "skin-4130672",
@@ -725,7 +827,9 @@
     "price": 2.19,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Yellow Jacket"
+    "item_name": "CZ75-Auto | Yellow Jacket",
+    "rarity": "Classified",
+    "paint_index": "476"
   },
   {
     "id": "skin-4130672",
@@ -739,7 +843,9 @@
     "price": 10.87,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Yellow Jacket"
+    "item_name": "CZ75-Auto | Yellow Jacket",
+    "rarity": "Classified",
+    "paint_index": "476"
   },
   {
     "id": "skin-4130672",
@@ -753,7 +859,9 @@
     "price": 29.68,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Yellow Jacket"
+    "item_name": "CZ75-Auto | Yellow Jacket",
+    "rarity": "Classified",
+    "paint_index": "476"
   },
   {
     "id": "skin-4130672",
@@ -767,7 +875,9 @@
     "price": 3.02,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Yellow Jacket"
+    "item_name": "CZ75-Auto | Yellow Jacket",
+    "rarity": "Classified",
+    "paint_index": "476"
   },
   {
     "id": "skin-4130672",
@@ -781,7 +891,9 @@
     "price": 5.11,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Yellow Jacket"
+    "item_name": "CZ75-Auto | Yellow Jacket",
+    "rarity": "Classified",
+    "paint_index": "476"
   },
   {
     "id": "skin-4130672",
@@ -795,7 +907,9 @@
     "price": 2.6,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Yellow Jacket"
+    "item_name": "CZ75-Auto | Yellow Jacket",
+    "rarity": "Classified",
+    "paint_index": "476"
   },
   {
     "id": "skin-4130672",
@@ -809,7 +923,9 @@
     "price": 8.78,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Yellow Jacket"
+    "item_name": "CZ75-Auto | Yellow Jacket",
+    "rarity": "Classified",
+    "paint_index": "476"
   },
   {
     "id": "skin-4130672",
@@ -823,7 +939,9 @@
     "price": 6.72,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Yellow Jacket"
+    "item_name": "CZ75-Auto | Yellow Jacket",
+    "rarity": "Classified",
+    "paint_index": "476"
   },
   {
     "id": "skin-4130672",
@@ -837,7 +955,9 @@
     "price": 6.76,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Yellow Jacket"
+    "item_name": "CZ75-Auto | Yellow Jacket",
+    "rarity": "Classified",
+    "paint_index": "476"
   },
   {
     "id": "skin-4132544",
@@ -851,7 +971,9 @@
     "price": 0.79,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Distressed"
+    "item_name": "CZ75-Auto | Distressed",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "944"
   },
   {
     "id": "skin-4132544",
@@ -865,7 +987,9 @@
     "price": 0.09,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Distressed"
+    "item_name": "CZ75-Auto | Distressed",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "944"
   },
   {
     "id": "skin-4132544",
@@ -879,7 +1003,9 @@
     "price": 0.1,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Distressed"
+    "item_name": "CZ75-Auto | Distressed",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "944"
   },
   {
     "id": "skin-4132544",
@@ -893,7 +1019,9 @@
     "price": 0.04,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Distressed"
+    "item_name": "CZ75-Auto | Distressed",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "944"
   },
   {
     "id": "skin-4132544",
@@ -907,7 +1035,9 @@
     "price": 0.23,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Distressed"
+    "item_name": "CZ75-Auto | Distressed",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "944"
   },
   {
     "id": "skin-4132544",
@@ -921,7 +1051,9 @@
     "price": 0.04,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Distressed"
+    "item_name": "CZ75-Auto | Distressed",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "944"
   },
   {
     "id": "skin-4132544",
@@ -935,7 +1067,9 @@
     "price": 0.18,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Distressed"
+    "item_name": "CZ75-Auto | Distressed",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "944"
   },
   {
     "id": "skin-4132544",
@@ -949,7 +1083,9 @@
     "price": 0.09,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Distressed"
+    "item_name": "CZ75-Auto | Distressed",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "944"
   },
   {
     "id": "skin-4132544",
@@ -963,7 +1099,9 @@
     "price": 0.05,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Distressed"
+    "item_name": "CZ75-Auto | Distressed",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "944"
   },
   {
     "id": "skin-4132544",
@@ -977,7 +1115,9 @@
     "price": 0.1,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Distressed"
+    "item_name": "CZ75-Auto | Distressed",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "944"
   },
   {
     "id": "skin-4130028",
@@ -991,7 +1131,9 @@
     "price": 4.08,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Poison Dart"
+    "item_name": "CZ75-Auto | Poison Dart",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "315"
   },
   {
     "id": "skin-4130028",
@@ -1005,7 +1147,9 @@
     "price": 6.85,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Poison Dart"
+    "item_name": "CZ75-Auto | Poison Dart",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "315"
   },
   {
     "id": "skin-4130028",
@@ -1019,7 +1163,9 @@
     "price": 2.66,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Poison Dart"
+    "item_name": "CZ75-Auto | Poison Dart",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "315"
   },
   {
     "id": "skin-4130028",
@@ -1033,7 +1179,9 @@
     "price": 1.84,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Poison Dart"
+    "item_name": "CZ75-Auto | Poison Dart",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "315"
   },
   {
     "id": "skin-4130028",
@@ -1047,7 +1195,9 @@
     "price": 2.91,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Poison Dart"
+    "item_name": "CZ75-Auto | Poison Dart",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "315"
   },
   {
     "id": "skin-4130028",
@@ -1061,7 +1211,9 @@
     "price": 4.39,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Poison Dart"
+    "item_name": "CZ75-Auto | Poison Dart",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "315"
   },
   {
     "id": "skin-4130028",
@@ -1075,7 +1227,9 @@
     "price": 1.54,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Poison Dart"
+    "item_name": "CZ75-Auto | Poison Dart",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "315"
   },
   {
     "id": "skin-4130028",
@@ -1089,7 +1243,9 @@
     "price": 9.62,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Poison Dart"
+    "item_name": "CZ75-Auto | Poison Dart",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "315"
   },
   {
     "id": "skin-4130028",
@@ -1103,7 +1259,9 @@
     "price": 17.13,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Poison Dart"
+    "item_name": "CZ75-Auto | Poison Dart",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "315"
   },
   {
     "id": "skin-4130028",
@@ -1117,7 +1275,9 @@
     "price": 2.64,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Poison Dart"
+    "item_name": "CZ75-Auto | Poison Dart",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "315"
   },
   {
     "id": "skin-4130232",
@@ -1131,7 +1291,9 @@
     "price": 1.61,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Green Plaid"
+    "item_name": "CZ75-Auto | Green Plaid",
+    "rarity": "Consumer Grade",
+    "paint_index": "366"
   },
   {
     "id": "skin-4130232",
@@ -1145,7 +1307,9 @@
     "price": 4.94,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Green Plaid"
+    "item_name": "CZ75-Auto | Green Plaid",
+    "rarity": "Consumer Grade",
+    "paint_index": "366"
   },
   {
     "id": "skin-4130232",
@@ -1159,7 +1323,9 @@
     "price": 1.58,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Green Plaid"
+    "item_name": "CZ75-Auto | Green Plaid",
+    "rarity": "Consumer Grade",
+    "paint_index": "366"
   },
   {
     "id": "skin-4130232",
@@ -1173,7 +1339,9 @@
     "price": 2.52,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Green Plaid"
+    "item_name": "CZ75-Auto | Green Plaid",
+    "rarity": "Consumer Grade",
+    "paint_index": "366"
   },
   {
     "id": "skin-4130232",
@@ -1187,7 +1355,9 @@
     "price": 548.52,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Green Plaid"
+    "item_name": "CZ75-Auto | Green Plaid",
+    "rarity": "Consumer Grade",
+    "paint_index": "366"
   },
   {
     "id": "skin-4128896",
@@ -1201,7 +1371,9 @@
     "price": 3.21,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Silver"
+    "item_name": "CZ75-Auto | Silver",
+    "rarity": "Industrial Grade",
+    "paint_index": "32"
   },
   {
     "id": "skin-4128896",
@@ -1215,7 +1387,9 @@
     "price": 2.29,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Silver"
+    "item_name": "CZ75-Auto | Silver",
+    "rarity": "Industrial Grade",
+    "paint_index": "32"
   },
   {
     "id": "skin-4131176",
@@ -1229,7 +1403,9 @@
     "price": 0.12,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Imprint"
+    "item_name": "CZ75-Auto | Imprint",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "602"
   },
   {
     "id": "skin-4131176",
@@ -1243,7 +1419,9 @@
     "price": 0.11,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Imprint"
+    "item_name": "CZ75-Auto | Imprint",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "602"
   },
   {
     "id": "skin-4131176",
@@ -1257,7 +1435,9 @@
     "price": 0.04,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Imprint"
+    "item_name": "CZ75-Auto | Imprint",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "602"
   },
   {
     "id": "skin-4131176",
@@ -1271,7 +1451,9 @@
     "price": 0.05,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Imprint"
+    "item_name": "CZ75-Auto | Imprint",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "602"
   },
   {
     "id": "skin-4131176",
@@ -1285,7 +1467,9 @@
     "price": 0.09,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Imprint"
+    "item_name": "CZ75-Auto | Imprint",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "602"
   },
   {
     "id": "skin-4131176",
@@ -1299,7 +1483,9 @@
     "price": 0.26,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Imprint"
+    "item_name": "CZ75-Auto | Imprint",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "602"
   },
   {
     "id": "skin-4131176",
@@ -1313,7 +1499,9 @@
     "price": 0.09,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Imprint"
+    "item_name": "CZ75-Auto | Imprint",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "602"
   },
   {
     "id": "skin-4131176",
@@ -1327,7 +1515,9 @@
     "price": 0.3,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Imprint"
+    "item_name": "CZ75-Auto | Imprint",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "602"
   },
   {
     "id": "skin-4131176",
@@ -1341,7 +1531,9 @@
     "price": 0.09,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Imprint"
+    "item_name": "CZ75-Auto | Imprint",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "602"
   },
   {
     "id": "skin-4131176",
@@ -1355,7 +1547,9 @@
     "price": 1.28,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Imprint"
+    "item_name": "CZ75-Auto | Imprint",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "602"
   },
   {
     "id": "skin-4133024",
@@ -1369,7 +1563,9 @@
     "price": 3.29,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Syndicate"
+    "item_name": "CZ75-Auto | Syndicate",
+    "rarity": "Restricted",
+    "paint_index": "1064"
   },
   {
     "id": "skin-4133024",
@@ -1383,7 +1579,9 @@
     "price": 2.49,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Syndicate"
+    "item_name": "CZ75-Auto | Syndicate",
+    "rarity": "Restricted",
+    "paint_index": "1064"
   },
   {
     "id": "skin-4133024",
@@ -1397,7 +1595,9 @@
     "price": 2.47,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Syndicate"
+    "item_name": "CZ75-Auto | Syndicate",
+    "rarity": "Restricted",
+    "paint_index": "1064"
   },
   {
     "id": "skin-4133024",
@@ -1411,7 +1611,9 @@
     "price": 2.54,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Syndicate"
+    "item_name": "CZ75-Auto | Syndicate",
+    "rarity": "Restricted",
+    "paint_index": "1064"
   },
   {
     "id": "skin-4133024",
@@ -1425,7 +1627,9 @@
     "price": 4.94,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Syndicate"
+    "item_name": "CZ75-Auto | Syndicate",
+    "rarity": "Restricted",
+    "paint_index": "1064"
   },
   {
     "id": "skin-4129356",
@@ -1439,7 +1643,9 @@
     "price": 0.29,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Jungle Dashed"
+    "item_name": "CZ75-Auto | Jungle Dashed",
+    "rarity": "Consumer Grade",
+    "paint_index": "147"
   },
   {
     "id": "skin-4129356",
@@ -1453,7 +1659,9 @@
     "price": 0.98,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Jungle Dashed"
+    "item_name": "CZ75-Auto | Jungle Dashed",
+    "rarity": "Consumer Grade",
+    "paint_index": "147"
   },
   {
     "id": "skin-4129356",
@@ -1467,7 +1675,9 @@
     "price": 0.29,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Jungle Dashed"
+    "item_name": "CZ75-Auto | Jungle Dashed",
+    "rarity": "Consumer Grade",
+    "paint_index": "147"
   },
   {
     "id": "skin-4129356",
@@ -1481,7 +1691,9 @@
     "price": 0.31,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Jungle Dashed"
+    "item_name": "CZ75-Auto | Jungle Dashed",
+    "rarity": "Consumer Grade",
+    "paint_index": "147"
   },
   {
     "id": "skin-4129356",
@@ -1495,7 +1707,9 @@
     "price": 0.3,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Jungle Dashed"
+    "item_name": "CZ75-Auto | Jungle Dashed",
+    "rarity": "Consumer Grade",
+    "paint_index": "147"
   },
   {
     "id": "skin-4131256",
@@ -1509,7 +1723,9 @@
     "price": 0.08,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Polymer"
+    "item_name": "CZ75-Auto | Polymer",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "622"
   },
   {
     "id": "skin-4131256",
@@ -1523,7 +1739,9 @@
     "price": 0.11,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Polymer"
+    "item_name": "CZ75-Auto | Polymer",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "622"
   },
   {
     "id": "skin-4131256",
@@ -1537,7 +1755,9 @@
     "price": 0.44,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Polymer"
+    "item_name": "CZ75-Auto | Polymer",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "622"
   },
   {
     "id": "skin-4131256",
@@ -1551,7 +1771,9 @@
     "price": 0.22,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Polymer"
+    "item_name": "CZ75-Auto | Polymer",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "622"
   },
   {
     "id": "skin-4131256",
@@ -1565,7 +1787,9 @@
     "price": 0.23,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Polymer"
+    "item_name": "CZ75-Auto | Polymer",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "622"
   },
   {
     "id": "skin-4131256",
@@ -1579,7 +1803,9 @@
     "price": 0.08,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Polymer"
+    "item_name": "CZ75-Auto | Polymer",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "622"
   },
   {
     "id": "skin-4131256",
@@ -1593,7 +1819,9 @@
     "price": 0.24,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Polymer"
+    "item_name": "CZ75-Auto | Polymer",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "622"
   },
   {
     "id": "skin-4131256",
@@ -1607,7 +1835,9 @@
     "price": 0.96,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Polymer"
+    "item_name": "CZ75-Auto | Polymer",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "622"
   },
   {
     "id": "skin-4131256",
@@ -1621,7 +1851,9 @@
     "price": 0.09,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Polymer"
+    "item_name": "CZ75-Auto | Polymer",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "622"
   },
   {
     "id": "skin-4131256",
@@ -1635,7 +1867,9 @@
     "price": 0.24,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Polymer"
+    "item_name": "CZ75-Auto | Polymer",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "622"
   },
   {
     "id": "skin-4130168",
@@ -1649,7 +1883,9 @@
     "price": 2.08,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Tigris"
+    "item_name": "CZ75-Auto | Tigris",
+    "rarity": "Restricted",
+    "paint_index": "350"
   },
   {
     "id": "skin-4130168",
@@ -1663,7 +1899,9 @@
     "price": 1.09,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Tigris"
+    "item_name": "CZ75-Auto | Tigris",
+    "rarity": "Restricted",
+    "paint_index": "350"
   },
   {
     "id": "skin-4130168",
@@ -1677,7 +1915,9 @@
     "price": 1.33,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Tigris"
+    "item_name": "CZ75-Auto | Tigris",
+    "rarity": "Restricted",
+    "paint_index": "350"
   },
   {
     "id": "skin-4130168",
@@ -1691,7 +1931,9 @@
     "price": 4.48,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Tigris"
+    "item_name": "CZ75-Auto | Tigris",
+    "rarity": "Restricted",
+    "paint_index": "350"
   },
   {
     "id": "skin-4130168",
@@ -1705,7 +1947,9 @@
     "price": 0.43,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Tigris"
+    "item_name": "CZ75-Auto | Tigris",
+    "rarity": "Restricted",
+    "paint_index": "350"
   },
   {
     "id": "skin-4130168",
@@ -1719,7 +1963,9 @@
     "price": 1.35,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Tigris"
+    "item_name": "CZ75-Auto | Tigris",
+    "rarity": "Restricted",
+    "paint_index": "350"
   },
   {
     "id": "skin-4130168",
@@ -1733,7 +1979,9 @@
     "price": 0.6,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Tigris"
+    "item_name": "CZ75-Auto | Tigris",
+    "rarity": "Restricted",
+    "paint_index": "350"
   },
   {
     "id": "skin-4130168",
@@ -1747,7 +1995,9 @@
     "price": 0.43,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Tigris"
+    "item_name": "CZ75-Auto | Tigris",
+    "rarity": "Restricted",
+    "paint_index": "350"
   },
   {
     "id": "skin-4130168",
@@ -1761,7 +2011,9 @@
     "price": 1.04,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Tigris"
+    "item_name": "CZ75-Auto | Tigris",
+    "rarity": "Restricted",
+    "paint_index": "350"
   },
   {
     "id": "skin-4130168",
@@ -1775,7 +2027,9 @@
     "price": 0.63,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Tigris"
+    "item_name": "CZ75-Auto | Tigris",
+    "rarity": "Restricted",
+    "paint_index": "350"
   },
   {
     "id": "skin-4133072",
@@ -1789,7 +2043,9 @@
     "price": 0.34,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Framework"
+    "item_name": "CZ75-Auto | Framework",
+    "rarity": "Consumer Grade",
+    "paint_index": "1076"
   },
   {
     "id": "skin-4133072",
@@ -1803,7 +2059,9 @@
     "price": 0.48,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Framework"
+    "item_name": "CZ75-Auto | Framework",
+    "rarity": "Consumer Grade",
+    "paint_index": "1076"
   },
   {
     "id": "skin-4133072",
@@ -1817,7 +2075,9 @@
     "price": 0.34,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Framework"
+    "item_name": "CZ75-Auto | Framework",
+    "rarity": "Consumer Grade",
+    "paint_index": "1076"
   },
   {
     "id": "skin-4133072",
@@ -1831,7 +2091,9 @@
     "price": 0.33,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Framework"
+    "item_name": "CZ75-Auto | Framework",
+    "rarity": "Consumer Grade",
+    "paint_index": "1076"
   },
   {
     "id": "skin-4133072",
@@ -1845,7 +2107,9 @@
     "price": 0.68,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Framework"
+    "item_name": "CZ75-Auto | Framework",
+    "rarity": "Consumer Grade",
+    "paint_index": "1076"
   },
   {
     "id": "skin-4130104",
@@ -1859,7 +2123,9 @@
     "price": 1.81,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Twist"
+    "item_name": "CZ75-Auto | Twist",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "334"
   },
   {
     "id": "skin-4130104",
@@ -1873,7 +2139,9 @@
     "price": 1.73,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Twist"
+    "item_name": "CZ75-Auto | Twist",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "334"
   },
   {
     "id": "skin-4130104",
@@ -1887,7 +2155,9 @@
     "price": 1.8,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Twist"
+    "item_name": "CZ75-Auto | Twist",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "334"
   },
   {
     "id": "skin-4130104",
@@ -1901,7 +2171,9 @@
     "price": 1.28,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Twist"
+    "item_name": "CZ75-Auto | Twist",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "334"
   },
   {
     "id": "skin-4130104",
@@ -1915,7 +2187,9 @@
     "price": 1.84,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Twist"
+    "item_name": "CZ75-Auto | Twist",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "334"
   },
   {
     "id": "skin-4130104",
@@ -1929,7 +2203,9 @@
     "price": 2.06,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Twist"
+    "item_name": "CZ75-Auto | Twist",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "334"
   },
   {
     "id": "skin-4130104",
@@ -1943,7 +2219,9 @@
     "price": 2.59,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Twist"
+    "item_name": "CZ75-Auto | Twist",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "334"
   },
   {
     "id": "skin-4130104",
@@ -1957,7 +2235,9 @@
     "price": 1.14,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Twist"
+    "item_name": "CZ75-Auto | Twist",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "334"
   },
   {
     "id": "skin-4130104",
@@ -1971,7 +2251,9 @@
     "price": 1.52,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Twist"
+    "item_name": "CZ75-Auto | Twist",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "334"
   },
   {
     "id": "skin-4130104",
@@ -1985,7 +2267,9 @@
     "price": 1.09,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Twist"
+    "item_name": "CZ75-Auto | Twist",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "334"
   },
   {
     "id": "skin-4128816",
@@ -1999,7 +2283,9 @@
     "price": 1,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Crimson Web"
+    "item_name": "CZ75-Auto | Crimson Web",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "12"
   },
   {
     "id": "skin-4128816",
@@ -2013,7 +2299,9 @@
     "price": 1.42,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Crimson Web"
+    "item_name": "CZ75-Auto | Crimson Web",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "12"
   },
   {
     "id": "skin-4128816",
@@ -2027,7 +2315,9 @@
     "price": 19.95,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Crimson Web"
+    "item_name": "CZ75-Auto | Crimson Web",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "12"
   },
   {
     "id": "skin-4128816",
@@ -2041,7 +2331,9 @@
     "price": 1.13,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Crimson Web"
+    "item_name": "CZ75-Auto | Crimson Web",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "12"
   },
   {
     "id": "skin-4128816",
@@ -2055,7 +2347,9 @@
     "price": 2.31,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Crimson Web"
+    "item_name": "CZ75-Auto | Crimson Web",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "12"
   },
   {
     "id": "skin-4128816",
@@ -2069,7 +2363,9 @@
     "price": 1.03,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Crimson Web"
+    "item_name": "CZ75-Auto | Crimson Web",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "12"
   },
   {
     "id": "skin-4128816",
@@ -2083,7 +2379,9 @@
     "price": 2.16,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Crimson Web"
+    "item_name": "CZ75-Auto | Crimson Web",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "12"
   },
   {
     "id": "skin-4128816",
@@ -2097,7 +2395,9 @@
     "price": 2.18,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Crimson Web"
+    "item_name": "CZ75-Auto | Crimson Web",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "12"
   },
   {
     "id": "skin-4128816",
@@ -2111,7 +2411,9 @@
     "price": 48.52,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Crimson Web"
+    "item_name": "CZ75-Auto | Crimson Web",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "12"
   },
   {
     "id": "skin-4128816",
@@ -2125,7 +2427,9 @@
     "price": 4.52,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Crimson Web"
+    "item_name": "CZ75-Auto | Crimson Web",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "12"
   },
   {
     "id": "skin-4130056",
@@ -2139,7 +2443,9 @@
     "price": 5.9,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Nitro"
+    "item_name": "CZ75-Auto | Nitro",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "322"
   },
   {
     "id": "skin-4130056",
@@ -2153,7 +2459,9 @@
     "price": 6.29,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Nitro"
+    "item_name": "CZ75-Auto | Nitro",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "322"
   },
   {
     "id": "skin-4130056",
@@ -2167,7 +2475,9 @@
     "price": 8.86,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Nitro"
+    "item_name": "CZ75-Auto | Nitro",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "322"
   },
   {
     "id": "skin-4130056",
@@ -2181,7 +2491,9 @@
     "price": 40.8,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Nitro"
+    "item_name": "CZ75-Auto | Nitro",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "322"
   },
   {
     "id": "skin-4130056",
@@ -2195,7 +2507,9 @@
     "price": 6.73,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Nitro"
+    "item_name": "CZ75-Auto | Nitro",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "322"
   },
   {
     "id": "skin-4129640",
@@ -2209,7 +2523,9 @@
     "price": 3.61,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Hexane"
+    "item_name": "CZ75-Auto | Hexane",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "218"
   },
   {
     "id": "skin-4129640",
@@ -2223,7 +2539,9 @@
     "price": 1.35,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Hexane"
+    "item_name": "CZ75-Auto | Hexane",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "218"
   },
   {
     "id": "skin-4129640",
@@ -2237,7 +2555,9 @@
     "price": 2.18,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Hexane"
+    "item_name": "CZ75-Auto | Hexane",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "218"
   },
   {
     "id": "skin-4129640",
@@ -2251,7 +2571,9 @@
     "price": 1.02,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Hexane"
+    "item_name": "CZ75-Auto | Hexane",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "218"
   },
   {
     "id": "skin-4129640",
@@ -2265,7 +2587,9 @@
     "price": 2.99,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Hexane"
+    "item_name": "CZ75-Auto | Hexane",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "218"
   },
   {
     "id": "skin-4129640",
@@ -2279,7 +2603,9 @@
     "price": 8.77,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Hexane"
+    "item_name": "CZ75-Auto | Hexane",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "218"
   },
   {
     "id": "skin-4129640",
@@ -2293,7 +2619,9 @@
     "price": 2.59,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Hexane"
+    "item_name": "CZ75-Auto | Hexane",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "218"
   },
   {
     "id": "skin-4129640",
@@ -2307,7 +2635,9 @@
     "price": 1.74,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Hexane"
+    "item_name": "CZ75-Auto | Hexane",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "218"
   },
   {
     "id": "skin-4131604",
@@ -2321,7 +2651,9 @@
     "price": 7.48,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Eco"
+    "item_name": "CZ75-Auto | Eco",
+    "rarity": "Restricted",
+    "paint_index": "709"
   },
   {
     "id": "skin-4131604",
@@ -2335,7 +2667,9 @@
     "price": 0.92,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Eco"
+    "item_name": "CZ75-Auto | Eco",
+    "rarity": "Restricted",
+    "paint_index": "709"
   },
   {
     "id": "skin-4131604",
@@ -2349,7 +2683,9 @@
     "price": 2.43,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Eco"
+    "item_name": "CZ75-Auto | Eco",
+    "rarity": "Restricted",
+    "paint_index": "709"
   },
   {
     "id": "skin-4131604",
@@ -2363,7 +2699,9 @@
     "price": 0.36,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Eco"
+    "item_name": "CZ75-Auto | Eco",
+    "rarity": "Restricted",
+    "paint_index": "709"
   },
   {
     "id": "skin-4131604",
@@ -2377,7 +2715,9 @@
     "price": 1.02,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Eco"
+    "item_name": "CZ75-Auto | Eco",
+    "rarity": "Restricted",
+    "paint_index": "709"
   },
   {
     "id": "skin-4131604",
@@ -2391,7 +2731,9 @@
     "price": 0.4,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Eco"
+    "item_name": "CZ75-Auto | Eco",
+    "rarity": "Restricted",
+    "paint_index": "709"
   },
   {
     "id": "skin-4131604",
@@ -2405,7 +2747,9 @@
     "price": 0.97,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Eco"
+    "item_name": "CZ75-Auto | Eco",
+    "rarity": "Restricted",
+    "paint_index": "709"
   },
   {
     "id": "skin-4131604",
@@ -2419,7 +2763,9 @@
     "price": 1.05,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Eco"
+    "item_name": "CZ75-Auto | Eco",
+    "rarity": "Restricted",
+    "paint_index": "709"
   },
   {
     "id": "skin-4131604",
@@ -2433,7 +2779,9 @@
     "price": 0.51,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Eco"
+    "item_name": "CZ75-Auto | Eco",
+    "rarity": "Restricted",
+    "paint_index": "709"
   },
   {
     "id": "skin-4131604",
@@ -2447,7 +2795,9 @@
     "price": 2.15,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Eco"
+    "item_name": "CZ75-Auto | Eco",
+    "rarity": "Restricted",
+    "paint_index": "709"
   },
   {
     "id": "skin-4132500",
@@ -2461,7 +2811,9 @@
     "price": 1.62,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Midnight Palm"
+    "item_name": "CZ75-Auto | Midnight Palm",
+    "rarity": "Industrial Grade",
+    "paint_index": "933"
   },
   {
     "id": "skin-4132500",
@@ -2475,7 +2827,9 @@
     "price": 1.61,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Midnight Palm"
+    "item_name": "CZ75-Auto | Midnight Palm",
+    "rarity": "Industrial Grade",
+    "paint_index": "933"
   },
   {
     "id": "skin-4132500",
@@ -2489,7 +2843,9 @@
     "price": 1.68,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Midnight Palm"
+    "item_name": "CZ75-Auto | Midnight Palm",
+    "rarity": "Industrial Grade",
+    "paint_index": "933"
   },
   {
     "id": "skin-4132500",
@@ -2503,7 +2859,9 @@
     "price": 1.63,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Midnight Palm"
+    "item_name": "CZ75-Auto | Midnight Palm",
+    "rarity": "Industrial Grade",
+    "paint_index": "933"
   },
   {
     "id": "skin-4132500",
@@ -2517,7 +2875,9 @@
     "price": 1.63,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Midnight Palm"
+    "item_name": "CZ75-Auto | Midnight Palm",
+    "rarity": "Industrial Grade",
+    "paint_index": "933"
   },
   {
     "id": "skin-4132672",
@@ -2531,7 +2891,9 @@
     "price": 0.9,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Vendetta"
+    "item_name": "CZ75-Auto | Vendetta",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "976"
   },
   {
     "id": "skin-4132672",
@@ -2545,7 +2907,9 @@
     "price": 0.39,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Vendetta"
+    "item_name": "CZ75-Auto | Vendetta",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "976"
   },
   {
     "id": "skin-4132672",
@@ -2559,7 +2923,9 @@
     "price": 0.38,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Vendetta"
+    "item_name": "CZ75-Auto | Vendetta",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "976"
   },
   {
     "id": "skin-4132672",
@@ -2573,7 +2939,9 @@
     "price": 2.3,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Vendetta"
+    "item_name": "CZ75-Auto | Vendetta",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "976"
   },
   {
     "id": "skin-4132672",
@@ -2587,7 +2955,9 @@
     "price": 0.78,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Vendetta"
+    "item_name": "CZ75-Auto | Vendetta",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "976"
   },
   {
     "id": "skin-4132672",
@@ -2601,7 +2971,9 @@
     "price": 0.43,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Vendetta"
+    "item_name": "CZ75-Auto | Vendetta",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "976"
   },
   {
     "id": "skin-4132672",
@@ -2615,7 +2987,9 @@
     "price": 0.29,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Vendetta"
+    "item_name": "CZ75-Auto | Vendetta",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "976"
   },
   {
     "id": "skin-4132672",
@@ -2629,7 +3003,9 @@
     "price": 0.29,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Vendetta"
+    "item_name": "CZ75-Auto | Vendetta",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "976"
   },
   {
     "id": "skin-4132672",
@@ -2643,7 +3019,9 @@
     "price": 0.32,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Vendetta"
+    "item_name": "CZ75-Auto | Vendetta",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "976"
   },
   {
     "id": "skin-4132672",
@@ -2657,7 +3035,9 @@
     "price": 0.27,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Vendetta"
+    "item_name": "CZ75-Auto | Vendetta",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "976"
   },
   {
     "id": "skin-4129960",
@@ -2671,7 +3051,9 @@
     "price": 2.24,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Army Sheen"
+    "item_name": "CZ75-Auto | Army Sheen",
+    "rarity": "Consumer Grade",
+    "paint_index": "298"
   },
   {
     "id": "skin-4129960",
@@ -2685,7 +3067,9 @@
     "price": 1.01,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Army Sheen"
+    "item_name": "CZ75-Auto | Army Sheen",
+    "rarity": "Consumer Grade",
+    "paint_index": "298"
   },
   {
     "id": "skin-4129960",
@@ -2699,7 +3083,9 @@
     "price": 1.08,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Army Sheen"
+    "item_name": "CZ75-Auto | Army Sheen",
+    "rarity": "Consumer Grade",
+    "paint_index": "298"
   },
   {
     "id": "skin-4129844",
@@ -2713,7 +3099,9 @@
     "price": 41.54,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "CZ75-Auto | The Fuschia Is Now"
+    "item_name": "CZ75-Auto | The Fuschia Is Now",
+    "rarity": "Classified",
+    "paint_index": "269"
   },
   {
     "id": "skin-4129844",
@@ -2727,7 +3115,9 @@
     "price": 23.04,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | The Fuschia Is Now"
+    "item_name": "CZ75-Auto | The Fuschia Is Now",
+    "rarity": "Classified",
+    "paint_index": "269"
   },
   {
     "id": "skin-4129844",
@@ -2741,7 +3131,9 @@
     "price": 45.25,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | The Fuschia Is Now"
+    "item_name": "CZ75-Auto | The Fuschia Is Now",
+    "rarity": "Classified",
+    "paint_index": "269"
   },
   {
     "id": "skin-4129844",
@@ -2755,7 +3147,9 @@
     "price": 16.73,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | The Fuschia Is Now"
+    "item_name": "CZ75-Auto | The Fuschia Is Now",
+    "rarity": "Classified",
+    "paint_index": "269"
   },
   {
     "id": "skin-4129844",
@@ -2769,7 +3163,9 @@
     "price": 23.87,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "CZ75-Auto | The Fuschia Is Now"
+    "item_name": "CZ75-Auto | The Fuschia Is Now",
+    "rarity": "Classified",
+    "paint_index": "269"
   },
   {
     "id": "skin-4129844",
@@ -2783,7 +3179,9 @@
     "price": 16.08,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "CZ75-Auto | The Fuschia Is Now"
+    "item_name": "CZ75-Auto | The Fuschia Is Now",
+    "rarity": "Classified",
+    "paint_index": "269"
   },
   {
     "id": "skin-4129844",
@@ -2797,7 +3195,9 @@
     "price": 35.65,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "CZ75-Auto | The Fuschia Is Now"
+    "item_name": "CZ75-Auto | The Fuschia Is Now",
+    "rarity": "Classified",
+    "paint_index": "269"
   },
   {
     "id": "skin-4129844",
@@ -2811,7 +3211,9 @@
     "price": 27.43,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | The Fuschia Is Now"
+    "item_name": "CZ75-Auto | The Fuschia Is Now",
+    "rarity": "Classified",
+    "paint_index": "269"
   },
   {
     "id": "skin-4130100",
@@ -2825,7 +3227,9 @@
     "price": 0.95,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Indigo"
+    "item_name": "CZ75-Auto | Indigo",
+    "rarity": "Consumer Grade",
+    "paint_index": "333"
   },
   {
     "id": "skin-4130100",
@@ -2839,7 +3243,9 @@
     "price": 1.02,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Indigo"
+    "item_name": "CZ75-Auto | Indigo",
+    "rarity": "Consumer Grade",
+    "paint_index": "333"
   },
   {
     "id": "skin-4130100",
@@ -2853,7 +3259,9 @@
     "price": 0.75,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Indigo"
+    "item_name": "CZ75-Auto | Indigo",
+    "rarity": "Consumer Grade",
+    "paint_index": "333"
   },
   {
     "id": "skin-4130100",
@@ -2867,7 +3275,9 @@
     "price": 3.14,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Indigo"
+    "item_name": "CZ75-Auto | Indigo",
+    "rarity": "Consumer Grade",
+    "paint_index": "333"
   },
   {
     "id": "skin-4130100",
@@ -2881,7 +3291,9 @@
     "price": 0.9,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Indigo"
+    "item_name": "CZ75-Auto | Indigo",
+    "rarity": "Consumer Grade",
+    "paint_index": "333"
   },
   {
     "id": "skin-4129956",
@@ -2895,7 +3307,9 @@
     "price": 0.45,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Tuxedo"
+    "item_name": "CZ75-Auto | Tuxedo",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "297"
   },
   {
     "id": "skin-4129956",
@@ -2909,7 +3323,9 @@
     "price": 0.67,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Tuxedo"
+    "item_name": "CZ75-Auto | Tuxedo",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "297"
   },
   {
     "id": "skin-4129956",
@@ -2923,7 +3339,9 @@
     "price": 0.35,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Tuxedo"
+    "item_name": "CZ75-Auto | Tuxedo",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "297"
   },
   {
     "id": "skin-4129956",
@@ -2937,7 +3355,9 @@
     "price": 1.12,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Tuxedo"
+    "item_name": "CZ75-Auto | Tuxedo",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "297"
   },
   {
     "id": "skin-4129956",
@@ -2951,7 +3371,9 @@
     "price": 0.44,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Tuxedo"
+    "item_name": "CZ75-Auto | Tuxedo",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "297"
   },
   {
     "id": "skin-4130068",
@@ -2965,7 +3387,9 @@
     "price": 342.07,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Chalice"
+    "item_name": "CZ75-Auto | Chalice",
+    "rarity": "Restricted",
+    "paint_index": "325"
   },
   {
     "id": "skin-4130068",
@@ -2979,7 +3403,9 @@
     "price": 336.52,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Chalice"
+    "item_name": "CZ75-Auto | Chalice",
+    "rarity": "Restricted",
+    "paint_index": "325"
   },
   {
     "id": "skin-4131516",
@@ -2993,7 +3419,9 @@
     "price": 0.68,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Tacticat"
+    "item_name": "CZ75-Auto | Tacticat",
+    "rarity": "Restricted",
+    "paint_index": "687"
   },
   {
     "id": "skin-4131516",
@@ -3007,7 +3435,9 @@
     "price": 0.28,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Tacticat"
+    "item_name": "CZ75-Auto | Tacticat",
+    "rarity": "Restricted",
+    "paint_index": "687"
   },
   {
     "id": "skin-4131516",
@@ -3021,7 +3451,9 @@
     "price": 3.11,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Tacticat"
+    "item_name": "CZ75-Auto | Tacticat",
+    "rarity": "Restricted",
+    "paint_index": "687"
   },
   {
     "id": "skin-4131516",
@@ -3035,7 +3467,9 @@
     "price": 1.02,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Tacticat"
+    "item_name": "CZ75-Auto | Tacticat",
+    "rarity": "Restricted",
+    "paint_index": "687"
   },
   {
     "id": "skin-4131516",
@@ -3049,7 +3483,9 @@
     "price": 0.28,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Tacticat"
+    "item_name": "CZ75-Auto | Tacticat",
+    "rarity": "Restricted",
+    "paint_index": "687"
   },
   {
     "id": "skin-4131516",
@@ -3063,7 +3499,9 @@
     "price": 1.16,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Tacticat"
+    "item_name": "CZ75-Auto | Tacticat",
+    "rarity": "Restricted",
+    "paint_index": "687"
   },
   {
     "id": "skin-4131516",
@@ -3077,7 +3515,9 @@
     "price": 0.68,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Tacticat"
+    "item_name": "CZ75-Auto | Tacticat",
+    "rarity": "Restricted",
+    "paint_index": "687"
   },
   {
     "id": "skin-4131516",
@@ -3091,7 +3531,9 @@
     "price": 0.31,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Tacticat"
+    "item_name": "CZ75-Auto | Tacticat",
+    "rarity": "Restricted",
+    "paint_index": "687"
   },
   {
     "id": "skin-4131516",
@@ -3105,7 +3547,9 @@
     "price": 0.84,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Tacticat"
+    "item_name": "CZ75-Auto | Tacticat",
+    "rarity": "Restricted",
+    "paint_index": "687"
   },
   {
     "id": "skin-4131516",
@@ -3119,7 +3563,9 @@
     "price": 0.5,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Tacticat"
+    "item_name": "CZ75-Auto | Tacticat",
+    "rarity": "Restricted",
+    "paint_index": "687"
   },
   {
     "id": "skin-4132204",
@@ -3133,7 +3579,9 @@
     "price": 108.88,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Emerald Quartz"
+    "item_name": "CZ75-Auto | Emerald Quartz",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "859"
   },
   {
     "id": "skin-4132204",
@@ -3147,7 +3595,9 @@
     "price": 79.54,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Emerald Quartz"
+    "item_name": "CZ75-Auto | Emerald Quartz",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "859"
   },
   {
     "id": "skin-4132204",
@@ -3161,7 +3611,9 @@
     "price": 0,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Emerald Quartz"
+    "item_name": "CZ75-Auto | Emerald Quartz",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "859"
   },
   {
     "id": "skin-4132204",
@@ -3175,7 +3627,9 @@
     "price": 86.51,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Emerald Quartz"
+    "item_name": "CZ75-Auto | Emerald Quartz",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "859"
   },
   {
     "id": "skin-4132204",
@@ -3189,7 +3643,9 @@
     "price": 78.14,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Emerald Quartz"
+    "item_name": "CZ75-Auto | Emerald Quartz",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "859"
   },
   {
     "id": "skin-4130580",
@@ -3203,7 +3659,9 @@
     "price": 18.99,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Emerald"
+    "item_name": "CZ75-Auto | Emerald",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "453"
   },
   {
     "id": "skin-4130580",
@@ -3217,7 +3675,9 @@
     "price": 22.48,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Emerald"
+    "item_name": "CZ75-Auto | Emerald",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "453"
   },
   {
     "id": "skin-4129840",
@@ -3231,7 +3691,9 @@
     "price": 11.17,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Tread Plate"
+    "item_name": "CZ75-Auto | Tread Plate",
+    "rarity": "Restricted",
+    "paint_index": "268"
   },
   {
     "id": "skin-4129840",
@@ -3245,7 +3707,9 @@
     "price": 9.05,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Tread Plate"
+    "item_name": "CZ75-Auto | Tread Plate",
+    "rarity": "Restricted",
+    "paint_index": "268"
   },
   {
     "id": "skin-4129840",
@@ -3259,7 +3723,9 @@
     "price": 11.93,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Tread Plate"
+    "item_name": "CZ75-Auto | Tread Plate",
+    "rarity": "Restricted",
+    "paint_index": "268"
   },
   {
     "id": "skin-4129840",
@@ -3273,7 +3739,9 @@
     "price": 5.91,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Tread Plate"
+    "item_name": "CZ75-Auto | Tread Plate",
+    "rarity": "Restricted",
+    "paint_index": "268"
   },
   {
     "id": "skin-4129840",
@@ -3287,7 +3755,9 @@
     "price": 5.93,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Tread Plate"
+    "item_name": "CZ75-Auto | Tread Plate",
+    "rarity": "Restricted",
+    "paint_index": "268"
   },
   {
     "id": "skin-4129840",
@@ -3301,6 +3771,8 @@
     "price": 5.81,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "CZ75-Auto | Tread Plate"
+    "item_name": "CZ75-Auto | Tread Plate",
+    "rarity": "Restricted",
+    "paint_index": "268"
   }
 ]

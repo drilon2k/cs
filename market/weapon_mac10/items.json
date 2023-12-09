@@ -11,7 +11,9 @@
     "price": 0.38,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Lapis Gator"
+    "item_name": "MAC-10 | Lapis Gator",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "534"
   },
   {
     "id": "skin-1116248",
@@ -25,7 +27,9 @@
     "price": 0.57,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Lapis Gator"
+    "item_name": "MAC-10 | Lapis Gator",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "534"
   },
   {
     "id": "skin-1116248",
@@ -39,7 +43,9 @@
     "price": 1.59,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAC-10 | Lapis Gator"
+    "item_name": "MAC-10 | Lapis Gator",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "534"
   },
   {
     "id": "skin-1116248",
@@ -53,7 +59,9 @@
     "price": 0.85,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAC-10 | Lapis Gator"
+    "item_name": "MAC-10 | Lapis Gator",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "534"
   },
   {
     "id": "skin-1116248",
@@ -67,7 +75,9 @@
     "price": 0.43,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Lapis Gator"
+    "item_name": "MAC-10 | Lapis Gator",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "534"
   },
   {
     "id": "skin-1116248",
@@ -81,7 +91,9 @@
     "price": 0.44,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAC-10 | Lapis Gator"
+    "item_name": "MAC-10 | Lapis Gator",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "534"
   },
   {
     "id": "skin-1116248",
@@ -95,7 +107,9 @@
     "price": 0.41,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAC-10 | Lapis Gator"
+    "item_name": "MAC-10 | Lapis Gator",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "534"
   },
   {
     "id": "skin-1116248",
@@ -109,7 +123,9 @@
     "price": 0.4,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Lapis Gator"
+    "item_name": "MAC-10 | Lapis Gator",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "534"
   },
   {
     "id": "skin-1116248",
@@ -123,7 +139,9 @@
     "price": 0.36,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Lapis Gator"
+    "item_name": "MAC-10 | Lapis Gator",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "534"
   },
   {
     "id": "skin-1116248",
@@ -137,7 +155,9 @@
     "price": 0.4,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAC-10 | Lapis Gator"
+    "item_name": "MAC-10 | Lapis Gator",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "534"
   },
   {
     "id": "skin-1117360",
@@ -151,7 +171,9 @@
     "price": 0.65,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAC-10 | Pipe Down"
+    "item_name": "MAC-10 | Pipe Down",
+    "rarity": "Restricted",
+    "paint_index": "812"
   },
   {
     "id": "skin-1117360",
@@ -165,7 +187,9 @@
     "price": 0.33,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Pipe Down"
+    "item_name": "MAC-10 | Pipe Down",
+    "rarity": "Restricted",
+    "paint_index": "812"
   },
   {
     "id": "skin-1117360",
@@ -179,7 +203,9 @@
     "price": 1.46,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAC-10 | Pipe Down"
+    "item_name": "MAC-10 | Pipe Down",
+    "rarity": "Restricted",
+    "paint_index": "812"
   },
   {
     "id": "skin-1117360",
@@ -193,7 +219,9 @@
     "price": 1.45,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Pipe Down"
+    "item_name": "MAC-10 | Pipe Down",
+    "rarity": "Restricted",
+    "paint_index": "812"
   },
   {
     "id": "skin-1117360",
@@ -207,7 +235,9 @@
     "price": 0.57,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAC-10 | Pipe Down"
+    "item_name": "MAC-10 | Pipe Down",
+    "rarity": "Restricted",
+    "paint_index": "812"
   },
   {
     "id": "skin-1117360",
@@ -221,7 +251,9 @@
     "price": 5.8,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAC-10 | Pipe Down"
+    "item_name": "MAC-10 | Pipe Down",
+    "rarity": "Restricted",
+    "paint_index": "812"
   },
   {
     "id": "skin-1117360",
@@ -235,7 +267,9 @@
     "price": 0.27,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Pipe Down"
+    "item_name": "MAC-10 | Pipe Down",
+    "rarity": "Restricted",
+    "paint_index": "812"
   },
   {
     "id": "skin-1117360",
@@ -249,7 +283,9 @@
     "price": 0.55,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Pipe Down"
+    "item_name": "MAC-10 | Pipe Down",
+    "rarity": "Restricted",
+    "paint_index": "812"
   },
   {
     "id": "skin-1117360",
@@ -263,7 +299,9 @@
     "price": 0.56,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAC-10 | Pipe Down"
+    "item_name": "MAC-10 | Pipe Down",
+    "rarity": "Restricted",
+    "paint_index": "812"
   },
   {
     "id": "skin-1117360",
@@ -277,7 +315,9 @@
     "price": 0.27,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Pipe Down"
+    "item_name": "MAC-10 | Pipe Down",
+    "rarity": "Restricted",
+    "paint_index": "812"
   },
   {
     "id": "skin-1117416",
@@ -291,7 +331,9 @@
     "price": 0.2,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Sienna Damask"
+    "item_name": "MAC-10 | Sienna Damask",
+    "rarity": "Consumer Grade",
+    "paint_index": "826"
   },
   {
     "id": "skin-1117416",
@@ -305,7 +347,9 @@
     "price": 0.2,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Sienna Damask"
+    "item_name": "MAC-10 | Sienna Damask",
+    "rarity": "Consumer Grade",
+    "paint_index": "826"
   },
   {
     "id": "skin-1117416",
@@ -319,7 +363,9 @@
     "price": 0.21,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Sienna Damask"
+    "item_name": "MAC-10 | Sienna Damask",
+    "rarity": "Consumer Grade",
+    "paint_index": "826"
   },
   {
     "id": "skin-1117416",
@@ -333,7 +379,9 @@
     "price": 0.23,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Sienna Damask"
+    "item_name": "MAC-10 | Sienna Damask",
+    "rarity": "Consumer Grade",
+    "paint_index": "826"
   },
   {
     "id": "skin-1117416",
@@ -347,7 +395,9 @@
     "price": 0.22,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Sienna Damask"
+    "item_name": "MAC-10 | Sienna Damask",
+    "rarity": "Consumer Grade",
+    "paint_index": "826"
   },
   {
     "id": "skin-1118148",
@@ -361,7 +411,9 @@
     "price": 98.8,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Hot Snakes"
+    "item_name": "MAC-10 | Hot Snakes",
+    "rarity": "Classified",
+    "paint_index": "1009"
   },
   {
     "id": "skin-1118148",
@@ -375,7 +427,9 @@
     "price": 110.53,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Hot Snakes"
+    "item_name": "MAC-10 | Hot Snakes",
+    "rarity": "Classified",
+    "paint_index": "1009"
   },
   {
     "id": "skin-1118148",
@@ -389,7 +443,9 @@
     "price": 163.12,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Hot Snakes"
+    "item_name": "MAC-10 | Hot Snakes",
+    "rarity": "Classified",
+    "paint_index": "1009"
   },
   {
     "id": "skin-1118148",
@@ -403,7 +459,9 @@
     "price": 198.84,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Hot Snakes"
+    "item_name": "MAC-10 | Hot Snakes",
+    "rarity": "Classified",
+    "paint_index": "1009"
   },
   {
     "id": "skin-1118148",
@@ -417,7 +475,9 @@
     "price": 122.12,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Hot Snakes"
+    "item_name": "MAC-10 | Hot Snakes",
+    "rarity": "Classified",
+    "paint_index": "1009"
   },
   {
     "id": "skin-1118504",
@@ -431,7 +491,9 @@
     "price": 2.06,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Toybox"
+    "item_name": "MAC-10 | Toybox",
+    "rarity": "Classified",
+    "paint_index": "1098"
   },
   {
     "id": "skin-1118504",
@@ -445,7 +507,9 @@
     "price": 11.63,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Toybox"
+    "item_name": "MAC-10 | Toybox",
+    "rarity": "Classified",
+    "paint_index": "1098"
   },
   {
     "id": "skin-1118504",
@@ -459,7 +523,9 @@
     "price": 4.88,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAC-10 | Toybox"
+    "item_name": "MAC-10 | Toybox",
+    "rarity": "Classified",
+    "paint_index": "1098"
   },
   {
     "id": "skin-1118504",
@@ -473,7 +539,9 @@
     "price": 5.07,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAC-10 | Toybox"
+    "item_name": "MAC-10 | Toybox",
+    "rarity": "Classified",
+    "paint_index": "1098"
   },
   {
     "id": "skin-1118504",
@@ -487,7 +555,9 @@
     "price": 4.51,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Toybox"
+    "item_name": "MAC-10 | Toybox",
+    "rarity": "Classified",
+    "paint_index": "1098"
   },
   {
     "id": "skin-1118504",
@@ -501,7 +571,9 @@
     "price": 2.25,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Toybox"
+    "item_name": "MAC-10 | Toybox",
+    "rarity": "Classified",
+    "paint_index": "1098"
   },
   {
     "id": "skin-1118504",
@@ -515,7 +587,9 @@
     "price": 2.56,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Toybox"
+    "item_name": "MAC-10 | Toybox",
+    "rarity": "Classified",
+    "paint_index": "1098"
   },
   {
     "id": "skin-1118504",
@@ -529,7 +603,9 @@
     "price": 31.88,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAC-10 | Toybox"
+    "item_name": "MAC-10 | Toybox",
+    "rarity": "Classified",
+    "paint_index": "1098"
   },
   {
     "id": "skin-1118504",
@@ -543,7 +619,9 @@
     "price": 6.06,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAC-10 | Toybox"
+    "item_name": "MAC-10 | Toybox",
+    "rarity": "Classified",
+    "paint_index": "1098"
   },
   {
     "id": "skin-1118504",
@@ -557,7 +635,9 @@
     "price": 15.77,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAC-10 | Toybox"
+    "item_name": "MAC-10 | Toybox",
+    "rarity": "Classified",
+    "paint_index": "1098"
   },
   {
     "id": "skin-1116840",
@@ -571,7 +651,9 @@
     "price": 0.14,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAC-10 | Oceanic"
+    "item_name": "MAC-10 | Oceanic",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "682"
   },
   {
     "id": "skin-1116840",
@@ -585,7 +667,9 @@
     "price": 0.06,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Oceanic"
+    "item_name": "MAC-10 | Oceanic",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "682"
   },
   {
     "id": "skin-1116840",
@@ -599,7 +683,9 @@
     "price": 0.27,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAC-10 | Oceanic"
+    "item_name": "MAC-10 | Oceanic",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "682"
   },
   {
     "id": "skin-1116840",
@@ -613,7 +699,9 @@
     "price": 0.09,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAC-10 | Oceanic"
+    "item_name": "MAC-10 | Oceanic",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "682"
   },
   {
     "id": "skin-1116840",
@@ -627,7 +715,9 @@
     "price": 0.12,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAC-10 | Oceanic"
+    "item_name": "MAC-10 | Oceanic",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "682"
   },
   {
     "id": "skin-1116840",
@@ -641,7 +731,9 @@
     "price": 0.07,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Oceanic"
+    "item_name": "MAC-10 | Oceanic",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "682"
   },
   {
     "id": "skin-1116840",
@@ -655,7 +747,9 @@
     "price": 0.15,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Oceanic"
+    "item_name": "MAC-10 | Oceanic",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "682"
   },
   {
     "id": "skin-1116840",
@@ -669,7 +763,9 @@
     "price": 0.57,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAC-10 | Oceanic"
+    "item_name": "MAC-10 | Oceanic",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "682"
   },
   {
     "id": "skin-1116840",
@@ -683,7 +779,9 @@
     "price": 0.1,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Oceanic"
+    "item_name": "MAC-10 | Oceanic",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "682"
   },
   {
     "id": "skin-1116840",
@@ -697,7 +795,9 @@
     "price": 0.05,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Oceanic"
+    "item_name": "MAC-10 | Oceanic",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "682"
   },
   {
     "id": "skin-1117080",
@@ -711,7 +811,9 @@
     "price": 191.98,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Red Filigree"
+    "item_name": "MAC-10 | Red Filigree",
+    "rarity": "Restricted",
+    "paint_index": "742"
   },
   {
     "id": "skin-1117080",
@@ -725,7 +827,9 @@
     "price": 71.29,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Red Filigree"
+    "item_name": "MAC-10 | Red Filigree",
+    "rarity": "Restricted",
+    "paint_index": "742"
   },
   {
     "id": "skin-1117080",
@@ -739,7 +843,9 @@
     "price": 75.42,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Red Filigree"
+    "item_name": "MAC-10 | Red Filigree",
+    "rarity": "Restricted",
+    "paint_index": "742"
   },
   {
     "id": "skin-1117080",
@@ -753,7 +859,9 @@
     "price": 0,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Red Filigree"
+    "item_name": "MAC-10 | Red Filigree",
+    "rarity": "Restricted",
+    "paint_index": "742"
   },
   {
     "id": "skin-1117080",
@@ -767,7 +875,9 @@
     "price": 65.14,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Red Filigree"
+    "item_name": "MAC-10 | Red Filigree",
+    "rarity": "Restricted",
+    "paint_index": "742"
   },
   {
     "id": "skin-1116468",
@@ -781,7 +891,9 @@
     "price": 0.13,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAC-10 | Carnivore"
+    "item_name": "MAC-10 | Carnivore",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "589"
   },
   {
     "id": "skin-1116468",
@@ -795,7 +907,9 @@
     "price": 0.08,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Carnivore"
+    "item_name": "MAC-10 | Carnivore",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "589"
   },
   {
     "id": "skin-1116468",
@@ -809,7 +923,9 @@
     "price": 1.3,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAC-10 | Carnivore"
+    "item_name": "MAC-10 | Carnivore",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "589"
   },
   {
     "id": "skin-1116468",
@@ -823,7 +939,9 @@
     "price": 0.32,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Carnivore"
+    "item_name": "MAC-10 | Carnivore",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "589"
   },
   {
     "id": "skin-1116468",
@@ -837,7 +955,9 @@
     "price": 0.36,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAC-10 | Carnivore"
+    "item_name": "MAC-10 | Carnivore",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "589"
   },
   {
     "id": "skin-1116468",
@@ -851,7 +971,9 @@
     "price": 0.08,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Carnivore"
+    "item_name": "MAC-10 | Carnivore",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "589"
   },
   {
     "id": "skin-1116468",
@@ -865,7 +987,9 @@
     "price": 0.09,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Carnivore"
+    "item_name": "MAC-10 | Carnivore",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "589"
   },
   {
     "id": "skin-1116468",
@@ -879,7 +1003,9 @@
     "price": 0.14,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAC-10 | Carnivore"
+    "item_name": "MAC-10 | Carnivore",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "589"
   },
   {
     "id": "skin-1116468",
@@ -893,7 +1019,9 @@
     "price": 0.06,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Carnivore"
+    "item_name": "MAC-10 | Carnivore",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "589"
   },
   {
     "id": "skin-1116468",
@@ -907,7 +1035,9 @@
     "price": 0.15,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAC-10 | Carnivore"
+    "item_name": "MAC-10 | Carnivore",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "589"
   },
   {
     "id": "skin-1118292",
@@ -921,7 +1051,9 @@
     "price": 0.28,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAC-10 | Button Masher"
+    "item_name": "MAC-10 | Button Masher",
+    "rarity": "Restricted",
+    "paint_index": "1045"
   },
   {
     "id": "skin-1118292",
@@ -935,7 +1067,9 @@
     "price": 0.36,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Button Masher"
+    "item_name": "MAC-10 | Button Masher",
+    "rarity": "Restricted",
+    "paint_index": "1045"
   },
   {
     "id": "skin-1118292",
@@ -949,7 +1083,9 @@
     "price": 0.29,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAC-10 | Button Masher"
+    "item_name": "MAC-10 | Button Masher",
+    "rarity": "Restricted",
+    "paint_index": "1045"
   },
   {
     "id": "skin-1118292",
@@ -963,7 +1099,9 @@
     "price": 0.84,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Button Masher"
+    "item_name": "MAC-10 | Button Masher",
+    "rarity": "Restricted",
+    "paint_index": "1045"
   },
   {
     "id": "skin-1118292",
@@ -977,7 +1115,9 @@
     "price": 0.87,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAC-10 | Button Masher"
+    "item_name": "MAC-10 | Button Masher",
+    "rarity": "Restricted",
+    "paint_index": "1045"
   },
   {
     "id": "skin-1118292",
@@ -991,7 +1131,9 @@
     "price": 0.21,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Button Masher"
+    "item_name": "MAC-10 | Button Masher",
+    "rarity": "Restricted",
+    "paint_index": "1045"
   },
   {
     "id": "skin-1118292",
@@ -1005,7 +1147,9 @@
     "price": 2.51,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAC-10 | Button Masher"
+    "item_name": "MAC-10 | Button Masher",
+    "rarity": "Restricted",
+    "paint_index": "1045"
   },
   {
     "id": "skin-1118292",
@@ -1019,7 +1163,9 @@
     "price": 0.16,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Button Masher"
+    "item_name": "MAC-10 | Button Masher",
+    "rarity": "Restricted",
+    "paint_index": "1045"
   },
   {
     "id": "skin-1118292",
@@ -1033,7 +1179,9 @@
     "price": 0.17,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Button Masher"
+    "item_name": "MAC-10 | Button Masher",
+    "rarity": "Restricted",
+    "paint_index": "1045"
   },
   {
     "id": "skin-1118292",
@@ -1047,7 +1195,9 @@
     "price": 0.41,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAC-10 | Button Masher"
+    "item_name": "MAC-10 | Button Masher",
+    "rarity": "Restricted",
+    "paint_index": "1045"
   },
   {
     "id": "skin-1118412",
@@ -1061,7 +1211,9 @@
     "price": 0.35,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Strats"
+    "item_name": "MAC-10 | Strats",
+    "rarity": "Consumer Grade",
+    "paint_index": "1075"
   },
   {
     "id": "skin-1118412",
@@ -1075,7 +1227,9 @@
     "price": 0.69,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Strats"
+    "item_name": "MAC-10 | Strats",
+    "rarity": "Consumer Grade",
+    "paint_index": "1075"
   },
   {
     "id": "skin-1118412",
@@ -1089,7 +1243,9 @@
     "price": 0.41,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Strats"
+    "item_name": "MAC-10 | Strats",
+    "rarity": "Consumer Grade",
+    "paint_index": "1075"
   },
   {
     "id": "skin-1118412",
@@ -1103,7 +1259,9 @@
     "price": 0.32,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Strats"
+    "item_name": "MAC-10 | Strats",
+    "rarity": "Consumer Grade",
+    "paint_index": "1075"
   },
   {
     "id": "skin-1118412",
@@ -1117,7 +1275,9 @@
     "price": 0.31,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Strats"
+    "item_name": "MAC-10 | Strats",
+    "rarity": "Consumer Grade",
+    "paint_index": "1075"
   },
   {
     "id": "skin-1116772",
@@ -1131,7 +1291,9 @@
     "price": 3.84,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAC-10 | Aloha"
+    "item_name": "MAC-10 | Aloha",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "665"
   },
   {
     "id": "skin-1116772",
@@ -1145,7 +1307,9 @@
     "price": 2.55,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAC-10 | Aloha"
+    "item_name": "MAC-10 | Aloha",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "665"
   },
   {
     "id": "skin-1116772",
@@ -1159,7 +1323,9 @@
     "price": 2.7,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Aloha"
+    "item_name": "MAC-10 | Aloha",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "665"
   },
   {
     "id": "skin-1116772",
@@ -1173,7 +1339,9 @@
     "price": 7.5,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAC-10 | Aloha"
+    "item_name": "MAC-10 | Aloha",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "665"
   },
   {
     "id": "skin-1116772",
@@ -1187,7 +1355,9 @@
     "price": 2.69,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAC-10 | Aloha"
+    "item_name": "MAC-10 | Aloha",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "665"
   },
   {
     "id": "skin-1116772",
@@ -1201,7 +1371,9 @@
     "price": 2.7,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Aloha"
+    "item_name": "MAC-10 | Aloha",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "665"
   },
   {
     "id": "skin-1116772",
@@ -1215,7 +1387,9 @@
     "price": 1.86,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Aloha"
+    "item_name": "MAC-10 | Aloha",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "665"
   },
   {
     "id": "skin-1116772",
@@ -1229,7 +1403,9 @@
     "price": 1.67,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Aloha"
+    "item_name": "MAC-10 | Aloha",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "665"
   },
   {
     "id": "skin-1116772",
@@ -1243,7 +1419,9 @@
     "price": 2.59,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Aloha"
+    "item_name": "MAC-10 | Aloha",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "665"
   },
   {
     "id": "skin-1116772",
@@ -1257,7 +1435,9 @@
     "price": 5.43,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAC-10 | Aloha"
+    "item_name": "MAC-10 | Aloha",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "665"
   },
   {
     "id": "skin-1117972",
@@ -1271,7 +1451,9 @@
     "price": 1.09,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Allure"
+    "item_name": "MAC-10 | Allure",
+    "rarity": "Restricted",
+    "paint_index": "965"
   },
   {
     "id": "skin-1117972",
@@ -1285,7 +1467,9 @@
     "price": 0.3,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Allure"
+    "item_name": "MAC-10 | Allure",
+    "rarity": "Restricted",
+    "paint_index": "965"
   },
   {
     "id": "skin-1117972",
@@ -1299,7 +1483,9 @@
     "price": 0.48,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Allure"
+    "item_name": "MAC-10 | Allure",
+    "rarity": "Restricted",
+    "paint_index": "965"
   },
   {
     "id": "skin-1117972",
@@ -1313,7 +1499,9 @@
     "price": 0.46,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAC-10 | Allure"
+    "item_name": "MAC-10 | Allure",
+    "rarity": "Restricted",
+    "paint_index": "965"
   },
   {
     "id": "skin-1117972",
@@ -1327,7 +1515,9 @@
     "price": 1.16,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAC-10 | Allure"
+    "item_name": "MAC-10 | Allure",
+    "rarity": "Restricted",
+    "paint_index": "965"
   },
   {
     "id": "skin-1117972",
@@ -1341,7 +1531,9 @@
     "price": 3.08,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAC-10 | Allure"
+    "item_name": "MAC-10 | Allure",
+    "rarity": "Restricted",
+    "paint_index": "965"
   },
   {
     "id": "skin-1117972",
@@ -1355,7 +1547,9 @@
     "price": 0.22,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Allure"
+    "item_name": "MAC-10 | Allure",
+    "rarity": "Restricted",
+    "paint_index": "965"
   },
   {
     "id": "skin-1117972",
@@ -1369,7 +1563,9 @@
     "price": 0.6,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAC-10 | Allure"
+    "item_name": "MAC-10 | Allure",
+    "rarity": "Restricted",
+    "paint_index": "965"
   },
   {
     "id": "skin-1117972",
@@ -1383,7 +1579,9 @@
     "price": 0.41,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAC-10 | Allure"
+    "item_name": "MAC-10 | Allure",
+    "rarity": "Restricted",
+    "paint_index": "965"
   },
   {
     "id": "skin-1117972",
@@ -1397,7 +1595,9 @@
     "price": 0.24,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Allure"
+    "item_name": "MAC-10 | Allure",
+    "rarity": "Restricted",
+    "paint_index": "965"
   },
   {
     "id": "skin-1117596",
@@ -1411,7 +1611,9 @@
     "price": 1.92,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Surfwood"
+    "item_name": "MAC-10 | Surfwood",
+    "rarity": "Consumer Grade",
+    "paint_index": "871"
   },
   {
     "id": "skin-1117596",
@@ -1425,7 +1627,9 @@
     "price": 1.82,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Surfwood"
+    "item_name": "MAC-10 | Surfwood",
+    "rarity": "Consumer Grade",
+    "paint_index": "871"
   },
   {
     "id": "skin-1117596",
@@ -1439,7 +1643,9 @@
     "price": 1.99,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Surfwood"
+    "item_name": "MAC-10 | Surfwood",
+    "rarity": "Consumer Grade",
+    "paint_index": "871"
   },
   {
     "id": "skin-1117596",
@@ -1453,7 +1659,9 @@
     "price": 1.9,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Surfwood"
+    "item_name": "MAC-10 | Surfwood",
+    "rarity": "Consumer Grade",
+    "paint_index": "871"
   },
   {
     "id": "skin-1117596",
@@ -1467,7 +1675,9 @@
     "price": 2.02,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Surfwood"
+    "item_name": "MAC-10 | Surfwood",
+    "rarity": "Consumer Grade",
+    "paint_index": "871"
   },
   {
     "id": "skin-1119028",
@@ -1481,7 +1691,9 @@
     "price": 0.84,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Sakkaku"
+    "item_name": "MAC-10 | Sakkaku",
+    "rarity": "Restricted",
+    "paint_index": "1229"
   },
   {
     "id": "skin-1119028",
@@ -1495,7 +1707,9 @@
     "price": 2.3,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAC-10 | Sakkaku"
+    "item_name": "MAC-10 | Sakkaku",
+    "rarity": "Restricted",
+    "paint_index": "1229"
   },
   {
     "id": "skin-1119028",
@@ -1509,7 +1723,9 @@
     "price": 0.62,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAC-10 | Sakkaku"
+    "item_name": "MAC-10 | Sakkaku",
+    "rarity": "Restricted",
+    "paint_index": "1229"
   },
   {
     "id": "skin-1119028",
@@ -1523,7 +1739,9 @@
     "price": 0.24,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Sakkaku"
+    "item_name": "MAC-10 | Sakkaku",
+    "rarity": "Restricted",
+    "paint_index": "1229"
   },
   {
     "id": "skin-1119028",
@@ -1537,7 +1755,9 @@
     "price": 1.16,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAC-10 | Sakkaku"
+    "item_name": "MAC-10 | Sakkaku",
+    "rarity": "Restricted",
+    "paint_index": "1229"
   },
   {
     "id": "skin-1119028",
@@ -1551,7 +1771,9 @@
     "price": 0.37,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Sakkaku"
+    "item_name": "MAC-10 | Sakkaku",
+    "rarity": "Restricted",
+    "paint_index": "1229"
   },
   {
     "id": "skin-1115444",
@@ -1565,7 +1787,9 @@
     "price": 12.86,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Indigo"
+    "item_name": "MAC-10 | Indigo",
+    "rarity": "Consumer Grade",
+    "paint_index": "333"
   },
   {
     "id": "skin-1115444",
@@ -1579,7 +1803,9 @@
     "price": 1.31,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Indigo"
+    "item_name": "MAC-10 | Indigo",
+    "rarity": "Consumer Grade",
+    "paint_index": "333"
   },
   {
     "id": "skin-1115444",
@@ -1593,7 +1819,9 @@
     "price": 1.39,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Indigo"
+    "item_name": "MAC-10 | Indigo",
+    "rarity": "Consumer Grade",
+    "paint_index": "333"
   },
   {
     "id": "skin-1115444",
@@ -1607,7 +1835,9 @@
     "price": 1.88,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Indigo"
+    "item_name": "MAC-10 | Indigo",
+    "rarity": "Consumer Grade",
+    "paint_index": "333"
   },
   {
     "id": "skin-1115444",
@@ -1621,7 +1851,9 @@
     "price": 1.41,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Indigo"
+    "item_name": "MAC-10 | Indigo",
+    "rarity": "Consumer Grade",
+    "paint_index": "333"
   },
   {
     "id": "skin-1115460",
@@ -1635,7 +1867,9 @@
     "price": 7.69,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Tatter"
+    "item_name": "MAC-10 | Tatter",
+    "rarity": "Restricted",
+    "paint_index": "337"
   },
   {
     "id": "skin-1115460",
@@ -1649,7 +1883,9 @@
     "price": 8.78,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAC-10 | Tatter"
+    "item_name": "MAC-10 | Tatter",
+    "rarity": "Restricted",
+    "paint_index": "337"
   },
   {
     "id": "skin-1115460",
@@ -1663,7 +1899,9 @@
     "price": 5.18,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Tatter"
+    "item_name": "MAC-10 | Tatter",
+    "rarity": "Restricted",
+    "paint_index": "337"
   },
   {
     "id": "skin-1115460",
@@ -1677,7 +1915,9 @@
     "price": 5.97,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Tatter"
+    "item_name": "MAC-10 | Tatter",
+    "rarity": "Restricted",
+    "paint_index": "337"
   },
   {
     "id": "skin-1115460",
@@ -1691,7 +1931,9 @@
     "price": 13.42,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAC-10 | Tatter"
+    "item_name": "MAC-10 | Tatter",
+    "rarity": "Restricted",
+    "paint_index": "337"
   },
   {
     "id": "skin-1115460",
@@ -1705,7 +1947,9 @@
     "price": 11.36,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAC-10 | Tatter"
+    "item_name": "MAC-10 | Tatter",
+    "rarity": "Restricted",
+    "paint_index": "337"
   },
   {
     "id": "skin-1115460",
@@ -1719,7 +1963,9 @@
     "price": 9.05,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAC-10 | Tatter"
+    "item_name": "MAC-10 | Tatter",
+    "rarity": "Restricted",
+    "paint_index": "337"
   },
   {
     "id": "skin-1115460",
@@ -1733,7 +1979,9 @@
     "price": 10.9,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAC-10 | Tatter"
+    "item_name": "MAC-10 | Tatter",
+    "rarity": "Restricted",
+    "paint_index": "337"
   },
   {
     "id": "skin-1115460",
@@ -1747,7 +1995,9 @@
     "price": 6.08,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Tatter"
+    "item_name": "MAC-10 | Tatter",
+    "rarity": "Restricted",
+    "paint_index": "337"
   },
   {
     "id": "skin-1115460",
@@ -1761,7 +2011,9 @@
     "price": 10.4,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Tatter"
+    "item_name": "MAC-10 | Tatter",
+    "rarity": "Restricted",
+    "paint_index": "337"
   },
   {
     "id": "skin-1118712",
@@ -1775,7 +2027,9 @@
     "price": 0.1,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAC-10 | Monkeyflage"
+    "item_name": "MAC-10 | Monkeyflage",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1150"
   },
   {
     "id": "skin-1118712",
@@ -1789,7 +2043,9 @@
     "price": 0.24,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Monkeyflage"
+    "item_name": "MAC-10 | Monkeyflage",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1150"
   },
   {
     "id": "skin-1118712",
@@ -1803,7 +2059,9 @@
     "price": 0.77,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAC-10 | Monkeyflage"
+    "item_name": "MAC-10 | Monkeyflage",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1150"
   },
   {
     "id": "skin-1118712",
@@ -1817,7 +2075,9 @@
     "price": 0.04,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Monkeyflage"
+    "item_name": "MAC-10 | Monkeyflage",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1150"
   },
   {
     "id": "skin-1118712",
@@ -1831,7 +2091,9 @@
     "price": 0.26,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAC-10 | Monkeyflage"
+    "item_name": "MAC-10 | Monkeyflage",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1150"
   },
   {
     "id": "skin-1118712",
@@ -1845,7 +2107,9 @@
     "price": 0.05,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Monkeyflage"
+    "item_name": "MAC-10 | Monkeyflage",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1150"
   },
   {
     "id": "skin-1118712",
@@ -1859,7 +2123,9 @@
     "price": 0.04,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Monkeyflage"
+    "item_name": "MAC-10 | Monkeyflage",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1150"
   },
   {
     "id": "skin-1118712",
@@ -1873,7 +2139,9 @@
     "price": 0.08,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAC-10 | Monkeyflage"
+    "item_name": "MAC-10 | Monkeyflage",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1150"
   },
   {
     "id": "skin-1118712",
@@ -1887,7 +2155,9 @@
     "price": 0.12,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAC-10 | Monkeyflage"
+    "item_name": "MAC-10 | Monkeyflage",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1150"
   },
   {
     "id": "skin-1118712",
@@ -1901,7 +2171,9 @@
     "price": 0.11,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Monkeyflage"
+    "item_name": "MAC-10 | Monkeyflage",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1150"
   },
   {
     "id": "skin-1114864",
@@ -1915,7 +2187,9 @@
     "price": 36.53,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAC-10 | Graven"
+    "item_name": "MAC-10 | Graven",
+    "rarity": "Restricted",
+    "paint_index": "188"
   },
   {
     "id": "skin-1114864",
@@ -1929,7 +2203,9 @@
     "price": 18.39,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Graven"
+    "item_name": "MAC-10 | Graven",
+    "rarity": "Restricted",
+    "paint_index": "188"
   },
   {
     "id": "skin-1114864",
@@ -1943,7 +2219,9 @@
     "price": 51.38,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAC-10 | Graven"
+    "item_name": "MAC-10 | Graven",
+    "rarity": "Restricted",
+    "paint_index": "188"
   },
   {
     "id": "skin-1114864",
@@ -1957,7 +2235,9 @@
     "price": 19.35,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Graven"
+    "item_name": "MAC-10 | Graven",
+    "rarity": "Restricted",
+    "paint_index": "188"
   },
   {
     "id": "skin-1114864",
@@ -1971,7 +2251,9 @@
     "price": 133.02,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAC-10 | Graven"
+    "item_name": "MAC-10 | Graven",
+    "rarity": "Restricted",
+    "paint_index": "188"
   },
   {
     "id": "skin-1114864",
@@ -1985,7 +2267,9 @@
     "price": 34.06,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAC-10 | Graven"
+    "item_name": "MAC-10 | Graven",
+    "rarity": "Restricted",
+    "paint_index": "188"
   },
   {
     "id": "skin-1114864",
@@ -1999,7 +2283,9 @@
     "price": 18.61,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Graven"
+    "item_name": "MAC-10 | Graven",
+    "rarity": "Restricted",
+    "paint_index": "188"
   },
   {
     "id": "skin-1114864",
@@ -2013,7 +2299,9 @@
     "price": 17.4,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Graven"
+    "item_name": "MAC-10 | Graven",
+    "rarity": "Restricted",
+    "paint_index": "188"
   },
   {
     "id": "skin-1114864",
@@ -2027,7 +2315,9 @@
     "price": 40.59,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Graven"
+    "item_name": "MAC-10 | Graven",
+    "rarity": "Restricted",
+    "paint_index": "188"
   },
   {
     "id": "skin-1114864",
@@ -2041,7 +2331,9 @@
     "price": 33.5,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAC-10 | Graven"
+    "item_name": "MAC-10 | Graven",
+    "rarity": "Restricted",
+    "paint_index": "188"
   },
   {
     "id": "skin-1117104",
@@ -2055,7 +2347,9 @@
     "price": 0.06,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Calf Skin"
+    "item_name": "MAC-10 | Calf Skin",
+    "rarity": "Industrial Grade",
+    "paint_index": "748"
   },
   {
     "id": "skin-1117104",
@@ -2069,7 +2363,9 @@
     "price": 0.07,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Calf Skin"
+    "item_name": "MAC-10 | Calf Skin",
+    "rarity": "Industrial Grade",
+    "paint_index": "748"
   },
   {
     "id": "skin-1117104",
@@ -2083,7 +2379,9 @@
     "price": 0.09,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Calf Skin"
+    "item_name": "MAC-10 | Calf Skin",
+    "rarity": "Industrial Grade",
+    "paint_index": "748"
   },
   {
     "id": "skin-1117104",
@@ -2097,7 +2395,9 @@
     "price": 0.27,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Calf Skin"
+    "item_name": "MAC-10 | Calf Skin",
+    "rarity": "Industrial Grade",
+    "paint_index": "748"
   },
   {
     "id": "skin-1117104",
@@ -2111,7 +2411,9 @@
     "price": 0.05,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Calf Skin"
+    "item_name": "MAC-10 | Calf Skin",
+    "rarity": "Industrial Grade",
+    "paint_index": "748"
   },
   {
     "id": "skin-1116716",
@@ -2125,7 +2427,9 @@
     "price": 5.42,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAC-10 | Last Dive"
+    "item_name": "MAC-10 | Last Dive",
+    "rarity": "Restricted",
+    "paint_index": "651"
   },
   {
     "id": "skin-1116716",
@@ -2139,7 +2443,9 @@
     "price": 2.03,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Last Dive"
+    "item_name": "MAC-10 | Last Dive",
+    "rarity": "Restricted",
+    "paint_index": "651"
   },
   {
     "id": "skin-1116716",
@@ -2153,7 +2459,9 @@
     "price": 0.99,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Last Dive"
+    "item_name": "MAC-10 | Last Dive",
+    "rarity": "Restricted",
+    "paint_index": "651"
   },
   {
     "id": "skin-1116716",
@@ -2167,7 +2475,9 @@
     "price": 2.11,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAC-10 | Last Dive"
+    "item_name": "MAC-10 | Last Dive",
+    "rarity": "Restricted",
+    "paint_index": "651"
   },
   {
     "id": "skin-1116716",
@@ -2181,7 +2491,9 @@
     "price": 1.86,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAC-10 | Last Dive"
+    "item_name": "MAC-10 | Last Dive",
+    "rarity": "Restricted",
+    "paint_index": "651"
   },
   {
     "id": "skin-1116716",
@@ -2195,7 +2507,9 @@
     "price": 1.25,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Last Dive"
+    "item_name": "MAC-10 | Last Dive",
+    "rarity": "Restricted",
+    "paint_index": "651"
   },
   {
     "id": "skin-1116716",
@@ -2209,7 +2523,9 @@
     "price": 1.96,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAC-10 | Last Dive"
+    "item_name": "MAC-10 | Last Dive",
+    "rarity": "Restricted",
+    "paint_index": "651"
   },
   {
     "id": "skin-1116716",
@@ -2223,7 +2539,9 @@
     "price": 1.07,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Last Dive"
+    "item_name": "MAC-10 | Last Dive",
+    "rarity": "Restricted",
+    "paint_index": "651"
   },
   {
     "id": "skin-1116716",
@@ -2237,7 +2555,9 @@
     "price": 1.07,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Last Dive"
+    "item_name": "MAC-10 | Last Dive",
+    "rarity": "Restricted",
+    "paint_index": "651"
   },
   {
     "id": "skin-1116716",
@@ -2251,7 +2571,9 @@
     "price": 2.88,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAC-10 | Last Dive"
+    "item_name": "MAC-10 | Last Dive",
+    "rarity": "Restricted",
+    "paint_index": "651"
   },
   {
     "id": "skin-1114180",
@@ -2265,7 +2587,9 @@
     "price": 2.01,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Urban DDPAT"
+    "item_name": "MAC-10 | Urban DDPAT",
+    "rarity": "Consumer Grade",
+    "paint_index": "17"
   },
   {
     "id": "skin-1114180",
@@ -2279,7 +2603,9 @@
     "price": 1.66,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Urban DDPAT"
+    "item_name": "MAC-10 | Urban DDPAT",
+    "rarity": "Consumer Grade",
+    "paint_index": "17"
   },
   {
     "id": "skin-1114180",
@@ -2293,7 +2619,9 @@
     "price": 15.98,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Urban DDPAT"
+    "item_name": "MAC-10 | Urban DDPAT",
+    "rarity": "Consumer Grade",
+    "paint_index": "17"
   },
   {
     "id": "skin-1114180",
@@ -2307,7 +2635,9 @@
     "price": 1.33,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Urban DDPAT"
+    "item_name": "MAC-10 | Urban DDPAT",
+    "rarity": "Consumer Grade",
+    "paint_index": "17"
   },
   {
     "id": "skin-1114180",
@@ -2321,7 +2651,9 @@
     "price": 2.53,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Urban DDPAT"
+    "item_name": "MAC-10 | Urban DDPAT",
+    "rarity": "Consumer Grade",
+    "paint_index": "17"
   },
   {
     "id": "skin-1117744",
@@ -2335,7 +2667,9 @@
     "price": 0.11,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAC-10 | Classic Crate"
+    "item_name": "MAC-10 | Classic Crate",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "908"
   },
   {
     "id": "skin-1117744",
@@ -2349,7 +2683,9 @@
     "price": 1.06,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAC-10 | Classic Crate"
+    "item_name": "MAC-10 | Classic Crate",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "908"
   },
   {
     "id": "skin-1117744",
@@ -2363,7 +2699,9 @@
     "price": 0.1,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAC-10 | Classic Crate"
+    "item_name": "MAC-10 | Classic Crate",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "908"
   },
   {
     "id": "skin-1117744",
@@ -2377,7 +2715,9 @@
     "price": 0.12,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Classic Crate"
+    "item_name": "MAC-10 | Classic Crate",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "908"
   },
   {
     "id": "skin-1117744",
@@ -2391,7 +2731,9 @@
     "price": 0.24,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Classic Crate"
+    "item_name": "MAC-10 | Classic Crate",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "908"
   },
   {
     "id": "skin-1117744",
@@ -2405,7 +2747,9 @@
     "price": 0.1,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Classic Crate"
+    "item_name": "MAC-10 | Classic Crate",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "908"
   },
   {
     "id": "skin-1117744",
@@ -2419,7 +2763,9 @@
     "price": 0.09,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Classic Crate"
+    "item_name": "MAC-10 | Classic Crate",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "908"
   },
   {
     "id": "skin-1117744",
@@ -2433,7 +2779,9 @@
     "price": 0.25,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAC-10 | Classic Crate"
+    "item_name": "MAC-10 | Classic Crate",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "908"
   },
   {
     "id": "skin-1117744",
@@ -2447,7 +2795,9 @@
     "price": 0.12,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAC-10 | Classic Crate"
+    "item_name": "MAC-10 | Classic Crate",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "908"
   },
   {
     "id": "skin-1117744",
@@ -2461,7 +2811,9 @@
     "price": 0.1,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Classic Crate"
+    "item_name": "MAC-10 | Classic Crate",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "908"
   },
   {
     "id": "skin-1117900",
@@ -2475,7 +2827,9 @@
     "price": 1.23,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Disco Tech"
+    "item_name": "MAC-10 | Disco Tech",
+    "rarity": "Classified",
+    "paint_index": "947"
   },
   {
     "id": "skin-1117900",
@@ -2489,7 +2843,9 @@
     "price": 10.68,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Disco Tech"
+    "item_name": "MAC-10 | Disco Tech",
+    "rarity": "Classified",
+    "paint_index": "947"
   },
   {
     "id": "skin-1117900",
@@ -2503,7 +2859,9 @@
     "price": 3.41,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Disco Tech"
+    "item_name": "MAC-10 | Disco Tech",
+    "rarity": "Classified",
+    "paint_index": "947"
   },
   {
     "id": "skin-1117900",
@@ -2517,7 +2875,9 @@
     "price": 1.25,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Disco Tech"
+    "item_name": "MAC-10 | Disco Tech",
+    "rarity": "Classified",
+    "paint_index": "947"
   },
   {
     "id": "skin-1117900",
@@ -2531,7 +2891,9 @@
     "price": 2.64,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAC-10 | Disco Tech"
+    "item_name": "MAC-10 | Disco Tech",
+    "rarity": "Classified",
+    "paint_index": "947"
   },
   {
     "id": "skin-1117900",
@@ -2545,7 +2907,9 @@
     "price": 9.17,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAC-10 | Disco Tech"
+    "item_name": "MAC-10 | Disco Tech",
+    "rarity": "Classified",
+    "paint_index": "947"
   },
   {
     "id": "skin-1117900",
@@ -2559,7 +2923,9 @@
     "price": 4.1,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAC-10 | Disco Tech"
+    "item_name": "MAC-10 | Disco Tech",
+    "rarity": "Classified",
+    "paint_index": "947"
   },
   {
     "id": "skin-1117900",
@@ -2573,7 +2939,9 @@
     "price": 3.17,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAC-10 | Disco Tech"
+    "item_name": "MAC-10 | Disco Tech",
+    "rarity": "Classified",
+    "paint_index": "947"
   },
   {
     "id": "skin-1117900",
@@ -2587,7 +2955,9 @@
     "price": 1.81,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Disco Tech"
+    "item_name": "MAC-10 | Disco Tech",
+    "rarity": "Classified",
+    "paint_index": "947"
   },
   {
     "id": "skin-1117900",
@@ -2601,7 +2971,9 @@
     "price": 30.03,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAC-10 | Disco Tech"
+    "item_name": "MAC-10 | Disco Tech",
+    "rarity": "Classified",
+    "paint_index": "947"
   },
   {
     "id": "skin-1115352",
@@ -2615,7 +2987,9 @@
     "price": 43.88,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAC-10 | Curse"
+    "item_name": "MAC-10 | Curse",
+    "rarity": "Restricted",
+    "paint_index": "310"
   },
   {
     "id": "skin-1115352",
@@ -2629,7 +3003,9 @@
     "price": 7.75,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Curse"
+    "item_name": "MAC-10 | Curse",
+    "rarity": "Restricted",
+    "paint_index": "310"
   },
   {
     "id": "skin-1115352",
@@ -2643,7 +3019,9 @@
     "price": 14.2,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAC-10 | Curse"
+    "item_name": "MAC-10 | Curse",
+    "rarity": "Restricted",
+    "paint_index": "310"
   },
   {
     "id": "skin-1115352",
@@ -2657,7 +3035,9 @@
     "price": 5.54,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Curse"
+    "item_name": "MAC-10 | Curse",
+    "rarity": "Restricted",
+    "paint_index": "310"
   },
   {
     "id": "skin-1115352",
@@ -2671,7 +3051,9 @@
     "price": 15.77,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAC-10 | Curse"
+    "item_name": "MAC-10 | Curse",
+    "rarity": "Restricted",
+    "paint_index": "310"
   },
   {
     "id": "skin-1115352",
@@ -2685,7 +3067,9 @@
     "price": 10.97,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAC-10 | Curse"
+    "item_name": "MAC-10 | Curse",
+    "rarity": "Restricted",
+    "paint_index": "310"
   },
   {
     "id": "skin-1115352",
@@ -2699,7 +3083,9 @@
     "price": 12.01,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAC-10 | Curse"
+    "item_name": "MAC-10 | Curse",
+    "rarity": "Restricted",
+    "paint_index": "310"
   },
   {
     "id": "skin-1115352",
@@ -2713,7 +3099,9 @@
     "price": 6.3,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Curse"
+    "item_name": "MAC-10 | Curse",
+    "rarity": "Restricted",
+    "paint_index": "310"
   },
   {
     "id": "skin-1115352",
@@ -2727,7 +3115,9 @@
     "price": 6.54,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Curse"
+    "item_name": "MAC-10 | Curse",
+    "rarity": "Restricted",
+    "paint_index": "310"
   },
   {
     "id": "skin-1115352",
@@ -2741,7 +3131,9 @@
     "price": 9.14,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Curse"
+    "item_name": "MAC-10 | Curse",
+    "rarity": "Restricted",
+    "paint_index": "310"
   },
   {
     "id": "skin-1114124",
@@ -2755,7 +3147,9 @@
     "price": 0.17,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Candy Apple"
+    "item_name": "MAC-10 | Candy Apple",
+    "rarity": "Industrial Grade",
+    "paint_index": "3"
   },
   {
     "id": "skin-1114124",
@@ -2769,7 +3163,9 @@
     "price": 0.2,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Candy Apple"
+    "item_name": "MAC-10 | Candy Apple",
+    "rarity": "Industrial Grade",
+    "paint_index": "3"
   },
   {
     "id": "skin-1114124",
@@ -2783,7 +3179,9 @@
     "price": 0.13,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Candy Apple"
+    "item_name": "MAC-10 | Candy Apple",
+    "rarity": "Industrial Grade",
+    "paint_index": "3"
   },
   {
     "id": "skin-1117704",
@@ -2797,7 +3195,9 @@
     "price": 16.25,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Stalker"
+    "item_name": "MAC-10 | Stalker",
+    "rarity": "Covert",
+    "paint_index": "898"
   },
   {
     "id": "skin-1117704",
@@ -2811,7 +3211,9 @@
     "price": 23.93,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAC-10 | Stalker"
+    "item_name": "MAC-10 | Stalker",
+    "rarity": "Covert",
+    "paint_index": "898"
   },
   {
     "id": "skin-1117704",
@@ -2825,7 +3227,9 @@
     "price": 28.71,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAC-10 | Stalker"
+    "item_name": "MAC-10 | Stalker",
+    "rarity": "Covert",
+    "paint_index": "898"
   },
   {
     "id": "skin-1117704",
@@ -2839,7 +3243,9 @@
     "price": 7.29,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Stalker"
+    "item_name": "MAC-10 | Stalker",
+    "rarity": "Covert",
+    "paint_index": "898"
   },
   {
     "id": "skin-1117704",
@@ -2853,7 +3259,9 @@
     "price": 46.49,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Stalker"
+    "item_name": "MAC-10 | Stalker",
+    "rarity": "Covert",
+    "paint_index": "898"
   },
   {
     "id": "skin-1117704",
@@ -2867,7 +3275,9 @@
     "price": 8.76,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Stalker"
+    "item_name": "MAC-10 | Stalker",
+    "rarity": "Covert",
+    "paint_index": "898"
   },
   {
     "id": "skin-1117704",
@@ -2881,7 +3291,9 @@
     "price": 226.27,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAC-10 | Stalker"
+    "item_name": "MAC-10 | Stalker",
+    "rarity": "Covert",
+    "paint_index": "898"
   },
   {
     "id": "skin-1117704",
@@ -2895,7 +3307,9 @@
     "price": 24.68,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAC-10 | Stalker"
+    "item_name": "MAC-10 | Stalker",
+    "rarity": "Covert",
+    "paint_index": "898"
   },
   {
     "id": "skin-1117704",
@@ -2909,7 +3323,9 @@
     "price": 7.73,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Stalker"
+    "item_name": "MAC-10 | Stalker",
+    "rarity": "Covert",
+    "paint_index": "898"
   },
   {
     "id": "skin-1117704",
@@ -2923,7 +3339,9 @@
     "price": 60.2,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAC-10 | Stalker"
+    "item_name": "MAC-10 | Stalker",
+    "rarity": "Covert",
+    "paint_index": "898"
   },
   {
     "id": "skin-1118636",
@@ -2937,7 +3355,9 @@
     "price": 0.05,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Ensnared"
+    "item_name": "MAC-10 | Ensnared",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1131"
   },
   {
     "id": "skin-1118636",
@@ -2951,7 +3371,9 @@
     "price": 0.08,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Ensnared"
+    "item_name": "MAC-10 | Ensnared",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1131"
   },
   {
     "id": "skin-1118636",
@@ -2965,7 +3387,9 @@
     "price": 0.17,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAC-10 | Ensnared"
+    "item_name": "MAC-10 | Ensnared",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1131"
   },
   {
     "id": "skin-1118636",
@@ -2979,7 +3403,9 @@
     "price": 1.22,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAC-10 | Ensnared"
+    "item_name": "MAC-10 | Ensnared",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1131"
   },
   {
     "id": "skin-1118636",
@@ -2993,7 +3419,9 @@
     "price": 0.24,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Ensnared"
+    "item_name": "MAC-10 | Ensnared",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1131"
   },
   {
     "id": "skin-1118636",
@@ -3007,7 +3435,9 @@
     "price": 0.04,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Ensnared"
+    "item_name": "MAC-10 | Ensnared",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1131"
   },
   {
     "id": "skin-1118636",
@@ -3021,7 +3451,9 @@
     "price": 0.11,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAC-10 | Ensnared"
+    "item_name": "MAC-10 | Ensnared",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1131"
   },
   {
     "id": "skin-1118636",
@@ -3035,7 +3467,9 @@
     "price": 0.33,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAC-10 | Ensnared"
+    "item_name": "MAC-10 | Ensnared",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1131"
   },
   {
     "id": "skin-1118636",
@@ -3049,7 +3483,9 @@
     "price": 0.11,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAC-10 | Ensnared"
+    "item_name": "MAC-10 | Ensnared",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1131"
   },
   {
     "id": "skin-1118636",
@@ -3063,7 +3499,9 @@
     "price": 0.04,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Ensnared"
+    "item_name": "MAC-10 | Ensnared",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "1131"
   },
   {
     "id": "skin-1117472",
@@ -3077,7 +3515,9 @@
     "price": 0.18,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAC-10 | Whitefish"
+    "item_name": "MAC-10 | Whitefish",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "840"
   },
   {
     "id": "skin-1117472",
@@ -3091,7 +3531,9 @@
     "price": 0.11,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Whitefish"
+    "item_name": "MAC-10 | Whitefish",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "840"
   },
   {
     "id": "skin-1117472",
@@ -3105,7 +3547,9 @@
     "price": 0.62,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAC-10 | Whitefish"
+    "item_name": "MAC-10 | Whitefish",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "840"
   },
   {
     "id": "skin-1117472",
@@ -3119,7 +3563,9 @@
     "price": 0.17,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAC-10 | Whitefish"
+    "item_name": "MAC-10 | Whitefish",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "840"
   },
   {
     "id": "skin-1117472",
@@ -3133,7 +3579,9 @@
     "price": 1.5,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAC-10 | Whitefish"
+    "item_name": "MAC-10 | Whitefish",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "840"
   },
   {
     "id": "skin-1117472",
@@ -3147,7 +3595,9 @@
     "price": 0.59,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Whitefish"
+    "item_name": "MAC-10 | Whitefish",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "840"
   },
   {
     "id": "skin-1117472",
@@ -3161,7 +3611,9 @@
     "price": 0.22,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAC-10 | Whitefish"
+    "item_name": "MAC-10 | Whitefish",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "840"
   },
   {
     "id": "skin-1117472",
@@ -3175,7 +3627,9 @@
     "price": 0.18,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Whitefish"
+    "item_name": "MAC-10 | Whitefish",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "840"
   },
   {
     "id": "skin-1117472",
@@ -3189,7 +3643,9 @@
     "price": 0.07,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Whitefish"
+    "item_name": "MAC-10 | Whitefish",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "840"
   },
   {
     "id": "skin-1117472",
@@ -3203,7 +3659,9 @@
     "price": 0.07,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Whitefish"
+    "item_name": "MAC-10 | Whitefish",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "840"
   },
   {
     "id": "skin-1116104",
@@ -3217,7 +3675,9 @@
     "price": 0.28,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAC-10 | Rangeen"
+    "item_name": "MAC-10 | Rangeen",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "498"
   },
   {
     "id": "skin-1116104",
@@ -3231,7 +3691,9 @@
     "price": 0.43,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Rangeen"
+    "item_name": "MAC-10 | Rangeen",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "498"
   },
   {
     "id": "skin-1116104",
@@ -3245,7 +3707,9 @@
     "price": 1.07,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAC-10 | Rangeen"
+    "item_name": "MAC-10 | Rangeen",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "498"
   },
   {
     "id": "skin-1116104",
@@ -3259,7 +3723,9 @@
     "price": 0.12,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Rangeen"
+    "item_name": "MAC-10 | Rangeen",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "498"
   },
   {
     "id": "skin-1116104",
@@ -3273,7 +3739,9 @@
     "price": 0.13,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Rangeen"
+    "item_name": "MAC-10 | Rangeen",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "498"
   },
   {
     "id": "skin-1116104",
@@ -3287,7 +3755,9 @@
     "price": 0.42,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAC-10 | Rangeen"
+    "item_name": "MAC-10 | Rangeen",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "498"
   },
   {
     "id": "skin-1116104",
@@ -3301,7 +3771,9 @@
     "price": 0.55,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAC-10 | Rangeen"
+    "item_name": "MAC-10 | Rangeen",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "498"
   },
   {
     "id": "skin-1116104",
@@ -3315,7 +3787,9 @@
     "price": 0.2,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Rangeen"
+    "item_name": "MAC-10 | Rangeen",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "498"
   },
   {
     "id": "skin-1116104",
@@ -3329,7 +3803,9 @@
     "price": 0.42,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAC-10 | Rangeen"
+    "item_name": "MAC-10 | Rangeen",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "498"
   },
   {
     "id": "skin-1116104",
@@ -3343,7 +3819,9 @@
     "price": 0.13,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Rangeen"
+    "item_name": "MAC-10 | Rangeen",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "498"
   },
   {
     "id": "skin-1115248",
@@ -3357,7 +3835,9 @@
     "price": 5.47,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAC-10 | Heat"
+    "item_name": "MAC-10 | Heat",
+    "rarity": "Restricted",
+    "paint_index": "284"
   },
   {
     "id": "skin-1115248",
@@ -3371,7 +3851,9 @@
     "price": 2.37,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Heat"
+    "item_name": "MAC-10 | Heat",
+    "rarity": "Restricted",
+    "paint_index": "284"
   },
   {
     "id": "skin-1115248",
@@ -3385,7 +3867,9 @@
     "price": 3.62,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Heat"
+    "item_name": "MAC-10 | Heat",
+    "rarity": "Restricted",
+    "paint_index": "284"
   },
   {
     "id": "skin-1115248",
@@ -3399,7 +3883,9 @@
     "price": 1.73,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Heat"
+    "item_name": "MAC-10 | Heat",
+    "rarity": "Restricted",
+    "paint_index": "284"
   },
   {
     "id": "skin-1115248",
@@ -3413,7 +3899,9 @@
     "price": 1.57,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Heat"
+    "item_name": "MAC-10 | Heat",
+    "rarity": "Restricted",
+    "paint_index": "284"
   },
   {
     "id": "skin-1115248",
@@ -3427,7 +3915,9 @@
     "price": 2.45,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAC-10 | Heat"
+    "item_name": "MAC-10 | Heat",
+    "rarity": "Restricted",
+    "paint_index": "284"
   },
   {
     "id": "skin-1115248",
@@ -3441,7 +3931,9 @@
     "price": 11.49,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAC-10 | Heat"
+    "item_name": "MAC-10 | Heat",
+    "rarity": "Restricted",
+    "paint_index": "284"
   },
   {
     "id": "skin-1115248",
@@ -3455,7 +3947,9 @@
     "price": 2.59,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAC-10 | Heat"
+    "item_name": "MAC-10 | Heat",
+    "rarity": "Restricted",
+    "paint_index": "284"
   },
   {
     "id": "skin-1115248",
@@ -3469,7 +3963,9 @@
     "price": 1.3,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Heat"
+    "item_name": "MAC-10 | Heat",
+    "rarity": "Restricted",
+    "paint_index": "284"
   },
   {
     "id": "skin-1115248",
@@ -3483,7 +3979,9 @@
     "price": 2.19,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAC-10 | Heat"
+    "item_name": "MAC-10 | Heat",
+    "rarity": "Restricted",
+    "paint_index": "284"
   },
   {
     "id": "skin-1114516",
@@ -3497,7 +3995,9 @@
     "price": 1.1,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Tornado"
+    "item_name": "MAC-10 | Tornado",
+    "rarity": "Consumer Grade",
+    "paint_index": "101"
   },
   {
     "id": "skin-1114516",
@@ -3511,7 +4011,9 @@
     "price": 1.94,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Tornado"
+    "item_name": "MAC-10 | Tornado",
+    "rarity": "Consumer Grade",
+    "paint_index": "101"
   },
   {
     "id": "skin-1114516",
@@ -3525,7 +4027,9 @@
     "price": 13.58,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Tornado"
+    "item_name": "MAC-10 | Tornado",
+    "rarity": "Consumer Grade",
+    "paint_index": "101"
   },
   {
     "id": "skin-1114516",
@@ -3539,7 +4043,9 @@
     "price": 31.54,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Tornado"
+    "item_name": "MAC-10 | Tornado",
+    "rarity": "Consumer Grade",
+    "paint_index": "101"
   },
   {
     "id": "skin-1114516",
@@ -3553,7 +4059,9 @@
     "price": 1.58,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Tornado"
+    "item_name": "MAC-10 | Tornado",
+    "rarity": "Consumer Grade",
+    "paint_index": "101"
   },
   {
     "id": "skin-1114264",
@@ -3567,7 +4075,9 @@
     "price": 24.41,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Fade"
+    "item_name": "MAC-10 | Fade",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "38"
   },
   {
     "id": "skin-1114264",
@@ -3581,7 +4091,9 @@
     "price": 34.56,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Fade"
+    "item_name": "MAC-10 | Fade",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "38"
   },
   {
     "id": "skin-1115720",
@@ -3595,7 +4107,9 @@
     "price": 4.21,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAC-10 | Malachite"
+    "item_name": "MAC-10 | Malachite",
+    "rarity": "Restricted",
+    "paint_index": "402"
   },
   {
     "id": "skin-1115720",
@@ -3609,7 +4123,9 @@
     "price": 2.33,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAC-10 | Malachite"
+    "item_name": "MAC-10 | Malachite",
+    "rarity": "Restricted",
+    "paint_index": "402"
   },
   {
     "id": "skin-1115720",
@@ -3623,7 +4139,9 @@
     "price": 1.55,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Malachite"
+    "item_name": "MAC-10 | Malachite",
+    "rarity": "Restricted",
+    "paint_index": "402"
   },
   {
     "id": "skin-1115720",
@@ -3637,7 +4155,9 @@
     "price": 6.98,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAC-10 | Malachite"
+    "item_name": "MAC-10 | Malachite",
+    "rarity": "Restricted",
+    "paint_index": "402"
   },
   {
     "id": "skin-1115720",
@@ -3651,7 +4171,9 @@
     "price": 0.94,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Malachite"
+    "item_name": "MAC-10 | Malachite",
+    "rarity": "Restricted",
+    "paint_index": "402"
   },
   {
     "id": "skin-1115720",
@@ -3665,7 +4187,9 @@
     "price": 2.56,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAC-10 | Malachite"
+    "item_name": "MAC-10 | Malachite",
+    "rarity": "Restricted",
+    "paint_index": "402"
   },
   {
     "id": "skin-1115720",
@@ -3679,7 +4203,9 @@
     "price": 1.1,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Malachite"
+    "item_name": "MAC-10 | Malachite",
+    "rarity": "Restricted",
+    "paint_index": "402"
   },
   {
     "id": "skin-1115720",
@@ -3693,7 +4219,9 @@
     "price": 1.07,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Malachite"
+    "item_name": "MAC-10 | Malachite",
+    "rarity": "Restricted",
+    "paint_index": "402"
   },
   {
     "id": "skin-1115720",
@@ -3707,7 +4235,9 @@
     "price": 2.85,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAC-10 | Malachite"
+    "item_name": "MAC-10 | Malachite",
+    "rarity": "Restricted",
+    "paint_index": "402"
   },
   {
     "id": "skin-1115720",
@@ -3721,7 +4251,9 @@
     "price": 2.79,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Malachite"
+    "item_name": "MAC-10 | Malachite",
+    "rarity": "Restricted",
+    "paint_index": "402"
   },
   {
     "id": "skin-1114740",
@@ -3735,7 +4267,9 @@
     "price": 0.06,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Palm"
+    "item_name": "MAC-10 | Palm",
+    "rarity": "Industrial Grade",
+    "paint_index": "157"
   },
   {
     "id": "skin-1114740",
@@ -3749,7 +4283,9 @@
     "price": 0.05,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Palm"
+    "item_name": "MAC-10 | Palm",
+    "rarity": "Industrial Grade",
+    "paint_index": "157"
   },
   {
     "id": "skin-1114740",
@@ -3763,7 +4299,9 @@
     "price": 0.05,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Palm"
+    "item_name": "MAC-10 | Palm",
+    "rarity": "Industrial Grade",
+    "paint_index": "157"
   },
   {
     "id": "skin-1114740",
@@ -3777,7 +4315,9 @@
     "price": 0.24,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Palm"
+    "item_name": "MAC-10 | Palm",
+    "rarity": "Industrial Grade",
+    "paint_index": "157"
   },
   {
     "id": "skin-1114740",
@@ -3791,7 +4331,9 @@
     "price": 0.11,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Palm"
+    "item_name": "MAC-10 | Palm",
+    "rarity": "Industrial Grade",
+    "paint_index": "157"
   },
   {
     "id": "skin-1115484",
@@ -3805,7 +4347,9 @@
     "price": 11.89,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Commuter"
+    "item_name": "MAC-10 | Commuter",
+    "rarity": "Industrial Grade",
+    "paint_index": "343"
   },
   {
     "id": "skin-1115484",
@@ -3819,7 +4363,9 @@
     "price": 9.46,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Commuter"
+    "item_name": "MAC-10 | Commuter",
+    "rarity": "Industrial Grade",
+    "paint_index": "343"
   },
   {
     "id": "skin-1115484",
@@ -3833,7 +4379,9 @@
     "price": 6.88,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Commuter"
+    "item_name": "MAC-10 | Commuter",
+    "rarity": "Industrial Grade",
+    "paint_index": "343"
   },
   {
     "id": "skin-1115484",
@@ -3847,7 +4395,9 @@
     "price": 5.1,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Commuter"
+    "item_name": "MAC-10 | Commuter",
+    "rarity": "Industrial Grade",
+    "paint_index": "343"
   },
   {
     "id": "skin-1115484",
@@ -3861,7 +4411,9 @@
     "price": 6.29,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Commuter"
+    "item_name": "MAC-10 | Commuter",
+    "rarity": "Industrial Grade",
+    "paint_index": "343"
   },
   {
     "id": "skin-1119088",
@@ -3875,7 +4427,9 @@
     "price": 0.25,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Echoing Sands"
+    "item_name": "MAC-10 | Echoing Sands",
+    "rarity": "Industrial Grade",
+    "paint_index": "1244"
   },
   {
     "id": "skin-1119088",
@@ -3889,7 +4443,9 @@
     "price": 0.51,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Echoing Sands"
+    "item_name": "MAC-10 | Echoing Sands",
+    "rarity": "Industrial Grade",
+    "paint_index": "1244"
   },
   {
     "id": "skin-1119088",
@@ -3903,7 +4459,9 @@
     "price": 0.15,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Echoing Sands"
+    "item_name": "MAC-10 | Echoing Sands",
+    "rarity": "Industrial Grade",
+    "paint_index": "1244"
   },
   {
     "id": "skin-1119088",
@@ -3917,7 +4475,9 @@
     "price": 0.13,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Echoing Sands"
+    "item_name": "MAC-10 | Echoing Sands",
+    "rarity": "Industrial Grade",
+    "paint_index": "1244"
   },
   {
     "id": "skin-1119088",
@@ -3931,7 +4491,9 @@
     "price": 0.13,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Echoing Sands"
+    "item_name": "MAC-10 | Echoing Sands",
+    "rarity": "Industrial Grade",
+    "paint_index": "1244"
   },
   {
     "id": "skin-1114288",
@@ -3945,7 +4507,9 @@
     "price": 65.14,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Case Hardened"
+    "item_name": "MAC-10 | Case Hardened",
+    "rarity": "Restricted",
+    "paint_index": "44"
   },
   {
     "id": "skin-1114288",
@@ -3959,7 +4523,9 @@
     "price": 70.52,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Case Hardened"
+    "item_name": "MAC-10 | Case Hardened",
+    "rarity": "Restricted",
+    "paint_index": "44"
   },
   {
     "id": "skin-1114288",
@@ -3973,7 +4539,9 @@
     "price": 66.92,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Case Hardened"
+    "item_name": "MAC-10 | Case Hardened",
+    "rarity": "Restricted",
+    "paint_index": "44"
   },
   {
     "id": "skin-1114288",
@@ -3987,7 +4555,9 @@
     "price": 61.02,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Case Hardened"
+    "item_name": "MAC-10 | Case Hardened",
+    "rarity": "Restricted",
+    "paint_index": "44"
   },
   {
     "id": "skin-1114288",
@@ -4001,7 +4571,9 @@
     "price": 68.57,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Case Hardened"
+    "item_name": "MAC-10 | Case Hardened",
+    "rarity": "Restricted",
+    "paint_index": "44"
   },
   {
     "id": "skin-1114504",
@@ -4015,7 +4587,9 @@
     "price": 1.32,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Ultraviolet"
+    "item_name": "MAC-10 | Ultraviolet",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "98"
   },
   {
     "id": "skin-1114504",
@@ -4029,7 +4603,9 @@
     "price": 2.52,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Ultraviolet"
+    "item_name": "MAC-10 | Ultraviolet",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "98"
   },
   {
     "id": "skin-1114504",
@@ -4043,7 +4619,9 @@
     "price": 1.26,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAC-10 | Ultraviolet"
+    "item_name": "MAC-10 | Ultraviolet",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "98"
   },
   {
     "id": "skin-1114504",
@@ -4057,7 +4635,9 @@
     "price": 52.11,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAC-10 | Ultraviolet"
+    "item_name": "MAC-10 | Ultraviolet",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "98"
   },
   {
     "id": "skin-1114504",
@@ -4071,7 +4651,9 @@
     "price": 1.1,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAC-10 | Ultraviolet"
+    "item_name": "MAC-10 | Ultraviolet",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "98"
   },
   {
     "id": "skin-1114504",
@@ -4085,7 +4667,9 @@
     "price": 1.18,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAC-10 | Ultraviolet"
+    "item_name": "MAC-10 | Ultraviolet",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "98"
   },
   {
     "id": "skin-1114504",
@@ -4099,7 +4683,9 @@
     "price": 3.43,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAC-10 | Ultraviolet"
+    "item_name": "MAC-10 | Ultraviolet",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "98"
   },
   {
     "id": "skin-1114504",
@@ -4113,7 +4699,9 @@
     "price": 19.13,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Ultraviolet"
+    "item_name": "MAC-10 | Ultraviolet",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "98"
   },
   {
     "id": "skin-1114504",
@@ -4127,7 +4715,9 @@
     "price": 1.44,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Ultraviolet"
+    "item_name": "MAC-10 | Ultraviolet",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "98"
   },
   {
     "id": "skin-1114504",
@@ -4141,7 +4731,9 @@
     "price": 1.32,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Ultraviolet"
+    "item_name": "MAC-10 | Ultraviolet",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "98"
   },
   {
     "id": "skin-1115844",
@@ -4155,7 +4747,9 @@
     "price": 12.26,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAC-10 | Neon Rider"
+    "item_name": "MAC-10 | Neon Rider",
+    "rarity": "Covert",
+    "paint_index": "433"
   },
   {
     "id": "skin-1115844",
@@ -4169,7 +4763,9 @@
     "price": 8.08,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Neon Rider"
+    "item_name": "MAC-10 | Neon Rider",
+    "rarity": "Covert",
+    "paint_index": "433"
   },
   {
     "id": "skin-1115844",
@@ -4183,7 +4779,9 @@
     "price": 4.55,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Neon Rider"
+    "item_name": "MAC-10 | Neon Rider",
+    "rarity": "Covert",
+    "paint_index": "433"
   },
   {
     "id": "skin-1115844",
@@ -4197,7 +4795,9 @@
     "price": 14.08,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAC-10 | Neon Rider"
+    "item_name": "MAC-10 | Neon Rider",
+    "rarity": "Covert",
+    "paint_index": "433"
   },
   {
     "id": "skin-1115844",
@@ -4211,7 +4811,9 @@
     "price": 28.9,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAC-10 | Neon Rider"
+    "item_name": "MAC-10 | Neon Rider",
+    "rarity": "Covert",
+    "paint_index": "433"
   },
   {
     "id": "skin-1115844",
@@ -4225,7 +4827,9 @@
     "price": 5.16,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Neon Rider"
+    "item_name": "MAC-10 | Neon Rider",
+    "rarity": "Covert",
+    "paint_index": "433"
   },
   {
     "id": "skin-1115844",
@@ -4239,7 +4843,9 @@
     "price": 16.86,
     "stattrak": true,
     "souvenir": false,
-    "item_name": "MAC-10 | Neon Rider"
+    "item_name": "MAC-10 | Neon Rider",
+    "rarity": "Covert",
+    "paint_index": "433"
   },
   {
     "id": "skin-1115844",
@@ -4253,7 +4859,9 @@
     "price": 4.66,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Neon Rider"
+    "item_name": "MAC-10 | Neon Rider",
+    "rarity": "Covert",
+    "paint_index": "433"
   },
   {
     "id": "skin-1118380",
@@ -4267,7 +4875,9 @@
     "price": 16.32,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Propaganda"
+    "item_name": "MAC-10 | Propaganda",
+    "rarity": "Classified",
+    "paint_index": "1067"
   },
   {
     "id": "skin-1118380",
@@ -4281,7 +4891,9 @@
     "price": 30.65,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Propaganda"
+    "item_name": "MAC-10 | Propaganda",
+    "rarity": "Classified",
+    "paint_index": "1067"
   },
   {
     "id": "skin-1118380",
@@ -4295,7 +4907,9 @@
     "price": 19.53,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Propaganda"
+    "item_name": "MAC-10 | Propaganda",
+    "rarity": "Classified",
+    "paint_index": "1067"
   },
   {
     "id": "skin-1118380",
@@ -4309,7 +4923,9 @@
     "price": 20.94,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Propaganda"
+    "item_name": "MAC-10 | Propaganda",
+    "rarity": "Classified",
+    "paint_index": "1067"
   },
   {
     "id": "skin-1118380",
@@ -4323,7 +4939,9 @@
     "price": 26.05,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Propaganda"
+    "item_name": "MAC-10 | Propaganda",
+    "rarity": "Classified",
+    "paint_index": "1067"
   },
   {
     "id": "skin-1115096",
@@ -4337,7 +4955,9 @@
     "price": 19.57,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Amber Fade"
+    "item_name": "MAC-10 | Amber Fade",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "246"
   },
   {
     "id": "skin-1115096",
@@ -4351,7 +4971,9 @@
     "price": 9.14,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Amber Fade"
+    "item_name": "MAC-10 | Amber Fade",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "246"
   },
   {
     "id": "skin-1115096",
@@ -4365,7 +4987,9 @@
     "price": 14.4,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Amber Fade"
+    "item_name": "MAC-10 | Amber Fade",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "246"
   },
   {
     "id": "skin-1115096",
@@ -4379,7 +5003,9 @@
     "price": 8.76,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Amber Fade"
+    "item_name": "MAC-10 | Amber Fade",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "246"
   },
   {
     "id": "skin-1115600",
@@ -4393,7 +5019,9 @@
     "price": 3.92,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Nuclear Garden"
+    "item_name": "MAC-10 | Nuclear Garden",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "372"
   },
   {
     "id": "skin-1115600",
@@ -4407,7 +5035,9 @@
     "price": 7.13,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Nuclear Garden"
+    "item_name": "MAC-10 | Nuclear Garden",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "372"
   },
   {
     "id": "skin-1115600",
@@ -4421,7 +5051,9 @@
     "price": 5.58,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Nuclear Garden"
+    "item_name": "MAC-10 | Nuclear Garden",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "372"
   },
   {
     "id": "skin-1115600",
@@ -4435,7 +5067,9 @@
     "price": 4,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Nuclear Garden"
+    "item_name": "MAC-10 | Nuclear Garden",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "372"
   },
   {
     "id": "skin-1115600",
@@ -4449,7 +5083,9 @@
     "price": 3.75,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Nuclear Garden"
+    "item_name": "MAC-10 | Nuclear Garden",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "372"
   },
   {
     "id": "skin-1117156",
@@ -4463,7 +5099,9 @@
     "price": 82.12,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Copper Borre"
+    "item_name": "MAC-10 | Copper Borre",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "761"
   },
   {
     "id": "skin-1117156",
@@ -4477,7 +5115,9 @@
     "price": 77.71,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Copper Borre"
+    "item_name": "MAC-10 | Copper Borre",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "761"
   },
   {
     "id": "skin-1117156",
@@ -4491,7 +5131,9 @@
     "price": 342.83,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Copper Borre"
+    "item_name": "MAC-10 | Copper Borre",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "761"
   },
   {
     "id": "skin-1117156",
@@ -4505,7 +5147,9 @@
     "price": 96.04,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Copper Borre"
+    "item_name": "MAC-10 | Copper Borre",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "761"
   },
   {
     "id": "skin-1117156",
@@ -4519,7 +5163,9 @@
     "price": 84.87,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Copper Borre"
+    "item_name": "MAC-10 | Copper Borre",
+    "rarity": "Mil-Spec Grade",
+    "paint_index": "761"
   },
   {
     "id": "skin-1118212",
@@ -4533,7 +5179,9 @@
     "price": 34.25,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Gold Brick"
+    "item_name": "MAC-10 | Gold Brick",
+    "rarity": "Restricted",
+    "paint_index": "1025"
   },
   {
     "id": "skin-1118212",
@@ -4547,7 +5195,9 @@
     "price": 49.37,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Gold Brick"
+    "item_name": "MAC-10 | Gold Brick",
+    "rarity": "Restricted",
+    "paint_index": "1025"
   },
   {
     "id": "skin-1118212",
@@ -4561,7 +5211,9 @@
     "price": 34.76,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Gold Brick"
+    "item_name": "MAC-10 | Gold Brick",
+    "rarity": "Restricted",
+    "paint_index": "1025"
   },
   {
     "id": "skin-1118212",
@@ -4575,7 +5227,9 @@
     "price": 42.99,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Gold Brick"
+    "item_name": "MAC-10 | Gold Brick",
+    "rarity": "Restricted",
+    "paint_index": "1025"
   },
   {
     "id": "skin-1118212",
@@ -4589,7 +5243,9 @@
     "price": 32.06,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Gold Brick"
+    "item_name": "MAC-10 | Gold Brick",
+    "rarity": "Restricted",
+    "paint_index": "1025"
   },
   {
     "id": "skin-1114240",
@@ -4603,7 +5259,9 @@
     "price": 0.14,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Silver"
+    "item_name": "MAC-10 | Silver",
+    "rarity": "Industrial Grade",
+    "paint_index": "32"
   },
   {
     "id": "skin-1114240",
@@ -4617,6 +5275,8 @@
     "price": 0.15,
     "stattrak": false,
     "souvenir": false,
-    "item_name": "MAC-10 | Silver"
+    "item_name": "MAC-10 | Silver",
+    "rarity": "Industrial Grade",
+    "paint_index": "32"
   }
 ]
