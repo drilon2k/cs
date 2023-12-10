@@ -11,133 +11,615 @@
         "name": "P250 | Drought",
         "rarity": "Consumer Grade",
         "paint_index": "825",
-        "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/efe25483a04a03414dea9c61d4b0e958a373cdfd/public/images/econ/default_generated/weapon_p250_sp_desert_skulls_dawn_light.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/efe25483a04a03414dea9c61d4b0e958a373cdfd/public/images/econ/default_generated/weapon_p250_sp_desert_skulls_dawn_light.png",
+        "wears": [
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_0",
+            "name": "Factory New"
+          },
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_1",
+            "name": "Minimal Wear"
+          },
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_2",
+            "name": "Field-Tested"
+          },
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_3",
+            "name": "Well-Worn"
+          }
+        ],
+        "stattrak": false,
+        "souvenir": true,
+        "min_float": 0,
+        "max_float": 0.44
       },
       {
         "id": "skin-1707252",
         "name": "PP-Bizon | Anolis",
         "rarity": "Consumer Grade",
         "paint_index": "829",
-        "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/efe25483a04a03414dea9c61d4b0e958a373cdfd/public/images/econ/default_generated/weapon_bizon_hy_lizard_skin_light.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/efe25483a04a03414dea9c61d4b0e958a373cdfd/public/images/econ/default_generated/weapon_bizon_hy_lizard_skin_light.png",
+        "wears": [
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_0",
+            "name": "Factory New"
+          },
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_1",
+            "name": "Minimal Wear"
+          },
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_2",
+            "name": "Field-Tested"
+          },
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_3",
+            "name": "Well-Worn"
+          },
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_4",
+            "name": "Battle-Scarred"
+          }
+        ],
+        "stattrak": false,
+        "souvenir": true,
+        "min_float": 0,
+        "max_float": 0.5
       },
       {
         "id": "skin-1772760",
         "name": "MAG-7 | Navy Sheen",
         "rarity": "Consumer Grade",
         "paint_index": "822",
-        "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/efe25483a04a03414dea9c61d4b0e958a373cdfd/public/images/econ/default_generated/weapon_mag7_am_navy_shine_light.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/efe25483a04a03414dea9c61d4b0e958a373cdfd/public/images/econ/default_generated/weapon_mag7_am_navy_shine_light.png",
+        "wears": [
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_0",
+            "name": "Factory New"
+          },
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_1",
+            "name": "Minimal Wear"
+          },
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_2",
+            "name": "Field-Tested"
+          },
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_3",
+            "name": "Well-Worn"
+          },
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_4",
+            "name": "Battle-Scarred"
+          }
+        ],
+        "stattrak": false,
+        "souvenir": true,
+        "min_float": 0,
+        "max_float": 0.55
       },
       {
         "id": "skin-1117416",
         "name": "MAC-10 | Sienna Damask",
         "rarity": "Consumer Grade",
         "paint_index": "826",
-        "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/efe25483a04a03414dea9c61d4b0e958a373cdfd/public/images/econ/default_generated/weapon_mac10_sp_mirage_flowers_tan_light.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/efe25483a04a03414dea9c61d4b0e958a373cdfd/public/images/econ/default_generated/weapon_mac10_sp_mirage_flowers_tan_light.png",
+        "wears": [
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_0",
+            "name": "Factory New"
+          },
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_1",
+            "name": "Minimal Wear"
+          },
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_2",
+            "name": "Field-Tested"
+          },
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_3",
+            "name": "Well-Worn"
+          },
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_4",
+            "name": "Battle-Scarred"
+          }
+        ],
+        "stattrak": false,
+        "souvenir": true,
+        "min_float": 0,
+        "max_float": 0.6
       },
       {
         "id": "skin-2625180",
         "name": "SSG 08 | Prey",
         "rarity": "Consumer Grade",
         "paint_index": "935",
-        "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/efe25483a04a03414dea9c61d4b0e958a373cdfd/public/images/econ/default_generated/weapon_ssg08_sp_zebracam_red_light.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/efe25483a04a03414dea9c61d4b0e958a373cdfd/public/images/econ/default_generated/weapon_ssg08_sp_zebracam_red_light.png",
+        "wears": [
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_0",
+            "name": "Factory New"
+          },
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_1",
+            "name": "Minimal Wear"
+          },
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_2",
+            "name": "Field-Tested"
+          },
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_3",
+            "name": "Well-Worn"
+          },
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_4",
+            "name": "Battle-Scarred"
+          }
+        ],
+        "stattrak": false,
+        "souvenir": true,
+        "min_float": 0,
+        "max_float": 0.48
       },
       {
         "id": "skin-134368",
         "name": "Dual Berettas | Drift Wood",
         "rarity": "Industrial Grade",
         "paint_index": "824",
-        "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/efe25483a04a03414dea9c61d4b0e958a373cdfd/public/images/econ/default_generated/weapon_elite_sp_dry_wood_light.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/efe25483a04a03414dea9c61d4b0e958a373cdfd/public/images/econ/default_generated/weapon_elite_sp_dry_wood_light.png",
+        "wears": [
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_0",
+            "name": "Factory New"
+          },
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_1",
+            "name": "Minimal Wear"
+          },
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_2",
+            "name": "Field-Tested"
+          },
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_3",
+            "name": "Well-Worn"
+          },
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_4",
+            "name": "Battle-Scarred"
+          }
+        ],
+        "stattrak": false,
+        "souvenir": true,
+        "min_float": 0,
+        "max_float": 0.6
       },
       {
         "id": "skin-656320",
         "name": "FAMAS | CaliCamo",
         "rarity": "Industrial Grade",
         "paint_index": "240",
-        "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/efe25483a04a03414dea9c61d4b0e958a373cdfd/public/images/econ/default_generated/weapon_famas_hy_varicamo_desert_light.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/efe25483a04a03414dea9c61d4b0e958a373cdfd/public/images/econ/default_generated/weapon_famas_hy_varicamo_desert_light.png",
+        "wears": [
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_0",
+            "name": "Factory New"
+          },
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_1",
+            "name": "Minimal Wear"
+          },
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_2",
+            "name": "Field-Tested"
+          },
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_3",
+            "name": "Well-Worn"
+          },
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_4",
+            "name": "Battle-Scarred"
+          }
+        ],
+        "stattrak": false,
+        "souvenir": true,
+        "min_float": 0,
+        "max_float": 0.6
       },
       {
         "id": "skin-4132500",
         "name": "CZ75-Auto | Midnight Palm",
         "rarity": "Industrial Grade",
         "paint_index": "933",
-        "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/efe25483a04a03414dea9c61d4b0e958a373cdfd/public/images/econ/default_generated/weapon_cz75a_sp_palm_night_light.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/efe25483a04a03414dea9c61d4b0e958a373cdfd/public/images/econ/default_generated/weapon_cz75a_sp_palm_night_light.png",
+        "wears": [
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_0",
+            "name": "Factory New"
+          },
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_1",
+            "name": "Minimal Wear"
+          },
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_2",
+            "name": "Field-Tested"
+          },
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_3",
+            "name": "Well-Worn"
+          },
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_4",
+            "name": "Battle-Scarred"
+          }
+        ],
+        "stattrak": false,
+        "souvenir": true,
+        "min_float": 0,
+        "max_float": 0.5
       },
       {
         "id": "skin-1248496",
         "name": "P90 | Verdant Growth",
         "rarity": "Industrial Grade",
         "paint_index": "828",
-        "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/efe25483a04a03414dea9c61d4b0e958a373cdfd/public/images/econ/default_generated/weapon_p90_sp_moro_textile_green_vine_light.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/efe25483a04a03414dea9c61d4b0e958a373cdfd/public/images/econ/default_generated/weapon_p90_sp_moro_textile_green_vine_light.png",
+        "wears": [
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_0",
+            "name": "Factory New"
+          },
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_1",
+            "name": "Minimal Wear"
+          },
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_2",
+            "name": "Field-Tested"
+          },
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_3",
+            "name": "Well-Worn"
+          },
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_4",
+            "name": "Battle-Scarred"
+          }
+        ],
+        "stattrak": false,
+        "souvenir": true,
+        "min_float": 0,
+        "max_float": 0.47
       },
       {
         "id": "skin-4000968",
         "name": "USP-S | Purple DDPAT",
         "rarity": "Mil-Spec Grade",
         "paint_index": "818",
-        "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/efe25483a04a03414dea9c61d4b0e958a373cdfd/public/images/econ/default_generated/weapon_usp_silencer_am_ddpat_purple_light.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/efe25483a04a03414dea9c61d4b0e958a373cdfd/public/images/econ/default_generated/weapon_usp_silencer_am_ddpat_purple_light.png",
+        "wears": [
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_0",
+            "name": "Factory New"
+          },
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_1",
+            "name": "Minimal Wear"
+          },
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_2",
+            "name": "Field-Tested"
+          },
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_3",
+            "name": "Well-Worn"
+          },
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_4",
+            "name": "Battle-Scarred"
+          }
+        ],
+        "stattrak": false,
+        "souvenir": true,
+        "min_float": 0,
+        "max_float": 0.55
       },
       {
         "id": "skin-2231504",
         "name": "MP9 | Music Box",
         "rarity": "Mil-Spec Grade",
         "paint_index": "820",
-        "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/efe25483a04a03414dea9c61d4b0e958a373cdfd/public/images/econ/default_generated/weapon_mp9_am_mirage_flowers_metalic_light.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/efe25483a04a03414dea9c61d4b0e958a373cdfd/public/images/econ/default_generated/weapon_mp9_am_mirage_flowers_metalic_light.png",
+        "wears": [
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_0",
+            "name": "Factory New"
+          },
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_1",
+            "name": "Minimal Wear"
+          },
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_2",
+            "name": "Field-Tested"
+          },
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_3",
+            "name": "Well-Worn"
+          },
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_4",
+            "name": "Battle-Scarred"
+          }
+        ],
+        "stattrak": false,
+        "souvenir": true,
+        "min_float": 0,
+        "max_float": 0.55
       },
       {
         "id": "skin-920812",
         "name": "M249 | Humidor",
         "rarity": "Mil-Spec Grade",
         "paint_index": "827",
-        "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/efe25483a04a03414dea9c61d4b0e958a373cdfd/public/images/econ/default_generated/weapon_m249_sp_moro_carving_burnt_light.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/efe25483a04a03414dea9c61d4b0e958a373cdfd/public/images/econ/default_generated/weapon_m249_sp_moro_carving_burnt_light.png",
+        "wears": [
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_0",
+            "name": "Factory New"
+          },
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_1",
+            "name": "Minimal Wear"
+          },
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_2",
+            "name": "Field-Tested"
+          },
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_3",
+            "name": "Well-Worn"
+          },
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_4",
+            "name": "Battle-Scarred"
+          }
+        ],
+        "stattrak": false,
+        "souvenir": true,
+        "min_float": 0,
+        "max_float": 0.5
       },
       {
         "id": "skin-2558964",
         "name": "SG 553 | Desert Blossom",
         "rarity": "Mil-Spec Grade",
         "paint_index": "765",
-        "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/efe25483a04a03414dea9c61d4b0e958a373cdfd/public/images/econ/default_generated/weapon_sg556_aa_desert_bloom_bright_light.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/efe25483a04a03414dea9c61d4b0e958a373cdfd/public/images/econ/default_generated/weapon_sg556_aa_desert_bloom_bright_light.png",
+        "wears": [
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_0",
+            "name": "Factory New"
+          },
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_1",
+            "name": "Minimal Wear"
+          },
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_2",
+            "name": "Field-Tested"
+          },
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_3",
+            "name": "Well-Worn"
+          },
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_4",
+            "name": "Battle-Scarred"
+          }
+        ],
+        "stattrak": false,
+        "souvenir": true,
+        "min_float": 0,
+        "max_float": 0.49
       },
       {
         "id": "skin-1641684",
         "name": "XM1014 | Elegant Vines",
         "rarity": "Restricted",
         "paint_index": "821",
-        "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/efe25483a04a03414dea9c61d4b0e958a373cdfd/public/images/econ/default_generated/weapon_xm1014_am_moro_textile_bright_light.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/efe25483a04a03414dea9c61d4b0e958a373cdfd/public/images/econ/default_generated/weapon_xm1014_am_moro_textile_bright_light.png",
+        "wears": [
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_0",
+            "name": "Factory New"
+          },
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_1",
+            "name": "Minimal Wear"
+          },
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_2",
+            "name": "Field-Tested"
+          }
+        ],
+        "stattrak": false,
+        "souvenir": true,
+        "min_float": 0,
+        "max_float": 0.37
       },
       {
         "id": "skin-262480",
         "name": "Glock-18 | Pink DDPAT",
         "rarity": "Restricted",
         "paint_index": "84",
-        "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/efe25483a04a03414dea9c61d4b0e958a373cdfd/public/images/econ/default_generated/weapon_glock_hy_ddpat_pink_light.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/efe25483a04a03414dea9c61d4b0e958a373cdfd/public/images/econ/default_generated/weapon_glock_hy_ddpat_pink_light.png",
+        "wears": [
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_0",
+            "name": "Factory New"
+          },
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_1",
+            "name": "Minimal Wear"
+          },
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_2",
+            "name": "Field-Tested"
+          },
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_3",
+            "name": "Well-Worn"
+          },
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_4",
+            "name": "Battle-Scarred"
+          }
+        ],
+        "stattrak": false,
+        "souvenir": true,
+        "min_float": 0.06,
+        "max_float": 0.8
       },
       {
         "id": "skin-527580",
         "name": "AUG | Sand Storm",
         "rarity": "Restricted",
         "paint_index": "823",
-        "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/efe25483a04a03414dea9c61d4b0e958a373cdfd/public/images/econ/default_generated/weapon_aug_gs_aug_sand_storm_light.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/efe25483a04a03414dea9c61d4b0e958a373cdfd/public/images/econ/default_generated/weapon_aug_gs_aug_sand_storm_light.png",
+        "wears": [
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_0",
+            "name": "Factory New"
+          },
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_1",
+            "name": "Minimal Wear"
+          },
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_2",
+            "name": "Field-Tested"
+          },
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_3",
+            "name": "Well-Worn"
+          },
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_4",
+            "name": "Battle-Scarred"
+          }
+        ],
+        "stattrak": false,
+        "souvenir": true,
+        "min_float": 0,
+        "max_float": 0.5
       },
       {
         "id": "skin-1511020",
         "name": "MP5-SD | Oxide Oasis",
         "rarity": "Classified",
         "paint_index": "923",
-        "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/efe25483a04a03414dea9c61d4b0e958a373cdfd/public/images/econ/default_generated/weapon_mp5sd_gs_mp5_neon_flektarn_light.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/efe25483a04a03414dea9c61d4b0e958a373cdfd/public/images/econ/default_generated/weapon_mp5sd_gs_mp5_neon_flektarn_light.png",
+        "wears": [
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_0",
+            "name": "Factory New"
+          },
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_1",
+            "name": "Minimal Wear"
+          },
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_2",
+            "name": "Field-Tested"
+          },
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_3",
+            "name": "Well-Worn"
+          },
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_4",
+            "name": "Battle-Scarred"
+          }
+        ],
+        "stattrak": false,
+        "souvenir": true,
+        "min_float": 0,
+        "max_float": 0.55
       },
       {
         "id": "skin-68592",
         "name": "Desert Eagle | Fennec Fox",
         "rarity": "Classified",
         "paint_index": "764",
-        "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/efe25483a04a03414dea9c61d4b0e958a373cdfd/public/images/econ/default_generated/weapon_deagle_gs_deagle_fennec_light.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/efe25483a04a03414dea9c61d4b0e958a373cdfd/public/images/econ/default_generated/weapon_deagle_gs_deagle_fennec_light.png",
+        "wears": [
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_0",
+            "name": "Factory New"
+          },
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_1",
+            "name": "Minimal Wear"
+          },
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_2",
+            "name": "Field-Tested"
+          },
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_3",
+            "name": "Well-Worn"
+          },
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_4",
+            "name": "Battle-Scarred"
+          }
+        ],
+        "stattrak": false,
+        "souvenir": true,
+        "min_float": 0,
+        "max_float": 0.8
       },
       {
         "id": "skin-593100",
         "name": "AWP | Desert Hydra",
         "rarity": "Covert",
         "paint_index": "819",
-        "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/efe25483a04a03414dea9c61d4b0e958a373cdfd/public/images/econ/default_generated/weapon_awp_gs_awp_hydra_light.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/efe25483a04a03414dea9c61d4b0e958a373cdfd/public/images/econ/default_generated/weapon_awp_gs_awp_hydra_light.png",
+        "wears": [
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_0",
+            "name": "Factory New"
+          },
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_1",
+            "name": "Minimal Wear"
+          },
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_2",
+            "name": "Field-Tested"
+          },
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_3",
+            "name": "Well-Worn"
+          },
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_4",
+            "name": "Battle-Scarred"
+          }
+        ],
+        "stattrak": false,
+        "souvenir": true,
+        "min_float": 0,
+        "max_float": 0.6
       }
     ],
     "contains_rare": [],

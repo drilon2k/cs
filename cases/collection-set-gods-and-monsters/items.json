@@ -8,98 +8,418 @@
         "name": "MP7 | Asterion",
         "rarity": "Consumer Grade",
         "paint_index": "442",
-        "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/efe25483a04a03414dea9c61d4b0e958a373cdfd/public/images/econ/default_generated/weapon_mp7_sp_labyrinth_light.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/efe25483a04a03414dea9c61d4b0e958a373cdfd/public/images/econ/default_generated/weapon_mp7_sp_labyrinth_light.png",
+        "wears": [
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_0",
+            "name": "Factory New"
+          },
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_1",
+            "name": "Minimal Wear"
+          },
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_2",
+            "name": "Field-Tested"
+          },
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_3",
+            "name": "Well-Worn"
+          },
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_4",
+            "name": "Battle-Scarred"
+          }
+        ],
+        "stattrak": false,
+        "souvenir": false,
+        "min_float": 0,
+        "max_float": 0.55
       },
       {
         "id": "skin-526064",
         "name": "AUG | Daedalus",
         "rarity": "Consumer Grade",
         "paint_index": "444",
-        "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/efe25483a04a03414dea9c61d4b0e958a373cdfd/public/images/econ/default_generated/weapon_aug_sp_labyrinth3_light.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/efe25483a04a03414dea9c61d4b0e958a373cdfd/public/images/econ/default_generated/weapon_aug_sp_labyrinth3_light.png",
+        "wears": [
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_0",
+            "name": "Factory New"
+          },
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_1",
+            "name": "Minimal Wear"
+          },
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_2",
+            "name": "Field-Tested"
+          },
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_3",
+            "name": "Well-Worn"
+          },
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_4",
+            "name": "Battle-Scarred"
+          }
+        ],
+        "stattrak": false,
+        "souvenir": false,
+        "min_float": 0,
+        "max_float": 0.55
       },
       {
         "id": "skin-132872",
         "name": "Dual Berettas | Moon in Libra",
         "rarity": "Consumer Grade",
         "paint_index": "450",
-        "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/efe25483a04a03414dea9c61d4b0e958a373cdfd/public/images/econ/default_generated/weapon_elite_hy_zodiac1_light.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/efe25483a04a03414dea9c61d4b0e958a373cdfd/public/images/econ/default_generated/weapon_elite_hy_zodiac1_light.png",
+        "wears": [
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_0",
+            "name": "Factory New"
+          },
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_1",
+            "name": "Minimal Wear"
+          },
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_2",
+            "name": "Field-Tested"
+          },
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_3",
+            "name": "Well-Worn"
+          },
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_4",
+            "name": "Battle-Scarred"
+          }
+        ],
+        "stattrak": false,
+        "souvenir": false,
+        "min_float": 0,
+        "max_float": 0.5
       },
       {
         "id": "skin-2295560",
         "name": "Nova | Moon in Libra",
         "rarity": "Consumer Grade",
         "paint_index": "450",
-        "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/efe25483a04a03414dea9c61d4b0e958a373cdfd/public/images/econ/default_generated/weapon_nova_hy_zodiac1_light.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/efe25483a04a03414dea9c61d4b0e958a373cdfd/public/images/econ/default_generated/weapon_nova_hy_zodiac1_light.png",
+        "wears": [
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_0",
+            "name": "Factory New"
+          },
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_1",
+            "name": "Minimal Wear"
+          },
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_2",
+            "name": "Field-Tested"
+          },
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_3",
+            "name": "Well-Worn"
+          },
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_4",
+            "name": "Battle-Scarred"
+          }
+        ],
+        "stattrak": false,
+        "souvenir": false,
+        "min_float": 0,
+        "max_float": 0.5
       },
       {
         "id": "skin-1967836",
         "name": "Tec-9 | Hades",
         "rarity": "Industrial Grade",
         "paint_index": "439",
-        "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/efe25483a04a03414dea9c61d4b0e958a373cdfd/public/images/econ/default_generated/weapon_tec9_hy_hades_light.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/efe25483a04a03414dea9c61d4b0e958a373cdfd/public/images/econ/default_generated/weapon_tec9_hy_hades_light.png",
+        "wears": [
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_0",
+            "name": "Factory New"
+          },
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_1",
+            "name": "Minimal Wear"
+          },
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_2",
+            "name": "Field-Tested"
+          },
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_3",
+            "name": "Well-Worn"
+          },
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_4",
+            "name": "Battle-Scarred"
+          }
+        ],
+        "stattrak": false,
+        "souvenir": false,
+        "min_float": 0,
+        "max_float": 1
       },
       {
         "id": "skin-2098924",
         "name": "P2000 | Pathfinder",
         "rarity": "Industrial Grade",
         "paint_index": "443",
-        "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/efe25483a04a03414dea9c61d4b0e958a373cdfd/public/images/econ/default_generated/weapon_hkp2000_sp_labyrinth2_light.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/efe25483a04a03414dea9c61d4b0e958a373cdfd/public/images/econ/default_generated/weapon_hkp2000_sp_labyrinth2_light.png",
+        "wears": [
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_0",
+            "name": "Factory New"
+          },
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_1",
+            "name": "Minimal Wear"
+          },
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_2",
+            "name": "Field-Tested"
+          }
+        ],
+        "stattrak": false,
+        "souvenir": false,
+        "min_float": 0,
+        "max_float": 0.35
       },
       {
         "id": "skin-591628",
         "name": "AWP | Sun in Leo",
         "rarity": "Industrial Grade",
         "paint_index": "451",
-        "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/efe25483a04a03414dea9c61d4b0e958a373cdfd/public/images/econ/default_generated/weapon_awp_hy_zodiac2_light.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/efe25483a04a03414dea9c61d4b0e958a373cdfd/public/images/econ/default_generated/weapon_awp_hy_zodiac2_light.png",
+        "wears": [
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_0",
+            "name": "Factory New"
+          },
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_1",
+            "name": "Minimal Wear"
+          },
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_2",
+            "name": "Field-Tested"
+          },
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_3",
+            "name": "Well-Worn"
+          },
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_4",
+            "name": "Battle-Scarred"
+          }
+        ],
+        "stattrak": false,
+        "souvenir": false,
+        "min_float": 0,
+        "max_float": 0.5
       },
       {
         "id": "skin-919312",
         "name": "M249 | Shipping Forecast",
         "rarity": "Industrial Grade",
         "paint_index": "452",
-        "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/efe25483a04a03414dea9c61d4b0e958a373cdfd/public/images/econ/default_generated/weapon_m249_hy_zodiac3_light.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/efe25483a04a03414dea9c61d4b0e958a373cdfd/public/images/econ/default_generated/weapon_m249_hy_zodiac3_light.png",
+        "wears": [
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_0",
+            "name": "Factory New"
+          },
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_1",
+            "name": "Minimal Wear"
+          },
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_2",
+            "name": "Field-Tested"
+          },
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_3",
+            "name": "Well-Worn"
+          },
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_4",
+            "name": "Battle-Scarred"
+          }
+        ],
+        "stattrak": false,
+        "souvenir": false,
+        "min_float": 0,
+        "max_float": 0.5
       },
       {
         "id": "skin-1574628",
         "name": "UMP-45 | Minotaur's Labyrinth",
         "rarity": "Mil-Spec Grade",
         "paint_index": "441",
-        "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/efe25483a04a03414dea9c61d4b0e958a373cdfd/public/images/econ/default_generated/weapon_ump45_cu_labyrinth_light.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/efe25483a04a03414dea9c61d4b0e958a373cdfd/public/images/econ/default_generated/weapon_ump45_cu_labyrinth_light.png",
+        "wears": [
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_0",
+            "name": "Factory New"
+          },
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_1",
+            "name": "Minimal Wear"
+          },
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_2",
+            "name": "Field-Tested"
+          },
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_3",
+            "name": "Well-Worn"
+          }
+        ],
+        "stattrak": false,
+        "souvenir": false,
+        "min_float": 0,
+        "max_float": 0.39
       },
       {
         "id": "skin-2230016",
         "name": "MP9 | Pandora's Box",
         "rarity": "Mil-Spec Grade",
         "paint_index": "448",
-        "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/efe25483a04a03414dea9c61d4b0e958a373cdfd/public/images/econ/default_generated/weapon_mp9_aa_pandora_light.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/efe25483a04a03414dea9c61d4b0e958a373cdfd/public/images/econ/default_generated/weapon_mp9_aa_pandora_light.png",
+        "wears": [
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_0",
+            "name": "Factory New"
+          },
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_1",
+            "name": "Minimal Wear"
+          },
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_2",
+            "name": "Field-Tested"
+          }
+        ],
+        "stattrak": false,
+        "souvenir": false,
+        "min_float": 0,
+        "max_float": 0.3
       },
       {
         "id": "skin-722648",
         "name": "G3SG1 | Chronos",
         "rarity": "Restricted",
         "paint_index": "438",
-        "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/efe25483a04a03414dea9c61d4b0e958a373cdfd/public/images/econ/default_generated/weapon_g3sg1_cu_chronos_g3sg1_light.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/efe25483a04a03414dea9c61d4b0e958a373cdfd/public/images/econ/default_generated/weapon_g3sg1_cu_chronos_g3sg1_light.png",
+        "wears": [
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_0",
+            "name": "Factory New"
+          },
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_1",
+            "name": "Minimal Wear"
+          },
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_2",
+            "name": "Field-Tested"
+          },
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_3",
+            "name": "Well-Worn"
+          }
+        ],
+        "stattrak": false,
+        "souvenir": false,
+        "min_float": 0,
+        "max_float": 0.4
       },
       {
         "id": "skin-3933920",
         "name": "M4A1-S | Icarus Fell",
         "rarity": "Restricted",
         "paint_index": "440",
-        "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/efe25483a04a03414dea9c61d4b0e958a373cdfd/public/images/econ/default_generated/weapon_m4a1_silencer_hy_icarus_light.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/efe25483a04a03414dea9c61d4b0e958a373cdfd/public/images/econ/default_generated/weapon_m4a1_silencer_hy_icarus_light.png",
+        "wears": [
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_0",
+            "name": "Factory New"
+          },
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_1",
+            "name": "Minimal Wear"
+          }
+        ],
+        "stattrak": false,
+        "souvenir": false,
+        "min_float": 0,
+        "max_float": 0.1
       },
       {
         "id": "skin-1050372",
         "name": "M4A4 | Poseidon",
         "rarity": "Classified",
         "paint_index": "449",
-        "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/efe25483a04a03414dea9c61d4b0e958a373cdfd/public/images/econ/default_generated/weapon_m4a1_cu_poseidon_light.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/efe25483a04a03414dea9c61d4b0e958a373cdfd/public/images/econ/default_generated/weapon_m4a1_cu_poseidon_light.png",
+        "wears": [
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_0",
+            "name": "Factory New"
+          },
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_1",
+            "name": "Minimal Wear"
+          },
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_2",
+            "name": "Field-Tested"
+          }
+        ],
+        "stattrak": false,
+        "souvenir": false,
+        "min_float": 0,
+        "max_float": 0.33
       },
       {
         "id": "skin-591608",
         "name": "AWP | Medusa",
         "rarity": "Covert",
         "paint_index": "446",
-        "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/efe25483a04a03414dea9c61d4b0e958a373cdfd/public/images/econ/default_generated/weapon_awp_cu_medusa_awp_light.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/efe25483a04a03414dea9c61d4b0e958a373cdfd/public/images/econ/default_generated/weapon_awp_cu_medusa_awp_light.png",
+        "wears": [
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_0",
+            "name": "Factory New"
+          },
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_1",
+            "name": "Minimal Wear"
+          },
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_2",
+            "name": "Field-Tested"
+          },
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_3",
+            "name": "Well-Worn"
+          },
+          {
+            "id": "SFUI_InvTooltip_Wear_Amount_4",
+            "name": "Battle-Scarred"
+          }
+        ],
+        "stattrak": false,
+        "souvenir": false,
+        "min_float": 0,
+        "max_float": 1
       }
     ],
     "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_gods_and_monsters.png"
