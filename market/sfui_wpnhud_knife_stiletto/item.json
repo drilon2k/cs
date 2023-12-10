@@ -1,0 +1,34 @@
+[
+  {
+    "id": "skin-vanilla-weapon_knife_stiletto",
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapons/base_weapons/weapon_knife_stiletto.1aefe4ca0e433fc8c3f924ba362283e0666b5f8d.png",
+    "case_id": "crate-4482",
+    "weapon_id": "sfui_wpnhud_knife_stiletto",
+    "min_wear": null,
+    "max_wear": null,
+    "wear": null,
+    "name": "★ Stiletto Knife",
+    "price": 313,
+    "stattrak": false,
+    "souvenir": false,
+    "item_name": "★ Stiletto Knife",
+    "rarity": "Covert",
+    "paint_index": null
+  },
+  {
+    "id": "skin-vanilla-weapon_knife_stiletto",
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapons/base_weapons/weapon_knife_stiletto.1aefe4ca0e433fc8c3f924ba362283e0666b5f8d.png",
+    "case_id": "crate-4482",
+    "weapon_id": "sfui_wpnhud_knife_stiletto",
+    "min_wear": null,
+    "max_wear": null,
+    "wear": null,
+    "name": "★ StatTrak™ Stiletto Knife",
+    "price": 289.48,
+    "stattrak": true,
+    "souvenir": false,
+    "item_name": "★ Stiletto Knife",
+    "rarity": "Covert",
+    "paint_index": null
+  }
+]
